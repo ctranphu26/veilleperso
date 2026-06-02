@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gestion — La Veille · Barbaria</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <div class="masthead-top">
+        <span>Console de rédaction</span>
+        <span><a href="index.html" style="color:var(--accent);text-decoration:none;">‹ Retour à la veille</a></span>
+      </div>
+      <h1 class="masthead-title">Gestion<span class="amp"> ·</span></h1>
+      <div class="masthead-sub">
+        <span>Sources, thématiques & hiérarchisation</span>
+      </div>
+    </header>
+
+    <nav class="nav-tabs" id="tabs">
+      <a href="#connexion" class="active" data-tab="connexion">Connexion</a>
+      <a href="#sources" data-tab="sources">Sources</a>
+      <a href="#themes" data-tab="themes">Thématiques</a>
+      <a href="#trouver" data-tab="trouver">Trouver des sources</a>
+    </nav>
+
+    <div class="admin-grid">
+
+      <!-- CONNEXION -->
+      <section class="panel" id="panel-connexion">
+        <div class="panel-head">
+          <h2>Connexion au dépôt</h2>
+          <span class="hint">Nécessaire pour enregistrer les réglages</span>
+        </div>
+        <div class="panel-body">
+          <div id="conn-status" class="status muted">Non connecté.</div>
+          <p style="font-size:13px;color:var(--ink-soft);margin-bottom:16px;line-height:1.6">
+            Tes réglages sont enregistrés directement dans le dépôt GitHub du site, via un
+            <strong>jeton d'accès personnel</strong>. Le jeton reste <strong>uniquement dans ce navigateur</strong>
+            (il n'est ni partagé, ni publié). Crée un jeton « fine-grained » avec la permission
+            <em>Contents : Read and write</em> sur ce seul dépôt.
+            <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener" style="color:var(--accent)">Créer un jeton ›</a>
+          </p>
+          <div class="row">
+            <div class="field">
+              <label>Propriétaire (owner)</label>
+              <input id="gh-owner" placeholder="ex. barbaria-collectif" />
+            </div>
+            <div class="field">
+              <label>Dépôt (repo)</label>
+              <input id="gh-repo" placeholder="ex. veille" />
+            </div>
+          </div>
+          <div class="row">
+            <div class="field">
+              <label>Branche</label>
+              <input id="gh-branch" placeholder="main" value="main" />
+            </div>
+            <div class="field">
+              <label>Jeton d'accès personnel</label>
+              <input id="gh-token" type="password" placeholder="github_pat_…" />
+            </div>
+          </div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap">
+            <button class="btn" id="btn-connect">Connecter & vérifier</button>
+            <button class="btn ghost" id="btn-disconnect">Déconnecter</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- SOURCES -->
+      <section class="panel" id="panel-sources" hidden>
+        <div class="panel-head">
+          <h2>Sources d'information</h2>
+          <button class="btn sm" id="btn-add-source">+ Ajouter une source</button>
+        </div>
+        <div class="panel-body">
+          <div id="sources-status" class="status muted">Chargement…</div>
+          <div class="list" id="sources-list"></div>
+        </div>
+      </section>
+
+      <!-- THEMES -->
+      <section class="panel" id="panel-themes" hidden>
+        <div class="panel-head">
+          <h2>Thématiques</h2>
+          <button class="btn sm" id="btn-add-theme">+ Ajouter une thématique</button>
+        </div>
+        <div class="panel-body">
+          <div id="themes-status" class="status muted">Chargement…</div>
+          <div class="list" id="themes-list"></div>
+        </div>
+      </section>
+
+      <!-- TROUVER -->
+      <section class="panel" id="panel-trouver" hidden>
+        <div class="panel-head">
+          <h2>Trouver des sources</h2>
+          <span class="hint">Détecte les flux RSS d'un site</span>
+        </div>
+        <div class="panel-body">
+          <div class="field">
+            <label>Adresse d'un site</label>
+            <input id="discover-url" placeholder="https://www.exemple.be" />
+            <span class="help">On teste les emplacements RSS habituels (/feed, /rss, /atom.xml…). La détection passe par un relais public et reste indicative : la vérification qui fait foi est le prochain passage du robot.</span>
+          </div>
+          <button class="btn" id="btn-discover">Chercher des flux</button>
+          <div id="discover-status" class="status muted" style="margin-top:16px" hidden></div>
+          <div class="list" id="discover-list"></div>
+        </div>
+      </section>
+
+    </div>
+
+    <footer class="footer">
+      <span>Barbaria — Console de veille</span>
+      <span><a href="index.html">Voir la veille publiée</a></span>
+    </footer>
+  </div>
+
+  <!-- Modale source -->
+  <div class="modal-backdrop" id="modal-source">
+    <div class="modal">
+      <div class="panel-head">
+        <h2 id="modal-source-title">Source</h2>
+        <button class="btn ghost sm" data-close>✕</button>
+      </div>
+      <div class="panel-body">
+        <input type="hidden" id="src-id" />
+        <div class="field">
+          <label>Nom de la source</label>
+          <input id="src-name" placeholder="ex. Le Café pédagogique" />
+        </div>
+        <div class="field">
+          <label>URL du flux RSS / Atom</label>
+          <input id="src-url" placeholder="https://…/feed" />
+          <span class="help"><button class="btn ghost sm" id="btn-test-feed" type="button" style="margin-top:6px">Tester le flux</button> <span id="test-feed-result"></span></span>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label>Thème par défaut</label>
+            <select id="src-theme"></select>
+          </div>
+          <div class="field">
+            <label>Activée</label>
+            <select id="src-enabled"><option value="true">Oui</option><option value="false">Non</option></select>
+          </div>
+        </div>
+        <div class="field">
+          <label>Poids / fiabilité (pertinence) — <span id="src-weight-val">1.0</span></label>
+          <div class="weight-slider">
+            <span style="font-family:var(--mono);font-size:11px">0.1</span>
+            <input type="range" id="src-weight" min="0.1" max="2" step="0.1" value="1" />
+            <span style="font-family:var(--mono);font-size:11px">2.0</span>
+          </div>
+          <span class="help">Plus le poids est élevé, plus les articles de cette source obtiennent un score de pertinence haut.</span>
+        </div>
+        <div style="display:flex;gap:8px;justify-content:flex-end;margin-top:8px">
+          <button class="btn ghost" data-close>Annuler</button>
+          <button class="btn" id="btn-save-source">Enregistrer</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modale thème -->
+  <div class="modal-backdrop" id="modal-theme">
+    <div class="modal">
+      <div class="panel-head">
+        <h2 id="modal-theme-title">Thématique</h2>
+        <button class="btn ghost sm" data-close>✕</button>
+      </div>
+      <div class="panel-body">
+        <input type="hidden" id="th-id" />
+        <div class="row">
+          <div class="field">
+            <label>Libellé</label>
+            <input id="th-label" placeholder="ex. Inclusion" />
+          </div>
+          <div class="field">
+            <label>Rubrique (sous-titre)</label>
+            <input id="th-kicker" placeholder="ex. Égalité & diversité" />
+          </div>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label>Couleur</label>
+            <input id="th-color" type="color" value="#C8472E" style="height:44px;padding:4px" />
+          </div>
+          <div class="field">
+            <label>Ordre d'affichage</label>
+            <input id="th-order" type="number" min="1" value="1" />
+          </div>
+        </div>
+        <div class="field">
+          <label>Mots-clés (un par ligne ou séparés par des virgules)</label>
+          <textarea id="th-keywords" placeholder="inclusion, diversité, discrimination…"></textarea>
+          <span class="help">Ces mots-clés rattachent les articles à ce thème et augmentent leur pertinence.</span>
+        </div>
+        <div style="display:flex;gap:8px;justify-content:flex-end;margin-top:8px">
+          <button class="btn ghost" data-close>Annuler</button>
+          <button class="btn" id="btn-save-theme">Enregistrer</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/github.js"></script>
+  <script src="js/admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>La Veille — Barbaria</title>
+  <meta name="description" content="Veille informationnelle : éducation aux médias, enseignement, inclusion." />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <!-- Manchette -->
+    <header class="masthead">
+      <div class="masthead-top">
+        <span id="edition-date">—</span>
+        <span>Veille informationnelle</span>
+      </div>
+      <h1 class="masthead-title">La&nbsp;Veille<span class="amp"> ·</span></h1>
+      <div class="masthead-sub">
+        <span>Barbaria</span>
+        <span class="dot">•</span>
+        <span>Éducation aux médias — Enseignement — Inclusion</span>
+        <span class="dot">•</span>
+        <span id="generated-at">Mise à jour : —</span>
+        <span class="dot">•</span>
+        <a href="admin.html" style="color:var(--accent);text-decoration:none;">Gestion ›</a>
+      </div>
+    </header>
+  </div>
+
+  <!-- Barre d'outils -->
+  <div class="toolbar">
+    <div class="wrap toolbar-inner">
+      <div class="themes-filter" id="themes-filter"></div>
+      <div class="toolbar-spacer"></div>
+      <div class="sort-group">
+        Trier
+        <div class="seg" id="sort-seg" role="group" aria-label="Critère de tri">
+          <button data-sort="urgency" aria-pressed="true">Urgence</button>
+          <button data-sort="relevance" aria-pressed="false">Pertinence</button>
+          <button data-sort="date" aria-pressed="false">Date</button>
+        </div>
+      </div>
+      <div class="search">
+        <input type="search" id="search" placeholder="Rechercher…" aria-label="Rechercher" />
+      </div>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <div id="lede" class="lede" hidden></div>
+
+    <div class="section-rule">
+      <h2>Le fil</h2>
+      <span class="section-count" id="result-count"></span>
+    </div>
+
+    <div id="grid" class="grid" aria-live="polite"></div>
+
+    <div id="empty" class="empty-state" hidden>
+      <h3>Rien à afficher pour l'instant</h3>
+      <p>Vérifie tes filtres, ou ajoute des sources depuis la <a href="admin.html" style="color:var(--accent)">page de gestion</a>.</p>
+    </div>
+
+    <footer class="footer">
+      <span>Barbaria — Veille collective</span>
+      <span><span id="footer-count">0</span> articles · <a href="admin.html">Paramétrer la veille</a></span>
+    </footer>
+  </main>
+
+  <script src="js/render.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

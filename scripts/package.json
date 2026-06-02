@@ -1,0 +1,12 @@
+{
+  "name": "veille-medias-scripts",
+  "version": "1.0.0",
+  "description": "Robot de veille : récupère les flux RSS et génère feed.json",
+  "private": true,
+  "scripts": {
+    "veille": "node fetch.js"
+  },
+  "dependencies": {
+    "rss-parser": "3.13.0"
+  }
+}

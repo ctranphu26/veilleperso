@@ -1,0 +1,47 @@
+{
+  "_comment": "Thématiques de la veille. Chaque thème pondère la pertinence des articles via ses mots-clés. 'color' sert à l'affichage. 'keywords' : termes qui rattachent un article au thème et augmentent son score. Modifiable depuis l'interface de gestion.",
+  "themes": [
+    {
+      "id": "education-medias",
+      "label": "Éducation aux médias",
+      "kicker": "Esprit critique",
+      "color": "#C8472E",
+      "order": 1,
+      "keywords": [
+        "éducation aux médias", "esprit critique", "désinformation", "fake news",
+        "infox", "fact-checking", "littératie médiatique", "media literacy",
+        "réseaux sociaux", "algorithme", "deepfake", "intelligence artificielle",
+        "image", "représentation", "stéréotype", "manipulation", "propagande",
+        "vérification", "source", "journalisme"
+      ]
+    },
+    {
+      "id": "enseignement",
+      "label": "Enseignement",
+      "kicker": "École & pédagogie",
+      "color": "#2E6E8E",
+      "order": 2,
+      "keywords": [
+        "enseignement", "école", "pédagogie", "élève", "enseignant",
+        "professeur", "classe", "apprentissage", "didactique", "formation",
+        "décret", "réforme scolaire", "tronc commun", "fédération wallonie-bruxelles",
+        "numérique éducatif", "programme scolaire", "évaluation", "décrochage",
+        "compétence", "référentiel"
+      ]
+    },
+    {
+      "id": "inclusion",
+      "label": "Inclusion",
+      "kicker": "Égalité & diversité",
+      "color": "#6B4E9E",
+      "order": 3,
+      "keywords": [
+        "inclusion", "diversité", "discrimination", "racisme", "sexisme",
+        "féminisme", "égalité", "genre", "lgbtqia", "handicap", "validisme",
+        "décolonial", "antiraciste", "intersectionnalité", "minorité",
+        "accessibilité", "violences", "représentativité", "migration",
+        "personnes racisées", "neurodiversité"
+      ]
+    }
+  ]
+}

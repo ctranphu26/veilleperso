@@ -1,0 +1,37 @@
+{
+  "_comment": "Sources de la veille. ATTENTION : vérifie chaque 'url' RSS depuis l'interface de gestion (bouton « Tester ») avant de te fier aux résultats — les adresses de flux changent parfois. 'weight' (0.1 à 2.0) augmente ou réduit la confiance accordée à la source dans le calcul de pertinence. 'defaultTheme' rattache la source à un thème si la détection par mots-clés est faible. 'enabled' active/désactive sans supprimer.",
+  "sources": [
+    {
+      "id": "the-conversation-fr",
+      "name": "The Conversation (FR)",
+      "url": "https://theconversation.com/fr/articles.atom",
+      "weight": 1.3,
+      "defaultTheme": "enseignement",
+      "enabled": true
+    },
+    {
+      "id": "cafe-pedagogique",
+      "name": "Le Café pédagogique",
+      "url": "https://www.cafepedagogique.net/feed/",
+      "weight": 1.2,
+      "defaultTheme": "enseignement",
+      "enabled": true
+    },
+    {
+      "id": "csem-be",
+      "name": "CSEM — Conseil Supérieur de l'Éducation aux Médias",
+      "url": "https://www.csem.be/rss.xml",
+      "weight": 1.5,
+      "defaultTheme": "education-medias",
+      "enabled": true
+    },
+    {
+      "id": "exemple-inclusion",
+      "name": "EXEMPLE — remplace-moi par une vraie source Inclusion",
+      "url": "https://www.example.com/rss",
+      "weight": 1.0,
+      "defaultTheme": "inclusion",
+      "enabled": false
+    }
+  ]
+}
