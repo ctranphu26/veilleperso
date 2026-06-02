@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T11:21:59.384Z",
+  "generatedAt": "2026-06-02T22:07:09.796Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,109 @@
   "count": 35,
   "items": [
     {
+      "id": "aoccopb",
+      "title": "L’IA ne menace pas de la même manière tous les emplois. Elle risque de reproduire les discriminations existantes",
+      "summary": "En appréhendant de manière globale, l’impact éventuel de l’intelligence artificielle, une partie du problème est esquivé. À commencer par la façon dont chacun perçoit l’IA : si, pour certains salariés, c’est une menace inquiétante ; d’autres personnes y voient d’abord une opportunité à saisir. L’impact global dépendra ",
+      "link": "https://theconversation.com/lia-ne-menace-pas-de-la-meme-maniere-tous-les-emplois-elle-risque-de-reproduire-les-discriminations-existantes-275734",
+      "image": "https://counter.theconversation.com/content/275734/count.gif",
+      "publishedAt": "2026-06-02T14:30:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "discrimination"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amr9av0",
+      "title": "Non, nos ancêtres ne se sont pas simplement « redressés » : repenser l’évolution vers notre bipédie",
+      "summary": "Représentation du groupe d’australopithèques ayant laissé leurs empreintes à Laetoli (Tanzanie actuelle). Ces traces fossilisées sont actuellement les plus anciennes preuves directes de la bipédie chez les ancêtres de l’être humain. Dawid Adam Iurino/University of Milano Statale, Fourni par l'auteur Loin de l’image pop",
+      "link": "https://theconversation.com/non-nos-ancetres-ne-se-sont-pas-simplement-redresses-repenser-levolution-vers-notre-bipedie-283215",
+      "image": "https://images.theconversation.com/files/737868/original/file-20260525-57-skrct2.jpg?ixlib=rb-4.1.0&amp;rect=1134%2C1050%2C6134%2C4089&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-02T14:40:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image",
+        "représentation"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "augtsrn",
+      "title": "Du Brexit au « Bregret » : dix ans après, le goût amer du vote en faveur du retrait de l’UE au Royaume-Uni",
+      "summary": "Dix ans après le référendum de 2016, les promesses de baisse de l’immigration et de prospérité économique faites durant la campagne par les promoteurs d’une sortie de l’Union europénne ne se sont pas concrétisées. L’impact premier du Brexit a été autre : un approfondissement de la polarisation de la société et une bana",
+      "link": "https://theconversation.com/du-brexit-au-bregret-dix-ans-apres-le-gout-amer-du-vote-en-faveur-du-retrait-de-lue-au-royaume-uni-283654",
+      "image": "https://images.theconversation.com/files/738682/original/file-20260528-69-32vnqn.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-02T14:31:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aky1d4f",
+      "title": "Et si on s’inspirait de la gouvernance de l’eau pour améliorer la gestion des déchets ?",
+      "summary": "La gestion des déchets pose aujourd’hui question. Depuis les années 1980, elle se caractérise par un fort désengagement des pouvoirs publics, à travers la mise en application de la responsabilité élargie des producteurs, ou REP. La gouvernance d’une autre matière, l’eau, pourrait pourtant inspirer le débat public et do",
+      "link": "https://theconversation.com/et-si-on-sinspirait-de-la-gouvernance-de-leau-pour-ameliorer-la-gestion-des-dechets-279086",
+      "image": "https://images.theconversation.com/files/729690/original/file-20260413-57-sfbo1t.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-02T14:29:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arit2d4",
+      "title": "« Enhanced Games » : mais où est vraiment le problème ?",
+      "summary": "Un seul record du monde est tombé durant les « Enhanced Games », « jeux augmentés », une compétition sportive dont les 42 athlètes participants étaient autorisés à se doper : celui du 50 mètres nage libre, battu de 7 centièmes de seconde par le nageur grec Kristián Goloméev, grâce à une combinaison intégrale. La tenue ",
+      "link": "https://theconversation.com/enhanced-games-mais-ou-est-vraiment-le-probleme-284333",
+      "image": "https://counter.theconversation.com/content/284333/count.gif",
+      "publishedAt": "2026-06-02T14:28:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "anaixqc",
+      "title": "Les AED mobilisés pour leur salaire et leurs conditions de travail",
+      "summary": "Plus d’un personnel de vie scolaire sur cinq était en grève mardi 2 juin, selon le ministère de l’Éducation nationale, en réponse à un appel d’une intersyndicale pour une revalorisation L’article Les AED mobilisés pour leur salaire et leurs conditions de travail est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/02/les-aed-mobilises-pour-leur-salaire-et-leurs-conditions-de-travail/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Manifestations-AED-Cafe-pedagogique-1-300x200.jpg",
+      "publishedAt": "2026-06-02T15:00:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "az7n0wz",
       "title": "Indemnité de Sujétion Spéciale : une pétition pour sa revalorisation",
       "summary": "Le SNEP-FSU demande une revalorisation de l’Indemnité de Sujétion Spéciale allouée aux enseignants assurant un service en classe de première, de terminale ou préparant à un certificat d’aptitude professionnelle (Décret L’article Indemnité de Sujétion Spéciale : une pétition pour sa revalorisation est apparu en premier ",
@@ -135,25 +238,94 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 91,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
-      "id": "a2falre",
-      "title": "La « Loi Bétharram » adoptée à l’Assemblée nationale",
-      "summary": "« L’Assemblée nationale vient d’adopter la proposition de loi visant à protéger les enfants et à lutter contre les violences en milieu scolaire, issue des travaux de la commission d’enquête menée L’article La « Loi Bétharram » adoptée à l’Assemblée nationale est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/02/la-loi-betharram-adoptee-a-lassemblee-nationale/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Loi-300x222.png",
-      "publishedAt": "2026-06-02T03:27:28.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "acokzga",
+      "title": "Contre les oppressions subies par les femmes, décoloniser le féminisme",
+      "summary": "Dans Décoloniser l’universalisme, une éthique du féminisme transnationale, aux éditions Éliott, la philosophe états-unienne Serene J. Khader (Graduate School and University Center of the City University of New York) dénonce une forme de « féminisme missionnaire » occidental qui entend « sauver » les femmes des Sud en i",
+      "link": "https://theconversation.com/contre-les-oppressions-subies-par-les-femmes-decoloniser-le-feminisme-277432",
+      "image": "https://counter.theconversation.com/content/277432/count.gif",
+      "publishedAt": "2026-06-02T14:38:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "inclusion",
       "keywords": [
-        "violences"
+        "féminisme"
       ],
-      "relevance": 55,
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ap6bd7u",
+      "title": "Grâce à un algorithme, comprendre pourquoi le blocage du détroit d’Ormuz fait craindre une crise alimentaire",
+      "summary": "Avec la fermeture du détroit d’Ormuz, en mars 2026, à la suite de la guerre entre les États-Unis et l’Iran, l’ombre d’une crise alimentaire plane dans tous les esprits. Pour les pays africains, le choc tombe au pire moment : celui des semis. Une recherche, fondée sur l’étude d’un million d’articles de l’agence Reuters,",
+      "link": "https://theconversation.com/grace-a-un-algorithme-comprendre-pourquoi-le-blocage-du-detroit-dormuz-fait-craindre-une-crise-alimentaire-281186",
+      "image": "https://counter.theconversation.com/content/281186/count.gif",
+      "publishedAt": "2026-06-02T14:30:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "algorithme"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aikixcu",
+      "title": "Barbie, Mario, Musclor… Hollywood a décidé de jouer, et ça rapporte",
+      "summary": "Le grand retour au cinéma de Musclor (He-Man), interprété par l’acteur britannique Nicholas Galitzine, dans *Masters of the Universe*. Amazon MGM Studios Musclor (He-Man) n’avait plus mis les pieds au cinéma depuis 1987. Il revient le 5 juin dans les cinémas états-uniens avec Masters of the Universe, produit par Mattel",
+      "link": "https://theconversation.com/barbie-mario-musclor-hollywood-a-decide-de-jouer-et-ca-rapporte-281582",
+      "image": "https://images.theconversation.com/files/734782/original/file-20260508-57-tib96y.png?ixlib=rb-4.1.0&amp;rect=151%2C0%2C1547%2C1031&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-02T14:30:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2z3w4k",
+      "title": "AI ‘digital twins’ are transforming heart care but will they work for women?",
+      "summary": "Digital “cardiac twins” offer advantages for advancing healthcare by providing precise, noninvasive monitoring and early detection of diseases, but distinguishing between biological differences in cardiovascular physiology remains a challenge. ART STOCK CREATIVE/ Shutterstock, CC BY AI-powered digital twin technology c",
+      "link": "https://theconversation.com/ai-digital-twins-are-transforming-heart-care-but-will-they-work-for-women-277768",
+      "image": "https://images.theconversation.com/files/739326/original/file-20260602-57-9ydf7s.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-02T14:25:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aewmch5",
+      "title": "Désinformation : sommes-nous tous manipulés ?",
+      "summary": "Désinformation : sommes-nous tous manipulés ? Webinaire avec David Colon, historien. CC BY Sommes-nous vraiment libres de nos opinions, ou nos choix sont-ils façonnés à notre insu par des stratégies d’influence toujours plus sophistiquées ? À l’heure des réseaux sociaux, des campagnes de désinformation et des algorithm",
+      "link": "https://theconversation.com/desinformation-sommes-nous-tous-manipules-284364",
+      "image": "https://images.theconversation.com/files/739425/original/file-20260602-57-gw4p9i.jpg?ixlib=rb-4.1.0&amp;rect=0%2C173%2C2709%2C1806&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-02T12:20:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "désinformation",
+        "réseaux sociaux"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -169,8 +341,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aadlbdp",
@@ -185,8 +357,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5dcexg",
@@ -203,8 +375,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqa184r",
@@ -222,8 +394,26 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ao57p6e",
+      "title": "La langue française dans les anciennes colonies de la France : quelle histoire, quel présent, quel avenir ?",
+      "summary": "Les débats autour du statut juridique de la langue française, aujourd’hui relancés par la mondialisation, la diversification des partenariats et la promotion onusienne de la diversité linguistique, ne sauraient être réduits aux tensions conjoncturelles entre États. Car la langue française est devenue structurellement u",
+      "link": "https://theconversation.com/la-langue-francaise-dans-les-anciennes-colonies-de-la-france-quelle-histoire-quel-present-quel-avenir-282305",
+      "image": "https://images.theconversation.com/files/735546/original/file-20260513-57-iv8jsw.png?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1968%2C1107&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-01T15:28:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aalzs04",
@@ -240,40 +430,40 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
-      "id": "abk11yr",
-      "title": "Offre spéciale : Soutenez le Café et recevez ce livre en cadeau !",
-      "summary": "Jusqu’au 15 août, le Café pédagogique vous offre cet ouvrage pour toute adhésion à l’association éditrice du Café pédagogique. Soutenez le Café pédagogique et recevez chez vous gratuitement le livre L’article Offre spéciale : Soutenez le Café et recevez ce livre en cadeau ! est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/06/02/offre-speciale-soutenez-le-cafe-et-recevez-ce-livre-en-cadeau-13/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Couverture-Livre-ESF-1-200x300.jpg",
-      "publishedAt": "2026-06-02T03:31:18.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "amrt0v2",
+      "title": "Que reste-t-il des crises liées aux pollutions des sols ? Le cas de Kodak à Vincennes",
+      "summary": "Les controverses autour des pollutions des sols disparaissent aussi rapidement qu’elles émergent. Une alerte suscitera de fortes inquiétudes sur le moment, auxquelles la science offrira souvent une réponse plus tardive, en décalage avec l’expérience locale vécue par les habitants. Le cas du site Kodak, à Vincennes, dan",
+      "link": "https://theconversation.com/que-reste-t-il-des-crises-liees-aux-pollutions-des-sols-le-cas-de-kodak-a-vincennes-280425",
+      "image": "https://images.theconversation.com/files/712849/original/file-20260116-56-cm7w8z.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-01T15:32:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 48,
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
-      "id": "aomr5dc",
-      "title": "Réviser autrement : des jeux pour maîtriser les tables de multiplication",
-      "summary": "Comment apprendre les tables de multiplication autrement ? Quentin Dangles, parent d’un enfant en élémentaire, a mis au point un site accessible gratuitement qui propose jeux, exercices et différentes astuces. L’article Réviser autrement : des jeux pour maîtriser les tables de multiplication est apparu en premier sur L",
-      "link": "https://www.cafepedagogique.net/2026/06/02/reviser-autrement-des-jeux-pour-maitriser-les-tables-de-multiplication/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/photo-2-257x300.jpg",
-      "publishedAt": "2026-06-02T03:30:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "aueopie",
+      "title": "Roland-Garros, Coupe du monde de football : le « sportainment » n’efface pas (toujours) l’essence du sport",
+      "summary": "Pour acquérir de nouveaux publics, les grandes manifestations sportives associent de plus en plus des moments de show… Au risque de faire fuir les supporters les plus acharnés de sport ? Comment concilier le sport et le grand spectacle ? Récemment, un tournoi de tennis à Turin, dans le Piémont italien, semble avoir tro",
+      "link": "https://theconversation.com/roland-garros-coupe-du-monde-de-football-le-sportainment-nefface-pas-toujours-lessence-du-sport-282669",
+      "image": "https://counter.theconversation.com/content/282669/count.gif",
+      "publishedAt": "2026-06-01T15:31:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 48,
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayl2eaj",
@@ -291,8 +481,40 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abk11yr",
+      "title": "Offre spéciale : Soutenez le Café et recevez ce livre en cadeau !",
+      "summary": "Jusqu’au 15 août, le Café pédagogique vous offre cet ouvrage pour toute adhésion à l’association éditrice du Café pédagogique. Soutenez le Café pédagogique et recevez chez vous gratuitement le livre L’article Offre spéciale : Soutenez le Café et recevez ce livre en cadeau ! est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/06/02/offre-speciale-soutenez-le-cafe-et-recevez-ce-livre-en-cadeau-13/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Couverture-Livre-ESF-1-200x300.jpg",
+      "publishedAt": "2026-06-02T03:31:18.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aomr5dc",
+      "title": "Réviser autrement : des jeux pour maîtriser les tables de multiplication",
+      "summary": "Comment apprendre les tables de multiplication autrement ? Quentin Dangles, parent d’un enfant en élémentaire, a mis au point un site accessible gratuitement qui propose jeux, exercices et différentes astuces. L’article Réviser autrement : des jeux pour maîtriser les tables de multiplication est apparu en premier sur L",
+      "link": "https://www.cafepedagogique.net/2026/06/02/reviser-autrement-des-jeux-pour-maitriser-les-tables-de-multiplication/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/photo-2-257x300.jpg",
+      "publishedAt": "2026-06-02T03:30:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avi94du",
@@ -307,8 +529,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1jh4cx",
@@ -323,58 +545,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ao57p6e",
-      "title": "La langue française dans les anciennes colonies de la France : quelle histoire, quel présent, quel avenir ?",
-      "summary": "Les débats autour du statut juridique de la langue française, aujourd’hui relancés par la mondialisation, la diversification des partenariats et la promotion onusienne de la diversité linguistique, ne sauraient être réduits aux tensions conjoncturelles entre États. Car la langue française est devenue structurellement u",
-      "link": "https://theconversation.com/la-langue-francaise-dans-les-anciennes-colonies-de-la-france-quelle-histoire-quel-present-quel-avenir-282305",
-      "image": "https://images.theconversation.com/files/735546/original/file-20260513-57-iv8jsw.png?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1968%2C1107&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-01T15:28:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "amrt0v2",
-      "title": "Que reste-t-il des crises liées aux pollutions des sols ? Le cas de Kodak à Vincennes",
-      "summary": "Les controverses autour des pollutions des sols disparaissent aussi rapidement qu’elles émergent. Une alerte suscitera de fortes inquiétudes sur le moment, auxquelles la science offrira souvent une réponse plus tardive, en décalage avec l’expérience locale vécue par les habitants. Le cas du site Kodak, à Vincennes, dan",
-      "link": "https://theconversation.com/que-reste-t-il-des-crises-liees-aux-pollutions-des-sols-le-cas-de-kodak-a-vincennes-280425",
-      "image": "https://images.theconversation.com/files/712849/original/file-20260116-56-cm7w8z.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-01T15:32:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aueopie",
-      "title": "Roland-Garros, Coupe du monde de football : le « sportainment » n’efface pas (toujours) l’essence du sport",
-      "summary": "Pour acquérir de nouveaux publics, les grandes manifestations sportives associent de plus en plus des moments de show… Au risque de faire fuir les supporters les plus acharnés de sport ? Comment concilier le sport et le grand spectacle ? Récemment, un tournoi de tennis à Turin, dans le Piémont italien, semble avoir tro",
-      "link": "https://theconversation.com/roland-garros-coupe-du-monde-de-football-le-sportainment-nefface-pas-toujours-lessence-du-sport-282669",
-      "image": "https://counter.theconversation.com/content/282669/count.gif",
-      "publishedAt": "2026-06-01T15:31:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anufih3",
@@ -391,7 +563,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +581,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +599,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -443,7 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -509,7 +681,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -525,7 +697,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -541,175 +713,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4bohyi",
-      "title": "Êtes-vous certain de travailler pour le bien commun ? Une lecture de Thomas d’Aquin",
-      "summary": "Comment les dirigeants peuvent-ils poursuivre le bien commun ? Thomas d’Aquin, philosophe italien du XIIIᵉ siècle, dévoile les caractéristiques de ce concept. Dans un article précédent, nous avions déjà précisé les particularités des communautés de travail, tournées vers le bien commun. La question restait de savoir co",
-      "link": "https://theconversation.com/etes-vous-certain-de-travailler-pour-le-bien-commun-une-lecture-de-thomas-daquin-275605",
-      "image": "https://counter.theconversation.com/content/275605/count.gif",
-      "publishedAt": "2026-06-01T08:44:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aktdhje",
-      "title": "Ebola : Comment expliquer cette nouvelle flambée, malgré les vaccins qui ont amélioré la lutte contre les épidémies",
-      "summary": "Une épidémie préoccupante du virus Ebola sévit depuis avril 2026 en République démocratique du Congo et en Ouganda. Alors qu’il existe aujourd’hui un vaccin recommandé par l’Organisation mondiale de la santé en cas d’épidémie, comment expliquer cette nouvelle flambée ? On fait le point. L’épidémie actuelle d’Ebola rapp",
-      "link": "https://theconversation.com/ebola-comment-expliquer-cette-nouvelle-flambee-malgre-les-vaccins-qui-ont-ameliore-la-lutte-contre-les-epidemies-283700",
-      "image": "https://counter.theconversation.com/content/283700/count.gif",
-      "publishedAt": "2026-05-31T10:13:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aii66ov",
-      "title": "Quand Donald Trump tente sans succès d’associer de nouveaux États aux accords d’Abraham",
-      "summary": "L’exigence du président américain, qui lie tout accord avec l’Iran à une normalisation avec Israël, s’est heurtée au silence des pays sollicité. Signe que l’influence américaine dans la région n’est plus ce qu’elle était. Alors que les États-Unis et l’Iran tentent de s’entendre sur un accord de paix pour mettre un term",
-      "link": "https://theconversation.com/quand-donald-trump-tente-sans-succes-dassocier-de-nouveaux-etats-aux-accords-dabraham-283919",
-      "image": "https://counter.theconversation.com/content/283919/count.gif",
-      "publishedAt": "2026-05-31T10:14:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqm1jpv",
-      "title": "À la tête du Conseil d’État, Marc Guillaume saura-t-il protéger nos droits et libertés ?",
-      "summary": "Avant son départ de l’Élysée, Emmanuel Macron place aux plus hauts sommets de l’État ses fidèles soutiens. Parmi eux, Marc Guillaume, ancien préfet de Paris, parfois critiqué pour avoir mis en place des actions restrictives à l'encontre des libertés publiques, vient d’être nommé vice-président du Conseil d’État. Or ce ",
-      "link": "https://theconversation.com/a-la-tete-du-conseil-detat-marc-guillaume-saura-t-il-proteger-nos-droits-et-libertes-283668",
-      "image": "https://counter.theconversation.com/content/283668/count.gif",
-      "publishedAt": "2026-05-31T10:13:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afnv2s9",
-      "title": "Faut-il se fier aux accréditations et aux classements pour évaluer la qualité d’un établissement ?",
-      "summary": "Avant de s’inscrire dans un établissement, les étudiants sont à l’affût d’indicateurs de qualité. Mais les labels, les accréditations ou les classements peuvent-ils renseigner sur les atouts pédagogiques d’un cursus ? Et en mesurant la conformité à des procédures, que disent-ils des performances réelles d’une école ou ",
-      "link": "https://theconversation.com/faut-il-se-fier-aux-accreditations-et-aux-classements-pour-evaluer-la-qualite-dun-etablissement-282625",
-      "image": "https://counter.theconversation.com/content/282625/count.gif",
-      "publishedAt": "2026-05-30T07:06:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "classe"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awa51nm",
-      "title": "Martha and the Vandellas, les divas engagées de la Motown",
-      "summary": "Martha and the Vandellas, du label Motown, ont inspiré les générations suivantes de groupes de filles dans la musique pop, notamment En Vogue, SWV et Destiny’s Child. Michael Ochs Archives/Getty Images Formant le groupe emblématique du label Motown devenu symbole de l’« empowerment » féminin, Martha and the Vandellas o",
-      "link": "https://theconversation.com/martha-and-the-vandellas-les-divas-engagees-de-la-motown-284099",
-      "image": "https://images.theconversation.com/files/738788/original/file-20260330-57-ovbdzu.jpg?ixlib=rb-4.1.0&amp;rect=9%2C0%2C3690%2C2460&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-05-30T07:08:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "acs57lh",
-      "title": "L’IA marchande, nouvel objet transitionnel et instrument de prolétarisation des consommateurs",
-      "summary": "Pour rassurer et guider le consommateur, la marque a eu un rôle de repère cognitif. C’est d’ailleurs l’un des dispositifs « inventé » par le capitalisme pour stimuler la consommation. En mobilisant des outils d’intelligence artificielle, il ne s’agit pas seulement d’une puissance décuplée, mais d’un changement de natur",
-      "link": "https://theconversation.com/lia-marchande-nouvel-objet-transitionnel-et-instrument-de-proletarisation-des-consommateurs-281771",
-      "image": "https://counter.theconversation.com/content/281771/count.gif",
-      "publishedAt": "2026-05-30T07:07:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7w5ru2",
-      "title": "Taxe sur les petits colis : anatomie d’un fiasco français",
-      "summary": "La taxe sur les petits colis, entrée en vigueur le 1 er mars 2026, n’a un rendement que de 2,3 millions d’euros par mois, contre les 50 millions d’euros attendus. Azrinaziri/Shutterstock Pour lutter contre la déferlante de l’importation de produits chinois à bas prix, le Parlement a établi une taxe sur les petits colis",
-      "link": "https://theconversation.com/taxe-sur-les-petits-colis-anatomie-dun-fiasco-francais-283836",
-      "image": "https://images.theconversation.com/files/738274/original/file-20260527-71-kn5rkh.jpg?ixlib=rb-4.1.0&amp;rect=0%2C192%2C4608%2C3072&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-05-30T07:07:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abcib8g",
-      "title": "Néandertal utilisait-il les dents de rhinocéros comme outils ?",
-      "summary": "Le crâne de rhinocéros blanc dont les dents ont été extraites à Peaugres, avec l’aide de Benjamin Drouet, vétérinaire. Photo Camille Deaujeard, Fourni par l'auteur Le projet RINO est né de la découverte de traces singulières observées sur des dents de rhinocéros d’un site préhistorique de la vallée du Rhône. L’étude de",
-      "link": "https://theconversation.com/neandertal-utilisait-il-les-dents-de-rhinoceros-comme-outils-281909",
-      "image": "https://images.theconversation.com/files/737348/original/file-20260521-57-jjqayt.png?ixlib=rb-4.1.0&amp;rect=48%2C0%2C1006%2C671&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-05-30T06:47:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a87q3sw",
-      "title": "Quels premiers ministres ont banalisé les idées d’extrême droite ?",
-      "summary": "La normalisation des idées d’extrême droite passe aussi par des partis considérés comme plus modérés. C’est ce que montre une enquête sur les déclarations de politique générale des premiers ministres depuis 1959. L’un des résultats les plus marquants est le rôle des chefs de gouvernements « centristes » (notamment Édou",
-      "link": "https://theconversation.com/quels-premiers-ministres-ont-banalise-les-idees-dextreme-droite-272870",
-      "image": "https://images.theconversation.com/files/711452/original/file-20260108-56-ojq1n8.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-05-29T09:18:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
     }
   ]
 }
