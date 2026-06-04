@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T18:10:12.308Z",
+  "generatedAt": "2026-06-04T11:37:15.307Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,40 @@
   "count": 35,
   "items": [
     {
+      "id": "auuotv2",
+      "title": "Coéducation et orientation : une formation en ligne pour renforcer le lien avec les familles",
+      "summary": "Comment impliquer davantage les familles dans l’accompagnement de leurs enfants à l’orientation ? C’est pour répondre à cette question centrale que l’Onisep, en partenariat avec la DRAIO Pays de la Loire (Délégation L’article Coéducation et orientation : une formation en ligne pour renforcer le lien avec les familles e",
+      "link": "https://www.cafepedagogique.net/2026/06/04/coeducation-et-orientation-une-formation-en-ligne-pour-renforcer-le-lien-avec-les-familles/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Image_Guide-Coeducation-225x300.png",
+      "publishedAt": "2026-06-04T03:29:40.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "al94g57",
+      "title": "La Rochelle : derrière la crise des mégabassines, l’héritage des relations entre industrie portuaire et agriculture",
+      "summary": "En France, les contestations contre les mégabassines ont révélé un lien longtemps invisibilisé : celui qui unit l’agriculture intensive de l’arrière-pays aux complexes portuaires, comme le port céréalier de La Rochelle-Pallice en Charente-Maritime. Derrière la crise de l’eau qui structure désormais le débat public, on ",
+      "link": "https://theconversation.com/la-rochelle-derriere-la-crise-des-megabassines-lheritage-des-relations-entre-industrie-portuaire-et-agriculture-281895",
+      "image": "https://images.theconversation.com/files/733757/original/file-20260504-57-it5p58.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-04T10:08:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "avu2dnw",
       "title": "Pourquoi l’Irlande du début du Moyen Âge avait-elle des lois sur les abeilles ?",
       "summary": "Page du *De Natura animalium*, Ms. 711, folio 37r, manuscrit conservé à la bibliothèque municipale de Douai (Nord). Douai Cuincy Library Network, CC BY-SA Au début du Moyen Âge, l’Irlande disposait d’un ensemble de lois très détaillées, le Bechbretha (« jugements sur les abeilles »), qui réglementait la propriété des r",
@@ -131,13 +165,166 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 91,
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auczt97",
+      "title": "Plus de sport à l’école : 4 heures d’EPS pour tous serait l’idéal ?",
+      "summary": "Les nouveaux tests de condition physique en sixième et en seconde confirment une réalité déjà bien connue : la forme physique des jeunes se dégrade et les inégalités restent fortes. L’article Plus de sport à l’école : 4 heures d’EPS pour tous serait l’idéal ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/04/plus-de-sport-a-lecole-4-heures-deps-pour-tous-serait-lideal/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/CC-pour-article-300x286.jpeg",
+      "publishedAt": "2026-06-04T03:55:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ak83rhq",
+      "title": "Ces collectivités s’opposent à la politique éducative nationale",
+      "summary": "Violences faites aux enfants, inclusion, déterminismes sociaux, réductions des moyens… Les sujets ne manquent pas le Réseau français des villes éducatrices (RFVE). Le nouveau bureau développe ses priorités pour les L’article Ces collectivités s’opposent à la politique éducative nationale est apparu en premier sur Le Ca",
+      "link": "https://www.cafepedagogique.net/2026/06/04/ces-collectivites-sopposent-a-la-politique-educative-nationale/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/RFVE-rougier-leger.cafepeda-e1780502966120-300x291.jpeg",
+      "publishedAt": "2026-06-04T03:55:10.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "inclusion",
+        "violences"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abldq28",
+      "title": "En ULIS, chaque problème est une occasion d’apprendre",
+      "summary": "Dans un dispositif ULIS, on s’adapte aux besoins des élèves et tout est prétexte à apprendre. Alors quand un élève arrive avec un problème, ce n’est pas un incident, mais L’article En ULIS, chaque problème est une occasion d’apprendre est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/04/en-ulis-chaque-probleme-est-une-occasion-dapprendre/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/04/claireLommeCafePeda-300x300.jpeg",
+      "publishedAt": "2026-06-04T03:30:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at5qv1z",
+      "title": "L’EPS, laboratoire des savoirs fondamentaux",
+      "summary": "« Comment transformer durablement les conduites corporelles des élèves tout en contribuant à la construction des savoirs fondamentaux ? » Cette question traverse l’ensemble de l’ouvrage coordonné par Maxime Travert, L’article L’EPS, laboratoire des savoirs fondamentaux est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/04/leps-laboratoire-des-savoirs-fondamentaux/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/Stephane-Travert-Cafe-pedagogique-287x300.jpeg",
+      "publishedAt": "2026-06-04T03:44:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aua94hf",
+      "title": "EPS : faut-il repenser la natation de vitesse ?",
+      "summary": "« Le “comment nager” s’efface progressivement derrière le “nager vite”. » Alors que la natation vitesse occupe une place importante dans les programmes d’EPS, Emmanuel Auvray (UFRSTAPS Caen, Université de L’article EPS : faut-il repenser la natation de vitesse ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/04/eps-faut-il-repenser-la-natation-de-vitesse/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Emmanuel-Auvray-Cafe-pedagogique-300x292.jpeg",
+      "publishedAt": "2026-06-04T03:45:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8k1c97",
+      "title": "Offre spéciale : Soutenez le Café et recevez ce livre en cadeau !",
+      "summary": "Jusqu’au 15 août, le Café pédagogique vous offre cet ouvrage pour toute adhésion à l’association éditrice du Café pédagogique. Soutenez le Café pédagogique et recevez chez vous gratuitement le livre L’article Offre spéciale : Soutenez le Café et recevez ce livre en cadeau ! est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/06/04/offre-speciale-soutenez-le-cafe-et-recevez-ce-livre-en-cadeau-13/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Couverture-Livre-ESF-1-200x300.jpg",
+      "publishedAt": "2026-06-04T03:31:18.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ao0w4p5",
+      "title": "Canicule : un dessous des cartes dédié",
+      "summary": "Le site Arte TV propose un numéro du Dessous des cartes sur la canicule dans les villes. « Végétalisation des rues et des infrastructures, replantations citoyennes, réseaux de froid collectifs, toits L’article Canicule : un dessous des cartes dédié est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/04/canicule-un-dessous-des-cartes-dedie/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/ARTE-300x154.png",
+      "publishedAt": "2026-06-04T03:28:40.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9q26hk",
+      "title": "Rendez-vous ce week-end à Fontainebleau pour le Festival de l’histoire de l’art",
+      "summary": "Fontainebleau accueille du 5 au 7 juin, le Festival de l’histoire de l’art. Cette 15e édition a pour invité d’honneur le Maroc, et pour thème la mode. Pour la première L’article Rendez-vous ce week-end à Fontainebleau pour le Festival de l’histoire de l’art est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/04/rendez-vous-ce-week-end-a-fontainebleau-pour-le-festival-de-lhistoire-de-lart/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/2026-FHA-213x300.png",
+      "publishedAt": "2026-06-04T03:28:17.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aw8ohan",
+      "title": "« Parcoursup ne trie rien du tout » Edouard Geffray",
+      "summary": "Dans l’émission C à vous de France 5 du 2 juin, le ministre de l’Education nationale Edouard Geffray donne son avis sur Parcoursup. « Il y a des gens qui vous L’article « Parcoursup ne trie rien du tout » Edouard Geffray est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/04/parcoursup-ne-trie-rien-du-tout-edouard-geffray/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Geffray-c-a-vous-300x167.png",
+      "publishedAt": "2026-06-04T03:27:33.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
       "id": "afnvere",
       "title": "Le regroupement de crédits : un révélateur des disparités contemporaines en matière de « maîtrise de son destin »",
-      "summary": "Le regroupement de crédits est devenu un fait social majeur. Près de 200 000 ménages français y ont eu recours en 2025. Pourtant, on sait assez peu de choses sur eux. Une étude originale s’est penchée sur cette population. Trois cas types sont apparus, loin des stéréotypes du ménage surendetté. Les ménages dont l’endet",
+      "summary": "Le regroupement de crédits est devenu un fait social majeur.Pourtant, on sait assez peu de choses sur eux. Une étude originale s’est penchée sur cette population. Trois cas types sont apparus, loin des stéréotypes du ménage surendetté. Les ménages dont l’endettement entrave les capacités à faire face aux dépenses quali",
       "link": "https://theconversation.com/le-regroupement-de-credits-un-revelateur-des-disparites-contemporaines-en-matiere-de-maitrise-de-son-destin-280309",
       "image": "https://counter.theconversation.com/content/280309/count.gif",
       "publishedAt": "2026-06-03T15:02:19.000Z",
@@ -149,7 +336,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +352,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -181,23 +368,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "afucafq",
-      "title": "Education prioritaire : Quelques leçons à retenir de la loi votée par le Sénat",
-      "summary": "Le Sénat a voté en séance publique le 27 mai 2026 une proposition de loi « portant sur la forme des critères d’attribution de l’éducation prioritaire pour l’équité des résultats et L’article Education prioritaire : Quelques leçons à retenir de la loi votée par le Sénat est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/03/education-prioritaire-quelques-lecons-a-retenir-de-la-loi-votee-par-le-senat/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/01/1200px-Logo_du_Senat_Republique_francaise.svg_-300x300-90-300x300.png",
-      "publishedAt": "2026-06-03T03:40:03.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -218,8 +389,8 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 81,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqkplya",
@@ -234,8 +405,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amkijse",
@@ -252,8 +423,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3pz5rd",
@@ -268,8 +439,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aldnotf",
@@ -284,8 +455,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abr9uo7",
@@ -300,162 +471,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "avgymdv",
-      "title": "De Bétharram à l’Assemblée : la loi qui pourrait changer l’école",
-      "summary": "« Une étape décisive » pour la députée Violette Spillebout (EPR), une « bascule » pour le député Paul Vannier (LFI). Portée par les révélations de l’affaire Bétharram et d’autres L’article De Bétharram à l’Assemblée : la loi qui pourrait changer l’école est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/03/de-betharram-a-lassemblee-la-loi-qui-pourrait-changer-lecole/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/IMG_9585-e1763672364253-300x201.jpg",
-      "publishedAt": "2026-06-03T03:55:01.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aj7vlc5",
-      "title": "Les AED mobilisés pour leur salaire et leurs conditions de travail",
-      "summary": "Plus d’un personnel de vie scolaire sur cinq était en grève mardi 2 juin, selon le ministère de l’Éducation nationale, en réponse à un appel d’une intersyndicale pour une revalorisation L’article Les AED mobilisés pour leur salaire et leurs conditions de travail est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/03/les-aed-mobilises-pour-leur-salaire-et-leurs-conditions-de-travail/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Manifestations-AED-Cafe-pedagogique-1-300x200.jpg",
-      "publishedAt": "2026-06-03T04:00:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ao5bpif",
-      "title": "Faire les tâches de direction pendant la classe",
-      "summary": "Lorsque les directeur·rices sont aussi chargé·es de classe, les journées sont faites d’arbitrages permanents entre tâches d’enseignement et tâches de direction. Lorsque Marianne répond à un appel téléphonique pendant sa L’article Faire les tâches de direction pendant la classe est apparu en premier sur Le Café pédagogi",
-      "link": "https://www.cafepedagogique.net/2026/06/03/faire-les-taches-de-direction-pendant-la-classe/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/103-200507-Cafe-pedagogique-Reportage-Ecoles-2P8A9698-300x200.jpg",
-      "publishedAt": "2026-06-03T03:30:03.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "classe"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "asxoldw",
-      "title": "Importance des francs-maçons dans la création de l’Ecole laïque",
-      "summary": "Quel rôle ont joué les francs-maçons dans la création de l’Ecole laïque ? L’historien de l’éducation Claude Lelièvre a lu pour le Café pédagogique le dernier ouvrage de Jean-Paul Delahaye, L’article Importance des francs-maçons dans la création de l’Ecole laïque est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/03/importance-des-francs-macons-dans-la-creation-de-lecole-laique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/couv_Delayahe_NBR-scaled-1-215x300.jpg",
-      "publishedAt": "2026-06-03T03:45:20.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aci8abb",
-      "title": "Edgar Morin : une pensée inspirante pour l’Ecole de demain",
-      "summary": "Le 29 mai 2026, Edgar Morin, éminent sociologue, philosophe et penseur français, s’est éteint à l’âge de 104 ans. Théoricien majeur de la pensée complexe, à l’origine de concepts tels L’article Edgar Morin : une pensée inspirante pour l’Ecole de demain est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/03/edgar-morin-une-pensee-inspirante-pour-lecole-de-demain/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edgar_Morin_IMG_0558-b-300x204.jpg",
-      "publishedAt": "2026-06-03T03:38:31.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afkje7k",
-      "title": "Apprendre à sécuriser ses activités numériques",
-      "summary": "Comment sensibiliser les élèves aux questions de cybersécurité, de protection des données personnelles, d’usage responsable des environnements numériques ? Emmanuel Vaslin propose une sélection de 8 scénarios pédagogiques réalisés du Cm2 L’article Apprendre à sécuriser ses activités numériques est apparu en premier sur",
-      "link": "https://www.cafepedagogique.net/2026/06/03/apprendre-a-securiser-ses-activites-numeriques/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Apprendre-a-securiser-ses-activites-numeriques-300x145.png",
-      "publishedAt": "2026-06-03T03:29:28.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1hzuus",
-      "title": "Offre spéciale : Soutenez le Café et recevez ce livre en cadeau !",
-      "summary": "Jusqu’au 15 août, le Café pédagogique vous offre cet ouvrage pour toute adhésion à l’association éditrice du Café pédagogique. Soutenez le Café pédagogique et recevez chez vous gratuitement le livre L’article Offre spéciale : Soutenez le Café et recevez ce livre en cadeau ! est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/06/03/offre-speciale-soutenez-le-cafe-et-recevez-ce-livre-en-cadeau-13/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Couverture-Livre-ESF-1-200x300.jpg",
-      "publishedAt": "2026-06-03T03:31:18.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ae9qvop",
-      "title": "Littérature jeunesse : Du premier souffle au premier regard",
-      "summary": "Respiration. Singularité. Le souffle de la vie. Le premier regard d’un enfant sur les différences. Deux albums qui mettent en parallèle le vivant. Dans le premier, premier souffle d’un petit L’article Littérature jeunesse : Du premier souffle au premier regard est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/03/litterature-jeunesse-du-premier-souffle-au-premier-regard/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/premier-souffle-Au-premier-regard-300x225.jpeg",
-      "publishedAt": "2026-06-03T03:29:13.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "asycytv",
-      "title": "Cinéma : « Toutes mes sœurs » de Massoud Bakhshi",
-      "summary": "« Grandir à Téhéran au XXIe siècle… De 2007 à 2025, au sein d’une famille aimante, dix-huit ans dans la vie de trois sœurs, de leur prime enfance à leur L’article Cinéma : « Toutes mes sœurs » de Massoud Bakhshi est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/03/cinema-toutes-mes-soeurs-de-massoud-bakhshi/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/tms120x160260407md-225x300.jpg",
-      "publishedAt": "2026-06-03T03:28:48.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,7 +489,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 64,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -492,7 +508,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -510,7 +526,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -526,7 +542,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -542,7 +558,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -560,7 +576,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -578,7 +594,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -594,7 +610,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -610,7 +626,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -629,7 +645,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -645,7 +661,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -661,23 +677,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amrt0v2",
-      "title": "Que reste-t-il des crises liées aux pollutions des sols ? Le cas de Kodak à Vincennes",
-      "summary": "Les controverses autour des pollutions des sols disparaissent aussi rapidement qu’elles émergent. Une alerte suscitera de fortes inquiétudes sur le moment, auxquelles la science offrira souvent une réponse plus tardive, en décalage avec l’expérience locale vécue par les habitants. Le cas du site Kodak, à Vincennes, dan",
-      "link": "https://theconversation.com/que-reste-t-il-des-crises-liees-aux-pollutions-des-sols-le-cas-de-kodak-a-vincennes-280425",
-      "image": "https://images.theconversation.com/files/712849/original/file-20260116-56-cm7w8z.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-01T15:32:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -695,7 +695,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -711,7 +711,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 30,
       "urgencyLevel": "basse"
     }
   ]
