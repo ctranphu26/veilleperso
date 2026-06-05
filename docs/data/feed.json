@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T11:51:47.226Z",
+  "generatedAt": "2026-06-05T18:30:58.078Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,27 @@
   "count": 35,
   "items": [
     {
+      "id": "aq1r0of",
+      "title": "Classes prépas : modèle du passé ou passeport pour l’emploi à l’ère de l’IA ?",
+      "summary": "Si elles ne sont plus aujourd’hui la seule voie d’accès aux grandes écoles, les classes préparatoires implantées dans les lycées permettent à leurs élèves de développer une pluridisciplinarité et une agilité précieuses dans un monde en pleine transformation. Regard sur ce modèle alors que débute la phase d’admission su",
+      "link": "https://theconversation.com/classes-prepas-modele-du-passe-ou-passeport-pour-lemploi-a-lere-de-lia-278616",
+      "image": "https://counter.theconversation.com/content/278616/count.gif",
+      "publishedAt": "2026-06-05T16:16:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "élève",
+        "classe",
+        "formation"
+      ],
+      "relevance": 90,
+      "relevanceLevel": "haute",
+      "urgency": 97,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a1f67uk",
       "title": "Aux États-Unis, le droit à la réparation victime collatérale de la guerre d’Hollywood contre les magnétoscopes",
       "summary": "Conçues à l’origine pour protéger les œuvres culturelles contre la copie illégale, certaines dispositions du droit d’auteur américain limitent aujourd’hui la réparation de nombreux objets du quotidien. Un héritage inattendu des guerres du magnétoscope. Steve Jurvetson/Wikimedia Commons, CC BY Des verrous numériques qui",
@@ -131,7 +152,25 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8f55sa",
+      "title": "Plus productive, mais pas plus rentable : le paradoxe de l’agriculture française depuis 1960",
+      "summary": "Si, en matière de production agricole, la France est la première de la classe de l’Union européenne avec 17 %, son modèle économique n’est pas aussi performant que le laisse penser cette bonne note. Car, derrière la modernisation sur tous les fronts, l’agriculture stagne en matière de rentabilité. Depuis les années 196",
+      "link": "https://theconversation.com/plus-productive-mais-pas-plus-rentable-le-paradoxe-de-lagriculture-francaise-depuis-1960-277021",
+      "image": "https://counter.theconversation.com/content/277021/count.gif",
+      "publishedAt": "2026-06-05T16:15:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -150,7 +189,23 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ag0skk6",
+      "title": "Affaire Lyhanna : protéger avant qu’il ne soit trop tard, sans renoncer à l’État de droit",
+      "summary": "Après l'enlèvement et le meurtre de Lyhanna, 11 ans, un homme, déjà mis en cause par trois plaintes pour viols sur mineurs, mais jamais condamné, est suspecté. De nombreux responsables politiques de tous bords ont dénoncé des dysfonctionnements de la justice, qui n’aurait pas protégé d’éventuelles victimes de cet homme",
+      "link": "https://theconversation.com/affaire-lyhanna-proteger-avant-quil-ne-soit-trop-tard-sans-renoncer-a-letat-de-droit-284683",
+      "image": "https://counter.theconversation.com/content/284683/count.gif",
+      "publishedAt": "2026-06-05T14:22:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -166,24 +221,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "af365pt",
-      "title": "Santé mentale : le gouvernement promet encore mais avec quels soignants ?",
-      "summary": "« Agir plus tôt, orienter plus vite, accompagner davantage » : le gouvernement affiche de nouvelles ambitions pour la santé mentale en 2026. Mais un an après les Assises de L’article Santé mentale : le gouvernement promet encore mais avec quels soignants ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/05/sante-mentale-le-gouvernement-promet-encore-mais-avec-quels-soignants/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/sante-300x200.jpg",
-      "publishedAt": "2026-06-05T04:00:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abm9inr",
@@ -200,8 +239,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aen10zb",
@@ -219,8 +258,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arnn35u",
@@ -237,8 +276,24 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "af365pt",
+      "title": "Santé mentale : le gouvernement promet encore mais avec quels soignants ?",
+      "summary": "« Agir plus tôt, orienter plus vite, accompagner davantage » : le gouvernement affiche de nouvelles ambitions pour la santé mentale en 2026. Mais un an après les Assises de L’article Santé mentale : le gouvernement promet encore mais avec quels soignants ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/05/sante-mentale-le-gouvernement-promet-encore-mais-avec-quels-soignants/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/sante-300x200.jpg",
+      "publishedAt": "2026-06-05T04:00:32.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awbzceb",
@@ -253,8 +308,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6gnifn",
@@ -269,8 +324,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aobwnyq",
@@ -285,8 +340,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aj13y5k",
@@ -301,8 +356,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am0eis4",
@@ -317,8 +372,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anowxep",
@@ -335,7 +390,23 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avu2dnw",
+      "title": "Pourquoi l’Irlande du début du Moyen Âge avait-elle des lois sur les abeilles ?",
+      "summary": "Page du *De Natura animalium*, Ms. 711, folio 37r, manuscrit conservé à la bibliothèque municipale de Douai (Nord). Douai Cuincy Library Network, CC BY-SA Au début du Moyen Âge, l’Irlande disposait d’un ensemble de lois très détaillées, le Bechbretha (« jugements sur les abeilles »), qui réglementait la propriété des r",
+      "link": "https://theconversation.com/pourquoi-lirlande-du-debut-du-moyen-age-avait-elle-des-lois-sur-les-abeilles-283425",
+      "image": "https://images.theconversation.com/files/737102/original/file-20260518-57-nemce6.jpg?ixlib=rb-4.1.0&amp;rect=310%2C0%2C1991%2C1327&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-03T09:37:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +425,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -372,7 +443,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -388,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -404,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -420,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -436,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -452,23 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avu2dnw",
-      "title": "Pourquoi l’Irlande du début du Moyen Âge avait-elle des lois sur les abeilles ?",
-      "summary": "Page du *De Natura animalium*, Ms. 711, folio 37r, manuscrit conservé à la bibliothèque municipale de Douai (Nord). Douai Cuincy Library Network, CC BY-SA Au début du Moyen Âge, l’Irlande disposait d’un ensemble de lois très détaillées, le Bechbretha (« jugements sur les abeilles »), qui réglementait la propriété des r",
-      "link": "https://theconversation.com/pourquoi-lirlande-du-debut-du-moyen-age-avait-elle-des-lois-sur-les-abeilles-283425",
-      "image": "https://images.theconversation.com/files/737102/original/file-20260518-57-nemce6.jpg?ixlib=rb-4.1.0&amp;rect=310%2C0%2C1991%2C1327&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-03T09:37:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -484,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -502,7 +557,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -518,7 +573,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -534,7 +589,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -555,7 +610,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -571,7 +626,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -589,8 +644,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a3pz5rd",
@@ -605,8 +660,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aldnotf",
@@ -621,8 +676,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "abr9uo7",
@@ -637,8 +692,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amr9av0",
@@ -656,59 +711,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "augtsrn",
-      "title": "Du Brexit au « Bregret » : dix ans après, le goût amer du vote en faveur du retrait de l’UE au Royaume-Uni",
-      "summary": "Dix ans après le référendum de 2016, les promesses de baisse de l’immigration et de prospérité économique faites durant la campagne par les promoteurs d’une sortie de l’Union europénne ne se sont pas concrétisées. L’impact premier du Brexit a été autre : un approfondissement de la polarisation de la société et une bana",
-      "link": "https://theconversation.com/du-brexit-au-bregret-dix-ans-apres-le-gout-amer-du-vote-en-faveur-du-retrait-de-lue-au-royaume-uni-283654",
-      "image": "https://images.theconversation.com/files/738682/original/file-20260528-69-32vnqn.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-02T14:31:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "migration"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "acokzga",
-      "title": "Contre les oppressions subies par les femmes, décoloniser le féminisme",
-      "summary": "Dans Décoloniser l’universalisme, une éthique du féminisme transnationale, aux éditions Éliott, la philosophe états-unienne Serene J. Khader (Graduate School and University Center of the City University of New York) dénonce une forme de « féminisme missionnaire » occidental qui entend « sauver » les femmes des Sud en i",
-      "link": "https://theconversation.com/contre-les-oppressions-subies-par-les-femmes-decoloniser-le-feminisme-277432",
-      "image": "https://counter.theconversation.com/content/277432/count.gif",
-      "publishedAt": "2026-06-02T14:38:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "féminisme"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aikixcu",
-      "title": "Barbie, Mario, Musclor… Hollywood a décidé de jouer, et ça rapporte",
-      "summary": "Le grand retour au cinéma de Musclor (He-Man), interprété par l’acteur britannique Nicholas Galitzine, dans *Masters of the Universe*. Amazon MGM Studios Musclor (He-Man) n’avait plus mis les pieds au cinéma depuis 1987. Il revient le 5 juin dans les cinémas états-uniens avec Masters of the Universe, produit par Mattel",
-      "link": "https://theconversation.com/barbie-mario-musclor-hollywood-a-decide-de-jouer-et-ca-rapporte-281582",
-      "image": "https://images.theconversation.com/files/734782/original/file-20260508-57-tib96y.png?ixlib=rb-4.1.0&amp;rect=151%2C0%2C1547%2C1031&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-02T14:30:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 37,
       "urgencyLevel": "basse"
     }
   ]
