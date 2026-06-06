@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T09:14:09.757Z",
+  "generatedAt": "2026-06-06T15:59:26.003Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,12 +133,12 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
       "id": "aq1r0of",
-      "title": "Classes prépas : modèle du passé ou passeport pour l’emploi à l’ère de l’IA ?",
+      "title": "Classes prépas : modèle du passé ou passeport pour l’emploi à l’ère de l’IA ?",
       "summary": "Si elles ne sont plus aujourd’hui la seule voie d’accès aux grandes écoles, les classes préparatoires implantées dans les lycées permettent à leurs élèves de développer une pluridisciplinarité et une agilité précieuses dans un monde en pleine transformation. Regard sur ce modèle alors que débute la phase d’admission su",
       "link": "https://theconversation.com/classes-prepas-modele-du-passe-ou-passeport-pour-lemploi-a-lere-de-lia-278616",
       "image": "https://counter.theconversation.com/content/278616/count.gif",
@@ -154,7 +154,55 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "az64u9n",
+      "title": "Investissement à impact : quand la mesure façonne ce qui compte",
+      "summary": "L’investissement à impact apparaît comme un outil prisé des adeptes de la finance durable. En témoigne l’engouement rencontré par les produits proposés. Mais de quel impact parle-t-on vraiment ? Qui décide qu’un impact est intéressant ou non ? Certaines formes d’impact sont-elles privilégiées à d’autres ? Alors que l’U",
+      "link": "https://theconversation.com/investissement-a-impact-quand-la-mesure-faconne-ce-qui-compte-281793",
+      "image": "https://counter.theconversation.com/content/281793/count.gif",
+      "publishedAt": "2026-06-06T13:39:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqh2hjf",
+      "title": "Du succès du vinyle au retour affirmé de la cassette : au-delà de l’effet nostalgie",
+      "summary": "Quand la cassette devient icône pop ! Auteur, Fourni par l'auteur Alors que le streaming domine désormais près de 70 % de la consommation musicale mondiale, le vinyle, que l’on croyait relégué au passé par le CD puis par le numérique, poursuit sa croissance. Quant à la cassette audio, elle opère un retour en force. Au-",
+      "link": "https://theconversation.com/du-succes-du-vinyle-au-retour-affirme-de-la-cassette-au-dela-de-leffet-nostalgie-281445",
+      "image": "https://images.theconversation.com/files/732712/original/file-20260428-57-qtnk9n.png?ixlib=rb-4.1.0&amp;rect=1506%2C106%2C4103%2C2735&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-06T13:38:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amvuqfn",
+      "title": "Isolement et contention dans les établissements psychiatriques français : état des lieux de ces pratiques controversées",
+      "summary": "Dans les services de psychiatrie, certaines mesures restreignant la liberté des patients, telles que les soins sans consentement, la mise à l’isolement ou la contention à l’aide de sangles, sont autorisées dans un cadre légal strict. Les recherches révèlent toutefois d’importantes différences entre établissements dans ",
+      "link": "https://theconversation.com/isolement-et-contention-dans-les-etablissements-psychiatriques-francais-etat-des-lieux-de-ces-pratiques-controversees-284602",
+      "image": "https://counter.theconversation.com/content/284602/count.gif",
+      "publishedAt": "2026-06-06T13:38:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -170,13 +218,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
       "id": "aw8f7d8",
-      "title": "La plus célèbre marche de l’histoire anglaise est-elle un mythe ?",
-      "summary": "La bataille d’Hastings, aboutissement du récit de la Tapisserie de Bayeux (ici en illustration), oppose le roi Harold d’Angleterre aux troupes du duc Guillaume de Normandie ; la victoire de ce dernier ouvre la voie à la conquête normande de l’Angleterre. Wiki Commons Une relecture des sources en latin et en vieil angla",
+      "title": "La plus célèbre marche de l’histoire anglaise est-elle un mythe ?",
+      "summary": "La bataille d’Hastings (1066), aboutissement du récit de la tapisserie de Bayeux (ici, en illustration), oppose le roi Harold d’Angleterre aux troupes du duc Guillaume de Normandie ; la victoire de ce dernier ouvre la voie à la conquête normande de l’Angleterre. Wiki Commons Une relecture des sources en latin et en vie",
       "link": "https://theconversation.com/la-plus-celebre-marche-de-lhistoire-anglaise-est-elle-un-mythe-282889",
       "image": "https://images.theconversation.com/files/735535/original/file-20260317-69-gh0xzc.jpg?ixlib=rb-4.1.0&amp;rect=0%2C94%2C1800%2C1200&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-06-06T07:18:03.000Z",
@@ -188,7 +236,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -204,7 +252,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -220,13 +268,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
       "id": "av38al",
       "title": "14 ressources sélectionnées par le Café pédagogique",
-      "summary": "Retrouvez sur cette page 10 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Quand des élèves de CM2 donnent voix à des L’article 14 ressources sélectionnées par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "summary": "Retrouvez sur cette page 14 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Quand des élèves de CM2 donnent voix à L’article 14 ressources sélectionnées par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/06/06/14-ressources-selectionnees-par-le-cafe-pedagogique-2/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/vieecole2-300x211.jpeg",
       "publishedAt": "2026-06-06T06:55:52.000Z",
@@ -238,13 +286,13 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
       "id": "altyyq9",
       "title": "Découvrez les sujets du diplôme national du brevet 2026 en Amérique du nord",
-      "summary": "Télécharger les sujets pour le DNB 2026 pour les établissements situés en Amérique du nord Série générale Grammaire et compréhension Dictée Rédaction Histoire-Géographie-Enseignement moral et civique Mathématiques Sciences Dictée L’article Découvrez les sujets du diplôme national du brevet 2026 en Amérique du nord est ",
+      "summary": "Téléchargez les sujets du DNB 2026 pour les établissements situés en Amérique du nord Série générale Grammaire et compréhension Dictée Rédaction Histoire-Géographie-Enseignement moral et civique Mathématiques Sciences Dictée aménagée L’article Découvrez les sujets du diplôme national du brevet 2026 en Amérique du nord ",
       "link": "https://www.cafepedagogique.net/2026/06/06/decouvrez-les-sujets-du-diplome-national-du-brevet-2026-en-amerique-du-nord/",
       "image": null,
       "publishedAt": "2026-06-06T06:20:06.000Z",
@@ -256,13 +304,13 @@
       ],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
       "id": "aw0dm6f",
       "title": "Sujets du baccalauréat général 2026 pour la zone Amérique du Nord",
-      "summary": "Retrouvez tous les sujets 2026 du baccalauréat général pour la zone Amérique du Nord 1ère Télécharger le sujet de français Télécharger le sujet de mathématiques Télécharger le sujet de L’article Sujets du baccalauréat général 2026 pour la zone Amérique du Nord est apparu en premier sur Le Café pédagogique.",
+      "summary": "Retrouvez tous les sujets 2026 du baccalauréat général pour la zone Amérique du Nord 1ère Télécharger le sujet de français Télécharger le sujet de mathématiques Télécharger le sujet de mathématiques L’article Sujets du baccalauréat général 2026 pour la zone Amérique du Nord est apparu en premier sur Le Café pédagogique",
       "link": "https://www.cafepedagogique.net/2026/06/06/sujets-du-baccalaureat-general-2026-pour-la-zone-amerique-du-nord/",
       "image": null,
       "publishedAt": "2026-06-06T05:51:57.000Z",
@@ -272,8 +320,8 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1f67uk",
@@ -288,25 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8f55sa",
-      "title": "Plus productive, mais pas plus rentable : le paradoxe de l’agriculture française depuis 1960",
-      "summary": "Si, en matière de production agricole, la France est la première de la classe de l’Union européenne avec 17 %, son modèle économique n’est pas aussi performant que le laisse penser cette bonne note. Car, derrière la modernisation sur tous les fronts, l’agriculture stagne en matière de rentabilité. Depuis les années 196",
-      "link": "https://theconversation.com/plus-productive-mais-pas-plus-rentable-le-paradoxe-de-lagriculture-francaise-depuis-1960-277021",
-      "image": "https://counter.theconversation.com/content/277021/count.gif",
-      "publishedAt": "2026-06-05T16:15:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -325,7 +355,25 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a8f55sa",
+      "title": "Plus productive, mais pas plus rentable : le paradoxe de l’agriculture française depuis 1960",
+      "summary": "Si, en matière de production agricole, la France est la première de la classe de l’Union européenne avec 17 %, son modèle économique n’est pas aussi performant que le laisse penser cette bonne note. Car, derrière la modernisation sur tous les fronts, l’agriculture stagne en matière de rentabilité. Depuis les années 196",
+      "link": "https://theconversation.com/plus-productive-mais-pas-plus-rentable-le-paradoxe-de-lagriculture-francaise-depuis-1960-277021",
+      "image": "https://counter.theconversation.com/content/277021/count.gif",
+      "publishedAt": "2026-06-05T16:15:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -341,7 +389,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -357,7 +405,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -375,7 +423,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -394,39 +442,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "af365pt",
-      "title": "Santé mentale : le gouvernement promet encore mais avec quels soignants ?",
-      "summary": "« Agir plus tôt, orienter plus vite, accompagner davantage » : le gouvernement affiche de nouvelles ambitions pour la santé mentale en 2026. Mais un an après les Assises de L’article Santé mentale : le gouvernement promet encore mais avec quels soignants ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/05/sante-mentale-le-gouvernement-promet-encore-mais-avec-quels-soignants/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/sante-300x200.jpg",
-      "publishedAt": "2026-06-05T04:00:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awbzceb",
-      "title": "Croiser les regards pour mieux comprendre les enjeux de l’EVARS",
-      "summary": "De quelles « données clés » et « idées claires » a-t-on besoin pour « nourrir le travail de conception » de séances d’EVARS (éducation à la vie affective, relationnelle et à la sexualité), et mieux L’article Croiser les regards pour mieux comprendre les enjeux de l’EVARS est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/05/regards-croises-pour-mieux-comprendre-les-enjeux-de-levars/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/REGARDS-CROISES-VISUEL-209x300.jpeg",
-      "publishedAt": "2026-06-05T03:45:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -444,7 +460,39 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "af365pt",
+      "title": "Santé mentale : le gouvernement promet encore mais avec quels soignants ?",
+      "summary": "« Agir plus tôt, orienter plus vite, accompagner davantage » : le gouvernement affiche de nouvelles ambitions pour la santé mentale en 2026. Mais un an après les Assises de L’article Santé mentale : le gouvernement promet encore mais avec quels soignants ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/05/sante-mentale-le-gouvernement-promet-encore-mais-avec-quels-soignants/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/sante-300x200.jpg",
+      "publishedAt": "2026-06-05T04:00:32.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awbzceb",
+      "title": "Croiser les regards pour mieux comprendre les enjeux de l’EVARS",
+      "summary": "De quelles « données clés » et « idées claires » a-t-on besoin pour « nourrir le travail de conception » de séances d’EVARS (éducation à la vie affective, relationnelle et à la sexualité), et mieux L’article Croiser les regards pour mieux comprendre les enjeux de l’EVARS est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/05/regards-croises-pour-mieux-comprendre-les-enjeux-de-levars/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/REGARDS-CROISES-VISUEL-209x300.jpeg",
+      "publishedAt": "2026-06-05T03:45:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -460,7 +508,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -479,8 +527,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "arx938l",
@@ -497,8 +545,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a97w6w2",
@@ -513,12 +561,12 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "alhb7ix",
-      "title": "Britney Spears, Marie Trintignant, Evan Rachel Wood : ces documentaires qui révèlent la mécanique du contrôle coercitif",
+      "title": "Britney Spears, Marie Trintignant, Evan Rachel Wood : ces documentaires qui révèlent la mécanique du contrôle coercitif",
       "summary": "Le contrôle coercitif vise à rendre une personne dépendante, notamment en l’isolant de tout soutien, en la privant de toute liberté et en réglementant ses comportements par des microrégulations au quotidien. Une série de documentaires récents, consacrés à des femmes qui en ont été victimes, comme les actrices Marie Tri",
       "link": "https://theconversation.com/britney-spears-marie-trintignant-evan-rachel-wood-ces-documentaires-qui-revelent-la-mecanique-du-controle-coercitif-281576",
       "image": "https://counter.theconversation.com/content/281576/count.gif",
@@ -529,8 +577,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aprt18u",
@@ -545,8 +593,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a8j2cv3",
@@ -561,8 +609,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "abvvyxj",
@@ -577,8 +625,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "afnvere",
@@ -595,24 +643,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "al94g57",
-      "title": "La Rochelle : derrière la crise des mégabassines, l’héritage des relations entre industrie portuaire et agriculture",
-      "summary": "En France, les contestations contre les mégabassines ont révélé un lien longtemps invisibilisé : celui qui unit l’agriculture intensive de l’arrière-pays aux complexes portuaires, comme le port céréalier de La Rochelle-Pallice en Charente-Maritime. Derrière la crise de l’eau qui structure désormais le débat public, on ",
-      "link": "https://theconversation.com/la-rochelle-derriere-la-crise-des-megabassines-lheritage-des-relations-entre-industrie-portuaire-et-agriculture-281895",
-      "image": "https://images.theconversation.com/files/733757/original/file-20260504-57-it5p58.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-04T10:08:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a4sz5sm",
@@ -627,24 +659,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
-      "id": "av2bzvd",
-      "title": "From Brexit to ‘Bregret’: ten years later, bitterness still prevails over the UK’s vote to leave the EU",
-      "summary": "On June 23 2016, a majority of Britons chose to leave the European Union after a referendum campaign driven by the promises of supporters of the “Leave” camp, spearheaded by Nigel Farage and Boris Johnson. Built around the slogan “Take Back Control”, the pro-Brexit campaign promised to restore the country’s sovereignty",
-      "link": "https://theconversation.com/from-brexit-to-bregret-ten-years-later-bitterness-still-prevails-over-the-uks-vote-to-leave-the-eu-284324",
-      "image": "https://images.theconversation.com/files/738682/original/file-20260528-69-32vnqn.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-03T15:01:15.000Z",
+      "id": "al94g57",
+      "title": "La Rochelle : derrière la crise des mégabassines, l’héritage des relations entre industrie portuaire et agriculture",
+      "summary": "En France, les contestations contre les mégabassines ont révélé un lien longtemps invisibilisé : celui qui unit l’agriculture intensive de l’arrière-pays aux complexes portuaires, comme le port céréalier de La Rochelle-Pallice en Charente-Maritime. Derrière la crise de l’eau qui structure désormais le débat public, on ",
+      "link": "https://theconversation.com/la-rochelle-derriere-la-crise-des-megabassines-lheritage-des-relations-entre-industrie-portuaire-et-agriculture-281895",
+      "image": "https://images.theconversation.com/files/733757/original/file-20260504-57-it5p58.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-04T10:08:26.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amkijse",
@@ -661,7 +693,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -677,39 +709,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aldnotf",
-      "title": "Au Liban, Israël parti pour reproduire les erreurs du passé",
-      "summary": "Alors que Washington et Téhéran négocient, le front israélo-libanais s’embrase : frappes israéliennes intensifiées, tirs du Hezbollah, plus d’un million de déplacés libanais. Et l’Iran, protecteur du Hezbollah depuis la naissance de celui-ci en 1982, conditionne tout accord avec les États-Unis à un arrêt des opérations",
-      "link": "https://theconversation.com/au-liban-israel-parti-pour-reproduire-les-erreurs-du-passe-284343",
-      "image": "https://images.theconversation.com/files/739131/original/file-20260601-57-vi41at.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-03T15:01:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abr9uo7",
-      "title": "Passage de la vie terrestre à aquatique : un nouveau fossile éclaire l’évolution des dents des premiers cétacés",
-      "summary": "Vue d’artiste de *Kalakocetus aurorae*, un ancêtre des baleines. Maëva Orliac, Fourni par l'auteur Les premiers ancêtres des cétacés – le groupe de mammifères auquel appartiennent les orques et les dauphins – étaient déjà connus pour posséder des dents adaptées à un régime carnivore. Notre découverte récente, publiée d",
-      "link": "https://theconversation.com/passage-de-la-vie-terrestre-a-aquatique-un-nouveau-fossile-eclaire-levolution-des-dents-des-premiers-cetaces-282794",
-      "image": "https://images.theconversation.com/files/739444/original/file-20260602-57-91082w.jpg?ixlib=rb-4.1.0&amp;rect=0%2C198%2C6850%2C4566&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-03T15:01:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     }
   ]
