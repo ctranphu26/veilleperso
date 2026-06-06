@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T15:59:26.003Z",
+  "generatedAt": "2026-06-06T21:44:27.679Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ak1orc1",
+      "title": "Au-delà des bouffées de chaleur, les femmes doivent s’inquiéter des effets de la ménopause sur leur cœur",
+      "summary": "Les maladies cardiovasculaires ne se conjuguent pas uniquement au masculin et leur risque augmente chez la femme à la périménopause. Quels rôles jouent le métabolisme des lipides et, notamment, le « bon » et le « mauvais » cholestérol ? Quelle place pour les statines ?Le traitement hormonal de la ménopause peut-il aide",
+      "link": "https://theconversation.com/au-dela-des-bouffees-de-chaleur-les-femmes-doivent-sinquieter-des-effets-de-la-menopause-sur-leur-coeur-284229",
+      "image": "https://counter.theconversation.com/content/284229/count.gif",
+      "publishedAt": "2026-06-06T16:44:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -154,7 +170,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -170,7 +186,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -186,7 +202,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -202,7 +218,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -218,58 +234,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aw8f7d8",
-      "title": "La plus célèbre marche de l’histoire anglaise est-elle un mythe ?",
-      "summary": "La bataille d’Hastings (1066), aboutissement du récit de la tapisserie de Bayeux (ici, en illustration), oppose le roi Harold d’Angleterre aux troupes du duc Guillaume de Normandie ; la victoire de ce dernier ouvre la voie à la conquête normande de l’Angleterre. Wiki Commons Une relecture des sources en latin et en vie",
-      "link": "https://theconversation.com/la-plus-celebre-marche-de-lhistoire-anglaise-est-elle-un-mythe-282889",
-      "image": "https://images.theconversation.com/files/735535/original/file-20260317-69-gh0xzc.jpg?ixlib=rb-4.1.0&amp;rect=0%2C94%2C1800%2C1200&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-06T07:18:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "avppgbz",
-      "title": "Faut-il craindre un « super El Niño » en 2026 ? Les signaux s’accumulent, mais les incertitudes demeurent",
-      "summary": "Le Pacifique tropical se réchauffe rapidement, alimentant les spéculations sur un épisode El Niño d’une intensité exceptionnelle. Pourtant, plusieurs mécanismes atmosphériques essentiels à son développement ne sont pas encore en place. L’hypothèse d’un « super El Niño » en 2026 gagne du terrain, alimentant les inquiétu",
-      "link": "https://theconversation.com/faut-il-craindre-un-super-el-nino-en-2026-les-signaux-saccumulent-mais-les-incertitudes-demeurent-283207",
-      "image": "https://images.theconversation.com/files/735866/original/file-20260514-57-wjgloz.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-06T07:38:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "app99t2",
-      "title": "La poussière d’étoiles piégée dans la glace antarctique révèle des dizaines de milliers d’années de l’histoire du Système solaire",
-      "summary": "L'Antarctique offre un terrain d'observation précieux où la neige s’accumule lentement et reste en grande partie préservée des perturbations. Derek Oyen/Unsplash, CC BY Des atomes de fer 60, produits lors d’explosions stellaires, permettent de remonter le fil de l’histoire de notre environnement galactique. Leur présen",
-      "link": "https://theconversation.com/la-poussiere-detoiles-piegee-dans-la-glace-antarctique-revele-des-dizaines-de-milliers-dannees-de-lhistoire-du-systeme-solaire-283294",
-      "image": "https://images.theconversation.com/files/740220/original/file-20260605-85-8dfuww.jpg?ixlib=rb-4.1.0&amp;rect=274%2C0%2C2962%2C1974&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-06T07:19:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "av38al",
@@ -286,8 +252,58 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aw8f7d8",
+      "title": "La plus célèbre marche de l’histoire anglaise est-elle un mythe ?",
+      "summary": "La bataille d’Hastings (1066), aboutissement du récit de la tapisserie de Bayeux (ici, en illustration), oppose le roi Harold d’Angleterre aux troupes du duc Guillaume de Normandie ; la victoire de ce dernier ouvre la voie à la conquête normande de l’Angleterre. Wiki Commons Une relecture des sources en latin et en vie",
+      "link": "https://theconversation.com/la-plus-celebre-marche-de-lhistoire-anglaise-est-elle-un-mythe-282889",
+      "image": "https://images.theconversation.com/files/735535/original/file-20260317-69-gh0xzc.jpg?ixlib=rb-4.1.0&amp;rect=0%2C94%2C1800%2C1200&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-06T07:18:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avppgbz",
+      "title": "Faut-il craindre un « super El Niño » en 2026 ? Les signaux s’accumulent, mais les incertitudes demeurent",
+      "summary": "Le Pacifique tropical se réchauffe rapidement, alimentant les spéculations sur un épisode El Niño d’une intensité exceptionnelle. Pourtant, plusieurs mécanismes atmosphériques essentiels à son développement ne sont pas encore en place. L’hypothèse d’un « super El Niño » en 2026 gagne du terrain, alimentant les inquiétu",
+      "link": "https://theconversation.com/faut-il-craindre-un-super-el-nino-en-2026-les-signaux-saccumulent-mais-les-incertitudes-demeurent-283207",
+      "image": "https://images.theconversation.com/files/735866/original/file-20260514-57-wjgloz.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-06T07:38:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "app99t2",
+      "title": "La poussière d’étoiles piégée dans la glace antarctique révèle des dizaines de milliers d’années de l’histoire du Système solaire",
+      "summary": "L'Antarctique offre un terrain d'observation précieux où la neige s’accumule lentement et reste en grande partie préservée des perturbations. Derek Oyen/Unsplash, CC BY Des atomes de fer 60, produits lors d’explosions stellaires, permettent de remonter le fil de l’histoire de notre environnement galactique. Leur présen",
+      "link": "https://theconversation.com/la-poussiere-detoiles-piegee-dans-la-glace-antarctique-revele-des-dizaines-de-milliers-dannees-de-lhistoire-du-systeme-solaire-283294",
+      "image": "https://images.theconversation.com/files/740220/original/file-20260605-85-8dfuww.jpg?ixlib=rb-4.1.0&amp;rect=274%2C0%2C2962%2C1974&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-06T07:19:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "altyyq9",
@@ -304,8 +320,8 @@
       ],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aw0dm6f",
@@ -320,7 +336,7 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +352,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -355,7 +371,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -373,7 +389,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -389,23 +405,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arctp1e",
-      "title": "Pleut-il davantage en ville qu’à la campagne ? Oui, mais pas autant qu’on ne le croyait",
-      "summary": "Chaleur urbaine, aérosols, bétonisation : les villes semblent favoriser la pluie. Henry Chen/Unsplash, CC BY Il pleut davantage en ville que dans la campagne environnante, mais peut-être pas autant qu’on le pensait. Des chercheurs montrent que les changements intervenus dans les réseaux de satellites influencent aussi ",
-      "link": "https://theconversation.com/pleut-il-davantage-en-ville-qua-la-campagne-oui-mais-pas-autant-quon-ne-le-croyait-284507",
-      "image": "https://images.theconversation.com/files/739783/original/file-20260529-71-hnc7a0.jpg?ixlib=rb-4.1.0&amp;rect=1246%2C0%2C3747%2C2496&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-05T06:58:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -423,7 +423,23 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "arctp1e",
+      "title": "Pleut-il davantage en ville qu’à la campagne ? Oui, mais pas autant qu’on ne le croyait",
+      "summary": "Chaleur urbaine, aérosols, bétonisation : les villes semblent favoriser la pluie. Henry Chen/Unsplash, CC BY Il pleut davantage en ville que dans la campagne environnante, mais peut-être pas autant qu’on le pensait. Des chercheurs montrent que les changements intervenus dans les réseaux de satellites influencent aussi ",
+      "link": "https://theconversation.com/pleut-il-davantage-en-ville-qua-la-campagne-oui-mais-pas-autant-quon-ne-le-croyait-284507",
+      "image": "https://images.theconversation.com/files/739783/original/file-20260529-71-hnc7a0.jpg?ixlib=rb-4.1.0&amp;rect=1246%2C0%2C3747%2C2496&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-05T06:58:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -442,7 +458,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -460,7 +476,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -476,7 +492,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -492,7 +508,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -508,7 +524,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -527,7 +543,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -545,7 +561,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -561,7 +577,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -577,7 +593,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -593,7 +609,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -609,7 +625,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -625,25 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "afnvere",
-      "title": "Le regroupement de crédits : un révélateur des disparités contemporaines en matière de « maîtrise de son destin »",
-      "summary": "Le regroupement de crédits est devenu un fait social majeur.Pourtant, on sait assez peu de choses sur eux. Une étude originale s’est penchée sur cette population. Trois cas types sont apparus, loin des stéréotypes du ménage surendetté. Les ménages dont l’endettement entrave les capacités à faire face aux dépenses quali",
-      "link": "https://theconversation.com/le-regroupement-de-credits-un-revelateur-des-disparites-contemporaines-en-matiere-de-maitrise-de-son-destin-280309",
-      "image": "https://counter.theconversation.com/content/280309/count.gif",
-      "publishedAt": "2026-06-03T15:02:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "stéréotype"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -659,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -675,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -693,7 +691,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -709,7 +707,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
