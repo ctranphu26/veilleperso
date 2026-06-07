@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T10:15:15.407Z",
+  "generatedAt": "2026-06-07T16:54:41.595Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,74 @@
   "count": 35,
   "items": [
     {
+      "id": "avkbj9g",
+      "title": "Les vers de terre sont-ils en déclin en France ? Et sont-ils menacés par les vers plats exotiques ?",
+      "summary": "Les études récentes plaident pour l’importance d’une évaluation intégrée et rigoureuse des dynamiques des populations de vers de terre (ici, un lombric européen), fondée sur des données historiques, des suivis standardisés et l’analyse des multiples facteurs. Fir0002/Wikimédia, CC BY-NC Qui sont vraiment les vers de te",
+      "link": "https://theconversation.com/les-vers-de-terre-sont-ils-en-declin-en-france-et-sont-ils-menaces-par-les-vers-plats-exotiques-284242",
+      "image": "https://images.theconversation.com/files/739146/original/file-20260601-57-x4lvwl.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1600%2C1066&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-07T13:09:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "évaluation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a11zk9l",
+      "title": "De Pearl Harbor au blocage du détroit d’Ormuz : comprendre et anticiper les « guerres surprises »",
+      "summary": "La surprise stratégique constitue l’un des paradoxes les plus persistants de l’histoire militaire. Alors même que les sociétés contemporaines disposent de volumes d’information sans précédent et que les technologies de surveillance rendent le champ de bataille toujours plus transparent, les États continuent d’être surp",
+      "link": "https://theconversation.com/de-pearl-harbor-au-blocage-du-detroit-dormuz-comprendre-et-anticiper-les-guerres-surprises-279577",
+      "image": "https://counter.theconversation.com/content/279577/count.gif",
+      "publishedAt": "2026-06-07T13:08:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a34vfwo",
+      "title": "Peut-on vraiment conserver les haies en simplifiant leur arrachage ?",
+      "summary": "Dans nos villes comme dans nos campagnes, les haies prodiguent de nombreux bénéfices tant environnementaux que territoriaux. Ces dernières années, différents plans gouvernementaux ont enfin permis de financer leur restauration, mais la circulaire du 24 mars 2026 relative au régime unique de la haie semble les remettre ",
+      "link": "https://theconversation.com/peut-on-vraiment-conserver-les-haies-en-simplifiant-leur-arrachage-283797",
+      "image": "https://images.theconversation.com/files/738036/original/file-20260526-57-llen76.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-07T13:09:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "asxsbz9",
+      "title": "Le régime présidentiel de Donald Trump et la théorie de l’exécutif unitaire",
+      "summary": "La référence à la théorie de l’« exécutif unitaire » – une interprétation de la Constitution qui consiste à conférer au président des États-Unis un pouvoir très étendu – permet à Donald Trump de gouverner à sa guise, ou presque, notamment en prenant le contrôle des agences normalement indépendantes, de révoquer certain",
+      "link": "https://theconversation.com/le-regime-presidentiel-de-donald-trump-et-la-theorie-de-lexecutif-unitaire-284226",
+      "image": "https://counter.theconversation.com/content/284226/count.gif",
+      "publishedAt": "2026-06-07T13:08:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "addt0g9",
       "title": "Quand le remède au burn-out consistait à passer l’hiver en France",
       "summary": "La plage de Trouville, Claude Monet (1870). The National Gallery, London Au XIXe siècle, médecins et écrivains dénonçaient les effets d’une existence toujours plus rapide, portée par le télégraphe, le train et l’industrialisation. Face au surmenage, ils prescrivaient le repos, le grand air et l’oisiveté assumée. Le bur",
@@ -131,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -168,7 +236,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 64,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -186,7 +254,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -202,7 +270,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -218,7 +286,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -234,7 +302,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -250,7 +318,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -266,7 +334,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -282,7 +350,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "app99t2",
+      "title": "La poussière d’étoiles piégée dans la glace antarctique révèle des dizaines de milliers d’années de l’histoire du Système solaire",
+      "summary": "L'Antarctique offre un terrain d'observation précieux où la neige s’accumule lentement et reste en grande partie préservée des perturbations. Derek Oyen/Unsplash, CC BY Des atomes de fer 60, produits lors d’explosions stellaires, permettent de remonter le fil de l’histoire de notre environnement galactique. Leur présen",
+      "link": "https://theconversation.com/la-poussiere-detoiles-piegee-dans-la-glace-antarctique-revele-des-dizaines-de-milliers-dannees-de-lhistoire-du-systeme-solaire-283294",
+      "image": "https://images.theconversation.com/files/740220/original/file-20260605-85-8dfuww.jpg?ixlib=rb-4.1.0&amp;rect=274%2C0%2C2962%2C1974&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-06T07:19:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -300,7 +384,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -318,23 +402,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "app99t2",
-      "title": "La poussière d’étoiles piégée dans la glace antarctique révèle des dizaines de milliers d’années de l’histoire du Système solaire",
-      "summary": "L'Antarctique offre un terrain d'observation précieux où la neige s’accumule lentement et reste en grande partie préservée des perturbations. Derek Oyen/Unsplash, CC BY Des atomes de fer 60, produits lors d’explosions stellaires, permettent de remonter le fil de l’histoire de notre environnement galactique. Leur présen",
-      "link": "https://theconversation.com/la-poussiere-detoiles-piegee-dans-la-glace-antarctique-revele-des-dizaines-de-milliers-dannees-de-lhistoire-du-systeme-solaire-283294",
-      "image": "https://images.theconversation.com/files/740220/original/file-20260605-85-8dfuww.jpg?ixlib=rb-4.1.0&amp;rect=274%2C0%2C2962%2C1974&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-06T07:19:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -352,7 +420,7 @@
       ],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -368,7 +436,7 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -384,7 +452,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -403,7 +471,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,7 +489,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -437,8 +505,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "anowxep",
@@ -455,8 +523,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "arctp1e",
@@ -471,7 +539,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "af365pt",
+      "title": "Santé mentale : le gouvernement promet encore mais avec quels soignants ?",
+      "summary": "« Agir plus tôt, orienter plus vite, accompagner davantage » : le gouvernement affiche de nouvelles ambitions pour la santé mentale en 2026. Mais un an après les Assises de L’article Santé mentale : le gouvernement promet encore mais avec quels soignants ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/05/sante-mentale-le-gouvernement-promet-encore-mais-avec-quels-soignants/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/sante-300x200.jpg",
+      "publishedAt": "2026-06-05T04:00:32.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -490,7 +574,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -508,23 +592,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "af365pt",
-      "title": "Santé mentale : le gouvernement promet encore mais avec quels soignants ?",
-      "summary": "« Agir plus tôt, orienter plus vite, accompagner davantage » : le gouvernement affiche de nouvelles ambitions pour la santé mentale en 2026. Mais un an après les Assises de L’article Santé mentale : le gouvernement promet encore mais avec quels soignants ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/05/sante-mentale-le-gouvernement-promet-encore-mais-avec-quels-soignants/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/sante-300x200.jpg",
-      "publishedAt": "2026-06-05T04:00:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -540,7 +608,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -556,7 +624,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -575,7 +643,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -593,7 +661,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -609,7 +677,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -625,7 +693,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -641,73 +709,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8j2cv3",
-      "title": "La fusée de Blue Origin a explosé sur son pas de tir. Quelles conséquences pour le programme lunaire Artemis ?",
-      "summary": "Le 28 mai, lors d’un test de mise à feu statique, la fusée New Glenn de Blue Origin, une entreprise du New Space fondée en 2000 par Jeff Bezos, le créateur d’Amazon, a explosé dans le crépuscule, enveloppant sa rampe de lancement d’une énorme boule de feu. L’incendie spectaculaire a détruit le lanceur, causé des dégâts",
-      "link": "https://theconversation.com/la-fusee-de-blue-origin-a-explose-sur-son-pas-de-tir-quelles-consequences-pour-le-programme-lunaire-artemis-284573",
-      "image": "https://images.theconversation.com/files/738858/original/file-20260529-57-kdzp0v.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-04T14:09:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abvvyxj",
-      "title": "Why insulin, the core element of diabetes treatment remains inaccessible for millions of people",
-      "summary": "The discovery of insulin in 1921 revolutionised diabetes care. Type 1 diabetes went from being a death sentence to a manageable chronic condition. To ensure access to this vital medicine to as many people as possible, the researchers who discovered insulin sold the patent to their university for one symbolic dollar. Ye",
-      "link": "https://theconversation.com/why-insulin-the-core-element-of-diabetes-treatment-remains-inaccessible-for-millions-of-people-284194",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-04T14:08:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "al94g57",
-      "title": "La Rochelle : derrière la crise des mégabassines, l’héritage des relations entre industrie portuaire et agriculture",
-      "summary": "En France, les contestations contre les mégabassines ont révélé un lien longtemps invisibilisé : celui qui unit l’agriculture intensive de l’arrière-pays aux complexes portuaires, comme le port céréalier de La Rochelle-Pallice en Charente-Maritime. Derrière la crise de l’eau qui structure désormais le débat public, on ",
-      "link": "https://theconversation.com/la-rochelle-derriere-la-crise-des-megabassines-lheritage-des-relations-entre-industrie-portuaire-et-agriculture-281895",
-      "image": "https://images.theconversation.com/files/733757/original/file-20260504-57-it5p58.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-04T10:08:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amkijse",
-      "title": "Accusations d’agressions sexuelles : pourquoi certains fans resteront toujours fidèles à leur idole",
-      "summary": "Mis en cause par une trentaine de femmes pour des faits de violences sexuelles qu’il conteste et par une douzaine de plaintes déposées à son encontre, et visé par quatre enquêtes ouvertes en France et en Belgique, Patrick Bruel a annulé une partie de ses dates estivales de concert dans l’Hexagone ainsi qu’en Suisse et ",
-      "link": "https://theconversation.com/accusations-dagressions-sexuelles-pourquoi-certains-fans-resteront-toujours-fideles-a-leur-idole-284204",
-      "image": "https://counter.theconversation.com/content/284204/count.gif",
-      "publishedAt": "2026-06-03T15:04:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 27,
       "urgencyLevel": "basse"
     }
   ]
