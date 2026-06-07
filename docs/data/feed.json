@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T21:44:27.679Z",
+  "generatedAt": "2026-06-07T10:15:15.407Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,37 +119,35 @@
   "count": 35,
   "items": [
     {
-      "id": "ahta1zp",
-      "title": "Actualité de l’éducation du 1er au 5 juin 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés sur le Café pédagogique. De Bétharram à l’Assemblée : la loi qui pourrait changer l’école « Une étape L’article Actualité de l’éducation du 1er au 5 juin 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/06/actualite-de-leducation-du-1er-au-5-juin-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Loi-300x222.png",
-      "publishedAt": "2026-06-06T06:57:47.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ak1orc1",
-      "title": "Au-delà des bouffées de chaleur, les femmes doivent s’inquiéter des effets de la ménopause sur leur cœur",
-      "summary": "Les maladies cardiovasculaires ne se conjuguent pas uniquement au masculin et leur risque augmente chez la femme à la périménopause. Quels rôles jouent le métabolisme des lipides et, notamment, le « bon » et le « mauvais » cholestérol ? Quelle place pour les statines ?Le traitement hormonal de la ménopause peut-il aide",
-      "link": "https://theconversation.com/au-dela-des-bouffees-de-chaleur-les-femmes-doivent-sinquieter-des-effets-de-la-menopause-sur-leur-coeur-284229",
-      "image": "https://counter.theconversation.com/content/284229/count.gif",
-      "publishedAt": "2026-06-06T16:44:24.000Z",
+      "id": "addt0g9",
+      "title": "Quand le remède au burn-out consistait à passer l’hiver en France",
+      "summary": "La plage de Trouville, Claude Monet (1870). The National Gallery, London Au XIXe siècle, médecins et écrivains dénonçaient les effets d’une existence toujours plus rapide, portée par le télégraphe, le train et l’industrialisation. Face au surmenage, ils prescrivaient le repos, le grand air et l’oisiveté assumée. Le bur",
+      "link": "https://theconversation.com/quand-le-remede-au-burn-out-consistait-a-passer-lhiver-en-france-284717",
+      "image": "https://images.theconversation.com/files/740332/original/file-20260602-57-10rdu4.jpg?ixlib=rb-4.1.0&amp;rect=0%2C155%2C2000%2C1333&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-07T09:59:49.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahdp3io",
+      "title": "Fox News et le « grand remplacement » : ce que révèle une étude sur l’opinion américaine",
+      "summary": "Une enquête menée auprès de plus de 500 Américains blancs suivis dans le temps montre que l’audience de Fox News est associée à une adhésion accrue à la théorie complotiste du « grand remplacement ». Un résultat qui éclaire le rôle des médias dans la diffusion de certaines croyances politiques. Lors d’un match de baseb",
+      "link": "https://theconversation.com/fox-news-et-le-grand-remplacement-ce-que-revele-une-etude-sur-lopinion-americaine-284720",
+      "image": "https://counter.theconversation.com/content/284720/count.gif",
+      "publishedAt": "2026-06-07T09:40:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -170,8 +168,42 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahta1zp",
+      "title": "Actualité de l’éducation du 1er au 5 juin 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés sur le Café pédagogique. De Bétharram à l’Assemblée : la loi qui pourrait changer l’école « Une étape L’article Actualité de l’éducation du 1er au 5 juin 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/06/actualite-de-leducation-du-1er-au-5-juin-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Loi-300x222.png",
+      "publishedAt": "2026-06-06T06:57:47.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ak1orc1",
+      "title": "Au-delà des bouffées de chaleur, les femmes doivent s’inquiéter des effets de la ménopause sur leur cœur",
+      "summary": "Les maladies cardiovasculaires ne se conjuguent pas uniquement au masculin et leur risque augmente chez la femme à la périménopause. Quels rôles jouent le métabolisme des lipides et, notamment, le « bon » et le « mauvais » cholestérol ? Quelle place pour les statines ?Le traitement hormonal de la ménopause peut-il aide",
+      "link": "https://theconversation.com/au-dela-des-bouffees-de-chaleur-les-femmes-doivent-sinquieter-des-effets-de-la-menopause-sur-leur-coeur-284229",
+      "image": "https://counter.theconversation.com/content/284229/count.gif",
+      "publishedAt": "2026-06-06T16:44:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "az64u9n",
@@ -186,8 +218,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqh2hjf",
@@ -202,8 +234,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amvuqfn",
@@ -218,8 +250,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "azc1mpg",
@@ -234,7 +266,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avppgbz",
+      "title": "Faut-il craindre un « super El Niño » en 2026 ? Les signaux s’accumulent, mais les incertitudes demeurent",
+      "summary": "Le Pacifique tropical se réchauffe rapidement, alimentant les spéculations sur un épisode El Niño d’une intensité exceptionnelle. Pourtant, plusieurs mécanismes atmosphériques essentiels à son développement ne sont pas encore en place. L’hypothèse d’un « super El Niño » en 2026 gagne du terrain, alimentant les inquiétu",
+      "link": "https://theconversation.com/faut-il-craindre-un-super-el-nino-en-2026-les-signaux-saccumulent-mais-les-incertitudes-demeurent-283207",
+      "image": "https://images.theconversation.com/files/735866/original/file-20260514-57-wjgloz.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-06T07:38:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -252,7 +300,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,23 +318,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avppgbz",
-      "title": "Faut-il craindre un « super El Niño » en 2026 ? Les signaux s’accumulent, mais les incertitudes demeurent",
-      "summary": "Le Pacifique tropical se réchauffe rapidement, alimentant les spéculations sur un épisode El Niño d’une intensité exceptionnelle. Pourtant, plusieurs mécanismes atmosphériques essentiels à son développement ne sont pas encore en place. L’hypothèse d’un « super El Niño » en 2026 gagne du terrain, alimentant les inquiétu",
-      "link": "https://theconversation.com/faut-il-craindre-un-super-el-nino-en-2026-les-signaux-saccumulent-mais-les-incertitudes-demeurent-283207",
-      "image": "https://images.theconversation.com/files/735866/original/file-20260514-57-wjgloz.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-06T07:38:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -302,7 +334,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +352,7 @@
       ],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +368,7 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -352,7 +384,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,7 +403,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -389,7 +421,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -405,7 +437,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -423,7 +455,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,8 +471,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aen10zb",
@@ -458,8 +490,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "arnn35u",
@@ -476,8 +508,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "af365pt",
@@ -492,8 +524,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "awbzceb",
@@ -508,8 +540,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a6gnifn",
@@ -524,8 +556,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ax353kt",
@@ -543,7 +575,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -561,7 +593,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -577,7 +609,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -593,7 +625,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -609,7 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -625,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -641,23 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a4sz5sm",
-      "title": "Dans la peau des décideurs : en Colombie, un jeu de rôle pour comprendre les arbitrages de la transition énergétique",
-      "summary": "La Colombie dispose d’un mix électrique déjà largement décarboné, mais reste très dépendante du charbon et du pétrole qui représentent 55 % de ses importations. Projet LEAF En matière de transition énergétique, gare aux décisions hâtives et aux modélisations simplistes : chaque choix politique nécessite des arbitrages ",
-      "link": "https://theconversation.com/dans-la-peau-des-decideurs-en-colombie-un-jeu-de-role-pour-comprendre-les-arbitrages-de-la-transition-energetique-282188",
-      "image": "https://images.theconversation.com/files/734019/original/file-20260505-57-s5rmlx.png?ixlib=rb-4.1.0&amp;rect=178%2C0%2C1490%2C993&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-03T15:02:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -673,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -691,23 +707,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3pz5rd",
-      "title": "« Vieux » et fiers de l’être : retourner le stigmate pour se faire entendre !",
-      "summary": "« Vieilles » et « vieux » sont des qualificatifs jugés stigmatisants pour désigner les personnes âgées. Et pourtant, ils n’ont jamais autant fait florès. Retour sur les raisons d’un tel phénomène plutôt paradoxal. En France, les plus âgés ont longtemps été désignés par les termes de « vieux » ou de « vieillards », nota",
-      "link": "https://theconversation.com/vieux-et-fiers-de-letre-retourner-le-stigmate-pour-se-faire-entendre-281772",
-      "image": "https://counter.theconversation.com/content/281772/count.gif",
-      "publishedAt": "2026-06-03T15:02:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 22,
       "urgencyLevel": "basse"
     }
   ]
