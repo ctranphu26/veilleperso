@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T14:51:36.278Z",
+  "generatedAt": "2026-06-08T23:03:09.379Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,19 +119,35 @@
   "count": 35,
   "items": [
     {
-      "id": "ah6pw4z",
-      "title": "Voie professionnelle : « Le cumul de réformes hors sol attaque le sens de notre métier »",
-      "summary": "« Le cumul de réformes hors sol, car éloignées des demandes des personnels, et les injonctions hiérarchiques souvent contradictoires attaquent le sens de notre métier ». À l’occasion des Ateliers de la L’article Voie professionnelle : « Le cumul de réformes hors sol attaque le sens de notre métier » est apparu en premi",
-      "link": "https://www.cafepedagogique.net/2026/06/08/voie-professionnelle-le-cumul-de-reformes-hors-sol-attaque-le-sens-de-notre-metier/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/voie-pro-300x184.png",
-      "publishedAt": "2026-06-08T04:00:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "ach2xxs",
+      "title": "Drogues : malgré des saisies record, un trafic et une consommation en forte croissance",
+      "summary": "Les quantités de drogue saisies par les forces de l’ordre françaises sont toujours plus importantes. Pourtant, ces saisies ne signifient pas que la lutte contre le narcotrafic est un succès. En effet, la consommation est, elle aussi, en forte croissance. Chaque année, les autorités françaises annoncent des saisies reco",
+      "link": "https://theconversation.com/drogues-malgre-des-saisies-record-un-trafic-et-une-consommation-en-forte-croissance-281814",
+      "image": "https://counter.theconversation.com/content/281814/count.gif",
+      "publishedAt": "2026-06-08T15:24:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 48,
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ak76wwh",
+      "title": "La Russie est-elle un État colonial  ?",
+      "summary": "*La conquête de la Sibérie par Ermak*, tableau de Vassili Sourikov peint en 1895, représente une bataille en 1582 entre les forces russes conduites par Ermak, un chef cosaque au service d’Ivan le Terrible, et l’armée du khanat de Sibérie. Musée Russe (Saint-Pétersbourg) Si la Fédération de Russie est aujourd’hui l’État",
+      "link": "https://theconversation.com/la-russie-est-elle-un-etat-colonial-283996",
+      "image": "https://images.theconversation.com/files/739440/original/file-20260602-57-hw2h2k.jpg?ixlib=rb-4.1.0&amp;rect=326%2C0%2C1651%2C1100&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-08T15:23:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +165,23 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ah6pw4z",
+      "title": "Voie professionnelle : « Le cumul de réformes hors sol attaque le sens de notre métier »",
+      "summary": "« Le cumul de réformes hors sol, car éloignées des demandes des personnels, et les injonctions hiérarchiques souvent contradictoires attaquent le sens de notre métier ». À l’occasion des Ateliers de la L’article Voie professionnelle : « Le cumul de réformes hors sol attaque le sens de notre métier » est apparu en premi",
+      "link": "https://www.cafepedagogique.net/2026/06/08/voie-professionnelle-le-cumul-de-reformes-hors-sol-attaque-le-sens-de-notre-metier/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/voie-pro-300x184.png",
+      "publishedAt": "2026-06-08T04:00:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -197,7 +229,90 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoak8rd",
+      "title": "Sujets des épreuves anticipées de français et de mathématiques (centres étrangers)",
+      "summary": "Découvrez les sujets des épreuves anticipées de français et de mathématiques de la session 2026 pour les centres à l’étranger du groupe 1 : Français Série générale Série technologique Mathématiques L’article Sujets des épreuves anticipées de français et de mathématiques (centres étrangers) est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/06/08/sujets-des-epreuves-anticipees-de-francais-et-de-mathematiques-centres-etrangers/",
+      "image": null,
+      "publishedAt": "2026-06-08T16:37:33.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 40,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1vxqmq",
+      "title": "Lire sur papier permet-il de mieux assimiler des informations que la lecture sur écran ?",
+      "summary": "Quand nous lisons, nos yeux effectuent une série de mouvements rapides, appelés saccades. Michal Parzuchowski/Unsplash La lecture est l’une des compétences les plus difficiles à acquérir. Les supports numériques rendent-ils ce processus encore plus complexe ? Que nous dit la recherche des différences entre lecture sur ",
+      "link": "https://theconversation.com/lire-sur-papier-permet-il-de-mieux-assimiler-des-informations-que-la-lecture-sur-ecran-284166",
+      "image": "https://images.theconversation.com/files/738952/original/file-20260504-57-32mwit.jpg?ixlib=rb-4.1.0&amp;rect=9%2C0%2C4653%2C3102&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-08T15:22:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation",
+        "compétence"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2gn6c6",
+      "title": "Pouvait-on prédire les inondations espagnoles de 2024 ? Le problème de la dérive des données illustrée par la climatologie",
+      "summary": "Les inondations de Valence (Espagne), vues par le satellite état-unien Landsat-8, le 30 octobre 2024. ESA pour le traitement de données USGS, CC BY-NC-SA Le temps est l'ennemi des statisticiens. Même à l’ère des systèmes d’IA, un modèle météorologique qui serait uniquement fondé sur des données passées et des principes",
+      "link": "https://theconversation.com/pouvait-on-predire-les-inondations-espagnoles-de-2024-le-probleme-de-la-derive-des-donnees-illustree-par-la-climatologie-280312",
+      "image": "https://images.theconversation.com/files/739674/original/file-20260603-83-y0ife.jpg?ixlib=rb-4.1.0&amp;rect=0%2C96%2C1407%2C938&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-08T15:25:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "airf4lc",
+      "title": "Pourquoi l’endométriose devrait être considérée comme une maladie inflammatoire qui affecte l’ensemble de l’organisme",
+      "summary": "Considérer l’endométriose comme une affection systémique peut aider à comprendre que certains symptômes dont souffrent les femmes concernées, comme la fatigue, les douleurs articulaires, les troubles cognitifs et la sensibilité immunitaire, ne sont ni imaginaires ni sans rapport avec la maladie. Wasana Kunpol/Shutterst",
+      "link": "https://theconversation.com/pourquoi-lendometriose-devrait-etre-consideree-comme-une-maladie-inflammatoire-qui-affecte-lensemble-de-lorganisme-283343",
+      "image": "https://images.theconversation.com/files/736841/original/file-20260319-71-lntbmy.jpg?ixlib=rb-4.1.0&amp;rect=0%2C1%2C8256%2C5503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-08T15:24:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1xhqcz",
+      "title": "Pourquoi les IA génératives hallucinent-elles ?",
+      "summary": "ChatGPT, comme les autres IA génératives de texte, invente une partie de ses réponses. Bertelli/Pexels, CC BY Vous en avez peut-être déjà fait l’expérience : les intelligences artificielles, ou IA, génératives de texte inventent régulièrement des éléments de réponses, d’autant plus difficiles à détecter qu’ils s’intègr",
+      "link": "https://theconversation.com/pourquoi-les-ia-generatives-hallucinent-elles-270493",
+      "image": "https://images.theconversation.com/files/739738/original/file-20260603-71-888p03.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C5909%2C3940&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-08T15:21:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -213,8 +328,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aihjn2e",
@@ -231,8 +346,26 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ajygwbs",
+      "title": "Modéliser les territoires pour mieux décider ? Les promesses et les limites des jumeaux numériques pour l’environnement",
+      "summary": "Les jumeaux numériques environnementaux permettent de mieux comprendre les ressources naturelles, un objectif au cœur du programme ARD JUNON, soutenu par la Région Centre-Val de Loire. Ces outils centralisent des données de terrain, des modèles et des analyses. Didier Depoorter/BRGM, Fourni par l'auteur Faut-il adapter",
+      "link": "https://theconversation.com/modeliser-les-territoires-pour-mieux-decider-les-promesses-et-les-limites-des-jumeaux-numeriques-pour-lenvironnement-283732",
+      "image": "https://images.theconversation.com/files/739661/original/file-20260603-83-pyskco.jpeg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C5568%2C3711&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-07T16:32:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ata9rnm",
@@ -250,7 +383,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,25 +402,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajygwbs",
-      "title": "Modéliser les territoires pour mieux décider ? Les promesses et les limites des jumeaux numériques pour l’environnement",
-      "summary": "Les jumeaux numériques environnementaux permettent de mieux comprendre les ressources naturelles, un objectif au cœur du programme ARD JUNON, soutenu par la Région Centre-Val de Loire. Ces outils centralisent des données de terrain, des modèles et des analyses. Didier Depoorter/BRGM, Fourni par l'auteur Faut-il adapter",
-      "link": "https://theconversation.com/modeliser-les-territoires-pour-mieux-decider-les-promesses-et-les-limites-des-jumeaux-numeriques-pour-lenvironnement-283732",
-      "image": "https://images.theconversation.com/files/739661/original/file-20260603-83-pyskco.jpeg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C5568%2C3711&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-07T16:32:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -305,7 +420,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -323,7 +438,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -341,25 +456,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajzl6wq",
-      "title": "AESH : nouvelle journée de mobilisation nationale",
-      "summary": "Le 9 juin est une journée nationale de mobilisation des AESH. Les enseignant·es, PsyEN et AESH sont appelés à se mobiliser. Les professionnels de terrain sont exclus de la Conférence L’article AESH : nouvelle journée de mobilisation nationale est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/08/aesh-nouvelle-journee-de-mobilisation-nationale/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/cafepedagogiqueAESH-1-300x169.jpeg",
-      "publishedAt": "2026-06-08T03:27:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -375,7 +472,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -391,7 +488,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +504,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +522,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -443,7 +540,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +556,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +572,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,7 +588,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -507,28 +604,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq1r0of",
-      "title": "Classes prépas : modèle du passé ou passeport pour l’emploi à l’ère de l’IA ?",
-      "summary": "Si elles ne sont plus aujourd’hui la seule voie d’accès aux grandes écoles, les classes préparatoires implantées dans les lycées permettent à leurs élèves de développer une pluridisciplinarité et une agilité précieuses dans un monde en pleine transformation. Regard sur ce modèle alors que débute la phase d’admission su",
-      "link": "https://theconversation.com/classes-prepas-modele-du-passe-ou-passeport-pour-lemploi-a-lere-de-lia-278616",
-      "image": "https://counter.theconversation.com/content/278616/count.gif",
-      "publishedAt": "2026-06-05T16:16:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "élève",
-        "classe",
-        "formation"
-      ],
-      "relevance": 90,
-      "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -544,8 +620,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "az64u9n",
@@ -560,8 +636,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aqh2hjf",
@@ -576,8 +652,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amvuqfn",
@@ -592,8 +668,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "azc1mpg",
@@ -608,25 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aw8f7d8",
-      "title": "La plus célèbre marche de l’histoire anglaise est-elle un mythe ?",
-      "summary": "La bataille d’Hastings (1066), aboutissement du récit de la tapisserie de Bayeux (ici, en illustration), oppose le roi Harold d’Angleterre aux troupes du duc Guillaume de Normandie ; la victoire de ce dernier ouvre la voie à la conquête normande de l’Angleterre. Wiki Commons Une relecture des sources en latin et en vie",
-      "link": "https://theconversation.com/la-plus-celebre-marche-de-lhistoire-anglaise-est-elle-un-mythe-282889",
-      "image": "https://images.theconversation.com/files/735535/original/file-20260317-69-gh0xzc.jpg?ixlib=rb-4.1.0&amp;rect=0%2C94%2C1800%2C1200&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-06T07:18:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -642,73 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "app99t2",
-      "title": "La poussière d’étoiles piégée dans la glace antarctique révèle des dizaines de milliers d’années de l’histoire du Système solaire",
-      "summary": "L'Antarctique offre un terrain d'observation précieux où la neige s’accumule lentement et reste en grande partie préservée des perturbations. Derek Oyen/Unsplash, CC BY Des atomes de fer 60, produits lors d’explosions stellaires, permettent de remonter le fil de l’histoire de notre environnement galactique. Leur présen",
-      "link": "https://theconversation.com/la-poussiere-detoiles-piegee-dans-la-glace-antarctique-revele-des-dizaines-de-milliers-dannees-de-lhistoire-du-systeme-solaire-283294",
-      "image": "https://images.theconversation.com/files/740220/original/file-20260605-85-8dfuww.jpg?ixlib=rb-4.1.0&amp;rect=274%2C0%2C2962%2C1974&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-06T07:19:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1f67uk",
-      "title": "Aux États-Unis, le droit à la réparation victime collatérale de la guerre d’Hollywood contre les magnétoscopes",
-      "summary": "Conçues à l’origine pour protéger les œuvres culturelles contre la copie illégale, certaines dispositions du droit d’auteur américain limitent aujourd’hui la réparation de nombreux objets du quotidien. Un héritage inattendu des guerres du magnétoscope. Steve Jurvetson/Wikimedia Commons, CC BY Des verrous numériques qui",
-      "link": "https://theconversation.com/aux-etats-unis-le-droit-a-la-reparation-victime-collaterale-de-la-guerre-dhollywood-contre-les-magnetoscopes-283895",
-      "image": "https://images.theconversation.com/files/738270/original/file-20260520-101-plbzxa.jpg?ixlib=rb-4.1.0&amp;rect=0%2C136%2C2731%2C1820&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-05T08:01:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8f55sa",
-      "title": "Plus productive, mais pas plus rentable : le paradoxe de l’agriculture française depuis 1960",
-      "summary": "Si, en matière de production agricole, la France est la première de la classe de l’Union européenne avec 17 %, son modèle économique n’est pas aussi performant que le laisse penser cette bonne note. Car, derrière la modernisation sur tous les fronts, l’agriculture stagne en matière de rentabilité. Depuis les années 196",
-      "link": "https://theconversation.com/plus-productive-mais-pas-plus-rentable-le-paradoxe-de-lagriculture-francaise-depuis-1960-277021",
-      "image": "https://counter.theconversation.com/content/277021/count.gif",
-      "publishedAt": "2026-06-05T16:15:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ag0skk6",
-      "title": "Affaire Lyhanna : protéger avant qu’il ne soit trop tard, sans renoncer à l’État de droit",
-      "summary": "Après l'enlèvement et le meurtre de Lyhanna, 11 ans, un homme, déjà mis en cause par trois plaintes pour viols sur mineurs, mais jamais condamné, est suspecté. De nombreux responsables politiques de tous bords ont dénoncé des dysfonctionnements de la justice, qui n’aurait pas protégé d’éventuelles victimes de cet homme",
-      "link": "https://theconversation.com/affaire-lyhanna-proteger-avant-quil-ne-soit-trop-tard-sans-renoncer-a-letat-de-droit-284683",
-      "image": "https://counter.theconversation.com/content/284683/count.gif",
-      "publishedAt": "2026-06-05T14:22:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 32,
       "urgencyLevel": "basse"
     }
   ]
