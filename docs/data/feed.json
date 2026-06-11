@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T13:05:35.788Z",
+  "generatedAt": "2026-06-11T23:11:06.977Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -199,41 +199,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "auw3ze6",
-      "title": "Raphaël Muller devient le recteur de Nantes",
-      "summary": "Du nouveau pour l’académie de Nantes. Raphaël Muller, conseiller référendaire à la Cour des comptes, est nommé recteur de la région académique Pays de la Loire, recteur de l’académie de L’article Raphaël Muller devient le recteur de Nantes est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/11/raphael-muller-devient-le-recteur-de-nantes/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2016/02/02acnantes.jpg",
-      "publishedAt": "2026-06-11T03:27:47.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a55ygyq",
-      "title": "Le Salvador, laboratoire du techno-autoritarisme",
-      "summary": "Longtemps présenté comme un pays miné par les gangs et la violence, le Salvador est devenu en quelques années la vitrine internationale du « modèle Bukele », du nom de son président Nayib Bukele, au pouvoir depuis 2019. Derrière les succès sécuritaires et l’image d’un État moderne se dessine pourtant une transformation",
-      "link": "https://theconversation.com/le-salvador-laboratoire-du-techno-autoritarisme-284227",
-      "image": "https://counter.theconversation.com/content/284227/count.gif",
-      "publishedAt": "2026-06-11T11:12:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -251,8 +217,42 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 70,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "auw3ze6",
+      "title": "Raphaël Muller devient le recteur de Nantes",
+      "summary": "Du nouveau pour l’académie de Nantes. Raphaël Muller, conseiller référendaire à la Cour des comptes, est nommé recteur de la région académique Pays de la Loire, recteur de l’académie de L’article Raphaël Muller devient le recteur de Nantes est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/11/raphael-muller-devient-le-recteur-de-nantes/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2016/02/02acnantes.jpg",
+      "publishedAt": "2026-06-11T03:27:47.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a55ygyq",
+      "title": "Le Salvador, laboratoire du techno-autoritarisme",
+      "summary": "Longtemps présenté comme un pays miné par les gangs et la violence, le Salvador est devenu en quelques années la vitrine internationale du « modèle Bukele », du nom de son président Nayib Bukele, au pouvoir depuis 2019. Derrière les succès sécuritaires et l’image d’un État moderne se dessine pourtant une transformation",
+      "link": "https://theconversation.com/le-salvador-laboratoire-du-techno-autoritarisme-284227",
+      "image": "https://counter.theconversation.com/content/284227/count.gif",
+      "publishedAt": "2026-06-11T11:12:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "at2z2c0",
@@ -267,8 +267,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aftc0wp",
@@ -283,8 +283,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agbc9m4",
@@ -299,8 +299,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9tryb3",
@@ -315,8 +315,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aie5l4m",
@@ -331,42 +331,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apynsi7",
       "title": "Découvrez les sujets de l’épreuve anticipée de français (bac 2026)",
-      "summary": "Téléchargez les sujets de l’épreuve anticipée de français pour cette session 2026 en métropole, à la Réunion et à Mayotte. Sujet de la série générale Sujet de la série L’article Découvrez les sujets de l’épreuve anticipée de français (bac 2026) est apparu en premier sur Le Café pédagogique.",
+      "summary": "Téléchargez les sujets de l’épreuve anticipée de français pour cette session 2026 en métropole, à la Réunion et à Mayotte. Sujet de la série générale Sujet de la série technologique L’article Découvrez les sujets de l’épreuve anticipée de français (bac 2026) est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/06/11/decouvrez-le-sujet-de-lepreuve-anticipee-de-francais-en-metropole-bac-2026/",
-      "image": null,
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/calendrier-bac-2026.jpg",
       "publishedAt": "2026-06-11T08:06:59.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 40,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ax1bjks",
-      "title": "Les Journées de l’archéologie : les élèves invités à fouiller le passé",
-      "summary": "Les Journées européennes de l’archéologie se tiennent du 12 au 14 juin 2026. Cette 17e édition invite le public à explorer le passé, du plus ancien au plus récent. À L’article Les Journées de l’archéologie : les élèves invités à fouiller le passé est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/11/les-journees-de-larcheologie-les-eleves-invites-a-fouiller-le-passe/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/JEA-2026-300x281.jpg",
-      "publishedAt": "2026-06-11T03:28:36.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayc6zh5",
@@ -383,8 +365,44 @@
       ],
       "relevance": 76,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "akj42kf",
+      "title": "Loi contre les violences scolaires : une victoire des victimes ?",
+      "summary": "Rédigée à la suite de la commission d’enquête parlementaire sur le scandale de Bétharram, la proposition de loi visant à protéger les enfants contre les violences en milieu scolaire a été adoptée à l’unanimité à l’Assemblée nationale, marquant une rupture nette avec une longue histoire de la pédagogie fondée sur une id",
+      "link": "https://theconversation.com/loi-contre-les-violences-scolaires-une-victoire-des-victimes-284747",
+      "image": "https://counter.theconversation.com/content/284747/count.gif",
+      "publishedAt": "2026-06-10T14:06:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ax1bjks",
+      "title": "Les Journées de l’archéologie : les élèves invités à fouiller le passé",
+      "summary": "Les Journées européennes de l’archéologie se tiennent du 12 au 14 juin 2026. Cette 17e édition invite le public à explorer le passé, du plus ancien au plus récent. À L’article Les Journées de l’archéologie : les élèves invités à fouiller le passé est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/11/les-journees-de-larcheologie-les-eleves-invites-a-fouiller-le-passe/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/JEA-2026-300x281.jpg",
+      "publishedAt": "2026-06-11T03:28:36.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aa6u2r5",
@@ -402,8 +420,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am0fv3l",
@@ -420,57 +438,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "atm0hi8",
-      "title": "Parcoursup : quand les premières réponses soulèvent mille questions",
-      "summary": "La phase d’admission de Parcoursup a débuté le 2 juin. Premières réponses, listes d’attente, délais à respecter… cette étape soulève souvent de nombreuses questions. Que signifient les différentes réponses ? L’article Parcoursup : quand les premières réponses soulèvent mille questions est apparu en premier sur Le Café ",
-      "link": "https://www.cafepedagogique.net/2026/06/11/parcoursup-quand-les-premieres-reponses-soulevent-mille-questions/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Image_Phase-dadmission-Parcoursup-300x162.png",
-      "publishedAt": "2026-06-11T03:29:50.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a6kje0o",
-      "title": "Cinéma : La Quinzaine fait son festival dans toute la France",
-      "summary": "Vitrine de talents originaux venus du monde entier, lieu d’accueil de jeunes réalisateurs et d’exposition de bien des cinéastes confirmés, la Quinzaine des Cinéastes, section ‘parallèle’ du Festival de Cannes, L’article Cinéma : La Quinzaine fait son festival dans toute la France est apparu en premier sur Le Café pédag",
-      "link": "https://www.cafepedagogique.net/2026/06/11/cinema-la-quinzaine-fait-son-festival-dans-toute-la-france/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/QZ-ensalle26_logo_noir-300x300.png",
-      "publishedAt": "2026-06-11T03:28:03.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "akj42kf",
-      "title": "Loi contre les violences scolaires : une victoire des victimes ?",
-      "summary": "Rédigée à la suite de la commission d’enquête parlementaire sur le scandale de Bétharram, la proposition de loi visant à protéger les enfants contre les violences en milieu scolaire a été adoptée à l’unanimité à l’Assemblée nationale, marquant une rupture nette avec une longue histoire de la pédagogie fondée sur une id",
-      "link": "https://theconversation.com/loi-contre-les-violences-scolaires-une-victoire-des-victimes-284747",
-      "image": "https://counter.theconversation.com/content/284747/count.gif",
-      "publishedAt": "2026-06-10T14:06:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,7 +454,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atm0hi8",
+      "title": "Parcoursup : quand les premières réponses soulèvent mille questions",
+      "summary": "La phase d’admission de Parcoursup a débuté le 2 juin. Premières réponses, listes d’attente, délais à respecter… cette étape soulève souvent de nombreuses questions. Que signifient les différentes réponses ? L’article Parcoursup : quand les premières réponses soulèvent mille questions est apparu en premier sur Le Café ",
+      "link": "https://www.cafepedagogique.net/2026/06/11/parcoursup-quand-les-premieres-reponses-soulevent-mille-questions/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Image_Phase-dadmission-Parcoursup-300x162.png",
+      "publishedAt": "2026-06-11T03:29:50.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6kje0o",
+      "title": "Cinéma : La Quinzaine fait son festival dans toute la France",
+      "summary": "Vitrine de talents originaux venus du monde entier, lieu d’accueil de jeunes réalisateurs et d’exposition de bien des cinéastes confirmés, la Quinzaine des Cinéastes, section ‘parallèle’ du Festival de Cannes, L’article Cinéma : La Quinzaine fait son festival dans toute la France est apparu en premier sur Le Café pédag",
+      "link": "https://www.cafepedagogique.net/2026/06/11/cinema-la-quinzaine-fait-son-festival-dans-toute-la-france/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/QZ-ensalle26_logo_noir-300x300.png",
+      "publishedAt": "2026-06-11T03:28:03.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -504,7 +504,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -520,7 +520,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aisz4p4",
+      "title": "Marjane Satrapi, the woman who helped the world understand Iran",
+      "summary": "The news of Iranian-French artist Marjane Satrapi’s death, on June 4 2026, at the age of just 56, has stirred emotions that extend far beyond the world of comics and the film industry. Tributes have been paid to an outspoken, strong-willed, freedom-loving artist, and a tireless critic of the Islamic Republic of Iran. N",
+      "link": "https://theconversation.com/marjane-satrapi-the-woman-who-helped-the-world-understand-iran-284832",
+      "image": "https://images.theconversation.com/files/740843/original/file-20260609-57-byuyos.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-10T15:00:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -538,23 +554,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aisz4p4",
-      "title": "Marjane Satrapi, the woman who helped the world understand Iran",
-      "summary": "The news of Iranian-French artist Marjane Satrapi’s death, on June 4 2026, at the age of just 56, has stirred emotions that extend far beyond the world of comics and the film industry. Tributes have been paid to an outspoken, strong-willed, freedom-loving artist, and a tireless critic of the Islamic Republic of Iran. N",
-      "link": "https://theconversation.com/marjane-satrapi-the-woman-who-helped-the-world-understand-iran-284832",
-      "image": "https://images.theconversation.com/files/740843/original/file-20260609-57-byuyos.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-10T15:00:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -570,7 +570,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -586,7 +586,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -604,7 +604,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -620,7 +620,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -636,7 +636,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -654,7 +654,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -670,7 +670,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -688,8 +688,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aa7dj25",
@@ -704,8 +704,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     }
   ]
 }
