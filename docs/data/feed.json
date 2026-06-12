@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T12:39:29.481Z",
+  "generatedAt": "2026-06-12T23:03:23.560Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awvljy2",
+      "title": "Nous avons lancé 100 000 simulations de la Coupe du monde. Et le vainqueur est…",
+      "summary": "L’Espagne, la France ou l’Angleterre soulèveront-elles le trophée ? En s’appuyant sur les données de milliers de matchs, des statisticiens ont simulé 100 000 fois la Coupe du monde 2026 de foot pour identifier les scénarios les plus probables. Autrefois, pour savoir quelle équipe allait remporter la Coupe du monde, il ",
+      "link": "https://theconversation.com/nous-avons-lance-100-000-simulations-de-la-coupe-du-monde-et-le-vainqueur-est-285191",
+      "image": "https://counter.theconversation.com/content/285191/count.gif",
+      "publishedAt": "2026-06-12T14:18:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +165,8 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aoligf5",
@@ -165,8 +181,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avoeme7",
@@ -181,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "af8igs6",
@@ -197,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anqs3te",
@@ -215,8 +231,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akw6b7f",
@@ -234,24 +250,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "arncb4a",
-      "title": "Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement",
-      "summary": "La députée LFI Murielle Lepvraud a interpellé le ministre de l’Éducation nationale mardi 9 juin à l’Assemblée nationale sur le cas d’AESH licenciées ou menacées de l’être parce qu’elles ont L’article Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement est apparu en premier",
-      "link": "https://www.cafepedagogique.net/2026/06/12/des-aesh-licenciees-en-cas-de-refus-dintegrer-un-pas-pourtant-rejetes-par-le-parlement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-assemblee-nationale-300x244.png",
-      "publishedAt": "2026-06-12T04:00:01.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ag2jujy",
@@ -268,8 +268,24 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "arncb4a",
+      "title": "Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement",
+      "summary": "La députée LFI Murielle Lepvraud a interpellé le ministre de l’Éducation nationale mardi 9 juin à l’Assemblée nationale sur le cas d’AESH licenciées ou menacées de l’être parce qu’elles ont L’article Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement est apparu en premier",
+      "link": "https://www.cafepedagogique.net/2026/06/12/des-aesh-licenciees-en-cas-de-refus-dintegrer-un-pas-pourtant-rejetes-par-le-parlement/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-assemblee-nationale-300x244.png",
+      "publishedAt": "2026-06-12T04:00:01.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "an56x0i",
@@ -284,8 +300,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aon2od6",
@@ -300,8 +316,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4m39ry",
@@ -316,8 +332,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "av7flj8",
@@ -332,8 +348,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6t0lc7",
@@ -348,7 +364,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -364,7 +380,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -380,7 +396,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,7 +414,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -416,7 +432,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,7 +448,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -448,7 +464,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +480,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +496,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +512,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -514,7 +530,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -530,7 +546,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -548,7 +564,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -564,8 +580,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "as4kjyz",
@@ -582,8 +598,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a51ndqn",
@@ -598,8 +614,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amwlsv6",
@@ -614,8 +630,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aah1v8l",
@@ -632,7 +648,39 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aky9f1k",
+      "title": "TW, kWh, mAh… Quelle est la différence entre énergie et puissance ?",
+      "summary": "La machine à vapeur de Watt et Boulton date de 1788. Science Museum, London, CC BY-NC-SA Dans le langage courant, on confond trop souvent les notions d’énergie et de puissance. Or, ces notions sont au cœur d’enjeux clés pour nos sociétés, comme nous en prenons conscience de façon aiguë lorsque des tensions géopolitique",
+      "link": "https://theconversation.com/tw-kwh-mah-quelle-est-la-difference-entre-energie-et-puissance-284239",
+      "image": "https://images.theconversation.com/files/740468/original/file-20260608-71-jfgslm.png?ixlib=rb-4.1.0&amp;rect=68%2C96%2C1036%2C690&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-10T09:20:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a2zu31u",
+      "title": "Première scientifique : nous avons réussi à enregistrer l’activité cardiaque d’un rorqual commun en liberté",
+      "summary": "Que se passe-t-il dans le cœur d’une baleine lorsqu’elle plonge en apnée ? En août 2025, au cours d’une mission en mer Méditerranée, nous avons pu enregistrer, pour la première fois, l’activité cardiaque d’un rorqual commun, l’un des plus grands animaux de la planète (20 mètres de long, 70 tonnes). Cela a été rendu pos",
+      "link": "https://theconversation.com/premiere-scientifique-nous-avons-reussi-a-enregistrer-lactivite-cardiaque-dun-rorqual-commun-en-liberte-283622",
+      "image": "https://images.theconversation.com/files/740719/original/file-20260609-71-5elsv7.jpeg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-10T09:20:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -650,55 +698,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aky9f1k",
-      "title": "TW, kWh, mAh… Quelle est la différence entre énergie et puissance ?",
-      "summary": "La machine à vapeur de Watt et Boulton date de 1788. Science Museum, London, CC BY-NC-SA Dans le langage courant, on confond trop souvent les notions d’énergie et de puissance. Or, ces notions sont au cœur d’enjeux clés pour nos sociétés, comme nous en prenons conscience de façon aiguë lorsque des tensions géopolitique",
-      "link": "https://theconversation.com/tw-kwh-mah-quelle-est-la-difference-entre-energie-et-puissance-284239",
-      "image": "https://images.theconversation.com/files/740468/original/file-20260608-71-jfgslm.png?ixlib=rb-4.1.0&amp;rect=68%2C96%2C1036%2C690&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-10T09:20:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2zu31u",
-      "title": "Première scientifique : nous avons réussi à enregistrer l’activité cardiaque d’un rorqual commun en liberté",
-      "summary": "Que se passe-t-il dans le cœur d’une baleine lorsqu’elle plonge en apnée ? En août 2025, au cours d’une mission en mer Méditerranée, nous avons pu enregistrer, pour la première fois, l’activité cardiaque d’un rorqual commun, l’un des plus grands animaux de la planète (20 mètres de long, 70 tonnes). Cela a été rendu pos",
-      "link": "https://theconversation.com/premiere-scientifique-nous-avons-reussi-a-enregistrer-lactivite-cardiaque-dun-rorqual-commun-en-liberte-283622",
-      "image": "https://images.theconversation.com/files/740719/original/file-20260609-71-5elsv7.jpeg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-10T09:20:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "al763a3",
-      "title": "Algues vertes, fougères et mousses : comment les plantes sans fleurs se reproduisent-elles ?",
-      "summary": "Johannes Hedwig a commencé à étudier les plantes sans fleurs au XVIIIᵉ siècle. Biodiversity Heritage Library Avant les fleurs. Enquête scientifique aux origines des plantes est le fruit d’une collaboration entre Yoan Coudert, un chercheur spécialiste du développement et de l'évolution des plantes, et Louise Joor, une a",
-      "link": "https://theconversation.com/algues-vertes-fougeres-et-mousses-comment-les-plantes-sans-fleurs-se-reproduisent-elles-284736",
-      "image": "https://images.theconversation.com/files/740425/original/file-20260608-57-9oihtt.png?ixlib=rb-4.1.0&amp;rect=213%2C0%2C1003%2C668&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-10T07:43:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 32,
       "urgencyLevel": "basse"
     }
   ]
