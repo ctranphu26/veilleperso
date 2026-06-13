@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T23:03:23.560Z",
+  "generatedAt": "2026-06-13T10:14:04.900Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,40 @@
   "count": 35,
   "items": [
     {
+      "id": "a17nnic",
+      "title": "12 ressources sélectionnées par le Café pédagogique",
+      "summary": "Retrouvez sur cette page 12 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Histoire-géographie : quelle place pour la Chine dans L’article 12 ressources sélectionnées par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/13/12-ressources-selectionnees-par-le-cafe-pedagogique-3/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/cafepedaggoique-corentinHuneau-209x300.jpeg",
+      "publishedAt": "2026-06-13T07:21:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "am09hej",
+      "title": "Actualité de l’éducation du 8 au 12 juin 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés sur le Café pédagogique. Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté L’article Actualité de l’éducation du 8 au 12 juin 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/13/actualite-de-leducation-du-8-au-12-juin-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-assemblee-nationale-300x244.png",
+      "publishedAt": "2026-06-13T07:10:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ai1m007",
       "title": "Préparer la rentrée 2026-2027, avec ou sans IA",
       "summary": "« Comment éduquer et conduire les jeunes à leur développement si les enseignants n’ont pas les bases personnelles nécessaires ? » demande Bruno Devauchelle dans sa chronique, avant de conclure L’article Préparer la rentrée 2026-2027, avec ou sans IA est apparu en premier sur Le Café pédagogique.",
@@ -133,8 +167,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awvljy2",
@@ -149,8 +183,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "autrfgk",
@@ -165,7 +199,7 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +265,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -250,7 +284,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -268,7 +302,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -284,7 +318,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -300,7 +334,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -316,39 +350,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4m39ry",
-      "title": "Une immersion dans l’histoire antique du littoral occitan",
-      "summary": "Il y a 2700 ans, la région littorale de l’Europe celtique située entre le Cap Couronne, (à l’ouest de Marseille), et le cap de Creus en Catalogne, voit débuter une L’article Une immersion dans l’histoire antique du littoral occitan est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/12/une-immersion-dans-lhistoire-antique-du-littoral-occitan/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/art-202x300.png",
-      "publishedAt": "2026-06-12T03:28:03.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "av7flj8",
-      "title": "Katia Béguin prend la présidence du CSP (conseil supérieur des programmes)",
-      "summary": "Mark Sherringham ayant quitté en début d’année la présidence du Conseil supérieur des programmes, c’est l’ancienne rectrice de Nantes qui prend la suite. Katia Beguin sera ainsi à la tête L’article Katia Béguin prend la présidence du CSP (conseil supérieur des programmes) est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/12/katia-beguin-prend-la-presidence-du-csp-conseil-superieur-des-programmes/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/10/csp-300x109.jpg",
-      "publishedAt": "2026-06-12T03:27:35.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -364,7 +366,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -380,7 +382,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -396,7 +398,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -414,7 +416,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,7 +434,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -448,7 +450,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +466,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +482,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,23 +498,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aie5l4m",
-      "title": "La catastrophe qui tarde : comprendre le « paradoxe de l’environnementaliste »",
-      "summary": "Les climats se dérèglent, les écosystèmes se dégradent et pourtant, à l’échelle mondiale, le revenu moyen par habitant, l’espérance de vie et les niveaux d’éducation continuent d’augmenter. Ce décalage constitue l’un des paradoxes les plus dérangeants du débat environnemental contemporain. Explorer tous les facteurs ex",
-      "link": "https://theconversation.com/la-catastrophe-qui-tarde-comprendre-le-paradoxe-de-lenvironnementaliste-283176",
-      "image": "https://images.theconversation.com/files/736394/original/file-20260518-58-riusgw.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-11T09:37:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -530,7 +516,23 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aie5l4m",
+      "title": "La catastrophe qui tarde : comprendre le « paradoxe de l’environnementaliste »",
+      "summary": "Les climats se dérèglent, les écosystèmes se dégradent et pourtant, à l’échelle mondiale, le revenu moyen par habitant, l’espérance de vie et les niveaux d’éducation continuent d’augmenter. Ce décalage constitue l’un des paradoxes les plus dérangeants du débat environnemental contemporain. Explorer tous les facteurs ex",
+      "link": "https://theconversation.com/la-catastrophe-qui-tarde-comprendre-le-paradoxe-de-lenvironnementaliste-283176",
+      "image": "https://images.theconversation.com/files/736394/original/file-20260518-58-riusgw.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-11T09:37:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -546,7 +548,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -564,8 +566,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aisz4p4",
@@ -580,7 +582,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -598,7 +600,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -614,7 +616,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -630,7 +632,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -648,39 +650,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aky9f1k",
-      "title": "TW, kWh, mAh… Quelle est la différence entre énergie et puissance ?",
-      "summary": "La machine à vapeur de Watt et Boulton date de 1788. Science Museum, London, CC BY-NC-SA Dans le langage courant, on confond trop souvent les notions d’énergie et de puissance. Or, ces notions sont au cœur d’enjeux clés pour nos sociétés, comme nous en prenons conscience de façon aiguë lorsque des tensions géopolitique",
-      "link": "https://theconversation.com/tw-kwh-mah-quelle-est-la-difference-entre-energie-et-puissance-284239",
-      "image": "https://images.theconversation.com/files/740468/original/file-20260608-71-jfgslm.png?ixlib=rb-4.1.0&amp;rect=68%2C96%2C1036%2C690&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-10T09:20:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2zu31u",
-      "title": "Première scientifique : nous avons réussi à enregistrer l’activité cardiaque d’un rorqual commun en liberté",
-      "summary": "Que se passe-t-il dans le cœur d’une baleine lorsqu’elle plonge en apnée ? En août 2025, au cours d’une mission en mer Méditerranée, nous avons pu enregistrer, pour la première fois, l’activité cardiaque d’un rorqual commun, l’un des plus grands animaux de la planète (20 mètres de long, 70 tonnes). Cela a été rendu pos",
-      "link": "https://theconversation.com/premiere-scientifique-nous-avons-reussi-a-enregistrer-lactivite-cardiaque-dun-rorqual-commun-en-liberte-283622",
-      "image": "https://images.theconversation.com/files/740719/original/file-20260609-71-5elsv7.jpeg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-10T09:20:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -698,7 +668,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 28,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aky9f1k",
+      "title": "TW, kWh, mAh… Quelle est la différence entre énergie et puissance ?",
+      "summary": "La machine à vapeur de Watt et Boulton date de 1788. Science Museum, London, CC BY-NC-SA Dans le langage courant, on confond trop souvent les notions d’énergie et de puissance. Or, ces notions sont au cœur d’enjeux clés pour nos sociétés, comme nous en prenons conscience de façon aiguë lorsque des tensions géopolitique",
+      "link": "https://theconversation.com/tw-kwh-mah-quelle-est-la-difference-entre-energie-et-puissance-284239",
+      "image": "https://images.theconversation.com/files/740468/original/file-20260608-71-jfgslm.png?ixlib=rb-4.1.0&amp;rect=68%2C96%2C1036%2C690&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-10T09:20:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 28,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a2zu31u",
+      "title": "Première scientifique : nous avons réussi à enregistrer l’activité cardiaque d’un rorqual commun en liberté",
+      "summary": "Que se passe-t-il dans le cœur d’une baleine lorsqu’elle plonge en apnée ? En août 2025, au cours d’une mission en mer Méditerranée, nous avons pu enregistrer, pour la première fois, l’activité cardiaque d’un rorqual commun, l’un des plus grands animaux de la planète (20 mètres de long, 70 tonnes). Cela a été rendu pos",
+      "link": "https://theconversation.com/premiere-scientifique-nous-avons-reussi-a-enregistrer-lactivite-cardiaque-dun-rorqual-commun-en-liberte-283622",
+      "image": "https://images.theconversation.com/files/740719/original/file-20260609-71-5elsv7.jpeg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-10T09:20:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 28,
       "urgencyLevel": "basse"
     }
   ]
