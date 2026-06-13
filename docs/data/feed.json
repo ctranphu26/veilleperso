@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T17:02:14.232Z",
+  "generatedAt": "2026-06-13T21:54:01.323Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -150,7 +150,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -166,7 +166,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -182,7 +182,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -200,8 +200,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am09hej",
@@ -216,7 +216,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -234,7 +234,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -250,23 +250,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "autrfgk",
-      "title": "BAC 2026 : tous les sujets tombés en Asie",
-      "summary": "En attendant les épreuves du bac en métropole, voici de quoi s’entrainer ce week-end… Retrouvez à cette page tous les sujets 2026 du baccalauréat général pour l’Asie Télécharger le L’article BAC 2026 : tous les sujets tombés en Asie est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/12/bac-2026-les-sujets-tombes-en-asie/",
-      "image": null,
-      "publishedAt": "2026-06-12T12:15:18.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 40,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -282,7 +266,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "autrfgk",
+      "title": "BAC 2026 : tous les sujets tombés en Asie",
+      "summary": "En attendant les épreuves du bac en métropole, voici de quoi s’entrainer ce week-end… Retrouvez à cette page tous les sujets 2026 du baccalauréat général pour l’Asie Télécharger le L’article BAC 2026 : tous les sujets tombés en Asie est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/12/bac-2026-les-sujets-tombes-en-asie/",
+      "image": null,
+      "publishedAt": "2026-06-12T12:15:18.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 40,
+      "relevanceLevel": "moyenne",
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -298,7 +298,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -314,7 +314,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -332,25 +332,6 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "akw6b7f",
-      "title": "L’école, un facteur clé dans la santé mentale des jeunes LGBTIQ+",
-      "summary": "« Aucun élève en souffrance psychique sans solution » déclarait ce 2 juin le gouvernement. Puisse cet engagement ne pas être que de façade, car il y a urgence : 24 L’article L’école, un facteur clé dans la santé mentale des jeunes LGBTIQ+ est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/12/lecole-un-facteur-cle-dans-la-sante-mentale-des-jeunes-lgbtiq/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/dagorne-300x145.png",
-      "publishedAt": "2026-06-12T03:55:08.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "élève"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
       "urgency": 47,
       "urgencyLevel": "moyenne"
     },
@@ -369,7 +350,74 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6t0lc7",
+      "title": "ZFE, de la suppression au sursis : une saga juridique qui n’a pas encore dit son dernier mot",
+      "summary": "Fin mai 2026, le Conseil constitutionnel a sauvé les zones à faibles émissions mobilité, les ZFE, en annulant leur suppression. Cette décision, qui intervient sur la forme plutôt que sur le fond, n’empêchera probablement pas un retour du sujet dans le débat politique. Une généralisation trop rapide pourrait expliquer e",
+      "link": "https://theconversation.com/zfe-de-la-suppression-au-sursis-une-saga-juridique-qui-na-pas-encore-dit-son-dernier-mot-284844",
+      "image": "https://images.theconversation.com/files/740704/original/file-20260609-57-obqx4l.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-11T11:13:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 45,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a2vuhmv",
+      "title": "Le luxe contre lui-même",
+      "summary": "Après des années de résultats florissants, les groupes de luxe marquent une pause. Et si, loin des explications qui y voient des causes conjoncturelles, le secteur connaissait une crise structurelle, où c’est l’identité même du luxe qui était en jeu ? Car, après les « trente glorieuses du luxe », l’heure est au paradox",
+      "link": "https://theconversation.com/le-luxe-contre-lui-meme-284223",
+      "image": "https://counter.theconversation.com/content/284223/count.gif",
+      "publishedAt": "2026-06-11T11:11:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 45,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aqi97vo",
+      "title": "Le danger d’une IA utilisée par la justice",
+      "summary": "Les systèmes algorithmiques nécessitent une supervision humaine continue. Les « hallucinations » ou erreurs, peuvent totalement annuler les gains de temps annoncés pour les tribunaux. Oleg Troino Au Royaume-Uni, des directives suggèrent que les juges pourraient utiliser l’IA pour des travaux préparatoires. L’Estonie ut",
+      "link": "https://theconversation.com/le-danger-dune-ia-utilisee-par-la-justice-280484",
+      "image": "https://images.theconversation.com/files/730229/original/file-20260415-71-i2wgff.jpg?ixlib=rb-4.1.0&amp;rect=390%2C0%2C4218%2C2812&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-11T11:11:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 45,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "akw6b7f",
+      "title": "L’école, un facteur clé dans la santé mentale des jeunes LGBTIQ+",
+      "summary": "« Aucun élève en souffrance psychique sans solution » déclarait ce 2 juin le gouvernement. Puisse cet engagement ne pas être que de façade, car il y a urgence : 24 L’article L’école, un facteur clé dans la santé mentale des jeunes LGBTIQ+ est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/12/lecole-un-facteur-cle-dans-la-sante-mentale-des-jeunes-lgbtiq/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/dagorne-300x145.png",
+      "publishedAt": "2026-06-12T03:55:08.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "élève"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -387,55 +435,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6t0lc7",
-      "title": "ZFE, de la suppression au sursis : une saga juridique qui n’a pas encore dit son dernier mot",
-      "summary": "Fin mai 2026, le Conseil constitutionnel a sauvé les zones à faibles émissions mobilité, les ZFE, en annulant leur suppression. Cette décision, qui intervient sur la forme plutôt que sur le fond, n’empêchera probablement pas un retour du sujet dans le débat politique. Une généralisation trop rapide pourrait expliquer e",
-      "link": "https://theconversation.com/zfe-de-la-suppression-au-sursis-une-saga-juridique-qui-na-pas-encore-dit-son-dernier-mot-284844",
-      "image": "https://images.theconversation.com/files/740704/original/file-20260609-57-obqx4l.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-11T11:13:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2vuhmv",
-      "title": "Le luxe contre lui-même",
-      "summary": "Après des années de résultats florissants, les groupes de luxe marquent une pause. Et si, loin des explications qui y voient des causes conjoncturelles, le secteur connaissait une crise structurelle, où c’est l’identité même du luxe qui était en jeu ? Car, après les « trente glorieuses du luxe », l’heure est au paradox",
-      "link": "https://theconversation.com/le-luxe-contre-lui-meme-284223",
-      "image": "https://counter.theconversation.com/content/284223/count.gif",
-      "publishedAt": "2026-06-11T11:11:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqi97vo",
-      "title": "Le danger d’une IA utilisée par la justice",
-      "summary": "Les systèmes algorithmiques nécessitent une supervision humaine continue. Les « hallucinations » ou erreurs, peuvent totalement annuler les gains de temps annoncés pour les tribunaux. Oleg Troino Au Royaume-Uni, des directives suggèrent que les juges pourraient utiliser l’IA pour des travaux préparatoires. L’Estonie ut",
-      "link": "https://theconversation.com/le-danger-dune-ia-utilisee-par-la-justice-280484",
-      "image": "https://images.theconversation.com/files/730229/original/file-20260415-71-i2wgff.jpg?ixlib=rb-4.1.0&amp;rect=390%2C0%2C4218%2C2812&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-11T11:11:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -451,7 +451,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -467,7 +467,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -483,7 +483,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +501,23 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a9ci2wa",
+      "title": "Pourquoi Trump installe une cage de combat devant la Maison-Blanche",
+      "summary": "L’« UFC Freedom 250 », la soirée de MMA qui se tiendra dans une cage installée spécialement sur la pelouse sud de la Maison-Blanche, le 14 juin, est présenté comme une célébration patriotique dans le cadre du 250ᵉ anniversaire de la naissance des États-Unis. C’est en réalité un événement à la gloire du président, puisq",
+      "link": "https://theconversation.com/pourquoi-trump-installe-une-cage-de-combat-devant-la-maison-blanche-284853",
+      "image": "https://images.theconversation.com/files/740758/original/file-20260609-57-nyn7q6.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-06-10T14:06:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -519,7 +535,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -535,7 +551,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -551,7 +567,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -567,7 +583,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -583,23 +599,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9ci2wa",
-      "title": "Pourquoi Trump installe une cage de combat devant la Maison-Blanche",
-      "summary": "L’« UFC Freedom 250 », la soirée de MMA qui se tiendra dans une cage installée spécialement sur la pelouse sud de la Maison-Blanche, le 14 juin, est présenté comme une célébration patriotique dans le cadre du 250ᵉ anniversaire de la naissance des États-Unis. C’est en réalité un événement à la gloire du président, puisq",
-      "link": "https://theconversation.com/pourquoi-trump-installe-une-cage-de-combat-devant-la-maison-blanche-284853",
-      "image": "https://images.theconversation.com/files/740758/original/file-20260609-57-nyn7q6.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-10T14:06:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -615,23 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aisz4p4",
-      "title": "Marjane Satrapi, the woman who helped the world understand Iran",
-      "summary": "The news of Iranian-French artist Marjane Satrapi’s death, on June 4 2026, at the age of just 56, has stirred emotions that extend far beyond the world of comics and the film industry. Tributes have been paid to an outspoken, strong-willed, freedom-loving artist, and a tireless critic of the Islamic Republic of Iran. N",
-      "link": "https://theconversation.com/marjane-satrapi-the-woman-who-helped-the-world-understand-iran-284832",
-      "image": "https://images.theconversation.com/files/740843/original/file-20260609-57-byuyos.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-10T15:00:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -649,7 +633,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 26,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aisz4p4",
+      "title": "Marjane Satrapi, the woman who helped the world understand Iran",
+      "summary": "The news of Iranian-French artist Marjane Satrapi’s death, on June 4 2026, at the age of just 56, has stirred emotions that extend far beyond the world of comics and the film industry. Tributes have been paid to an outspoken, strong-willed, freedom-loving artist, and a tireless critic of the Islamic Republic of Iran. N",
+      "link": "https://theconversation.com/marjane-satrapi-the-woman-who-helped-the-world-understand-iran-284832",
+      "image": "https://images.theconversation.com/files/740843/original/file-20260609-57-byuyos.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-10T15:00:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -665,7 +665,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -681,7 +681,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -699,7 +699,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
