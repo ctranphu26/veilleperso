@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T10:54:10.695Z",
+  "generatedAt": "2026-06-14T17:01:22.741Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +169,23 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7peury",
+      "title": "Arménie : un scrutin sous le signe de la géopolitique",
+      "summary": "Les élections législatives, qui se sont tenues le 7 juin en Arménie (où l’essentiel du pouvoir est aux mains du premier ministre, le président jouant un rôle essentiellement protocolaire), se sont soldées par la victoire du parti du premier ministre sortant Nikol Pachinian, qui reste donc à la tête d’un pays encore tra",
+      "link": "https://theconversation.com/armenie-un-scrutin-sous-le-signe-de-la-geopolitique-284921",
+      "image": "https://counter.theconversation.com/content/284921/count.gif",
+      "publishedAt": "2026-06-14T08:32:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -187,23 +203,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a7peury",
-      "title": "Arménie : un scrutin sous le signe de la géopolitique",
-      "summary": "Les élections législatives, qui se sont tenues le 7 juin en Arménie (où l’essentiel du pouvoir est aux mains du premier ministre, le président jouant un rôle essentiellement protocolaire), se sont soldées par la victoire du parti du premier ministre sortant Nikol Pachinian, qui reste donc à la tête d’un pays encore tra",
-      "link": "https://theconversation.com/armenie-un-scrutin-sous-le-signe-de-la-geopolitique-284921",
-      "image": "https://counter.theconversation.com/content/284921/count.gif",
-      "publishedAt": "2026-06-14T08:32:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -219,7 +219,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -235,7 +235,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -254,7 +254,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +270,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +286,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +304,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +320,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,7 +338,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,8 +354,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "autrfgk",
@@ -370,8 +370,8 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aoligf5",
@@ -386,8 +386,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avoeme7",
@@ -402,8 +402,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "af8igs6",
@@ -418,8 +418,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "anqs3te",
@@ -436,7 +436,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -452,7 +452,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -468,7 +468,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -484,23 +484,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arncb4a",
-      "title": "Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement",
-      "summary": "La députée LFI Murielle Lepvraud a interpellé le ministre de l’Éducation nationale mardi 9 juin à l’Assemblée nationale sur le cas d’AESH licenciées ou menacées de l’être parce qu’elles ont L’article Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement est apparu en premier",
-      "link": "https://www.cafepedagogique.net/2026/06/12/des-aesh-licenciees-en-cas-de-refus-dintegrer-un-pas-pourtant-rejetes-par-le-parlement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-assemblee-nationale-300x244.png",
-      "publishedAt": "2026-06-12T04:00:01.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -519,7 +503,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -537,7 +521,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "arncb4a",
+      "title": "Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement",
+      "summary": "La députée LFI Murielle Lepvraud a interpellé le ministre de l’Éducation nationale mardi 9 juin à l’Assemblée nationale sur le cas d’AESH licenciées ou menacées de l’être parce qu’elles ont L’article Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement est apparu en premier",
+      "link": "https://www.cafepedagogique.net/2026/06/12/des-aesh-licenciees-en-cas-de-refus-dintegrer-un-pas-pourtant-rejetes-par-le-parlement/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-assemblee-nationale-300x244.png",
+      "publishedAt": "2026-06-12T04:00:01.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -553,7 +553,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -569,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -603,7 +603,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -619,7 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -635,7 +635,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -651,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -667,7 +667,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +683,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     }
   ]
