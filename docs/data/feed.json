@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T21:54:01.323Z",
+  "generatedAt": "2026-06-14T10:54:10.695Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,110 @@
   "count": 35,
   "items": [
     {
+      "id": "ant669s",
+      "title": "Terres rares : l’Europe est-elle toujours dans la course ?",
+      "summary": "C’est en Europe que l’histoire des terres rares a commencé, mais ce n’est plus sur le Vieux Continent que s’écrivent désormais les grandes réussites industrielles autour de ces ressources. La Chine en a aujourd’hui le monopole, mais l’Europe – et notamment la France – veulent inverser la vapeur. Est-ce possible, et à q",
+      "link": "https://theconversation.com/terres-rares-leurope-est-elle-toujours-dans-la-course-284490",
+      "image": "https://images.theconversation.com/files/739736/original/file-20260603-57-gor5oi.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-14T08:33:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a37du3n",
+      "title": "Le Japon attire toujours plus d’étrangers, mais l’opinion publique se durcit",
+      "summary": "Alors que le vieillissement démographique pousse le Japon à recourir davantage à la main-d’œuvre étrangère, deux tiers des Japonais souhaitent renforcer les contrôles et exigent un respect strict des normes et coutumes nationales. Le Japon connaît aujourd’hui un nombre historiquement élevé d’étrangers sur son territoir",
+      "link": "https://theconversation.com/le-japon-attire-toujours-plus-detrangers-mais-lopinion-publique-se-durcit-285224",
+      "image": "https://counter.theconversation.com/content/285224/count.gif",
+      "publishedAt": "2026-06-14T08:23:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awqj6gp",
+      "title": "Comment les cotisations sociales redessinent les inégalités : la bataille avant l’impôt",
+      "summary": "Et si la clé pour réduire les inégalités était la prédistribution ? Autrement dit, les mécanismes qui réduisent (ou creusent) les inégalités avant l’impôt comme le salaire minimum. Car la reconfiguration des cotisations sociales joue un rôle central dans la réduction des inégalités. Quand les réduire ? les augmenter ? ",
+      "link": "https://theconversation.com/comment-les-cotisations-sociales-redessinent-les-inegalites-la-bataille-avant-limpot-276890",
+      "image": "https://counter.theconversation.com/content/276890/count.gif",
+      "publishedAt": "2026-06-14T08:33:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "égalité"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "anq76vr",
+      "title": "Le bad buzz du bac de français",
+      "summary": "Comme chaque année ou presque, l’écrit des Epreuves Anticipées de Français au baccalauréat suscite des remous. Bien des élèves, des parents, des collègues ont protesté en ligne contre le commentaire L’article Le bad buzz du bac de français est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/14/le-bad-buzz-du-bac-de-francais/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Le-bad-buzz-du-bac-de-francais-Louise-dEpinay-236x300.jpg",
+      "publishedAt": "2026-06-14T07:54:02.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7peury",
+      "title": "Arménie : un scrutin sous le signe de la géopolitique",
+      "summary": "Les élections législatives, qui se sont tenues le 7 juin en Arménie (où l’essentiel du pouvoir est aux mains du premier ministre, le président jouant un rôle essentiellement protocolaire), se sont soldées par la victoire du parti du premier ministre sortant Nikol Pachinian, qui reste donc à la tête d’un pays encore tra",
+      "link": "https://theconversation.com/armenie-un-scrutin-sous-le-signe-de-la-geopolitique-284921",
+      "image": "https://counter.theconversation.com/content/284921/count.gif",
+      "publishedAt": "2026-06-14T08:32:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awxn6xz",
+      "title": "Lisztomanie : comment Franz Liszt est devenu la première idole de masse de l’histoire moderne",
+      "summary": "Dans l’Europe des années 1840, Franz Liszt était une véritable star. Henri Lehmann/Wikimedia Commons, CC BY Bien avant la Beatlemania, les concerts du pianiste hongrois Franz Liszt suscitaient des scènes d’adoration qui fascinaient autant qu’elles inquiétaient. Mais derrière les récits d’hystérie collective se cache un",
+      "link": "https://theconversation.com/lisztomanie-comment-franz-liszt-est-devenu-la-premiere-idole-de-masse-de-lhistoire-moderne-285178",
+      "image": "https://images.theconversation.com/files/741525/original/file-20250909-56-sht15o.jpg?ixlib=rb-4.1.0&amp;rect=0%2C17%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-14T08:05:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "apc2q55",
       "title": "Une Coupe du monde verte est-elle possible ?",
       "summary": "Compétition après compétition, la Coupe du monde de football semble toujours plus polluante et toujours plus émettrice de gaz à effet de serre. Mais est-ce une fatalité ? L’histoire nous montre que la planète peut vibrer pour le ballon rond sans que cela pollue outre mesure. La Coupe du monde de football est un événeme",
@@ -131,8 +235,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8jo408",
@@ -150,8 +254,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a82qbfn",
@@ -166,8 +270,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "av3tfp",
@@ -182,8 +286,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a17nnic",
@@ -200,7 +304,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -216,7 +320,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -234,7 +338,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -250,23 +354,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aoligf5",
-      "title": "Îles Salomon : délicat jeu d’équilibre géopolitique entre la Chine et l’Australie",
-      "summary": "Derrière la visite officielle du nouveau premier ministre salomonais Matthew Wale à Canberra, certains ont voulu voir un signe de rééquilibrage diplomatique après des années de rapprochement avec la Chine. Mais plus qu’un choix de camp, l’arrivée au pouvoir de Wale répond d’abord à une crise politique interne. Entre dé",
-      "link": "https://theconversation.com/iles-salomon-delicat-jeu-dequilibre-geopolitique-entre-la-chine-et-laustralie-284681",
-      "image": "https://counter.theconversation.com/content/284681/count.gif",
-      "publishedAt": "2026-06-12T11:02:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -282,7 +370,23 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 41,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aoligf5",
+      "title": "Îles Salomon : délicat jeu d’équilibre géopolitique entre la Chine et l’Australie",
+      "summary": "Derrière la visite officielle du nouveau premier ministre salomonais Matthew Wale à Canberra, certains ont voulu voir un signe de rééquilibrage diplomatique après des années de rapprochement avec la Chine. Mais plus qu’un choix de camp, l’arrivée au pouvoir de Wale répond d’abord à une crise politique interne. Entre dé",
+      "link": "https://theconversation.com/iles-salomon-delicat-jeu-dequilibre-geopolitique-entre-la-chine-et-laustralie-284681",
+      "image": "https://counter.theconversation.com/content/284681/count.gif",
+      "publishedAt": "2026-06-12T11:02:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -298,7 +402,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -314,7 +418,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -332,26 +436,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ai4rnxh",
-      "title": "En France, les signes avant-coureurs d’une crise institutionnelle majeure",
-      "summary": "Inégalités d’accès à l’emploi, à la propriété ou aux services publics, compétition accrue entre élites, finances publiques sous tension : plusieurs indicateurs suggèrent que la France traverse une phase de fragilisation institutionnelle comparable à celles observées dans d’autres périodes de rupture historique. Ces der",
-      "link": "https://theconversation.com/en-france-les-signes-avant-coureurs-dune-crise-institutionnelle-majeure-284468",
-      "image": "https://images.theconversation.com/files/740460/original/file-20260608-57-bv3szd.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-10T14:06:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a6t0lc7",
@@ -366,8 +452,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a2vuhmv",
@@ -382,8 +468,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aqi97vo",
@@ -398,8 +484,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "arncb4a",
+      "title": "Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement",
+      "summary": "La députée LFI Murielle Lepvraud a interpellé le ministre de l’Éducation nationale mardi 9 juin à l’Assemblée nationale sur le cas d’AESH licenciées ou menacées de l’être parce qu’elles ont L’article Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement est apparu en premier",
+      "link": "https://www.cafepedagogique.net/2026/06/12/des-aesh-licenciees-en-cas-de-refus-dintegrer-un-pas-pourtant-rejetes-par-le-parlement/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-assemblee-nationale-300x244.png",
+      "publishedAt": "2026-06-12T04:00:01.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akw6b7f",
@@ -417,8 +519,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ag2jujy",
@@ -435,24 +537,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arncb4a",
-      "title": "Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement",
-      "summary": "La députée LFI Murielle Lepvraud a interpellé le ministre de l’Éducation nationale mardi 9 juin à l’Assemblée nationale sur le cas d’AESH licenciées ou menacées de l’être parce qu’elles ont L’article Des AESH licenciées en cas de refus d’intégrer un PAS, dispositif pourtant rejeté par le Parlement est apparu en premier",
-      "link": "https://www.cafepedagogique.net/2026/06/12/des-aesh-licenciees-en-cas-de-refus-dintegrer-un-pas-pourtant-rejetes-par-le-parlement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-assemblee-nationale-300x244.png",
-      "publishedAt": "2026-06-12T04:00:01.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "an56x0i",
@@ -467,40 +553,6 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aon2od6",
-      "title": "Histoire-géographie : quelle place pour la Chine dans les programmes du secondaire ?",
-      "summary": "La récente visite d’État du président américain Donald Trump en Chine, accompagné d’une importante délégation de chefs d’entreprises du secteur des nouvelles technologies, a une nouvelle fois projeté l’Empire du L’article Histoire-géographie : quelle place pour la Chine dans les programmes du secondaire ? est apparu en",
-      "link": "https://www.cafepedagogique.net/2026/06/12/histoire-geographie-quelle-place-pour-la-chine-dans-les-programmes-du-secondaire/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/cafepedaggoique-corentinHuneau-209x300.jpeg",
-      "publishedAt": "2026-06-12T03:30:51.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "akj42kf",
-      "title": "Loi contre les violences scolaires : une victoire des victimes ?",
-      "summary": "Rédigée à la suite de la commission d’enquête parlementaire sur le scandale de Bétharram, la proposition de loi visant à protéger les enfants contre les violences en milieu scolaire a été adoptée à l’unanimité à l’Assemblée nationale, marquant une rupture nette avec une longue histoire de la pédagogie fondée sur une id",
-      "link": "https://theconversation.com/loi-contre-les-violences-scolaires-une-victoire-des-victimes-284747",
-      "image": "https://counter.theconversation.com/content/284747/count.gif",
-      "publishedAt": "2026-06-10T14:06:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
       "urgency": 36,
       "urgencyLevel": "basse"
     },
@@ -517,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -535,7 +587,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -551,7 +603,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -567,7 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -583,7 +635,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -599,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -615,7 +667,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 28,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aisz4p4",
+      "title": "Marjane Satrapi, the woman who helped the world understand Iran",
+      "summary": "The news of Iranian-French artist Marjane Satrapi’s death, on June 4 2026, at the age of just 56, has stirred emotions that extend far beyond the world of comics and the film industry. Tributes have been paid to an outspoken, strong-willed, freedom-loving artist, and a tireless critic of the Islamic Republic of Iran. N",
+      "link": "https://theconversation.com/marjane-satrapi-the-woman-who-helped-the-world-understand-iran-284832",
+      "image": "https://images.theconversation.com/files/740843/original/file-20260609-57-byuyos.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-10T15:00:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -633,73 +701,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aisz4p4",
-      "title": "Marjane Satrapi, the woman who helped the world understand Iran",
-      "summary": "The news of Iranian-French artist Marjane Satrapi’s death, on June 4 2026, at the age of just 56, has stirred emotions that extend far beyond the world of comics and the film industry. Tributes have been paid to an outspoken, strong-willed, freedom-loving artist, and a tireless critic of the Islamic Republic of Iran. N",
-      "link": "https://theconversation.com/marjane-satrapi-the-woman-who-helped-the-world-understand-iran-284832",
-      "image": "https://images.theconversation.com/files/740843/original/file-20260609-57-byuyos.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-10T15:00:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a51ndqn",
-      "title": "« La Chronique des Bridgerton » : quand raconter, c’est gouverner",
-      "summary": "Le contrôle des récits est au cœur de l’intrigue de la série créée par Chris Van Dusen et produite par Shonda Rhimes. Allociné À chaque nouvelle saison, la série la Chronique des Bridgerton, produite par Shonda Rhimes et diffusée sur Netflix depuis décembre 2020, nous rappelle que les bals, les robes pastel et les intr",
-      "link": "https://theconversation.com/la-chronique-des-bridgerton-quand-raconter-cest-gouverner-283421",
-      "image": "https://images.theconversation.com/files/737087/original/file-20260520-57-qr8tmv.png?ixlib=rb-4.1.0&amp;rect=2%2C0%2C827%2C551&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-10T14:06:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amwlsv6",
-      "title": "Le « resilient trade » : vers une nouvelle doctrine du commerce international ?",
-      "summary": "C’est une évolution qui passe sous les radars. Le développement du commerce international, qui semblait inéluctable, marque le pas. Alors que les États-Unis et la Chine pratiquent un néomercantilisme, l’Union européenne esquisse une troisième voie originale. Le commerce international se fragmente. Sa part dans le PIB m",
-      "link": "https://theconversation.com/le-resilient-trade-vers-une-nouvelle-doctrine-du-commerce-international-284454",
-      "image": "https://images.theconversation.com/files/739984/original/file-20260604-57-k45f7k.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-10T14:06:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aah1v8l",
-      "title": "Les migrations peuvent faire gagner des matchs en Coupe du monde",
-      "summary": "Du Maroc à Curaçao, les diasporas jouent un rôle croissant dans la composition des sélections nationales. Les recherches disponibles indiquent que les équipes les plus ouvertes aux parcours migratoires obtiennent souvent de meilleurs résultats sur le terrain. Peu de gens auraient prédit le beau parcours du Maroc lors d",
-      "link": "https://theconversation.com/les-migrations-peuvent-faire-gagner-des-matchs-en-coupe-du-monde-284900",
-      "image": "https://images.theconversation.com/files/740232/original/file-20260605-57-5llxdm.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-10T10:06:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "migration"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     }
   ]
