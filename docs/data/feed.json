@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T17:01:22.741Z",
+  "generatedAt": "2026-06-14T22:20:11.681Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -169,8 +169,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7peury",
@@ -185,8 +185,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anq76vr",
@@ -203,8 +203,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awxn6xz",
@@ -219,8 +219,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apc2q55",
@@ -235,7 +235,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -254,7 +254,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +270,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +286,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +304,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +320,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,7 +338,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +354,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -370,7 +370,7 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -386,7 +386,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -402,7 +402,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -418,7 +418,55 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a6t0lc7",
+      "title": "ZFE, de la suppression au sursis : une saga juridique qui n’a pas encore dit son dernier mot",
+      "summary": "Fin mai 2026, le Conseil constitutionnel a sauvé les zones à faibles émissions mobilité, les ZFE, en annulant leur suppression. Cette décision, qui intervient sur la forme plutôt que sur le fond, n’empêchera probablement pas un retour du sujet dans le débat politique. Une généralisation trop rapide pourrait expliquer e",
+      "link": "https://theconversation.com/zfe-de-la-suppression-au-sursis-une-saga-juridique-qui-na-pas-encore-dit-son-dernier-mot-284844",
+      "image": "https://images.theconversation.com/files/740704/original/file-20260609-57-obqx4l.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-11T11:13:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a2vuhmv",
+      "title": "Le luxe contre lui-même",
+      "summary": "Après des années de résultats florissants, les groupes de luxe marquent une pause. Et si, loin des explications qui y voient des causes conjoncturelles, le secteur connaissait une crise structurelle, où c’est l’identité même du luxe qui était en jeu ? Car, après les « trente glorieuses du luxe », l’heure est au paradox",
+      "link": "https://theconversation.com/le-luxe-contre-lui-meme-284223",
+      "image": "https://counter.theconversation.com/content/284223/count.gif",
+      "publishedAt": "2026-06-11T11:11:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aqi97vo",
+      "title": "Le danger d’une IA utilisée par la justice",
+      "summary": "Les systèmes algorithmiques nécessitent une supervision humaine continue. Les « hallucinations » ou erreurs, peuvent totalement annuler les gains de temps annoncés pour les tribunaux. Oleg Troino Au Royaume-Uni, des directives suggèrent que les juges pourraient utiliser l’IA pour des travaux préparatoires. L’Estonie ut",
+      "link": "https://theconversation.com/le-danger-dune-ia-utilisee-par-la-justice-280484",
+      "image": "https://images.theconversation.com/files/730229/original/file-20260415-71-i2wgff.jpg?ixlib=rb-4.1.0&amp;rect=390%2C0%2C4218%2C2812&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-11T11:11:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -436,55 +484,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6t0lc7",
-      "title": "ZFE, de la suppression au sursis : une saga juridique qui n’a pas encore dit son dernier mot",
-      "summary": "Fin mai 2026, le Conseil constitutionnel a sauvé les zones à faibles émissions mobilité, les ZFE, en annulant leur suppression. Cette décision, qui intervient sur la forme plutôt que sur le fond, n’empêchera probablement pas un retour du sujet dans le débat politique. Une généralisation trop rapide pourrait expliquer e",
-      "link": "https://theconversation.com/zfe-de-la-suppression-au-sursis-une-saga-juridique-qui-na-pas-encore-dit-son-dernier-mot-284844",
-      "image": "https://images.theconversation.com/files/740704/original/file-20260609-57-obqx4l.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-11T11:13:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2vuhmv",
-      "title": "Le luxe contre lui-même",
-      "summary": "Après des années de résultats florissants, les groupes de luxe marquent une pause. Et si, loin des explications qui y voient des causes conjoncturelles, le secteur connaissait une crise structurelle, où c’est l’identité même du luxe qui était en jeu ? Car, après les « trente glorieuses du luxe », l’heure est au paradox",
-      "link": "https://theconversation.com/le-luxe-contre-lui-meme-284223",
-      "image": "https://counter.theconversation.com/content/284223/count.gif",
-      "publishedAt": "2026-06-11T11:11:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqi97vo",
-      "title": "Le danger d’une IA utilisée par la justice",
-      "summary": "Les systèmes algorithmiques nécessitent une supervision humaine continue. Les « hallucinations » ou erreurs, peuvent totalement annuler les gains de temps annoncés pour les tribunaux. Oleg Troino Au Royaume-Uni, des directives suggèrent que les juges pourraient utiliser l’IA pour des travaux préparatoires. L’Estonie ut",
-      "link": "https://theconversation.com/le-danger-dune-ia-utilisee-par-la-justice-280484",
-      "image": "https://images.theconversation.com/files/730229/original/file-20260415-71-i2wgff.jpg?ixlib=rb-4.1.0&amp;rect=390%2C0%2C4218%2C2812&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-11T11:11:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -503,7 +503,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -521,7 +521,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -537,7 +537,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -553,7 +553,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -569,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -603,7 +603,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -619,7 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -635,7 +635,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -651,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -667,23 +667,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aisz4p4",
-      "title": "Marjane Satrapi, the woman who helped the world understand Iran",
-      "summary": "The news of Iranian-French artist Marjane Satrapi’s death, on June 4 2026, at the age of just 56, has stirred emotions that extend far beyond the world of comics and the film industry. Tributes have been paid to an outspoken, strong-willed, freedom-loving artist, and a tireless critic of the Islamic Republic of Iran. N",
-      "link": "https://theconversation.com/marjane-satrapi-the-woman-who-helped-the-world-understand-iran-284832",
-      "image": "https://images.theconversation.com/files/740843/original/file-20260609-57-byuyos.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-10T15:00:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -701,7 +685,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 18,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aisz4p4",
+      "title": "Marjane Satrapi, the woman who helped the world understand Iran",
+      "summary": "The news of Iranian-French artist Marjane Satrapi’s death, on June 4 2026, at the age of just 56, has stirred emotions that extend far beyond the world of comics and the film industry. Tributes have been paid to an outspoken, strong-willed, freedom-loving artist, and a tireless critic of the Islamic Republic of Iran. N",
+      "link": "https://theconversation.com/marjane-satrapi-the-woman-who-helped-the-world-understand-iran-284832",
+      "image": "https://images.theconversation.com/files/740843/original/file-20260609-57-byuyos.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-10T15:00:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 18,
       "urgencyLevel": "basse"
     }
   ]
