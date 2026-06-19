@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T12:32:59.017Z",
+  "generatedAt": "2026-06-19T00:12:37.259Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,25 +131,188 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 100,
+      "urgency": 90,
       "urgencyLevel": "haute"
     },
     {
-      "id": "akqw34c",
-      "title": "École inclusive : le rejet des PAS valide les revendications des personnels",
-      "summary": "Deux syndicats (FSU-SNUipp et CGT Educ’action) réagissent suite au rejet de la généralisation des PAS par l’Assemblée nationale. « Ce vote (ainsi que les motivations des député·es) soutient notre position et L’article École inclusive : le rejet des PAS valide les revendications des personnels est apparu en premier sur ",
-      "link": "https://www.cafepedagogique.net/2026/06/18/ecole-inclusive-le-rejet-des-pas-valide-les-revendications-des-personnels/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/FSU-300x174.png",
-      "publishedAt": "2026-06-18T03:27:39.000Z",
+      "id": "axsvmxx",
+      "title": "Canicule : les syndicats dénoncent des mesures insuffisantes, le ministère parlera demain",
+      "summary": "Alors qu’une nouvelle vague de chaleur touche la France, les organisations syndicales de l’Éducation nationale dénoncent l’insuffisance des réponses ministérielles. Elles alertent sur les risques pour la santé des personnels L’article Canicule : les syndicats dénoncent des mesures insuffisantes, le ministère parlera de",
+      "link": "https://www.cafepedagogique.net/2026/06/18/canicule-les-syndicats-denoncent-des-mesures-insuffisantes-le-ministere-parlera-demain/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/canicule-ecole-282x300.png",
+      "publishedAt": "2026-06-18T17:00:24.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajz5ssl",
+      "title": "Visite à la pharmacie, dans une structure sociale, chez le généraliste… profiter des interactions du quotidien pour faire de la prévention en santé",
+      "summary": "Profiter des situations de la vie courante pour faire de la prévention en santé – quand on se rend dans une structure sociale, à la pharmacie, chez son médecin généraliste – plutôt que de ne la faire reposer que sur de grandes campagnes d’information qui alertent sur les risques de cancers, maladies cardiovasculaires, ",
+      "link": "https://theconversation.com/visite-a-la-pharmacie-dans-une-structure-sociale-chez-le-generaliste-profiter-des-interactions-du-quotidien-pour-faire-de-la-prevention-en-sante-283326",
+      "image": "https://counter.theconversation.com/content/283326/count.gif",
+      "publishedAt": "2026-06-18T15:05:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
       "keywords": [
-        "école"
+        "formation"
       ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
       "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "av7z49e",
+      "title": "L’accord de paix avec l’Iran doit exiger la libération de Narges Mohammadi et des autres prisonniers d’opinion",
+      "summary": "Narges Mohammadi, Nobel de la paix 2023, reste aujourd’hui privée de liberté et dans un état de santé précaire, placée sous surveillance médicale et sécuritaire à son domicile de Téhéran après avoir frôlé la mort en détention. Compte X Narges Foundation Alors que Washington et le régime des mollahs ont signé un accord ",
+      "link": "https://theconversation.com/laccord-de-paix-avec-liran-doit-exiger-la-liberation-de-narges-mohammadi-et-des-autres-prisonniers-dopinion-285611",
+      "image": "https://images.theconversation.com/files/742703/original/file-20260618-57-d1ms95.png?ixlib=rb-4.1.0&amp;rect=80%2C0%2C1972%2C1314&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-18T15:01:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajzpj57",
+      "title": "Pourquoi les impressionnistes aimaient-ils tant peindre des jardins ?",
+      "summary": "*Femme à l’ombrelle dans un jardin* (1875), de Pierre-Auguste Renoir. Thyssen-Bornemisza Museum (Espagne) Des dahlias qui déploient leurs couleurs vers le ciel ; des roses trémières autour d’un enfant qui joue ; des paysans qui s’occupent de leurs choux ; des nénuphars parsemant la surface d’un étang… le « jardin impre",
+      "link": "https://theconversation.com/pourquoi-les-impressionnistes-aimaient-ils-tant-peindre-des-jardins-285613",
+      "image": "https://images.theconversation.com/files/742671/original/file-20260514-63-g8hpke.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4101%2C2734&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-18T14:52:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1fl94u",
+      "title": "À Polytechnique, des diplômés dénoncent l’emprise des industriels sur les formations : coup d’éclat ou réveil écologique de fond ?",
+      "summary": "Dans la prestigieuse École polytechnique, la dernière cérémonie de remise des diplômes a été perturbée par un groupe d’étudiants dénonçant l’influence de grands groupes sur les formations et les ravages de l’industrie sur l’environnement. Une action qui s’inscrit dans le sillage d’une série de prises de parole et de ma",
+      "link": "https://theconversation.com/a-polytechnique-des-diplomes-denoncent-lemprise-des-industriels-sur-les-formations-coup-declat-ou-reveil-ecologique-de-fond-285432",
+      "image": "https://counter.theconversation.com/content/285432/count.gif",
+      "publishedAt": "2026-06-18T14:57:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "formation"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3xpuxb",
+      "title": "Did Neanderthals use rhinoceros teeth as tools?",
+      "summary": "Veterinary Dr. Benjamin Drouet is pictured working on a skull complete with teeth found at Peaugres safari park (Ardèche, France) that belonged to a white rhino. Camille Deaujeard, Fourni par l'auteur The RINO project was born from the discovery of unusual marks on rhinoceros teeth recovered from the prehistoric Payre ",
+      "link": "https://theconversation.com/did-neanderthals-use-rhinoceros-teeth-as-tools-284739",
+      "image": "https://images.theconversation.com/files/740420/original/file-20260521-57-jjqayt.png?ixlib=rb-4.1.0&amp;rect=48%2C0%2C1006%2C671&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-18T15:07:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ad98gv2",
+      "title": "Peut-on (vraiment) améliorer ses réflexes ? Ou, pourquoi on ne devrait pas parler d’« arrêt réflexe » au football",
+      "summary": "Maintenant que la Coupe du monde masculine de football a démarré, vous avez peut-être déjà regardé au moins un match. Si un gardien réalise un arrêt spectaculaire où il arrive à capter la balle alors que l’attaquant est très proche de sa cage, il y a fort à parier que le commentateur qualifie ce geste d’« arrêt réflexe",
+      "link": "https://theconversation.com/peut-on-vraiment-ameliorer-ses-reflexes-ou-pourquoi-on-ne-devrait-pas-parler-d-arret-reflexe-au-football-285009",
+      "image": "https://counter.theconversation.com/content/285009/count.gif",
+      "publishedAt": "2026-06-18T15:06:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aq3uhfw",
+      "title": "Détroit d’Ormuz : quand les flux mondialisés deviennent des armes contre les démocraties",
+      "summary": "La fermeture du détroit d’Ormuz par l’Iran, dans le golfe Arabo-Persique, a paralysé en quelques heures une fraction significative des approvisionnements mondiaux en hydrocarbures et en engrais phosphatés. Ce choc est le produit d’une vulnérabilité structurelle. Les points de fragilité accumulés en trois décennies de m",
+      "link": "https://theconversation.com/detroit-dormuz-quand-les-flux-mondialises-deviennent-des-armes-contre-les-democraties-283937",
+      "image": "https://counter.theconversation.com/content/283937/count.gif",
+      "publishedAt": "2026-06-18T15:05:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ai1hzpx",
+      "title": "La Colombie va-t-elle basculer à l’ultradroite ?",
+      "summary": "Ce qu’il faut retenir : Abelardo de la Espriella, candidat anti-establishment, a créé la surprise au premier tour de l’élection présidentielle colombienne en devançant la gauche. Le bilan du président sortant Gustavo Petro est lourdement terni par l’échec de sa politique de « paix totale » (Paz Total). Face à celui qui",
+      "link": "https://theconversation.com/la-colombie-va-t-elle-basculer-a-lultradroite-285493",
+      "image": "https://counter.theconversation.com/content/285493/count.gif",
+      "publishedAt": "2026-06-18T15:04:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "au712kb",
+      "title": "Vague de chaleur : les poules pondent moins d'œufs et des œufs plus petits",
+      "summary": "C’est une des nombreuses conséquences des vagues de chaleur plus fréquentes et plus intenses liées au changement climatique : les poules pondent moins d’œufs, des œufs plus petits et plus fragiles. Mais alors que les épisodes caniculaires se généralisent, de nombreux chercheurs à travers le monde tâchent de trouver com",
+      "link": "https://theconversation.com/vague-de-chaleur-les-poules-pondent-moins-doeufs-et-des-ufs-plus-petits-284846",
+      "image": "https://counter.theconversation.com/content/284846/count.gif",
+      "publishedAt": "2026-06-18T14:58:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1hmnkt",
+      "title": "Briser le rêve : comment et quand les conflits entre entrepreneurs-cofondateurs conduisent à leurs intentions de départ",
+      "summary": "Entre les fondateurs d’une entreprise, que ce soit ou non une start-up, des conflits peuvent survenir. Comment faire pour qu’ils ne mettent pas en péril la firme ? Certaines dissensions sont-elles plus susceptibles que d’autres de déboucher sur des difficultés pour la firme ? Et comment bien réguler les différends ? Le",
+      "link": "https://theconversation.com/briser-le-reve-comment-et-quand-les-conflits-entre-entrepreneurs-cofondateurs-conduisent-a-leurs-intentions-de-depart-276644",
+      "image": "https://counter.theconversation.com/content/276644/count.gif",
+      "publishedAt": "2026-06-18T14:53:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -167,8 +330,8 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ao2119r",
@@ -183,8 +346,8 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afbniqr",
@@ -199,8 +362,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "as71l0j",
@@ -218,8 +381,26 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atzaaif",
+      "title": "Canicule : dans quelles conditions faites-vous la classe ?",
+      "summary": "Le Café pédagogique prend de nouveau la température de vos classes. N’hésitez pas à nous partager une photographie d’un thermomètre dans votre classe ainsi que vos installations ou vos solutions L’article Canicule : dans quelles conditions faites-vous la classe ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/18/envoyez-nous-la-temperature-de-votre-classe/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/06/temperature.png",
+      "publishedAt": "2026-06-18T03:29:22.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2cgxg5",
@@ -237,8 +418,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahgudoc",
@@ -255,42 +436,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aia9ds2",
-      "title": "Alexandre Gefen : Un humanisme numérique à l’heure de l’IA",
-      "summary": "Les « humanités numériques » constituent un passionnant champ de pratiques et de réflexions : elles tentent d’accompagner, d’éclairer, d’amplifier ce que le numérique transforme dans la construction et la L’article Alexandre Gefen : Un humanisme numérique à l’heure de l’IA est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/18/alexandre-gefen-un-humanisme-numerique-a-lheure-de-lia/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Alexandre-Gefen-Cafe-pedagogique-e1781729588502-220x300.jpg",
-      "publishedAt": "2026-06-18T03:50:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "atzaaif",
-      "title": "Canicule : dans quelles conditions faites-vous la classe ?",
-      "summary": "Le Café pédagogique prend de nouveau la température de vos classes. N’hésitez pas à nous partager une photographie d’un thermomètre dans votre classe ainsi que vos installations ou vos solutions L’article Canicule : dans quelles conditions faites-vous la classe ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/18/envoyez-nous-la-temperature-de-votre-classe/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/06/temperature.png",
-      "publishedAt": "2026-06-18T03:29:22.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2os1li",
@@ -308,8 +455,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ax5klsu",
@@ -324,7 +471,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aia9ds2",
+      "title": "Alexandre Gefen : Un humanisme numérique à l’heure de l’IA",
+      "summary": "Les « humanités numériques » constituent un passionnant champ de pratiques et de réflexions : elles tentent d’accompagner, d’éclairer, d’amplifier ce que le numérique transforme dans la construction et la L’article Alexandre Gefen : Un humanisme numérique à l’heure de l’IA est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/18/alexandre-gefen-un-humanisme-numerique-a-lheure-de-lia/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Alexandre-Gefen-Cafe-pedagogique-e1781729588502-220x300.jpg",
+      "publishedAt": "2026-06-18T03:50:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,7 +505,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -360,7 +523,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -376,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -392,7 +555,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,7 +571,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +587,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -440,7 +603,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -456,7 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -472,7 +635,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -488,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -504,7 +667,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -520,44 +683,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "admlkh4",
-      "title": "Comment les auteurs d’abus sexuels sur enfants expliquent-ils leurs actes ? Les enseignements d’une étude mondiale",
-      "summary": "Derrière la diversité des parcours et des justifications avancées se trouve un fil conducteur qu’une vaste étude internationale identifie : les auteurs d’abus sexuels sur enfants expriment souvent une vision profondément inégalitaire des rapports entre les sexes. L S/Unsplash Avertissement : cet article contient des pr",
-      "link": "https://theconversation.com/comment-les-auteurs-dabus-sexuels-sur-enfants-expliquent-ils-leurs-actes-les-enseignements-dune-etude-mondiale-284469",
-      "image": "https://images.theconversation.com/files/739689/original/file-20260511-57-1ktoxx.jpg?ixlib=rb-4.1.0&amp;rect=835%2C514%2C3045%2C2030&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-16T15:45:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avzt6pd",
-      "title": "Est-ce sans danger de conserver le poisson dans des emballages en plastique ? Une nouvelle étude fait le point",
-      "summary": "Une étude inédite montre que la migration de substances depuis des emballages alimentaires en plastique vers le poisson dépend de différents facteurs et varie selon le type de poisson (gras ou maigre). Rimma Aberten/Shutterstock Une étude menée sur des poissons gras, comme le saumon, ou maigres, comme le merlu, conserv",
-      "link": "https://theconversation.com/est-ce-sans-danger-de-conserver-le-poisson-dans-des-emballages-en-plastique-une-nouvelle-etude-fait-le-point-285093",
-      "image": "https://images.theconversation.com/files/741310/original/file-20260610-71-itotaa.jpg?ixlib=rb-4.1.0&amp;rect=0%2C74%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-16T15:46:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "migration"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "azejm51",
@@ -572,135 +699,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anem0hg",
-      "title": "Les baleines ont-elles l’oreille musicale ?",
-      "summary": "Une mère baleine à bosse et son baleineau à Madagascar (Île Sainte-Marie). Association Cétamada, Madagascar, Fourni par l'auteur De nombreux cas d’interactions entre humains et cétacés à travers la musique ont été observés. Des navigateurs en ont filmé, des artistes ont même proposé des performances musicales à destina",
-      "link": "https://theconversation.com/les-baleines-ont-elles-loreille-musicale-285169",
-      "image": "https://images.theconversation.com/files/741844/original/file-20260615-71-xbyhmk.jpg?ixlib=rb-4.1.0&amp;rect=3%2C0%2C3000%2C2000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-16T15:47:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2ap0h4",
-      "title": "La population française en 2070 : faut-il s’inquiéter d’un déclin démographique ?",
-      "summary": "En 2025, la France a enregistré plus de décès que de naissances. Que nous dit cette situation inédite depuis 1945 de l’avenir démographique du pays ? Dans quelle mesure peut-on évaluer les évolutions de population ? L’année 2025 aura marqué la fin de la croissance naturelle de la population française : les naissances s",
-      "link": "https://theconversation.com/la-population-francaise-en-2070-faut-il-sinquieter-dun-declin-demographique-284782",
-      "image": "https://counter.theconversation.com/content/284782/count.gif",
-      "publishedAt": "2026-06-16T15:45:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arzigs3",
-      "title": "Le « lawfare » américain, ou comment le droit devient un instrument de puissance dans la rivalité sino-américaine",
-      "summary": "Alors que la relation qu’entretient Donald Trump avec le droit n’a jamais fait couler autant d’encre, Mark Corcoral, spécialiste de la politique de sécurité nationale américaine et chercheur au CERI (Sciences Po), explore le fonctionnement du département états-unien de la justice. À travers son ouvrage Le Droit en arme",
-      "link": "https://theconversation.com/le-lawfare-americain-ou-comment-le-droit-devient-un-instrument-de-puissance-dans-la-rivalite-sino-americaine-284770",
-      "image": "https://images.theconversation.com/files/741538/original/file-20260612-57-yitody.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-16T15:44:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqh510m",
-      "title": "Face au risque politique, la taille des banques peut être un atout. Jusqu’où ?",
-      "summary": "Alors que le risque politique s’accroît partout dans le monde, les entreprises doivent y faire face, et notamment les banques. Particulièrement exposées, elles ne sont pourtant pas toutes également touchées par la montée de ce phénomène. Il semblerait que la taille d’une banque la protège. Quels mécanismes expliquent l",
-      "link": "https://theconversation.com/face-au-risque-politique-la-taille-des-banques-peut-etre-un-atout-jusquou-284980",
-      "image": "https://images.theconversation.com/files/741482/original/file-20260612-57-o5ggjq.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-16T15:41:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a77lj5q",
-      "title": "L’autre Coupe du monde oppose le Canada, le Mexique et les États‑Unis sur la bière",
-      "summary": "La boisson fermentée iconique sera l’une des stars de la Coupe du monde. En dehors des terrains, elle est l’objet d’une guerre commerciale entre les trois pays hôtes. Analyse de ces trois marchés brassicoles et de leur interdépendance, des champs d’orge à la canette d’aluminium. La bière est indissociable des événement",
-      "link": "https://theconversation.com/lautre-coupe-du-monde-oppose-le-canada-le-mexique-et-les-etats-unis-sur-la-biere-278217",
-      "image": "https://images.theconversation.com/files/741250/original/file-20260611-57-r8ganw.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-16T15:41:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aatmtd4",
-      "title": "De Gaulle, le retour : le Général devient une icône",
-      "summary": "Dans *la Bataille de Gaulle. L’âge de fer*, Simon Abkarian joue celui qui n’est encore que colonel en mai 1940, Charles de Gaulle. Allociné, Pathé Films/TF1 Films Production/Belvédère/Auvergne Rhône-Alpes Cinéma Depuis quelques années, les figures historiques reviennent en force sur les écrans : Napoléon, de Ridley Sco",
-      "link": "https://theconversation.com/de-gaulle-le-retour-le-general-devient-une-icone-285211",
-      "image": "https://images.theconversation.com/files/742079/original/file-20260616-69-gjgl1w.png?ixlib=rb-4.1.0&amp;rect=8%2C74%2C1379%2C919&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-16T15:38:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6yswa4",
-      "title": "La maladie rénale est aussi une maladie du cerveau",
-      "summary": "On associe souvent la maladie rénale à la dialyse ou à la greffe. Mais elle peut aussi affecter la mémoire, l’attention et augmenter le risque d’accidents vasculaires cérébraux. Les recherches récentes révèlent une connexion avec le cerveau longtemps sous-estimée. Généralement, quand on pense « maladie rénale », on pen",
-      "link": "https://theconversation.com/la-maladie-renale-est-aussi-une-maladie-du-cerveau-284878",
-      "image": "https://images.theconversation.com/files/741575/original/file-20260612-85-ig4yd6.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-16T10:46:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8y4z8f",
-      "title": "Les maisons de santé pluriprofessionnelles : un modèle gagnant pour patients, soignants et systèmes de santé",
-      "summary": "Avec un objectif fixé à 4 000 établissements d’ici 2027, les maisons de santé, qui regroupent médecins généralistes, masseurs-kinésithérapeutes, infirmier·ères, pharmacien·nes et autres professionnel·les de santé, montent en puissance. Elles sont présentées comme l’une des solutions pour améliorer l’accès aux soins de ",
-      "link": "https://theconversation.com/les-maisons-de-sante-pluriprofessionnelles-un-modele-gagnant-pour-patients-soignants-et-systemes-de-sante-284858",
-      "image": "https://counter.theconversation.com/content/284858/count.gif",
-      "publishedAt": "2026-06-15T15:25:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 36,
       "urgencyLevel": "basse"
     }
   ]
