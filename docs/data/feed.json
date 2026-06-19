@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T00:12:37.259Z",
+  "generatedAt": "2026-06-19T16:19:06.840Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,36 +119,273 @@
   "count": 35,
   "items": [
     {
-      "id": "aqbckfx",
-      "title": "Le téléphone portable interdit aussi au lycée",
-      "summary": "Le ministre de l’Education a annoncé dans les médias ce mercredi « l’interdiction de l’utilisation des téléphones portables dans les lycées à partir de la rentrée scolaire 2026. » Cette décision qui L’article Le téléphone portable interdit aussi au lycée est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/18/le-telephone-portable-interdit-aussi-au-lycee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-assemblee-nationale-300x244.png",
-      "publishedAt": "2026-06-18T03:59:50.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "ap8pz5o",
+      "title": "En 1768, comment un roi paralysa l’État en se mettant en grève",
+      "summary": "Adolphe-Frédéric (ici peint par Antoine Pesne) a été roi de Suède et grand-duc de Finlande de 1751 à 1771. Nationalmuseum/Wikimedia En 1768, le roi de Suède Adolphe-Frédéric cessa de participer aux affaires de l'État pour forcer la convocation du Parlement. Cet épisode méconnu révèle les paradoxes d'une monarchie où le",
+      "link": "https://theconversation.com/en-1768-comment-un-roi-paralysa-letat-en-se-mettant-en-greve-285736",
+      "image": "https://images.theconversation.com/files/742958/original/file-20260609-57-amz0xh.jpg?ixlib=rb-4.1.0&amp;rect=0%2C345%2C1914%2C1276&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-19T10:24:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 48,
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 90,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
-      "id": "axsvmxx",
-      "title": "Canicule : les syndicats dénoncent des mesures insuffisantes, le ministère parlera demain",
-      "summary": "Alors qu’une nouvelle vague de chaleur touche la France, les organisations syndicales de l’Éducation nationale dénoncent l’insuffisance des réponses ministérielles. Elles alertent sur les risques pour la santé des personnels L’article Canicule : les syndicats dénoncent des mesures insuffisantes, le ministère parlera de",
-      "link": "https://www.cafepedagogique.net/2026/06/18/canicule-les-syndicats-denoncent-des-mesures-insuffisantes-le-ministere-parlera-demain/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/canicule-ecole-282x300.png",
-      "publishedAt": "2026-06-18T17:00:24.000Z",
+      "id": "a2pdcsw",
+      "title": "Comment célèbre-t-on en Europe le jour le plus long de l’année ?",
+      "summary": "Feux, danses et couronnes de fleurs : aujourd'hui encore l’Europe fête le solstice d’été avec ferveur. Iryna Varanovich/Pexels, CC BY Alors que de nombreuses coutumes ont disparu au fil des siècles, les célébrations du solstice d’été continuent de rassembler les foules à travers l’Europe. Une permanence qui en dit long",
+      "link": "https://theconversation.com/comment-celebre-t-on-en-europe-le-jour-le-plus-long-de-lannee-285716",
+      "image": "https://images.theconversation.com/files/742956/original/file-20260619-57-rdilpt.jpg?ixlib=rb-4.1.0&amp;rect=0%2C74%2C3024%2C2016&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-19T09:40:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 83,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akcf8ow",
+      "title": "Quarante ans après, faut-il encore célébrer la « Main de Dieu » de Maradona ?",
+      "summary": "Deux buts, cinq minutes, une place dans l’histoire. Derrière les exploits de Diego Maradona en 1986 se joue aussi une réflexion sur la mémoire, la politique et les valeurs du football. Au football, les buts les plus mémorables restent généralement associés aux joueurs qui les ont marqués. Rares sont ceux que l’on peut ",
+      "link": "https://theconversation.com/quarante-ans-apres-faut-il-encore-celebrer-la-main-de-dieu-de-maradona-285714",
+      "image": "https://images.theconversation.com/files/742134/original/file-20260616-57-a7hiqn.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-19T07:33:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a43wobt",
+      "title": "Canicule : quelle protection et quels droits pour les travailleurs ?",
+      "summary": "Depuis le décret du 27 mai 2025, les épisodes de forte chaleur correspondant aux vigilances jaune, orange ou rouge imposent à l’employeur de prendre des mesures pour protéger la santé L’article Canicule : quelle protection et quels droits pour les travailleurs ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/19/canicule-quelle-protection-et-quels-droits-pour-les-travailleurs/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/06/canicule-scoalire-300x129.png",
+      "publishedAt": "2026-06-19T03:54:28.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "décret"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arffw12",
+      "title": "Canicule : les syndicats dénoncent des mesures insuffisantes",
+      "summary": "Alors qu’une nouvelle vague de chaleur touche la France, les organisations syndicales de l’Éducation nationale dénoncent l’insuffisance des réponses ministérielles. Elles alertent sur les risques pour la santé des personnels L’article Canicule : les syndicats dénoncent des mesures insuffisantes est apparu en premier su",
+      "link": "https://www.cafepedagogique.net/2026/06/19/canicule-les-syndicats-denoncent-des-mesures-insuffisantes-le-ministere-parlera-demain/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/IMG_0306-scaled-e1781845158777-300x189.jpeg",
+      "publishedAt": "2026-06-19T04:10:24.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "aootm44",
+      "title": "« Les discours de haine sont décomplexés » : l’inquiétude des syndicats",
+      "summary": "Dans un communiqué offensif, l’intersyndicale (CGT, FSU, SAF, Solidaires, syndicat de la magistrature) lance un cri d’alarme et exige une mobilisation massive lors des prochaines Marches des Fiertés. Pour les L’article « Les discours de haine sont décomplexés » : l’inquiétude des syndicats est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/06/19/les-discours-de-haine-sont-decomplexes-linquietude-des-syndicats/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/carte-1-300x242.png",
+      "publishedAt": "2026-06-19T03:42:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aebmkmq",
+      "title": "Un cimetière de baleines vieux de 5,3 millions d’années découvert au fond de l’océan Indien",
+      "summary": "Dans le sud-est de l’océan Indien, une équipe de chercheurs a découvert un vaste cimetière de baleines vieux de plus de 5 millions d’années. Avec près de 500 fossiles recensés, il constitue l’un des plus importants sites de ce type jamais identifiés dans les grands fonds. Lorsqu’une baleine meurt, un phénomène naturel ",
+      "link": "https://theconversation.com/un-cimetiere-de-baleines-vieux-de-5-3-millions-dannees-decouvert-au-fond-de-locean-indien-285397",
+      "image": "https://images.theconversation.com/files/740925/original/file-20260610-57-ycanbq.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-19T12:57:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "au527fb",
+      "title": "Edouard Geffray : « La vague de chaleur ne se prépare pas un mois à l’avance »",
+      "summary": "La canicule est au coeur de l’actualité ces jours-ci et les conditions d’accueil des enfants dans les écoles françaises aussi. « Il y a des mesures qui sont prises au niveau L’article Edouard Geffray : « La vague de chaleur ne se prépare pas un mois à l’avance » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/19/edouard-geffray-la-vague-de-chaleur-ne-se-prepare-pas-un-mois-a-lavance/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/ministre-300x217.png",
+      "publishedAt": "2026-06-19T11:35:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1xrvku",
+      "title": "Comment le génie de George Sand a été minimisé par l'histoire littéraire",
+      "summary": "George Sand par Félix Nadar, en 1864. Wikimédia Rares sont les écrivaines qui furent aussi célèbres que George Sand de leur vivant. Autrice de plus de 90 œuvres, de plus de 400 articles, de milliers de lettres, connue dans toute l’Europe, il est impossible de l’effacer totalement de l’histoire littéraire du XIXe siècle",
+      "link": "https://theconversation.com/comment-le-genie-de-george-sand-a-ete-minimise-par-lhistoire-litteraire-283164",
+      "image": "https://images.theconversation.com/files/741404/original/file-20260611-57-djvq13.png?ixlib=rb-4.1.0&amp;rect=278%2C0%2C1837%2C1225&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-19T11:05:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amhtj6q",
+      "title": "Where do women feature in the history of diplomacy?",
+      "summary": "The International Day of Women in Diplomacy celebrates the drivers of global change, bridging parliaments and international platforms through inclusive leadership who are still largely underrepresented. (Statue of Eleanor Roosevelt, Franklin Delano Roosevelt Memorial, Washington D.C.) Tinnaporn Sathapornnanont/Shutters",
+      "link": "https://theconversation.com/where-do-women-feature-in-the-history-of-diplomacy-282742",
+      "image": "https://images.theconversation.com/files/742447/original/file-20260617-57-atm0qc.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4368%2C2912&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-19T10:35:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at2xjt0",
+      "title": "Canicule : « 4000 candidats sont concernés par des reports »",
+      "summary": "Mise à jour ce vendredi 19 juin à 16h30 « Tout se fait au pied levé » « Les canicules se suivent et se ressemblent. Le ministère fait appel au bon sens L’article Canicule : « 4000 candidats sont concernés par des reports » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/19/canicule-suivre-le-direct-grand-oral-reporte-dans-lacademie-de-poitiers/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/08/FSU-SNUipp-cafe-pedagogique-4-300x202.png",
+      "publishedAt": "2026-06-19T07:52:34.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aimqudb",
+      "title": "« On fait classe en apnée » : le poème coup de poing de Sarah Leleu",
+      "summary": "Entre bitume brûlant, baies vitrées sans volets et manque de moyens pour la rénovation thermique se joue le quotidien étouffant des élèves et des enseignants. Face aux conseils officiels déconnectés L’article « On fait classe en apnée » : le poème coup de poing de Sarah Leleu est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/06/19/on-fait-classe-en-apnee-le-poeme-coup-de-poing-de-sarah-leleu/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sarah-leleu-280x300.jpeg",
+      "publishedAt": "2026-06-19T03:29:48.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "enseignant",
+        "classe"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apj76fs",
+      "title": "La mémoire entre en classe : Guy Birenbaum face aux lycéens",
+      "summary": "Pendant des décennies, l’École a pu s’appuyer sur la parole irremplaçable des survivants de la Shoah et de la Résistance pour enseigner l’Histoire. Après la disparition en novembre dernier de L’article La mémoire entre en classe : Guy Birenbaum face aux lycéens est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/19/la-memoire-entre-en-classe-guy-birenbaum-face-aux-lyceens/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/birenbaum-300x200.jpeg",
+      "publishedAt": "2026-06-19T03:30:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "classe"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "am2gd6g",
+      "title": "Annette Bon (1939–2026) : une vie au cœur de l’école",
+      "summary": "Le directeur adjoint de l’IFE Régis Guyon rend hommage à Annette Bon, décédée en début de semaine. Agrégée d’histoire-géographie, maîtresse de recherches à l’Institut national de recherche pédagogique (INRP), membre L’article Annette Bon (1939–2026) : une vie au cœur de l’école est apparu en premier sur Le Café pédagog",
+      "link": "https://www.cafepedagogique.net/2026/06/19/annette-bon-1939-2026-une-vie-au-coeur-de-lecole/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/image-1-300x214.png",
+      "publishedAt": "2026-06-19T03:31:52.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "astd3sq",
+      "title": "« Le pédagogue est ainsi celui qui cherche, hésite, recommence, expérimente »",
+      "summary": "Parce que nous croyons encore en l’éducation est un ouvrage signé P. Meirieu et X. Bouchereau (Eres, 2026) : « Les deux auteurs ne renoncent pas à l’espoir d’une émancipation L’article « Le pédagogue est ainsi celui qui cherche, hésite, recommence, expérimente » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/19/le-pedagogue-est-ainsi-celui-qui-cherche-hesite-recommence-experimente/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/CAPITANESCU-BENETTI-Andreea-222x300.png",
+      "publishedAt": "2026-06-19T03:45:48.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "at67e72",
+      "title": "B.D : L’Histoire à hauteur de témoins",
+      "summary": "Entrer dans l’Histoire par les témoignages de celles et ceux qui l’ont vécue, traversée, racontée pour la rendre plus humaine, plus proche et plus vivante ? C’est le projet du dernier L’article B.D : L’Histoire à hauteur de témoins est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/19/b-d-lhistoire-a-hauteur-de-temoins/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/album-cover-large-61909-210x300.jpg",
+      "publishedAt": "2026-06-19T03:44:25.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajz5ssl",
@@ -165,8 +402,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "av7z49e",
@@ -181,8 +418,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajzpj57",
@@ -197,8 +434,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1fl94u",
@@ -216,8 +453,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3xpuxb",
@@ -232,8 +469,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ad98gv2",
@@ -248,8 +485,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aq3uhfw",
@@ -264,8 +501,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ai1hzpx",
@@ -280,8 +517,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "au712kb",
@@ -296,8 +533,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1hmnkt",
@@ -312,41 +549,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "algj9rl",
-      "title": "Une rentrée royale à Versailles",
-      "summary": "À l’occasion de la rentrée de septembre, le château de Versailles propose des journées d’intégration pour les élèves de collège et de lycée, les 4, 7, 8, 10 et 11 L’article Une rentrée royale à Versailles est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/18/une-rentree-royale-a-versailles/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/scolaires-chateau-de-versailles-300x217.jpg",
-      "publishedAt": "2026-06-18T03:28:14.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ao2119r",
-      "title": "Bac 2026 : les sujets de latin, grec ancien et biologie-écologie",
-      "summary": "Retrouvez les sujets 2026 du baccalauréat général et technologique pour la métropole, la Réunion et à Mayotte LATIN GREC ANCIEN BIOLOGIE-ECOLOGIE BAC 2026 Jour 2 L’article Bac 2026 : les sujets de latin, grec ancien et biologie-écologie est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/18/bac-2026-les-sujets-de-latin-grec-ancien-et-biologie-ecologie/",
-      "image": null,
-      "publishedAt": "2026-06-18T11:43:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 40,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -362,100 +565,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "as71l0j",
-      "title": "Mayotte : « Les conditions de travail sont indignes de l’Ecole de la République »",
-      "summary": "Conditions de travail, conditions de vie, école en pointillé pour les élèves, non scolarisation de jeunes, forte contractualisation des personnels et précarité, pauvreté des Mahorais, insécurité, enseigner à Mayotte est L’article Mayotte : « Les conditions de travail sont indignes de l’Ecole de la République » est appa",
-      "link": "https://www.cafepedagogique.net/2026/06/18/mayotte-les-conditions-de-travail-sont-indignes-de-lecole-de-la-republique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/aliHabla-mayotte-snuep-e1781702331352-241x300.jpeg",
-      "publishedAt": "2026-06-18T03:55:20.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "élève"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atzaaif",
-      "title": "Canicule : dans quelles conditions faites-vous la classe ?",
-      "summary": "Le Café pédagogique prend de nouveau la température de vos classes. N’hésitez pas à nous partager une photographie d’un thermomètre dans votre classe ainsi que vos installations ou vos solutions L’article Canicule : dans quelles conditions faites-vous la classe ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/18/envoyez-nous-la-temperature-de-votre-classe/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/06/temperature.png",
-      "publishedAt": "2026-06-18T03:29:22.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2cgxg5",
-      "title": "Hors classe : l’arnaque continue !",
-      "summary": "Alors les professeur.es choyé.es et augmenté.es ? Pour Yvon Guesnier, ancien secrétaire national 1er degré de la CGT Educ’action, la réponse est sans appel : non. « Entre la non-indexation de la valeur L’article Hors classe : l’arnaque continue ! est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/18/hors-classe-larnaque-continue/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/idee-yvonguesnier--e1781702954839-186x300.jpeg",
-      "publishedAt": "2026-06-18T03:45:22.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur",
-        "classe"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahgudoc",
-      "title": "Fermetures d’écoles, report de certains oraux : la chaleur perturbe notre système scolaire",
-      "summary": "S’adapter ou fermer ? La canicule est maintenant évoquée chaque année mais les épisodes sont plus précoces, en mai cette année, et plus longs. Leur multiplication interroge l’adaptation du système L’article Fermetures d’écoles, report de certains oraux : la chaleur perturbe notre système scolaire est apparu en premier ",
-      "link": "https://www.cafepedagogique.net/2026/06/18/fermetures-decoles-report-de-certains-oraux-la-chaleur-perturbe-notre-systeme-scolaire/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/classe-temperature-300x175.png",
-      "publishedAt": "2026-06-18T04:00:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2os1li",
-      "title": "Margot Eschbach : faire de l’histoire-géographie une matière vivante",
-      "summary": "Comment redonner du sens et de l’engagement aux apprentissages en histoire-géographie ? Au collège de Volx, dans les Alpes-de-Haute-Provence, Margot Eschbach mise sur la pédagogie immersive et le jeu pour L’article Margot Eschbach : faire de l’histoire-géographie une matière vivante est apparu en premier sur Le Café pé",
-      "link": "https://www.cafepedagogique.net/2026/06/18/margot-eschbach-faire-de-lhistoire-geographie-des-matieres-vivantes/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/margot_Eschbach-212x300.jpeg",
-      "publishedAt": "2026-06-18T03:30:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "pédagogie",
-        "apprentissage"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -471,23 +581,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aia9ds2",
-      "title": "Alexandre Gefen : Un humanisme numérique à l’heure de l’IA",
-      "summary": "Les « humanités numériques » constituent un passionnant champ de pratiques et de réflexions : elles tentent d’accompagner, d’éclairer, d’amplifier ce que le numérique transforme dans la construction et la L’article Alexandre Gefen : Un humanisme numérique à l’heure de l’IA est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/18/alexandre-gefen-un-humanisme-numerique-a-lheure-de-lia/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Alexandre-Gefen-Cafe-pedagogique-e1781729588502-220x300.jpg",
-      "publishedAt": "2026-06-18T03:50:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -505,7 +599,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -523,7 +617,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -539,7 +633,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -555,7 +649,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -571,7 +665,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -587,7 +681,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -603,103 +697,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abxmswl",
-      "title": "L’Hakoah Amateur Club de New York : entre sionisme, exil et intégration",
-      "summary": "L’équipe de l’Hakoah de Vienne en 1927 lors de sa tournée aux États-Unis à la suite de quoi une Hakoah américaine sera créée à New York, obligeant les exilés à appeler leur club Hakoah Amateur Club pour s’en différencier. https://sammlung.jmw.at/ Après l’Anschluss de 1938, des Viennois réfugiés à New York recréent l’Ha",
-      "link": "https://theconversation.com/lhakoah-amateur-club-de-new-york-entre-sionisme-exil-et-integration-285122",
-      "image": "https://images.theconversation.com/files/741541/original/file-20260612-57-nzxof6.png?ixlib=rb-4.1.0&amp;rect=100%2C0%2C2018%2C1345&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-17T10:26:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a7l9tpy",
-      "title": "Au sommet du marathon mondial, l’histoire douloureuse de la frontière entre l’Ouganda et le Kenya",
-      "summary": "Le 26 avril 2026, le Kényan Sabastian Sawe est passé sous la barre symbolique des deux heures lors du marathon de Londres : 1 heure, 59 minutes et 30 secondes. Sawe s’inscrit dans la lignée des coureurs qui, à quelques kilomètres de la frontière avec l’Ouganda, foulent chaque jour les pistes d’Iten, dans la vallée du G",
-      "link": "https://theconversation.com/au-sommet-du-marathon-mondial-lhistoire-douloureuse-de-la-frontiere-entre-louganda-et-le-kenya-282639",
-      "image": "https://images.theconversation.com/files/740313/original/file-20260605-57-6zq5st.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-17T10:24:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aywvwow",
-      "title": "Ces Américaines qui ont pris soin des orphelins français pendant la Première Guerre mondiale",
-      "summary": "Pendant et après la Première Guerre mondiale, des milliers d’Américaines ont joué le rôle de mères auprès d’orphelins français. Éclairage de cette facette méconnue de l’histoire transatlantique. Entre août 1914 et avril 1917, malgré la neutralité affichée de leur pays, près de 25 000 Américaines, selon les estimations,",
-      "link": "https://theconversation.com/ces-americaines-qui-ont-pris-soin-des-orphelins-francais-pendant-la-premiere-guerre-mondiale-284336",
-      "image": "https://images.theconversation.com/files/740753/original/file-20260609-57-4o2h89.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-17T10:23:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aeop8tx",
-      "title": "Agathe Habyarimana, un procès pour l’Histoire ?",
-      "summary": "Le 6 avril 1994, la destruction en vol par un tir de missile de l’avion transportant le président rwandais Juvénal Habyarimana, ainsi que le chef de l’État burundais Cyprien Ntaryamira, marque le début du génocide des Tutsi du Rwanda, au cours duquel plus d’un million de personnes furent massacrées en quelque trois moi",
-      "link": "https://theconversation.com/agathe-habyarimana-un-proces-pour-lhistoire-284850",
-      "image": "https://counter.theconversation.com/content/284850/count.gif",
-      "publishedAt": "2026-06-17T10:21:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afu1jlj",
-      "title": "Une plante carnivore révèle un mécanisme inédit de mouvement ultrarapide sans muscle",
-      "summary": "Le piège de la plante carnivore dionée se referme sur ses proies. Jeanne Bourdier et Corentin Mollier, Fourni par l'auteur La dionée, ou « plante attrape-mouche », fascine les naturalistes depuis des siècles pour sa capacité à refermer son piège en une fraction de seconde lorsqu’un insecte s’y aventure. Charles Darwin ",
-      "link": "https://theconversation.com/une-plante-carnivore-revele-un-mecanisme-inedit-de-mouvement-ultrarapide-sans-muscle-285263",
-      "image": "https://images.theconversation.com/files/742045/original/file-20260616-57-lad108.jpg?ixlib=rb-4.1.0&amp;rect=0%2C22%2C1920%2C1279&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-16T16:20:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "azejm51",
-      "title": "What Kenya’s fish markets tell us about choosing between nutrients and contaminants",
-      "summary": "At lakeside markets along Lake Victoria, Africa’s largest lake by area, choosing fish to eat is part of daily life. A customer might pick a tilapia based on its freshness, size, price, and farmed or non-farmed origin, much like shoppers do in markets and supermarkets around the world. Whether grilled tilapia or salmon ",
-      "link": "https://theconversation.com/what-kenyas-fish-markets-tell-us-about-choosing-between-nutrients-and-contaminants-281597",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-16T15:49:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 39,
       "urgencyLevel": "basse"
     }
   ]
