@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T17:08:40.608Z",
+  "generatedAt": "2026-06-20T21:56:39.734Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,8 +133,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahyz76y",
@@ -151,8 +151,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a39tr5m",
@@ -167,8 +167,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ap8pz5o",
@@ -183,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +265,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +299,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,7 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,23 +331,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "at2xjt0",
-      "title": "Canicule : « 4000 candidats sont concernés par des reports »",
-      "summary": "Mise à jour ce vendredi 19 juin à 16h30 « Tout se fait au pied levé » « Les canicules se suivent et se ressemblent. Le ministère fait appel au bon sens L’article Canicule : « 4000 candidats sont concernés par des reports » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/19/canicule-suivre-le-direct-grand-oral-reporte-dans-lacademie-de-poitiers/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/08/FSU-SNUipp-cafe-pedagogique-4-300x202.png",
-      "publishedAt": "2026-06-19T07:52:34.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -365,7 +349,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,7 +365,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -397,7 +381,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "at2xjt0",
+      "title": "Canicule : « 4000 candidats sont concernés par des reports »",
+      "summary": "Mise à jour ce vendredi 19 juin à 16h30 « Tout se fait au pied levé » « Les canicules se suivent et se ressemblent. Le ministère fait appel au bon sens L’article Canicule : « 4000 candidats sont concernés par des reports » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/19/canicule-suivre-le-direct-grand-oral-reporte-dans-lacademie-de-poitiers/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/08/FSU-SNUipp-cafe-pedagogique-4-300x202.png",
+      "publishedAt": "2026-06-19T07:52:34.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,7 +415,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -431,7 +431,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -447,8 +447,72 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3xpuxb",
+      "title": "Did Neanderthals use rhinoceros teeth as tools?",
+      "summary": "Veterinary Dr. Benjamin Drouet is pictured working on a skull complete with teeth found at Peaugres safari park (Ardèche, France) that belonged to a white rhino. Camille Deaujeard, Fourni par l'auteur The RINO project was born from the discovery of unusual marks on rhinoceros teeth recovered from the prehistoric Payre ",
+      "link": "https://theconversation.com/did-neanderthals-use-rhinoceros-teeth-as-tools-284739",
+      "image": "https://images.theconversation.com/files/740420/original/file-20260521-57-jjqayt.png?ixlib=rb-4.1.0&amp;rect=48%2C0%2C1006%2C671&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-18T15:07:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ad98gv2",
+      "title": "Peut-on (vraiment) améliorer ses réflexes ? Ou, pourquoi on ne devrait pas parler d’« arrêt réflexe » au football",
+      "summary": "Maintenant que la Coupe du monde masculine de football a démarré, vous avez peut-être déjà regardé au moins un match. Si un gardien réalise un arrêt spectaculaire où il arrive à capter la balle alors que l’attaquant est très proche de sa cage, il y a fort à parier que le commentateur qualifie ce geste d’« arrêt réflexe",
+      "link": "https://theconversation.com/peut-on-vraiment-ameliorer-ses-reflexes-ou-pourquoi-on-ne-devrait-pas-parler-d-arret-reflexe-au-football-285009",
+      "image": "https://counter.theconversation.com/content/285009/count.gif",
+      "publishedAt": "2026-06-18T15:06:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aq3uhfw",
+      "title": "Détroit d’Ormuz : quand les flux mondialisés deviennent des armes contre les démocraties",
+      "summary": "La fermeture du détroit d’Ormuz par l’Iran, dans le golfe Arabo-Persique, a paralysé en quelques heures une fraction significative des approvisionnements mondiaux en hydrocarbures et en engrais phosphatés. Ce choc est le produit d’une vulnérabilité structurelle. Les points de fragilité accumulés en trois décennies de m",
+      "link": "https://theconversation.com/detroit-dormuz-quand-les-flux-mondialises-deviennent-des-armes-contre-les-democraties-283937",
+      "image": "https://counter.theconversation.com/content/283937/count.gif",
+      "publishedAt": "2026-06-18T15:05:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ai1hzpx",
+      "title": "La Colombie va-t-elle basculer à l’ultradroite ?",
+      "summary": "Ce qu’il faut retenir : Abelardo de la Espriella, candidat anti-establishment, a créé la surprise au premier tour de l’élection présidentielle colombienne en devançant la gauche. Le bilan du président sortant Gustavo Petro est lourdement terni par l’échec de sa politique de « paix totale » (Paz Total). Face à celui qui",
+      "link": "https://theconversation.com/la-colombie-va-t-elle-basculer-a-lultradroite-285493",
+      "image": "https://counter.theconversation.com/content/285493/count.gif",
+      "publishedAt": "2026-06-18T15:04:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1fl94u",
@@ -466,71 +530,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3xpuxb",
-      "title": "Did Neanderthals use rhinoceros teeth as tools?",
-      "summary": "Veterinary Dr. Benjamin Drouet is pictured working on a skull complete with teeth found at Peaugres safari park (Ardèche, France) that belonged to a white rhino. Camille Deaujeard, Fourni par l'auteur The RINO project was born from the discovery of unusual marks on rhinoceros teeth recovered from the prehistoric Payre ",
-      "link": "https://theconversation.com/did-neanderthals-use-rhinoceros-teeth-as-tools-284739",
-      "image": "https://images.theconversation.com/files/740420/original/file-20260521-57-jjqayt.png?ixlib=rb-4.1.0&amp;rect=48%2C0%2C1006%2C671&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-18T15:07:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ad98gv2",
-      "title": "Peut-on (vraiment) améliorer ses réflexes ? Ou, pourquoi on ne devrait pas parler d’« arrêt réflexe » au football",
-      "summary": "Maintenant que la Coupe du monde masculine de football a démarré, vous avez peut-être déjà regardé au moins un match. Si un gardien réalise un arrêt spectaculaire où il arrive à capter la balle alors que l’attaquant est très proche de sa cage, il y a fort à parier que le commentateur qualifie ce geste d’« arrêt réflexe",
-      "link": "https://theconversation.com/peut-on-vraiment-ameliorer-ses-reflexes-ou-pourquoi-on-ne-devrait-pas-parler-d-arret-reflexe-au-football-285009",
-      "image": "https://counter.theconversation.com/content/285009/count.gif",
-      "publishedAt": "2026-06-18T15:06:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aq3uhfw",
-      "title": "Détroit d’Ormuz : quand les flux mondialisés deviennent des armes contre les démocraties",
-      "summary": "La fermeture du détroit d’Ormuz par l’Iran, dans le golfe Arabo-Persique, a paralysé en quelques heures une fraction significative des approvisionnements mondiaux en hydrocarbures et en engrais phosphatés. Ce choc est le produit d’une vulnérabilité structurelle. Les points de fragilité accumulés en trois décennies de m",
-      "link": "https://theconversation.com/detroit-dormuz-quand-les-flux-mondialises-deviennent-des-armes-contre-les-democraties-283937",
-      "image": "https://counter.theconversation.com/content/283937/count.gif",
-      "publishedAt": "2026-06-18T15:05:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ai1hzpx",
-      "title": "La Colombie va-t-elle basculer à l’ultradroite ?",
-      "summary": "Ce qu’il faut retenir : Abelardo de la Espriella, candidat anti-establishment, a créé la surprise au premier tour de l’élection présidentielle colombienne en devançant la gauche. Le bilan du président sortant Gustavo Petro est lourdement terni par l’échec de sa politique de « paix totale » (Paz Total). Face à celui qui",
-      "link": "https://theconversation.com/la-colombie-va-t-elle-basculer-a-lultradroite-285493",
-      "image": "https://counter.theconversation.com/content/285493/count.gif",
-      "publishedAt": "2026-06-18T15:04:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -546,7 +546,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -562,7 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -578,7 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -594,7 +594,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -612,7 +612,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -630,7 +630,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -646,7 +646,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -662,7 +662,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -678,7 +678,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -694,7 +694,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
