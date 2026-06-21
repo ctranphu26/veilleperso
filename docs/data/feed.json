@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T11:33:02.594Z",
+  "generatedAt": "2026-06-21T17:11:57.960Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afrs6gz",
+      "title": "Examens 2026 : fautes d’orthographe ou de gouvernance ?",
+      "summary": "Le 2 juin 2026, le ministre de l’Education nationale Edouard Geffray se fait piéger sur un plateau télé : venu prôner l’intransigeance orthographique aux examens, il commet lui-même des erreurs dans L’article Examens 2026 : fautes d’orthographe ou de gouvernance ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/21/examens-2026-fautes-dorthographe-ou-de-gouvernance/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Fautes-dorthographe-ou-de-gouvernance-300x172.png",
+      "publishedAt": "2026-06-21T13:55:40.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -197,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -215,7 +231,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +249,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +265,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,7 +331,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,7 +347,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -347,23 +363,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aebmkmq",
-      "title": "Un cimetière de baleines vieux de 5,3 millions d’années découvert au fond de l’océan Indien",
-      "summary": "Dans le sud-est de l’océan Indien, une équipe de chercheurs a découvert un vaste cimetière de baleines vieux de plus de 5 millions d’années. Avec près de 500 fossiles recensés, il constitue l’un des plus importants sites de ce type jamais identifiés dans les grands fonds. Lorsqu’une baleine meurt, un phénomène naturel ",
-      "link": "https://theconversation.com/un-cimetiere-de-baleines-vieux-de-5-3-millions-dannees-decouvert-au-fond-de-locean-indien-285397",
-      "image": "https://images.theconversation.com/files/740925/original/file-20260610-57-ycanbq.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-19T12:57:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,8 +381,56 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aebmkmq",
+      "title": "Un cimetière de baleines vieux de 5,3 millions d’années découvert au fond de l’océan Indien",
+      "summary": "Dans le sud-est de l’océan Indien, une équipe de chercheurs a découvert un vaste cimetière de baleines vieux de plus de 5 millions d’années. Avec près de 500 fossiles recensés, il constitue l’un des plus importants sites de ce type jamais identifiés dans les grands fonds. Lorsqu’une baleine meurt, un phénomène naturel ",
+      "link": "https://theconversation.com/un-cimetiere-de-baleines-vieux-de-5-3-millions-dannees-decouvert-au-fond-de-locean-indien-285397",
+      "image": "https://images.theconversation.com/files/740925/original/file-20260610-57-ycanbq.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-19T12:57:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "av7z49e",
+      "title": "L’accord de paix avec l’Iran doit exiger la libération de Narges Mohammadi et des autres prisonniers d’opinion",
+      "summary": "Narges Mohammadi, Nobel de la paix 2023, reste aujourd’hui privée de liberté et dans un état de santé précaire, placée sous surveillance médicale et sécuritaire à son domicile de Téhéran après avoir frôlé la mort en détention. Compte X Narges Foundation Alors que Washington et le régime des mollahs ont signé un accord ",
+      "link": "https://theconversation.com/laccord-de-paix-avec-liran-doit-exiger-la-liberation-de-narges-mohammadi-et-des-autres-prisonniers-dopinion-285611",
+      "image": "https://images.theconversation.com/files/742703/original/file-20260618-57-d1ms95.png?ixlib=rb-4.1.0&amp;rect=80%2C0%2C1972%2C1314&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-18T15:01:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ajzpj57",
+      "title": "Pourquoi les impressionnistes aimaient-ils tant peindre des jardins ?",
+      "summary": "*Femme à l’ombrelle dans un jardin* (1875), de Pierre-Auguste Renoir. Thyssen-Bornemisza Museum (Espagne) Des dahlias qui déploient leurs couleurs vers le ciel ; des roses trémières autour d’un enfant qui joue ; des paysans qui s’occupent de leurs choux ; des nénuphars parsemant la surface d’un étang… le « jardin impre",
+      "link": "https://theconversation.com/pourquoi-les-impressionnistes-aimaient-ils-tant-peindre-des-jardins-285613",
+      "image": "https://images.theconversation.com/files/742671/original/file-20260514-63-g8hpke.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4101%2C2734&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-18T14:52:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "au527fb",
@@ -399,8 +447,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1xrvku",
@@ -415,8 +463,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amhtj6q",
@@ -431,40 +479,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "av7z49e",
-      "title": "L’accord de paix avec l’Iran doit exiger la libération de Narges Mohammadi et des autres prisonniers d’opinion",
-      "summary": "Narges Mohammadi, Nobel de la paix 2023, reste aujourd’hui privée de liberté et dans un état de santé précaire, placée sous surveillance médicale et sécuritaire à son domicile de Téhéran après avoir frôlé la mort en détention. Compte X Narges Foundation Alors que Washington et le régime des mollahs ont signé un accord ",
-      "link": "https://theconversation.com/laccord-de-paix-avec-liran-doit-exiger-la-liberation-de-narges-mohammadi-et-des-autres-prisonniers-dopinion-285611",
-      "image": "https://images.theconversation.com/files/742703/original/file-20260618-57-d1ms95.png?ixlib=rb-4.1.0&amp;rect=80%2C0%2C1972%2C1314&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-18T15:01:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajzpj57",
-      "title": "Pourquoi les impressionnistes aimaient-ils tant peindre des jardins ?",
-      "summary": "*Femme à l’ombrelle dans un jardin* (1875), de Pierre-Auguste Renoir. Thyssen-Bornemisza Museum (Espagne) Des dahlias qui déploient leurs couleurs vers le ciel ; des roses trémières autour d’un enfant qui joue ; des paysans qui s’occupent de leurs choux ; des nénuphars parsemant la surface d’un étang… le « jardin impre",
-      "link": "https://theconversation.com/pourquoi-les-impressionnistes-aimaient-ils-tant-peindre-des-jardins-285613",
-      "image": "https://images.theconversation.com/files/742671/original/file-20260514-63-g8hpke.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4101%2C2734&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-18T14:52:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "at2xjt0",
@@ -479,25 +495,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "am2gd6g",
-      "title": "Annette Bon (1939–2026) : une vie au cœur de l’école",
-      "summary": "Le directeur adjoint de l’IFE Régis Guyon rend hommage à Annette Bon, décédée en début de semaine. Agrégée d’histoire-géographie, maîtresse de recherches à l’Institut national de recherche pédagogique (INRP), membre L’article Annette Bon (1939–2026) : une vie au cœur de l’école est apparu en premier sur Le Café pédagog",
-      "link": "https://www.cafepedagogique.net/2026/06/19/annette-bon-1939-2026-une-vie-au-coeur-de-lecole/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/image-1-300x214.png",
-      "publishedAt": "2026-06-19T03:31:52.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -513,7 +511,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -529,7 +527,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -548,7 +546,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -564,7 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -580,7 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -596,7 +594,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -612,7 +610,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -628,7 +626,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -644,7 +642,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -660,7 +658,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -678,7 +676,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -696,7 +694,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     }
   ]
