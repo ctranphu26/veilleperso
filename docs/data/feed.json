@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T17:11:57.960Z",
+  "generatedAt": "2026-06-21T22:38:05.164Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "azen33i",
+      "title": "Au parquet, l’urgence permanente : comment la course au chiffre transforme la justice",
+      "summary": "Au-delà de la simple question des moyens, la justice pénale subit aujourd’hui les dérives d’un modèle d’organisation entièrement axé sur la productivité. Depuis le milieu des années 1990, la pression gouvernementale pousse les procureurs à traiter les dossiers à marche forcée, substituant une approche comptable à l’exa",
+      "link": "https://theconversation.com/au-parquet-lurgence-permanente-comment-la-course-au-chiffre-transforme-la-justice-285496",
+      "image": "https://counter.theconversation.com/content/285496/count.gif",
+      "publishedAt": "2026-06-21T18:46:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "anbl67u",
       "title": "Quelle éducation au vivant à l’heure de l’anthropocène ?",
       "summary": "À l’école, les savoirs organisés en disciplines décomposent le vivant au risque d’en atténuer les dynamiques relationnelles qui le structurent. Pourtant, les crises écologiques rappellent que le vivant se déploie dans un tissu d’interdépendances que les frontières disciplinaires peinent parfois à saisir. Pourquoi conti",
@@ -133,7 +149,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3r5txt",
+      "title": "« This is a final chance to change » : vers un tournant politique majeur au Royaume-Uni ?",
+      "summary": "Andy Burnham, maire de l’immense agglomération du Grand Manchester, est en bonne position pour remplacer à court terme Keir Starmer au poste de premier ministre du Royaume-Uni. Dans un contexte marqué par la progression du parti d’extrême droite Reform UK, l’avenir du Parti travailliste, l’équilibre du système politiqu",
+      "link": "https://theconversation.com/this-is-a-final-chance-to-change-vers-un-tournant-politique-majeur-au-royaume-uni-285723",
+      "image": "https://images.theconversation.com/files/743100/original/file-20260621-57-cr09sa.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-21T18:45:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +181,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -165,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awme805",
@@ -181,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4af6tx",
@@ -197,8 +229,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agpaqk",
@@ -213,8 +245,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "an4x8v7",
@@ -231,7 +263,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +281,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +297,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,7 +363,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -347,7 +379,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -363,7 +395,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,23 +413,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aebmkmq",
-      "title": "Un cimetière de baleines vieux de 5,3 millions d’années découvert au fond de l’océan Indien",
-      "summary": "Dans le sud-est de l’océan Indien, une équipe de chercheurs a découvert un vaste cimetière de baleines vieux de plus de 5 millions d’années. Avec près de 500 fossiles recensés, il constitue l’un des plus importants sites de ce type jamais identifiés dans les grands fonds. Lorsqu’une baleine meurt, un phénomène naturel ",
-      "link": "https://theconversation.com/un-cimetiere-de-baleines-vieux-de-5-3-millions-dannees-decouvert-au-fond-de-locean-indien-285397",
-      "image": "https://images.theconversation.com/files/740925/original/file-20260610-57-ycanbq.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-19T12:57:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -413,7 +429,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -429,7 +445,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aebmkmq",
+      "title": "Un cimetière de baleines vieux de 5,3 millions d’années découvert au fond de l’océan Indien",
+      "summary": "Dans le sud-est de l’océan Indien, une équipe de chercheurs a découvert un vaste cimetière de baleines vieux de plus de 5 millions d’années. Avec près de 500 fossiles recensés, il constitue l’un des plus importants sites de ce type jamais identifiés dans les grands fonds. Lorsqu’une baleine meurt, un phénomène naturel ",
+      "link": "https://theconversation.com/un-cimetiere-de-baleines-vieux-de-5-3-millions-dannees-decouvert-au-fond-de-locean-indien-285397",
+      "image": "https://images.theconversation.com/files/740925/original/file-20260610-57-ycanbq.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-19T12:57:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -447,7 +479,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -463,7 +495,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -479,7 +511,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -495,7 +527,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -511,7 +543,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -527,7 +559,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -546,7 +578,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -562,7 +594,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -578,7 +610,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -594,7 +626,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -610,7 +642,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -626,7 +658,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -642,7 +674,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -658,43 +690,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "av5bvw4",
-      "title": "Médecins spécialistes et déserts médicaux : leur présence sur un territoire ne suffit pas à garantir l’accès aux soins",
-      "summary": "Le manque de praticiens ne suffit pas à expliquer les difficultés d’accès à certaines spécialités médicales observées dans certains territoires. La désertification médicale résulterait de trois inégalités qui se cumulent sans toujours se confondre : une offre de soins mal répartie, des délais d’attente très inégaux pou",
-      "link": "https://theconversation.com/medecins-specialistes-et-deserts-medicaux-leur-presence-sur-un-territoire-ne-suffit-pas-a-garantir-lacces-aux-soins-284857",
-      "image": "https://counter.theconversation.com/content/284857/count.gif",
-      "publishedAt": "2026-06-17T15:43:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atn0dc7",
-      "title": "Solitudes en France : les origines politiques et sociales du « problème »",
-      "summary": "Présentée au cours de l’histoire tour à tour comme une déviance ou comme un espace de ressourcement, la solitude est devenue depuis les années 2000 un problème public dont s’emparent les politiques. Mais lorsque l’on parle de restaurer le lien social, n’occulte-t-on pas les inégalités profondes dans lesquelles la monté",
-      "link": "https://theconversation.com/solitudes-en-france-les-origines-politiques-et-sociales-du-probleme-283722",
-      "image": "https://counter.theconversation.com/content/283722/count.gif",
-      "publishedAt": "2026-06-17T15:42:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
