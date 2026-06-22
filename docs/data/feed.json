@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T17:56:37.153Z",
+  "generatedAt": "2026-06-22T23:05:47.601Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "asofbx2",
+      "title": "Les nouveaux programmes de sciences au cycle 2 : ce qui sera enseigné en CP, CE1 et CE2",
+      "summary": "Que retenir des nouveaux programmes de sciences et technologie pour les CP, CE1 et CE2 ? Mis en ligne depuis le 9 juin 2026, le programme tient en 12 pages. L’article Les nouveaux programmes de sciences au cycle 2 : ce qui sera enseigné en CP, CE1 et CE2 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/22/les-nouveaux-programmes-de-sciences-au-cycle-2-ce-qui-sera-enseigne-en-cp-ce1-et-ce2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/programme-cycle-2-sciences-et-technologie-VivelesSVT-300x200.jpg",
+      "publishedAt": "2026-06-22T20:34:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +167,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -159,7 +175,7 @@
       "title": "Compete to survive, cooperate to exist: the sovereignty paradox at the heart of Europe’s defence industry",
       "summary": "At the ILA Berlin Air Show on June 11, eight German aerospace and defence companies signed a strategic positioning paper committing to build a sixth-generation fighter jet without France, under the banner “Team Gen 6”. Airbus called it “an existing step for European sovereignty”. Spanish industry is already lining up b",
       "link": "https://theconversation.com/compete-to-survive-cooperate-to-exist-the-sovereignty-paradox-at-the-heart-of-europes-defence-industry-285293",
-      "image": "https://counter.theconversation.com/content/285293/count.gif",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
       "publishedAt": "2026-06-22T15:37:21.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
@@ -167,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +201,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -203,7 +219,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -219,7 +235,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -235,7 +251,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -251,7 +267,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -267,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -283,7 +299,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -299,8 +315,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3j9li",
@@ -315,8 +331,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar76h94",
@@ -331,8 +347,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7n2z6",
@@ -347,23 +363,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4zupxm",
-      "title": "Canicule : Edouard Geffray maintient les écrits du DNB vendredi prochain",
-      "summary": "La question du report de l’épreuve écrite de français du vendredi 26 juin se pose. Les salles seront surchauffées après une semaine de canicule sur la France. Malgré 5 394 L’article Canicule : Edouard Geffray maintient les écrits du DNB vendredi prochain est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/22/vers-un-report-du-brevet-des-colleges/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-Cafe-pedagogique-225x300.jpeg",
-      "publishedAt": "2026-06-22T06:35:50.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -379,7 +379,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4zupxm",
+      "title": "Canicule : Edouard Geffray maintient les écrits du DNB vendredi prochain",
+      "summary": "La question du report de l’épreuve écrite de français du vendredi 26 juin se pose. Les salles seront surchauffées après une semaine de canicule sur la France. Mais malgré les L’article Canicule : Edouard Geffray maintient les écrits du DNB vendredi prochain est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/22/vers-un-report-du-brevet-des-colleges/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-Cafe-pedagogique-225x300.jpeg",
+      "publishedAt": "2026-06-22T06:35:50.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,23 +415,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anex0hq",
-      "title": "Examens 2026 : fautes d’orthographe ou de gouvernance ?",
-      "summary": "Le 2 juin 2026, le ministre de l’Education nationale Edouard Geffray se fait piéger sur un plateau télé : venu prôner l’intransigeance orthographique aux examens, il commet lui-même des erreurs dans L’article Examens 2026 : fautes d’orthographe ou de gouvernance ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/22/examens-2026-fautes-dorthographe-ou-de-gouvernance/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Fautes-dorthographe-ou-de-gouvernance-300x172.png",
-      "publishedAt": "2026-06-22T04:30:40.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -435,7 +435,7 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -453,7 +453,55 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anex0hq",
+      "title": "Examens 2026 : fautes d’orthographe ou de gouvernance ?",
+      "summary": "Le 2 juin 2026, le ministre de l’Education nationale Edouard Geffray se fait piéger sur un plateau télé : venu prôner l’intransigeance orthographique aux examens, il commet lui-même des erreurs dans L’article Examens 2026 : fautes d’orthographe ou de gouvernance ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/22/examens-2026-fautes-dorthographe-ou-de-gouvernance/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Fautes-dorthographe-ou-de-gouvernance-300x172.png",
+      "publishedAt": "2026-06-22T04:30:40.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4c4zm7",
+      "title": "Bac : J1 ou J2, comment accepter de tels écarts dans un examen certificatif ?",
+      "summary": "Des sujets avec des difficultés parfois très variables entre le jour 1 et le jour 2. Le bac est-il équitable ? « Comment un examen certificatif national peut-il accepter des écarts L’article Bac : J1 ou J2, comment accepter de tels écarts dans un examen certificatif ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/22/bac-j1-ou-j2-comment-peut-on-accepter-de-tels-ecarts-dans-un-examen-certificatif/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/mariemSiala-cafepeda-242x300.png",
+      "publishedAt": "2026-06-22T03:50:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atzmywf",
+      "title": "Canicule et report des oraux du bac : jusqu’où ira l’impréparation du gouvernement ?",
+      "summary": "« Comment un gouvernement peut-il encore, en 2026, découvrir dans l’urgence que l’été… il fait chaud ? » « Gouverner, c’est anticiper » écrit le conseiller régional socialiste Yannick Trigance L’article Canicule et report des oraux du bac : jusqu’où ira l’impréparation du gouvernement ? est apparu en premier sur Le Caf",
+      "link": "https://www.cafepedagogique.net/2026/06/22/canicule-et-report-des-oraux-du-bac-jusquou-ira-limpreparation-du-gouvernement/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/01/Yannick-Trigance-Cafe-pedagogique-e1737004858366-268x300.jpeg",
+      "publishedAt": "2026-06-22T03:44:47.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -472,55 +520,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4c4zm7",
-      "title": "Bac : J1 ou J2, comment accepter de tels écarts dans un examen certificatif ?",
-      "summary": "Des sujets avec des difficultés parfois très variables entre le jour 1 et le jour 2. Le bac est-il équitable ? « Comment un examen certificatif national peut-il accepter des écarts L’article Bac : J1 ou J2, comment accepter de tels écarts dans un examen certificatif ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/22/bac-j1-ou-j2-comment-peut-on-accepter-de-tels-ecarts-dans-un-examen-certificatif/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/mariemSiala-cafepeda-242x300.png",
-      "publishedAt": "2026-06-22T03:50:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atzmywf",
-      "title": "Canicule et report des oraux du bac : jusqu’où ira l’impréparation du gouvernement ?",
-      "summary": "« Comment un gouvernement peut-il encore, en 2026, découvrir dans l’urgence que l’été… il fait chaud ? » « Gouverner, c’est anticiper » écrit le conseiller régional socialiste Yannick Trigance L’article Canicule et report des oraux du bac : jusqu’où ira l’impréparation du gouvernement ? est apparu en premier sur Le Caf",
-      "link": "https://www.cafepedagogique.net/2026/06/22/canicule-et-report-des-oraux-du-bac-jusquou-ira-limpreparation-du-gouvernement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/01/Yannick-Trigance-Cafe-pedagogique-e1737004858366-268x300.jpeg",
-      "publishedAt": "2026-06-22T03:44:47.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8oicld",
-      "title": "Découvrez les sujets du diplôme national du brevet 2026 des centres à l’étranger du groupe 1",
-      "summary": "Voici de quoi s’entraîner sous la chaleur ? Découvrez les sujets des épreuves du diplôme national du brevet, pour les centres à l’étranger du groupe 1 Série générale Grammaire L’article Découvrez les sujets du diplôme national du brevet 2026 des centres à l’étranger du groupe 1 est apparu en premier sur Le Café pédagog",
-      "link": "https://www.cafepedagogique.net/2026/06/22/decouvrez-les-sujets-du-diplome-national-du-brevet-2026-des-centres-a-letranger-du-groupe-1/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/DNB-2026-sujet-300x201.png",
-      "publishedAt": "2026-06-22T03:29:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -538,7 +538,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -554,7 +554,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -570,7 +570,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -586,7 +586,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -602,7 +602,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -618,7 +618,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -636,7 +636,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -652,7 +652,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -668,7 +668,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -684,7 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -700,7 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
