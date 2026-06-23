@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T11:43:31.082Z",
+  "generatedAt": "2026-06-23T19:26:53.745Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,41 @@
   "count": 35,
   "items": [
     {
+      "id": "axxdavd",
+      "title": "Alliances d’universités européennes : porter des projets communs, un défi linguistique ?",
+      "summary": "À l’initiative de la Commission européenne, les alliances d’universités permettent d’organiser des formations et des projets de recherche communs. À mesure qu’elles se déploient, le choix des langues de réunion, d’évaluation des étudiants ou de coordination globale revêt une dimension stratégique. Depuis 2019, les alli",
+      "link": "https://theconversation.com/alliances-duniversites-europeennes-porter-des-projets-communs-un-defi-linguistique-282630",
+      "image": "https://counter.theconversation.com/content/282630/count.gif",
+      "publishedAt": "2026-06-23T14:15:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation",
+        "évaluation"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajjj7hh",
+      "title": "Faut-il vraiment arrêter de labourer les champs ?",
+      "summary": "Un travail superficiel (10-12 cm de profondeur) post-récolte dans un champ de maïs. Fourni par l'auteur Longtemps indissociables de l’agriculture même, le labour et les activités de travail du sol sont aujourd’hui remis en question. Réduire ou arrêter de labourer serait ainsi bénéfique pour la structure des sols, la bi",
+      "link": "https://theconversation.com/faut-il-vraiment-arreter-de-labourer-les-champs-284340",
+      "image": "https://images.theconversation.com/files/739653/original/file-20260603-57-9qbfli.JPG?ixlib=rb-4.1.0&amp;rect=0%2C29%2C2278%2C1518&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-23T14:16:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aelgc3t",
       "title": "Tirage au sort, assemblées citoyennes, remplacement du Sénat : les Français veulent de l’innovation démocratique",
       "summary": "Pétitions, assemblées citoyennes, référendums : selon une enquête inédite, menée par Sciences Po et l’institut Verian, une large majorité de Français souhaitent un système qui favorise la participation directe. Le principe des assemblées citoyennes est soutenu par 67 % des sondés, et 53 % d’entre eux aspirent à remplac",
@@ -131,7 +166,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +184,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -168,7 +203,43 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aub4o71",
+      "title": "Quand les réseaux sociaux incitent les jeunes femmes à tourner le dos à la pilule contraceptive",
+      "summary": "L’essentiel La pilule contraceptive est en recul. En France, désormais, chez les femmes de 18 à 49 ans, le dispositif intra-utérin (DIU, surnommé « stérilet ») est désormais le moyen de contraception le plus utilisé. Autour de hashtags comme #MyPillStory, les réseaux sociaux sociaux deviennent des points de ralliement ",
+      "link": "https://theconversation.com/quand-les-reseaux-sociaux-incitent-les-jeunes-femmes-a-tourner-le-dos-a-la-pilule-contraceptive-285508",
+      "image": "https://counter.theconversation.com/content/285508/count.gif",
+      "publishedAt": "2026-06-23T14:17:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac0p8ej",
+      "title": "Violences sexuelles sur mineurs : deux siècles de bruit médiatique et d’inertie",
+      "summary": "Malgré les révélations qui éclatent régulièrement dans l’actualité à leur sujet, les violences sexuelles sur mineurs restent invisibilisées dans la société, et la protection au quotidien des enfants et des adolescents reste défaillante. Remise en perspective de cette inertie, qui persiste face à la libération de la par",
+      "link": "https://theconversation.com/violences-sexuelles-sur-mineurs-deux-siecles-de-bruit-mediatique-et-dinertie-285500",
+      "image": "https://counter.theconversation.com/content/285500/count.gif",
+      "publishedAt": "2026-06-23T14:17:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -188,7 +259,123 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abvnbkf",
+      "title": "Des mobilités quotidiennes à deux vitesses : ce que révèlent les durées de déplacement en France",
+      "summary": "L’étude des budgets-temps de transport entre 1976 et 2020 met en évidence deux trajectoires opposées : la France des vitesses subies et l’Île-de-France des vitesses choisies. Ces dynamiques interrogent la portée sociale et territoriale de la transition des mobilités, entre inégalités d’accès à la vitesse et émergence d",
+      "link": "https://theconversation.com/des-mobilites-quotidiennes-a-deux-vitesses-ce-que-revelent-les-durees-de-deplacement-en-france-284894",
+      "image": "https://counter.theconversation.com/content/284894/count.gif",
+      "publishedAt": "2026-06-23T14:15:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "égalité"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akioe00",
+      "title": "Blocage d’Ormuz : l’énergie solaire en ressortira gagnante à long terme, le charbon à court terme ?",
+      "summary": "La nature a horreur du vide. Le blocage du détroit d’Ormuz laisse le champ libre à deux sources d’énergie concurrentes du pétrole : le solaire et le charbon. En Europe, la chute du prix du premier laisse espérer une accélération de la décarbonation de l’économie. En Asie, l’arrêt de centrale au charbon apparaît illusoi",
+      "link": "https://theconversation.com/blocage-dormuz-lenergie-solaire-en-ressortira-gagnante-a-long-terme-le-charbon-a-court-terme-280517",
+      "image": "https://images.theconversation.com/files/729808/original/file-20260414-57-hetkct.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-23T14:15:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arr8ofd",
+      "title": "« L’arc de Trump » : une glorification des États-Unis… et surtout de leur président actuel",
+      "summary": "Maquette de l’arc de triomphe qui sera édifié à Washington, présentée à la Maison-Blanche par Donald Trump, le 7 octobre 2025. Site officiel de la Maison-Blanche L’arc de triomphe est de longue date un instrument de glorification du pouvoir, utilisé par les empereurs romains puis par de nombreux souverains pour inscrir",
+      "link": "https://theconversation.com/larc-de-trump-une-glorification-des-etats-unis-et-surtout-de-leur-president-actuel-285682",
+      "image": "https://images.theconversation.com/files/743277/original/file-20260622-57-lbsqvz.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C3000%2C1999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-23T14:25:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aw8z1oa",
+      "title": "The Strait of Hormuz is finally reopening but Europe’s food chain suppliers cannot afford to be complacent",
+      "summary": "An interim peace deal between Iran and the United States signals the end of dire straits for one of the world’s most critical maritime route, but it could be months before traffic flows return to normal. Wikimedia, CC BY Our study of agri-food systems suggests that the most powerful resilience levers are not found insi",
+      "link": "https://theconversation.com/the-strait-of-hormuz-is-finally-reopening-but-europes-food-chain-suppliers-cannot-afford-to-be-complacent-285644",
+      "image": "https://images.theconversation.com/files/743322/original/file-20260622-57-1w0qhw.png?ixlib=rb-4.1.0&amp;rect=0%2C246%2C3840%2C2560&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-23T14:20:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6zkjqa",
+      "title": "Comment peut-on faire de la science avec et pour la société ? Ce que révèle une enquête au cœur des collectifs",
+      "summary": "En impliquant des citoyens dans la production de connaissances, les frontières entre la science et la société se redéfinissent. Charlène Rivière, Fourni par l'auteur Associer scientifiques et citoyens pour produire des connaissances : l’idée séduit, voire enthousiasme. Mais comment ces collectifs fonctionnent-ils réell",
+      "link": "https://theconversation.com/comment-peut-on-faire-de-la-science-avec-et-pour-la-societe-ce-que-revele-une-enquete-au-coeur-des-collectifs-280854",
+      "image": "https://images.theconversation.com/files/743552/original/file-20260623-57-mpu8fv.png?ixlib=rb-4.1.0&amp;rect=427%2C0%2C2106%2C1404&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-23T14:18:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aaz5mxi",
+      "title": "Comment la diaspora iranienne vit la guerre à distance",
+      "summary": "Cet article a été rédigé avant le pré-accord du 14 juin 2026 entre le régime iranien et les États-Unis. L’avenir dira ce qu’il en sera. Plusieurs millions d’Iraniens vivent de façon permanente à l’étranger. Ils suivent de très près la situation dans leur pays, oscillant entre crainte pour leurs proches, espoir d’un cha",
+      "link": "https://theconversation.com/comment-la-diaspora-iranienne-vit-la-guerre-a-distance-283713",
+      "image": "https://counter.theconversation.com/content/283713/count.gif",
+      "publishedAt": "2026-06-23T14:16:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abfnok6",
+      "title": "Rajeunir ou disparaître : comment les femmes vieillissent – ou non – sur nos écrans",
+      "summary": "Nicole Kidman, dans le film *Babygirl* (2024). Allô Ciné Ne pas vieillir, et ce, le plus longtemps possible. Voilà le diktat qui semble présider au destin des actrices au cinéma et dans les séries. À de rares exceptions près, leurs options ne semblent pas nombreuses : soit se lancer dans une course éperdue au rajeuniss",
+      "link": "https://theconversation.com/rajeunir-ou-disparaitre-comment-les-femmes-vieillissent-ou-non-sur-nos-ecrans-278471",
+      "image": "https://images.theconversation.com/files/743326/original/file-20260622-101-tl1lpd.png?ixlib=rb-4.1.0&amp;rect=171%2C0%2C1849%2C1233&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-23T14:14:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -204,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -220,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -236,8 +423,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ad16pgf",
@@ -252,26 +439,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ak47v4a",
-      "title": "Canicule : Edouard Geffray mise sur le statu quo malgré 54 départements en vigilance rouge",
-      "summary": "Malgré 54 départements en vigilance rouge et de nombreuses classes qui dépassent les 35°C, le ministère décide, à ce stade, de maintenir le DNB vendredi matin. Officiellement plus de 5350 L’article Canicule : Edouard Geffray mise sur le statu quo malgré 54 départements en vigilance rouge est apparu en premier sur Le Ca",
-      "link": "https://www.cafepedagogique.net/2026/06/23/canicule-edouard-geffray-mise-sur-le-statu-quo-avec-54-departements-en-vigilance-rouge/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/ministre-Geffray-1-e1782154652555-264x300.jpeg",
-      "publishedAt": "2026-06-23T03:59:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6iej2d",
@@ -288,8 +457,26 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ak47v4a",
+      "title": "Canicule : Edouard Geffray mise sur le statu quo malgré 54 départements en vigilance rouge",
+      "summary": "Malgré 54 départements en vigilance rouge et de nombreuses classes qui dépassent les 35°C, le ministère décide, à ce stade, de maintenir le DNB vendredi matin. Officiellement plus de 5350 L’article Canicule : Edouard Geffray mise sur le statu quo malgré 54 départements en vigilance rouge est apparu en premier sur Le Ca",
+      "link": "https://www.cafepedagogique.net/2026/06/23/canicule-edouard-geffray-mise-sur-le-statu-quo-avec-54-departements-en-vigilance-rouge/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/ministre-Geffray-1-e1782154652555-264x300.jpeg",
+      "publishedAt": "2026-06-23T03:59:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ah9y3si",
@@ -306,8 +493,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asx9j5u",
@@ -322,8 +509,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ac4i0rw",
@@ -338,8 +525,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abonnvt",
@@ -354,8 +541,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apqg0hv",
@@ -370,8 +557,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a479kfk",
@@ -388,25 +575,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ax48ujk",
-      "title": "La Cour de cassation sécurise la période d’essai de la femme enceinte. Une étape contre les « pénalités de maternité »",
-      "summary": "L’annonce d’une grossesse est souvent un moment de joie dans la vie d’une femme. Dans certains cas, cette annonce est source de stress, voire de pénalités dans sa vie professionnelle. L’arrêt de la Cour de cassation du 25 mars 2026 vient sécuriser la rupture de la période d’essai lorsqu’un employeur apprend que sa sala",
-      "link": "https://theconversation.com/la-cour-de-cassation-securise-la-periode-dessai-de-la-femme-enceinte-une-etape-contre-les-penalites-de-maternite-280526",
-      "image": "https://counter.theconversation.com/content/280526/count.gif",
-      "publishedAt": "2026-06-22T08:23:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -422,7 +591,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -440,7 +609,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -458,7 +627,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -474,7 +643,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -490,7 +659,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -506,7 +675,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -522,7 +691,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -538,170 +707,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "azen33i",
-      "title": "Au parquet, l’urgence permanente : comment la course au chiffre transforme la justice",
-      "summary": "Au-delà de la simple question des moyens, la justice pénale subit aujourd’hui les dérives d’un modèle d’organisation entièrement axé sur la productivité. Depuis le milieu des années 1990, la pression gouvernementale pousse les procureurs à traiter les dossiers à marche forcée, substituant une approche comptable à l’exa",
-      "link": "https://theconversation.com/au-parquet-lurgence-permanente-comment-la-course-au-chiffre-transforme-la-justice-285496",
-      "image": "https://counter.theconversation.com/content/285496/count.gif",
-      "publishedAt": "2026-06-21T18:46:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arx4qm8",
-      "title": "Performance ESG des entreprises : quelle influence peuvent exercer les agences de notation ?",
-      "summary": "Tout comme des agences de notation financière évaluent la solvabilité des États ou des entreprises, des agences de notation des performances environnementales, sociales et de gouvernance évaluent les pratiques des entreprises en matière de responsabilité sociétale et environnementale. Les scores qu’elles publient sembl",
-      "link": "https://theconversation.com/performance-esg-des-entreprises-quelle-influence-peuvent-exercer-les-agences-de-notation-282089",
-      "image": "https://counter.theconversation.com/content/282089/count.gif",
-      "publishedAt": "2026-06-22T08:24:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3j9li",
-      "title": "Importés des États-Unis, les rachats d’actions sont devenus une drogue dure pour les entreprises françaises cotées",
-      "summary": "Ces opérations, par lesquelles une entreprise rachète ses propres actions sur le marché, sont devenues légion. À la clé, le bénéfice par action augmente. S’inspirant du modèle états-unien, certaines entreprises françaises, comme TotalEnergies, L’Oréal, Axa et Sanofi, en sont devenues dépendantes. La raison ? Les marché",
-      "link": "https://theconversation.com/importes-des-etats-unis-les-rachats-dactions-sont-devenus-une-drogue-dure-pour-les-entreprises-francaises-cotees-283702",
-      "image": "https://counter.theconversation.com/content/283702/count.gif",
-      "publishedAt": "2026-06-22T08:24:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a7n2z6",
-      "title": "Quelle forme de leadership privilégier pour restaurer la confiance entre le sommet et la base (de la société ou de l’entreprise) ?",
-      "summary": "Comment susciter la confiance ? Sur quels leviers appuyer pour la faire naître et convaincre ? La culture française assimile souvent cet état d’esprit à un don naturel, à des qualités propres aux individus, quel que soit le contexte. Une étude montre pourtant qu’inspirer confiance dépend largement de l’environnement et",
-      "link": "https://theconversation.com/quelle-forme-de-leadership-privilegier-pour-restaurer-la-confiance-entre-le-sommet-et-la-base-de-la-societe-ou-de-lentreprise-262732",
-      "image": "https://counter.theconversation.com/content/262732/count.gif",
-      "publishedAt": "2026-06-22T07:34:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anbl67u",
-      "title": "Quelle éducation au vivant à l’heure de l’anthropocène ?",
-      "summary": "À l’école, les savoirs organisés en disciplines décomposent le vivant au risque d’en atténuer les dynamiques relationnelles qui le structurent. Pourtant, les crises écologiques rappellent que le vivant se déploie dans un tissu d’interdépendances que les frontières disciplinaires peinent parfois à saisir. Pourquoi conti",
-      "link": "https://theconversation.com/quelle-education-au-vivant-a-lheure-de-lanthropocene-281654",
-      "image": "https://counter.theconversation.com/content/281654/count.gif",
-      "publishedAt": "2026-06-21T09:44:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3r5txt",
-      "title": "« This is a final chance to change » : vers un tournant politique majeur au Royaume-Uni ?",
-      "summary": "Andy Burnham, maire de l’immense agglomération du Grand Manchester, est désormais le grand favori pour remplacer au poste de premier ministre du Royaume-Uni Keir Starmer, dont on vient d'apprendre la démission. Dans un contexte marqué par la progression du parti d’extrême droite Reform UK, l’avenir du Parti travaillist",
-      "link": "https://theconversation.com/this-is-a-final-chance-to-change-vers-un-tournant-politique-majeur-au-royaume-uni-285723",
-      "image": "https://images.theconversation.com/files/743100/original/file-20260621-57-cr09sa.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-21T18:45:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atwspbl",
-      "title": "Éteindre des incendies par le sens, un hommage à Karl Weick",
-      "summary": "Comment un incendie dans le Montana a-t-il conduit un sociologue à mettre en exergue le rôle du sens de l’action ? C’est un des apports de Karl Weick qui vient de disparaître à l’âge de 89 ans. Ses travaux illustrent à quel point le sens peut être un contre-feu efficace. Ou comment, à l’inverse, un ordre dont le sens n",
-      "link": "https://theconversation.com/eteindre-des-incendies-par-le-sens-un-hommage-a-karl-weick-285259",
-      "image": "https://counter.theconversation.com/content/285259/count.gif",
-      "publishedAt": "2026-06-21T09:43:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awme805",
-      "title": "Oui, le football a une histoire aux États-Unis. Le « soccer » est devenu un sport populaire",
-      "summary": "Aux États-Unis, le football n’est pas né avec l’arrivée de Lionel Messi en 2023 à la Major League Soccer. Dès 1913, une fédération états-unienne est créée, puis une ligue professionnelle, l’American Soccer League, en 1921, suivie de la North American Soccer League en 1968 et de la Major League Soccer en 1996. Le footba",
-      "link": "https://theconversation.com/oui-le-football-a-une-histoire-aux-etats-unis-le-soccer-est-devenu-un-sport-populaire-284594",
-      "image": "https://images.theconversation.com/files/741086/original/file-20260610-57-kz5p3g.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-21T09:42:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a4af6tx",
-      "title": "Les fan-zones, fan ou pas fan ?",
-      "summary": "Une fan-zone ne ressemble pas forcément à ça ! Ici, la fan-zone au pied de la tour Eiffel, le 26 juin 2016, pendant le match opposant l’Allemagne à la Slovaquie lors de l’Euro 2016. Nasreddine Nas’h/Wikimédia , CC BY Un terme est devenu le corollaire des grands événements sportifs internationaux, il s’agit de celui de ",
-      "link": "https://theconversation.com/les-fan-zones-fan-ou-pas-fan-285497",
-      "image": "https://images.theconversation.com/files/742735/original/file-20260618-57-gs9hzd.jpg?ixlib=rb-4.1.0&amp;rect=204%2C0%2C2279%2C1519&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-21T09:40:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agpaqk",
-      "title": "Un tiers de l’humanité doit s’endetter pour vivre",
-      "summary": "L’endettement des ménages est surtout évoqué à travers le prisme du pouvoir d’achat, du paiement fractionné ou du surendettement, mais il reste rarement analysé comme un phénomène social massif et structurel. Une recherche récente s’efforce de quantifier cette « dette du quotidien » à l’échelle mondiale. Il en ressort ",
-      "link": "https://theconversation.com/un-tiers-de-lhumanite-doit-sendetter-pour-vivre-284126",
-      "image": "https://counter.theconversation.com/content/284126/count.gif",
-      "publishedAt": "2026-06-21T07:25:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
     }
   ]
 }
