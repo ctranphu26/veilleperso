@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T10:36:19.393Z",
+  "generatedAt": "2026-06-24T18:21:55.946Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,108 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abzt3zn",
+      "title": "Désinformation en santé : pourquoi les IA conversationnelles doivent entrer dans le débat",
+      "summary": "L'essentiel La désinformation en santé n’est pas un phénomène nouveau, mais les crises sanitaires successives, de l’affaire du sang contaminé à la pandémie de Covid-19, ont contribué à en accroître la visibilité. Les réseaux sociaux ont amplifié la circulation de la désinformation en santé tandis que les IA conversatio",
+      "link": "https://theconversation.com/desinformation-en-sante-pourquoi-les-ia-conversationnelles-doivent-entrer-dans-le-debat-285520",
+      "image": "https://counter.theconversation.com/content/285520/count.gif",
+      "publishedAt": "2026-06-24T12:53:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "désinformation",
+        "réseaux sociaux"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "au6bj15",
+      "title": "Coupe du monde de football 2026 : faut-il craindre une hausse des violences envers les femmes ?",
+      "summary": "Visuel de la campagne « No more Injury Time » de l’ONG britannique Solace Women’s Aid à l’occasion de l’Euro 2024. Le slogan est un jeu de mots, « Injury time » signifiant « temps additionnel » dans un match de football, mais aussi « le moment des blessures » en traduction littérale. Solace Women’s Aid Plusieurs études",
+      "link": "https://theconversation.com/coupe-du-monde-de-football-2026-faut-il-craindre-une-hausse-des-violences-envers-les-femmes-285265",
+      "image": "https://images.theconversation.com/files/743114/original/file-20260621-63-7tn5t8.png?ixlib=rb-4.1.0&amp;rect=136%2C0%2C926%2C617&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-24T12:52:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ay86f6j",
+      "title": "Le boycott académique contre Israël est minoritaire et traduit l’émergence de nouvelles normes académiques",
+      "summary": "En rompant leurs liens avec les universités israéliennes, plusieurs universités européennes revendiquent une responsabilité morale face à la guerre à Gaza. Une évolution qui interroge les principes traditionnels de liberté académique et de neutralité institutionnelle. À la suite de l’intensification du conflit israélo-",
+      "link": "https://theconversation.com/le-boycott-academique-contre-israel-est-minoritaire-et-traduit-lemergence-de-nouvelles-normes-academiques-284203",
+      "image": "https://images.theconversation.com/files/739781/original/file-20260603-71-ax5no.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-24T12:53:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "au2hv09",
+      "title": "La démocratie en recul face à la poussée des autoritarismes",
+      "summary": "Alors que les relations internationales traversent une phase de turbulences et de redéfinitions, plusieurs grandes puissances semblent converger vers des modèles de gouvernance mêlant fermeture nationale, interventionnisme économique et concentration des pouvoirs. Dans Trump, Poutine et Xi Jinping. Le national capitali",
+      "link": "https://theconversation.com/la-democratie-en-recul-face-a-la-poussee-des-autoritarismes-285091",
+      "image": "https://images.theconversation.com/files/742940/original/file-20260619-75-a5hdnh.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-06-24T12:52:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9f5jc8",
+      "title": "Microbiotes : le lien invisible entre agriculture, alimentation et santé",
+      "summary": "Notre santé dépend autant de ce que nous mangeons que de la manière dont nos aliments sont produits. De récentes recherches montrent ainsi combien les microbes du sol, des plantes et de notre intestin sont étroitement liés. Une réalité qui invite à repenser en profondeur nos systèmes agricole et alimentaire. Plus de 2 ",
+      "link": "https://theconversation.com/microbiotes-le-lien-invisible-entre-agriculture-alimentation-et-sante-284859",
+      "image": "https://images.theconversation.com/files/742533/original/file-20260617-57-586bq5.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-06-24T12:51:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a51gjag",
+      "title": "« Heated Rivalry », la romance gay qui réenchante l’imaginaire érotique des femmes hétérosexuelles",
+      "summary": "Mettant en scène une romance gay dans le milieu du hockey, la série, dont Connor Storrie (à gauche) et Hudson Williams (à droite) interprètent les rôles principaux, rencontre un succès vertigineux. HBO MAX La série canadienne, devenue en quatre mois le plus grand succès de fiction jamais diffusé par HBO Max, a un publi",
+      "link": "https://theconversation.com/heated-rivalry-la-romance-gay-qui-reenchante-limaginaire-erotique-des-femmes-heterosexuelles-284246",
+      "image": "https://images.theconversation.com/files/743836/original/file-20260624-63-m6cjri.png?ixlib=rb-4.1.0&amp;rect=33%2C0%2C846%2C564&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-24T12:48:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -165,13 +266,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
       "id": "a51byxc",
-      "title": "Brevet maintenu ce vendredi malgré la canicule mais avec pauses fraicheurs et 15 élèves par classe",
-      "summary": "L’épreuve la plus longue du brevet des collèges (français) de vendredi 26 juin est maintenue. Le ministre Edouard Geffray a tranché, au niveau national cette fois-ci. L’épreuve est donc maintenue L’article Brevet maintenu ce vendredi malgré la canicule mais avec pauses fraicheurs et 15 élèves par classe est apparu en p",
+      "title": "Brevet maintenu ce vendredi malgré la canicule mais avec pauses fraîcheurs et 15 élèves par classe",
+      "summary": "L’épreuve la plus longue du brevet des collèges (français) de vendredi 26 juin est maintenue. Le ministre Edouard Geffray a tranché, au niveau national cette fois-ci. L’épreuve aura donc bien L’article Brevet maintenu ce vendredi malgré la canicule mais avec pauses fraîcheurs et 15 élèves par classe est apparu en premi",
       "link": "https://www.cafepedagogique.net/2026/06/24/exclusif-brevet-maintenu-ce-vendredi-malgre-la-canicule-mais-avec-des-pauses-fraicheurs/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/ministre-Geffray-1-e1782154652555-264x300.jpeg",
       "publishedAt": "2026-06-24T07:08:18.000Z",
@@ -184,8 +285,8 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agkxy1c",
@@ -203,8 +304,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aaf9iob",
@@ -223,26 +324,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aha4rka",
-      "title": "Le jour où le baccalauréat a changé d’échelle",
-      "summary": "« Le taux de 60% de bacheliers dans une classe d’âge est atteint dès 1994 (6 ans avant la date envisagée par Jean-Pierre Chevènement) », rappelle Claude Lelièvre. L’évolution des L’article Le jour où le baccalauréat a changé d’échelle est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/24/le-jour-ou-le-baccalaureat-a-change-dechelle/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Claude-Lelievre-cafe-pedagogique-300x300.jpg",
-      "publishedAt": "2026-06-24T03:45:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3tkk59",
@@ -260,8 +343,26 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aha4rka",
+      "title": "Le jour où le baccalauréat a changé d’échelle",
+      "summary": "« Le taux de 60% de bacheliers dans une classe d’âge est atteint dès 1994 (6 ans avant la date envisagée par Jean-Pierre Chevènement) », rappelle Claude Lelièvre. L’évolution des L’article Le jour où le baccalauréat a changé d’échelle est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/24/le-jour-ou-le-baccalaureat-a-change-dechelle/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Claude-Lelievre-cafe-pedagogique-300x300.jpg",
+      "publishedAt": "2026-06-24T03:45:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atx78ww",
@@ -278,8 +379,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1axx7",
@@ -294,8 +395,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5we5pc",
@@ -310,8 +411,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a87hkql",
@@ -326,8 +427,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axxdavd",
@@ -345,8 +446,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajjj7hh",
@@ -361,8 +462,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aelgc3t",
@@ -377,7 +478,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -395,7 +496,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -413,7 +514,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -431,7 +532,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +550,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -465,7 +566,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -481,7 +582,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -497,7 +598,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -513,7 +614,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -529,7 +630,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -545,7 +646,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -561,7 +662,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -577,7 +678,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -593,43 +694,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aekoyd6",
-      "title": "« Refuges climatiques » : pourquoi l’Espagne est déjà une référence mondiale en matière de lutte contre les chaleurs extrêmes",
-      "summary": "Le parc de La Muntanyeta fait partie du réseau de refuges climatiques de Barcelone. Área Metropolitana de Barcelona, CC BY-SA L’adaptation des villes aux chaleurs extrêmes est devenu une préoccupation majeure en matière d’aménagement urbain. Au-delà des transformations de fond, longues à mettre en œuvre, la création de",
-      "link": "https://theconversation.com/refuges-climatiques-pourquoi-lespagne-est-deja-une-reference-mondiale-en-matiere-de-lutte-contre-les-chaleurs-extremes-284018",
-      "image": "https://images.theconversation.com/files/738657/original/file-20260330-69-gyt9ms.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1598%2C1065&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-22T14:44:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anhtyam",
-      "title": "Ces scientifiques qui autopsient les cétacés échoués sur nos côtes",
-      "summary": "Ils sont 500 hommes et femmes répartis un peu partout sur les côtes françaises. Tout au long de l’année, on les appelle lorsqu’un mammifère marin s’échoue sur une plage, que ce soit un phoque ou bien un cachalot, en passant par des dauphins et même des lamantins ou des éléphants de mer en outre-mer. Les informations qu",
-      "link": "https://theconversation.com/ces-scientifiques-qui-autopsient-les-cetaces-echoues-sur-nos-cotes-285547",
-      "image": "https://images.theconversation.com/files/742686/original/file-20260618-86-1eblr5.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-22T14:39:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -645,72 +710,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahi9j1k",
-      "title": "Analysing wildfire behaviour can help detect risk zones earlier and support fire-smart strategies",
-      "summary": "Fire-smart risk assessment is needed to tackle the scale of wildfire destruction, which is a growing reality across the globe. Hazardous fires are more intense and more frequent, fuelled both by climate change and by the no less significant human footprint on landscapes. Wildfire data outlines a clear trend: we are fac",
-      "link": "https://theconversation.com/analysing-wildfire-behaviour-can-help-detect-risk-zones-earlier-and-support-fire-smart-strategies-285533",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-22T14:46:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arj2g1z",
-      "title": "Les chercheurs ont divisé par deux leurs vols professionnels sans y être contraints",
-      "summary": "Les scientifiques français fréquentent moins les aéroports. Safwan Mahmud/Unsplash, CC BY Alors que le trafic aérien mondial a retrouvé, voire dépassé, ses niveaux d’avant-Covid, les personnels de la recherche français auxquels nous sous sommes intéressés font exception : leurs déplacements en avion ont été divisés par",
-      "link": "https://theconversation.com/les-chercheurs-ont-divise-par-deux-leurs-vols-professionnels-sans-y-etre-contraints-282805",
-      "image": "https://images.theconversation.com/files/742675/original/file-20260618-57-kn8gxh.jpg?ixlib=rb-4.1.0&amp;rect=0%2C336%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-22T14:45:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ae0gano",
-      "title": "Comment Marc Bloch a révolutionné le métier d’historien",
-      "summary": "L’historien et résistant français Marc Bloch en 1944. Spécialiste d’histoire médiévale, cofondateur de la revue _Annales d’histoire économique et sociale_, l’universitaire fut aussi cadre dirigeant des Mouvements unis de la Résistance (MUR). Marc Bloch a été exécuté par la Gestapo, le 16 juin 1944. Wikimédia Marc Bloch",
-      "link": "https://theconversation.com/comment-marc-bloch-a-revolutionne-le-metier-dhistorien-285757",
-      "image": "https://images.theconversation.com/files/743251/original/file-20260622-71-nt4coz.png?ixlib=rb-4.1.0&amp;rect=224%2C0%2C1150%2C767&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-22T14:43:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ac0n10c",
-      "title": "Supporters, joueurs, stades, territoires : la géographie cachée du football",
-      "summary": "Stade de Loujniki, Moscou, 15 juillet 2018, pendant la finale de la Coupe du monde entre la France et la Croatie. Déplacement des joueurs et des arbitres, disposition des supporters dans les tribunes, écrans géants, sans même parler du plus de milliard de spectateurs qui ont assisté au match en direct à la télévision p",
-      "link": "https://theconversation.com/supporters-joueurs-stades-territoires-la-geographie-cachee-du-football-285202",
-      "image": "https://images.theconversation.com/files/742860/original/file-20260618-57-tlg7iq.jpg?ixlib=rb-4.1.0&amp;rect=160%2C0%2C1728%2C1152&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-22T14:43:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     }
   ]
 }
