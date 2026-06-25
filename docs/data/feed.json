@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T10:29:08.592Z",
+  "generatedAt": "2026-06-25T19:21:52.937Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "a8jgqce",
+      "title": "Malaises, urgences, chaleur extrême : l’intersyndicale appelle à la grève dans l’Éducation",
+      "summary": "Malaises, saignements de nez, passages aux urgences… Après une semaine de canicule, une intersyndicale appelle les personnels « à user de leur droit de grève là où cela est nécessaire ». Le L’article Malaises, urgences, chaleur extrême : l’intersyndicale appelle à la grève dans l’Éducation est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/06/25/malaises-urgences-chaleur-extreme-lintersyndicale-appelle-a-la-greve-dans-leducation/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/greve-225x300.jpg",
+      "publishedAt": "2026-06-25T15:46:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ancaoqe",
       "title": "Tony Mazzocchi, le syndicaliste oublié qui pensa la transition juste",
       "summary": "Tony Mazzocchi, dont 2026 marque le centenaire de la naissance, et l’affiche de soutien à la grève à l’entreprise Shell, engagée par son syndicat, en 1973, pendant quatre mois, portant sur les exigences de santé et de sécurité au travail. Capture d’écran de la page Youtube de Chelsea Green Publishing et du site Interne",
@@ -131,7 +147,73 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "acoixnn",
+      "title": "De Southampton à Belfast : comment Nigel Farage fait entrer les thèmes de l’extrême droite dans le débat public britannique",
+      "summary": "Les émeutes racistes de Southampton, en Angleterre, et de Belfast, en Irlande du Nord, début juin 2026, illustrent la manière dont certains faits divers impliquant des immigrés sont mobilisés par Nigel Farage et les autres forces britanniques d’extrême droite pour alimenter les débats sur l’immigration et dénoncer un s",
+      "link": "https://theconversation.com/de-southampton-a-belfast-comment-nigel-farage-fait-entrer-les-themes-de-lextreme-droite-dans-le-debat-public-britannique-285823",
+      "image": "https://counter.theconversation.com/content/285823/count.gif",
+      "publishedAt": "2026-06-25T13:28:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aogr41x",
+      "title": "Quand l’IA s’invite dans nos relations, la véritable intimité tend à disparaître",
+      "summary": "L’intimité suppose de la spontanéité. Alberto Menendez Cervero/Shutterstock À l’heure où les outils d’IA générative sont à portée de clic, il est tentant de les interroger autour de petits et grands problèmes de la vie. Mais les solliciter comme des coachs pour nos interactions sociales et amoureuses est-il sans risque",
+      "link": "https://theconversation.com/quand-lia-sinvite-dans-nos-relations-la-veritable-intimite-tend-a-disparaitre-285287",
+      "image": "https://images.theconversation.com/files/741859/original/file-20260610-57-7u6qtk.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C5902%2C3935&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-25T13:29:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ag8dpav",
+      "title": "Comment la « nouvelle norme » de l’été 2026 met à l’épreuve la résilience climatique de l’Europe",
+      "summary": "Alors que les populations d’une large partie de l’Europe suffoquent sous une vague chaleur sans précédent, l’urgence est d’adopter enfin des mesures coordonnées au plus haut niveau pour faire face à ces températures extrêmes. Nous ne sommes qu’en juin, mais l’Europe subit déjà sa deuxième vague de chaleur extrême en de",
+      "link": "https://theconversation.com/comment-la-nouvelle-norme-de-lete-2026-met-a-lepreuve-la-resilience-climatique-de-leurope-286164",
+      "image": "https://counter.theconversation.com/content/286164/count.gif",
+      "publishedAt": "2026-06-25T13:27:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "air2l00",
+      "title": "Pourquoi l’Europe a besoin d’une Bourse unique et transparente",
+      "summary": "En promouvant un marché pour les marchés financiers, l’Union européenne stimule une forme de concurrence. À qui profite vraiment cette dernière ? Aux grandes entreprises ? Aux PME ? Aux investisseurs privés ? Reste qu’un marché financier unique – la Bourse européenne – aurait des avantages nombreux. Quels sont-ils ? Co",
+      "link": "https://theconversation.com/pourquoi-leurope-a-besoin-dune-bourse-unique-et-transparente-285489",
+      "image": "https://counter.theconversation.com/content/285489/count.gif",
+      "publishedAt": "2026-06-25T13:26:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +229,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +245,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -179,7 +261,41 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ad8rnl6",
+      "title": "Céline Dion, la superstar qui rapproche le Québec et la France",
+      "summary": "La fête nationale du Québec, célébrée le 24 juin, offre l’occasion de revenir sur l’un des évènements québécois de l’année : les dix concerts parisiens de Céline Dion. À chaque nouvelle tournée de la chanteuse québécoise, le même phénomène se produit : files d’attente interminables, billets épuisés en quelques minutes.",
+      "link": "https://theconversation.com/celine-dion-la-superstar-qui-rapproche-le-quebec-et-la-france-285777",
+      "image": "https://counter.theconversation.com/content/285777/count.gif",
+      "publishedAt": "2026-06-25T13:25:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1lax6u",
+      "title": "Feux de forêt, mégafeux : comment mieux prévoir leur propagation et limiter les risques ?",
+      "summary": "La pyrogéographie utilise des données et des modèles en temps réel, afin de fournir aux équipes d’urgence des informations actionnables sur la propagation des feux en fonction du vent, de la température, de la topographie, de la sécheresse, de la végétation ou du type de couverture végétale. Apiguide/Shutterstock (no r",
+      "link": "https://theconversation.com/feux-de-foret-megafeux-comment-mieux-prevoir-leur-propagation-et-limiter-les-risques-285896",
+      "image": "https://images.theconversation.com/files/743358/original/file-20260622-57-mrqvg5.jpg?ixlib=rb-4.1.0&amp;rect=430%2C0%2C4602%2C3068&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-25T12:28:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -195,58 +311,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aoega4b",
-      "title": "72 départements en rouge : Edouard Geffray maintient le brevet malgré la fournaise",
-      "summary": "« Et décaler le début des épreuves à 8h au lieu de 9h et donc que tout finisse une heure plus tôt, c’est pas envisageable là-haut ? », nous écrit un enseignant. L’article 72 départements en rouge : Edouard Geffray maintient le brevet malgré la fournaise est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/25/72-departements-en-rouge-edouard-geffray-maintient-le-brevet-malgre-la-fournaise/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-canicule-e1782332528632-228x300.jpeg",
-      "publishedAt": "2026-06-25T04:02:27.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a9tf9nn",
-      "title": "1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique !",
-      "summary": "Pour poursuivre ses publications quotidiennes, le Café pédagogique a besoin de votre aide. Voici plusieurs façons pour aider votre média indépendant : Abonnement de soutien à 5 euros par mois L’article 1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique ! est apparu en premier sur Le Café pédagogiq",
-      "link": "https://www.cafepedagogique.net/2026/06/25/et-si-vous-vous-engagiez-pour-un-media-qui-soutient-lecole/",
-      "image": "https://cafepedagogique.net/wp-content/uploads/2025/05/Soutenir-le-cafe-pedagogique-300x200.jpg",
-      "publishedAt": "2026-06-25T03:48:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "at0asgv",
-      "title": "Former des individus ou faire grandir des personnes ?",
-      "summary": "L’Education nationale est une institution individualiste qui formerait à la construction de citoyens individualistes selon l’analyse D. Gostain et J. Marpeau. « Un dispositif à gestion verticale, centralisée, opérant par L’article Former des individus ou faire grandir des personnes ? est apparu en premier sur Le Café p",
-      "link": "https://www.cafepedagogique.net/2026/06/25/former-des-individus-ou-faire-grandir-des-personnes/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/Jacques-Marpeau-et-Daniel-Gostain-300x225.jpg",
-      "publishedAt": "2026-06-25T03:45:29.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axm2195",
@@ -265,8 +331,26 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aoega4b",
+      "title": "72 départements en rouge : Edouard Geffray maintient le brevet malgré la fournaise",
+      "summary": "« Et décaler le début des épreuves à 8h au lieu de 9h et donc que tout finisse une heure plus tôt, c’est pas envisageable là-haut ? », nous écrit un enseignant. L’article 72 départements en rouge : Edouard Geffray maintient le brevet malgré la fournaise est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/25/72-departements-en-rouge-edouard-geffray-maintient-le-brevet-malgre-la-fournaise/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-canicule-e1782332528632-228x300.jpeg",
+      "publishedAt": "2026-06-25T04:02:27.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar4ti6a",
@@ -283,8 +367,40 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a9tf9nn",
+      "title": "1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique !",
+      "summary": "Pour poursuivre ses publications quotidiennes, le Café pédagogique a besoin de votre aide. Voici plusieurs façons pour aider votre média indépendant : Abonnement de soutien à 5 euros par mois L’article 1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique ! est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/06/25/et-si-vous-vous-engagiez-pour-un-media-qui-soutient-lecole/",
+      "image": "https://cafepedagogique.net/wp-content/uploads/2025/05/Soutenir-le-cafe-pedagogique-300x200.jpg",
+      "publishedAt": "2026-06-25T03:48:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "at0asgv",
+      "title": "Former des individus ou faire grandir des personnes ?",
+      "summary": "L’Education nationale est une institution individualiste qui formerait à la construction de citoyens individualistes selon l’analyse D. Gostain et J. Marpeau. « Un dispositif à gestion verticale, centralisée, opérant par L’article Former des individus ou faire grandir des personnes ? est apparu en premier sur Le Café p",
+      "link": "https://www.cafepedagogique.net/2026/06/25/former-des-individus-ou-faire-grandir-des-personnes/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/Jacques-Marpeau-et-Daniel-Gostain-300x225.jpg",
+      "publishedAt": "2026-06-25T03:45:29.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ai1pcuq",
@@ -299,8 +415,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6t7kwl",
@@ -315,7 +431,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -334,7 +450,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -352,7 +468,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -368,7 +484,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -384,7 +500,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -400,7 +516,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -416,7 +532,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,26 +548,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a51byxc",
-      "title": "Brevet maintenu ce vendredi malgré la canicule mais avec pauses fraîcheurs et 15 élèves par classe",
-      "summary": "L’épreuve la plus longue du brevet des collèges (français) de vendredi 26 juin est maintenue. Le ministre Edouard Geffray a tranché, au niveau national cette fois-ci. L’épreuve aura donc bien L’article Brevet maintenu ce vendredi malgré la canicule mais avec pauses fraîcheurs et 15 élèves par classe est apparu en premi",
-      "link": "https://www.cafepedagogique.net/2026/06/24/exclusif-brevet-maintenu-ce-vendredi-malgre-la-canicule-mais-avec-des-pauses-fraicheurs/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/ministre-Geffray-1-e1782154652555-264x300.jpeg",
-      "publishedAt": "2026-06-24T07:08:18.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "classe"
-      ],
-      "relevance": 91,
-      "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -470,7 +567,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,24 +583,40 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "aelgc3t",
-      "title": "Tirage au sort, assemblées citoyennes, remplacement du Sénat : les Français veulent de l’innovation démocratique",
-      "summary": "Pétitions, assemblées citoyennes, référendums : selon une enquête inédite, menée par Sciences Po et l’institut Verian, une large majorité de Français souhaitent un système qui favorise la participation directe. Le principe des assemblées citoyennes est soutenu par 67 % des sondés, et 53 % d’entre eux aspirent à remplac",
-      "link": "https://theconversation.com/tirage-au-sort-assemblees-citoyennes-remplacement-du-senat-les-francais-veulent-de-linnovation-democratique-284599",
-      "image": "https://counter.theconversation.com/content/284599/count.gif",
-      "publishedAt": "2026-06-23T08:51:33.000Z",
+      "id": "arr8ofd",
+      "title": "« L’arc de Trump » : une glorification des États-Unis… et surtout de leur président actuel",
+      "summary": "Maquette de l’arc de triomphe qui sera édifié à Washington, présentée à la Maison-Blanche par Donald Trump, le 7 octobre 2025. Site officiel de la Maison-Blanche L’arc de triomphe est de longue date un instrument de glorification du pouvoir, utilisé par les empereurs romains puis par de nombreux souverains pour inscrir",
+      "link": "https://theconversation.com/larc-de-trump-une-glorification-des-etats-unis-et-surtout-de-leur-president-actuel-285682",
+      "image": "https://images.theconversation.com/files/743277/original/file-20260622-57-lbsqvz.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C3000%2C1999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-23T14:25:59.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aw8z1oa",
+      "title": "The Strait of Hormuz is finally reopening but Europe’s food chain suppliers cannot afford to be complacent",
+      "summary": "An interim peace deal between Iran and the United States signals the end of dire straits for one of the world’s most critical maritime route, but it could be months before traffic flows return to normal. Wikimedia, CC BY Our study of agri-food systems suggests that the most powerful resilience levers are not found insi",
+      "link": "https://theconversation.com/the-strait-of-hormuz-is-finally-reopening-but-europes-food-chain-suppliers-cannot-afford-to-be-complacent-285644",
+      "image": "https://images.theconversation.com/files/743322/original/file-20260622-57-1w0qhw.png?ixlib=rb-4.1.0&amp;rect=0%2C246%2C3840%2C2560&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-23T14:20:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aub4o71",
@@ -520,8 +633,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ac0p8ej",
@@ -538,8 +651,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "abvnbkf",
@@ -556,58 +669,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "akioe00",
-      "title": "Blocage d’Ormuz : l’énergie solaire en ressortira gagnante à long terme, le charbon à court terme ?",
-      "summary": "La nature a horreur du vide. Le blocage du détroit d’Ormuz laisse le champ libre à deux sources d’énergie concurrentes du pétrole : le solaire et le charbon. En Europe, la chute du prix du premier laisse espérer une accélération de la décarbonation de l’économie. En Asie, l’arrêt de centrale au charbon apparaît illusoi",
-      "link": "https://theconversation.com/blocage-dormuz-lenergie-solaire-en-ressortira-gagnante-a-long-terme-le-charbon-a-court-terme-280517",
-      "image": "https://images.theconversation.com/files/729808/original/file-20260414-57-hetkct.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-23T14:15:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arr8ofd",
-      "title": "« L’arc de Trump » : une glorification des États-Unis… et surtout de leur président actuel",
-      "summary": "Maquette de l’arc de triomphe qui sera édifié à Washington, présentée à la Maison-Blanche par Donald Trump, le 7 octobre 2025. Site officiel de la Maison-Blanche L’arc de triomphe est de longue date un instrument de glorification du pouvoir, utilisé par les empereurs romains puis par de nombreux souverains pour inscrir",
-      "link": "https://theconversation.com/larc-de-trump-une-glorification-des-etats-unis-et-surtout-de-leur-president-actuel-285682",
-      "image": "https://images.theconversation.com/files/743277/original/file-20260622-57-lbsqvz.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C3000%2C1999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-23T14:25:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aw8z1oa",
-      "title": "The Strait of Hormuz is finally reopening but Europe’s food chain suppliers cannot afford to be complacent",
-      "summary": "An interim peace deal between Iran and the United States signals the end of dire straits for one of the world’s most critical maritime route, but it could be months before traffic flows return to normal. Wikimedia, CC BY Our study of agri-food systems suggests that the most powerful resilience levers are not found insi",
-      "link": "https://theconversation.com/the-strait-of-hormuz-is-finally-reopening-but-europes-food-chain-suppliers-cannot-afford-to-be-complacent-285644",
-      "image": "https://images.theconversation.com/files/743322/original/file-20260622-57-1w0qhw.png?ixlib=rb-4.1.0&amp;rect=0%2C246%2C3840%2C2560&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-23T14:20:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a6zkjqa",
@@ -622,8 +685,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aaz5mxi",
@@ -638,71 +701,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abfnok6",
-      "title": "Rajeunir ou disparaître : comment les femmes vieillissent – ou non – sur nos écrans",
-      "summary": "Nicole Kidman, dans le film *Babygirl* (2024). Allô Ciné Ne pas vieillir, et ce, le plus longtemps possible. Voilà le diktat qui semble présider au destin des actrices au cinéma et dans les séries. À de rares exceptions près, leurs options ne semblent pas nombreuses : soit se lancer dans une course éperdue au rajeuniss",
-      "link": "https://theconversation.com/rajeunir-ou-disparaitre-comment-les-femmes-vieillissent-ou-non-sur-nos-ecrans-278471",
-      "image": "https://images.theconversation.com/files/743326/original/file-20260622-101-tl1lpd.png?ixlib=rb-4.1.0&amp;rect=171%2C0%2C1849%2C1233&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-23T14:14:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ay4myiz",
-      "title": "Parkinson : avancées dans la compréhension d’une molécule clé de la maladie",
-      "summary": "On sait que la maladie de Parkinson, qui affecte plus de 10 millions de personnes dans le monde, dont 200 000 en France, est une maladie neurodégénérative due à la disparition progressive des neurones producteurs de dopamine, une molécule essentielle pour contrôler nos mouvements. Au cœur de ce dysfonctionnement cellul",
-      "link": "https://theconversation.com/parkinson-avancees-dans-la-comprehension-dune-molecule-cle-de-la-maladie-282783",
-      "image": "https://counter.theconversation.com/content/282783/count.gif",
-      "publishedAt": "2026-06-23T10:33:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2yr71k",
-      "title": "Pourquoi vous ne pouvez pas faire de « détox de dopamine »",
-      "summary": "Contrairement aux idées reçues, la dopamine, molécule essentielle au fonctionnement de notre « système de récompense », n’a pas pour fonction d’encoder directement le plaisir. Tinder, TikTok, Instagram, Candy Crush, pour n’en citer que quelques-unes… on entend souvent dire que ce type d’applications est conçu pour « pi",
-      "link": "https://theconversation.com/pourquoi-vous-ne-pouvez-pas-faire-de-detox-de-dopamine-283229",
-      "image": "https://counter.theconversation.com/content/283229/count.gif",
-      "publishedAt": "2026-06-23T10:33:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6hfrjw",
-      "title": "La France devrait-elle s’inspirer du modèle démocratique suisse ?",
-      "summary": "Le système politique suisse produit de très hauts niveaux de confiance des citoyens, qui s’expriment régulièrement sur les choix politiques publiques à travers des référendums. Le poids des citoyens transforme également la pratique des acteurs politiques, qui recherchent avant tout le consensus. La Suisse est un pays, ",
-      "link": "https://theconversation.com/la-france-devrait-elle-sinspirer-du-modele-democratique-suisse-283731",
-      "image": "https://counter.theconversation.com/content/283731/count.gif",
-      "publishedAt": "2026-06-23T08:50:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     }
   ]
