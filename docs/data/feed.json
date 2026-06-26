@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T11:18:33.449Z",
+  "generatedAt": "2026-06-26T18:12:28.181Z",
   "themes": [
     {
       "id": "education-medias",
@@ -136,7 +136,7 @@
       ],
       "relevance": 100,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -156,7 +156,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -190,7 +190,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -206,7 +206,57 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ag76kib",
+      "title": "Si l’IA générative favorise l’addiction, qui doit rendre des comptes ?",
+      "summary": "Les appels à la modération individuelle ne suffiront peut-être pas. Face aux risques d’usage compulsif de l’IA générative, chercheurs, régulateurs, entreprises et société civile pourraient devoir agir de concert. Lorsque je discute avec mon fils, élève ingénieur, et qu’une question ou un désaccord surgit, son premier r",
+      "link": "https://theconversation.com/si-lia-generative-favorise-laddiction-qui-doit-rendre-des-comptes-284851",
+      "image": "https://counter.theconversation.com/content/284851/count.gif",
+      "publishedAt": "2026-06-26T12:53:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aw00f29",
+      "title": "Quand les religieuses prêtaient de l’argent : l’influence méconnue des couvents sur l’économie viennoise",
+      "summary": "Detail from The nuns’ procession to mass from the Yates Thompson manuscript. British Library Board/Canva, CC BY-ND Les religieuses n’étaient pas seulement des figures spirituelles. À la fin du Moyen Âge, les couvents de Vienne géraient d’importants capitaux et finançaient ménages, artisans et institutions à travers tou",
+      "link": "https://theconversation.com/quand-les-religieuses-pretaient-de-largent-linfluence-meconnue-des-couvents-sur-leconomie-viennoise-285715",
+      "image": "https://images.theconversation.com/files/742925/original/file-20260521-57-6yn3sd.jpg?ixlib=rb-4.1.0&amp;rect=893%2C0%2C1539%2C1026&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-26T12:53:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "azgoxtr",
+      "title": "Un portrait de Pocahontas daté de 1616 révèle le regard des colons anglais sur les peuples autochtones américains",
+      "summary": "La gravure de Pocahontas réalisée par Simon van de Passe en 1616 est le seul portrait connu exécuté de son vivant. National Portrait Gallery/Wikimedia Commons En représentant Pocahontas comme une dame anglaise, les colons voulaient démontrer que les peuples autochtones étaient appelés à adopter rapidement leur culture.",
+      "link": "https://theconversation.com/un-portrait-de-pocahontas-date-de-1616-revele-le-regard-des-colons-anglais-sur-les-peuples-autochtones-americains-284216",
+      "image": "https://images.theconversation.com/files/739084/original/file-20260521-57-9nqngg.png?ixlib=rb-4.1.0&amp;rect=0%2C691%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-26T12:51:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -222,7 +272,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -238,7 +288,7 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -256,8 +306,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akleaq5",
@@ -274,8 +324,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "are9adc",
@@ -292,8 +342,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atsqyw8",
@@ -308,8 +358,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ancaoqe",
@@ -324,7 +374,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,7 +392,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -358,7 +408,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -374,7 +424,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -390,7 +440,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -406,7 +456,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +474,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -440,7 +490,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -456,7 +506,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,8 +525,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "au6bj15",
@@ -493,8 +543,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ay86f6j",
@@ -509,8 +559,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "au2hv09",
@@ -525,8 +575,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9f5jc8",
@@ -541,8 +591,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a51gjag",
@@ -557,43 +607,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axxdavd",
-      "title": "Alliances d’universités européennes : porter des projets communs, un défi linguistique ?",
-      "summary": "À l’initiative de la Commission européenne, les alliances d’universités permettent d’organiser des formations et des projets de recherche communs. À mesure qu’elles se déploient, le choix des langues de réunion, d’évaluation des étudiants ou de coordination globale revêt une dimension stratégique. Depuis 2019, les alli",
-      "link": "https://theconversation.com/alliances-duniversites-europeennes-porter-des-projets-communs-un-defi-linguistique-282630",
-      "image": "https://counter.theconversation.com/content/282630/count.gif",
-      "publishedAt": "2026-06-23T14:15:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation",
-        "évaluation"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajjj7hh",
-      "title": "Faut-il vraiment arrêter de labourer les champs ?",
-      "summary": "Un travail superficiel (10-12 cm de profondeur) post-récolte dans un champ de maïs. Fourni par l'auteur Longtemps indissociables de l’agriculture même, le labour et les activités de travail du sol sont aujourd’hui remis en question. Réduire ou arrêter de labourer serait ainsi bénéfique pour la structure des sols, la bi",
-      "link": "https://theconversation.com/faut-il-vraiment-arreter-de-labourer-les-champs-284340",
-      "image": "https://images.theconversation.com/files/739653/original/file-20260603-57-9qbfli.JPG?ixlib=rb-4.1.0&amp;rect=0%2C29%2C2278%2C1518&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-23T14:16:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "alwlbbz",
@@ -608,7 +623,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -626,7 +641,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -644,7 +659,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -660,7 +675,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +691,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -692,23 +707,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aaz5mxi",
-      "title": "Comment la diaspora iranienne vit la guerre à distance",
-      "summary": "Cet article a été rédigé avant le pré-accord du 14 juin 2026 entre le régime iranien et les États-Unis. L’avenir dira ce qu’il en sera. Plusieurs millions d’Iraniens vivent de façon permanente à l’étranger. Ils suivent de très près la situation dans leur pays, oscillant entre crainte pour leurs proches, espoir d’un cha",
-      "link": "https://theconversation.com/comment-la-diaspora-iranienne-vit-la-guerre-a-distance-283713",
-      "image": "https://counter.theconversation.com/content/283713/count.gif",
-      "publishedAt": "2026-06-23T14:16:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     }
   ]
