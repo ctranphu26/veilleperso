@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T18:12:28.181Z",
+  "generatedAt": "2026-06-27T09:19:41.442Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,24 @@
   "count": 35,
   "items": [
     {
+      "id": "adubnfb",
+      "title": "Autour des bois, quelques arbres peuvent faire une grande différence pour la biodiversité",
+      "summary": "La biodiversité se joue aussi en dehors des limites de la forêt Florencia Dalla Lasta/Unsplash, CC BY Une étude menée dans 17 pays montre que de petits fragments forestiers peuvent abriter bien plus d’espèces d’oiseaux que leur taille ne le laisse penser lorsque leur environnement est favorable. « Les grandes surfaces ",
+      "link": "https://theconversation.com/autour-des-bois-quelques-arbres-peuvent-faire-une-grande-difference-pour-la-biodiversite-285838",
+      "image": "https://images.theconversation.com/files/744007/original/file-20260624-101-k7jwcj.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C6001%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-27T06:39:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a57hmca",
       "title": "Canicule : face à des classes à plus de 38°C, des enseignants suspendent l’accueil des élèves",
       "summary": "« En alerte rouge, tout le monde est vulnérable ». Dans plusieurs écoles parisiennes, des enseignants ont choisi de ne plus assurer l’accueil des élèves en raison des fortes chaleurs. Entre autorisations L’article Canicule : face à des classes à plus de 38°C, des enseignants suspendent l’accueil des élèves est apparu e",
@@ -136,8 +154,40 @@
       ],
       "relevance": 100,
       "relevanceLevel": "haute",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "am4kbtv",
+      "title": "Malaises, urgences, chaleur extrême : l’intersyndicale appelle à la grève dans l’Éducation",
+      "summary": "Malaises, saignements de nez, passages aux urgences… Après une semaine de canicule et à J-1 du DNB, une intersyndicale appelle les personnels « à user de leur droit de grève là L’article Malaises, urgences, chaleur extrême : l’intersyndicale appelle à la grève dans l’Éducation est apparu en premier sur Le Café pédagogi",
+      "link": "https://www.cafepedagogique.net/2026/06/26/malaises-urgences-chaleur-extreme-lintersyndicale-appelle-a-la-greve-dans-leducation/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/greve-225x300.jpg",
+      "publishedAt": "2026-06-26T04:00:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "al6t93n",
+      "title": "LA FCPE Paris saisit en urgence le tribunal administratif pour demander le report des épreuves du brevet",
+      "summary": "Intégrité physique des candidats, sincérité des épreuves… La FCPE Paris a déposé ce jeudi à 19h un référé-liberté devant le tribunal administratif de Paris afin de demander le report, ou L’article LA FCPE Paris saisit en urgence le tribunal administratif pour demander le report des épreuves du brevet est apparu en prem",
+      "link": "https://www.cafepedagogique.net/2026/06/26/la-fcpe-paris-saisit-en-urgence-le-tribunal-administratif-pour-demander-le-report-des-epreuves-du-brevet/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/732207049_1044308601587503_3540291911233336190_n-e1782451759180.jpg",
+      "publishedAt": "2026-06-26T03:55:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amnijt0",
@@ -156,8 +206,8 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "af6ghsv",
@@ -174,40 +224,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "am4kbtv",
-      "title": "Malaises, urgences, chaleur extrême : l’intersyndicale appelle à la grève dans l’Éducation",
-      "summary": "Malaises, saignements de nez, passages aux urgences… Après une semaine de canicule et à J-1 du DNB, une intersyndicale appelle les personnels « à user de leur droit de grève là L’article Malaises, urgences, chaleur extrême : l’intersyndicale appelle à la grève dans l’Éducation est apparu en premier sur Le Café pédagogi",
-      "link": "https://www.cafepedagogique.net/2026/06/26/malaises-urgences-chaleur-extreme-lintersyndicale-appelle-a-la-greve-dans-leducation/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/greve-225x300.jpg",
-      "publishedAt": "2026-06-26T04:00:07.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "al6t93n",
-      "title": "LA FCPE Paris saisit en urgence le tribunal administratif pour demander le report des épreuves du brevet",
-      "summary": "Intégrité physique des candidats, sincérité des épreuves… La FCPE Paris a déposé ce jeudi à 19h un référé-liberté devant le tribunal administratif de Paris afin de demander le report, ou L’article LA FCPE Paris saisit en urgence le tribunal administratif pour demander le report des épreuves du brevet est apparu en prem",
-      "link": "https://www.cafepedagogique.net/2026/06/26/la-fcpe-paris-saisit-en-urgence-le-tribunal-administratif-pour-demander-le-report-des-epreuves-du-brevet/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/732207049_1044308601587503_3540291911233336190_n-e1782451759180.jpg",
-      "publishedAt": "2026-06-26T03:55:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ag76kib",
@@ -224,8 +242,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aw00f29",
@@ -240,8 +258,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "azgoxtr",
@@ -256,24 +274,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "atwwh48",
-      "title": "Provinciales 2026 : les paradoxes d’une élection censée sortir la Nouvelle-Calédonie de l’impasse",
-      "summary": "Deux ans après la date initialement prévue, les élections provinciales se tiennent enfin, ce dimanche 28 juin 2026, en Nouvelle-Calédonie. Reportées trois fois pour favoriser un accord sur l’avenir institutionnel, elles interviennent finalement après l’échec des négociations et l’abandon des accords de Bougival et d’Él",
-      "link": "https://theconversation.com/provinciales-2026-les-paradoxes-dune-election-censee-sortir-la-nouvelle-caledonie-de-limpasse-286272",
-      "image": "https://counter.theconversation.com/content/286272/count.gif",
-      "publishedAt": "2026-06-26T08:28:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agi2d0f",
@@ -288,8 +290,24 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atwwh48",
+      "title": "Provinciales 2026 : les paradoxes d’une élection censée sortir la Nouvelle-Calédonie de l’impasse",
+      "summary": "Deux ans après la date initialement prévue, les élections provinciales se tiennent enfin, ce dimanche 28 juin 2026, en Nouvelle-Calédonie. Reportées trois fois pour favoriser un accord sur l’avenir institutionnel, elles interviennent finalement après l’échec des négociations et l’abandon des accords de Bougival et d’Él",
+      "link": "https://theconversation.com/provinciales-2026-les-paradoxes-dune-election-censee-sortir-la-nouvelle-caledonie-de-limpasse-286272",
+      "image": "https://counter.theconversation.com/content/286272/count.gif",
+      "publishedAt": "2026-06-26T08:28:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqbxlj1",
@@ -306,7 +324,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -324,7 +342,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,7 +360,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -358,7 +376,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -374,7 +392,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -392,7 +410,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,7 +426,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +442,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -440,7 +458,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -456,7 +474,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -474,7 +492,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -490,7 +508,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -506,8 +524,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "abzt3zn",
@@ -525,7 +543,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -543,7 +561,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -559,7 +577,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -575,7 +593,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +609,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -607,7 +625,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -623,7 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -641,25 +659,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ac0p8ej",
-      "title": "Violences sexuelles sur mineurs : deux siècles de bruit médiatique et d’inertie",
-      "summary": "Malgré les révélations qui éclatent régulièrement dans l’actualité à leur sujet, les violences sexuelles sur mineurs restent invisibilisées dans la société, et la protection au quotidien des enfants et des adolescents reste défaillante. Remise en perspective de cette inertie, qui persiste face à la libération de la par",
-      "link": "https://theconversation.com/violences-sexuelles-sur-mineurs-deux-siecles-de-bruit-mediatique-et-dinertie-285500",
-      "image": "https://counter.theconversation.com/content/285500/count.gif",
-      "publishedAt": "2026-06-23T14:17:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 27,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -675,7 +675,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -691,7 +691,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -707,7 +707,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 22,
       "urgencyLevel": "basse"
     }
   ]
