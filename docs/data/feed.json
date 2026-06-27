@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T15:55:20.754Z",
+  "generatedAt": "2026-06-27T21:43:20.794Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -183,24 +183,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ah2my14",
-      "title": "Pourquoi la négation à la sauce IA – « Ce n’est pas X, c’est Y » – est à la fois agaçante et inefficace",
-      "summary": "Vous avez sans doute déjà vu cette formulation sur LinkedIn : « Ce n’est pas un métier, c’est une vocation », « Ce n’est pas du marketing, c’est un mouvement » ou encore « Ce n’est pas un outil, c’est un changement de paradigme ». Mais si, au premier abord, cette tournure typique de l’IA générative peut sembler percuta",
-      "link": "https://theconversation.com/pourquoi-la-negation-a-la-sauce-ia-ce-nest-pas-x-cest-y-est-a-la-fois-agacante-et-inefficace-285882",
-      "image": "https://counter.theconversation.com/content/285882/count.gif",
-      "publishedAt": "2026-06-27T09:49:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5n5u74",
@@ -217,8 +201,24 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ah2my14",
+      "title": "Pourquoi la négation à la sauce IA – « Ce n’est pas X, c’est Y » – est à la fois agaçante et inefficace",
+      "summary": "Vous avez sans doute déjà vu cette formulation sur LinkedIn : « Ce n’est pas un métier, c’est une vocation », « Ce n’est pas du marketing, c’est un mouvement » ou encore « Ce n’est pas un outil, c’est un changement de paradigme ». Mais si, au premier abord, cette tournure typique de l’IA générative peut sembler percuta",
+      "link": "https://theconversation.com/pourquoi-la-negation-a-la-sauce-ia-ce-nest-pas-x-cest-y-est-a-la-fois-agacante-et-inefficace-285882",
+      "image": "https://counter.theconversation.com/content/285882/count.gif",
+      "publishedAt": "2026-06-27T09:49:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adubnfb",
@@ -235,8 +235,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8ubz6h",
@@ -251,8 +251,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a57hmca",
@@ -272,7 +272,7 @@
       ],
       "relevance": 100,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -292,7 +292,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -310,7 +310,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -326,7 +326,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,7 +342,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -360,7 +360,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -376,7 +376,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -392,7 +392,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,7 +408,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +424,7 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -442,7 +442,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -460,7 +460,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -476,7 +476,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -494,7 +494,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -510,7 +510,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -526,7 +526,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -542,7 +542,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -558,7 +558,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -576,7 +576,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -592,7 +592,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -611,7 +611,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -645,7 +645,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -661,7 +661,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -677,7 +677,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -693,7 +693,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -709,7 +709,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
