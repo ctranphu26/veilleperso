@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T16:40:22.116Z",
+  "generatedAt": "2026-06-28T21:45:07.372Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -183,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -199,8 +199,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5rxez1",
@@ -215,8 +215,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aps4n6o",
@@ -231,8 +231,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3btqe8",
@@ -247,7 +247,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +281,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +299,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "agch3q9",
+      "title": "Comment Grenoble pourrait tirer parti des JO 2030 sans être une ville hôte",
+      "summary": "La ville de Grenoble avait accueilli les Jeux olympiques d’hiver de 1968, les premiers à avoir été retransmis en couleur. Bearfotos/shutterstock C’est officiel, la « capitale des Alpes françaises » n’accueillera pas de sites des prochains Jeux olympiques et paralympiques d’hiver en 2030. N’a-t-elle pas d’autres cartes ",
+      "link": "https://theconversation.com/comment-grenoble-pourrait-tirer-parti-des-jo-2030-sans-etre-une-ville-hote-275337",
+      "image": "https://images.theconversation.com/files/731311/original/file-20260421-85-rgopuo.jpg?ixlib=rb-4.1.0&amp;rect=91%2C0%2C3845%2C2564&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-27T09:49:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ah2my14",
+      "title": "Pourquoi la négation à la sauce IA – « Ce n’est pas X, c’est Y » – est à la fois agaçante et inefficace",
+      "summary": "Vous avez sans doute déjà vu cette formulation sur LinkedIn : « Ce n’est pas un métier, c’est une vocation », « Ce n’est pas du marketing, c’est un mouvement » ou encore « Ce n’est pas un outil, c’est un changement de paradigme ». Mais si, au premier abord, cette tournure typique de l’IA générative peut sembler percuta",
+      "link": "https://theconversation.com/pourquoi-la-negation-a-la-sauce-ia-ce-nest-pas-x-cest-y-est-a-la-fois-agacante-et-inefficace-285882",
+      "image": "https://counter.theconversation.com/content/285882/count.gif",
+      "publishedAt": "2026-06-27T09:49:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -317,39 +349,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agch3q9",
-      "title": "Comment Grenoble pourrait tirer parti des JO 2030 sans être une ville hôte",
-      "summary": "La ville de Grenoble avait accueilli les Jeux olympiques d’hiver de 1968, les premiers à avoir été retransmis en couleur. Bearfotos/shutterstock C’est officiel, la « capitale des Alpes françaises » n’accueillera pas de sites des prochains Jeux olympiques et paralympiques d’hiver en 2030. N’a-t-elle pas d’autres cartes ",
-      "link": "https://theconversation.com/comment-grenoble-pourrait-tirer-parti-des-jo-2030-sans-etre-une-ville-hote-275337",
-      "image": "https://images.theconversation.com/files/731311/original/file-20260421-85-rgopuo.jpg?ixlib=rb-4.1.0&amp;rect=91%2C0%2C3845%2C2564&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-27T09:49:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ah2my14",
-      "title": "Pourquoi la négation à la sauce IA – « Ce n’est pas X, c’est Y » – est à la fois agaçante et inefficace",
-      "summary": "Vous avez sans doute déjà vu cette formulation sur LinkedIn : « Ce n’est pas un métier, c’est une vocation », « Ce n’est pas du marketing, c’est un mouvement » ou encore « Ce n’est pas un outil, c’est un changement de paradigme ». Mais si, au premier abord, cette tournure typique de l’IA générative peut sembler percuta",
-      "link": "https://theconversation.com/pourquoi-la-negation-a-la-sauce-ia-ce-nest-pas-x-cest-y-est-a-la-fois-agacante-et-inefficace-285882",
-      "image": "https://counter.theconversation.com/content/285882/count.gif",
-      "publishedAt": "2026-06-27T09:49:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +367,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +383,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -404,7 +404,7 @@
       ],
       "relevance": 100,
       "relevanceLevel": "haute",
-      "urgency": 44,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +424,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -440,7 +440,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -456,7 +456,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -474,7 +474,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -490,7 +490,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -506,39 +506,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atwwh48",
-      "title": "Provinciales 2026 : les paradoxes d’une élection censée sortir la Nouvelle-Calédonie de l’impasse",
-      "summary": "Deux ans après la date initialement prévue, les élections provinciales se tiennent enfin, ce dimanche 28 juin 2026, en Nouvelle-Calédonie. Reportées trois fois pour favoriser un accord sur l’avenir institutionnel, elles interviennent finalement après l’échec des négociations et l’abandon des accords de Bougival et d’Él",
-      "link": "https://theconversation.com/provinciales-2026-les-paradoxes-dune-election-censee-sortir-la-nouvelle-caledonie-de-limpasse-286272",
-      "image": "https://counter.theconversation.com/content/286272/count.gif",
-      "publishedAt": "2026-06-26T08:28:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agi2d0f",
-      "title": "Découvrez les sujets de français au brevet des collèges 2026",
-      "summary": "Découvrez les sujets de français au DNB 2026 pour la Métropole, la Réunion et Mayotte. Série générale Grammaire et compréhension Dictée Dictée aménagée Rédaction Série professionnelle Grammaire et compréhension L’article Découvrez les sujets de français au brevet des collèges 2026 est apparu en premier sur Le Café péda",
-      "link": "https://www.cafepedagogique.net/2026/06/26/brevet-des-colleges-2026-les-sujets-de-francais/",
-      "image": null,
-      "publishedAt": "2026-06-26T09:00:28.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 40,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -554,7 +522,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agi2d0f",
+      "title": "Découvrez les sujets de français au brevet des collèges 2026",
+      "summary": "Découvrez les sujets de français au DNB 2026 pour la Métropole, la Réunion et Mayotte. Série générale Grammaire et compréhension Dictée Dictée aménagée Rédaction Série professionnelle Grammaire et compréhension L’article Découvrez les sujets de français au brevet des collèges 2026 est apparu en premier sur Le Café péda",
+      "link": "https://www.cafepedagogique.net/2026/06/26/brevet-des-colleges-2026-les-sujets-de-francais/",
+      "image": null,
+      "publishedAt": "2026-06-26T09:00:28.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 40,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "atwwh48",
+      "title": "Provinciales 2026 : les paradoxes d’une élection censée sortir la Nouvelle-Calédonie de l’impasse",
+      "summary": "Deux ans après la date initialement prévue, les élections provinciales se tiennent enfin, ce dimanche 28 juin 2026, en Nouvelle-Calédonie. Reportées trois fois pour favoriser un accord sur l’avenir institutionnel, elles interviennent finalement après l’échec des négociations et l’abandon des accords de Bougival et d’Él",
+      "link": "https://theconversation.com/provinciales-2026-les-paradoxes-dune-election-censee-sortir-la-nouvelle-caledonie-de-limpasse-286272",
+      "image": "https://counter.theconversation.com/content/286272/count.gif",
+      "publishedAt": "2026-06-26T08:28:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -572,7 +572,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -590,7 +590,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -608,7 +608,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -626,7 +626,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -642,7 +642,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -658,7 +658,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -674,7 +674,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -690,7 +690,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -706,7 +706,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
