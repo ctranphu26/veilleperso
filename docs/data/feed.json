@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T21:43:20.794Z",
+  "generatedAt": "2026-06-28T10:13:26.881Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,72 @@
   "count": 35,
   "items": [
     {
+      "id": "aqn5zrj",
+      "title": "Robin des Bois était bien plus violent que la légende ne le raconte",
+      "summary": "Hugh Jackman incarne le hors-la-loi dans le nouveau film « On l'appelait Robin des Bois ». Aidan Monaghan/A24 Bien avant Hollywood, les légendes anglaises mettaient en scène des hors-la-loi capables des exploits les plus héroïques… et des violences les plus extrêmes. Pourquoi Robin des Bois est-il le seul à être entré ",
+      "link": "https://theconversation.com/robin-des-bois-etait-bien-plus-violent-que-la-legende-ne-le-raconte-286330",
+      "image": "https://images.theconversation.com/files/744636/original/file-20260625-85-odti20.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-28T08:59:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoti8vj",
+      "title": "Derrière la mignonnerie du panda, une diplomatie d’influence chinoise de l’émotion en ligne",
+      "summary": "Photo postée sur le compte X du « Quotidien du Peuple », principal journal chinois, le 13 février 2026, accompagnée de cette légende : « Trente bébés pandas géants ont récemment été réunis au Centre chinois de conservation et de recherche sur le panda géant et à la Base de recherche de Chengdu pour l’élevage du panda g",
+      "link": "https://theconversation.com/derriere-la-mignonnerie-du-panda-une-diplomatie-dinfluence-chinoise-de-lemotion-en-ligne-285620",
+      "image": "https://images.theconversation.com/files/744633/original/file-20260628-63-5gikmy.jpeg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1020%2C680&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-28T09:00:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5rxez1",
+      "title": "Quelles mesures sont les plus efficaces contre la dermatose nodulaire ? Ce que disent les modèles épidémiologiques",
+      "summary": "En 2025, de nombreux cas de dermatose nodulaire contagieuse, ou DNC, bovine ont déferlé sur les élevages français. Pour y faire face, les autorités ont alors misé sur la vaccination d’urgence et l’abattage total des cheptels touchés. Aurait-on pu gérer différemment cette épizootie, par exemple en n’abattant que les ani",
+      "link": "https://theconversation.com/quelles-mesures-sont-les-plus-efficaces-contre-la-dermatose-nodulaire-ce-que-disent-les-modeles-epidemiologiques-285400",
+      "image": "https://images.theconversation.com/files/742529/original/file-20260617-57-i2n4wd.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-06-28T09:00:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aps4n6o",
+      "title": "Comment une dent de chèvre éclaire enfin les secrets de l'élevage dans la Grèce antique",
+      "summary": "Les chèvres constituaient le principal animal consommé à Azoria, aussi bien lors des repas quotidiens que des grands festins communautaires. Tsaag Valren, CC BY En analysant les restes de 50 moutons et chèvres découverts en Crète, des archéologues montrent que l'élevage de la Grèce antique était bien plus complexe qu'o",
+      "link": "https://theconversation.com/comment-une-dent-de-chevre-eclaire-enfin-les-secrets-de-lelevage-dans-la-grece-antique-286329",
+      "image": "https://images.theconversation.com/files/744635/original/file-20260628-63-bfg37d.jpg?ixlib=rb-4.1.0&amp;rect=0%2C166%2C4000%2C2666&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-28T08:59:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "avfvp20",
       "title": "« Disclosure Day » : pourquoi la (potentielle) découverte d’une vie extraterrestre ne sera pas un blockbuster hollywoodien",
       "summary": "Dans *Disclosure Day* (2026), Steven Spielberg utilise les symboles classiques de l’ufologie, comme les « Crop Circles », traditionnellement associés aux visites d’ovnis. Cette scène suggère l’existence d’extraterrestres dotés de pouvoirs paranormaux, qui communiquent de façon mystérieuse tout en restant insaisissables",
@@ -131,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +215,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avqoa6b",
@@ -167,23 +233,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "agch3q9",
-      "title": "Comment Grenoble pourrait tirer parti des JO 2030 sans être une ville hôte",
-      "summary": "La ville de Grenoble avait accueilli les Jeux olympiques d’hiver de 1968, les premiers à avoir été retransmis en couleur. Bearfotos/shutterstock C’est officiel, la « capitale des Alpes françaises » n’accueillera pas de sites des prochains Jeux olympiques et paralympiques d’hiver en 2030. N’a-t-elle pas d’autres cartes ",
-      "link": "https://theconversation.com/comment-grenoble-pourrait-tirer-parti-des-jo-2030-sans-etre-une-ville-hote-275337",
-      "image": "https://images.theconversation.com/files/731311/original/file-20260421-85-rgopuo.jpg?ixlib=rb-4.1.0&amp;rect=91%2C0%2C3845%2C2564&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-27T09:49:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -201,7 +251,23 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "agch3q9",
+      "title": "Comment Grenoble pourrait tirer parti des JO 2030 sans être une ville hôte",
+      "summary": "La ville de Grenoble avait accueilli les Jeux olympiques d’hiver de 1968, les premiers à avoir été retransmis en couleur. Bearfotos/shutterstock C’est officiel, la « capitale des Alpes françaises » n’accueillera pas de sites des prochains Jeux olympiques et paralympiques d’hiver en 2030. N’a-t-elle pas d’autres cartes ",
+      "link": "https://theconversation.com/comment-grenoble-pourrait-tirer-parti-des-jo-2030-sans-etre-une-ville-hote-275337",
+      "image": "https://images.theconversation.com/files/731311/original/file-20260421-85-rgopuo.jpg?ixlib=rb-4.1.0&amp;rect=91%2C0%2C3845%2C2564&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-27T09:49:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,7 +301,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +317,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -272,7 +338,7 @@
       ],
       "relevance": 100,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -292,7 +358,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -310,7 +376,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -326,7 +392,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,7 +408,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -360,7 +426,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -376,7 +442,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -392,23 +458,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atwwh48",
-      "title": "Provinciales 2026 : les paradoxes d’une élection censée sortir la Nouvelle-Calédonie de l’impasse",
-      "summary": "Deux ans après la date initialement prévue, les élections provinciales se tiennent enfin, ce dimanche 28 juin 2026, en Nouvelle-Calédonie. Reportées trois fois pour favoriser un accord sur l’avenir institutionnel, elles interviennent finalement après l’échec des négociations et l’abandon des accords de Bougival et d’Él",
-      "link": "https://theconversation.com/provinciales-2026-les-paradoxes-dune-election-censee-sortir-la-nouvelle-caledonie-de-limpasse-286272",
-      "image": "https://counter.theconversation.com/content/286272/count.gif",
-      "publishedAt": "2026-06-26T08:28:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,8 +474,40 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atwwh48",
+      "title": "Provinciales 2026 : les paradoxes d’une élection censée sortir la Nouvelle-Calédonie de l’impasse",
+      "summary": "Deux ans après la date initialement prévue, les élections provinciales se tiennent enfin, ce dimanche 28 juin 2026, en Nouvelle-Calédonie. Reportées trois fois pour favoriser un accord sur l’avenir institutionnel, elles interviennent finalement après l’échec des négociations et l’abandon des accords de Bougival et d’Él",
+      "link": "https://theconversation.com/provinciales-2026-les-paradoxes-dune-election-censee-sortir-la-nouvelle-caledonie-de-limpasse-286272",
+      "image": "https://counter.theconversation.com/content/286272/count.gif",
+      "publishedAt": "2026-06-26T08:28:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 39,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ancaoqe",
+      "title": "Tony Mazzocchi, le syndicaliste oublié qui pensa la transition juste",
+      "summary": "Tony Mazzocchi, dont 2026 marque le centenaire de la naissance, et l’affiche de soutien à la grève à l’entreprise Shell, engagée par son syndicat, en 1973, pendant quatre mois, portant sur les exigences de santé et de sécurité au travail. Capture d’écran de la page Youtube de Chelsea Green Publishing et du site Interne",
+      "link": "https://theconversation.com/tony-mazzocchi-le-syndicaliste-oublie-qui-pensa-la-transition-juste-285257",
+      "image": "https://images.theconversation.com/files/741796/original/file-20260615-83-179a4z.jpg?ixlib=rb-4.1.0&amp;rect=127%2C0%2C1578%2C1052&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-25T08:10:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aqbxlj1",
@@ -442,8 +524,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akleaq5",
@@ -460,24 +542,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ancaoqe",
-      "title": "Tony Mazzocchi, le syndicaliste oublié qui pensa la transition juste",
-      "summary": "Tony Mazzocchi, dont 2026 marque le centenaire de la naissance, et l’affiche de soutien à la grève à l’entreprise Shell, engagée par son syndicat, en 1973, pendant quatre mois, portant sur les exigences de santé et de sécurité au travail. Capture d’écran de la page Youtube de Chelsea Green Publishing et du site Interne",
-      "link": "https://theconversation.com/tony-mazzocchi-le-syndicaliste-oublie-qui-pensa-la-transition-juste-285257",
-      "image": "https://images.theconversation.com/files/741796/original/file-20260615-83-179a4z.jpg?ixlib=rb-4.1.0&amp;rect=127%2C0%2C1578%2C1052&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-25T08:10:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "acoixnn",
@@ -494,71 +560,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aogr41x",
-      "title": "Quand l’IA s’invite dans nos relations, la véritable intimité tend à disparaître",
-      "summary": "L’intimité suppose de la spontanéité. Alberto Menendez Cervero/Shutterstock À l’heure où les outils d’IA générative sont à portée de clic, il est tentant de les interroger autour de petits et grands problèmes de la vie. Mais les solliciter comme des coachs pour nos interactions sociales et amoureuses est-il sans risque",
-      "link": "https://theconversation.com/quand-lia-sinvite-dans-nos-relations-la-veritable-intimite-tend-a-disparaitre-285287",
-      "image": "https://images.theconversation.com/files/741859/original/file-20260610-57-7u6qtk.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C5902%2C3935&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-25T13:29:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ag8dpav",
-      "title": "Comment la « nouvelle norme » de l’été 2026 met à l’épreuve la résilience climatique de l’Europe",
-      "summary": "Alors que les populations d’une large partie de l’Europe suffoquent sous une vague chaleur sans précédent, l’urgence est d’adopter enfin des mesures coordonnées au plus haut niveau pour faire face à ces températures extrêmes. Nous ne sommes qu’en juin, mais l’Europe subit déjà sa deuxième vague de chaleur extrême en de",
-      "link": "https://theconversation.com/comment-la-nouvelle-norme-de-lete-2026-met-a-lepreuve-la-resilience-climatique-de-leurope-286164",
-      "image": "https://counter.theconversation.com/content/286164/count.gif",
-      "publishedAt": "2026-06-25T13:27:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "air2l00",
-      "title": "Pourquoi l’Europe a besoin d’une Bourse unique et transparente",
-      "summary": "En promouvant un marché pour les marchés financiers, l’Union européenne stimule une forme de concurrence. À qui profite vraiment cette dernière ? Aux grandes entreprises ? Aux PME ? Aux investisseurs privés ? Reste qu’un marché financier unique – la Bourse européenne – aurait des avantages nombreux. Quels sont-ils ? Co",
-      "link": "https://theconversation.com/pourquoi-leurope-a-besoin-dune-bourse-unique-et-transparente-285489",
-      "image": "https://counter.theconversation.com/content/285489/count.gif",
-      "publishedAt": "2026-06-25T13:26:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ad8rnl6",
-      "title": "Céline Dion, la superstar qui rapproche le Québec et la France",
-      "summary": "La fête nationale du Québec, célébrée le 24 juin, offre l’occasion de revenir sur l’un des évènements québécois de l’année : les dix concerts parisiens de Céline Dion. À chaque nouvelle tournée de la chanteuse québécoise, le même phénomène se produit : files d’attente interminables, billets épuisés en quelques minutes.",
-      "link": "https://theconversation.com/celine-dion-la-superstar-qui-rapproche-le-quebec-et-la-france-285777",
-      "image": "https://counter.theconversation.com/content/285777/count.gif",
-      "publishedAt": "2026-06-25T13:25:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -576,7 +578,71 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aogr41x",
+      "title": "Quand l’IA s’invite dans nos relations, la véritable intimité tend à disparaître",
+      "summary": "L’intimité suppose de la spontanéité. Alberto Menendez Cervero/Shutterstock À l’heure où les outils d’IA générative sont à portée de clic, il est tentant de les interroger autour de petits et grands problèmes de la vie. Mais les solliciter comme des coachs pour nos interactions sociales et amoureuses est-il sans risque",
+      "link": "https://theconversation.com/quand-lia-sinvite-dans-nos-relations-la-veritable-intimite-tend-a-disparaitre-285287",
+      "image": "https://images.theconversation.com/files/741859/original/file-20260610-57-7u6qtk.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C5902%2C3935&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-25T13:29:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ag8dpav",
+      "title": "Comment la « nouvelle norme » de l’été 2026 met à l’épreuve la résilience climatique de l’Europe",
+      "summary": "Alors que les populations d’une large partie de l’Europe suffoquent sous une vague chaleur sans précédent, l’urgence est d’adopter enfin des mesures coordonnées au plus haut niveau pour faire face à ces températures extrêmes. Nous ne sommes qu’en juin, mais l’Europe subit déjà sa deuxième vague de chaleur extrême en de",
+      "link": "https://theconversation.com/comment-la-nouvelle-norme-de-lete-2026-met-a-lepreuve-la-resilience-climatique-de-leurope-286164",
+      "image": "https://counter.theconversation.com/content/286164/count.gif",
+      "publishedAt": "2026-06-25T13:27:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "air2l00",
+      "title": "Pourquoi l’Europe a besoin d’une Bourse unique et transparente",
+      "summary": "En promouvant un marché pour les marchés financiers, l’Union européenne stimule une forme de concurrence. À qui profite vraiment cette dernière ? Aux grandes entreprises ? Aux PME ? Aux investisseurs privés ? Reste qu’un marché financier unique – la Bourse européenne – aurait des avantages nombreux. Quels sont-ils ? Co",
+      "link": "https://theconversation.com/pourquoi-leurope-a-besoin-dune-bourse-unique-et-transparente-285489",
+      "image": "https://counter.theconversation.com/content/285489/count.gif",
+      "publishedAt": "2026-06-25T13:26:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ad8rnl6",
+      "title": "Céline Dion, la superstar qui rapproche le Québec et la France",
+      "summary": "La fête nationale du Québec, célébrée le 24 juin, offre l’occasion de revenir sur l’un des évènements québécois de l’année : les dix concerts parisiens de Céline Dion. À chaque nouvelle tournée de la chanteuse québécoise, le même phénomène se produit : files d’attente interminables, billets épuisés en quelques minutes.",
+      "link": "https://theconversation.com/celine-dion-la-superstar-qui-rapproche-le-quebec-et-la-france-285777",
+      "image": "https://counter.theconversation.com/content/285777/count.gif",
+      "publishedAt": "2026-06-25T13:25:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -592,7 +658,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -611,25 +677,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "au6bj15",
-      "title": "Coupe du monde de football 2026 : faut-il craindre une hausse des violences envers les femmes ?",
-      "summary": "Visuel de la campagne « No more Injury Time » de l’ONG britannique Solace Women’s Aid à l’occasion de l’Euro 2024. Le slogan est un jeu de mots, « Injury time » signifiant « temps additionnel » dans un match de football, mais aussi « le moment des blessures » en traduction littérale. Solace Women’s Aid Plusieurs études",
-      "link": "https://theconversation.com/coupe-du-monde-de-football-2026-faut-il-craindre-une-hausse-des-violences-envers-les-femmes-285265",
-      "image": "https://images.theconversation.com/files/743114/original/file-20260621-63-7tn5t8.png?ixlib=rb-4.1.0&amp;rect=136%2C0%2C926%2C617&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-24T12:52:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 25,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -645,7 +693,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -661,55 +709,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9f5jc8",
-      "title": "Microbiotes : le lien invisible entre agriculture, alimentation et santé",
-      "summary": "Notre santé dépend autant de ce que nous mangeons que de la manière dont nos aliments sont produits. De récentes recherches montrent ainsi combien les microbes du sol, des plantes et de notre intestin sont étroitement liés. Une réalité qui invite à repenser en profondeur nos systèmes agricole et alimentaire. Plus de 2 ",
-      "link": "https://theconversation.com/microbiotes-le-lien-invisible-entre-agriculture-alimentation-et-sante-284859",
-      "image": "https://images.theconversation.com/files/742533/original/file-20260617-57-586bq5.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-24T12:51:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a51gjag",
-      "title": "« Heated Rivalry », la romance gay qui réenchante l’imaginaire érotique des femmes hétérosexuelles",
-      "summary": "Mettant en scène une romance gay dans le milieu du hockey, la série, dont Connor Storrie (à gauche) et Hudson Williams (à droite) interprètent les rôles principaux, rencontre un succès vertigineux. HBO MAX La série canadienne, devenue en quatre mois le plus grand succès de fiction jamais diffusé par HBO Max, a un publi",
-      "link": "https://theconversation.com/heated-rivalry-la-romance-gay-qui-reenchante-limaginaire-erotique-des-femmes-heterosexuelles-284246",
-      "image": "https://images.theconversation.com/files/743836/original/file-20260624-63-m6cjri.png?ixlib=rb-4.1.0&amp;rect=33%2C0%2C846%2C564&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-24T12:48:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "alwlbbz",
-      "title": "Vous perdez vos mots ? C’est tout à fait normal !",
-      "summary": "« Comment ça s’appelle déjà ? » Le mot est là. On le sent à notre portée, presque accessible, « sur le bout de la langue », mais impossible de le prononcer immédiatement. Alors on contourne, on reformule, on attend quelques secondes. Puis, souvent, le mot revient. Ce phénomène, très courant à partir du milieu de la vie",
-      "link": "https://theconversation.com/vous-perdez-vos-mots-cest-tout-a-fait-normal-284255",
-      "image": "https://counter.theconversation.com/content/284255/count.gif",
-      "publishedAt": "2026-06-24T09:23:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     }
   ]
