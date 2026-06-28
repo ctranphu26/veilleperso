@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T10:13:26.881Z",
+  "generatedAt": "2026-06-28T16:40:22.116Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "avyxzhy",
+      "title": "Clean beauty : comment une notion aussi floue est-elle devenue incontournable ?",
+      "summary": "Dans les rayons de cosmétiques, les promesses se multiplient : « naturel », « sans sulfate », « sans paraben », « 0 % silicone », « 95 % d’origine naturelle ». Ces mentions aujourd’hui omniprésentes sont devenues pour beaucoup de consommateurs des repères simples et rassurants face à des formulations souvent difficiles",
+      "link": "https://theconversation.com/clean-beauty-comment-une-notion-aussi-floue-est-elle-devenue-incontournable-284880",
+      "image": "https://counter.theconversation.com/content/284880/count.gif",
+      "publishedAt": "2026-06-28T13:30:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aqn5zrj",
       "title": "Robin des Bois était bien plus violent que la légende ne le raconte",
       "summary": "Hugh Jackman incarne le hors-la-loi dans le nouveau film « On l'appelait Robin des Bois ». Aidan Monaghan/A24 Bien avant Hollywood, les légendes anglaises mettaient en scène des hors-la-loi capables des exploits les plus héroïques… et des violences les plus extrêmes. Pourquoi Robin des Bois est-il le seul à être entré ",
@@ -133,7 +149,41 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ae234wu",
+      "title": "Affaire Lyhanna : un ministre n’est-il pas responsable des fautes de son administration ?",
+      "summary": "Le ministre de la justice Gérald Darmanin a refusé de démissionner après le meurtre de la jeune Lyhanna, malgré les dysfonctionnements graves relevés au niveau des magistrats du parquet. Le choix du garde des Sceaux s’inscrit dans la logique de la Vᵉ République, qui n’a eu de cesse de marginaliser la responsabilité des",
+      "link": "https://theconversation.com/affaire-lyhanna-un-ministre-nest-il-pas-responsable-des-fautes-de-son-administration-285567",
+      "image": "https://counter.theconversation.com/content/285567/count.gif",
+      "publishedAt": "2026-06-28T13:29:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aklrk6g",
+      "title": "Lutte contre les noyades : la sécurité de la baignade est une affaire de famille",
+      "summary": "En présence de leur parents, la perception du risque des adolescents se modifie. Sonia Remizua/Unsplash, FAL En France, chaque année, les plus jeunes payent un lourd tribut à la noyade : celle-ci est la principale cause de mortalité par accident de la vie courante. Comment les adolescents appréhendent-ils ce risque ? Q",
+      "link": "https://theconversation.com/lutte-contre-les-noyades-la-securite-de-la-baignade-est-une-affaire-de-famille-285973",
+      "image": "https://images.theconversation.com/files/744264/original/file-20260625-57-n05jv9.jpg?ixlib=rb-4.1.0&amp;rect=0%2C4%2C3845%2C2563&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-28T13:30:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +231,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 72,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3btqe8",
+      "title": "1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique !",
+      "summary": "Pour poursuivre ses publications quotidiennes, le Café pédagogique a besoin de votre aide. Voici plusieurs façons pour aider votre média indépendant : Abonnement de soutien à 5 euros par mois L’article 1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique ! est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/06/28/et-si-vous-vous-engagiez-pour-un-media-qui-soutient-lecole/",
+      "image": "https://cafepedagogique.net/wp-content/uploads/2025/05/Soutenir-le-cafe-pedagogique-300x200.jpg",
+      "publishedAt": "2026-06-28T03:48:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avfvp20",
@@ -197,8 +263,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avtc5p7",
@@ -215,7 +281,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +299,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +317,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +333,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +349,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +367,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -317,7 +383,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,7 +404,7 @@
       ],
       "relevance": 100,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -358,25 +424,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "af6ghsv",
-      "title": "« Aucune consigne du cabinet du ministre n’a évoqué une jauge préconisée à 15 élèves par salle »",
-      "summary": "Contrairement aux annonces du ministre Edouard Geffray devant de nombreux médias, « aucune consigne du cabinet du ministre n’a évoqué une jauge préconisée à 15 élèves par salle », assure le Snpden-UNSA L’article « Aucune consigne du cabinet du ministre n’a évoqué une jauge préconisée à 15 élèves par salle » est apparu ",
-      "link": "https://www.cafepedagogique.net/2026/06/26/aucune-consigne-du-cabinet-du-ministre-na-evoque-une-jauge-preconisee-a-15-eleves-par-salle/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/09/DNB-300x220.jpg",
-      "publishedAt": "2026-06-26T03:40:04.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -392,7 +440,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,7 +456,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -426,8 +474,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aw00f29",
@@ -442,8 +490,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "azgoxtr",
@@ -458,24 +506,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agi2d0f",
-      "title": "Découvrez les sujets de français au brevet des collèges 2026",
-      "summary": "Découvrez les sujets de français au DNB 2026 pour la Métropole, la Réunion et Mayotte. Série générale Grammaire et compréhension Dictée Dictée aménagée Rédaction Série professionnelle Grammaire et compréhension L’article Découvrez les sujets de français au brevet des collèges 2026 est apparu en premier sur Le Café péda",
-      "link": "https://www.cafepedagogique.net/2026/06/26/brevet-des-colleges-2026-les-sujets-de-francais/",
-      "image": null,
-      "publishedAt": "2026-06-26T09:00:28.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 40,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "atwwh48",
@@ -490,7 +522,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agi2d0f",
+      "title": "Découvrez les sujets de français au brevet des collèges 2026",
+      "summary": "Découvrez les sujets de français au DNB 2026 pour la Métropole, la Réunion et Mayotte. Série générale Grammaire et compréhension Dictée Dictée aménagée Rédaction Série professionnelle Grammaire et compréhension L’article Découvrez les sujets de français au brevet des collèges 2026 est apparu en premier sur Le Café péda",
+      "link": "https://www.cafepedagogique.net/2026/06/26/brevet-des-colleges-2026-les-sujets-de-francais/",
+      "image": null,
+      "publishedAt": "2026-06-26T09:00:28.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 40,
+      "relevanceLevel": "moyenne",
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -506,7 +554,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -524,7 +572,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -542,7 +590,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -560,7 +608,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -578,7 +626,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -594,7 +642,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -610,7 +658,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -626,7 +674,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -642,7 +690,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -658,58 +706,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abzt3zn",
-      "title": "Désinformation en santé : pourquoi les IA conversationnelles doivent entrer dans le débat",
-      "summary": "L’essentiel La désinformation en santé n’est pas un phénomène nouveau, mais les crises sanitaires successives, de l’affaire du sang contaminé à la pandémie de Covid-19, ont contribué à en accroître la visibilité. Les réseaux sociaux ont amplifié la circulation de la désinformation en santé tandis que les IA conversatio",
-      "link": "https://theconversation.com/desinformation-en-sante-pourquoi-les-ia-conversationnelles-doivent-entrer-dans-le-debat-285520",
-      "image": "https://counter.theconversation.com/content/285520/count.gif",
-      "publishedAt": "2026-06-24T12:53:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "désinformation",
-        "réseaux sociaux"
-      ],
-      "relevance": 87,
-      "relevanceLevel": "haute",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ay86f6j",
-      "title": "Le boycott académique contre Israël est minoritaire et traduit l’émergence de nouvelles normes académiques",
-      "summary": "En rompant leurs liens avec les universités israéliennes, plusieurs universités européennes revendiquent une responsabilité morale face à la guerre à Gaza. Une évolution qui interroge les principes traditionnels de liberté académique et de neutralité institutionnelle. À la suite de l’intensification du conflit israélo-",
-      "link": "https://theconversation.com/le-boycott-academique-contre-israel-est-minoritaire-et-traduit-lemergence-de-nouvelles-normes-academiques-284203",
-      "image": "https://images.theconversation.com/files/739781/original/file-20260603-71-ax5no.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-24T12:53:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "au2hv09",
-      "title": "La démocratie en recul face à la poussée des autoritarismes",
-      "summary": "Alors que les relations internationales traversent une phase de turbulences et de redéfinitions, plusieurs grandes puissances semblent converger vers des modèles de gouvernance mêlant fermeture nationale, interventionnisme économique et concentration des pouvoirs. Dans Trump, Poutine et Xi Jinping. Le national capitali",
-      "link": "https://theconversation.com/la-democratie-en-recul-face-a-la-poussee-des-autoritarismes-285091",
-      "image": "https://images.theconversation.com/files/742940/original/file-20260619-75-a5hdnh.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-24T12:52:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
