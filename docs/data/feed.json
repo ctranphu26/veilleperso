@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T11:28:22.995Z",
+  "generatedAt": "2026-06-30T18:23:41.569Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,168 @@
   "count": 35,
   "items": [
     {
+      "id": "anrq1c2",
+      "title": "Le droit d’association : un fondement de notre démocratie aujourd’hui fragilisé",
+      "summary": "Pendant une grande partie du XIXe siècle, s’associer pour défendre des intérêts communs a suscité la méfiance du pouvoir. De la répression des coalitions ouvrières à la consécration de la fameuse loi de 1901, le droit d’association est le produit d’une histoire politique mouvementée, où se jouent les rapports entre Éta",
+      "link": "https://theconversation.com/le-droit-dassociation-un-fondement-de-notre-democratie-aujourdhui-fragilise-284383",
+      "image": "https://counter.theconversation.com/content/284383/count.gif",
+      "publishedAt": "2026-06-30T14:44:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 96,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "az9uxzi",
+      "title": "Associations : l’engagement résiste, les financements s’érodent",
+      "summary": "Il y a 125 ans, la loi de 1901 fondait le statut des associations. Avec 1,6 million de structures, 13 millions de bénévoles et près de 2 millions de salariés, les associations irriguent tous les domaines de la vie sociale. Pourtant, derrière ce poids considérable se dessine une réalité plus fragile, marquée par la préc",
+      "link": "https://theconversation.com/associations-lengagement-resiste-les-financements-serodent-284385",
+      "image": "https://counter.theconversation.com/content/284385/count.gif",
+      "publishedAt": "2026-06-30T14:44:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ar1bjif",
+      "title": "Maladie des petits vaisseaux cérébraux : nouvelles pistes pour traiter cette affection méconnue qui touche des millions de personnes",
+      "summary": "La maladie des petits vaisseaux cérébraux, qui accroît notamment le risque d’AVC et de troubles cognitifs, concernerait plus de 5 millions de personnes en France. En l’absence de traitement curatif, la prévention des facteurs de risque cardiovasculaire reste aujourd’hui la stratégie la plus efficace. Cependant, de nouv",
+      "link": "https://theconversation.com/maladie-des-petits-vaisseaux-cerebraux-nouvelles-pistes-pour-traiter-cette-affection-meconnue-qui-touche-des-millions-de-personnes-281074",
+      "image": "https://counter.theconversation.com/content/281074/count.gif",
+      "publishedAt": "2026-06-30T10:50:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "azhj2hs",
+      "title": "Intelligence artificielle générative et recherche académique : comment préserver éthique et intégrité scientifique",
+      "summary": "Pour les scientifiques, l’intelligence artificielle générative peut apparaître comme une option pour gagner du temps et augmenter leur productivité, mais ce n’est pas sans risques. Lors de la pandémie de Covid-19, le refus de se faire vacciner résultait notamment du manque de confiance dans l’efficacité et la non-dange",
+      "link": "https://theconversation.com/intelligence-artificielle-generative-et-recherche-academique-comment-preserver-ethique-et-integrite-scientifique-279944",
+      "image": "https://counter.theconversation.com/content/279944/count.gif",
+      "publishedAt": "2026-06-30T15:38:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amy2kxr",
+      "title": "Most EU citizens support economic growth even though climate experts question its role",
+      "summary": "Debates about the necessity and desirability of economic growth are shifting. Among researchers working on sustainability and climate policy, there is growing scepticism about whether continued economic growth is necessary to achieve the social and environmental goals of a sustainable society. Some argue that we should",
+      "link": "https://theconversation.com/most-eu-citizens-support-economic-growth-even-though-climate-experts-question-its-role-285422",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-06-30T15:39:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axaud3j",
+      "title": "Le Viêt Nam a franchi le cap des 100 millions d’habitants. Et demain ?",
+      "summary": "Le Viêt Nam vient de franchir le seuil de 100 millions d’habitants et sa population continue d’augmenter. Jusqu’où ? À quoi la population du pays ressemblera-t-elle demain ? Retraçons l’évolution démographique du Viêt Nam et comparons-la à celles d’autres pays d’Asie pour repérer les spécificités vietnamiennes. La popu",
+      "link": "https://theconversation.com/le-viet-nam-a-franchi-le-cap-des-100-millions-dhabitants-et-demain-286280",
+      "image": "https://images.theconversation.com/files/744464/original/file-20260626-57-mcr4l6.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-06-30T14:51:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2i6v3h",
+      "title": "Canicule : pourquoi le vrai coût des coupures d’électricité n’apparaît dans aucun chiffre officiel",
+      "summary": "Au cours de la canicule de juin 2026, au total 335 000 foyers ont été privés d’électricité au fil des incidents, en France. Anne Nygard/Unsplash, Fourni par l'auteur Combien coûtent les coupures d’électricité provoquées par les canicules ? Si ce chiffre reste absent des données officielles, le chercheur en économie de ",
+      "link": "https://theconversation.com/canicule-pourquoi-le-vrai-cout-des-coupures-delectricite-napparait-dans-aucun-chiffre-officiel-286415",
+      "image": "https://images.theconversation.com/files/744898/original/file-20260629-71-2gi2cg.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C5184%2C3456&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-30T14:50:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abp58ya",
+      "title": "Savoir nager est essentiel, mais ne suffit pas à prévenir les noyades",
+      "summary": "Durant l’épisode caniculaire que vient de traverser la France, le regain de baignades dans les espaces naturels, mais aussi en ville s’est accompagné d’une hausse marquée des noyades. Si la maîtrise des techniques de natation ne protège donc pas de tous les risques en milieu naturel, comment développer concrètement les",
+      "link": "https://theconversation.com/savoir-nager-est-essentiel-mais-ne-suffit-pas-a-prevenir-les-noyades-286377",
+      "image": "https://counter.theconversation.com/content/286377/count.gif",
+      "publishedAt": "2026-06-30T14:49:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aabbj5h",
+      "title": "Le retour de la 2CV – en version électrique : nostalgie ou solution pour une mobilité plus sobre ?",
+      "summary": "La mythique Citroën 2CV (ici, le modèle Charleston) revient en version électrique. Après la DS, que dit le retour de cette icône française ? Lothar Spurzem/Wikipedia, CC BY La 2CV électrique illustre une recomposition des stratégies automobiles : mobiliser l’héritage pour accompagner la décarbonation. Un cas révélateur",
+      "link": "https://theconversation.com/le-retour-de-la-2cv-en-version-electrique-nostalgie-ou-solution-pour-une-mobilite-plus-sobre-285294",
+      "image": "https://images.theconversation.com/files/744158/original/file-20260625-57-gz1soe.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4156%2C2770&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-30T14:48:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ackykjk",
+      "title": "Maladie d’Alzheimer et démence : comment préserver la dignité de ceux que les médicaments ne peuvent pas aider",
+      "summary": "Les activités créatives peuvent être employées pour maintenir le lien avec les personnes atteintes de démence. Robert Kneschke/Shutterstock (no reuse) Bien que l’espoir de voir émerger des médicaments capables de ralentir la progression de la maladie d’Alzheimer commence à poindre timidement, la question de la prise en",
+      "link": "https://theconversation.com/maladie-dalzheimer-et-demence-comment-preserver-la-dignite-de-ceux-que-les-medicaments-ne-peuvent-pas-aider-286413",
+      "image": "https://images.theconversation.com/files/744870/original/file-20260622-71-e54j96.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C5760%2C3840&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-06-30T10:50:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "avitxuy",
       "title": "Sujets de mathématiques au Brevet des collèges 2026",
       "summary": "Découvrez les sujets de mathématiques au DNB 2026 en métropole, à la Réunion et à Mayotte Série générale Série professionnelle Le sujet comportait pour la première fois une série d’automatismes L’article Sujets de mathématiques au Brevet des collèges 2026 est apparu en premier sur Le Café pédagogique.",
@@ -131,8 +293,27 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6l7eye",
+      "title": "Le piège des recettes miracles à l’école (2/3)",
+      "summary": "« Comment remplacer astuces et recettes miracles par une réelle compréhension? » car « entre la préparation de classe et la pression des résultats, la tentation est grande de se tourner vers ce L’article Le piège des recettes miracles à l’école (2/3) est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/30/le-piege-des-recettes-miracles-a-lecole/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/saraLeleuMaati-280x300.jpeg",
+      "publishedAt": "2026-06-30T03:29:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "classe"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aazq16i",
@@ -149,8 +330,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ak8hd58",
@@ -167,43 +348,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ahejgeq",
-      "title": "Canicule : Les maux ont un sens",
-      "summary": "Une canicule qui résulte « de choix politiques anciens et de responsabilités institutionnelles bien présentes », au cours de laquelle il a été « demandé » aux personnels et aux L’article Canicule : Les maux ont un sens est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/30/canicule-les-maux-ont-un-sens/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/05/Photo-manif-2-300x278.png",
-      "publishedAt": "2026-06-30T03:45:47.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a6l7eye",
-      "title": "Le piège des recettes miracles à l’école",
-      "summary": "« Comment remplacer astuces et recettes miracles par une réelle compréhension? » car « entre la préparation de classe et la pression des résultats, la tentation est grande de se tourner vers ce L’article Le piège des recettes miracles à l’école est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/30/le-piege-des-recettes-miracles-a-lecole/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/saraLeleuMaati-280x300.jpeg",
-      "publishedAt": "2026-06-30T03:29:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "classe"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "av5dmaz",
@@ -220,8 +366,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ady0rau",
@@ -236,8 +382,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "acbfxu7",
@@ -252,8 +398,24 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahejgeq",
+      "title": "Canicule : Les maux ont un sens",
+      "summary": "Une canicule qui résulte « de choix politiques anciens et de responsabilités institutionnelles bien présentes », au cours de laquelle il a été « demandé » aux personnels et aux L’article Canicule : Les maux ont un sens est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/30/canicule-les-maux-ont-un-sens/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/05/Photo-manif-2-300x278.png",
+      "publishedAt": "2026-06-30T03:45:47.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atvb4y2",
@@ -268,8 +430,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abrpjep",
@@ -284,8 +446,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ah7bsj4",
@@ -302,7 +464,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -318,7 +480,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -334,7 +496,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +512,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -366,7 +528,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -382,7 +544,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,7 +560,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -414,7 +576,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,7 +594,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -448,7 +610,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +626,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +642,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,25 +658,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqn5zrj",
-      "title": "Robin des Bois était bien plus violent que la légende ne le raconte",
-      "summary": "Hugh Jackman incarne le hors-la-loi dans le nouveau film « On l'appelait Robin des Bois ». Aidan Monaghan/A24 Bien avant Hollywood, les légendes anglaises mettaient en scène des hors-la-loi capables des exploits les plus héroïques… et des violences les plus extrêmes. Pourquoi Robin des Bois est-il le seul à être entré ",
-      "link": "https://theconversation.com/robin-des-bois-etait-bien-plus-violent-que-la-legende-ne-le-raconte-286330",
-      "image": "https://images.theconversation.com/files/744636/original/file-20260625-85-odti20.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-28T08:59:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -532,8 +676,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aklrk6g",
@@ -548,157 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avfvp20",
-      "title": "« Disclosure Day » : pourquoi la (potentielle) découverte d’une vie extraterrestre ne sera pas un blockbuster hollywoodien",
-      "summary": "Dans *Disclosure Day* (2026), Steven Spielberg utilise les symboles classiques de l’ufologie, comme les « Crop Circles », traditionnellement associés aux visites d’ovnis. Cette scène suggère l’existence d’extraterrestres dotés de pouvoirs paranormaux, qui communiquent de façon mystérieuse tout en restant insaisissables",
-      "link": "https://theconversation.com/disclosure-day-pourquoi-la-potentielle-decouverte-dune-vie-extraterrestre-ne-sera-pas-un-blockbuster-hollywoodien-286069",
-      "image": "https://images.theconversation.com/files/744183/original/file-20260625-57-64zj7u.jpg?ixlib=rb-4.1.0&amp;rect=48%2C0%2C1342%2C895&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-27T14:51:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aoti8vj",
-      "title": "Derrière la mignonnerie du panda, une diplomatie d’influence chinoise de l’émotion en ligne",
-      "summary": "Photo postée sur le compte X du « Quotidien du Peuple », principal journal chinois, le 13 février 2026, accompagnée de cette légende : « Trente bébés pandas géants ont récemment été réunis au Centre chinois de conservation et de recherche sur le panda géant et à la Base de recherche de Chengdu pour l’élevage du panda g",
-      "link": "https://theconversation.com/derriere-la-mignonnerie-du-panda-une-diplomatie-dinfluence-chinoise-de-lemotion-en-ligne-285620",
-      "image": "https://images.theconversation.com/files/744633/original/file-20260628-63-5gikmy.jpeg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1020%2C680&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-28T09:00:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5rxez1",
-      "title": "Quelles mesures sont les plus efficaces contre la dermatose nodulaire ? Ce que disent les modèles épidémiologiques",
-      "summary": "En 2025, de nombreux cas de dermatose nodulaire contagieuse, ou DNC, bovine ont déferlé sur les élevages français. Pour y faire face, les autorités ont alors misé sur la vaccination d’urgence et l’abattage total des cheptels touchés. Aurait-on pu gérer différemment cette épizootie, par exemple en n’abattant que les ani",
-      "link": "https://theconversation.com/quelles-mesures-sont-les-plus-efficaces-contre-la-dermatose-nodulaire-ce-que-disent-les-modeles-epidemiologiques-285400",
-      "image": "https://images.theconversation.com/files/742529/original/file-20260617-57-i2n4wd.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-28T09:00:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aps4n6o",
-      "title": "Comment une dent de chèvre éclaire enfin les secrets de l’élevage dans la Grèce antique",
-      "summary": "Les chèvres constituaient le principal animal consommé à Azoria, au sud-est du village de Kavousi, en Crète, aussi bien lors des repas quotidiens que des grands festins communautaires. Tsaag Valren/Wikimédia, CC BY En analysant les restes de 50 moutons et chèvres découverts en Crète, des archéologues montrent que l’éle",
-      "link": "https://theconversation.com/comment-une-dent-de-chevre-eclaire-enfin-les-secrets-de-lelevage-dans-la-grece-antique-286329",
-      "image": "https://images.theconversation.com/files/744635/original/file-20260628-63-bfg37d.jpg?ixlib=rb-4.1.0&amp;rect=0%2C166%2C4000%2C2666&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-28T08:59:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avtc5p7",
-      "title": "Pourquoi le CO₂ des vols influence si peu nos choix (et comment y remédier)",
-      "summary": "Pour qu’une information ait un impact sur le comportement d’un consommateur, il ne suffit pas de la lui donner. Encore faut-il que l’information soit communiquée de façon compréhensible pour pouvoir être facilement transformée en action. Illustration avec le choix d’un vol en fonction du nombre de kilogrammes de CO₂ co",
-      "link": "https://theconversation.com/pourquoi-le-co-des-vols-influence-si-peu-nos-choix-et-comment-y-remedier-281075",
-      "image": "https://counter.theconversation.com/content/281075/count.gif",
-      "publishedAt": "2026-06-27T09:50:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
       "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avqoa6b",
-      "title": "Chercheuse, mère et précaire : une équation impossible",
-      "summary": "Accéder à un poste de titulaire dans l’enseignement supérieur et la recherche, c’est un parcours d’obstacles. Pour les femmes qui deviennent mères avant d’y parvenir, la route se complique encore plus. Certaines tentent de devenir des chercheuses totales, cumulant tous les rôles, mais à quel prix et pour combien de tem",
-      "link": "https://theconversation.com/chercheuse-mere-et-precaire-une-equation-impossible-285418",
-      "image": "https://counter.theconversation.com/content/285418/count.gif",
-      "publishedAt": "2026-06-27T14:46:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agch3q9",
-      "title": "Comment Grenoble pourrait tirer parti des JO 2030 sans être une ville hôte",
-      "summary": "La ville de Grenoble avait accueilli les Jeux olympiques d’hiver de 1968, les premiers à avoir été retransmis en couleur. Bearfotos/shutterstock C’est officiel, la « capitale des Alpes françaises » n’accueillera pas de sites des prochains Jeux olympiques et paralympiques d’hiver en 2030. N’a-t-elle pas d’autres cartes ",
-      "link": "https://theconversation.com/comment-grenoble-pourrait-tirer-parti-des-jo-2030-sans-etre-une-ville-hote-275337",
-      "image": "https://images.theconversation.com/files/731311/original/file-20260421-85-rgopuo.jpg?ixlib=rb-4.1.0&amp;rect=91%2C0%2C3845%2C2564&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-27T09:49:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ah2my14",
-      "title": "Pourquoi la négation à la sauce IA – « Ce n’est pas X, c’est Y » – est à la fois agaçante et inefficace",
-      "summary": "Vous avez sans doute déjà vu cette formulation sur LinkedIn : « Ce n’est pas un métier, c’est une vocation », « Ce n’est pas du marketing, c’est un mouvement » ou encore « Ce n’est pas un outil, c’est un changement de paradigme ». Mais si, au premier abord, cette tournure typique de l’IA générative peut sembler percuta",
-      "link": "https://theconversation.com/pourquoi-la-negation-a-la-sauce-ia-ce-nest-pas-x-cest-y-est-a-la-fois-agacante-et-inefficace-285882",
-      "image": "https://counter.theconversation.com/content/285882/count.gif",
-      "publishedAt": "2026-06-27T09:49:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "adubnfb",
-      "title": "Autour des bois, quelques arbres peuvent faire une grande différence pour la biodiversité",
-      "summary": "La biodiversité se joue aussi en dehors des limites de la forêt Florencia Dalla Lasta/Unsplash, CC BY Une étude menée dans 17 pays montre que de petits fragments forestiers peuvent abriter bien plus d’espèces d’oiseaux que leur taille ne le laisse penser lorsque leur environnement est favorable. « Les grandes surfaces ",
-      "link": "https://theconversation.com/autour-des-bois-quelques-arbres-peuvent-faire-une-grande-difference-pour-la-biodiversite-285838",
-      "image": "https://images.theconversation.com/files/744007/original/file-20260624-101-k7jwcj.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C6001%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-27T06:39:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 27,
       "urgencyLevel": "basse"
     }
   ]
