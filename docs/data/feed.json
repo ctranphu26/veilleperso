@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T18:23:41.569Z",
+  "generatedAt": "2026-07-01T11:41:00.712Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,8 +119,128 @@
   "count": 35,
   "items": [
     {
+      "id": "ag59ram",
+      "title": "Sciences et technologie au cycle 3 : quoi de neuf en CM1, CM2 et 6e ?",
+      "summary": "Le nouveau programme de sciences et technologie va s’appliquer en classe de CM1 pour la rentrée prochaine. Il faudra attendre 2027 pour les CM2 et 6e, le temps d’éditer quelques L’article Sciences et technologie au cycle 3 : quoi de neuf en CM1, CM2 et 6e ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/01/sciences-et-technologie-au-cycle-3-quoi-de-neuf-en-cm1-cm2-et-6eme/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/cycle-3-sciences-programme-logo-300x206.png",
+      "publishedAt": "2026-07-01T03:55:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avrvvx9",
+      "title": "Le « Grand oral » n’existe pas",
+      "summary": "Communication vs réel. D’un « Grand oral central » à … l’existant. L’historien de l’éducation Claude Lelièvre se penche sur les idées fausses et erreurs historiques concernant l’une des réformes L’article Le « Grand oral » n’existe pas est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/01/le-grand-oral-nexiste-pas/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/grand-oral-cafe-pedagogique-300x300.png",
+      "publishedAt": "2026-07-01T03:45:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auatbfx",
+      "title": "Littérature jeunesse : Rêver d’aventures",
+      "summary": "Deux albums qui racontent l’Aventure, parce qu’en cette veille de vacances, ils nous emmènent tout de suite très loin, répondant à nos rêves d’ailleurs ! Le premier, pour les plus L’article Littérature jeunesse : Rêver d’aventures est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/01/litterature-jeunesse-rever-daventures/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/aventures-194x300.png",
+      "publishedAt": "2026-07-01T03:29:18.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac6c5d",
+      "title": "250 ans après, les griefs de la Déclaration d’indépendance des États-Unis restent étonnamment actuels",
+      "summary": "En relisant les 27 griefs de la Déclaration d’indépendance, on découvre une histoire de justice contestée, de pouvoir arbitraire, de mobilisation populaire et de conflits autour de l’immigration, des terres et de la citoyenneté. World Digital Library Deux cent cinquante ans après la Déclaration d’indépendance, ses célè",
+      "link": "https://theconversation.com/250-ans-apres-les-griefs-de-la-declaration-dindependance-des-etats-unis-restent-etonnamment-actuels-286322",
+      "image": "https://images.theconversation.com/files/744599/original/file-20260627-91-sull1h.png?ixlib=rb-4.1.0&amp;rect=14%2C17%2C813%2C542&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-01T10:35:48.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a65zqku",
+      "title": "« Juneteenth Independence Day » : le long combat des Afro-Américains pour l’accès à l’éducation après l’abolition de l’esclavage",
+      "summary": "La salle de classe des demoiselles Cooke, Bureau des affranchis, Richmond (Virginie), en 1866. Jas. E. Taylor/Wikimedia Commons Contraction des mots « June » (juin) et « nineteenth » (dix-neuvième), le Juneteenth, qui marque l’émancipation des esclaves aux États-Unis, est devenu un jour férié en 2021. L’histoire de cet",
+      "link": "https://theconversation.com/juneteenth-independence-day-le-long-combat-des-afro-americains-pour-lacces-a-leducation-apres-labolition-de-lesclavage-285961",
+      "image": "https://images.theconversation.com/files/743622/original/file-20260623-69-9yz72r.jpg?ixlib=rb-4.1.0&amp;rect=0%2C135%2C2268%2C1512&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-01T10:35:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ax2fryb",
+      "title": "La Fayette a aidé les Américains à renverser le cours de la guerre d’indépendance – et à forger un sentiment d’identité nationale",
+      "summary": "Représentation par Jean Marie Joseph Bove du retour de La Fayette aux États-Unis : « Un grand homme appartient à l’Univers tout entier. » Blancheteau Collection/Cornell University Library/Wikimedia Commons Accueilli en héros de retour au pays, Gilbert du Motier, marquis de La Fayette, effectua une grande tournée aux Ét",
+      "link": "https://theconversation.com/la-fayette-a-aide-les-americains-a-renverser-le-cours-de-la-guerre-dindependance-et-a-forger-un-sentiment-didentite-nationale-285953",
+      "image": "https://images.theconversation.com/files/743536/original/file-20250418-56-xczcsh.jpg?ixlib=rb-4.1.0&amp;rect=60%2C95%2C1894%2C1263&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-01T10:34:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "représentation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abh6s3n",
+      "title": "Le 4-Juillet : une date inventée, un mythe construit, un récit disputé",
+      "summary": "*La Déclaration d’indépendance*, de John Trumbull, peint entre 1815 et 1817, est fréquemment utilisé pour illustrer le jour où les États-Unis accédèrent à l’indépendance. Indice de la complexité de la mémoire de l’événement : le tableau ne montre en réalité pas la signature elle-même, mais la présentation d’un projet d",
+      "link": "https://theconversation.com/le-4-juillet-une-date-inventee-un-mythe-construit-un-recit-dispute-286386",
+      "image": "https://images.theconversation.com/files/744832/original/file-20260629-57-6ql55s.jpg?ixlib=rb-4.1.0&amp;rect=23%2C0%2C2953%2C1968&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-01T10:36:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "anrq1c2",
-      "title": "Le droit d’association : un fondement de notre démocratie aujourd’hui fragilisé",
+      "title": "Le droit d’association : un fondement de notre démocratie, aujourd’hui fragilisé",
       "summary": "Pendant une grande partie du XIXe siècle, s’associer pour défendre des intérêts communs a suscité la méfiance du pouvoir. De la répression des coalitions ouvrières à la consécration de la fameuse loi de 1901, le droit d’association est le produit d’une histoire politique mouvementée, où se jouent les rapports entre Éta",
       "link": "https://theconversation.com/le-droit-dassociation-un-fondement-de-notre-democratie-aujourdhui-fragilise-284383",
       "image": "https://counter.theconversation.com/content/284383/count.gif",
@@ -131,7 +251,96 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 96,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajkndle",
+      "title": "Une encyclique sur l’IA en éducation",
+      "summary": "En 2025, le Conseil National du Numérique (CNNum) devient le Conseil de l’Intelligence Artificielle et du Numérique (CIANum). En juin 2026, l’instance consultative publie son nouveau rapport : Sortir de la L’article Une encyclique sur l’IA en éducation est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/01/une-encyclique-sur-lia-en-education/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Rapport-sur-lIA-2026-212x300.png",
+      "publishedAt": "2026-07-01T04:10:31.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5f5h5i",
+      "title": "Donner la parole au travail dans les écoles : les controverses professionnelles du Café Pédagogique",
+      "summary": "Depuis deux ans, chaque mercredi, cette chronique du Café pédagogique propose d’explorer une controverse professionnelle vécue par les enseignant·es, les AESH et, plus largement, les acteurs et actrices de l’école. L’article Donner la parole au travail dans les écoles : les controverses professionnelles du Café Pédagog",
+      "link": "https://www.cafepedagogique.net/2026/07/01/donner-la-parole-au-travail-dans-les-ecoles-les-controverses-professionnelles-du-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/1782820766337blob-252x300.png",
+      "publishedAt": "2026-07-01T03:30:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "enseignant"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aw7z9q6",
+      "title": "Mixité ou égalité ? Un défi pour l’école",
+      "summary": "L’école a mis beaucoup de temps à comprendre que la mixité n’était pas qu’« un modèle pratique pour assumer la croissance démographique », et qu’il lui fallait aussi penser la coéducation en L’article Mixité ou égalité ? Un défi pour l’école est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/01/mixite-ou-egalite-un-defi-pour-lecole/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/REVUE-AFAE-visuel-1-194x300.jpeg",
+      "publishedAt": "2026-07-01T03:40:04.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "air9ckm",
+      "title": "Déconstruire pour rééduquer : sortir de l’illusion pour reconstruire le sens (3/3)",
+      "summary": "Après avoir posé le diagnostic des difficultés, maintenant qu’on a compris comment le confort pédagogique et les ressources parasites du web entretiennent l’illusion de la réussite, il est temps de L’article Déconstruire pour rééduquer : sortir de l’illusion pour reconstruire le sens (3/3) est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/07/01/deconstruire-pour-reeduquer-sortir-de-lillusion-pour-reconstruire-le-sens-3-3/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sarah-leleu-280x300.jpeg",
+      "publishedAt": "2026-07-01T03:30:24.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at3ocy7",
+      "title": "Cinéma : « Notre Histoire. Chroniques du Caire »  d’Abu Bakr Shawky",
+      "summary": "Comment un seul film peut-il à la fois raconter l’histoire de la famille du réalisateur, du club de football local, de sa ville et de son pays natal, l’Egypte, en L’article Cinéma : « Notre Histoire. Chroniques du Caire » d’Abu Bakr Shawky est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/01/cinema-notre-histoire-chroniques-du-caire-dabu-bakr-shawky/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg",
+      "publishedAt": "2026-07-01T03:28:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +356,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar1bjif",
@@ -163,8 +372,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "azhj2hs",
@@ -181,8 +390,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amy2kxr",
@@ -197,8 +406,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axaud3j",
@@ -213,8 +422,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2i6v3h",
@@ -229,8 +438,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abp58ya",
@@ -245,8 +454,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aabbj5h",
@@ -261,8 +470,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ackykjk",
@@ -277,8 +486,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avitxuy",
@@ -293,160 +502,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6l7eye",
-      "title": "Le piège des recettes miracles à l’école (2/3)",
-      "summary": "« Comment remplacer astuces et recettes miracles par une réelle compréhension? » car « entre la préparation de classe et la pression des résultats, la tentation est grande de se tourner vers ce L’article Le piège des recettes miracles à l’école (2/3) est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/30/le-piege-des-recettes-miracles-a-lecole/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/saraLeleuMaati-280x300.jpeg",
-      "publishedAt": "2026-06-30T03:29:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "classe"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aazq16i",
-      "title": "Transformer l’éducation : construire ensemble l’école de demain",
-      "summary": "Il y a urgence à transformer l’éducation. C’est ce que nous disent les organismes internationaux : UNESCO (Organisation des Nations-Unies pour l’Education, la Science et la Culture), OCDE (Organisation de Coopération L’article Transformer l’éducation : construire ensemble l’école de demain est apparu en premier sur Le ",
-      "link": "https://www.cafepedagogique.net/2026/06/30/transformer-leducation-construire-ensemble-lecole-de-demain/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Stephane-Germain-cafe-pedagogique.jpeg",
-      "publishedAt": "2026-06-30T03:50:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ak8hd58",
-      "title": "Maths et français au collège : les écarts se creusent entre le privé et le public",
-      "summary": "Avec 3 niveaux du collège évalués sur les 4 existants, la direction de la statistique publique de l’éducation ne manque pas de data sur nos élèves. Que retenir de ces L’article Maths et français au collège : les écarts se creusent entre le privé et le public est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/30/maths-et-francais-au-college-les-ecarts-se-creusent-entre-le-prive-et-le-public/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/francais-4eme-300x194.png",
-      "publishedAt": "2026-06-30T04:00:23.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "av5dmaz",
-      "title": "Commentaire des sujets du brevet d’HGEMC",
-      "summary": "Le brevet d’histoire-géographie et d’EMC avait lieu ce lundi matin pour les élèves de 3e des séries générale et professionnelle. L’épreuve est toujours d’un coefficient total de 2, dont 0,5 L’article Commentaire des sujets du brevet d’HGEMC est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/30/commentaire-des-sujets-du-brevet-dhgemc/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/cafepedaggoique-corentinHuneau-209x300.jpeg",
-      "publishedAt": "2026-06-30T03:29:29.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ady0rau",
-      "title": "Le Prix Tangente des collèges : quand littérature et mathématiques se rencontrent",
-      "summary": "Le prix Tangente des collèges est une initiative lancée en 2025, au carrefour des mathématiques et de la littérature. Destiné aux collégiennes et aux collégiens, il est porté par l’association L’article Le Prix Tangente des collèges : quand littérature et mathématiques se rencontrent est apparu en premier sur Le Café p",
-      "link": "https://www.cafepedagogique.net/2026/06/30/le-prix-tangente-des-colleges-quand-litterature-et-mathematiques-se-rencontrent/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/logo_4mai_Prix-Tangente_PTC1-300x242.jpeg",
-      "publishedAt": "2026-06-30T03:29:47.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "acbfxu7",
-      "title": "Consignes de correction des notes au bac HGGSP",
-      "summary": "« La médiane et la moyenne sont en recul par rapport à 2025, d’un point pour le premier item », écrivent ces IA-IPR d’histoire-géographie aux correctrices et correcteurs du bac HGGSP. « Il L’article Consignes de correction des notes au bac HGGSP est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/30/des-20-20-demandes-lors-de-la-correction-au-bac-hggsp/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/df00069f-8189-476b-bd72-eeb47dd550e9-300x169.jpg",
-      "publishedAt": "2026-06-30T03:27:12.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahejgeq",
-      "title": "Canicule : Les maux ont un sens",
-      "summary": "Une canicule qui résulte « de choix politiques anciens et de responsabilités institutionnelles bien présentes », au cours de laquelle il a été « demandé » aux personnels et aux L’article Canicule : Les maux ont un sens est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/30/canicule-les-maux-ont-un-sens/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/05/Photo-manif-2-300x278.png",
-      "publishedAt": "2026-06-30T03:45:47.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atvb4y2",
-      "title": "DNB sciences 2026 : « d’une simplicité affligeante »",
-      "summary": "Le sujet de sciences au DNB 2026 ne brille pas par le niveau requis pour le réussir, au moins en série générale. En SVT, le sujet comporte 4 questions dont L’article DNB sciences 2026 : « d’une simplicité affligeante » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/30/dnb-sciences-2026-dune-simplicite-affligeante/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/composition-ion-300x209.png",
-      "publishedAt": "2026-06-30T03:30:12.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abrpjep",
-      "title": "Tous audacieux à Toulouse",
-      "summary": "Dimanche 5 juillet, de 10h à 19h, l’Envol des Pionniers invite les familles à une folle journée où chacun doit prendre des risques, faire preuve d’audace et oser l’inédit ! Cet L’article Tous audacieux à Toulouse est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/06/30/tous-audacieux-a-toulouse/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/audacieux-300x282.png",
-      "publishedAt": "2026-06-30T03:28:35.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +520,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +536,25 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 52,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ak8hd58",
+      "title": "Maths et français au collège : les écarts se creusent entre le privé et le public",
+      "summary": "Avec 3 niveaux du collège évalués sur les 4 existants, la direction de la statistique publique de l’éducation ne manque pas de data sur nos élèves. Que retenir de ces L’article Maths et français au collège : les écarts se creusent entre le privé et le public est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/06/30/maths-et-francais-au-college-les-ecarts-se-creusent-entre-le-prive-et-le-public/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/francais-4eme-300x194.png",
+      "publishedAt": "2026-06-30T04:00:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +570,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -512,7 +586,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -528,7 +602,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -544,7 +618,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -560,7 +634,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -576,7 +650,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -594,8 +668,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avivnn0",
@@ -610,8 +684,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "awwsdng",
@@ -626,73 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alw59vn",
-      "title": "La hausse des arrêts maladie est-elle la conséquence d’un problème de management ?",
-      "summary": "À partir du 1er septembre, la durée maximale d’une première prescription d’arrêt de travail sera plafonnée à un mois pour « contrer les abus et diminuer la facture » de 17,9 milliards d’euros de 2025. Ces absences pour raison de santé ne devraient-elles pas également être interprétées comme un signe de contestation d’u",
-      "link": "https://theconversation.com/la-hausse-des-arrets-maladie-est-elle-la-consequence-dun-probleme-de-management-282767",
-      "image": "https://counter.theconversation.com/content/282767/count.gif",
-      "publishedAt": "2026-06-29T09:10:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avyxzhy",
-      "title": "Clean beauty : comment une notion aussi floue est-elle devenue incontournable ?",
-      "summary": "Dans les rayons de cosmétiques, les promesses se multiplient : « naturel », « sans sulfate », « sans paraben », « 0 % silicone », « 95 % d’origine naturelle ». Ces mentions aujourd’hui omniprésentes sont devenues pour beaucoup de consommateurs des repères simples et rassurants face à des formulations souvent difficiles",
-      "link": "https://theconversation.com/clean-beauty-comment-une-notion-aussi-floue-est-elle-devenue-incontournable-284880",
-      "image": "https://counter.theconversation.com/content/284880/count.gif",
-      "publishedAt": "2026-06-28T13:30:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ae234wu",
-      "title": "Affaire Lyhanna : un ministre n’est-il pas responsable des fautes de son administration ?",
-      "summary": "Le ministre de la justice Gérald Darmanin a refusé de démissionner après le meurtre de la jeune Lyhanna, malgré les dysfonctionnements graves relevés au niveau des magistrats du parquet. Le choix du garde des Sceaux s’inscrit dans la logique de la Vᵉ République, qui n’a eu de cesse de marginaliser la responsabilité des",
-      "link": "https://theconversation.com/affaire-lyhanna-un-ministre-nest-il-pas-responsable-des-fautes-de-son-administration-285567",
-      "image": "https://counter.theconversation.com/content/285567/count.gif",
-      "publishedAt": "2026-06-28T13:29:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aklrk6g",
-      "title": "Lutte contre les noyades : la sécurité de la baignade est une affaire de famille",
-      "summary": "En présence de leur parents, la perception du risque des adolescents se modifie. Sonia Remizua/Unsplash, FAL En France, chaque année, les plus jeunes payent un lourd tribut à la noyade : celle-ci est la principale cause de mortalité par accident de la vie courante. Comment les adolescents appréhendent-ils ce risque ? Q",
-      "link": "https://theconversation.com/lutte-contre-les-noyades-la-securite-de-la-baignade-est-une-affaire-de-famille-285973",
-      "image": "https://images.theconversation.com/files/744264/original/file-20260625-57-n05jv9.jpg?ixlib=rb-4.1.0&amp;rect=0%2C4%2C3845%2C2563&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-28T13:30:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 39,
       "urgencyLevel": "basse"
     }
   ]
