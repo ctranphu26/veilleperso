@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T10:19:08.764Z",
+  "generatedAt": "2026-07-02T18:17:15.289Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,24 @@
   "count": 35,
   "items": [
     {
+      "id": "ajwu9jj",
+      "title": "Abondance, rareté, open source : et si le débat sur l’IA se trompait d’étage ?",
+      "summary": "Trois thèses sur l’IA semblent s’affronter : abondance des contenus, rareté de l’accès, banalisation par l’open source. Elles partagent pourtant un même constat : la valeur se déplace, aujourd’hui, du calcul vers le discernement et le jugement. C’est ce que la formation devra désormais cultiver, et c’est sur ce terrain",
+      "link": "https://theconversation.com/abondance-rarete-open-source-et-si-le-debat-sur-lia-se-trompait-detage-285977",
+      "image": "https://counter.theconversation.com/content/285977/count.gif",
+      "publishedAt": "2026-07-02T15:12:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 97,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aaqr1xf",
       "title": "Face aux défis de l’anthropocène, l’écotoxicologie doit s’adapter pour améliorer ses capacités de prédiction",
       "summary": "L’écotoxicologie est une discipline scientifique encore jeune. Née dans les années 1960, sa mission est de comprendre les contaminations des écosystèmes par les polluants chimiques ainsi que leurs impacts pour éclairer la décision publique. Mais elle doit aujourd’hui s’adapter et évoluer face aux nouveaux défis environ",
@@ -131,7 +149,119 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 99,
+      "urgency": 91,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9rxh0l",
+      "title": "Ce que signifie vraiment « aimer son travail » – et quand cet amour peut devenir un problème",
+      "summary": "De nouvelles recherches outre-Atlantique explorent la psychologie qui sous-tend « l’amour du travail » et ses implications pour les entreprises. Que signifie aimer son travail ? Le champ lexical de l’amour revient souvent dans les débats lorsqu’on parle du monde du travail. Les gens disent vouloir aimer leur travail ; ",
+      "link": "https://theconversation.com/ce-que-signifie-vraiment-aimer-son-travail-et-quand-cet-amour-peut-devenir-un-probleme-281899",
+      "image": "https://counter.theconversation.com/content/281899/count.gif",
+      "publishedAt": "2026-07-02T15:12:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arjugd8",
+      "title": "Vietnam’s population hit the 100 million milestone. Where’s it headed?",
+      "summary": "The population of Vietnam reached the 100 million mark in 2023. Fifty years ago, in 1976, when it was reunified as the Socialist Republic of Vietnam, the country had fewer than half as many inhabitants (46 million). A hundred years ago, it had only one sixth as many (16 million) (Figure 1). When we compare the current ",
+      "link": "https://theconversation.com/vietnams-population-hit-the-100-million-milestone-wheres-it-headed-286587",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-07-02T15:20:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at1kmkn",
+      "title": "Vous avez des difficultés de concentration ? Voici quelques astuces pour améliorer vos capacités d’attention",
+      "summary": "Si nos capacités de concentration n’ont pas forcément été altérées par les nouvelles technologies, le fait de passer constamment d’une tâche à l’autre altère la qualité de notre attention. FujiCraft/Getty Sollicités en permanence par les notifications de nos ordinateurs ou de nos téléphones, nous avons l’impression que",
+      "link": "https://theconversation.com/vous-avez-des-difficultes-de-concentration-voici-quelques-astuces-pour-ameliorer-vos-capacites-dattention-286278",
+      "image": "https://images.theconversation.com/files/744453/original/file-20260611-57-t2p93.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C2121%2C1414&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-02T15:17:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1p1s28",
+      "title": "Donner à manger, un geste politique ?",
+      "summary": "*Des Glaneuses* (1857), de Jean-François Millet (1814-1875). Musée d’Orsay, via Wikimedia Commons Du biberon aux cantines, du glanage à l’aide alimentaire, donner à manger, c’est l’acte le plus ordinaire qui soit. Mais à quelles conditions nourrir sans asservir ? Dans quelle mesure l’alimentation peut-elle poser la pre",
+      "link": "https://theconversation.com/donner-a-manger-un-geste-politique-285792",
+      "image": "https://images.theconversation.com/files/743317/original/file-20260622-57-gb4j4w.jpg?ixlib=rb-4.1.0&amp;rect=0%2C57%2C1328%2C885&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-02T15:16:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ao5tedm",
+      "title": "Les 250 ans des États-Unis : comment Trump cherche à s’approprier les Pères fondateurs",
+      "summary": "Le 250e anniversaire de la Déclaration d’indépendance des États-Unis dépasse le cadre d’une simple commémoration. Survenant dans un contexte de forte polarisation politique, il suscite des débats qui illustrent la multiplication des lectures concurrentes de l’histoire. Donald Trump, comme ses opposants, cherche ainsi à",
+      "link": "https://theconversation.com/les-250-ans-des-etats-unis-comment-trump-cherche-a-sapproprier-les-peres-fondateurs-286667",
+      "image": "https://counter.theconversation.com/content/286667/count.gif",
+      "publishedAt": "2026-07-02T15:16:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aymhm4z",
+      "title": "La Sagrada Familia, ou quand les microfossiles inspirent l’architecture",
+      "summary": "Vue de l’intérieur de la Sagrada Familia. La coupole s’appuie sur des piliers comme des segments de radiolaires se prolongent par des épines. CD_Photosaddict/Pixabay, CC BY-SA Au-delà du sport, le Tour de France donne aussi l’occasion de (re)découvrir nos paysages et parfois leurs bizarreries géologiques. La toute prem",
+      "link": "https://theconversation.com/la-sagrada-familia-ou-quand-les-microfossiles-inspirent-larchitecture-286394",
+      "image": "https://images.theconversation.com/files/744846/original/file-20260629-57-5cg3o.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1278%2C852&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-02T15:11:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avw10q0",
+      "title": "Comment mes recherches sur l’amitié m’ont aidée à comprendre ma propre solitude",
+      "summary": "De plus en plus de personnes déclarent se sentir seules, y compris lorsqu’elles sont entourées. Piotr Arnoldes/Pexels, CC BY Nous accordons souvent la priorité au couple, à la famille et au travail, reléguant l’amitié au second plan. Pourtant, à mesure que les liens sociaux s’effritent, l’amitié apparaît comme une ress",
+      "link": "https://theconversation.com/comment-mes-recherches-sur-lamitie-mont-aidee-a-comprendre-ma-propre-solitude-285859",
+      "image": "https://images.theconversation.com/files/743283/original/file-20260501-71-rdep2e.jpg?ixlib=rb-4.1.0&amp;rect=0%2C1%2C7112%2C4741&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-02T15:09:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -150,7 +280,7 @@
       ],
       "relevance": 100,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -170,7 +300,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -188,7 +318,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -206,7 +336,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -222,8 +352,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anry3dt",
@@ -238,8 +368,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aaf9htp",
@@ -254,8 +384,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akv1haq",
@@ -273,8 +403,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akyg0pl",
@@ -291,8 +421,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3w4p3l",
@@ -309,8 +439,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arc5hoy",
@@ -327,8 +457,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am03qrg",
@@ -343,8 +473,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "av9ojf",
@@ -359,8 +489,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "af3msky",
@@ -375,8 +505,8 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ad8s6d7",
@@ -393,23 +523,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
-      "id": "anrq1c2",
-      "title": "Le droit d’association : un fondement de notre démocratie, aujourd’hui fragilisé",
-      "summary": "Pendant une grande partie du XIXe siècle, s’associer pour défendre des intérêts communs a suscité la méfiance du pouvoir. De la répression des coalitions ouvrières à la consécration de la fameuse loi de 1901, le droit d’association est le produit d’une histoire politique mouvementée, où se jouent les rapports entre Éta",
-      "link": "https://theconversation.com/le-droit-dassociation-un-fondement-de-notre-democratie-aujourdhui-fragilise-284383",
-      "image": "https://counter.theconversation.com/content/284383/count.gif",
-      "publishedAt": "2026-06-30T14:44:30.000Z",
+      "id": "a62kgld",
+      "title": "Décapitaliser le savoir scientifique et le rendre accessible à tous : des solutions existent",
+      "summary": "À quand un accès libre et gratuit au savoir ? (En photo, la tour de livres de la bibliothèque Městská knihovna à Prague, République tchèque.) Lysander Yuen/Unsplash, CC BY Publier et accéder à des articles scientifiques coûte très cher aux organismes de recherche. L’accès ouvert est-il la solution parfaite ? Découvrez ",
+      "link": "https://theconversation.com/decapitaliser-le-savoir-scientifique-et-le-rendre-accessible-a-tous-des-solutions-existent-283930",
+      "image": "https://images.theconversation.com/files/745033/original/file-20260630-77-5p4ugw.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4207%2C2804&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-01T15:25:28.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +557,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -446,23 +576,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a62kgld",
-      "title": "Décapitaliser le savoir scientifique et le rendre accessible à tous : des solutions existent",
-      "summary": "À quand un accès libre et gratuit au savoir ? (En photo, la tour de livres de la bibliothèque Městská knihovna à Prague, République tchèque.) Lysander Yuen/Unsplash, CC BY Publier et accéder à des articles scientifiques coûte très cher aux organismes de recherche. L’accès ouvert est-il la solution parfaite ? Découvrez ",
-      "link": "https://theconversation.com/decapitaliser-le-savoir-scientifique-et-le-rendre-accessible-a-tous-des-solutions-existent-283930",
-      "image": "https://images.theconversation.com/files/745033/original/file-20260630-77-5p4ugw.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4207%2C2804&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-01T15:25:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -478,7 +592,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -494,7 +608,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -510,7 +624,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -526,7 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -542,7 +656,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -560,7 +674,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -578,25 +692,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ax2fryb",
-      "title": "La Fayette a aidé les Américains à renverser le cours de la guerre d’indépendance – et à forger un sentiment d’identité nationale",
-      "summary": "Représentation par Jean Marie Joseph Bove du retour de La Fayette aux États-Unis : « Un grand homme appartient à l’Univers tout entier. » Blancheteau Collection/Cornell University Library/Wikimedia Commons Accueilli en héros de retour au pays, Gilbert du Motier, marquis de La Fayette, effectua une grande tournée aux Ét",
-      "link": "https://theconversation.com/la-fayette-a-aide-les-americains-a-renverser-le-cours-de-la-guerre-dindependance-et-a-forger-un-sentiment-didentite-nationale-285953",
-      "image": "https://images.theconversation.com/files/743536/original/file-20250418-56-xczcsh.jpg?ixlib=rb-4.1.0&amp;rect=60%2C95%2C1894%2C1263&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-01T10:34:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -612,105 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "azhj2hs",
-      "title": "Intelligence artificielle générative et recherche académique : comment préserver éthique et intégrité scientifique",
-      "summary": "Pour les scientifiques, l’intelligence artificielle générative peut apparaître comme une option pour gagner du temps et augmenter leur productivité, mais ce n’est pas sans risques. Lors de la pandémie de Covid-19, le refus de se faire vacciner résultait notamment du manque de confiance dans l’efficacité et la non-dange",
-      "link": "https://theconversation.com/intelligence-artificielle-generative-et-recherche-academique-comment-preserver-ethique-et-integrite-scientifique-279944",
-      "image": "https://counter.theconversation.com/content/279944/count.gif",
-      "publishedAt": "2026-06-30T15:38:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amy2kxr",
-      "title": "Most EU citizens support economic growth even though climate experts question its role",
-      "summary": "Debates about the necessity and desirability of economic growth are shifting. Among researchers working on sustainability and climate policy, there is growing scepticism about whether continued economic growth is necessary to achieve the social and environmental goals of a sustainable society. Some argue that we should",
-      "link": "https://theconversation.com/most-eu-citizens-support-economic-growth-even-though-climate-experts-question-its-role-285422",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-06-30T15:39:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axaud3j",
-      "title": "Le Viêt Nam a franchi le cap des 100 millions d’habitants. Et demain ?",
-      "summary": "Le Viêt Nam vient de franchir le seuil de 100 millions d’habitants et sa population continue d’augmenter. Jusqu’où ? À quoi la population du pays ressemblera-t-elle demain ? Retraçons l’évolution démographique du Viêt Nam et comparons-la à celles d’autres pays d’Asie pour repérer les spécificités vietnamiennes. La popu",
-      "link": "https://theconversation.com/le-viet-nam-a-franchi-le-cap-des-100-millions-dhabitants-et-demain-286280",
-      "image": "https://images.theconversation.com/files/744464/original/file-20260626-57-mcr4l6.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-06-30T14:51:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2i6v3h",
-      "title": "Canicule : pourquoi le vrai coût des coupures d’électricité n’apparaît dans aucun chiffre officiel",
-      "summary": "Au cours de la canicule de juin 2026, au total 335 000 foyers ont été privés d’électricité au fil des incidents, en France. Anne Nygard/Unsplash, Fourni par l'auteur Combien coûtent les coupures d’électricité provoquées par les canicules ? Si ce chiffre reste absent des données officielles, le chercheur en économie de ",
-      "link": "https://theconversation.com/canicule-pourquoi-le-vrai-cout-des-coupures-delectricite-napparait-dans-aucun-chiffre-officiel-286415",
-      "image": "https://images.theconversation.com/files/744898/original/file-20260629-71-2gi2cg.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C5184%2C3456&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-30T14:50:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abp58ya",
-      "title": "Savoir nager est essentiel, mais ne suffit pas à prévenir les noyades",
-      "summary": "Durant l’épisode caniculaire que vient de traverser la France, le regain de baignades dans les espaces naturels, mais aussi en ville s’est accompagné d’une hausse marquée des noyades. Si la maîtrise des techniques de natation ne protège donc pas de tous les risques en milieu naturel, comment développer concrètement les",
-      "link": "https://theconversation.com/savoir-nager-est-essentiel-mais-ne-suffit-pas-a-prevenir-les-noyades-286377",
-      "image": "https://counter.theconversation.com/content/286377/count.gif",
-      "publishedAt": "2026-06-30T14:49:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aabbj5h",
-      "title": "Le retour de la 2CV – en version électrique : nostalgie ou solution pour une mobilité plus sobre ?",
-      "summary": "La mythique Citroën 2CV (ici, le modèle Charleston) revient en version électrique. Après la DS, que dit le retour de cette icône française ? Lothar Spurzem/Wikipedia, CC BY La 2CV électrique illustre une recomposition des stratégies automobiles : mobiliser l’héritage pour accompagner la décarbonation. Un cas révélateur",
-      "link": "https://theconversation.com/le-retour-de-la-2cv-en-version-electrique-nostalgie-ou-solution-pour-une-mobilite-plus-sobre-285294",
-      "image": "https://images.theconversation.com/files/744158/original/file-20260625-57-gz1soe.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4156%2C2770&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-06-30T14:48:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     }
   ]
