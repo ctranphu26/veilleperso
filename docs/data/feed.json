@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T18:17:15.289Z",
+  "generatedAt": "2026-07-03T02:52:09.422Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 97,
+      "urgency": 88,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 91,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -165,103 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "arjugd8",
-      "title": "Vietnam’s population hit the 100 million milestone. Where’s it headed?",
-      "summary": "The population of Vietnam reached the 100 million mark in 2023. Fifty years ago, in 1976, when it was reunified as the Socialist Republic of Vietnam, the country had fewer than half as many inhabitants (46 million). A hundred years ago, it had only one sixth as many (16 million) (Figure 1). When we compare the current ",
-      "link": "https://theconversation.com/vietnams-population-hit-the-100-million-milestone-wheres-it-headed-286587",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-02T15:20:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "at1kmkn",
-      "title": "Vous avez des difficultés de concentration ? Voici quelques astuces pour améliorer vos capacités d’attention",
-      "summary": "Si nos capacités de concentration n’ont pas forcément été altérées par les nouvelles technologies, le fait de passer constamment d’une tâche à l’autre altère la qualité de notre attention. FujiCraft/Getty Sollicités en permanence par les notifications de nos ordinateurs ou de nos téléphones, nous avons l’impression que",
-      "link": "https://theconversation.com/vous-avez-des-difficultes-de-concentration-voici-quelques-astuces-pour-ameliorer-vos-capacites-dattention-286278",
-      "image": "https://images.theconversation.com/files/744453/original/file-20260611-57-t2p93.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C2121%2C1414&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-02T15:17:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a1p1s28",
-      "title": "Donner à manger, un geste politique ?",
-      "summary": "*Des Glaneuses* (1857), de Jean-François Millet (1814-1875). Musée d’Orsay, via Wikimedia Commons Du biberon aux cantines, du glanage à l’aide alimentaire, donner à manger, c’est l’acte le plus ordinaire qui soit. Mais à quelles conditions nourrir sans asservir ? Dans quelle mesure l’alimentation peut-elle poser la pre",
-      "link": "https://theconversation.com/donner-a-manger-un-geste-politique-285792",
-      "image": "https://images.theconversation.com/files/743317/original/file-20260622-57-gb4j4w.jpg?ixlib=rb-4.1.0&amp;rect=0%2C57%2C1328%2C885&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-02T15:16:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ao5tedm",
-      "title": "Les 250 ans des États-Unis : comment Trump cherche à s’approprier les Pères fondateurs",
-      "summary": "Le 250e anniversaire de la Déclaration d’indépendance des États-Unis dépasse le cadre d’une simple commémoration. Survenant dans un contexte de forte polarisation politique, il suscite des débats qui illustrent la multiplication des lectures concurrentes de l’histoire. Donald Trump, comme ses opposants, cherche ainsi à",
-      "link": "https://theconversation.com/les-250-ans-des-etats-unis-comment-trump-cherche-a-sapproprier-les-peres-fondateurs-286667",
-      "image": "https://counter.theconversation.com/content/286667/count.gif",
-      "publishedAt": "2026-07-02T15:16:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aymhm4z",
-      "title": "La Sagrada Familia, ou quand les microfossiles inspirent l’architecture",
-      "summary": "Vue de l’intérieur de la Sagrada Familia. La coupole s’appuie sur des piliers comme des segments de radiolaires se prolongent par des épines. CD_Photosaddict/Pixabay, CC BY-SA Au-delà du sport, le Tour de France donne aussi l’occasion de (re)découvrir nos paysages et parfois leurs bizarreries géologiques. La toute prem",
-      "link": "https://theconversation.com/la-sagrada-familia-ou-quand-les-microfossiles-inspirent-larchitecture-286394",
-      "image": "https://images.theconversation.com/files/744846/original/file-20260629-57-5cg3o.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1278%2C852&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-02T15:11:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "avw10q0",
-      "title": "Comment mes recherches sur l’amitié m’ont aidée à comprendre ma propre solitude",
-      "summary": "De plus en plus de personnes déclarent se sentir seules, y compris lorsqu’elles sont entourées. Piotr Arnoldes/Pexels, CC BY Nous accordons souvent la priorité au couple, à la famille et au travail, reléguant l’amitié au second plan. Pourtant, à mesure que les liens sociaux s’effritent, l’amitié apparaît comme une ress",
-      "link": "https://theconversation.com/comment-mes-recherches-sur-lamitie-mont-aidee-a-comprendre-ma-propre-solitude-285859",
-      "image": "https://images.theconversation.com/files/743283/original/file-20260501-71-rdep2e.jpg?ixlib=rb-4.1.0&amp;rect=0%2C1%2C7112%2C4741&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-02T15:09:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -280,8 +184,104 @@
       ],
       "relevance": 100,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "arjugd8",
+      "title": "Vietnam’s population hit the 100 million milestone. Where’s it headed?",
+      "summary": "The population of Vietnam reached the 100 million mark in 2023. Fifty years ago, in 1976, when it was reunified as the Socialist Republic of Vietnam, the country had fewer than half as many inhabitants (46 million). A hundred years ago, it had only one sixth as many (16 million) (Figure 1). When we compare the current ",
+      "link": "https://theconversation.com/vietnams-population-hit-the-100-million-milestone-wheres-it-headed-286587",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-07-02T15:20:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "at1kmkn",
+      "title": "Vous avez des difficultés de concentration ? Voici quelques astuces pour améliorer vos capacités d’attention",
+      "summary": "Si nos capacités de concentration n’ont pas forcément été altérées par les nouvelles technologies, le fait de passer constamment d’une tâche à l’autre altère la qualité de notre attention. FujiCraft/Getty Sollicités en permanence par les notifications de nos ordinateurs ou de nos téléphones, nous avons l’impression que",
+      "link": "https://theconversation.com/vous-avez-des-difficultes-de-concentration-voici-quelques-astuces-pour-ameliorer-vos-capacites-dattention-286278",
+      "image": "https://images.theconversation.com/files/744453/original/file-20260611-57-t2p93.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C2121%2C1414&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-02T15:17:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a1p1s28",
+      "title": "Donner à manger, un geste politique ?",
+      "summary": "*Des Glaneuses* (1857), de Jean-François Millet (1814-1875). Musée d’Orsay, via Wikimedia Commons Du biberon aux cantines, du glanage à l’aide alimentaire, donner à manger, c’est l’acte le plus ordinaire qui soit. Mais à quelles conditions nourrir sans asservir ? Dans quelle mesure l’alimentation peut-elle poser la pre",
+      "link": "https://theconversation.com/donner-a-manger-un-geste-politique-285792",
+      "image": "https://images.theconversation.com/files/743317/original/file-20260622-57-gb4j4w.jpg?ixlib=rb-4.1.0&amp;rect=0%2C57%2C1328%2C885&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-02T15:16:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ao5tedm",
+      "title": "Les 250 ans des États-Unis : comment Trump cherche à s’approprier les Pères fondateurs",
+      "summary": "Le 250e anniversaire de la Déclaration d’indépendance des États-Unis dépasse le cadre d’une simple commémoration. Survenant dans un contexte de forte polarisation politique, il suscite des débats qui illustrent la multiplication des lectures concurrentes de l’histoire. Donald Trump, comme ses opposants, cherche ainsi à",
+      "link": "https://theconversation.com/les-250-ans-des-etats-unis-comment-trump-cherche-a-sapproprier-les-peres-fondateurs-286667",
+      "image": "https://counter.theconversation.com/content/286667/count.gif",
+      "publishedAt": "2026-07-02T15:16:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aymhm4z",
+      "title": "La Sagrada Familia, ou quand les microfossiles inspirent l’architecture",
+      "summary": "Vue de l’intérieur de la Sagrada Familia. La coupole s’appuie sur des piliers comme des segments de radiolaires se prolongent par des épines. CD_Photosaddict/Pixabay, CC BY-SA Au-delà du sport, le Tour de France donne aussi l’occasion de (re)découvrir nos paysages et parfois leurs bizarreries géologiques. La toute prem",
+      "link": "https://theconversation.com/la-sagrada-familia-ou-quand-les-microfossiles-inspirent-larchitecture-286394",
+      "image": "https://images.theconversation.com/files/744846/original/file-20260629-57-5cg3o.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1278%2C852&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-02T15:11:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avw10q0",
+      "title": "Comment mes recherches sur l’amitié m’ont aidée à comprendre ma propre solitude",
+      "summary": "De plus en plus de personnes déclarent se sentir seules, y compris lorsqu’elles sont entourées. Piotr Arnoldes/Pexels, CC BY Nous accordons souvent la priorité au couple, à la famille et au travail, reléguant l’amitié au second plan. Pourtant, à mesure que les liens sociaux s’effritent, l’amitié apparaît comme une ress",
+      "link": "https://theconversation.com/comment-mes-recherches-sur-lamitie-mont-aidee-a-comprendre-ma-propre-solitude-285859",
+      "image": "https://images.theconversation.com/files/743283/original/file-20260501-71-rdep2e.jpg?ixlib=rb-4.1.0&amp;rect=0%2C1%2C7112%2C4741&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-02T15:09:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a37r35t",
@@ -300,8 +300,8 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apps2h1",
@@ -318,8 +318,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahcnlbu",
@@ -336,8 +336,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a51db17",
@@ -352,7 +352,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -368,7 +368,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -384,7 +384,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -403,109 +403,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "akyg0pl",
-      "title": "2030 : l’école française est-elle prête pour le monde qui vient ?",
-      "summary": "À l’horizon de 2030, souvent présenté comme un point de bascule pour nos sociétés, une question s’impose avec force : notre système éducatif est-il en capacité de préparer les jeunes L’article 2030 : l’école française est-elle prête pour le monde qui vient ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/02/2030-lecole-francaise-est-elle-prete-pour-le-monde-qui-vient/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/tribune-300x124.png",
-      "publishedAt": "2026-07-02T03:40:03.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3w4p3l",
-      "title": "Parlez les langues autrement : des ateliers gratuits à la BPI cet été",
-      "summary": "La Bibliothèque publique d’information propose en juillet des ateliers gratuits de conversation en Anglais, en Espagnol, en Portugais, en Chinois, en Italien. Ces ateliers d’1h sont animés par des locuteurs L’article Parlez les langues autrement : des ateliers gratuits à la BPI cet été est apparu en premier sur Le Café",
-      "link": "https://www.cafepedagogique.net/2026/07/02/parlez-les-langues-autrement-des-ateliers-gratuits-a-la-bpi-cet-ete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/BPI-300x169.jpg",
-      "publishedAt": "2026-07-02T03:28:24.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arc5hoy",
-      "title": "Soutenez le Café et recevez ce livre en cadeau !",
-      "summary": "Le Café pédagogique vous offre cet ouvrage pour toute adhésion à l’association éditrice du Café pédagogique. Soutenez le Café pédagogique et recevez chez vous gratuitement le livre L’Ecole face à L’article Soutenez le Café et recevez ce livre en cadeau ! est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/02/offre-speciale-soutenez-le-cafe-et-recevez-ce-livre-en-cadeau-13/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Couverture-Livre-ESF-1-200x300.jpg",
-      "publishedAt": "2026-07-02T03:27:18.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am03qrg",
-      "title": "Maths au DNB 2026 : des automatismes évalués, mais où est passé le raisonnement ?",
-      "summary": "Le sujet de DNB 2026 en mathématiques était attendu : pour la première fois, il contient une première partie d’automatismes. Notée sur 6 points sur 20, d’une durée de 20 L’article Maths au DNB 2026 : des automatismes évalués, mais où est passé le raisonnement ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/02/dnb-2026-des-automatismes-evalues-mais-ou-est-passe-le-raisonnement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/Photo-le-10-09-2025-a-14.38-300x260.jpeg",
-      "publishedAt": "2026-07-02T03:50:09.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "av9ojf",
-      "title": "Avant les vacances, 1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique !",
-      "summary": "Pour poursuivre ses publications quotidiennes, le Café pédagogique a besoin de votre aide. Voici plusieurs façons pour aider votre média indépendant : Abonnement de soutien à 5 euros par mois L’article Avant les vacances, 1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique ! est apparu en premier s",
-      "link": "https://www.cafepedagogique.net/2026/07/02/et-si-vous-vous-engagiez-pour-un-media-qui-soutient-lecole/",
-      "image": "https://cafepedagogique.net/wp-content/uploads/2025/05/Soutenir-le-cafe-pedagogique-300x200.jpg",
-      "publishedAt": "2026-07-02T03:30:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "af3msky",
-      "title": "Sujets du brevet aux Antilles et à la Guyane",
-      "summary": "Découvrez les sujets du DNB 2026 pour les Antilles et la Guyane Série générale Dictée Grammaire Rédaction Dictée aménagée Histoire-géographie-EMC Sciences Mathématiques Série professionnelle Dictée Grammaire Rédaction Dictée L’article Sujets du brevet aux Antilles et à la Guyane est apparu en premier sur Le Café pédago",
-      "link": "https://www.cafepedagogique.net/2026/07/02/sujets-du-brevet-aux-antilles-et-la-guyane/",
-      "image": null,
-      "publishedAt": "2026-07-02T03:28:35.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 40,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -523,23 +421,109 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "a62kgld",
-      "title": "Décapitaliser le savoir scientifique et le rendre accessible à tous : des solutions existent",
-      "summary": "À quand un accès libre et gratuit au savoir ? (En photo, la tour de livres de la bibliothèque Městská knihovna à Prague, République tchèque.) Lysander Yuen/Unsplash, CC BY Publier et accéder à des articles scientifiques coûte très cher aux organismes de recherche. L’accès ouvert est-il la solution parfaite ? Découvrez ",
-      "link": "https://theconversation.com/decapitaliser-le-savoir-scientifique-et-le-rendre-accessible-a-tous-des-solutions-existent-283930",
-      "image": "https://images.theconversation.com/files/745033/original/file-20260630-77-5p4ugw.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4207%2C2804&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-01T15:25:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "am03qrg",
+      "title": "Maths au DNB 2026 : des automatismes évalués, mais où est passé le raisonnement ?",
+      "summary": "Le sujet de DNB 2026 en mathématiques était attendu : pour la première fois, il contient une première partie d’automatismes. Notée sur 6 points sur 20, d’une durée de 20 L’article Maths au DNB 2026 : des automatismes évalués, mais où est passé le raisonnement ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/02/dnb-2026-des-automatismes-evalues-mais-ou-est-passe-le-raisonnement/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/Photo-le-10-09-2025-a-14.38-300x260.jpeg",
+      "publishedAt": "2026-07-02T03:50:09.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "akyg0pl",
+      "title": "2030 : l’école française est-elle prête pour le monde qui vient ?",
+      "summary": "À l’horizon de 2030, souvent présenté comme un point de bascule pour nos sociétés, une question s’impose avec force : notre système éducatif est-il en capacité de préparer les jeunes L’article 2030 : l’école française est-elle prête pour le monde qui vient ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/02/2030-lecole-francaise-est-elle-prete-pour-le-monde-qui-vient/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/tribune-300x124.png",
+      "publishedAt": "2026-07-02T03:40:03.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3w4p3l",
+      "title": "Parlez les langues autrement : des ateliers gratuits à la BPI cet été",
+      "summary": "La Bibliothèque publique d’information propose en juillet des ateliers gratuits de conversation en Anglais, en Espagnol, en Portugais, en Chinois, en Italien. Ces ateliers d’1h sont animés par des locuteurs L’article Parlez les langues autrement : des ateliers gratuits à la BPI cet été est apparu en premier sur Le Café",
+      "link": "https://www.cafepedagogique.net/2026/07/02/parlez-les-langues-autrement-des-ateliers-gratuits-a-la-bpi-cet-ete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/BPI-300x169.jpg",
+      "publishedAt": "2026-07-02T03:28:24.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "arc5hoy",
+      "title": "Soutenez le Café et recevez ce livre en cadeau !",
+      "summary": "Le Café pédagogique vous offre cet ouvrage pour toute adhésion à l’association éditrice du Café pédagogique. Soutenez le Café pédagogique et recevez chez vous gratuitement le livre L’Ecole face à L’article Soutenez le Café et recevez ce livre en cadeau ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/02/offre-speciale-soutenez-le-cafe-et-recevez-ce-livre-en-cadeau-13/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Couverture-Livre-ESF-1-200x300.jpg",
+      "publishedAt": "2026-07-02T03:27:18.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "av9ojf",
+      "title": "Avant les vacances, 1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique !",
+      "summary": "Pour poursuivre ses publications quotidiennes, le Café pédagogique a besoin de votre aide. Voici plusieurs façons pour aider votre média indépendant : Abonnement de soutien à 5 euros par mois L’article Avant les vacances, 1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique ! est apparu en premier s",
+      "link": "https://www.cafepedagogique.net/2026/07/02/et-si-vous-vous-engagiez-pour-un-media-qui-soutient-lecole/",
+      "image": "https://cafepedagogique.net/wp-content/uploads/2025/05/Soutenir-le-cafe-pedagogique-300x200.jpg",
+      "publishedAt": "2026-07-02T03:30:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "af3msky",
+      "title": "Sujets du brevet aux Antilles et à la Guyane",
+      "summary": "Découvrez les sujets du DNB 2026 pour les Antilles et la Guyane Série générale Dictée Grammaire Rédaction Dictée aménagée Histoire-géographie-EMC Sciences Mathématiques Série professionnelle Dictée Grammaire Rédaction Dictée L’article Sujets du brevet aux Antilles et à la Guyane est apparu en premier sur Le Café pédago",
+      "link": "https://www.cafepedagogique.net/2026/07/02/sujets-du-brevet-aux-antilles-et-la-guyane/",
+      "image": null,
+      "publishedAt": "2026-07-02T03:28:35.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 40,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -557,7 +541,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -576,7 +560,23 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a62kgld",
+      "title": "Décapitaliser le savoir scientifique et le rendre accessible à tous : des solutions existent",
+      "summary": "À quand un accès libre et gratuit au savoir ? (En photo, la tour de livres de la bibliothèque Městská knihovna à Prague, République tchèque.) Lysander Yuen/Unsplash, CC BY Publier et accéder à des articles scientifiques coûte très cher aux organismes de recherche. L’accès ouvert est-il la solution parfaite ? Découvrez ",
+      "link": "https://theconversation.com/decapitaliser-le-savoir-scientifique-et-le-rendre-accessible-a-tous-des-solutions-existent-283930",
+      "image": "https://images.theconversation.com/files/745033/original/file-20260630-77-5p4ugw.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4207%2C2804&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-01T15:25:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -592,7 +592,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -608,7 +608,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -624,7 +624,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -640,7 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -656,7 +656,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -708,7 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     }
   ]
