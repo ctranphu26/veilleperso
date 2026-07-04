@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T19:20:21.942Z",
+  "generatedAt": "2026-07-04T02:48:35.672Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,57 +133,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ab74ljt",
-      "title": "Influenceurs virtuels : quand la médiation de l’information échappe à l’humain",
-      "summary": "Sur l’écran, ils ont tout pour eux. Disponibles, moins coûteux et contrôlables par définition, les avatars virtuels pourraient être des influenceurs parfaits pour les marques sauf que… les humains font spontanément davantage confiance à l’un des leurs. Jusqu’à quand ? Les créateurs de contenu sont omniprésents dans le ",
-      "link": "https://theconversation.com/influenceurs-virtuels-quand-la-mediation-de-linformation-echappe-a-lhumain-284757",
-      "image": "https://counter.theconversation.com/content/284757/count.gif",
-      "publishedAt": "2026-07-03T14:32:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ar2pds9",
-      "title": "Zimbabwe, Venezuela, Philippines : les banques centrales aussi peuvent faire faillite !",
-      "summary": "Une banque centrale a un pouvoir de seigneuriage, hérité du Moyen Âge. Elle peut créer de façon illimitée de la monnaie. Alors comment est-il possible qu’elle puisse faire faillite ? Explication avec les cas du Zimbabwe, du Venezuela et des Philippines. Une banque centrale ne pourrait pas faire faillite, car elle dispo",
-      "link": "https://theconversation.com/zimbabwe-venezuela-philippines-les-banques-centrales-aussi-peuvent-faire-faillite-283182",
-      "image": "https://images.theconversation.com/files/743376/original/file-20260622-57-6m838b.JPG?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-03T14:33:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aaslxyb",
-      "title": "Quand Hollywood a changé d’ennemi : comment les films de la guerre froide ont transformé les Allemands en alliés",
-      "summary": "Marlene Dietrich dans *A Foreign Affair* (*La Scandaleuse de Berlin*, 1948), de Billy Wilder. Arte Alors que les menaces de retour de la guerre en Europe de l’Ouest remet au premier plan l’antagonisme « ennemis / alliés », l’histoire montre que ces catégories ne sont jamais figées. Après 1945, Hollywood participe à cet",
-      "link": "https://theconversation.com/quand-hollywood-a-change-dennemi-comment-les-films-de-la-guerre-froide-ont-transforme-les-allemands-en-allies-285212",
-      "image": "https://images.theconversation.com/files/743887/original/file-20260624-85-jnh3pa.jpg?ixlib=rb-4.1.0&amp;rect=0%2C61%2C1772%2C1181&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-03T14:32:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -202,8 +152,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajwu9jj",
@@ -220,8 +170,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a83kzx4",
@@ -238,8 +188,58 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ab74ljt",
+      "title": "Influenceurs virtuels : quand la médiation de l’information échappe à l’humain",
+      "summary": "Sur l’écran, ils ont tout pour eux. Disponibles, moins coûteux et contrôlables par définition, les avatars virtuels pourraient être des influenceurs parfaits pour les marques sauf que… les humains font spontanément davantage confiance à l’un des leurs. Jusqu’à quand ? Les créateurs de contenu sont omniprésents dans le ",
+      "link": "https://theconversation.com/influenceurs-virtuels-quand-la-mediation-de-linformation-echappe-a-lhumain-284757",
+      "image": "https://counter.theconversation.com/content/284757/count.gif",
+      "publishedAt": "2026-07-03T14:32:48.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ar2pds9",
+      "title": "Zimbabwe, Venezuela, Philippines : les banques centrales aussi peuvent faire faillite !",
+      "summary": "Une banque centrale a un pouvoir de seigneuriage, hérité du Moyen Âge. Elle peut créer de façon illimitée de la monnaie. Alors comment est-il possible qu’elle puisse faire faillite ? Explication avec les cas du Zimbabwe, du Venezuela et des Philippines. Une banque centrale ne pourrait pas faire faillite, car elle dispo",
+      "link": "https://theconversation.com/zimbabwe-venezuela-philippines-les-banques-centrales-aussi-peuvent-faire-faillite-283182",
+      "image": "https://images.theconversation.com/files/743376/original/file-20260622-57-6m838b.JPG?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-03T14:33:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aaslxyb",
+      "title": "Quand Hollywood a changé d’ennemi : comment les films de la guerre froide ont transformé les Allemands en alliés",
+      "summary": "Marlene Dietrich dans *A Foreign Affair* (*La Scandaleuse de Berlin*, 1948), de Billy Wilder. Arte Alors que les menaces de retour de la guerre en Europe de l’Ouest remet au premier plan l’antagonisme « ennemis / alliés », l’histoire montre que ces catégories ne sont jamais figées. Après 1945, Hollywood participe à cet",
+      "link": "https://theconversation.com/quand-hollywood-a-change-dennemi-comment-les-films-de-la-guerre-froide-ont-transforme-les-allemands-en-allies-285212",
+      "image": "https://images.theconversation.com/files/743887/original/file-20260624-85-jnh3pa.jpg?ixlib=rb-4.1.0&amp;rect=0%2C61%2C1772%2C1181&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-03T14:32:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am6en3a",
@@ -254,8 +254,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amx8z83",
@@ -270,8 +270,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aaqr1xf",
@@ -286,42 +286,6 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6wb3t7",
-      "title": "Des ressources documentaires pour aborder la panthéonisation",
-      "summary": "A l’occasion de l’entrée au Panthéon, pour la première fois, d’un historien français et de sa femme, de nombreuses ressources ont été produites au cours de l’année 2025-2026 pour permettre L’article Des ressources documentaires pour aborder la panthéonisation est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/03/des-ressources-documentaires-pour-aborder-la-pantheonisation/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/PHOTO-2026-07-02-12-36-49-241x300.jpg",
-      "publishedAt": "2026-07-03T03:30:09.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 64,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apsmn6w",
-      "title": "Festival des idées : Mettre l’École au cœur de la République",
-      "summary": "Allez, pour fêter les vacances, si on se demandait comment remettre l’Ecole au cœur de la République et d’un projet progressiste et émancipateur ? Ce sera le thème d’une table-ronde L’article Festival des idées : Mettre l’École au cœur de la République est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/03/festival-des-idees-mettre-lecole-au-coeur-de-la-republique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/festival.jpeg",
-      "publishedAt": "2026-07-03T03:27:59.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
       "urgency": 64,
       "urgencyLevel": "moyenne"
     },
@@ -340,7 +304,59 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 64,
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a9rxh0l",
+      "title": "Ce que signifie vraiment « aimer son travail » – et quand cet amour peut devenir un problème",
+      "summary": "De nouvelles recherches outre-Atlantique explorent la psychologie qui sous-tend « l’amour du travail » et ses implications pour les entreprises. Que signifie aimer son travail ? Le champ lexical de l’amour revient souvent dans les débats lorsqu’on parle du monde du travail. Les gens disent vouloir aimer leur travail ; ",
+      "link": "https://theconversation.com/ce-que-signifie-vraiment-aimer-son-travail-et-quand-cet-amour-peut-devenir-un-probleme-281899",
+      "image": "https://counter.theconversation.com/content/281899/count.gif",
+      "publishedAt": "2026-07-02T15:12:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6wb3t7",
+      "title": "Des ressources documentaires pour aborder la panthéonisation",
+      "summary": "A l’occasion de l’entrée au Panthéon, pour la première fois, d’un historien français et de sa femme, de nombreuses ressources ont été produites au cours de l’année 2025-2026 pour permettre L’article Des ressources documentaires pour aborder la panthéonisation est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/03/des-ressources-documentaires-pour-aborder-la-pantheonisation/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/PHOTO-2026-07-02-12-36-49-241x300.jpg",
+      "publishedAt": "2026-07-03T03:30:09.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apsmn6w",
+      "title": "Festival des idées : Mettre l’École au cœur de la République",
+      "summary": "Allez, pour fêter les vacances, si on se demandait comment remettre l’Ecole au cœur de la République et d’un projet progressiste et émancipateur ? Ce sera le thème d’une table-ronde L’article Festival des idées : Mettre l’École au cœur de la République est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/03/festival-des-idees-mettre-lecole-au-coeur-de-la-republique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/festival.jpeg",
+      "publishedAt": "2026-07-03T03:27:59.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,7 +375,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -377,23 +393,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9rxh0l",
-      "title": "Ce que signifie vraiment « aimer son travail » – et quand cet amour peut devenir un problème",
-      "summary": "De nouvelles recherches outre-Atlantique explorent la psychologie qui sous-tend « l’amour du travail » et ses implications pour les entreprises. Que signifie aimer son travail ? Le champ lexical de l’amour revient souvent dans les débats lorsqu’on parle du monde du travail. Les gens disent vouloir aimer leur travail ; ",
-      "link": "https://theconversation.com/ce-que-signifie-vraiment-aimer-son-travail-et-quand-cet-amour-peut-devenir-un-probleme-281899",
-      "image": "https://counter.theconversation.com/content/281899/count.gif",
-      "publishedAt": "2026-07-02T15:12:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +409,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +425,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +441,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +457,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,7 +473,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -489,7 +489,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -505,7 +505,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -523,7 +523,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -541,7 +541,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -557,7 +557,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -573,7 +573,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -589,7 +589,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -607,7 +607,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -626,7 +626,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -642,7 +642,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -658,7 +658,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -674,7 +674,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -690,7 +690,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -706,7 +706,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     }
   ]
