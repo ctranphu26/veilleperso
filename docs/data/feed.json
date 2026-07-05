@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:10:39.664Z",
+  "generatedAt": "2026-07-05T03:18:20.394Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,38 @@
   "count": 35,
   "items": [
     {
+      "id": "aucvlsi",
+      "title": "Les tours Saint-Jacques, un prodige d’équilibre au cœur des Alpes",
+      "summary": "Les tours Saint-Jacques, vues depuis le pont de l’Abîme. Pierre Reneau, Fourni par l'auteur Au-delà du sport, le Tour de France donne aussi l’occasion de (re)découvrir nos paysages et parfois leurs bizarreries géologiques. L’itinéraire de la 17ᵉ étape, le 23 juillet, entre Chambéry en Savoie et Voiron dans l’Isère, fai",
+      "link": "https://theconversation.com/les-tours-saint-jacques-un-prodige-dequilibre-au-coeur-des-alpes-284259",
+      "image": "https://images.theconversation.com/files/740701/original/file-20260609-57-cw1yop.jpg?ixlib=rb-4.1.0&amp;rect=0%2C107%2C2592%2C1728&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-04T21:55:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atrio8h",
+      "title": "Fées, lutins et extraterrestres, comment le pic de Bugarach a donné vie aux mythes les plus fous",
+      "summary": "Lumière sur le pic de Bugarach, dans le sud du département de l’Aude. ©Vassil/CC0, CC BY-NC-ND Au-delà du sport, le Tour de France donne aussi l’occasion de (re)découvrir nos paysages et parfois leurs bizarreries géologiques. L’itinéraire de la quatrième étape, le 7 juillet, entre Carcassone et Foix, fait passer les co",
+      "link": "https://theconversation.com/fees-lutins-et-extraterrestres-comment-le-pic-de-bugarach-a-donne-vie-aux-mythes-les-plus-fous-284258",
+      "image": "https://images.theconversation.com/files/744153/original/file-20260625-71-9djv7f.jpg?ixlib=rb-4.1.0&amp;rect=16%2C0%2C4894%2C3262&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-04T21:54:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ay09y4h",
       "title": "Comment une minuscule île des Caraïbes a rendu possible l'indépendance des États-Unis",
       "summary": "Le 16 novembre 1776, le « Andrew Doria », venu des jeunes États-Unis, fut salué par un coup de canon tiré depuis Saint-Eustache. Cet événement est aujourd'hui connu sous le nom de « premier salut ». (tableau de Phillips Melville) Painting by Phillips Melville, USMC via Wikimedia Commons Au XVIIIᵉ siècle, Saint-Eustache",
@@ -131,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +181,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "af3lc49",
@@ -167,7 +199,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -185,7 +217,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -204,7 +236,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -222,7 +254,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -238,7 +270,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -254,7 +286,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +302,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -288,7 +320,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 53,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +352,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +368,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +386,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -372,7 +404,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -390,7 +422,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +441,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +459,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -443,7 +475,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -507,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -523,7 +555,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -539,25 +571,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ad8s6d7",
-      "title": "Lithium et rubidium : et si l’Europe s’approvisionnait en métaux stratégiques dans la vallée du Rhin ?",
-      "summary": "Le sous-sol du Fossé rhénan pourrait devenir une ressource stratégique majeure pour l’Europe. Une étude récente chiffre le potentiel en lithium et en rubidium de la région, qui est très prometteur. Et cela d’autant plus que ces éléments se trouvent dans des eaux chaudes très salées du sous-sol, déjà exploitées en géoth",
-      "link": "https://theconversation.com/lithium-et-rubidium-et-si-leurope-sapprovisionnait-en-metaux-strategiques-dans-la-vallee-du-rhin-285624",
-      "image": "https://images.theconversation.com/files/744789/original/file-20260629-57-nd484x.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-01T15:20:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -575,7 +589,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +605,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -607,7 +621,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -623,25 +637,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agzvhyb",
-      "title": "La formation des travailleurs indépendants en free-lance, angle mort des ressources humaines",
-      "summary": "Les travailleurs indépendants sont en grande majorité des auto-entrepreneurs. Oleksandr Pidvalnyi (no reuse), CC BY Si les travailleurs indépendants sont de plus en plus nombreux en France, les entreprises qui font appel à eux ont souvent tendance à se désintéresser de leur formation. Les free-lances seraient-ils les s",
-      "link": "https://theconversation.com/la-formation-des-travailleurs-independants-en-free-lance-angle-mort-des-ressources-humaines-280940",
-      "image": "https://images.theconversation.com/files/735611/original/file-20260513-57-xchxfg.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-01T15:19:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 27,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -660,7 +656,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +672,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +688,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +704,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
