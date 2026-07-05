@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T13:36:30.525Z",
+  "generatedAt": "2026-07-05T19:16:20.576Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -149,55 +149,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a338cdw",
-      "title": "Sommes-nous prêts à faire confiance à l’IA pour organiser nos vacances ?",
-      "summary": "« Je vais passer une semaine à Rome en amoureux, trouve-moi cinq hôtels romantiques en centre-ville. » Faites-vous confiance aux IA génératives pour vous aider à organiser vos vacances ? Une nouvelle étude montre les points de résistance à l’utilisation de ces nouvelles technologies. Les outils d’intelligence artificie",
-      "link": "https://theconversation.com/sommes-nous-prets-a-faire-confiance-a-lia-pour-organiser-nos-vacances-285415",
-      "image": "https://counter.theconversation.com/content/285415/count.gif",
-      "publishedAt": "2026-07-05T09:35:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "alzxohd",
-      "title": "Percer les secrets de la stratosphère grâce à un ballon qui surfe sur différentes couches de vent",
-      "summary": "Gonflage du ballon manœuvrant Balman, à Kourou, en Guyane, en 2024. ESA-CNES-Arianespace, Fourni par l'auteur Et si les clés de notre climat se trouvaient à plusieurs dizaines de kilomètres au-dessus de nos têtes ? La stratosphère, parfois considérée comme une simple couche de l’atmosphère, a un impact décisif sur nos ",
-      "link": "https://theconversation.com/percer-les-secrets-de-la-stratosphere-grace-a-un-ballon-qui-surfe-sur-differentes-couches-de-vent-282660",
-      "image": "https://images.theconversation.com/files/741265/original/file-20260611-57-dvk51n.jpg?ixlib=rb-4.1.0&amp;rect=0%2C49%2C1075%2C716&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-05T09:34:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a2fnnz1",
-      "title": "Mobiliser la justice face aux épidémies : en Italie, six ans après le covid, le succès d’une association de parents de victimes",
-      "summary": "L’essentiel En France notamment, dans les années 1990, les mobilisations associatives en contexte de pandémie de VIH ont eu pour effet le développement de la « démocratie sanitaire ». Six ans après le covid, une recherche en anthropologie auprès d’une association de parents de victimes du covid à Bergame en Italie, là ",
-      "link": "https://theconversation.com/mobiliser-la-justice-face-aux-epidemies-en-italie-six-ans-apres-le-covid-le-succes-dune-association-de-parents-de-victimes-286181",
-      "image": "https://counter.theconversation.com/content/286181/count.gif",
-      "publishedAt": "2026-07-05T09:33:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -215,7 +167,55 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a338cdw",
+      "title": "Sommes-nous prêts à faire confiance à l’IA pour organiser nos vacances ?",
+      "summary": "« Je vais passer une semaine à Rome en amoureux, trouve-moi cinq hôtels romantiques en centre-ville. » Faites-vous confiance aux IA génératives pour vous aider à organiser vos vacances ? Une nouvelle étude montre les points de résistance à l’utilisation de ces nouvelles technologies. Les outils d’intelligence artificie",
+      "link": "https://theconversation.com/sommes-nous-prets-a-faire-confiance-a-lia-pour-organiser-nos-vacances-285415",
+      "image": "https://counter.theconversation.com/content/285415/count.gif",
+      "publishedAt": "2026-07-05T09:35:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "alzxohd",
+      "title": "Percer les secrets de la stratosphère grâce à un ballon qui surfe sur différentes couches de vent",
+      "summary": "Gonflage du ballon manœuvrant Balman, à Kourou, en Guyane, en 2024. ESA-CNES-Arianespace, Fourni par l'auteur Et si les clés de notre climat se trouvaient à plusieurs dizaines de kilomètres au-dessus de nos têtes ? La stratosphère, parfois considérée comme une simple couche de l’atmosphère, a un impact décisif sur nos ",
+      "link": "https://theconversation.com/percer-les-secrets-de-la-stratosphere-grace-a-un-ballon-qui-surfe-sur-differentes-couches-de-vent-282660",
+      "image": "https://images.theconversation.com/files/741265/original/file-20260611-57-dvk51n.jpg?ixlib=rb-4.1.0&amp;rect=0%2C49%2C1075%2C716&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-05T09:34:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2fnnz1",
+      "title": "Mobiliser la justice face aux épidémies : en Italie, six ans après le covid, le succès d’une association de parents de victimes",
+      "summary": "L’essentiel En France notamment, dans les années 1990, les mobilisations associatives en contexte de pandémie de VIH ont eu pour effet le développement de la « démocratie sanitaire ». Six ans après le covid, une recherche en anthropologie auprès d’une association de parents de victimes du covid à Bergame en Italie, là ",
+      "link": "https://theconversation.com/mobiliser-la-justice-face-aux-epidemies-en-italie-six-ans-apres-le-covid-le-succes-dune-association-de-parents-de-victimes-286181",
+      "image": "https://counter.theconversation.com/content/286181/count.gif",
+      "publishedAt": "2026-07-05T09:33:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -231,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -247,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +297,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,7 +315,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,7 +333,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +349,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -368,7 +368,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -386,7 +386,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,7 +402,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -418,7 +418,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -436,8 +436,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ar2pds9",
@@ -452,8 +452,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aaslxyb",
@@ -468,8 +468,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9rxh0l",
@@ -484,7 +484,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -502,7 +502,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -520,7 +520,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -538,7 +538,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -557,7 +557,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -575,7 +575,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +591,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -607,7 +607,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -623,7 +623,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -639,7 +639,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -655,7 +655,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -671,7 +671,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -687,7 +687,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     }
   ]
