@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T10:18:31.580Z",
+  "generatedAt": "2026-07-06T15:29:51.298Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,40 @@
   "count": 35,
   "items": [
     {
+      "id": "agj1cob",
+      "title": "Le changement climatique menace (aussi) notre patrimoine culturel",
+      "summary": "Les épicéas utilisés pour fabriquer les violons de Stradivarius sont aujourd’hui menacés par la hausse des températures et la prolifération de parasites. Josep Molina Secall/Unsplash, CC BY Lorsque l’on parle du changement climatique, les débats portent le plus souvent sur l’énergie, la biodiversité, les émissions de c",
+      "link": "https://theconversation.com/le-changement-climatique-menace-aussi-notre-patrimoine-culturel-285080",
+      "image": "https://images.theconversation.com/files/743979/original/file-20260624-3928-p7kll1.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C5616%2C3743&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-06T13:44:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajtkzb4",
+      "title": "La sécurité des drones militaires, ou comment protéger ce qui compte (et ce n’est pas toujours le drone lui-même)",
+      "summary": "Sur les théâtres d’opération militaire, les drones évoluent dans un environnement hostile où ils doivent avant tout protéger les troupes qu’ils accompagnent. Pour mener à bien cette mission, ils déploient des stratégies qui leur offrent une certaine résilience, le but n’étant finalement pas de les protéger pour eux-mêm",
+      "link": "https://theconversation.com/la-securite-des-drones-militaires-ou-comment-proteger-ce-qui-compte-et-ce-nest-pas-toujours-le-drone-lui-meme-286221",
+      "image": "https://counter.theconversation.com/content/286221/count.gif",
+      "publishedAt": "2026-07-06T13:47:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "af54bsp",
       "title": "La formation ne suffit pas à garantir une reconversion des femmes sorties de l’emploi dans l’univers du numérique",
       "summary": "Les femmes restent très sous-représentées dans l’univers du numérique, malgré la multiplication de dispositifs de formation. Comment l’expliquer ? Comment lever les freins ? L’inclusion des femmes et, notamment, des femmes sorties de l’emploi dans le secteur du numérique est cruciale pour développer des technologies pl",
@@ -133,7 +167,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 89,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +183,142 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 83,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a92esh2",
+      "title": "Qu’est-ce que « l’affichage parental d’images de mineurs » ?",
+      "summary": "Les enfants ont aussi une vie privée. Partager des photos d’eux sans leur consentement sur les réseaux sociaux va à l’encontre de leurs droits. Le nouveau terme d’« affichage parental d’images de mineurs » invite à interroger cette pratique de plus en plus courante dans un monde numérique. Poster la photo du premier jo",
+      "link": "https://theconversation.com/quest-ce-que-laffichage-parental-dimages-de-mineurs-286722",
+      "image": "https://counter.theconversation.com/content/286722/count.gif",
+      "publishedAt": "2026-07-06T13:44:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux",
+        "image"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aevsmb7",
+      "title": "Influenceur sur TikTok, président sur Facebook : la nouvelle stratégie de Jordan Bardella",
+      "summary": "Si Jordan Bardella est très actif sur les réseaux sociaux préférés de la génération Z, tels que TikTok, YouTube et Instagram, il investit aussi désormais beaucoup de temps sur Facebook. De janvier à mars 2026, les publications du président du Rassemblement national sur ce réseau social ont augmenté de 90 % par rapport ",
+      "link": "https://theconversation.com/influenceur-sur-tiktok-president-sur-facebook-la-nouvelle-strategie-de-jordan-bardella-282575",
+      "image": "https://images.theconversation.com/files/737876/original/file-20260525-57-kae4zq.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-07-06T13:46:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5zsffx",
+      "title": "Pourquoi les entreprises doivent parfois apprendre à « échouer vite »",
+      "summary": "Comment réussir à échouer ? Rater n’est pas difficile, mais un échec réussi n’est pas si simple à atteindre. C’est une question de compétences disponibles et de préparation : bien échouer ne s’improvise pas. Mais aussi, et peut-être surtout, une question de timing. Dans les entreprises, certaines idées, longtemps après",
+      "link": "https://theconversation.com/pourquoi-les-entreprises-doivent-parfois-apprendre-a-echouer-vite-284737",
+      "image": "https://counter.theconversation.com/content/284737/count.gif",
+      "publishedAt": "2026-07-06T13:43:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "compétence"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awm3g3o",
+      "title": "The public isn’t bored with economists, management scholars and sociologists but engaging people has conditions",
+      "summary": "For years, we’ve been told a familiar story: social scientists such as economists, management scholars, sociologists, talk and the public shrugs. The claim goes that people don’t find our work interesting, that our expertise is fuzzy compared with “hard” sciences, and that journalists and readers will always prefer the",
+      "link": "https://theconversation.com/the-public-isnt-bored-with-economists-management-scholars-and-sociologists-but-engaging-people-has-conditions-279256",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-07-06T13:47:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3tvx1k",
+      "title": "Pourquoi l’Iran ne parviendra pas à instaurer un péage dans le détroit d’Ormuz",
+      "summary": "Téhéran envisage d’instaurer un péage dans le détroit d’Ormuz pour y asseoir son contrôle stratégique, mais son ambition se heurte à un écueil juridique et pratique : le droit international garantit le libre passage dans ces eaux, et cette voie large de près de 40 kilomètres n’a rien d’un canal de Suez étroit et verrou",
+      "link": "https://theconversation.com/pourquoi-liran-ne-parviendra-pas-a-instaurer-un-peage-dans-le-detroit-dormuz-286573",
+      "image": "https://counter.theconversation.com/content/286573/count.gif",
+      "publishedAt": "2026-07-06T13:45:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7so6eb",
+      "title": "Pourquoi est-ce si difficile d’estimer les bénéfices et les coûts du Brexit ?",
+      "summary": "Après le Brexit, en 2020, l’Union européenne a dû affronter la pandémie de Covid-19, le choc des prix de l’énergie des suites de la guerre en Ukraine et de la crise du détroit d’Ormuz. Alors, comment mesurer efficacement les conséquences du Brexit pour les entreprises ? Une étude propose de l’analyser comme un risque à",
+      "link": "https://theconversation.com/pourquoi-est-ce-si-difficile-destimer-les-benefices-et-les-couts-du-brexit-279281",
+      "image": "https://counter.theconversation.com/content/279281/count.gif",
+      "publishedAt": "2026-07-06T13:43:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at70phs",
+      "title": "Sans eau, les forêts arrêtent de capter du CO₂",
+      "summary": "La forêt du mont Ventoux, dans le Vaucluse, en proie à la sécheresse, en 2022. Frédéric Jean, Fourni par l'auteur Pour survivre en période de sécheresse, les arbres stoppent la photosynthèse, une activité très gourmande en eau au cours de laquelle s’échappent, pour chaque molécule de CO₂ absorbée par une feuille d’arbr",
+      "link": "https://theconversation.com/sans-eau-les-forets-arretent-de-capter-du-co-286708",
+      "image": "https://images.theconversation.com/files/745698/original/file-20260702-64-n9h38e.jpg?ixlib=rb-4.1.0&amp;rect=0%2C29%2C1632%2C1088&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-06T13:42:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atbg3oo",
+      "title": "Les 5 expos à voir pendant les vacances d’été",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
+      "publishedAt": "2026-07-06T11:24:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -165,13 +334,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
       "id": "ab105s2",
       "title": "Les 6 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, nous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
       "publishedAt": "2026-07-06T07:26:53.000Z",
@@ -181,7 +350,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -197,7 +366,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +384,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +402,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +418,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +434,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +450,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +466,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +482,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,7 +498,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,43 +514,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajwu9jj",
-      "title": "Abondance, rareté, open source : et si le débat sur l’IA se trompait d’étage ?",
-      "summary": "Trois thèses sur l’IA semblent s’affronter : abondance des contenus, rareté de l’accès, banalisation par l’open source. Elles partagent pourtant un même constat : la valeur se déplace, aujourd’hui, du calcul vers le discernement et le jugement. C’est ce que la formation devra désormais cultiver, et c’est sur ce terrain",
-      "link": "https://theconversation.com/abondance-rarete-open-source-et-si-le-debat-sur-lia-se-trompait-detage-285977",
-      "image": "https://counter.theconversation.com/content/285977/count.gif",
-      "publishedAt": "2026-07-02T15:12:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ag4gwv8",
-      "title": "L’énigme des nombres cachés au cœur de la Sagrada Familia",
-      "summary": "Vue des colonnes intérieures du temple, qui se ramifient progressivement en plusieurs branches, à l'image des arbres dans la nature. David Herraez Calzada/Shutterstock Les mathématiques jouent un rôle dans la beauté de la Sagrada Família. De ses proportions aux formes géométriques, l’édifice de Gaudí montre comment les",
-      "link": "https://theconversation.com/lenigme-des-nombres-caches-au-coeur-de-la-sagrada-familia-286500",
-      "image": "https://images.theconversation.com/files/745168/original/file-20260604-85-o7omkw.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C6033%2C4022&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-04T10:42:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,8 +532,26 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ag4gwv8",
+      "title": "L’énigme des nombres cachés au cœur de la Sagrada Familia",
+      "summary": "Vue des colonnes intérieures du temple, qui se ramifient progressivement en plusieurs branches, à l'image des arbres dans la nature. David Herraez Calzada/Shutterstock Les mathématiques jouent un rôle dans la beauté de la Sagrada Família. De ses proportions aux formes géométriques, l’édifice de Gaudí montre comment les",
+      "link": "https://theconversation.com/lenigme-des-nombres-caches-au-coeur-de-la-sagrada-familia-286500",
+      "image": "https://images.theconversation.com/files/745168/original/file-20260604-85-o7omkw.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C6033%2C4022&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-04T10:42:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ap78oed",
@@ -418,7 +569,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -436,7 +587,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -452,41 +603,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9rxh0l",
-      "title": "Ce que signifie vraiment « aimer son travail » – et quand cet amour peut devenir un problème",
-      "summary": "De nouvelles recherches outre-Atlantique explorent la psychologie qui sous-tend « l’amour du travail » et ses implications pour les entreprises. Que signifie aimer son travail ? Le champ lexical de l’amour revient souvent dans les débats lorsqu’on parle du monde du travail. Les gens disent vouloir aimer leur travail ; ",
-      "link": "https://theconversation.com/ce-que-signifie-vraiment-aimer-son-travail-et-quand-cet-amour-peut-devenir-un-probleme-281899",
-      "image": "https://counter.theconversation.com/content/281899/count.gif",
-      "publishedAt": "2026-07-02T15:12:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ab74ljt",
-      "title": "Influenceurs virtuels : quand la médiation de l’information échappe à l’humain",
-      "summary": "Sur l’écran, ils ont tout pour eux. Disponibles, moins coûteux et contrôlables par définition, les avatars virtuels pourraient être des influenceurs parfaits pour les marques sauf que… les humains font spontanément davantage confiance à l’un des leurs. Jusqu’à quand ? Les créateurs de contenu sont omniprésents dans le ",
-      "link": "https://theconversation.com/influenceurs-virtuels-quand-la-mediation-de-linformation-echappe-a-lhumain-284757",
-      "image": "https://counter.theconversation.com/content/284757/count.gif",
-      "publishedAt": "2026-07-03T14:32:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -502,23 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aaslxyb",
-      "title": "Quand Hollywood a changé d’ennemi : comment les films de la guerre froide ont transformé les Allemands en alliés",
-      "summary": "Marlene Dietrich dans *A Foreign Affair* (*La Scandaleuse de Berlin*, 1948), de Billy Wilder. Arte Alors que les menaces de retour de la guerre en Europe de l’Ouest remet au premier plan l’antagonisme « ennemis / alliés », l’histoire montre que ces catégories ne sont jamais figées. Après 1945, Hollywood participe à cet",
-      "link": "https://theconversation.com/quand-hollywood-a-change-dennemi-comment-les-films-de-la-guerre-froide-ont-transforme-les-allemands-en-allies-285212",
-      "image": "https://images.theconversation.com/files/743887/original/file-20260624-85-jnh3pa.jpg?ixlib=rb-4.1.0&amp;rect=0%2C61%2C1772%2C1181&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-03T14:32:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -536,25 +637,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apsmn6w",
-      "title": "Festival des idées : Mettre l’École au cœur de la République",
-      "summary": "Allez, pour fêter les vacances, si on se demandait comment remettre l’Ecole au cœur de la République et d’un projet progressiste et émancipateur ? Ce sera le thème d’une table-ronde L’article Festival des idées : Mettre l’École au cœur de la République est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/03/festival-des-idees-mettre-lecole-au-coeur-de-la-republique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/festival.jpeg",
-      "publishedAt": "2026-07-03T03:27:59.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -572,7 +655,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +674,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -609,7 +692,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -625,87 +708,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arjugd8",
-      "title": "Vietnam’s population hit the 100 million milestone. Where’s it headed?",
-      "summary": "The population of Vietnam reached the 100 million mark in 2023. Fifty years ago, in 1976, when it was reunified as the Socialist Republic of Vietnam, the country had fewer than half as many inhabitants (46 million). A hundred years ago, it had only one sixth as many (16 million) (Figure 1). When we compare the current ",
-      "link": "https://theconversation.com/vietnams-population-hit-the-100-million-milestone-wheres-it-headed-286587",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-02T15:20:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "at1kmkn",
-      "title": "Vous avez des difficultés de concentration ? Voici quelques astuces pour améliorer vos capacités d’attention",
-      "summary": "Si nos capacités de concentration n’ont pas forcément été altérées par les nouvelles technologies, le fait de passer constamment d’une tâche à l’autre altère la qualité de notre attention. FujiCraft/Getty Sollicités en permanence par les notifications de nos ordinateurs ou de nos téléphones, nous avons l’impression que",
-      "link": "https://theconversation.com/vous-avez-des-difficultes-de-concentration-voici-quelques-astuces-pour-ameliorer-vos-capacites-dattention-286278",
-      "image": "https://images.theconversation.com/files/744453/original/file-20260611-57-t2p93.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C2121%2C1414&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-02T15:17:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1p1s28",
-      "title": "Donner à manger, un geste politique ?",
-      "summary": "*Des Glaneuses* (1857), de Jean-François Millet (1814-1875). Musée d’Orsay, via Wikimedia Commons Du biberon aux cantines, du glanage à l’aide alimentaire, donner à manger, c’est l’acte le plus ordinaire qui soit. Mais à quelles conditions nourrir sans asservir ? Dans quelle mesure l’alimentation peut-elle poser la pre",
-      "link": "https://theconversation.com/donner-a-manger-un-geste-politique-285792",
-      "image": "https://images.theconversation.com/files/743317/original/file-20260622-57-gb4j4w.jpg?ixlib=rb-4.1.0&amp;rect=0%2C57%2C1328%2C885&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-02T15:16:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ao5tedm",
-      "title": "Les 250 ans des États-Unis : comment Trump cherche à s’approprier les Pères fondateurs",
-      "summary": "Le 250e anniversaire de la Déclaration d’indépendance des États-Unis dépasse le cadre d’une simple commémoration. Survenant dans un contexte de forte polarisation politique, il suscite des débats qui illustrent la multiplication des lectures concurrentes de l’histoire. Donald Trump, comme ses opposants, cherche ainsi à",
-      "link": "https://theconversation.com/les-250-ans-des-etats-unis-comment-trump-cherche-a-sapproprier-les-peres-fondateurs-286667",
-      "image": "https://counter.theconversation.com/content/286667/count.gif",
-      "publishedAt": "2026-07-02T15:16:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aymhm4z",
-      "title": "La Sagrada Familia, ou quand les microfossiles inspirent l’architecture",
-      "summary": "Vue de l’intérieur de la Sagrada Familia. La coupole s’appuie sur des piliers comme des segments de radiolaires se prolongent par des épines. CD_Photosaddict/Pixabay, CC BY-SA Au-delà du sport, le Tour de France donne aussi l’occasion de (re)découvrir nos paysages et parfois leurs bizarreries géologiques. La toute prem",
-      "link": "https://theconversation.com/la-sagrada-familia-ou-quand-les-microfossiles-inspirent-larchitecture-286394",
-      "image": "https://images.theconversation.com/files/744846/original/file-20260629-57-5cg3o.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1278%2C852&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-02T15:11:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
