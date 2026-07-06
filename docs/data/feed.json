@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:16:20.576Z",
+  "generatedAt": "2026-07-06T03:25:58.571Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +149,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alufut0",
@@ -167,8 +167,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a338cdw",
@@ -183,8 +183,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alzxohd",
@@ -199,8 +199,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2fnnz1",
@@ -215,8 +215,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aejki5p",
@@ -231,8 +231,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ay09y4h",
@@ -247,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,25 +297,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "af3lc49",
-      "title": "À quoi sert l’éducation ? Pourquoi la nouvelle série coréenne « Que ça vous serve de leçon » fait un carton",
-      "summary": "L’école est en crise dans différents pays du monde et devient un sujet de série. IMDb Diffusée sur Netflix, la nouvelle série coréenne Que ça vous serve de leçon fait débat et suscite la curiosité bien au-delà des frontières du pays en explorant les difficultés et les défis de l’école aujourd’hui. Début juin 2026, moin",
-      "link": "https://theconversation.com/a-quoi-sert-leducation-pourquoi-la-nouvelle-serie-coreenne-que-ca-vous-serve-de-lecon-fait-un-carton-286084",
-      "image": "https://images.theconversation.com/files/743920/original/file-20260613-57-hacp41.jpeg?ixlib=rb-4.1.0&amp;rect=174%2C137%2C2266%2C1511&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-03T14:33:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,7 +315,25 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "af3lc49",
+      "title": "À quoi sert l’éducation ? Pourquoi la nouvelle série coréenne « Que ça vous serve de leçon » fait un carton",
+      "summary": "L’école est en crise dans différents pays du monde et devient un sujet de série. IMDb Diffusée sur Netflix, la nouvelle série coréenne Que ça vous serve de leçon fait débat et suscite la curiosité bien au-delà des frontières du pays en explorant les difficultés et les défis de l’école aujourd’hui. Début juin 2026, moin",
+      "link": "https://theconversation.com/a-quoi-sert-leducation-pourquoi-la-nouvelle-serie-coreenne-que-ca-vous-serve-de-lecon-fait-un-carton-286084",
+      "image": "https://images.theconversation.com/files/743920/original/file-20260613-57-hacp41.jpeg?ixlib=rb-4.1.0&amp;rect=174%2C137%2C2266%2C1511&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-03T14:33:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +349,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -368,8 +368,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a83kzx4",
@@ -386,8 +386,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "am6en3a",
@@ -402,8 +402,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amx8z83",
@@ -418,8 +418,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ab74ljt",
@@ -436,7 +436,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -452,7 +452,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -468,7 +468,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -484,7 +484,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -502,7 +502,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -520,7 +520,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -538,7 +538,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -557,7 +557,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -575,7 +575,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +591,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -607,7 +607,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -623,7 +623,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -639,7 +639,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -655,7 +655,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -671,7 +671,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -687,7 +687,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 22,
       "urgencyLevel": "basse"
     }
   ]
