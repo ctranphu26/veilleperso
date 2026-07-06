@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T03:25:58.571Z",
+  "generatedAt": "2026-07-06T10:18:31.580Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,72 @@
   "count": 35,
   "items": [
     {
+      "id": "af54bsp",
+      "title": "La formation ne suffit pas à garantir une reconversion des femmes sorties de l’emploi dans l’univers du numérique",
+      "summary": "Les femmes restent très sous-représentées dans l’univers du numérique, malgré la multiplication de dispositifs de formation. Comment l’expliquer ? Comment lever les freins ? L’inclusion des femmes et, notamment, des femmes sorties de l’emploi dans le secteur du numérique est cruciale pour développer des technologies pl",
+      "link": "https://theconversation.com/la-formation-ne-suffit-pas-a-garantir-une-reconversion-des-femmes-sorties-de-lemploi-dans-lunivers-du-numerique-282766",
+      "image": "https://counter.theconversation.com/content/282766/count.gif",
+      "publishedAt": "2026-07-06T09:21:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ae72hvi",
+      "title": "Le syndrome du sauveur au travail : quand les héros de l’entreprise créent les crises qu’ils prétendent résoudre",
+      "summary": "La dynamique des organisations n’est pas toujours aisée à décrypter. La preuve avec ce profil particulier. En apprence, il est l’élément clé, la personne essentielle, toujours là pour trouver une solution quand un problème se pose. Et pourtant, dans certains contextes, ce collaborateur « sauveur » loin d’être la soluti",
+      "link": "https://theconversation.com/le-syndrome-du-sauveur-au-travail-quand-les-heros-de-lentreprise-creent-les-crises-quils-pretendent-resoudre-286197",
+      "image": "https://counter.theconversation.com/content/286197/count.gif",
+      "publishedAt": "2026-07-06T09:19:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahayese",
+      "title": "La gestion comme mise en dispositif",
+      "summary": "La gestion ne peut pas être réduite à des chiffres. Il s’agit d’une matière vivante, qui crée des dispositifs. Pour mieux comprendre, l’œuvre du philosophe Michel Foucault est éclairante. Décryptage avec la mise en place d’outils dans le cadre de la transition bas carbone. Cet article est publié dans le cadre d’un part",
+      "link": "https://theconversation.com/la-gestion-comme-mise-en-dispositif-285392",
+      "image": "https://counter.theconversation.com/content/285392/count.gif",
+      "publishedAt": "2026-07-06T09:20:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ab105s2",
+      "title": "Les 6 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, nous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
+      "publishedAt": "2026-07-06T07:26:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ar5uq8q",
       "title": "Banalisation des pantouflages sous l’ère Macron : un risque démocratique ?",
       "summary": "La loi encadre le passage de fonctionnaires du secteur public vers le secteur privé, communément appelé « pantouflage ». Elle sanctionne la prise illégale d’intérêts d’un agent public lorsque ce dernier avantage une entreprise privée dans le but d’être recruté par elle. Or, la recherche montre que le pantouflage et le ",
@@ -131,13 +197,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "at8oktu",
       "title": "How do governance frameworks operate and what can major public projects gain from them?",
-      "summary": "Highways, rail networks, airports, national healthcare systems, defence and information technology… As governments around the world prepare to invest heavily in critical infrastructure, an important question remains: who ensure that the major projects to deliver it are well governed and how? Global infrastructure inves",
+      "summary": "Highways, rail networks, airports, national healthcare systems, defence and information technology… As governments around the world prepare to invest heavily in critical infrastructure, an important question remains: who ensures that the major projects to deliver it are well governed and how? Global infrastructure inve",
       "link": "https://theconversation.com/how-do-governance-frameworks-operate-and-what-can-major-public-projects-gain-from-them-285686",
       "image": "https://images.theconversation.com/files/742939/original/file-20260619-87-7095c.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
       "publishedAt": "2026-07-05T09:35:43.000Z",
@@ -149,7 +215,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +233,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,25 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ag4gwv8",
-      "title": "L’énigme des nombres cachés au cœur de la Sagrada Familia",
-      "summary": "Vue des colonnes intérieures du temple, qui se ramifient progressivement en plusieurs branches, à l'image des arbres dans la nature. David Herraez Calzada/Shutterstock Les mathématiques jouent un rôle dans la beauté de la Sagrada Família. De ses proportions aux formes géométriques, l’édifice de Gaudí montre comment les",
-      "link": "https://theconversation.com/lenigme-des-nombres-caches-au-coeur-de-la-sagrada-familia-286500",
-      "image": "https://images.theconversation.com/files/745168/original/file-20260604-85-o7omkw.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C6033%2C4022&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-04T10:42:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,7 +363,25 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 44,
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ag4gwv8",
+      "title": "L’énigme des nombres cachés au cœur de la Sagrada Familia",
+      "summary": "Vue des colonnes intérieures du temple, qui se ramifient progressivement en plusieurs branches, à l'image des arbres dans la nature. David Herraez Calzada/Shutterstock Les mathématiques jouent un rôle dans la beauté de la Sagrada Família. De ses proportions aux formes géométriques, l’édifice de Gaudí montre comment les",
+      "link": "https://theconversation.com/lenigme-des-nombres-caches-au-coeur-de-la-sagrada-familia-286500",
+      "image": "https://images.theconversation.com/files/745168/original/file-20260604-85-o7omkw.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C6033%2C4022&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-04T10:42:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,23 +399,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aaqr1xf",
-      "title": "Face aux défis de l’anthropocène, l’écotoxicologie doit s’adapter pour améliorer ses capacités de prédiction",
-      "summary": "L’écotoxicologie est une discipline scientifique encore jeune. Née dans les années 1960, sa mission est de comprendre les contaminations des écosystèmes par les polluants chimiques ainsi que leurs impacts pour éclairer la décision publique. Mais elle doit aujourd’hui s’adapter et évoluer face aux nouveaux défis environ",
-      "link": "https://theconversation.com/face-aux-defis-de-lanthropocene-lecotoxicologie-doit-sadapter-pour-ameliorer-ses-capacites-de-prediction-285650",
-      "image": "https://counter.theconversation.com/content/285650/count.gif",
-      "publishedAt": "2026-07-02T09:40:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -368,7 +418,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -386,7 +436,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -402,23 +452,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
-      "id": "amx8z83",
-      "title": "Un été d’Education Nouvelle avec le GFEN",
-      "summary": "« Venez passer un été d’Education Nouvelle avec le GFEN. Les Universités et stages d’été ou de rentrée sont ouverts à toutes et tous, adhérent.e ou pas ! « , invite le L’article Un été d’Education Nouvelle avec le GFEN est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/03/un-ete-deducation-nouvelle-avec-le-gfen/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/stage.png",
-      "publishedAt": "2026-07-03T03:27:01.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "a9rxh0l",
+      "title": "Ce que signifie vraiment « aimer son travail » – et quand cet amour peut devenir un problème",
+      "summary": "De nouvelles recherches outre-Atlantique explorent la psychologie qui sous-tend « l’amour du travail » et ses implications pour les entreprises. Que signifie aimer son travail ? Le champ lexical de l’amour revient souvent dans les débats lorsqu’on parle du monde du travail. Les gens disent vouloir aimer leur travail ; ",
+      "link": "https://theconversation.com/ce-que-signifie-vraiment-aimer-son-travail-et-quand-cet-amour-peut-devenir-un-probleme-281899",
+      "image": "https://counter.theconversation.com/content/281899/count.gif",
+      "publishedAt": "2026-07-02T15:12:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 47,
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -436,7 +486,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -452,7 +502,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -468,23 +518,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9rxh0l",
-      "title": "Ce que signifie vraiment « aimer son travail » – et quand cet amour peut devenir un problème",
-      "summary": "De nouvelles recherches outre-Atlantique explorent la psychologie qui sous-tend « l’amour du travail » et ses implications pour les entreprises. Que signifie aimer son travail ? Le champ lexical de l’amour revient souvent dans les débats lorsqu’on parle du monde du travail. Les gens disent vouloir aimer leur travail ; ",
-      "link": "https://theconversation.com/ce-que-signifie-vraiment-aimer-son-travail-et-quand-cet-amour-peut-devenir-un-probleme-281899",
-      "image": "https://counter.theconversation.com/content/281899/count.gif",
-      "publishedAt": "2026-07-02T15:12:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -502,7 +536,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -520,7 +554,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -538,7 +572,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -557,7 +591,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -575,7 +609,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +625,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -607,7 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -623,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -639,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -655,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -670,40 +704,6 @@
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avw10q0",
-      "title": "Comment mes recherches sur l’amitié m’ont aidée à comprendre ma propre solitude",
-      "summary": "De plus en plus de personnes déclarent se sentir seules, y compris lorsqu’elles sont entourées. Piotr Arnoldes/Pexels, CC BY Nous accordons souvent la priorité au couple, à la famille et au travail, reléguant l’amitié au second plan. Pourtant, à mesure que les liens sociaux s’effritent, l’amitié apparaît comme une ress",
-      "link": "https://theconversation.com/comment-mes-recherches-sur-lamitie-mont-aidee-a-comprendre-ma-propre-solitude-285859",
-      "image": "https://images.theconversation.com/files/743283/original/file-20260501-71-rdep2e.jpg?ixlib=rb-4.1.0&amp;rect=0%2C1%2C7112%2C4741&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-02T15:09:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ahcnlbu",
-      "title": "Sommes-nous entrés dans le « photographocène » ? Pour une écologie du regard à l’heure de la sixième extinction",
-      "summary": "Nous sommes désormais saturés d’images mettant en scène la transformation des paysages et l’effondrement de la biodiversité sous l’effet des activités humaines. Ce « photographocène », contraction de « photographie » et d’« anthropocène », façonne non seulement nos imaginaires, mais aussi nos capacités d’action. Quand ",
-      "link": "https://theconversation.com/sommes-nous-entres-dans-le-photographocene-pour-une-ecologie-du-regard-a-lheure-de-la-sixieme-extinction-284256",
-      "image": "https://images.theconversation.com/files/740058/original/file-20260604-71-o9quhu.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-02T09:40:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
       "relevanceLevel": "moyenne",
       "urgency": 22,
       "urgencyLevel": "basse"
