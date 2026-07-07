@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T02:58:48.120Z",
+  "generatedAt": "2026-07-07T09:38:45.131Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,56 @@
   "count": 35,
   "items": [
     {
+      "id": "air22zr",
+      "title": "10 lectures pour vos vacances d’été",
+      "summary": "Retrouvez à cette page, nos 10 conseils lecture pour ces vacances ! Frédérique Blu : des nouvelles de l’école en 13 nouvelles De quoi est faite la vie de L’article 10 lectures pour vos vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/10-lectures-pour-vos-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/PHOTOS-DE-CLASSES-FRED-BLU_COUV-194x300.jpg.webp",
+      "publishedAt": "2026-07-07T06:22:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ay93gba",
+      "title": "Littérature jeunesse : la sélection de l’été",
+      "summary": "Découvrez les conseils de Marianne Baby, notre spécialiste littérature jeunesse, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Littérature jeunesse : la sélection de l’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
+      "publishedAt": "2026-07-07T06:10:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1vyu85",
+      "title": "Un BO avant une loi : interdire le téléphone portable au lycée",
+      "summary": "Publication officielle du ministre de l’Education, une circulaire précise l’annonce de l’interdiction du téléphone portable au lycée (MENE2617958C Circulaire : du 2-7-2026). Nous y sommes enfin, le ministère a tranché L’article Un BO avant une loi : interdire le téléphone portable au lycée est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/07/06/un-bo-avant-une-loi-interdire-le-telephone-portable-au-lycee/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-07-06T06:23:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "agj1cob",
       "title": "Le changement climatique menace (aussi) notre patrimoine culturel",
       "summary": "Les épicéas utilisés pour fabriquer les violons de Stradivarius sont aujourd’hui menacés par la hausse des températures et la prolifération de parasites. Josep Molina Secall/Unsplash, CC BY Lorsque l’on parle du changement climatique, les débats portent le plus souvent sur l’énergie, la biodiversité, les émissions de c",
@@ -133,7 +183,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -167,8 +217,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ae72hvi",
@@ -183,8 +233,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a92esh2",
@@ -202,7 +252,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -220,7 +270,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -238,7 +288,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -254,7 +304,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,13 +336,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
       "id": "at70phs",
       "title": "Sans eau, les forêts arrêtent de capter du CO₂",
-      "summary": "La forêt du mont Ventoux, dans le Vaucluse, en proie à la sécheresse, en 2022. Frédéric Jean, Fourni par l'auteur Pour survivre en période de sécheresse, les arbres stoppent la photosynthèse, une activité très gourmande en eau au cours de laquelle s’échappent, pour chaque molécule de CO₂ absorbée par une feuille d’arbr",
+      "summary": "La forêt du mont Ventoux, dans le Vaucluse, en proie à la sécheresse, en 2022. Frédéric Jean, Fourni par l'auteur Pour survivre en période de sécheresse, les arbres stoppent la photosynthèse, une activité très gourmande en eau au cours de laquelle s’échappent, pour chaque molécule de CO2 absorbée par une feuille d’arbr",
       "link": "https://theconversation.com/sans-eau-les-forets-arretent-de-capter-du-co-286708",
       "image": "https://images.theconversation.com/files/745698/original/file-20260702-64-n9h38e.jpg?ixlib=rb-4.1.0&amp;rect=0%2C29%2C1632%2C1088&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-07-06T13:42:50.000Z",
@@ -302,7 +352,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -318,7 +368,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -334,7 +384,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +400,25 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a53kv91",
+      "title": "Edouard Philippe veut raccourcir les vacances d’été",
+      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
+      "publishedAt": "2026-07-06T06:37:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -366,7 +434,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -384,7 +452,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,7 +470,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -418,7 +486,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -434,7 +502,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -450,7 +518,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -466,7 +534,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -482,8 +550,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aucvlsi",
@@ -498,7 +566,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -514,7 +582,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -531,24 +599,6 @@
         "école"
       ],
       "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ag4gwv8",
-      "title": "L’énigme des nombres cachés au cœur de la Sagrada Familia",
-      "summary": "Vue des colonnes intérieures du temple, qui se ramifient progressivement en plusieurs branches, à l'image des arbres dans la nature. David Herraez Calzada/Shutterstock Les mathématiques jouent un rôle dans la beauté de la Sagrada Família. De ses proportions aux formes géométriques, l’édifice de Gaudí montre comment les",
-      "link": "https://theconversation.com/lenigme-des-nombres-caches-au-coeur-de-la-sagrada-familia-286500",
-      "image": "https://images.theconversation.com/files/745168/original/file-20260604-85-o7omkw.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C6033%2C4022&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-04T10:42:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
       "relevanceLevel": "moyenne",
       "urgency": 32,
       "urgencyLevel": "basse"
@@ -569,7 +619,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -587,23 +637,25 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
-      "id": "am6en3a",
-      "title": "Interdiction de l’utilisation du téléphone portable et des autres objets connectés au lycée",
-      "summary": "Le BO du 2 juillet précise les modalités d’interdiction du téléphone portable au lycée pour la rentrée 2026. « Dès à présent, les lycées sont invités à se préparer à l’interdiction L’article Interdiction de l’utilisation du téléphone portable et des autres objets connectés au lycée est apparu en premier sur Le Café péd",
-      "link": "https://www.cafepedagogique.net/2026/07/03/interdiction-de-lutilisation-du-telephone-portable-et-des-autres-objets-connectes-au-lycee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/BO-O-300x164.png",
-      "publishedAt": "2026-07-03T03:30:54.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
+      "id": "ag4gwv8",
+      "title": "L’énigme des nombres cachés au cœur de la Sagrada Familia",
+      "summary": "Vue des colonnes intérieures du temple, qui se ramifient progressivement en plusieurs branches, à l'image des arbres dans la nature. David Herraez Calzada/Shutterstock Les mathématiques jouent un rôle dans la beauté de la Sagrada Família. De ses proportions aux formes géométriques, l’édifice de Gaudí montre comment les",
+      "link": "https://theconversation.com/lenigme-des-nombres-caches-au-coeur-de-la-sagrada-familia-286500",
+      "image": "https://images.theconversation.com/files/745168/original/file-20260604-85-o7omkw.jpg?ixlib=rb-4.1.0&amp;rect=7%2C0%2C6033%2C4022&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-04T10:42:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -619,7 +671,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -637,25 +689,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6wb3t7",
-      "title": "Des ressources documentaires pour aborder la panthéonisation",
-      "summary": "A l’occasion de l’entrée au Panthéon, pour la première fois, d’un historien français et de sa femme, de nombreuses ressources ont été produites au cours de l’année 2025-2026 pour permettre L’article Des ressources documentaires pour aborder la panthéonisation est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/03/des-ressources-documentaires-pour-aborder-la-pantheonisation/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/PHOTO-2026-07-02-12-36-49-241x300.jpg",
-      "publishedAt": "2026-07-03T03:30:09.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -674,41 +708,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amqccle",
-      "title": "Quand des lycéens enquêtent sur un lieu oublié de l’histoire marseillaise",
-      "summary": "Cette année, des élèves de Terminale du lycée Maurice Genevoix de Marignane se sont intéressés à un lieu largement oublié de l’histoire marseillaise : l’hôtel Bompard. Entre 1940 et 1942, L’article Quand des lycéens enquêtent sur un lieu oublié de l’histoire marseillaise est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/03/quand-des-lyceens-enquetent-sur-un-lieu-oublie-de-lhistoire-marseillaise/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/05/Nora-Latroch-e1747337146153-187x300.jpeg",
-      "publishedAt": "2026-07-03T03:30:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amaug0h",
-      "title": "La Préhistoire, entre utopie et réalité",
-      "summary": "Jusqu’au 19 juillet, le Collège de France présente une grande exposition gratuite explorant comment la Préhistoire a été façonnée, entre rigueur scientifique et rêveries spectaculaires. La découverte de la Préhistoire L’article La Préhistoire, entre utopie et réalité est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/03/la-prehistoire-entre-utopie-et-realite/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/station-didactique-169x300.jpg",
-      "publishedAt": "2026-07-03T03:28:26.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     }
   ]
