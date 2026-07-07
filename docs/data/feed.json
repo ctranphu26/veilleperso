@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T19:54:51.025Z",
+  "generatedAt": "2026-07-07T02:58:48.120Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -183,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -202,8 +202,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aevsmb7",
@@ -220,8 +220,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5zsffx",
@@ -238,8 +238,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awm3g3o",
@@ -254,8 +254,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3tvx1k",
@@ -270,8 +270,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7so6eb",
@@ -286,8 +286,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "at70phs",
@@ -302,8 +302,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atbg3oo",
@@ -318,8 +318,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahayese",
@@ -334,7 +334,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +350,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -366,7 +366,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -384,7 +384,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,7 +402,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -418,7 +418,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -434,7 +434,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -450,7 +450,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -466,7 +466,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -482,7 +482,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -498,8 +498,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "atrio8h",
@@ -514,8 +514,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "af3lc49",
@@ -532,7 +532,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -550,7 +550,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -569,7 +569,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -603,7 +603,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -619,25 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6wb3t7",
-      "title": "Des ressources documentaires pour aborder la panthéonisation",
-      "summary": "A l’occasion de l’entrée au Panthéon, pour la première fois, d’un historien français et de sa femme, de nombreuses ressources ont été produites au cours de l’année 2025-2026 pour permettre L’article Des ressources documentaires pour aborder la panthéonisation est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/03/des-ressources-documentaires-pour-aborder-la-pantheonisation/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/PHOTO-2026-07-02-12-36-49-241x300.jpg",
-      "publishedAt": "2026-07-03T03:30:09.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 23,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -655,7 +637,25 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 23,
+      "urgency": 21,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a6wb3t7",
+      "title": "Des ressources documentaires pour aborder la panthéonisation",
+      "summary": "A l’occasion de l’entrée au Panthéon, pour la première fois, d’un historien français et de sa femme, de nombreuses ressources ont été produites au cours de l’année 2025-2026 pour permettre L’article Des ressources documentaires pour aborder la panthéonisation est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/03/des-ressources-documentaires-pour-aborder-la-pantheonisation/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/PHOTO-2026-07-02-12-36-49-241x300.jpg",
+      "publishedAt": "2026-07-03T03:30:09.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +708,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 20,
       "urgencyLevel": "basse"
     }
   ]
