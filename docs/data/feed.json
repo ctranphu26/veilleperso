@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T08:25:54.742Z",
+  "generatedAt": "2026-07-08T14:03:00.041Z",
   "themes": [
     {
       "id": "education-medias",
@@ -121,7 +121,7 @@
     {
       "id": "a2wd300",
       "title": "La respiration nous permet de communiquer avec nous-mêmes, avec les autres et avec les robots",
-      "summary": "Les œuvres d’art et les robots peuvent aussi respirer ! UMRS 1158, Fourni par l'auteur La respiration n’a pas comme unique fonction de nous apporter de l’oxygène et d’éliminer du dioxyde de carbone. Loin de là. Elle sert aussi à communiquer de multiples manières. Avec les autres, explicitement et implicitement ; avec s",
+      "summary": "Les œuvres d’art et les robots peuvent aussi respirer ! UMRS 1158, Fourni par l'auteur La respiration n’a pas comme unique fonction de nous apporter de l’oxygène et d’éliminer du dioxyde de carbone. Loin de là. Elle sert aussi à communiquer de multiples manières : avec les autres explicitement ou implicitement ; avec s",
       "link": "https://theconversation.com/la-respiration-nous-permet-de-communiquer-avec-nous-memes-avec-les-autres-et-avec-les-robots-286715",
       "image": "https://images.theconversation.com/files/746296/original/file-20260707-57-rlzux0.png?ixlib=rb-4.1.0&amp;rect=0%2C251%2C1134%2C756&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-07-08T07:59:59.000Z",
@@ -131,7 +131,189 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 100,
+      "urgency": 93,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a46kzii",
+      "title": "Médias : qui décide de ce que vous lisez ? Dans les coulisses de la « mécanique de la donnée »",
+      "summary": "Aujourd’hui, les médias en ligne peuvent suivre en temps réel les audiences de leurs articles et les réseaux sociaux analysent ce que vous lisez pour vous proposer d’autres contenus censés être plus en phase avec vos centres d’intérêt. Regard sur cette « mécanique de la donnée », à travers une enquête ethnographique au",
+      "link": "https://theconversation.com/medias-qui-decide-de-ce-que-vous-lisez-dans-les-coulisses-de-la-mecanique-de-la-donnee-284348",
+      "image": "https://counter.theconversation.com/content/284348/count.gif",
+      "publishedAt": "2026-07-08T13:31:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "acupd60",
+      "title": "Pourquoi Nigel Farage démissionne de son mandat de député britannique… pour mieux se représenter",
+      "summary": "Depuis le siège du parti anti-immigration Reform UK, à Londres, Nigel Farage a annoncé mardi 7 juillet 2026 qu’il démissionnerait de son mandat de député de Clacton (Essex)… pour se représenter aussitôt dans la même circonscription. L’homme politique est accusé de ne pas avoir déclaré d’importants dons reçus peu avant ",
+      "link": "https://theconversation.com/pourquoi-nigel-farage-demissionne-de-son-mandat-de-depute-britannique-pour-mieux-se-representer-287084",
+      "image": "https://counter.theconversation.com/content/287084/count.gif",
+      "publishedAt": "2026-07-08T10:37:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6l5516",
+      "title": "World Cup 2026: are Les Bleus a true reflection of French society?",
+      "summary": "At every Football World Cup and any other major football tournament, it is not only Les Bleus performances on the pitch that come under scrutiny, but also the players’ identities, their migrant backgrounds and the extent to which they represent France and French society. This recurrent question speaks to unresolved iss",
+      "link": "https://theconversation.com/world-cup-2026-are-les-bleus-a-true-reflection-of-french-society-286858",
+      "image": "https://images.theconversation.com/files/746304/original/file-20260707-57-27fpik.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-08T13:40:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "av3t61y",
+      "title": "Football : les Bleus représentent-ils la France ?",
+      "summary": "À chaque Coupe du monde, ce ne sont pas seulement les performances des Bleus qui sont scrutées, mais l’identité des joueurs et leurs origines. Leur présence sur le terrain ravive un débat ancien sur l’immigration, l’identité nationale et la manière dont la France se pense elle-même. Derrière la composition de l’équipe ",
+      "link": "https://theconversation.com/football-les-bleus-representent-ils-la-france-285756",
+      "image": "https://counter.theconversation.com/content/285756/count.gif",
+      "publishedAt": "2026-07-08T13:31:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "asoj71o",
+      "title": "Au-delà du projet immobilier Kushner-Trump, les racines de la contestation politique en Albanie",
+      "summary": "Née de l’opposition au projet immobilier de Jared Kushner et d’Ivanka Trump sur le littoral albanais, la mobilisation, qui se déroule depuis le début du mois de juin, révèle des tensions politiques plus profondes. Elle met en lumière le rejet de la corruption et du mode de gouvernance du premier ministre Edi Rama. Depu",
+      "link": "https://theconversation.com/au-dela-du-projet-immobilier-kushner-trump-les-racines-de-la-contestation-politique-en-albanie-286681",
+      "image": "https://counter.theconversation.com/content/286681/count.gif",
+      "publishedAt": "2026-07-08T13:31:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aa6ekl7",
+      "title": "Droit et vagues de chaleur : la France n’a pas de service public de la fraîcheur, et c’est un problème",
+      "summary": "La France est entrée dans un nouvel épisode de chaleur extrême, déjà le troisième de l’année 2026. Si le droit français entend protéger explicitement deux catégories de population – les personnes âgées et/ou vulnérables inscrites sur un registre communal et les salariés –, il protège insuffisamment tous les citoyens da",
+      "link": "https://theconversation.com/droit-et-vagues-de-chaleur-la-france-na-pas-de-service-public-de-la-fraicheur-et-cest-un-probleme-287009",
+      "image": "https://images.theconversation.com/files/746391/original/file-20260707-71-q8qvwr.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-08T13:30:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "algo2fd",
+      "title": "En supprimant le garant et le dépôt de garantie, le Brésil facilite la location des logements. Qui en profite vraiment ?",
+      "summary": "Au Brésil, la plateforme Quintoandar se charge du recouvrement judiciaire auprès des propriétaires en cas d’impayés des locataires. Une garantie locative privée qui arrange tout le monde. Mais qui sont les véritables gagnants et perdants entre propriétaires, locataires et cet intermédiaire numérique ? En 2013, deux ent",
+      "link": "https://theconversation.com/en-supprimant-le-garant-et-le-depot-de-garantie-le-bresil-facilite-la-location-des-logements-qui-en-profite-vraiment-281809",
+      "image": "https://counter.theconversation.com/content/281809/count.gif",
+      "publishedAt": "2026-07-08T13:29:48.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "af7smzq",
+      "title": "Canicule et santé au travail : quelles sont les adaptations mises en place par les organisations ?",
+      "summary": "Au-delà des obligations légales, comment les employeurs mettent-ils en place des mesures pour accompagner les salariés en période de forte chaleur, voire de canicule ? Une recherche portant sur plusieurs accords d’entreprises en Bretagne montre une grande hétérogénéité des dispositions effectives. Comment articulent-il",
+      "link": "https://theconversation.com/canicule-et-sante-au-travail-quelles-sont-les-adaptations-mises-en-place-par-les-organisations-286610",
+      "image": "https://counter.theconversation.com/content/286610/count.gif",
+      "publishedAt": "2026-07-08T13:29:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6jkw5o",
+      "title": "Peut-on apprendre la géographie française grâce aux jeux « Pokémon » ?",
+      "summary": "Concept art pour *Pokémon X et Y*, présenté lors du Pokemon Center Paris, 2014. Pokémon Qu’ont en commun les menhirs bretons, les mosaïques de Barcelone et le château de la famille royale britannique ? Tous ont été adaptés en pixels dans la série de jeux vidéos Pokémon. Les jeux vidéo, souvent dénigrés pour leur tendan",
+      "link": "https://theconversation.com/peut-on-apprendre-la-geographie-francaise-grace-aux-jeux-pokemon-286912",
+      "image": "https://images.theconversation.com/files/746620/original/file-20260708-57-4en64u.jpg?ixlib=rb-4.1.0&amp;rect=160%2C0%2C1728%2C1152&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-08T13:28:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "alm0r35",
+      "title": "With Marine Le Pen’s sentence the judiciary is giving French citizens the final say on her political future",
+      "summary": ".tc-acc{display:block;margin:0 0 1rem} .tc-acc .tc-head,.tc-acc .tc-title,.tc-acc .tc-cta,.tc-acc .tc-item{margin:0} .tc-acc .tc-head p{margin:0} .tc-acc .tc-head br{display:none} .tc-acc .tc-head{display:block;cursor:pointer;text-decoration:none;color:inherit;background:#f1f1f2;border-radius:.5rem;padding:.85rem 1rem}",
+      "link": "https://theconversation.com/with-marine-le-pens-sentence-the-judiciary-is-giving-french-citizens-the-final-say-on-her-political-future-287029",
+      "image": "https://counter.theconversation.com/content/287029/count.gif",
+      "publishedAt": "2026-07-08T10:26:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ap1rdzm",
+      "title": "Au-delà du bassin de Washington : sauver les lacs et les littoraux en déclin grâce aux nanobulles d’oxygène",
+      "summary": "Utilisées dans le bassin du mémorial de Lincoln à Washington pour rendre ses eaux limpides, les nanobulles d’ozone pourraient aussi aider à restaurer des lacs et des mers asphyxiés par le manque d’oxygène. Une technologie prometteuse, mais encore confrontée à de nombreux défis. Pour les festivités du 250e anniversaire ",
+      "link": "https://theconversation.com/au-dela-du-bassin-de-washington-sauver-les-lacs-et-les-littoraux-en-declin-grace-aux-nanobulles-doxygene-287004",
+      "image": "https://counter.theconversation.com/content/287004/count.gif",
+      "publishedAt": "2026-07-08T09:58:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -179,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -195,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -213,7 +395,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,7 +414,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -248,7 +430,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -264,7 +446,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -280,7 +462,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -296,7 +478,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -312,39 +494,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aefnb99",
-      "title": "Coupe du monde 2026 : payer les places de plus en plus cher dans un « smart stadium » vaut-il le coup ?",
-      "summary": "La Coupe du monde de football 2026 se joue entièrement aux États-Unis à partir des huitièmes de finale. Là où le prix des places y est exorbitant. Mais les spectateurs en ont-ils pour leur argent lorsqu’ils vivent les matchs décisifs dans des smart stadiums, stades connectés, états-uniens ? Pour la première fois de l’h",
-      "link": "https://theconversation.com/coupe-du-monde-2026-payer-les-places-de-plus-en-plus-cher-dans-un-smart-stadium-vaut-il-le-coup-284485",
-      "image": "https://counter.theconversation.com/content/284485/count.gif",
-      "publishedAt": "2026-07-07T11:35:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aceb5b",
-      "title": "La Coupe du monde 2026 est le « joyau » de la FIFA",
-      "summary": "La 23e Coupe du monde de l’histoire devrait rapporter 9 milliards de dollars à la Fédération internationale de football association (FIFA). Mais comment se rémunère-t-elle ? Qu’en est-il de son modèle économique depuis sa création en 1904 ? La Fédération internationale de football association (FIFA), fondée en 1904, es",
-      "link": "https://theconversation.com/la-coupe-du-monde-2026-est-le-joyau-de-la-fifa-284593",
-      "image": "https://counter.theconversation.com/content/284593/count.gif",
-      "publishedAt": "2026-07-07T11:34:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -360,23 +510,39 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "a5asjgc",
-      "title": "Les applis de santé nous font-elles vraiment bouger plus…  ou seulement cliquer davantage ? Exemple avec une appli pour compter ses pas",
-      "summary": "L’essentiel La tendance est aux applications qui comptent vos pas et vous motivent à marcher avec des rappels fréquents envoyés sur votre smartphone. Une étude portant sur plus de 20 000 utilisateurs et utilisatrices d’une de ces applications montre que, si les notifications augmentent l’usage de l’appli, elles n’entra",
-      "link": "https://theconversation.com/les-applis-de-sante-nous-font-elles-vraiment-bouger-plus-ou-seulement-cliquer-davantage-exemple-avec-une-appli-pour-compter-ses-pas-286605",
-      "image": "https://counter.theconversation.com/content/286605/count.gif",
-      "publishedAt": "2026-07-07T09:30:35.000Z",
+      "id": "aefnb99",
+      "title": "Coupe du monde 2026 : payer les places de plus en plus cher dans un « smart stadium » vaut-il le coup ?",
+      "summary": "La Coupe du monde de football 2026 se joue entièrement aux États-Unis à partir des huitièmes de finale. Là où le prix des places y est exorbitant. Mais les spectateurs en ont-ils pour leur argent lorsqu’ils vivent les matchs décisifs dans des smart stadiums, stades connectés, états-uniens ? Pour la première fois de l’h",
+      "link": "https://theconversation.com/coupe-du-monde-2026-payer-les-places-de-plus-en-plus-cher-dans-un-smart-stadium-vaut-il-le-coup-284485",
+      "image": "https://counter.theconversation.com/content/284485/count.gif",
+      "publishedAt": "2026-07-07T11:35:15.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aceb5b",
+      "title": "La Coupe du monde 2026 est le « joyau » de la FIFA",
+      "summary": "La 23e Coupe du monde de l’histoire devrait rapporter 9 milliards de dollars à la Fédération internationale de football association (FIFA). Mais comment se rémunère-t-elle ? Qu’en est-il de son modèle économique depuis sa création en 1904 ? La Fédération internationale de football association (FIFA), fondée en 1904, es",
+      "link": "https://theconversation.com/la-coupe-du-monde-2026-est-le-joyau-de-la-fifa-284593",
+      "image": "https://counter.theconversation.com/content/284593/count.gif",
+      "publishedAt": "2026-07-07T11:34:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -394,7 +560,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -410,178 +576,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajtkzb4",
-      "title": "La sécurité des drones militaires, ou comment protéger ce qui compte (et ce n’est pas toujours le drone lui-même)",
-      "summary": "Sur les théâtres d’opération militaire, les drones évoluent dans un environnement hostile où ils doivent avant tout protéger les troupes qu’ils accompagnent. Pour mener à bien cette mission, ils déploient des stratégies qui leur offrent une certaine résilience, le but n’étant finalement pas de les protéger pour eux-mêm",
-      "link": "https://theconversation.com/la-securite-des-drones-militaires-ou-comment-proteger-ce-qui-compte-et-ce-nest-pas-toujours-le-drone-lui-meme-286221",
-      "image": "https://counter.theconversation.com/content/286221/count.gif",
-      "publishedAt": "2026-07-06T13:47:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agj1cob",
-      "title": "Le changement climatique menace (aussi) notre patrimoine culturel",
-      "summary": "Les épicéas utilisés pour fabriquer les violons de Stradivarius sont aujourd’hui menacés par la hausse des températures et la prolifération de parasites. Josep Molina Secall/Unsplash, CC BY Lorsque l’on parle du changement climatique, les débats portent le plus souvent sur l’énergie, la biodiversité, les émissions de c",
-      "link": "https://theconversation.com/le-changement-climatique-menace-aussi-notre-patrimoine-culturel-285080",
-      "image": "https://images.theconversation.com/files/743979/original/file-20260624-3928-p7kll1.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C5616%2C3743&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-06T13:44:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "af54bsp",
-      "title": "La formation ne suffit pas à garantir une reconversion des femmes sorties de l’emploi dans l’univers du numérique",
-      "summary": "Les femmes restent très sous-représentées dans l’univers du numérique, malgré la multiplication de dispositifs de formation. Comment l’expliquer ? Comment lever les freins ? L’inclusion des femmes et, notamment, des femmes sorties de l’emploi dans le secteur du numérique est cruciale pour développer des technologies pl",
-      "link": "https://theconversation.com/la-formation-ne-suffit-pas-a-garantir-une-reconversion-des-femmes-sorties-de-lemploi-dans-lunivers-du-numerique-282766",
-      "image": "https://counter.theconversation.com/content/282766/count.gif",
-      "publishedAt": "2026-07-06T09:21:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
       "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awm3g3o",
-      "title": "The public isn’t bored with economists, management scholars and sociologists but engaging people has conditions",
-      "summary": "For years, we’ve been told a familiar story: social scientists such as economists, management scholars, sociologists, talk and the public shrugs. The claim goes that people don’t find our work interesting, that our expertise is fuzzy compared with “hard” sciences, and that journalists and readers will always prefer the",
-      "link": "https://theconversation.com/the-public-isnt-bored-with-economists-management-scholars-and-sociologists-but-engaging-people-has-conditions-279256",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-06T13:47:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a92esh2",
-      "title": "Qu’est-ce que « l’affichage parental d’images de mineurs » ?",
-      "summary": "Les enfants ont aussi une vie privée. Partager des photos d’eux sans leur consentement sur les réseaux sociaux va à l’encontre de leurs droits. Le nouveau terme d’« affichage parental d’images de mineurs » invite à interroger cette pratique de plus en plus courante dans un monde numérique. Poster la photo du premier jo",
-      "link": "https://theconversation.com/quest-ce-que-laffichage-parental-dimages-de-mineurs-286722",
-      "image": "https://counter.theconversation.com/content/286722/count.gif",
-      "publishedAt": "2026-07-06T13:44:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux",
-        "image"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aevsmb7",
-      "title": "Influenceur sur TikTok, président sur Facebook : la nouvelle stratégie de Jordan Bardella",
-      "summary": "Si Jordan Bardella est très actif sur les réseaux sociaux préférés de la génération Z, tels que TikTok, YouTube et Instagram, il investit aussi désormais beaucoup de temps sur Facebook. De janvier à mars 2026, les publications du président du Rassemblement national sur ce réseau social ont augmenté de 90 % par rapport ",
-      "link": "https://theconversation.com/influenceur-sur-tiktok-president-sur-facebook-la-nouvelle-strategie-de-jordan-bardella-282575",
-      "image": "https://images.theconversation.com/files/737876/original/file-20260525-57-kae4zq.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-06T13:46:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5zsffx",
-      "title": "Pourquoi les entreprises doivent parfois apprendre à « échouer vite »",
-      "summary": "Comment réussir à échouer ? Rater n’est pas difficile, mais un échec réussi n’est pas si simple à atteindre. C’est une question de compétences disponibles et de préparation : bien échouer ne s’improvise pas. Mais aussi, et peut-être surtout, une question de timing. Dans les entreprises, certaines idées, longtemps après",
-      "link": "https://theconversation.com/pourquoi-les-entreprises-doivent-parfois-apprendre-a-echouer-vite-284737",
-      "image": "https://counter.theconversation.com/content/284737/count.gif",
-      "publishedAt": "2026-07-06T13:43:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "compétence"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3tvx1k",
-      "title": "Pourquoi l’Iran ne parviendra pas à instaurer un péage dans le détroit d’Ormuz",
-      "summary": "Téhéran envisage d’instaurer un péage dans le détroit d’Ormuz pour y asseoir son contrôle stratégique, mais son ambition se heurte à un écueil juridique et pratique : le droit international garantit le libre passage dans ces eaux, et cette voie large de près de 40 kilomètres n’a rien d’un canal de Suez étroit et verrou",
-      "link": "https://theconversation.com/pourquoi-liran-ne-parviendra-pas-a-instaurer-un-peage-dans-le-detroit-dormuz-286573",
-      "image": "https://counter.theconversation.com/content/286573/count.gif",
-      "publishedAt": "2026-07-06T13:45:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a7so6eb",
-      "title": "Pourquoi est-ce si difficile d’estimer les bénéfices et les coûts du Brexit ?",
-      "summary": "Après le Brexit, en 2020, l’Union européenne a dû affronter la pandémie de Covid-19, le choc des prix de l’énergie des suites de la guerre en Ukraine et de la crise du détroit d’Ormuz. Alors, comment mesurer efficacement les conséquences du Brexit pour les entreprises ? Une étude propose de l’analyser comme un risque à",
-      "link": "https://theconversation.com/pourquoi-est-ce-si-difficile-destimer-les-benefices-et-les-couts-du-brexit-279281",
-      "image": "https://counter.theconversation.com/content/279281/count.gif",
-      "publishedAt": "2026-07-06T13:43:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "at70phs",
-      "title": "Sans eau, les forêts arrêtent de capter du CO₂",
-      "summary": "La forêt du mont Ventoux, dans le Vaucluse, en proie à la sécheresse, en 2022. Frédéric Jean, Fourni par l'auteur Pour survivre en période de sécheresse, les arbres stoppent la photosynthèse, une activité très gourmande en eau au cours de laquelle s’échappent, pour chaque molécule de CO2 absorbée par une feuille d’arbr",
-      "link": "https://theconversation.com/sans-eau-les-forets-arretent-de-capter-du-co-286708",
-      "image": "https://images.theconversation.com/files/745698/original/file-20260702-64-n9h38e.jpg?ixlib=rb-4.1.0&amp;rect=0%2C29%2C1632%2C1088&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-06T13:42:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -597,8 +592,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ab105s2",
@@ -613,8 +608,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a53kv91",
@@ -631,7 +626,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -650,7 +645,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 24,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -668,7 +663,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 23,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -686,7 +681,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 14,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -705,7 +700,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     }
   ]
