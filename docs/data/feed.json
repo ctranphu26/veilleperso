@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T02:34:49.395Z",
+  "generatedAt": "2026-07-08T08:25:54.742Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,70 @@
   "count": 35,
   "items": [
     {
+      "id": "a2wd300",
+      "title": "La respiration nous permet de communiquer avec nous-mêmes, avec les autres et avec les robots",
+      "summary": "Les œuvres d’art et les robots peuvent aussi respirer ! UMRS 1158, Fourni par l'auteur La respiration n’a pas comme unique fonction de nous apporter de l’oxygène et d’éliminer du dioxyde de carbone. Loin de là. Elle sert aussi à communiquer de multiples manières. Avec les autres, explicitement et implicitement ; avec s",
+      "link": "https://theconversation.com/la-respiration-nous-permet-de-communiquer-avec-nous-memes-avec-les-autres-et-avec-les-robots-286715",
+      "image": "https://images.theconversation.com/files/746296/original/file-20260707-57-rlzux0.png?ixlib=rb-4.1.0&amp;rect=0%2C251%2C1134%2C756&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-08T07:59:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 100,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afxievr",
+      "title": "Une découverte inattendue : des traces de séismes anciens dans le Bassin parisien",
+      "summary": "Le site de Beauvais, où les failles ont été observées dans le niveau archéologique, se trouve à proximité de la grande structure tectonique du Pays de Bray, qui parcourt le Bassin parisien sur plus de 100 kilomètres. Stéphane Baize, Fourni par l'auteur En 1993, lors de fouilles archéologiques préventives pour la constr",
+      "link": "https://theconversation.com/une-decouverte-inattendue-des-traces-de-seismes-anciens-dans-le-bassin-parisien-286398",
+      "image": "https://images.theconversation.com/files/745417/original/file-20260701-57-kcy6ec.jpeg?ixlib=rb-4.1.0&amp;rect=0%2C50%2C2750%2C1833&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-08T08:00:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amfhuca",
+      "title": "Avec ou sans synapses ? Le singulier système nerveux des cténophores, ou comment un débat scientifique vieux de 100 ans refait surface",
+      "summary": "Un cténophore (*Leucothea multicornis*, à gauche) et une méduse, ou cnidaire (*Aequorea sp.*, à droite), se ressemblent beaucoup mais n’ont pas – du tout ! – le même type de système nerveux. Alexander Semenov/Flickr, CC BY-NC-SA Dans les livres de biologie, on apprend que le système nerveux se compose de neurones conne",
+      "link": "https://theconversation.com/avec-ou-sans-synapses-le-singulier-systeme-nerveux-des-ctenophores-ou-comment-un-debat-scientifique-vieux-de-100-ans-refait-surface-284361",
+      "image": "https://images.theconversation.com/files/741047/original/file-20260610-85-54ylug.png?ixlib=rb-4.1.0&amp;rect=159%2C52%2C921%2C614&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-08T08:00:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2pp2av",
+      "title": "Les astronomes cherchent-ils vraiment des extraterrestres ? Oui, mais pas comme dans les films",
+      "summary": "La recherche de vie ailleurs que sur Terre n’est pas de la science-fiction, mais un domaine très sérieux de recherche : l’exobiologie. Découvrez les techniques qui pourraient permettre, un jour, une rencontre du troisième type. Sommes-nous seuls dans l’Univers ? Pendant longtemps, cette question relevait surtout de la ",
+      "link": "https://theconversation.com/les-astronomes-cherchent-ils-vraiment-des-extraterrestres-oui-mais-pas-comme-dans-les-films-286502",
+      "image": "https://counter.theconversation.com/content/286502/count.gif",
+      "publishedAt": "2026-07-08T07:59:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ajinfq2",
       "title": "Avec cette peine prononcée contre Marine Le Pen, « l’institution judiciaire transfère la décision politique aux citoyens »",
       "summary": "La dirigeante du Rassemblement national, Marine Le Pen, a été condamnée en appel, mardi 7 juillet 2026, à trois ans de prison, dont un an ferme sous bracelet électronique et 100 000 euros d’amende dans l’affaire des assistants parlementaires du Front national. La présidente du groupe RN à l’Assemblée nationale écope ég",
@@ -131,7 +195,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +213,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -168,7 +232,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -184,7 +248,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -200,7 +264,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -216,7 +280,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,7 +296,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -248,7 +312,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -264,7 +328,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -280,23 +344,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5asjgc",
-      "title": "Les applis de santé nous font-elles vraiment bouger plus…  ou seulement cliquer davantage ? Exemple avec une appli pour compter ses pas",
-      "summary": "L’essentiel La tendance est aux applications qui comptent vos pas et vous motivent à marcher avec des rappels fréquents envoyés sur votre smartphone. Une étude portant sur plus de 20 000 utilisateurs et utilisatrices d’une de ces applications montre que, si les notifications augmentent l’usage de l’appli, elles n’entra",
-      "link": "https://theconversation.com/les-applis-de-sante-nous-font-elles-vraiment-bouger-plus-ou-seulement-cliquer-davantage-exemple-avec-une-appli-pour-compter-ses-pas-286605",
-      "image": "https://counter.theconversation.com/content/286605/count.gif",
-      "publishedAt": "2026-07-07T09:30:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -312,7 +360,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5asjgc",
+      "title": "Les applis de santé nous font-elles vraiment bouger plus…  ou seulement cliquer davantage ? Exemple avec une appli pour compter ses pas",
+      "summary": "L’essentiel La tendance est aux applications qui comptent vos pas et vous motivent à marcher avec des rappels fréquents envoyés sur votre smartphone. Une étude portant sur plus de 20 000 utilisateurs et utilisatrices d’une de ces applications montre que, si les notifications augmentent l’usage de l’appli, elles n’entra",
+      "link": "https://theconversation.com/les-applis-de-sante-nous-font-elles-vraiment-bouger-plus-ou-seulement-cliquer-davantage-exemple-avec-une-appli-pour-compter-ses-pas-286605",
+      "image": "https://counter.theconversation.com/content/286605/count.gif",
+      "publishedAt": "2026-07-07T09:30:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -330,7 +394,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -346,7 +410,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ajtkzb4",
+      "title": "La sécurité des drones militaires, ou comment protéger ce qui compte (et ce n’est pas toujours le drone lui-même)",
+      "summary": "Sur les théâtres d’opération militaire, les drones évoluent dans un environnement hostile où ils doivent avant tout protéger les troupes qu’ils accompagnent. Pour mener à bien cette mission, ils déploient des stratégies qui leur offrent une certaine résilience, le but n’étant finalement pas de les protéger pour eux-mêm",
+      "link": "https://theconversation.com/la-securite-des-drones-militaires-ou-comment-proteger-ce-qui-compte-et-ce-nest-pas-toujours-le-drone-lui-meme-286221",
+      "image": "https://counter.theconversation.com/content/286221/count.gif",
+      "publishedAt": "2026-07-06T13:47:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -364,23 +444,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajtkzb4",
-      "title": "La sécurité des drones militaires, ou comment protéger ce qui compte (et ce n’est pas toujours le drone lui-même)",
-      "summary": "Sur les théâtres d’opération militaire, les drones évoluent dans un environnement hostile où ils doivent avant tout protéger les troupes qu’ils accompagnent. Pour mener à bien cette mission, ils déploient des stratégies qui leur offrent une certaine résilience, le but n’étant finalement pas de les protéger pour eux-mêm",
-      "link": "https://theconversation.com/la-securite-des-drones-militaires-ou-comment-proteger-ce-qui-compte-et-ce-nest-pas-toujours-le-drone-lui-meme-286221",
-      "image": "https://counter.theconversation.com/content/286221/count.gif",
-      "publishedAt": "2026-07-06T13:47:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,23 +462,23 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "ae72hvi",
-      "title": "Le syndrome du sauveur au travail : quand les héros de l’entreprise créent les crises qu’ils prétendent résoudre",
-      "summary": "La dynamique des organisations n’est pas toujours aisée à décrypter. La preuve avec ce profil particulier. En apprence, il est l’élément clé, la personne essentielle, toujours là pour trouver une solution quand un problème se pose. Et pourtant, dans certains contextes, ce collaborateur « sauveur » loin d’être la soluti",
-      "link": "https://theconversation.com/le-syndrome-du-sauveur-au-travail-quand-les-heros-de-lentreprise-creent-les-crises-quils-pretendent-resoudre-286197",
-      "image": "https://counter.theconversation.com/content/286197/count.gif",
-      "publishedAt": "2026-07-06T09:19:59.000Z",
+      "id": "awm3g3o",
+      "title": "The public isn’t bored with economists, management scholars and sociologists but engaging people has conditions",
+      "summary": "For years, we’ve been told a familiar story: social scientists such as economists, management scholars, sociologists, talk and the public shrugs. The claim goes that people don’t find our work interesting, that our expertise is fuzzy compared with “hard” sciences, and that journalists and readers will always prefer the",
+      "link": "https://theconversation.com/the-public-isnt-bored-with-economists-management-scholars-and-sociologists-but-engaging-people-has-conditions-279256",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-07-06T13:47:28.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +497,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -451,7 +515,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -469,23 +533,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awm3g3o",
-      "title": "The public isn’t bored with economists, management scholars and sociologists but engaging people has conditions",
-      "summary": "For years, we’ve been told a familiar story: social scientists such as economists, management scholars, sociologists, talk and the public shrugs. The claim goes that people don’t find our work interesting, that our expertise is fuzzy compared with “hard” sciences, and that journalists and readers will always prefer the",
-      "link": "https://theconversation.com/the-public-isnt-bored-with-economists-management-scholars-and-sociologists-but-engaging-people-has-conditions-279256",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-06T13:47:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +549,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +565,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,7 +581,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -549,23 +597,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "ahayese",
-      "title": "La gestion comme mise en dispositif",
-      "summary": "La gestion ne peut pas être réduite à des chiffres. Il s’agit d’une matière vivante, qui crée des dispositifs. Pour mieux comprendre, l’œuvre du philosophe Michel Foucault est éclairante. Décryptage avec la mise en place d’outils dans le cadre de la transition bas carbone. Cet article est publié dans le cadre d’un part",
-      "link": "https://theconversation.com/la-gestion-comme-mise-en-dispositif-285392",
-      "image": "https://counter.theconversation.com/content/285392/count.gif",
-      "publishedAt": "2026-07-06T09:20:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "ab105s2",
+      "title": "Les 6 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
+      "publishedAt": "2026-07-06T07:26:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -583,57 +631,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ab105s2",
-      "title": "Les 6 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
-      "publishedAt": "2026-07-06T07:26:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "at8oktu",
-      "title": "How do governance frameworks operate and what can major public projects gain from them?",
-      "summary": "Highways, rail networks, airports, national healthcare systems, defence and information technology… As governments around the world prepare to invest heavily in critical infrastructure, an important question remains: who ensures that the major projects to deliver it are well governed and how? Global infrastructure inve",
-      "link": "https://theconversation.com/how-do-governance-frameworks-operate-and-what-can-major-public-projects-gain-from-them-285686",
-      "image": "https://images.theconversation.com/files/742939/original/file-20260619-87-7095c.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-05T09:35:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a338cdw",
-      "title": "Sommes-nous prêts à faire confiance à l’IA pour organiser nos vacances ?",
-      "summary": "« Je vais passer une semaine à Rome en amoureux, trouve-moi cinq hôtels romantiques en centre-ville. » Faites-vous confiance aux IA génératives pour vous aider à organiser vos vacances ? Une nouvelle étude montre les points de résistance à l’utilisation de ces nouvelles technologies. Les outils d’intelligence artificie",
-      "link": "https://theconversation.com/sommes-nous-prets-a-faire-confiance-a-lia-pour-organiser-nos-vacances-285415",
-      "image": "https://counter.theconversation.com/content/285415/count.gif",
-      "publishedAt": "2026-07-05T09:35:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 39,
       "urgencyLevel": "basse"
     },
     {
@@ -652,7 +650,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 25,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -670,7 +668,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -688,7 +686,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -707,7 +705,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 13,
       "urgencyLevel": "basse"
     }
   ]
