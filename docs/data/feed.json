@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T02:53:07.166Z",
+  "generatedAt": "2026-07-09T09:36:59.531Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -167,8 +167,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "acnchib",
@@ -185,7 +185,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -203,7 +203,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -219,7 +219,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,7 +235,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +251,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +267,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +299,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,55 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afxievr",
-      "title": "Une découverte inattendue : des traces de séismes anciens dans le Bassin parisien",
-      "summary": "Le site de Beauvais, où les failles ont été observées dans le niveau archéologique, se trouve à proximité de la grande structure tectonique du Pays de Bray, qui parcourt le Bassin parisien sur plus de 100 kilomètres. Stéphane Baize, Fourni par l'auteur En 1993, lors de fouilles archéologiques préventives pour la constr",
-      "link": "https://theconversation.com/une-decouverte-inattendue-des-traces-de-seismes-anciens-dans-le-bassin-parisien-286398",
-      "image": "https://images.theconversation.com/files/745417/original/file-20260701-57-kcy6ec.jpeg?ixlib=rb-4.1.0&amp;rect=0%2C50%2C2750%2C1833&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-08T08:00:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amfhuca",
-      "title": "Avec ou sans synapses ? Le singulier système nerveux des cténophores, ou comment un débat scientifique vieux de 100 ans refait surface",
-      "summary": "Un cténophore (*Leucothea multicornis*, à gauche) et une méduse, ou cnidaire (*Aequorea sp.*, à droite), se ressemblent beaucoup mais n’ont pas – du tout ! – le même type de système nerveux. Alexander Semenov/Flickr, CC BY-NC-SA Dans les livres de biologie, on apprend que le système nerveux se compose de neurones conne",
-      "link": "https://theconversation.com/avec-ou-sans-synapses-le-singulier-systeme-nerveux-des-ctenophores-ou-comment-un-debat-scientifique-vieux-de-100-ans-refait-surface-284361",
-      "image": "https://images.theconversation.com/files/741047/original/file-20260610-85-54ylug.png?ixlib=rb-4.1.0&amp;rect=159%2C52%2C921%2C614&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-08T08:00:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2pp2av",
-      "title": "Les astronomes cherchent-ils vraiment des extraterrestres ? Oui, mais pas comme dans les films",
-      "summary": "La recherche de vie ailleurs que sur Terre n’est pas de la science-fiction, mais un domaine très sérieux de recherche : l’exobiologie. Découvrez les techniques qui pourraient permettre, un jour, une rencontre du troisième type. Sommes-nous seuls dans l’Univers ? Pendant longtemps, cette question relevait surtout de la ",
-      "link": "https://theconversation.com/les-astronomes-cherchent-ils-vraiment-des-extraterrestres-oui-mais-pas-comme-dans-les-films-286502",
-      "image": "https://counter.theconversation.com/content/286502/count.gif",
-      "publishedAt": "2026-07-08T07:59:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -379,7 +331,55 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "afxievr",
+      "title": "Une découverte inattendue : des traces de séismes anciens dans le Bassin parisien",
+      "summary": "Le site de Beauvais, où les failles ont été observées dans le niveau archéologique, se trouve à proximité de la grande structure tectonique du Pays de Bray, qui parcourt le Bassin parisien sur plus de 100 kilomètres. Stéphane Baize, Fourni par l'auteur En 1993, lors de fouilles archéologiques préventives pour la constr",
+      "link": "https://theconversation.com/une-decouverte-inattendue-des-traces-de-seismes-anciens-dans-le-bassin-parisien-286398",
+      "image": "https://images.theconversation.com/files/745417/original/file-20260701-57-kcy6ec.jpeg?ixlib=rb-4.1.0&amp;rect=0%2C50%2C2750%2C1833&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-08T08:00:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "amfhuca",
+      "title": "Avec ou sans synapses ? Le singulier système nerveux des cténophores, ou comment un débat scientifique vieux de 100 ans refait surface",
+      "summary": "Un cténophore (*Leucothea multicornis*, à gauche) et une méduse, ou cnidaire (*Aequorea sp.*, à droite), se ressemblent beaucoup mais n’ont pas – du tout ! – le même type de système nerveux. Alexander Semenov/Flickr, CC BY-NC-SA Dans les livres de biologie, on apprend que le système nerveux se compose de neurones conne",
+      "link": "https://theconversation.com/avec-ou-sans-synapses-le-singulier-systeme-nerveux-des-ctenophores-ou-comment-un-debat-scientifique-vieux-de-100-ans-refait-surface-284361",
+      "image": "https://images.theconversation.com/files/741047/original/file-20260610-85-54ylug.png?ixlib=rb-4.1.0&amp;rect=159%2C52%2C921%2C614&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-08T08:00:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a2pp2av",
+      "title": "Les astronomes cherchent-ils vraiment des extraterrestres ? Oui, mais pas comme dans les films",
+      "summary": "La recherche de vie ailleurs que sur Terre n’est pas de la science-fiction, mais un domaine très sérieux de recherche : l’exobiologie. Découvrez les techniques qui pourraient permettre, un jour, une rencontre du troisième type. Sommes-nous seuls dans l’Univers ? Pendant longtemps, cette question relevait surtout de la ",
+      "link": "https://theconversation.com/les-astronomes-cherchent-ils-vraiment-des-extraterrestres-oui-mais-pas-comme-dans-les-films-286502",
+      "image": "https://counter.theconversation.com/content/286502/count.gif",
+      "publishedAt": "2026-07-08T07:59:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -395,7 +395,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -413,7 +413,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,7 +432,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -448,7 +448,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +464,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +480,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +496,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -512,7 +512,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -528,7 +528,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -544,7 +544,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -562,8 +562,8 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ay93gba",
@@ -578,8 +578,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "atbg3oo",
@@ -594,7 +594,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -610,7 +610,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -647,7 +647,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -665,7 +665,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +683,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 10,
+      "urgency": 9,
       "urgencyLevel": "basse"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 9,
       "urgencyLevel": "basse"
     }
   ]
