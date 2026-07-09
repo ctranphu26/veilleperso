@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T14:56:18.936Z",
+  "generatedAt": "2026-07-09T19:44:29.238Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "ayg9pm8",
+      "title": "Avec « The Mandalorian », comprendre les enjeux derrière les métaux rares",
+      "summary": "Un détour par la fiction pour mieux comprendre les enjeux stratégiques et environnementaux de l’exploitation des terres rares. Allociné Armures étincelantes, forges ancestrales et batailles galactiques : dans l’univers de Star Wars, le « beskar » occupe une place à part. Ce métal légendaire, au cœur de l’identité manda",
+      "link": "https://theconversation.com/avec-the-mandalorian-comprendre-les-enjeux-derriere-les-metaux-rares-285780",
+      "image": "https://images.theconversation.com/files/746871/original/file-20260709-57-8xxq7x.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-09T15:26:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "am2i1bm",
       "title": "Pourquoi les alertes environnementales sont-elles si difficiles à entendre ?",
       "summary": "« Notre maison brûle, et nous regardons ailleurs », s’alarmait, en 2002, Jacques Chirac en utilisant la formule du physicien Jean-Paul Deléage, disparu en 2023. Joey Senft/Unsplash, CC BY Les dernières canicules en Europe ont pris de court les populations et les pouvoirs publics, mais pas les scientifiques qui alertent",
@@ -131,7 +147,106 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aablkja",
+      "title": "Écoles en surchauffe : un problème qui se joue avant tout à l’échelle des salles de classe",
+      "summary": "La canicule qui a frappé la France fin mai et en juin 2026 a illustré le manque d’adaptation du bâti scolaire face aux vagues de chaleur. L’éducation nationale entend y remédier à travers un plan spécifique, qui doit passer par le diagnostic des établissements scolaires les plus exposés à la chaleur. Une approche qui i",
+      "link": "https://theconversation.com/ecoles-en-surchauffe-un-probleme-qui-se-joue-avant-tout-a-lechelle-des-salles-de-classe-286878",
+      "image": "https://images.theconversation.com/files/746608/original/file-20260708-57-be79ed.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-09T15:23:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "classe"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a38ga0j",
+      "title": "Damanhur : pourquoi cette utopie italienne survit depuis cinquante ans. Et que peut-elle nous apprendre ?",
+      "summary": "Connaissez-vous Damnhur, dans le Piémont, une communauté italienne qui développe un mode de vie alternatif ? Que vous y souscriviez ou non, il est intéressant de se pencher sur le fonctionnement de cette microsociété. Son étude livre un éclairage, par contraste, des sociétés capitalistes. Malgré leur longévité remarqua",
+      "link": "https://theconversation.com/damanhur-pourquoi-cette-utopie-italienne-survit-depuis-cinquante-ans-et-que-peut-elle-nous-apprendre-284455",
+      "image": "https://images.theconversation.com/files/744170/original/file-20260625-57-ws1h1i.JPG?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-09T15:27:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awg5gye",
+      "title": "GPA à l’étranger et reconnaissance de filiation en France : la Cour de cassation acte un profond changement de logique",
+      "summary": "Le 3 juillet 2026, la Cour de cassation a rendu deux arrêts très attendus concernant la filiation des enfants nés grâce à une gestation pour autrui effectuée à l’étranger. Bien que cette pratique soit interdite en France, la Cour considère que « compte tenu de l’intérêt supérieur de l’enfant », cet interdit ne permet p",
+      "link": "https://theconversation.com/gpa-a-letranger-et-reconnaissance-de-filiation-en-france-la-cour-de-cassation-acte-un-profond-changement-de-logique-282083",
+      "image": "https://counter.theconversation.com/content/282083/count.gif",
+      "publishedAt": "2026-07-09T15:25:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arpsbgk",
+      "title": "Affaire Lyhanna : « Les défaillances de la gendarmerie et de la police sont d’abord liées à un manque de moyens humains »",
+      "summary": "Comment expliquer les défaillances des services d’enquête dans l’affaire Lyhanna ? Les gendarmes et les policiers, chargés des missions de police judiciaire, sont en sous-effectif, à l’instar des magistrats. Submergés de dossiers, ils peinent à hiérarchiser les priorités, alors que les directives ministérielles multipl",
+      "link": "https://theconversation.com/affaire-lyhanna-les-defaillances-de-la-gendarmerie-et-de-la-police-sont-dabord-liees-a-un-manque-de-moyens-humains-286577",
+      "image": "https://counter.theconversation.com/content/286577/count.gif",
+      "publishedAt": "2026-07-09T15:25:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "adcgeba",
+      "title": "Les États-Unis à l’heure des christianismes concurrents",
+      "summary": "Aux États-Unis, la religion demeure un facteur majeur de la vie politique et des comportements électoraux. Depuis le retour de Donald Trump à la Maison-Blanche, elle est également mobilisée pour légitimer des politiques intérieures et une vision particulière de l’ordre international. Cette évolution alimente une confro",
+      "link": "https://theconversation.com/les-etats-unis-a-lheure-des-christianismes-concurrents-285305",
+      "image": "https://counter.theconversation.com/content/285305/count.gif",
+      "publishedAt": "2026-07-09T15:24:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqelc31",
+      "title": "Making scientific knowledge free for all",
+      "summary": "Will accessing scientific knowledge ever become totally free? (Pictured here, the book tower at Prague's Municipal Library, the Czech Republic). Lysander Yuen/Unsplash, CC BY Scientific research publishing is a particularly lucrative industry. The most recent estimates suggest that it generates around 19 billion US dol",
+      "link": "https://theconversation.com/making-scientific-knowledge-free-for-all-286857",
+      "image": "https://images.theconversation.com/files/746044/original/file-20260630-77-5p4ugw.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4207%2C2804&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-09T15:19:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -150,7 +265,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -166,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -182,8 +297,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a46kzii",
@@ -200,7 +315,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -218,7 +333,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -236,7 +351,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -254,7 +369,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +385,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +401,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -302,7 +417,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -318,7 +433,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -334,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -366,23 +481,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajinfq2",
-      "title": "Avec cette peine prononcée contre Marine Le Pen, « l’institution judiciaire transfère la décision politique aux citoyens »",
-      "summary": "La dirigeante du Rassemblement national, Marine Le Pen, a été condamnée en appel, mardi 7 juillet 2026, à trois ans de prison, dont un an ferme sous bracelet électronique et 100 000 euros d’amende dans l’affaire des assistants parlementaires du Front national. La présidente du groupe RN à l’Assemblée nationale écope ég",
-      "link": "https://theconversation.com/avec-cette-peine-prononcee-contre-marine-le-pen-linstitution-judiciaire-transfere-la-decision-politique-aux-citoyens-287005",
-      "image": "https://counter.theconversation.com/content/287005/count.gif",
-      "publishedAt": "2026-07-07T19:31:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,7 +497,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -414,7 +513,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -430,7 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -446,105 +545,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq4vx48",
-      "title": "Retour sur le Covid-19 : d’une crise globale à des réponses nationales, les enseignements de la France, du Brésil et du Portugal",
-      "summary": "L’essentiel Lors de la pandémie de Covid-19, les réponses apportées ont été profondément différentes selon les pays. La presse s’en est fait l’écho, la recherche l’a confirmé. Une analyse comparée de la France, du Portugal et du Brésil montre comment les spécificités dans l’organisation des soins ainsi que la gouvernan",
-      "link": "https://theconversation.com/retour-sur-le-covid-19-dune-crise-globale-a-des-reponses-nationales-les-enseignements-de-la-france-du-bresil-et-du-portugal-286204",
-      "image": "https://counter.theconversation.com/content/286204/count.gif",
-      "publishedAt": "2026-07-07T13:53:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alks0yl",
-      "title": "Comment les constellations de satellites pourraient transformer la surveillance climatique",
-      "summary": "Les émissions de méthane peuvent varier rapidement (ici, une simulation qui montre des modifications sur douze heures), mais la fréquence de passage des satellites actuels ne permet pas encore de capturer ces évolutions. Mustapha Meftah, Fourni par l'auteur Pour détecter et réguler les émissions responsables du changem",
-      "link": "https://theconversation.com/comment-les-constellations-de-satellites-pourraient-transformer-la-surveillance-climatique-286385",
-      "image": "https://images.theconversation.com/files/745042/original/file-20260630-71-yibsp6.gif?ixlib=rb-4.1.0&amp;rect=90%2C0%2C972%2C648&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-07T13:53:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a68nran",
-      "title": "Des drones à quelques milliers de dollars contre des bombardiers à 100 millions : les grandes puissances sont-elles encore à l’abri ?",
-      "summary": "Le 1er juin 2025, l’Ukraine a frappé des bombardiers russes avec des drones cachés dans les toits de structures en bois montées sur des camions. Un an après ce coup d’éclat, ces moyens précis et peu coûteux sont de plus en plus employés, quotidiennement, par les deux armées. Les fondements matériels du statut de « gran",
-      "link": "https://theconversation.com/des-drones-a-quelques-milliers-de-dollars-contre-des-bombardiers-a-100-millions-les-grandes-puissances-sont-elles-encore-a-labri-286311",
-      "image": "https://counter.theconversation.com/content/286311/count.gif",
-      "publishedAt": "2026-07-07T13:52:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aru19b7",
-      "title": "Chlordécone, PFAS… pourquoi le droit devrait reconnaître un « préjudice collectif sanitaire »",
-      "summary": "Face aux expositions toxiques diffuses, le droit français sait indemniser certains malades et réparer certaines atteintes à l’environnement. Mais il peine encore à saisir l’atteinte portée à une communauté humaine entière exposée à une substance toxique. La notion de « préjudice collectif sanitaire » permettrait de com",
-      "link": "https://theconversation.com/chlordecone-pfas-pourquoi-le-droit-devrait-reconnaitre-un-prejudice-collectif-sanitaire-286776",
-      "image": "https://counter.theconversation.com/content/286776/count.gif",
-      "publishedAt": "2026-07-07T13:52:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aih03ro",
-      "title": "La financiarisation est-elle le « remède » qui rend l’hôpital plus malade ?",
-      "summary": ".tc-acc{display:block;margin:0 0 1rem} .tc-acc .tc-head,.tc-acc .tc-title,.tc-acc .tc-cta,.tc-acc .tc-item{margin:0} .tc-acc .tc-head p{margin:0} .tc-acc .tc-head br{display:none} .tc-acc .tc-head{display:block;cursor:pointer;text-decoration:none;color:inherit;background:#f1f1f2;border-radius:.5rem;padding:.85rem 1rem}",
-      "link": "https://theconversation.com/la-financiarisation-est-elle-le-remede-qui-rend-lhopital-plus-malade-278336",
-      "image": "https://images.theconversation.com/files/745608/original/file-20260702-64-cmvb8r.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-07T13:51:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avjzm6b",
-      "title": "Transition énergétique : quel est le rôle des syndicats dans les projets industriels ?",
-      "summary": "La transition énergétique est parfois présentée comme une opportunité pour redynamiser l’économie française, tout en permettant de répondre aux défis environnementaux. Parmi les nombreux acteurs impliqués dans les projets industriels en lien avec cette transition, les organisations syndicales restent peu présentes dans",
-      "link": "https://theconversation.com/transition-energetique-quel-est-le-role-des-syndicats-dans-les-projets-industriels-285630",
-      "image": "https://counter.theconversation.com/content/285630/count.gif",
-      "publishedAt": "2026-07-07T13:50:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -562,7 +563,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -578,7 +579,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -594,23 +595,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ab105s2",
-      "title": "Les 6 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
-      "publishedAt": "2026-07-06T07:26:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -628,7 +613,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 24,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ab105s2",
+      "title": "Les 6 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
+      "publishedAt": "2026-07-06T07:26:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -647,7 +648,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 19,
+      "urgency": 18,
       "urgencyLevel": "basse"
     },
     {
@@ -665,7 +666,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 19,
+      "urgency": 18,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +684,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 9,
+      "urgency": 8,
       "urgencyLevel": "basse"
     },
     {
@@ -702,7 +703,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 9,
+      "urgency": 8,
       "urgencyLevel": "basse"
     }
   ]
