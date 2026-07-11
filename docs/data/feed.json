@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T13:16:07.440Z",
+  "generatedAt": "2026-07-11T19:01:26.298Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "a2274pl",
+      "title": "Plages et baignades : dix conseils pour profiter pleinement de l’océan cet été",
+      "summary": "Que signifie un drapeau jaune sur une plage ? À quel moment les courants de baïnes sont-ils les plus intenses ? Que faire si un courant nous emporte au large ? Le point sur les choses à savoir pour se baigner en toute sécurité. La plage est un environnement exceptionnel, et notre territoire possède une façade maritime ",
+      "link": "https://theconversation.com/plages-et-baignades-dix-conseils-pour-profiter-pleinement-de-locean-cet-ete-286593",
+      "image": "https://counter.theconversation.com/content/286593/count.gif",
+      "publishedAt": "2026-07-11T13:58:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aptq48s",
       "title": "Et si les fan-zones étaient plutôt des « fun zones » ?",
       "summary": "Au-delà des supporters d’une équipe sportive, les fan-zones attirent un public bien plus large à la recherche d’un moment fun. Plongeons dans cette expérience collective pour comprendre les raisons de cet engouement. Assister à une rencontre sportive au sein d’un large public permet de vivre ce que Durkheim a appelé le",
@@ -131,8 +147,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amqkfw1",
@@ -147,8 +163,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afmmcy3",
@@ -163,8 +179,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ai2qvb2",
@@ -179,8 +195,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ana5s5y",
@@ -195,7 +211,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -211,7 +227,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +245,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +263,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -330,8 +346,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a38ga0j",
@@ -346,8 +362,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "awg5gye",
@@ -362,8 +378,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "arpsbgk",
@@ -378,8 +394,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "adcgeba",
@@ -394,8 +410,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aqelc31",
@@ -410,8 +426,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "al3r5ah",
@@ -429,8 +445,8 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5579sm",
@@ -445,8 +461,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a46kzii",
@@ -463,7 +479,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -479,7 +495,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -497,7 +513,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -515,7 +531,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -531,23 +547,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aa6ekl7",
-      "title": "Droit et vagues de chaleur : la France n’a pas de service public de la fraîcheur, et c’est un problème",
-      "summary": "La France est entrée dans un nouvel épisode de chaleur extrême, déjà le troisième de l’année 2026. Si le droit français entend protéger explicitement deux catégories de population – les personnes âgées et/ou vulnérables inscrites sur un registre communal et les salariés –, il protège insuffisamment tous les citoyens da",
-      "link": "https://theconversation.com/droit-et-vagues-de-chaleur-la-france-na-pas-de-service-public-de-la-fraicheur-et-cest-un-probleme-287009",
-      "image": "https://images.theconversation.com/files/746391/original/file-20260707-71-q8qvwr.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-08T13:30:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -565,7 +565,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -581,7 +581,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -634,7 +634,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -668,7 +668,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 5,
+      "urgency": 4,
       "urgencyLevel": "basse"
     },
     {
