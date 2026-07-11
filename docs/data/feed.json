@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T19:25:26.621Z",
+  "generatedAt": "2026-07-11T02:32:43.815Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -165,8 +165,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afk1qb4",
@@ -183,7 +183,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -266,7 +266,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -282,7 +282,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -298,7 +298,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -314,7 +314,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -330,7 +330,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -346,7 +346,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -365,7 +365,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,7 +381,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,7 +399,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -417,8 +417,24 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a1vyu85",
+      "title": "Un BO avant une loi : interdire le téléphone portable au lycée",
+      "summary": "Publication officielle du ministre de l’Education, une circulaire précise l’annonce de l’interdiction du téléphone portable au lycée (MENE2617958C Circulaire : du 2-7-2026). Nous y sommes enfin, le ministère a tranché L’article Un BO avant une loi : interdire le téléphone portable au lycée est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/07/06/un-bo-avant-une-loi-interdire-le-telephone-portable-au-lycee/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-07-06T06:23:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "acnchib",
@@ -435,7 +451,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -453,7 +469,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -469,7 +485,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -485,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -501,7 +517,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -517,7 +533,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -533,23 +549,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1vyu85",
-      "title": "Un BO avant une loi : interdire le téléphone portable au lycée",
-      "summary": "Publication officielle du ministre de l’Education, une circulaire précise l’annonce de l’interdiction du téléphone portable au lycée (MENE2617958C Circulaire : du 2-7-2026). Nous y sommes enfin, le ministère a tranché L’article Un BO avant une loi : interdire le téléphone portable au lycée est apparu en premier sur Le ",
-      "link": "https://www.cafepedagogique.net/2026/07/06/un-bo-avant-une-loi-interdire-le-telephone-portable-au-lycee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
-      "publishedAt": "2026-07-06T06:23:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -567,7 +567,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -583,7 +583,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -599,41 +599,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a53kv91",
-      "title": "Edouard Philippe veut raccourcir les vacances d’été",
-      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
-      "publishedAt": "2026-07-06T06:37:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 17,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ab105s2",
-      "title": "Les 6 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
-      "publishedAt": "2026-07-06T07:26:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -652,7 +618,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 16,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -670,7 +636,41 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 16,
+      "urgency": 15,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a53kv91",
+      "title": "Edouard Philippe veut raccourcir les vacances d’été",
+      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
+      "publishedAt": "2026-07-06T06:37:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 15,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ab105s2",
+      "title": "Les 6 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
+      "publishedAt": "2026-07-06T07:26:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 6,
+      "urgency": 5,
       "urgencyLevel": "basse"
     },
     {
@@ -707,7 +707,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 6,
+      "urgency": 5,
       "urgencyLevel": "basse"
     }
   ]
