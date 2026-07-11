@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T07:53:43.611Z",
+  "generatedAt": "2026-07-11T13:16:07.440Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,70 @@
   "count": 35,
   "items": [
     {
+      "id": "aptq48s",
+      "title": "Et si les fan-zones étaient plutôt des « fun zones » ?",
+      "summary": "Au-delà des supporters d’une équipe sportive, les fan-zones attirent un public bien plus large à la recherche d’un moment fun. Plongeons dans cette expérience collective pour comprendre les raisons de cet engouement. Assister à une rencontre sportive au sein d’un large public permet de vivre ce que Durkheim a appelé le",
+      "link": "https://theconversation.com/et-si-les-fan-zones-etaient-plutot-des-fun-zones-286400",
+      "image": "https://counter.theconversation.com/content/286400/count.gif",
+      "publishedAt": "2026-07-11T09:05:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amqkfw1",
+      "title": "Pays pauvres : comment les institutions financières internationales leur permettent de se financer à moindre coût ?",
+      "summary": "Alors que les pays les plus pauvres connaissent des situations économiques fragiles, les banques multilatérales de développement, ou BMD, comme la Banque mondiale, leur octroient des prêts à des conditions avantageuses par rapport à des banques commerciales et aux marchés financiers. Quel est leur secret pour éviter de",
+      "link": "https://theconversation.com/pays-pauvres-comment-les-institutions-financieres-internationales-leur-permettent-de-se-financer-a-moindre-cout-280837",
+      "image": "https://images.theconversation.com/files/743241/original/file-20260622-71-qxx7om.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-11T09:04:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afmmcy3",
+      "title": "En devenant des icônes portées même par Barbie, les Birkenstock sont aussi devenues une proie de choix pour les dupes",
+      "summary": "En quelques années, les Birkenstock sont devenues des chaussures à la mode, présentant même des caractéristiques des produits de luxe. À commencer par la possibilité d’augmenter les prix sans affecter la demande. Le résultat est le développement d’imitations, mais aussi de dupes. Pour les contrer, la marque d’origine a",
+      "link": "https://theconversation.com/en-devenant-des-icones-portees-meme-par-barbie-les-birkenstock-sont-aussi-devenues-une-proie-de-choix-pour-les-dupes-286266",
+      "image": "https://counter.theconversation.com/content/286266/count.gif",
+      "publishedAt": "2026-07-11T09:04:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ai2qvb2",
+      "title": "Interdiction des PFAS en France et en Europe : ce qui change en 2026",
+      "summary": "Début 2026, la France a interdit certains produits à l’origine de pollution aux perfluoroalkylées et polyfluoroalkylées, ou PFAS. Cette évolution de la législation anticipe la réglementation européenne qui pourrait changer fin 2026, à la suite d’un projet de restriction déposé par plusieurs États européens et soutenu p",
+      "link": "https://theconversation.com/interdiction-des-pfas-en-france-et-en-europe-ce-qui-change-en-2026-285872",
+      "image": "https://images.theconversation.com/files/743998/original/file-20260624-3928-iwrr4k.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-11T09:04:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ana5s5y",
       "title": "Présomption de légitime défense pour les policiers : une proposition de loi qui pose problème ?",
       "summary": "Déposée en décembre 2024 au Parlement, rejetée en commission une première fois début 2026, la « proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l’ordre dans l’exercice de leurs fonctions » a été adoptée à l’Assemblée nationale, le 7 juillet. Revendiquée de longue date par ",
@@ -131,8 +195,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aruqtmz",
@@ -147,7 +211,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +229,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +247,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -266,7 +330,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -282,7 +346,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -298,7 +362,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -314,7 +378,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -330,7 +394,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -346,7 +410,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -365,7 +429,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,7 +445,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,26 +463,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "acupd60",
-      "title": "Pourquoi Nigel Farage démissionne de son mandat de député britannique… pour mieux se représenter",
-      "summary": "Depuis le siège du parti anti-immigration Reform UK, à Londres, Nigel Farage a annoncé mardi 7 juillet 2026 qu’il démissionnerait de son mandat de député de Clacton (Essex)… pour se représenter aussitôt dans la même circonscription. L’homme politique est accusé de ne pas avoir déclaré d’importants dons reçus peu avant ",
-      "link": "https://theconversation.com/pourquoi-nigel-farage-demissionne-de-son-mandat-de-depute-britannique-pour-mieux-se-representer-287084",
-      "image": "https://counter.theconversation.com/content/287084/count.gif",
-      "publishedAt": "2026-07-08T10:37:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "migration"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1vyu85",
@@ -433,7 +479,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -451,7 +497,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -469,7 +515,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -485,7 +531,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -501,55 +547,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "algo2fd",
-      "title": "En supprimant le garant et le dépôt de garantie, le Brésil facilite la location des logements. Qui en profite vraiment ?",
-      "summary": "Au Brésil, la plateforme Quintoandar se charge du recouvrement judiciaire auprès des propriétaires en cas d’impayés des locataires. Une garantie locative privée qui arrange tout le monde. Mais qui sont les véritables gagnants et perdants entre propriétaires, locataires et cet intermédiaire numérique ? En 2013, deux ent",
-      "link": "https://theconversation.com/en-supprimant-le-garant-et-le-depot-de-garantie-le-bresil-facilite-la-location-des-logements-qui-en-profite-vraiment-281809",
-      "image": "https://counter.theconversation.com/content/281809/count.gif",
-      "publishedAt": "2026-07-08T13:29:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "af7smzq",
-      "title": "Canicule et santé au travail : quelles sont les adaptations mises en place par les organisations ?",
-      "summary": "Au-delà des obligations légales, comment les employeurs mettent-ils en place des mesures pour accompagner les salariés en période de forte chaleur, voire de canicule ? Une recherche portant sur plusieurs accords d’entreprises en Bretagne montre une grande hétérogénéité des dispositions effectives. Comment articulent-il",
-      "link": "https://theconversation.com/canicule-et-sante-au-travail-quelles-sont-les-adaptations-mises-en-place-par-les-organisations-286610",
-      "image": "https://counter.theconversation.com/content/286610/count.gif",
-      "publishedAt": "2026-07-08T13:29:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6jkw5o",
-      "title": "Peut-on apprendre la géographie française grâce aux jeux « Pokémon » ?",
-      "summary": "Concept art pour *Pokémon X et Y*, présenté lors du Pokemon Center Paris, 2014. Pokémon Qu’ont en commun les menhirs bretons, les mosaïques de Barcelone et le château de la famille royale britannique ? Tous ont été adaptés en pixels dans la série de jeux vidéos Pokémon. Les jeux vidéo, souvent dénigrés pour leur tendan",
-      "link": "https://theconversation.com/peut-on-apprendre-la-geographie-francaise-grace-aux-jeux-pokemon-286912",
-      "image": "https://images.theconversation.com/files/746620/original/file-20260708-57-4en64u.jpg?ixlib=rb-4.1.0&amp;rect=160%2C0%2C1728%2C1152&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-08T13:28:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -567,7 +565,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 18,
       "urgencyLevel": "basse"
     },
     {
@@ -583,7 +581,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 18,
       "urgencyLevel": "basse"
     },
     {
@@ -620,7 +618,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -636,7 +634,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -654,7 +652,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -670,7 +668,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -707,7 +705,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 5,
+      "urgency": 4,
       "urgencyLevel": "basse"
     }
   ]
