@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T08:14:38.911Z",
+  "generatedAt": "2026-07-12T13:16:54.714Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,86 @@
   "count": 35,
   "items": [
     {
+      "id": "a75507i",
+      "title": "Peut-on cartographier l'Odyssée ? Comment géographes antiques et chercheurs d'aujourd'hui ont retracé le voyage d'Ulysse",
+      "summary": "L'Odyssée, le très attendu film de Christopher Nolan, sort en salles le 15 juillet. L'occasion de revenir sur une question qui fascine historiens et archéologues depuis des siècles : les lieux traversés par Ulysse ont-ils réellement existé ? L’Odyssée d’Homère est une quête, celle du roi Ulysse, qui met dix ans à regag",
+      "link": "https://theconversation.com/peut-on-cartographier-lodyssee-comment-geographes-antiques-et-chercheurs-daujourdhui-ont-retrace-le-voyage-dulysse-287354",
+      "image": "https://images.theconversation.com/files/747131/original/file-20260710-57-di204q.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-12T09:35:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apa57l3",
+      "title": "Marianne : pourquoi la République a-t-elle choisi une femme désincarnée comme symbole d’unité nationale ?",
+      "summary": "Tous les camps politiques se réclament d’elle, de la Manif pour tous aux féministes, en passant par les gilets jaunes, ou des militants pro Gaza. Une proposition de loi Les Républicains veut même rendre son buste obligatoire dans toutes les mairies. Pourtant, chaque tentative de donner un vrai visage à Marianne finit e",
+      "link": "https://theconversation.com/marianne-pourquoi-la-republique-a-t-elle-choisi-une-femme-desincarnee-comme-symbole-dunite-nationale-281777",
+      "image": "https://images.theconversation.com/files/735365/original/file-20260512-69-mull2y.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-12T08:38:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3enl5s",
+      "title": "Allons-nous vers une « corridorisation » du monde ?",
+      "summary": "Les grandes puissances déploient des initiatives de connectivité qui redessinent la carte du monde. La Chine avec ses Nouvelles Routes de la soie, l’Union européenne et son Global Gateway, les États-Unis et le G7 à travers le Build Back Better World ou B3W/PGII… Tous ces projets traduisent une même ambition : organiser",
+      "link": "https://theconversation.com/allons-nous-vers-une-corridorisation-du-monde-286179",
+      "image": "https://counter.theconversation.com/content/286179/count.gif",
+      "publishedAt": "2026-07-12T08:37:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2q9ot2",
+      "title": "Opération de la cataracte, prothèse de hanche…  quand les dépassements d’honoraires des médecins se généralisent pour des actes fréquents",
+      "summary": "L’essentiel Les dépassements d’honoraires des médecins spécialistes se généralisent, voire deviennent majoritaires pour certains soins et dans certains territoires. Des études récentes de l’Institut de recherche et documentation en économie de la santé (Irdes) montrent que certains actes sont particulièrement concernés",
+      "link": "https://theconversation.com/operation-de-la-cataracte-prothese-de-hanche-quand-les-depassements-dhonoraires-des-medecins-se-generalisent-pour-des-actes-frequents-286602",
+      "image": "https://images.theconversation.com/files/746914/original/file-20260709-57-g0woms.png",
+      "publishedAt": "2026-07-12T08:39:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aa1gzf7",
+      "title": "Quand la Légion d’honneur fait monter les cours de Bourse : les décorations d’État, signaux de proximité politique ?",
+      "summary": "Instituée en 1802, la Légion d’honneur est la plus haute distinction nationale décernée à des citoyens français ou à des personnes étrangères pour leurs mérites au service de la nation, à titre civil ou sous les armes. Symbolique, serait-elle dénuée de toute valeur économique ? Une étude montre que, au contraire, son a",
+      "link": "https://theconversation.com/quand-la-legion-dhonneur-fait-monter-les-cours-de-bourse-les-decorations-detat-signaux-de-proximite-politique-286866",
+      "image": "https://images.theconversation.com/files/746131/original/file-20260706-57-sw0n.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-12T08:39:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a2274pl",
       "title": "Plages et baignades : dix conseils pour profiter pleinement de l’océan cet été",
       "summary": "Que signifie un drapeau jaune sur une plage ? À quel moment les courants de baïnes sont-ils les plus intenses ? Que faire si un courant nous emporte au large ? Le point sur les choses à savoir pour se baigner en toute sécurité. La plage est un environnement exceptionnel, et notre territoire possède une façade maritime ",
@@ -131,7 +211,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -147,7 +227,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -163,7 +243,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -179,7 +259,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -195,7 +275,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -211,7 +291,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -227,7 +307,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,8 +325,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ayg9pm8",
@@ -261,8 +341,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "afk1qb4",
@@ -279,8 +359,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ak4y5di",
@@ -295,8 +375,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ar69yy4",
@@ -311,23 +391,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
-      "id": "am2i1bm",
-      "title": "Pourquoi les alertes environnementales sont-elles si difficiles à entendre ?",
-      "summary": "« Notre maison brûle, et nous regardons ailleurs », s’alarmait, en 2002, Jacques Chirac en utilisant la formule du physicien Jean-Paul Deléage, disparu en 2023. Joey Senft/Unsplash, CC BY Les dernières canicules en Europe ont pris de court les populations et les pouvoirs publics, mais pas les scientifiques qui alertent",
-      "link": "https://theconversation.com/pourquoi-les-alertes-environnementales-sont-elles-si-difficiles-a-entendre-286395",
-      "image": "https://images.theconversation.com/files/744834/original/file-20260629-57-6d7fke.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C5760%2C3840&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-09T09:07:32.000Z",
+      "id": "a38ga0j",
+      "title": "Damanhur : pourquoi cette utopie italienne survit depuis cinquante ans. Et que peut-elle nous apprendre ?",
+      "summary": "Connaissez-vous Damnhur, dans le Piémont, une communauté italienne qui développe un mode de vie alternatif ? Que vous y souscriviez ou non, il est intéressant de se pencher sur le fonctionnement de cette microsociété. Son étude livre un éclairage, par contraste, des sociétés capitalistes. Malgré leur longévité remarqua",
+      "link": "https://theconversation.com/damanhur-pourquoi-cette-utopie-italienne-survit-depuis-cinquante-ans-et-que-peut-elle-nous-apprendre-284455",
+      "image": "https://images.theconversation.com/files/744170/original/file-20260625-57-ws1h1i.JPG?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-09T15:27:17.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -346,41 +426,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a46kzii",
-      "title": "Médias : qui décide de ce que vous lisez ? Dans les coulisses de la « mécanique de la donnée »",
-      "summary": "Aujourd’hui, les médias en ligne peuvent suivre en temps réel les audiences de leurs articles et les réseaux sociaux analysent ce que vous lisez pour vous proposer d’autres contenus censés être plus en phase avec vos centres d’intérêt. Regard sur cette « mécanique de la donnée », à travers une enquête ethnographique au",
-      "link": "https://theconversation.com/medias-qui-decide-de-ce-que-vous-lisez-dans-les-coulisses-de-la-mecanique-de-la-donnee-284348",
-      "image": "https://counter.theconversation.com/content/284348/count.gif",
-      "publishedAt": "2026-07-08T13:31:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a38ga0j",
-      "title": "Damanhur : pourquoi cette utopie italienne survit depuis cinquante ans. Et que peut-elle nous apprendre ?",
-      "summary": "Connaissez-vous Damnhur, dans le Piémont, une communauté italienne qui développe un mode de vie alternatif ? Que vous y souscriviez ou non, il est intéressant de se pencher sur le fonctionnement de cette microsociété. Son étude livre un éclairage, par contraste, des sociétés capitalistes. Malgré leur longévité remarqua",
-      "link": "https://theconversation.com/damanhur-pourquoi-cette-utopie-italienne-survit-depuis-cinquante-ans-et-que-peut-elle-nous-apprendre-284455",
-      "image": "https://images.theconversation.com/files/744170/original/file-20260625-57-ws1h1i.JPG?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-09T15:27:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -396,7 +442,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -412,7 +458,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -428,7 +474,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -444,7 +490,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a1vyu85",
+      "title": "Un BO avant une loi : interdire le téléphone portable au lycée",
+      "summary": "Publication officielle du ministre de l’Education, une circulaire précise l’annonce de l’interdiction du téléphone portable au lycée (MENE2617958C Circulaire : du 2-7-2026). Nous y sommes enfin, le ministère a tranché L’article Un BO avant une loi : interdire le téléphone portable au lycée est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/07/06/un-bo-avant-une-loi-interdire-le-telephone-portable-au-lycee/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-07-06T06:23:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -463,7 +525,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -479,109 +541,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1vyu85",
-      "title": "Un BO avant une loi : interdire le téléphone portable au lycée",
-      "summary": "Publication officielle du ministre de l’Education, une circulaire précise l’annonce de l’interdiction du téléphone portable au lycée (MENE2617958C Circulaire : du 2-7-2026). Nous y sommes enfin, le ministère a tranché L’article Un BO avant une loi : interdire le téléphone portable au lycée est apparu en premier sur Le ",
-      "link": "https://www.cafepedagogique.net/2026/07/06/un-bo-avant-une-loi-interdire-le-telephone-portable-au-lycee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
-      "publishedAt": "2026-07-06T06:23:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "acnchib",
-      "title": "Despite World Cup team’s diversity, France is still wrestling with unresolved issues of identity and representation",
-      "summary": "At every Football World Cup and any other major football tournament, it is not only Les Bleus’ performances on the pitch that come under scrutiny, but also the players’ identities, their migrant backgrounds and the extent to which they represent France and French society. This recurrent question speaks to unresolved is",
-      "link": "https://theconversation.com/despite-world-cup-teams-diversity-france-is-still-wrestling-with-unresolved-issues-of-identity-and-representation-286858",
-      "image": "https://images.theconversation.com/files/746304/original/file-20260707-57-27fpik.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-08T13:40:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "av3t61y",
-      "title": "Football : les Bleus représentent-ils la France ?",
-      "summary": "À chaque Coupe du monde, ce ne sont pas seulement les performances des Bleus qui sont scrutées, mais l’identité des joueurs et leurs origines. Leur présence sur le terrain ravive un débat ancien sur l’immigration, l’identité nationale et la manière dont la France se pense elle-même. Derrière la composition de l’équipe ",
-      "link": "https://theconversation.com/football-les-bleus-representent-ils-la-france-285756",
-      "image": "https://counter.theconversation.com/content/285756/count.gif",
-      "publishedAt": "2026-07-08T13:31:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "migration"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "asoj71o",
-      "title": "Au-delà du projet immobilier Kushner-Trump, les racines de la contestation politique en Albanie",
-      "summary": "Née de l’opposition au projet immobilier de Jared Kushner et d’Ivanka Trump sur le littoral albanais, la mobilisation, qui se déroule depuis le début du mois de juin, révèle des tensions politiques plus profondes. Elle met en lumière le rejet de la corruption et du mode de gouvernance du premier ministre Edi Rama. Depu",
-      "link": "https://theconversation.com/au-dela-du-projet-immobilier-kushner-trump-les-racines-de-la-contestation-politique-en-albanie-286681",
-      "image": "https://counter.theconversation.com/content/286681/count.gif",
-      "publishedAt": "2026-07-08T13:31:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "air22zr",
-      "title": "10 lectures pour vos vacances d’été",
-      "summary": "Retrouvez à cette page, nos 10 conseils lecture pour ces vacances ! Frédérique Blu : des nouvelles de l’école en 13 nouvelles De quoi est faite la vie de L’article 10 lectures pour vos vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/07/10-lectures-pour-vos-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/PHOTOS-DE-CLASSES-FRED-BLU_COUV-194x300.jpg.webp",
-      "publishedAt": "2026-07-07T06:22:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 14,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ay93gba",
-      "title": "Littérature jeunesse : la sélection de l’été",
-      "summary": "Découvrez les conseils de Marianne Baby, notre spécialiste littérature jeunesse, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Littérature jeunesse : la sélection de l’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
-      "publishedAt": "2026-07-07T06:10:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -622,6 +582,40 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "air22zr",
+      "title": "10 lectures pour vos vacances d’été",
+      "summary": "Retrouvez à cette page, nos 10 conseils lecture pour ces vacances ! Frédérique Blu : des nouvelles de l’école en 13 nouvelles De quoi est faite la vie de L’article 10 lectures pour vos vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/10-lectures-pour-vos-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/PHOTOS-DE-CLASSES-FRED-BLU_COUV-194x300.jpg.webp",
+      "publishedAt": "2026-07-07T06:22:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 13,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ay93gba",
+      "title": "Littérature jeunesse : la sélection de l’été",
+      "summary": "Découvrez les conseils de Marianne Baby, notre spécialiste littérature jeunesse, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Littérature jeunesse : la sélection de l’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
+      "publishedAt": "2026-07-07T06:10:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 13,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "atbg3oo",
       "title": "Les 5 expos à voir pendant les vacances d’été",
       "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
@@ -634,7 +628,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
@@ -652,7 +646,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 9,
       "urgencyLevel": "basse"
     },
     {
@@ -668,7 +662,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 9,
       "urgencyLevel": "basse"
     },
     {
