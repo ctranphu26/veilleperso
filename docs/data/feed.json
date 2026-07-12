@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T13:16:54.714Z",
+  "generatedAt": "2026-07-12T19:03:55.171Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +163,41 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atj95ox",
+      "title": "World Cup 2026: how are posts on diversity and inclusion being received on social media?",
+      "summary": "Football has embraced the issue of diversity, though not without controversy. But how do online communities respond to these efforts? An analysis of several thousand social media posts reveals a more nuanced reality: in the eyes of the public, not all forms of diversity are received in the same way. Nelson Mandela famo",
+      "link": "https://theconversation.com/world-cup-2026-how-are-posts-on-diversity-and-inclusion-being-received-on-social-media-287259",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-07-12T15:46:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "inclusion"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2sqai3",
+      "title": "Peut-on mieux recycler les métaux précieux contenus dans nos ordinateurs ?",
+      "summary": ".tc-acc{display:block;margin:0 0 1rem} .tc-acc .tc-head,.tc-acc .tc-title,.tc-acc .tc-cta,.tc-acc .tc-item{margin:0} .tc-acc .tc-head p{margin:0} .tc-acc .tc-head br{display:none} .tc-acc .tc-head{display:block;cursor:pointer;text-decoration:none;color:inherit;background:#f1f1f2;border-radius:.5rem;padding:.85rem 1rem}",
+      "link": "https://theconversation.com/peut-on-mieux-recycler-les-metaux-precieux-contenus-dans-nos-ordinateurs-285541",
+      "image": "https://counter.theconversation.com/content/285541/count.gif",
+      "publishedAt": "2026-07-12T15:45:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -179,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aa1gzf7",
@@ -195,8 +229,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2274pl",
@@ -211,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -227,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -243,7 +277,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -259,7 +293,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -275,7 +309,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -291,7 +325,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -307,8 +341,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ayg9pm8",
+      "title": "Avec « The Mandalorian », comprendre les enjeux derrière les métaux rares",
+      "summary": "Un détour par la fiction pour mieux comprendre les enjeux stratégiques et environnementaux de l’exploitation des terres rares. Allociné Armures étincelantes, forges ancestrales et batailles galactiques : dans l’univers de Star Wars, le « beskar » occupe une place à part. Ce métal légendaire, au cœur de l’identité manda",
+      "link": "https://theconversation.com/avec-the-mandalorian-comprendre-les-enjeux-derriere-les-metaux-rares-285780",
+      "image": "https://images.theconversation.com/files/746871/original/file-20260709-57-8xxq7x.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-09T15:26:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aar3bb7",
@@ -325,23 +375,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ayg9pm8",
-      "title": "Avec « The Mandalorian », comprendre les enjeux derrière les métaux rares",
-      "summary": "Un détour par la fiction pour mieux comprendre les enjeux stratégiques et environnementaux de l’exploitation des terres rares. Allociné Armures étincelantes, forges ancestrales et batailles galactiques : dans l’univers de Star Wars, le « beskar » occupe une place à part. Ce métal légendaire, au cœur de l’identité manda",
-      "link": "https://theconversation.com/avec-the-mandalorian-comprendre-les-enjeux-derriere-les-metaux-rares-285780",
-      "image": "https://images.theconversation.com/files/746871/original/file-20260709-57-8xxq7x.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-09T15:26:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -359,7 +393,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -375,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -391,106 +425,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a38ga0j",
-      "title": "Damanhur : pourquoi cette utopie italienne survit depuis cinquante ans. Et que peut-elle nous apprendre ?",
-      "summary": "Connaissez-vous Damnhur, dans le Piémont, une communauté italienne qui développe un mode de vie alternatif ? Que vous y souscriviez ou non, il est intéressant de se pencher sur le fonctionnement de cette microsociété. Son étude livre un éclairage, par contraste, des sociétés capitalistes. Malgré leur longévité remarqua",
-      "link": "https://theconversation.com/damanhur-pourquoi-cette-utopie-italienne-survit-depuis-cinquante-ans-et-que-peut-elle-nous-apprendre-284455",
-      "image": "https://images.theconversation.com/files/744170/original/file-20260625-57-ws1h1i.JPG?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-09T15:27:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aablkja",
-      "title": "Écoles en surchauffe : un problème qui se joue avant tout à l’échelle des salles de classe",
-      "summary": "La canicule qui a frappé la France fin mai et en juin 2026 a illustré le manque d’adaptation du bâti scolaire face aux vagues de chaleur. L’éducation nationale entend y remédier à travers un plan spécifique, qui doit passer par le diagnostic des établissements scolaires les plus exposés à la chaleur. Une approche qui i",
-      "link": "https://theconversation.com/ecoles-en-surchauffe-un-probleme-qui-se-joue-avant-tout-a-lechelle-des-salles-de-classe-286878",
-      "image": "https://images.theconversation.com/files/746608/original/file-20260708-57-be79ed.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-09T15:23:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "classe"
-      ],
-      "relevance": 87,
-      "relevanceLevel": "haute",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awg5gye",
-      "title": "GPA à l’étranger et reconnaissance de filiation en France : la Cour de cassation acte un profond changement de logique",
-      "summary": "Le 3 juillet 2026, la Cour de cassation a rendu deux arrêts très attendus concernant la filiation des enfants nés grâce à une gestation pour autrui effectuée à l’étranger. Bien que cette pratique soit interdite en France, la Cour considère que « compte tenu de l’intérêt supérieur de l’enfant », cet interdit ne permet p",
-      "link": "https://theconversation.com/gpa-a-letranger-et-reconnaissance-de-filiation-en-france-la-cour-de-cassation-acte-un-profond-changement-de-logique-282083",
-      "image": "https://counter.theconversation.com/content/282083/count.gif",
-      "publishedAt": "2026-07-09T15:25:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arpsbgk",
-      "title": "Affaire Lyhanna : « Les défaillances de la gendarmerie et de la police sont d’abord liées à un manque de moyens humains »",
-      "summary": "Comment expliquer les défaillances des services d’enquête dans l’affaire Lyhanna ? Les gendarmes et les policiers, chargés des missions de police judiciaire, sont en sous-effectif, à l’instar des magistrats. Submergés de dossiers, ils peinent à hiérarchiser les priorités, alors que les directives ministérielles multipl",
-      "link": "https://theconversation.com/affaire-lyhanna-les-defaillances-de-la-gendarmerie-et-de-la-police-sont-dabord-liees-a-un-manque-de-moyens-humains-286577",
-      "image": "https://counter.theconversation.com/content/286577/count.gif",
-      "publishedAt": "2026-07-09T15:25:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "adcgeba",
-      "title": "Les États-Unis à l’heure des christianismes concurrents",
-      "summary": "Aux États-Unis, la religion demeure un facteur majeur de la vie politique et des comportements électoraux. Depuis le retour de Donald Trump à la Maison-Blanche, elle est également mobilisée pour légitimer des politiques intérieures et une vision particulière de l’ordre international. Cette évolution alimente une confro",
-      "link": "https://theconversation.com/les-etats-unis-a-lheure-des-christianismes-concurrents-285305",
-      "image": "https://counter.theconversation.com/content/285305/count.gif",
-      "publishedAt": "2026-07-09T15:24:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqelc31",
-      "title": "Making scientific knowledge free for all",
-      "summary": "Will accessing scientific knowledge ever become totally free? (Pictured here, the book tower at Prague's Municipal Library, the Czech Republic). Lysander Yuen/Unsplash, CC BY Scientific research publishing is a particularly lucrative industry. The most recent estimates suggest that it generates around 19 billion US dol",
-      "link": "https://theconversation.com/making-scientific-knowledge-free-for-all-286857",
-      "image": "https://images.theconversation.com/files/746044/original/file-20260630-77-5p4ugw.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4207%2C2804&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-09T15:19:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -510,38 +445,102 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "al3r5ah",
-      "title": "Ce que la Coupe du monde 2026 nous apprend sur la diversité et l’inclusion sur les réseaux sociaux",
-      "summary": "Le monde du football s’est emparé de la question de la diversité, non sans que quelques tensions soient observées. Mais comment est accueillie cette démarche ? Une analyse de plusieurs milliers de publications en ligne révèle une réalité subtile. Où l’on constate que, pour le public, toutes les formes de diversité ne s",
-      "link": "https://theconversation.com/ce-que-la-coupe-du-monde-2026-nous-apprend-sur-la-diversite-et-linclusion-sur-les-reseaux-sociaux-286964",
-      "image": "https://counter.theconversation.com/content/286964/count.gif",
-      "publishedAt": "2026-07-09T12:31:52.000Z",
+      "id": "aablkja",
+      "title": "Écoles en surchauffe : un problème qui se joue avant tout à l’échelle des salles de classe",
+      "summary": "La canicule qui a frappé la France fin mai et en juin 2026 a illustré le manque d’adaptation du bâti scolaire face aux vagues de chaleur. L’éducation nationale entend y remédier à travers un plan spécifique, qui doit passer par le diagnostic des établissements scolaires les plus exposés à la chaleur. Une approche qui i",
+      "link": "https://theconversation.com/ecoles-en-surchauffe-un-probleme-qui-se-joue-avant-tout-a-lechelle-des-salles-de-classe-286878",
+      "image": "https://images.theconversation.com/files/746608/original/file-20260708-57-be79ed.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-09T15:23:24.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
+      "themeId": "enseignement",
       "keywords": [
-        "inclusion",
-        "diversité"
+        "école",
+        "classe"
       ],
-      "relevance": 93,
+      "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 28,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
-      "id": "a5579sm",
-      "title": "Mbappé ne défend pas ? Et si, au football comme dans l’entreprise, le débat était mal posé ?",
-      "summary": "Le footballeur Kylian Mbappé est parfois critiqué pour son jeu insuffisamment défensif. Or, ces propos se fondent sur ce qui se voit en ignorant les consignes données au capitaine de l’équipe de France. Au-delà du football, cette attitude se retrouve souvent dans le monde professionnel. Elle révèle surtout un dysfoncti",
-      "link": "https://theconversation.com/mbappe-ne-defend-pas-et-si-au-football-comme-dans-lentreprise-le-debat-etait-mal-pose-286969",
-      "image": "https://counter.theconversation.com/content/286969/count.gif",
-      "publishedAt": "2026-07-09T12:32:22.000Z",
+      "id": "a38ga0j",
+      "title": "Damanhur : pourquoi cette utopie italienne survit depuis cinquante ans. Et que peut-elle nous apprendre ?",
+      "summary": "Connaissez-vous Damnhur, dans le Piémont, une communauté italienne qui développe un mode de vie alternatif ? Que vous y souscriviez ou non, il est intéressant de se pencher sur le fonctionnement de cette microsociété. Son étude livre un éclairage, par contraste, des sociétés capitalistes. Malgré leur longévité remarqua",
+      "link": "https://theconversation.com/damanhur-pourquoi-cette-utopie-italienne-survit-depuis-cinquante-ans-et-que-peut-elle-nous-apprendre-284455",
+      "image": "https://images.theconversation.com/files/744170/original/file-20260625-57-ws1h1i.JPG?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-09T15:27:17.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 27,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "awg5gye",
+      "title": "GPA à l’étranger et reconnaissance de filiation en France : la Cour de cassation acte un profond changement de logique",
+      "summary": "Le 3 juillet 2026, la Cour de cassation a rendu deux arrêts très attendus concernant la filiation des enfants nés grâce à une gestation pour autrui effectuée à l’étranger. Bien que cette pratique soit interdite en France, la Cour considère que « compte tenu de l’intérêt supérieur de l’enfant », cet interdit ne permet p",
+      "link": "https://theconversation.com/gpa-a-letranger-et-reconnaissance-de-filiation-en-france-la-cour-de-cassation-acte-un-profond-changement-de-logique-282083",
+      "image": "https://counter.theconversation.com/content/282083/count.gif",
+      "publishedAt": "2026-07-09T15:25:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 27,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "arpsbgk",
+      "title": "Affaire Lyhanna : « Les défaillances de la gendarmerie et de la police sont d’abord liées à un manque de moyens humains »",
+      "summary": "Comment expliquer les défaillances des services d’enquête dans l’affaire Lyhanna ? Les gendarmes et les policiers, chargés des missions de police judiciaire, sont en sous-effectif, à l’instar des magistrats. Submergés de dossiers, ils peinent à hiérarchiser les priorités, alors que les directives ministérielles multipl",
+      "link": "https://theconversation.com/affaire-lyhanna-les-defaillances-de-la-gendarmerie-et-de-la-police-sont-dabord-liees-a-un-manque-de-moyens-humains-286577",
+      "image": "https://counter.theconversation.com/content/286577/count.gif",
+      "publishedAt": "2026-07-09T15:25:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 27,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "adcgeba",
+      "title": "Les États-Unis à l’heure des christianismes concurrents",
+      "summary": "Aux États-Unis, la religion demeure un facteur majeur de la vie politique et des comportements électoraux. Depuis le retour de Donald Trump à la Maison-Blanche, elle est également mobilisée pour légitimer des politiques intérieures et une vision particulière de l’ordre international. Cette évolution alimente une confro",
+      "link": "https://theconversation.com/les-etats-unis-a-lheure-des-christianismes-concurrents-285305",
+      "image": "https://counter.theconversation.com/content/285305/count.gif",
+      "publishedAt": "2026-07-09T15:24:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 27,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aqelc31",
+      "title": "Making scientific knowledge free for all",
+      "summary": "Will accessing scientific knowledge ever become totally free? (Pictured here, the book tower at Prague's Municipal Library, the Czech Republic). Lysander Yuen/Unsplash, CC BY Scientific research publishing is a particularly lucrative industry. The most recent estimates suggest that it generates around 19 billion US dol",
+      "link": "https://theconversation.com/making-scientific-knowledge-free-for-all-286857",
+      "image": "https://images.theconversation.com/files/746044/original/file-20260630-77-5p4ugw.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C4207%2C2804&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-09T15:19:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -596,7 +595,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -612,23 +611,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atbg3oo",
-      "title": "Les 5 expos à voir pendant les vacances d’été",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
-      "publishedAt": "2026-07-06T11:24:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -645,6 +628,22 @@
         "école"
       ],
       "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 9,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "atbg3oo",
+      "title": "Les 5 expos à voir pendant les vacances d’été",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
+      "publishedAt": "2026-07-06T11:24:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 9,
       "urgencyLevel": "basse"
