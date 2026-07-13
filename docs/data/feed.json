@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T14:31:19.010Z",
+  "generatedAt": "2026-07-13T19:21:32.284Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,104 @@
   "count": 35,
   "items": [
     {
+      "id": "ag3asgi",
+      "title": "Les raisons du revers judiciaire du prince Harry face au « Daily Mail »",
+      "summary": "La justice britannique vient de donner raison à l’éditeur du Daily Mail face au prince Harry et à plusieurs autres personnalités qui l’accusaient d’avoir obtenu illégalement des informations privées. Ce revers judiciaire fragilise le combat de Harry contre les tabloïds, malgré ses précédentes victoires contre d’autres ",
+      "link": "https://theconversation.com/les-raisons-du-revers-judiciaire-du-prince-harry-face-au-daily-mail-287386",
+      "image": "https://images.theconversation.com/files/746621/original/file-20260708-102-625kwe.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-13T15:35:48.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "anpbedr",
+      "title": "Anticipation, feintes et analyse : comment les gardiens réussissent l’exploit d’arrêter un penalty",
+      "summary": "Le penalty au football est sans doute une des situations les plus marquantes de ce sport qui concentre toute la dramaturgie du jeu et le stress extrême que peuvent ressentir les joueurs ou joueuses impliquées. Un ballon placé à 11 mètres, un tireur face à un gardien de but, quelques dixièmes de seconde pour décider et ",
+      "link": "https://theconversation.com/anticipation-feintes-et-analyse-comment-les-gardiens-reussissent-lexploit-darreter-un-penalty-287314",
+      "image": "https://counter.theconversation.com/content/287314/count.gif",
+      "publishedAt": "2026-07-13T15:19:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a948vb3",
+      "title": "Bouilloires et passoires thermiques, les deux faces d’une même précarité énergétique",
+      "summary": "Alors que la France a déjà connu trois vagues de chaleur à la mi-juillet 2026 se pose la question du manque d’adaptation des logements aux températures extrêmes. Or, les logements les plus exposés à la chaleur sont souvent aussi ceux qui sont le plus exposés au froid en hiver. La précarité énergétique n’est plus seulem",
+      "link": "https://theconversation.com/bouilloires-et-passoires-thermiques-les-deux-faces-dune-meme-precarite-energetique-287319",
+      "image": "https://counter.theconversation.com/content/287319/count.gif",
+      "publishedAt": "2026-07-13T15:18:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ae8nt86",
+      "title": "Écrire au président de la République : le service courrier de l’Élysée, baromètre de l’opinion publique ?",
+      "summary": "Cartes postales, lettres de revendication ou requêtes, fleurs, dessins d’enfants… Chaque jour, ce sont des centaines, voire des milliers de courriers qui sont envoyés au président de la République. Qu’est-ce qui incite des citoyennes et citoyens à s’adresser de manière aussi directe au chef de l’État ? Comment leurs de",
+      "link": "https://theconversation.com/ecrire-au-president-de-la-republique-le-service-courrier-de-lelysee-barometre-de-lopinion-publique-287032",
+      "image": "https://images.theconversation.com/files/746473/original/file-20260707-57-ef95su.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-13T15:18:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ae8c4zt",
+      "title": "Échecs budgétaires et optimisation bi-niveau : pourquoi les politiques publiques dérapent",
+      "summary": "La réussite d’une politique publique dépend pour partie de la réaction des agents économiques. Pour cela, la définition des moyens et des objectifs doit intégrer les réactions des ménages ou des entreprises. Or, cela s’avère souvent très complexe. Des avancées dans la puissance de calcul apportent des pistes intéressan",
+      "link": "https://theconversation.com/echecs-budgetaires-et-optimisation-bi-niveau-pourquoi-les-politiques-publiques-derapent-280052",
+      "image": "https://counter.theconversation.com/content/280052/count.gif",
+      "publishedAt": "2026-07-13T15:17:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5enyd8",
+      "title": "Se déconnecter en montagne : pourquoi les refuges nous font tant de bien",
+      "summary": "Surcharge mentale, fatigue chronique, frustrations diverses, mais que cherchons-nous vraiment quand nous fuyons nos écrans et nos agendas surchargés ? Une étude menée auprès de randonneurs séjournant dans les refuges alpins apporte des éléments de réponse. Ce qui les motive, c’est surtout la capacité retrouvée à nous r",
+      "link": "https://theconversation.com/se-deconnecter-en-montagne-pourquoi-les-refuges-nous-font-tant-de-bien-285647",
+      "image": "https://counter.theconversation.com/content/285647/count.gif",
+      "publishedAt": "2026-07-13T15:16:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a8mscij",
       "title": "Les volcans du Cantal sont des montagnes…de verre!",
       "summary": "Le Puy Mary est un sommet des monts du Cantal, vestige du plus grand stratovolcan d'Europe. Il culmine à 1 783 mètres d'altitude. Wikimédia, CC BY Au-delà du sport, le Tour de France donne aussi l’occasion de (re)découvrir nos paysages et parfois leurs bizarreries géologiques. Ce mardi 14 juillet, les coureurs du Tour ",
@@ -131,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +245,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a75507i",
@@ -163,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -179,7 +277,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -195,7 +293,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +311,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +343,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +359,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,8 +375,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ana5s5y",
@@ -293,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -309,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -325,7 +423,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -341,7 +439,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -357,107 +455,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aruqtmz",
-      "title": "Avant Epstein, le scandale sexuel qui a forcé la Grande-Bretagne à changer sa loi",
-      "summary": "L'enquête du « Pall Mall Gazette » fut reprise dans de nombreuses publications. Ici l'Illustrated Police News du 2 mai 1885. Royal Historic Society Loin d'être une spécificité de notre époque, les scandales mettant en cause des hommes puissants pour des abus sexuels existaient déjà au XIXe siècle. Retour sur une affair",
-      "link": "https://theconversation.com/avant-epstein-le-scandale-sexuel-qui-a-force-la-grande-bretagne-a-changer-sa-loi-281457",
-      "image": "https://images.theconversation.com/files/732151/original/file-20260408-85-8ysw0d.png?ixlib=rb-4.1.0&amp;rect=0%2C0%2C771%2C514&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-10T08:59:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ayg9pm8",
-      "title": "Avec « The Mandalorian », comprendre les enjeux derrière les métaux rares",
-      "summary": "Un détour par la fiction pour mieux comprendre les enjeux stratégiques et environnementaux de l’exploitation des terres rares. Allociné Armures étincelantes, forges ancestrales et batailles galactiques : dans l’univers de Star Wars, le « beskar » occupe une place à part. Ce métal légendaire, au cœur de l’identité manda",
-      "link": "https://theconversation.com/avec-the-mandalorian-comprendre-les-enjeux-derriere-les-metaux-rares-285780",
-      "image": "https://images.theconversation.com/files/746871/original/file-20260709-57-8xxq7x.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-09T15:26:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aar3bb7",
-      "title": "Les Vikings étaient bien plus que des pillards barbus : pourquoi les musées scandinaves entretiennent encore cette image ?",
-      "summary": "Guerrier barbu, navigateur intrépide, conquérant : cette image du Viking domine encore les musées nationaux scandinaves... (« Vikings Heading for Land », tableau de Frank Bernard Dicksee, 1873) Wikimedia Des salles d’exposition de Copenhague à Oslo, les Vikings occupent une place centrale dans le récit national. Mais d",
-      "link": "https://theconversation.com/les-vikings-etaient-bien-plus-que-des-pillards-barbus-pourquoi-les-musees-scandinaves-entretiennent-encore-cette-image-287196",
-      "image": "https://images.theconversation.com/files/746830/original/file-20260706-102-wu4cjo.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-10T10:46:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "afk1qb4",
-      "title": "3I/Atlas, une comète venue d’une autre étoile qui ne ressemble à rien de connu dans le Système solaire",
-      "summary": "Une image de 3I/Atlas prise par le télescope spatial Hubble montre le cocon de poussière en forme de goutte qui s'échappe de son noyau solide et glacé. NASA, ESA, David Jewitt (UCLA); Image Processing: Joseph DePasquale (STScI) Troisième objet interstellaire jamais détecté, 3I/Atlas ne ressemble à aucune comète du Syst",
-      "link": "https://theconversation.com/3i-atlas-une-comete-venue-dune-autre-etoile-qui-ne-ressemble-a-rien-de-connu-dans-le-systeme-solaire-286883",
-      "image": "https://images.theconversation.com/files/746074/original/file-20260626-71-r7tdtk.jpeg?ixlib=rb-4.1.0&amp;rect=0%2C183%2C1111%2C741&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-10T09:01:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ak4y5di",
-      "title": "Les algues ne sont pas des plantes… et six autres faits surprenants sur la flore aquatique",
-      "summary": "L'utriculaire est une plante carnivore aquatique rare. Maximillian cabinet/Shutterstock Des plantes sans racines, d’autres carnivores, certaines capables de fleurir sous l’eau… Les plantes aquatiques ont développé des adaptations spectaculaires qui défient notre vision du monde végétal. À l’abri des regards, sous la su",
-      "link": "https://theconversation.com/les-algues-ne-sont-pas-des-plantes-et-six-autres-faits-surprenants-sur-la-flore-aquatique-286882",
-      "image": "https://images.theconversation.com/files/746073/original/file-20260624-71-fb4pxh.jpg?ixlib=rb-4.1.0&amp;rect=71%2C0%2C3395%2C2262&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-10T09:00:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ar69yy4",
-      "title": "La « malédiction » du « Titanic » et la vie oubliée de la fille du capitaine",
-      "summary": "Réduite pendant des décennies au rôle de « fille du capitaine du Titanic », Helen Melville Smith fut aussi une pionnière de l’aviation, une passionnée d’automobile et une femme qui refusa de se laisser définir par le deuil. Son histoire révèle les angles morts de notre mémoire collective. Un paquebot réputé insubmersib",
-      "link": "https://theconversation.com/la-malediction-du-titanic-et-la-vie-oubliee-de-la-fille-du-capitaine-286331",
-      "image": "https://counter.theconversation.com/content/286331/count.gif",
-      "publishedAt": "2026-07-10T08:59:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -477,67 +475,71 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "a38ga0j",
-      "title": "Damanhur : pourquoi cette utopie italienne survit depuis cinquante ans. Et que peut-elle nous apprendre ?",
-      "summary": "Connaissez-vous Damnhur, dans le Piémont, une communauté italienne qui développe un mode de vie alternatif ? Que vous y souscriviez ou non, il est intéressant de se pencher sur le fonctionnement de cette microsociété. Son étude livre un éclairage, par contraste, des sociétés capitalistes. Malgré leur longévité remarqua",
-      "link": "https://theconversation.com/damanhur-pourquoi-cette-utopie-italienne-survit-depuis-cinquante-ans-et-que-peut-elle-nous-apprendre-284455",
-      "image": "https://images.theconversation.com/files/744170/original/file-20260625-57-ws1h1i.JPG?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-09T15:27:17.000Z",
+      "id": "aar3bb7",
+      "title": "Les Vikings étaient bien plus que des pillards barbus : pourquoi les musées scandinaves entretiennent encore cette image ?",
+      "summary": "Guerrier barbu, navigateur intrépide, conquérant : cette image du Viking domine encore les musées nationaux scandinaves... (« Vikings Heading for Land », tableau de Frank Bernard Dicksee, 1873) Wikimedia Des salles d’exposition de Copenhague à Oslo, les Vikings occupent une place centrale dans le récit national. Mais d",
+      "link": "https://theconversation.com/les-vikings-etaient-bien-plus-que-des-pillards-barbus-pourquoi-les-musees-scandinaves-entretiennent-encore-cette-image-287196",
+      "image": "https://images.theconversation.com/files/746830/original/file-20260706-102-wu4cjo.jpg?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-10T10:46:59.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
-      "id": "awg5gye",
-      "title": "GPA à l’étranger et reconnaissance de filiation en France : la Cour de cassation acte un profond changement de logique",
-      "summary": "Le 3 juillet 2026, la Cour de cassation a rendu deux arrêts très attendus concernant la filiation des enfants nés grâce à une gestation pour autrui effectuée à l’étranger. Bien que cette pratique soit interdite en France, la Cour considère que « compte tenu de l’intérêt supérieur de l’enfant », cet interdit ne permet p",
-      "link": "https://theconversation.com/gpa-a-letranger-et-reconnaissance-de-filiation-en-france-la-cour-de-cassation-acte-un-profond-changement-de-logique-282083",
-      "image": "https://counter.theconversation.com/content/282083/count.gif",
-      "publishedAt": "2026-07-09T15:25:33.000Z",
+      "id": "afk1qb4",
+      "title": "3I/Atlas, une comète venue d’une autre étoile qui ne ressemble à rien de connu dans le Système solaire",
+      "summary": "Une image de 3I/Atlas prise par le télescope spatial Hubble montre le cocon de poussière en forme de goutte qui s'échappe de son noyau solide et glacé. NASA, ESA, David Jewitt (UCLA); Image Processing: Joseph DePasquale (STScI) Troisième objet interstellaire jamais détecté, 3I/Atlas ne ressemble à aucune comète du Syst",
+      "link": "https://theconversation.com/3i-atlas-une-comete-venue-dune-autre-etoile-qui-ne-ressemble-a-rien-de-connu-dans-le-systeme-solaire-286883",
+      "image": "https://images.theconversation.com/files/746074/original/file-20260626-71-r7tdtk.jpeg?ixlib=rb-4.1.0&amp;rect=0%2C183%2C1111%2C741&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-10T09:01:04.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
-      "id": "arpsbgk",
-      "title": "Affaire Lyhanna : « Les défaillances de la gendarmerie et de la police sont d’abord liées à un manque de moyens humains »",
-      "summary": "Comment expliquer les défaillances des services d’enquête dans l’affaire Lyhanna ? Les gendarmes et les policiers, chargés des missions de police judiciaire, sont en sous-effectif, à l’instar des magistrats. Submergés de dossiers, ils peinent à hiérarchiser les priorités, alors que les directives ministérielles multipl",
-      "link": "https://theconversation.com/affaire-lyhanna-les-defaillances-de-la-gendarmerie-et-de-la-police-sont-dabord-liees-a-un-manque-de-moyens-humains-286577",
-      "image": "https://counter.theconversation.com/content/286577/count.gif",
-      "publishedAt": "2026-07-09T15:25:06.000Z",
+      "id": "ak4y5di",
+      "title": "Les algues ne sont pas des plantes… et six autres faits surprenants sur la flore aquatique",
+      "summary": "L'utriculaire est une plante carnivore aquatique rare. Maximillian cabinet/Shutterstock Des plantes sans racines, d’autres carnivores, certaines capables de fleurir sous l’eau… Les plantes aquatiques ont développé des adaptations spectaculaires qui défient notre vision du monde végétal. À l’abri des regards, sous la su",
+      "link": "https://theconversation.com/les-algues-ne-sont-pas-des-plantes-et-six-autres-faits-surprenants-sur-la-flore-aquatique-286882",
+      "image": "https://images.theconversation.com/files/746073/original/file-20260624-71-fb4pxh.jpg?ixlib=rb-4.1.0&amp;rect=71%2C0%2C3395%2C2262&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-10T09:00:36.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
-      "id": "adcgeba",
-      "title": "Les États-Unis à l’heure des christianismes concurrents",
-      "summary": "Aux États-Unis, la religion demeure un facteur majeur de la vie politique et des comportements électoraux. Depuis le retour de Donald Trump à la Maison-Blanche, elle est également mobilisée pour légitimer des politiques intérieures et une vision particulière de l’ordre international. Cette évolution alimente une confro",
-      "link": "https://theconversation.com/les-etats-unis-a-lheure-des-christianismes-concurrents-285305",
-      "image": "https://counter.theconversation.com/content/285305/count.gif",
-      "publishedAt": "2026-07-09T15:24:07.000Z",
+      "id": "ar69yy4",
+      "title": "La « malédiction » du « Titanic » et la vie oubliée de la fille du capitaine",
+      "summary": "Réduite pendant des décennies au rôle de « fille du capitaine du Titanic », Helen Melville Smith fut aussi une pionnière de l’aviation, une passionnée d’automobile et une femme qui refusa de se laisser définir par le deuil. Son histoire révèle les angles morts de notre mémoire collective. Un paquebot réputé insubmersib",
+      "link": "https://theconversation.com/la-malediction-du-titanic-et-la-vie-oubliee-de-la-fille-du-capitaine-286331",
+      "image": "https://counter.theconversation.com/content/286331/count.gif",
+      "publishedAt": "2026-07-10T08:59:59.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -592,7 +594,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 9,
+      "urgency": 8,
       "urgencyLevel": "basse"
     },
     {
@@ -608,39 +610,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 9,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atbg3oo",
-      "title": "Les 5 expos à voir pendant les vacances d’été",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
-      "publishedAt": "2026-07-06T11:24:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 7,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ab105s2",
-      "title": "Les 6 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
-      "publishedAt": "2026-07-06T07:26:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 7,
+      "urgency": 8,
       "urgencyLevel": "basse"
     },
     {
@@ -657,6 +627,38 @@
         "école"
       ],
       "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 6,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "atbg3oo",
+      "title": "Les 5 expos à voir pendant les vacances d’été",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
+      "publishedAt": "2026-07-06T11:24:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 6,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ab105s2",
+      "title": "Les 6 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
+      "publishedAt": "2026-07-06T07:26:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 6,
       "urgencyLevel": "basse"
