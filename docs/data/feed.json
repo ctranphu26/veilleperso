@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T02:24:12.853Z",
+  "generatedAt": "2026-07-14T08:02:00.253Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,42 @@
   "count": 35,
   "items": [
     {
+      "id": "alps742",
+      "title": "Le trouble développemental du langage, un enjeu de santé publique",
+      "summary": "Peu connu, le trouble développemental du langage affecterait 7,5 % de la population française. Souvent confondu avec de la timidité, un problème d’attention, ou des difficultés intellectuelles, ce handicap invisible, dont les causes sont encore mal comprises, gâche la vie de nombreux enfants, et a aussi des répercussio",
+      "link": "https://theconversation.com/le-trouble-developpemental-du-langage-un-enjeu-de-sante-publique-285501",
+      "image": "https://counter.theconversation.com/content/285501/count.gif",
+      "publishedAt": "2026-07-14T06:56:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "handicap"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agl46nz",
+      "title": "Si l’IA est capable de tout traduire, pourquoi encore apprendre des langues étrangères ?",
+      "summary": "Même à l’heure de la traduction instantanée par intelligence artificielle, l’apprentissage d’une nouvelle langue demeure bénéfique. En effet, de nombreux indices suggèrent qu’elle améliore la résilience cognitive du cerveau à mesure que l’on avance en âge. Par ailleurs, elle permet de saisir des nuances culturelles que",
+      "link": "https://theconversation.com/si-lia-est-capable-de-tout-traduire-pourquoi-encore-apprendre-des-langues-etrangeres-287436",
+      "image": "https://counter.theconversation.com/content/287436/count.gif",
+      "publishedAt": "2026-07-14T06:53:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ag3asgi",
       "title": "Les raisons du revers judiciaire du prince Harry face au « Daily Mail »",
       "summary": "La justice britannique vient de donner raison à l’éditeur du Daily Mail face au prince Harry et à plusieurs autres personnalités qui l’accusaient d’avoir obtenu illégalement des informations privées. Ce revers judiciaire fragilise le combat de Harry contre les tabloïds, malgré ses précédentes victoires contre d’autres ",
@@ -133,7 +169,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +185,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +201,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +217,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +233,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +347,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +363,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -343,7 +379,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,24 +395,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2274pl",
-      "title": "Plages et baignades : dix conseils pour profiter pleinement de l’océan cet été",
-      "summary": "Que signifie un drapeau jaune sur une plage ? À quel moment les courants de baïnes sont-ils les plus intenses ? Que faire si un courant nous emporte au large ? Le point sur les choses à savoir pour se baigner en toute sécurité. La plage est un environnement exceptionnel, et notre territoire possède une façade maritime ",
-      "link": "https://theconversation.com/plages-et-baignades-dix-conseils-pour-profiter-pleinement-de-locean-cet-ete-286593",
-      "image": "https://counter.theconversation.com/content/286593/count.gif",
-      "publishedAt": "2026-07-11T13:58:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
     },
     {
       "id": "ana5s5y",
@@ -391,7 +411,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 32,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a2274pl",
+      "title": "Plages et baignades : dix conseils pour profiter pleinement de l’océan cet été",
+      "summary": "Que signifie un drapeau jaune sur une plage ? À quel moment les courants de baïnes sont-ils les plus intenses ? Que faire si un courant nous emporte au large ? Le point sur les choses à savoir pour se baigner en toute sécurité. La plage est un environnement exceptionnel, et notre territoire possède une façade maritime ",
+      "link": "https://theconversation.com/plages-et-baignades-dix-conseils-pour-profiter-pleinement-de-locean-cet-ete-286593",
+      "image": "https://counter.theconversation.com/content/286593/count.gif",
+      "publishedAt": "2026-07-11T13:58:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -407,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -423,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -439,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -455,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -489,7 +525,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -507,39 +543,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ak4y5di",
-      "title": "Les algues ne sont pas des plantes… et six autres faits surprenants sur la flore aquatique",
-      "summary": "L'utriculaire est une plante carnivore aquatique rare. Maximillian cabinet/Shutterstock Des plantes sans racines, d’autres carnivores, certaines capables de fleurir sous l’eau… Les plantes aquatiques ont développé des adaptations spectaculaires qui défient notre vision du monde végétal. À l’abri des regards, sous la su",
-      "link": "https://theconversation.com/les-algues-ne-sont-pas-des-plantes-et-six-autres-faits-surprenants-sur-la-flore-aquatique-286882",
-      "image": "https://images.theconversation.com/files/746073/original/file-20260624-71-fb4pxh.jpg?ixlib=rb-4.1.0&amp;rect=71%2C0%2C3395%2C2262&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-10T09:00:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ar69yy4",
-      "title": "La « malédiction » du « Titanic » et la vie oubliée de la fille du capitaine",
-      "summary": "Réduite pendant des décennies au rôle de « fille du capitaine du Titanic », Helen Melville Smith fut aussi une pionnière de l’aviation, une passionnée d’automobile et une femme qui refusa de se laisser définir par le deuil. Son histoire révèle les angles morts de notre mémoire collective. Un paquebot réputé insubmersib",
-      "link": "https://theconversation.com/la-malediction-du-titanic-et-la-vie-oubliee-de-la-fille-du-capitaine-286331",
-      "image": "https://counter.theconversation.com/content/286331/count.gif",
-      "publishedAt": "2026-07-10T08:59:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -594,7 +598,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 8,
+      "urgency": 7,
       "urgencyLevel": "basse"
     },
     {
@@ -610,39 +614,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 8,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atbg3oo",
-      "title": "Les 5 expos à voir pendant les vacances d’été",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
-      "publishedAt": "2026-07-06T11:24:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 6,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ab105s2",
-      "title": "Les 6 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
-      "publishedAt": "2026-07-06T07:26:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 6,
+      "urgency": 7,
       "urgencyLevel": "basse"
     },
     {
@@ -659,6 +631,38 @@
         "école"
       ],
       "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 5,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "atbg3oo",
+      "title": "Les 5 expos à voir pendant les vacances d’été",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
+      "publishedAt": "2026-07-06T11:24:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 5,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ab105s2",
+      "title": "Les 6 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
+      "publishedAt": "2026-07-06T07:26:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 5,
       "urgencyLevel": "basse"
