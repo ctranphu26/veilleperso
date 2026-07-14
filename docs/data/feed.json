@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:21:32.284Z",
+  "generatedAt": "2026-07-14T02:24:12.853Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,14 +133,14 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
-      "id": "anpbedr",
-      "title": "Anticipation, feintes et analyse : comment les gardiens réussissent l’exploit d’arrêter un penalty",
+      "id": "ahqdy1x",
+      "title": "Analyses stratégiques, timing et feintes : comment les gardiens réussissent l'exploit d'arrêter un penalty",
       "summary": "Le penalty au football est sans doute une des situations les plus marquantes de ce sport qui concentre toute la dramaturgie du jeu et le stress extrême que peuvent ressentir les joueurs ou joueuses impliquées. Un ballon placé à 11 mètres, un tireur face à un gardien de but, quelques dixièmes de seconde pour décider et ",
-      "link": "https://theconversation.com/anticipation-feintes-et-analyse-comment-les-gardiens-reussissent-lexploit-darreter-un-penalty-287314",
+      "link": "https://theconversation.com/analyses-strategiques-timing-et-feintes-comment-les-gardiens-reussissent-lexploit-darreter-un-penalty-287314",
       "image": "https://counter.theconversation.com/content/287314/count.gif",
       "publishedAt": "2026-07-13T15:19:39.000Z",
       "source": "The Conversation (FR)",
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +181,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ae8c4zt",
@@ -197,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5enyd8",
@@ -213,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8mscij",
@@ -229,8 +229,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axf48d6",
@@ -245,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,7 +277,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,7 +293,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +311,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -343,7 +343,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,7 +359,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -375,7 +375,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -391,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -407,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -423,7 +423,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -439,7 +439,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -455,7 +455,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -471,7 +471,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -489,7 +489,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -507,7 +507,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -523,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -539,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -614,24 +614,6 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "a53kv91",
-      "title": "Edouard Philippe veut raccourcir les vacances d’été",
-      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
-      "publishedAt": "2026-07-06T06:37:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 6,
-      "urgencyLevel": "basse"
-    },
-    {
       "id": "atbg3oo",
       "title": "Les 5 expos à voir pendant les vacances d’été",
       "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
@@ -661,6 +643,24 @@
       "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 6,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a53kv91",
+      "title": "Edouard Philippe veut raccourcir les vacances d’été",
+      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
+      "publishedAt": "2026-07-06T06:37:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 5,
       "urgencyLevel": "basse"
     },
     {
