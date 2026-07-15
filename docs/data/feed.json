@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T02:22:08.362Z",
+  "generatedAt": "2026-07-15T08:07:21.715Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "a8qjzwx",
+      "title": "Regards croisés sur l’histoire des Kalmouks, peuple mongol de Russie",
+      "summary": "François Fortuné Ferogio, « Campement de nuit dans les Steppes de la mer Caspienne », Atlas historique, 1845, planche 16. Illustration accompagnant le récit de voyage en Kalmoukie des époux Hommaire de Hell, au milieu du XIX e siècle. BnF Seule région d’Europe où le bouddhisme est majoritaire, la Kalmoukie, région du n",
+      "link": "https://theconversation.com/regards-croises-sur-lhistoire-des-kalmouks-peuple-mongol-de-russie-285398",
+      "image": "https://images.theconversation.com/files/745938/original/file-20260704-56-8py87v.jpg?ixlib=rb-4.1.0&amp;rect=26%2C0%2C2599%2C1732&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-15T06:55:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aqky0gq",
       "title": "Cosmétiques, médicaments, gels douches… Pourquoi l’omniprésence du polyéthylène glycol pose question, et que sont les POx, qui pourraient le remplacer ?",
       "summary": "Les polyéthylène glycols (PEGs) figurent parmi les ingrédients que l’on retrouve fréquemment dans les notices de cosmétiques, de médicaments ou encore de vaccins. Cependant, leur usage est aujourd’hui de plus en plus questionné, notamment en raison de leurs effets avérés ou supposés sur la santé et l’environnement. Ces",
@@ -131,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +165,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aipzh8r",
@@ -167,8 +183,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9qy5hn",
@@ -185,8 +201,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5gh0bt",
@@ -201,8 +217,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "al9gycw",
@@ -217,8 +233,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a777zsg",
@@ -233,8 +249,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ac2govo",
@@ -249,8 +265,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alps742",
@@ -267,7 +283,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +301,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -303,7 +319,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +335,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +351,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +367,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +383,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +399,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,7 +415,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,7 +431,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -431,8 +447,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apa57l3",
@@ -447,24 +463,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3enl5s",
-      "title": "Allons-nous vers une « corridorisation » du monde ?",
-      "summary": "Les grandes puissances déploient des initiatives de connectivité qui redessinent la carte du monde. La Chine avec ses Nouvelles Routes de la soie, l’Union européenne et son Global Gateway, les États-Unis et le G7 à travers le Build Back Better World ou B3W/PGII… Tous ces projets traduisent une même ambition : organiser",
-      "link": "https://theconversation.com/allons-nous-vers-une-corridorisation-du-monde-286179",
-      "image": "https://counter.theconversation.com/content/286179/count.gif",
-      "publishedAt": "2026-07-12T08:37:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "atj95ox",
@@ -481,7 +481,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -497,7 +497,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -513,7 +513,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -529,7 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
