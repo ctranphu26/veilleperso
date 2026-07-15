@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T08:07:21.715Z",
+  "generatedAt": "2026-07-15T13:40:48.507Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,56 @@
   "count": 35,
   "items": [
     {
+      "id": "any10xp",
+      "title": "Non, « L’Odyssée » de Christopher Nolan ne trahit pas l’oeuvre d’Homère",
+      "summary": "L'Odyssée se prête aux interprétations et aux captations par d'autres auteurs depuis sa création. Allociné Depuis la sortie de la bande-annonce du prochain film de Christopher Nolan, une même rengaine circule : le péplum trahirait Homère. Costumes trop propres, accents américains, casting jugé « infidèle », aucun acteu",
+      "link": "https://theconversation.com/non-lodyssee-de-christopher-nolan-ne-trahit-pas-loeuvre-dhomere-287225",
+      "image": "https://images.theconversation.com/files/747489/original/file-20260713-68-aemurb.png?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1883%2C1255&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-15T09:59:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9cqrqz",
+      "title": "Comment Londres, Paris et New York faisaient face aux canicules avant la climatisation",
+      "summary": "Les canicules qui frappent aujourd’hui Londres, Paris et New York ne sont pas inédites. Dès le XIXe siècle, les habitants de ces métropoles inventaient déjà des stratégies pour échapper à la chaleur, révélatrices des profondes inégalités sociales. Paris, Londres et New York évoquent plus spontanément la culture, la fin",
+      "link": "https://theconversation.com/comment-londres-paris-et-new-york-faisaient-face-aux-canicules-avant-la-climatisation-287599",
+      "image": "https://counter.theconversation.com/content/287599/count.gif",
+      "publishedAt": "2026-07-15T07:49:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "égalité"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aibeyks",
+      "title": "The world’s first influencers were French and they emerged after the Revolution",
+      "summary": "A painting by Jacques-Louis David of French socialite and Neoclassical icon Madame Récamier whose salon in Paris attracted leading literary and political circles in the early 19th-century. Wikimedia In 1806, the Parisian gastronome Grimod de la Reynière launched a new periodical, the Journal des Gourmands et des Belles",
+      "link": "https://theconversation.com/the-worlds-first-influencers-were-french-and-they-emerged-after-the-revolution-286859",
+      "image": "https://images.theconversation.com/files/747485/original/file-20260713-71-wfub3s.jpg?ixlib=rb-4.1.0&amp;rect=0%2C31%2C1499%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-15T11:37:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a8qjzwx",
       "title": "Regards croisés sur l’histoire des Kalmouks, peuple mongol de Russie",
       "summary": "François Fortuné Ferogio, « Campement de nuit dans les Steppes de la mer Caspienne », Atlas historique, 1845, planche 16. Illustration accompagnant le récit de voyage en Kalmoukie des époux Hommaire de Hell, au milieu du XIX e siècle. BnF Seule région d’Europe où le bouddhisme est majoritaire, la Kalmoukie, région du n",
@@ -131,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahgsbtq",
@@ -165,7 +215,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +233,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -201,7 +251,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +267,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,13 +299,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
       "id": "ac2govo",
       "title": "L’Odyssée : voyage d’un mythe au cinéma",
-      "summary": "Capture d e cran a Allociné En 2024 est sorti Le Retour d’Ulysse, coproduction internationale du réalisateur italien Uberto Pasolini ; en 2026, c’est le britannico-américain Christopher Nolan qui réalise L’Odyssée. Comment expliquer le succès actuel d’une épopée écrite dans la seconde moitié du VIIIᵉ siècle avant notre",
+      "summary": "Capture d'écran Allociné En 2024 est sorti Le Retour d’Ulysse, coproduction internationale du réalisateur italien Uberto Pasolini ; en 2026, c’est le britannico-américain Christopher Nolan qui réalise L’Odyssée. Comment expliquer le succès actuel d’une épopée écrite dans la seconde moitié du VIIIᵉ siècle avant notre èr",
       "link": "https://theconversation.com/lodyssee-voyage-dun-mythe-au-cinema-285778",
       "image": "https://images.theconversation.com/files/746836/original/file-20260709-71-8eupt5.png?ixlib=rb-4.1.0&amp;rect=10%2C0%2C2123%2C1415&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-07-14T16:46:40.000Z",
@@ -265,7 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +333,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +351,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +369,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +385,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +401,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +417,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +433,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,8 +465,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "axf48d6",
@@ -431,8 +481,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a75507i",
@@ -447,23 +497,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apa57l3",
-      "title": "Marianne : pourquoi la République a-t-elle choisi une femme désincarnée comme symbole d’unité nationale ?",
-      "summary": "Tous les camps politiques se réclament d’elle, de la Manif pour tous aux féministes, en passant par les gilets jaunes, ou des militants pro Gaza. Une proposition de loi Les Républicains veut même rendre son buste obligatoire dans toutes les mairies. Pourtant, chaque tentative de donner un vrai visage à Marianne finit e",
-      "link": "https://theconversation.com/marianne-pourquoi-la-republique-a-t-elle-choisi-une-femme-desincarnee-comme-symbole-dunite-nationale-281777",
-      "image": "https://images.theconversation.com/files/735365/original/file-20260512-69-mull2y.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-12T08:38:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -481,7 +515,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -491,38 +525,6 @@
       "link": "https://theconversation.com/peut-on-mieux-recycler-les-metaux-precieux-contenus-dans-nos-ordinateurs-285541",
       "image": "https://counter.theconversation.com/content/285541/count.gif",
       "publishedAt": "2026-07-12T15:45:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2q9ot2",
-      "title": "Opération de la cataracte, prothèse de hanche…  quand les dépassements d’honoraires des médecins se généralisent pour des actes fréquents",
-      "summary": ".tc-fixe{display:block;margin:0 0 1rem} .tc-fixe .tc-head,.tc-fixe .tc-title,.tc-fixe .tc-item{margin:0} .tc-fixe .tc-head p{margin:0} .tc-fixe .tc-head br{display:none} .tc-fixe .tc-head{display:block;background:rgba(225,225,227,.7);border-top-left-radius:.5rem;border-top-right-radius:.5rem;padding:.85rem 1rem} .tc-fi",
-      "link": "https://theconversation.com/operation-de-la-cataracte-prothese-de-hanche-quand-les-depassements-dhonoraires-des-medecins-se-generalisent-pour-des-actes-frequents-286602",
-      "image": "https://images.theconversation.com/files/746914/original/file-20260709-57-g0woms.png",
-      "publishedAt": "2026-07-12T08:39:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aa1gzf7",
-      "title": "Quand la Légion d’honneur fait monter les cours de Bourse : les décorations d’État, signaux de proximité politique ?",
-      "summary": "Instituée en 1802, la Légion d’honneur est la plus haute distinction nationale décernée à des citoyens français ou à des personnes étrangères pour leurs mérites au service de la nation, à titre civil ou sous les armes. Symbolique, serait-elle dénuée de toute valeur économique ? Une étude montre que, au contraire, son a",
-      "link": "https://theconversation.com/quand-la-legion-dhonneur-fait-monter-les-cours-de-bourse-les-decorations-detat-signaux-de-proximite-politique-286866",
-      "image": "https://images.theconversation.com/files/746131/original/file-20260706-57-sw0n.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-12T08:39:38.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
@@ -545,7 +547,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -620,24 +622,6 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "a53kv91",
-      "title": "Edouard Philippe veut raccourcir les vacances d’été",
-      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
-      "publishedAt": "2026-07-06T06:37:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 4,
-      "urgencyLevel": "basse"
-    },
-    {
       "id": "atbg3oo",
       "title": "Les 5 expos à voir pendant les vacances d’été",
       "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
@@ -654,6 +638,24 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "a53kv91",
+      "title": "Edouard Philippe veut raccourcir les vacances d’été",
+      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
+      "publishedAt": "2026-07-06T06:37:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 3,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "ab105s2",
       "title": "Les 6 films à voir durant ces vacances",
       "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
@@ -666,7 +668,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 4,
+      "urgency": 3,
       "urgencyLevel": "basse"
     },
     {
