@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T19:17:55.632Z",
+  "generatedAt": "2026-07-15T02:22:08.362Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -201,7 +201,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -217,7 +217,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -233,7 +233,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -267,7 +267,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +285,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -303,7 +303,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +319,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +335,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +351,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +367,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +383,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,7 +399,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,7 +415,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -431,7 +431,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -447,7 +447,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -463,7 +463,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -481,7 +481,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -497,7 +497,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -513,7 +513,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -529,7 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 6,
+      "urgency": 5,
       "urgencyLevel": "basse"
     },
     {
@@ -610,22 +610,6 @@
       "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
       "publishedAt": "2026-07-07T06:10:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 6,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atbg3oo",
-      "title": "Les 5 expos à voir pendant les vacances d’été",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
-      "publishedAt": "2026-07-06T11:24:00.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
@@ -649,6 +633,22 @@
         "école"
       ],
       "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 4,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "atbg3oo",
+      "title": "Les 5 expos à voir pendant les vacances d’été",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
+      "publishedAt": "2026-07-06T11:24:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 4,
       "urgencyLevel": "basse"
