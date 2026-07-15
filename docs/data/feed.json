@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T13:40:48.507Z",
+  "generatedAt": "2026-07-15T19:08:28.718Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,38 @@
   "count": 35,
   "items": [
     {
+      "id": "a15ih8q",
+      "title": "Lutter contre les incendies avec des produits qui aggravent le changement climatique et nuisent à la santé : les pompiers au piège des PFAS",
+      "summary": "Les PFAS (substances per — et polyfluoroalkylées) ont d’abord été célébrés comme une innovation industrielle, permettant notamment de lutter plus efficacement contre les incendies. Aujourd’hui, ils sont pourtant au cœur d’une crise sanitaire et environnementale mondiale. Les pompiers sont pris au piège d’un cycle infer",
+      "link": "https://theconversation.com/lutter-contre-les-incendies-avec-des-produits-qui-aggravent-le-changement-climatique-et-nuisent-a-la-sante-les-pompiers-au-piege-des-pfas-287245",
+      "image": "https://images.theconversation.com/files/747465/original/file-20260713-57-vip90x.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-15T14:23:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "acmpuvy",
+      "title": "Faire les saisons en camion : « devenir adulte » autrement ?",
+      "summary": "Accéder à un emploi stable, se fixer dans un lieu de vie font partie de ces étapes clés menant vers l’âge adulte. Comment les jeunes qui choisissent une vie nomade, au gré des saisons touristiques et agricoles, vivent-ils alors cette transition ? En quoi leur expérience, a priori atypique, nous offre-t-elle un miroir d",
+      "link": "https://theconversation.com/faire-les-saisons-en-camion-devenir-adulte-autrement-285491",
+      "image": "https://counter.theconversation.com/content/285491/count.gif",
+      "publishedAt": "2026-07-15T14:19:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "any10xp",
       "title": "Non, « L’Odyssée » de Christopher Nolan ne trahit pas l’oeuvre d’Homère",
       "summary": "L'Odyssée se prête aux interprétations et aux captations par d'autres auteurs depuis sa création. Allociné Depuis la sortie de la bande-annonce du prochain film de Christopher Nolan, une même rengaine circule : le péplum trahirait Homère. Costumes trop propres, accents américains, casting jugé « infidèle », aucun acteu",
@@ -131,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +181,109 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ae0g0ns",
+      "title": "En Méditerranée, les poissons fuient la chaleur, mais pas nécessairement comme on s’y attendrait",
+      "summary": "Au cours des deux dernières décennies, en raison du réchauffement des eaux de la Méditerranée lié au changement climatique, près de la moitié des espèces de poissons présentant un intérêt commercial ont abandonné leurs habitats d'origine pour se diriger vers des latitudes plus élevées, des profondeurs plus importantes ",
+      "link": "https://theconversation.com/en-mediterranee-les-poissons-fuient-la-chaleur-mais-pas-necessairement-comme-on-sy-attendrait-287242",
+      "image": "https://images.theconversation.com/files/746909/original/file-20260306-57-3k3mxm.jpg?ixlib=rb-4.1.0&amp;rect=299%2C0%2C3239%2C2160&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-15T14:19:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ao7axib",
+      "title": "Depuis le traumatisme de la crise grecque, les agences de notation souveraine influencent-elles encore les marchés financiers ?",
+      "summary": "Les agences de notation sont régulièrement accusées de manquer de transparence, de produire des évaluations biaisées ou d’amplifier les crises financières. Quinze ans après la crise grecque qui a cristallisé les critiques à leur égard, leur pouvoir est-il toujours aussi important ? Et quel est leur rôle ? Les notations",
+      "link": "https://theconversation.com/depuis-le-traumatisme-de-la-crise-grecque-les-agences-de-notation-souveraine-influencent-elles-encore-les-marches-financiers-277888",
+      "image": "https://images.theconversation.com/files/746352/original/file-20260707-57-h4t8ty.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-15T14:18:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "évaluation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "as9vvog",
+      "title": "À quoi ressemblaient les premiers congés payés, en 1936, pour les ouvriers bretons ?",
+      "summary": "Dans un département breton comme les Côtes-du-Nord (devenu Côtes-d’Armor), marqué par la prépondérance des campagnes, à quoi ressemblaient les premiers congés en 1936 ? La question mérite que l’on s’y attarde, archives à l’appui, pour déconstruire un certain nombre de représentations, si mythifiées qu’elles finissent p",
+      "link": "https://theconversation.com/a-quoi-ressemblaient-les-premiers-conges-payes-en-1936-pour-les-ouvriers-bretons-285127",
+      "image": "https://images.theconversation.com/files/747498/original/file-20260713-57-l7oyky.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-15T14:18:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "représentation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aydndt3",
+      "title": "Lucas, 16 ans, a disparu sans laisser de traces : comment mener l’enquête ?",
+      "summary": "Le 18 mars 2015, Lucas, seize ans, disparaissait sans laisser de traces, alors qu’il devait se rendre à la piscine. À l’époque, l’enquête ne donnera aucune réponse et n’identifiera aucun suspect. Sur quelles méthodes s’appuie la police en cas de disparition ? Quel est le rôle des psychocriminologues dont le rôle est d’",
+      "link": "https://theconversation.com/lucas-16-ans-a-disparu-sans-laisser-de-traces-comment-mener-lenquete-281667",
+      "image": "https://images.theconversation.com/files/734010/original/file-20260505-57-fxkasw.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-15T14:21:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avx28al",
+      "title": "Le Canada à l’Eurovision : le choix de la langue, une question politique cruciale",
+      "summary": "En 2027, le Canada participera pour la première fois à l’Eurovision. Le choix de la langue de sa chanson dépasse largement le cadre artistique. Anglais, français, bilinguisme ou langue autochtone : chaque option incarne une vision différente de l’identité canadienne. En obligeant le pays à ne retenir qu’un seul récit n",
+      "link": "https://theconversation.com/le-canada-a-leurovision-le-choix-de-la-langue-une-question-politique-cruciale-286815",
+      "image": "https://counter.theconversation.com/content/286815/count.gif",
+      "publishedAt": "2026-07-15T14:20:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2r58mt",
+      "title": "LVMH Kering : quelles bascules stratégiques attendre chez les conglomérats du luxe ?",
+      "summary": ".tc-acc{display:block;margin:0 0 1rem} .tc-acc .tc-head,.tc-acc .tc-title,.tc-acc .tc-cta,.tc-acc .tc-item{margin:0} .tc-acc .tc-head p{margin:0} .tc-acc .tc-head br{display:none} .tc-acc .tc-head{display:block;cursor:pointer;text-decoration:none;color:inherit;background:#f1f1f2;border-radius:.5rem;padding:.85rem 1rem}",
+      "link": "https://theconversation.com/lvmh-kering-quelles-bascules-strategiques-attendre-chez-les-conglomerats-du-luxe-284576",
+      "image": "https://counter.theconversation.com/content/284576/count.gif",
+      "publishedAt": "2026-07-15T14:18:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +299,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +315,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqky0gq",
@@ -197,7 +331,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +349,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +367,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +385,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +401,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +417,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +433,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,7 +467,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +485,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,7 +503,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -385,23 +519,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a948vb3",
-      "title": "Bouilloires et passoires thermiques, les deux faces d’une même précarité énergétique",
-      "summary": "Alors que la France a déjà connu trois vagues de chaleur à la mi-juillet 2026 se pose la question du manque d’adaptation des logements aux températures extrêmes. Or, les logements les plus exposés à la chaleur sont souvent aussi ceux qui sont le plus exposés au froid en hiver. La précarité énergétique n’est plus seulem",
-      "link": "https://theconversation.com/bouilloires-et-passoires-thermiques-les-deux-faces-dune-meme-precarite-energetique-287319",
-      "image": "https://counter.theconversation.com/content/287319/count.gif",
-      "publishedAt": "2026-07-13T15:18:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -417,121 +535,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ae8c4zt",
-      "title": "Échecs budgétaires et optimisation bi-niveau : pourquoi les politiques publiques dérapent",
-      "summary": "La réussite d’une politique publique dépend pour partie de la réaction des agents économiques. Pour cela, la définition des moyens et des objectifs doit intégrer les réactions des ménages ou des entreprises. Or, cela s’avère souvent très complexe. Des avancées dans la puissance de calcul apportent des pistes intéressan",
-      "link": "https://theconversation.com/echecs-budgetaires-et-optimisation-bi-niveau-pourquoi-les-politiques-publiques-derapent-280052",
-      "image": "https://counter.theconversation.com/content/280052/count.gif",
-      "publishedAt": "2026-07-13T15:17:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5enyd8",
-      "title": "Se déconnecter en montagne : pourquoi les refuges nous font tant de bien",
-      "summary": "Surcharge mentale, fatigue chronique, frustrations diverses, mais que cherchons-nous vraiment quand nous fuyons nos écrans et nos agendas surchargés ? Une étude menée auprès de randonneurs séjournant dans les refuges alpins apporte des éléments de réponse. Ce qui les motive, c’est surtout la capacité retrouvée à nous r",
-      "link": "https://theconversation.com/se-deconnecter-en-montagne-pourquoi-les-refuges-nous-font-tant-de-bien-285647",
-      "image": "https://counter.theconversation.com/content/285647/count.gif",
-      "publishedAt": "2026-07-13T15:16:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8mscij",
-      "title": "Les volcans du Cantal sont des montagnes…de verre!",
-      "summary": "Le Puy Mary est un sommet des monts du Cantal, vestige du plus grand stratovolcan d'Europe. Il culmine à 1 783 mètres d'altitude. Wikimédia, CC BY Au-delà du sport, le Tour de France donne aussi l’occasion de (re)découvrir nos paysages et parfois leurs bizarreries géologiques. Ce mardi 14 juillet, les coureurs du Tour ",
-      "link": "https://theconversation.com/les-volcans-du-cantal-sont-des-montagnes-de-verre-286884",
-      "image": "https://images.theconversation.com/files/747147/original/file-20260710-71-ovd2nn.JPG?ixlib=rb-4.1.0&amp;rect=3%2C0%2C1912%2C1275&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-13T12:10:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "axf48d6",
-      "title": "Le vrai mystère de « Vaiana » : qu’est-ce qui a bien pu pousser les Polynésiens à repartir vers l’est après 1 700 ans de pause ?",
-      "summary": "Alors que Vaiana remet à l'honneur les grandes traditions de navigation polynésiennes, une nouvelle étude éclaire les raisons de leur spectaculaire expansion à travers le Pacifique. Ent-movie / Alamy Le mystère de la « longue pause » fascine les archéologues depuis des décennies : pourquoi les Polynésiens ont-ils cessé",
-      "link": "https://theconversation.com/le-vrai-mystere-de-vaiana-quest-ce-qui-a-bien-pu-pousser-les-polynesiens-a-repartir-vers-lest-apres-1-700-ans-de-pause-287387",
-      "image": "https://images.theconversation.com/files/747369/original/file-20260709-85-t9y9m.jpg?ixlib=rb-4.1.0&amp;rect=548%2C0%2C1853%2C1235&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-13T09:16:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
       "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a75507i",
-      "title": "Peut-on cartographier l’Odyssée ? Comment géographes antiques et chercheurs d’aujourd’hui ont retracé le voyage d’Ulysse",
-      "summary": "L’Odyssée, le très attendu film de Christopher Nolan, sort en salles le 15 juillet. L’occasion de revenir sur une question qui fascine historiens et archéologues depuis des siècles : les lieux traversés par Ulysse ont-ils réellement existé ? L’Odyssée d’Homère est une quête, celle du roi Ulysse, qui met dix ans à regag",
-      "link": "https://theconversation.com/peut-on-cartographier-lodyssee-comment-geographes-antiques-et-chercheurs-daujourdhui-ont-retrace-le-voyage-dulysse-287354",
-      "image": "https://images.theconversation.com/files/747131/original/file-20260710-57-di204q.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-12T09:35:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atj95ox",
-      "title": "World Cup 2026: how are posts on diversity and inclusion being received on social media?",
-      "summary": "Football has embraced the issue of diversity, though not without controversy. But how do online communities respond to these efforts? An analysis of several thousand social media posts reveals a more nuanced reality: in the eyes of the public, not all forms of diversity are received in the same way. Nelson Mandela famo",
-      "link": "https://theconversation.com/world-cup-2026-how-are-posts-on-diversity-and-inclusion-being-received-on-social-media-287259",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-12T15:46:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "inclusion"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2sqai3",
-      "title": "Peut-on mieux recycler les métaux précieux contenus dans nos ordinateurs ?",
-      "summary": ".tc-acc{display:block;margin:0 0 1rem} .tc-acc .tc-head,.tc-acc .tc-title,.tc-acc .tc-cta,.tc-acc .tc-item{margin:0} .tc-acc .tc-head p{margin:0} .tc-acc .tc-head br{display:none} .tc-acc .tc-head{display:block;cursor:pointer;text-decoration:none;color:inherit;background:#f1f1f2;border-radius:.5rem;padding:.85rem 1rem}",
-      "link": "https://theconversation.com/peut-on-mieux-recycler-les-metaux-precieux-contenus-dans-nos-ordinateurs-285541",
-      "image": "https://counter.theconversation.com/content/285541/count.gif",
-      "publishedAt": "2026-07-12T15:45:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -602,7 +606,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 5,
+      "urgency": 4,
       "urgencyLevel": "basse"
     },
     {
@@ -612,22 +616,6 @@
       "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
       "publishedAt": "2026-07-07T06:10:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 5,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atbg3oo",
-      "title": "Les 5 expos à voir pendant les vacances d’été",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
-      "publishedAt": "2026-07-06T11:24:00.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
@@ -651,6 +639,22 @@
         "école"
       ],
       "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 3,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "atbg3oo",
+      "title": "Les 5 expos à voir pendant les vacances d’été",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
+      "publishedAt": "2026-07-06T11:24:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 3,
       "urgencyLevel": "basse"
