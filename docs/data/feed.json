@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T19:08:28.718Z",
+  "generatedAt": "2026-07-16T02:29:55.206Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -199,8 +199,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ao7axib",
@@ -217,8 +217,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "as9vvog",
@@ -235,8 +235,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aydndt3",
@@ -251,8 +251,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avx28al",
@@ -267,8 +267,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2r58mt",
@@ -283,8 +283,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aibeyks",
@@ -299,8 +299,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8qjzwx",
@@ -315,7 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,7 +331,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +349,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +367,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -385,7 +385,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -401,7 +401,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -417,7 +417,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +433,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,43 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alps742",
-      "title": "Le trouble développemental du langage, un enjeu de santé publique",
-      "summary": "Peu connu, le trouble développemental du langage affecterait 7,5 % de la population française. Souvent confondu avec de la timidité, un problème d’attention, ou des difficultés intellectuelles, ce handicap invisible, dont les causes sont encore mal comprises, gâche la vie de nombreux enfants, et a aussi des répercussio",
-      "link": "https://theconversation.com/le-trouble-developpemental-du-langage-un-enjeu-de-sante-publique-285501",
-      "image": "https://counter.theconversation.com/content/285501/count.gif",
-      "publishedAt": "2026-07-14T06:56:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "handicap"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agl46nz",
-      "title": "Si l’IA est capable de tout traduire, pourquoi encore apprendre des langues étrangères ?",
-      "summary": "Même à l’heure de la traduction instantanée par intelligence artificielle, l’apprentissage d’une nouvelle langue demeure bénéfique. En effet, de nombreux indices suggèrent qu’elle améliore la résilience cognitive du cerveau à mesure que l’on avance en âge. Par ailleurs, elle permet de saisir des nuances culturelles que",
-      "link": "https://theconversation.com/si-lia-est-capable-de-tout-traduire-pourquoi-encore-apprendre-des-langues-etrangeres-287436",
-      "image": "https://counter.theconversation.com/content/287436/count.gif",
-      "publishedAt": "2026-07-14T06:53:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -503,7 +467,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -519,7 +483,43 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "alps742",
+      "title": "Le trouble développemental du langage, un enjeu de santé publique",
+      "summary": "Peu connu, le trouble développemental du langage affecterait 7,5 % de la population française. Souvent confondu avec de la timidité, un problème d’attention, ou des difficultés intellectuelles, ce handicap invisible, dont les causes sont encore mal comprises, gâche la vie de nombreux enfants, et a aussi des répercussio",
+      "link": "https://theconversation.com/le-trouble-developpemental-du-langage-un-enjeu-de-sante-publique-285501",
+      "image": "https://counter.theconversation.com/content/285501/count.gif",
+      "publishedAt": "2026-07-14T06:56:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "handicap"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 43,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "agl46nz",
+      "title": "Si l’IA est capable de tout traduire, pourquoi encore apprendre des langues étrangères ?",
+      "summary": "Même à l’heure de la traduction instantanée par intelligence artificielle, l’apprentissage d’une nouvelle langue demeure bénéfique. En effet, de nombreux indices suggèrent qu’elle améliore la résilience cognitive du cerveau à mesure que l’on avance en âge. Par ailleurs, elle permet de saisir des nuances culturelles que",
+      "link": "https://theconversation.com/si-lia-est-capable-de-tout-traduire-pourquoi-encore-apprendre-des-langues-etrangeres-287436",
+      "image": "https://counter.theconversation.com/content/287436/count.gif",
+      "publishedAt": "2026-07-14T06:53:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -535,7 +535,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
