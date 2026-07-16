@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T08:10:26.713Z",
+  "generatedAt": "2026-07-16T13:47:20.122Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,38 @@
   "count": 35,
   "items": [
     {
+      "id": "avpfh8a",
+      "title": "Percevoir les conséquences immédiates du changement climatique suffit-il pour changer les comportements ?",
+      "summary": "Cet été 2026, la France subit de plein fouet les conséquences directes du réchauffement de la planète. Cette situation pourrait-elle affecter la distance psychologique à laquelle nous percevons le changement climatique et, par ce biais, constituer une opportunité pour renforcer les comportements visant à lutter contre ",
+      "link": "https://theconversation.com/percevoir-les-consequences-immediates-du-changement-climatique-suffit-il-pour-changer-les-comportements-287614",
+      "image": "https://images.theconversation.com/files/748053/original/file-20260715-69-niq48z.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-16T08:31:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoqkfq1",
+      "title": "Les refuges climatiques seront utiles s’ils n’oublient pas de faire de la chaleur un objet politique",
+      "summary": "Alors que la France a déjà connu trois vagues de chaleur en quelques semaines à peine, le concept de refuge climatique, qui s’institutionnalise dans un certain nombre de pays, cristallise les espoirs des citoyens en surchauffe. Il peut s’agir d’une réponse prometteuse, mais uniquement à certaines conditions, notamment ",
+      "link": "https://theconversation.com/les-refuges-climatiques-seront-utiles-sils-noublient-pas-de-faire-de-la-chaleur-un-objet-politique-287200",
+      "image": "https://images.theconversation.com/files/746861/original/file-20260709-57-t33axh.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-07-16T08:27:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a15ih8q",
       "title": "Lutter contre les incendies avec des produits qui aggravent le changement climatique et nuisent à la santé : les pompiers au piège des PFAS",
       "summary": "Les PFAS (substances per — et polyfluoroalkylées) ont d’abord été célébrés comme une innovation industrielle, permettant notamment de lutter plus efficacement contre les incendies. Aujourd’hui, ils sont pourtant au cœur d’une crise sanitaire et environnementale mondiale. Les pompiers sont pris au piège d’un cycle infer",
@@ -131,8 +163,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "acmpuvy",
@@ -147,12 +179,12 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "any10xp",
-      "title": "Non, « L’Odyssée » de Christopher Nolan ne trahit pas l’oeuvre d’Homère",
+      "title": "Non, « L’Odyssée » de Christopher Nolan ne trahit pas l’œuvre d’Homère",
       "summary": "L'Odyssée se prête aux interprétations et aux captations par d'autres auteurs depuis sa création. Allociné Depuis la sortie de la bande-annonce du prochain film de Christopher Nolan, une même rengaine circule : le péplum trahirait Homère. Costumes trop propres, accents américains, casting jugé « infidèle », aucun acteu",
       "link": "https://theconversation.com/non-lodyssee-de-christopher-nolan-ne-trahit-pas-loeuvre-dhomere-287225",
       "image": "https://images.theconversation.com/files/747489/original/file-20260713-68-aemurb.png?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1883%2C1255&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
@@ -163,7 +195,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +213,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +231,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +249,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,7 +267,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +299,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,23 +331,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8qjzwx",
-      "title": "Regards croisés sur l’histoire des Kalmouks, peuple mongol de Russie",
-      "summary": "François Fortuné Ferogio, « Campement de nuit dans les Steppes de la mer Caspienne », Atlas historique, 1845, planche 16. Illustration accompagnant le récit de voyage en Kalmoukie des époux Hommaire de Hell, au milieu du XIX e siècle. BnF Seule région d’Europe où le bouddhisme est majoritaire, la Kalmoukie, région du n",
-      "link": "https://theconversation.com/regards-croises-sur-lhistoire-des-kalmouks-peuple-mongol-de-russie-285398",
-      "image": "https://images.theconversation.com/files/745938/original/file-20260704-56-8py87v.jpg?ixlib=rb-4.1.0&amp;rect=26%2C0%2C2599%2C1732&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-15T06:55:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,7 +347,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a8qjzwx",
+      "title": "Regards croisés sur l’histoire des Kalmouks, peuple mongol de Russie",
+      "summary": "François Fortuné Ferogio, « Campement de nuit dans les Steppes de la mer Caspienne », Atlas historique, 1845, planche 16. Illustration accompagnant le récit de voyage en Kalmoukie des époux Hommaire de Hell, au milieu du XIX e siècle. BnF Seule région d’Europe où le bouddhisme est majoritaire, la Kalmoukie, région du n",
+      "link": "https://theconversation.com/regards-croises-sur-lhistoire-des-kalmouks-peuple-mongol-de-russie-285398",
+      "image": "https://images.theconversation.com/files/745938/original/file-20260704-56-8py87v.jpg?ixlib=rb-4.1.0&amp;rect=26%2C0%2C2599%2C1732&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-15T06:55:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +381,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +399,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -385,7 +417,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -401,7 +433,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -417,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +481,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -467,24 +499,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahqdy1x",
-      "title": "Analyses stratégiques, timing et feintes : comment les gardiens réussissent l'exploit d'arrêter un penalty",
-      "summary": "Le penalty au football est sans doute une des situations les plus marquantes de ce sport qui concentre toute la dramaturgie du jeu et le stress extrême que peuvent ressentir les joueurs ou joueuses impliquées. Un ballon placé à 11 mètres, un tireur face à un gardien de but, quelques dixièmes de seconde pour décider et ",
-      "link": "https://theconversation.com/analyses-strategiques-timing-et-feintes-comment-les-gardiens-reussissent-lexploit-darreter-un-penalty-287314",
-      "image": "https://counter.theconversation.com/content/287314/count.gif",
-      "publishedAt": "2026-07-13T15:19:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "alps742",
@@ -501,8 +517,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "agl46nz",
@@ -519,23 +535,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ae8nt86",
-      "title": "Écrire au président de la République : le service courrier de l’Élysée, baromètre de l’opinion publique ?",
-      "summary": "Cartes postales, lettres de revendication ou requêtes, fleurs, dessins d’enfants… Chaque jour, ce sont des centaines, voire des milliers de courriers qui sont envoyés au président de la République. Qu’est-ce qui incite des citoyennes et citoyens à s’adresser de manière aussi directe au chef de l’État ? Comment leurs de",
-      "link": "https://theconversation.com/ecrire-au-president-de-la-republique-le-service-courrier-de-lelysee-barometre-de-lopinion-publique-287032",
-      "image": "https://images.theconversation.com/files/746473/original/file-20260707-57-ef95su.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-13T15:18:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -551,7 +551,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -606,7 +606,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 4,
+      "urgency": 3,
       "urgencyLevel": "basse"
     },
     {
@@ -621,24 +621,6 @@
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 4,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a53kv91",
-      "title": "Edouard Philippe veut raccourcir les vacances d’été",
-      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
-      "publishedAt": "2026-07-06T06:37:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
       "relevanceLevel": "moyenne",
       "urgency": 3,
       "urgencyLevel": "basse"
@@ -660,6 +642,24 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "a53kv91",
+      "title": "Edouard Philippe veut raccourcir les vacances d’été",
+      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
+      "publishedAt": "2026-07-06T06:37:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 2,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "ab105s2",
       "title": "Les 6 films à voir durant ces vacances",
       "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
@@ -672,7 +672,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 3,
+      "urgency": 2,
       "urgencyLevel": "basse"
     },
     {
