@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T13:47:20.122Z",
+  "generatedAt": "2026-07-16T19:07:47.278Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,104 @@
   "count": 35,
   "items": [
     {
+      "id": "aug1an4",
+      "title": "Peut-on réussir en politique sans charisme ? Quelques pistes de réflexion tirées de la situation outre-Manche",
+      "summary": "En dépit de réussites factuelles (sur le temps d’attente dans les hôpitaux, la hausse du salaire minimum et la baisse de l’immigration), la perception générale des deux années que Keir Starmer a passées au poste de premier ministre est généralement mitigée. S’il est vrai qu’il a plusieurs fois changé de positions, c’es",
+      "link": "https://theconversation.com/peut-on-reussir-en-politique-sans-charisme-quelques-pistes-de-reflexion-tirees-de-la-situation-outre-manche-287086",
+      "image": "https://counter.theconversation.com/content/287086/count.gif",
+      "publishedAt": "2026-07-16T15:11:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ah01mjd",
+      "title": "L’affaire des rayons N : l’une des plus grandes bavures scientifiques de l’histoire",
+      "summary": "Photogravures supposées mettre en évidence les rayons N, dans une communication faite par Blondlot à l'Académie des sciences. Prosper-René Blondlot /Wikipedia, CC BY Il faut le croire pour le voir : voilà ce qui a conduit des scientifiques renommés à percevoir des rayons émis qui finalement n’existaient pas. L’affaire ",
+      "link": "https://theconversation.com/laffaire-des-rayons-n-lune-des-plus-grandes-bavures-scientifiques-de-lhistoire-282750",
+      "image": "https://images.theconversation.com/files/746653/original/file-20260708-101-12s76b.png?ixlib=rb-4.1.0&amp;rect=5%2C0%2C2094%2C1396&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-16T15:18:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6960nn",
+      "title": "Pourquoi l'Organisation mondiale de la Santé est utile aux citoyens français",
+      "summary": "On associe souvent l’Organisation mondiale de la Santé à la gestion des grandes épidémies mondiales : Ebola, hantavirus Andes, Covid-19, etc. Pourtant, son action influence chaque jour la santé des Français, bien au-delà de la surveillance des seuls virus : elle a des effets dans des domaines aussi variés que la sécuri",
+      "link": "https://theconversation.com/pourquoi-lorganisation-mondiale-de-la-sante-est-utile-aux-citoyens-francais-285020",
+      "image": "https://counter.theconversation.com/content/285020/count.gif",
+      "publishedAt": "2026-07-16T15:13:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a19xjzg",
+      "title": "Manosphère : anatomie d’une galaxie antiféministe en pleine évolution",
+      "summary": "Fin juin, un rapport du Sénat alertait sur une offensive masculiniste en France, deux jours après un attentat à caractère sexiste à Montréal. Le masculinisme, mouvement réactionnaire antiféministe, est en constante évolution et prend de nouveaux visages, qui s’incarnent en ligne dans les différents courants de ce qu’on",
+      "link": "https://theconversation.com/manosphere-anatomie-dune-galaxie-antifeministe-en-pleine-evolution-287181",
+      "image": "https://counter.theconversation.com/content/287181/count.gif",
+      "publishedAt": "2026-07-16T15:13:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ackf94g",
+      "title": "Quand votre chien s’habille en Prada… Les marques de luxe surfent sur votre affect pour vous vendre leurs produits",
+      "summary": "En France en 2025, on dénombrait 79 millions d’animaux de compagnie, selon la Fédération des fabricants d’aliments pour animaux domestiques ; 61 % des Français et des Françaises en possèdent. Ces animaux deviennent des membres à part entière des familles. Les marques surfent sur cette tendance en s’adressant aux « pare",
+      "link": "https://theconversation.com/quand-votre-chien-shabille-en-prada-les-marques-de-luxe-surfent-sur-votre-affect-pour-vous-vendre-leurs-produits-281812",
+      "image": "https://counter.theconversation.com/content/281812/count.gif",
+      "publishedAt": "2026-07-16T15:10:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "al55744",
+      "title": "Du zinc à Instagram : la révolution des coffee shops",
+      "summary": "Le « latte art », pratique emblématique des coffee shops. CC BY En 15 ans, le nombre de « coffee shops » à l’anglo-saxonne a explosé sur le territoire français. Des lieux qui réinventent les habitudes de consommation et racontent un art de vivre branché, mais commencent à trouver leurs limites. Longtemps dominé par le ",
+      "link": "https://theconversation.com/du-zinc-a-instagram-la-revolution-des-coffee-shops-282650",
+      "image": "https://images.theconversation.com/files/748306/original/file-20260716-57-yol9yh.jpg?ixlib=rb-4.1.0&amp;rect=0%2C1016%2C3487%2C2324&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-16T15:09:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "avpfh8a",
       "title": "Percevoir les conséquences immédiates du changement climatique suffit-il pour changer les comportements ?",
       "summary": "Cet été 2026, la France subit de plein fouet les conséquences directes du réchauffement de la planète. Cette situation pourrait-elle affecter la distance psychologique à laquelle nous percevons le changement climatique et, par ce biais, constituer une opportunité pour renforcer les comportements visant à lutter contre ",
@@ -131,8 +229,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aoqkfq1",
@@ -147,8 +245,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a15ih8q",
@@ -163,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -179,7 +277,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -195,7 +293,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +311,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +329,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +347,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +365,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +381,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +397,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,7 +413,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,7 +429,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -347,7 +445,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -363,25 +461,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahgsbtq",
-      "title": "Du Mississippi à l’intelligence artificielle : la Louisiane, laboratoire inattendu de la nouvelle économie américaine",
-      "summary": "La géographie des États-Unis est en pleine recomposition. Un nouveau pôle d’attractivité émerge en Louisiane. De quels atouts dispose cet État, qui devrait accueillir prochainement un mégacentre de données de Meta ? Dans une Amérique en recomposition, la Louisiane apparaît comme un cas particulièrement intrigant dans l",
-      "link": "https://theconversation.com/du-mississippi-a-lintelligence-artificielle-la-louisiane-laboratoire-inattendu-de-la-nouvelle-economie-americaine-286195",
-      "image": "https://counter.theconversation.com/content/286195/count.gif",
-      "publishedAt": "2026-07-14T16:47:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 42,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,8 +479,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9qy5hn",
@@ -417,8 +497,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5gh0bt",
@@ -433,8 +513,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "al9gycw",
@@ -449,93 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a777zsg",
-      "title": "En voulant figurer sur un billet de 250 dollars, Donald Trump impose sa méthode à l’opposé de la BCE et de la Suisse",
-      "summary": "Alors que Donald Trump souhaite imprimer sa signature et son visage sur un billet de 250 dollars états-uniens, la Banque nationale suisse présente sa nouvelle gamme de billets tandis que la Banque centrale européenne (BCE) a sélectionné deux thèmes pour ses nouveaux billets : « La culture européenne : un héritage commu",
-      "link": "https://theconversation.com/en-voulant-figurer-sur-un-billet-de-250-dollars-donald-trump-impose-sa-methode-a-loppose-de-la-bce-et-de-la-suisse-277300",
-      "image": "https://images.theconversation.com/files/745734/original/file-20260702-57-kyzuge.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-14T16:47:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ac2govo",
-      "title": "L’Odyssée : voyage d’un mythe au cinéma",
-      "summary": "Capture d'écran Allociné En 2024 est sorti Le Retour d’Ulysse, coproduction internationale du réalisateur italien Uberto Pasolini ; en 2026, c’est le britannico-américain Christopher Nolan qui réalise L’Odyssée. Comment expliquer le succès actuel d’une épopée écrite dans la seconde moitié du VIIIᵉ siècle avant notre èr",
-      "link": "https://theconversation.com/lodyssee-voyage-dun-mythe-au-cinema-285778",
-      "image": "https://images.theconversation.com/files/746836/original/file-20260709-71-8eupt5.png?ixlib=rb-4.1.0&amp;rect=10%2C0%2C2123%2C1415&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-14T16:46:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ag3asgi",
-      "title": "Les raisons du revers judiciaire du prince Harry face au « Daily Mail »",
-      "summary": "La justice britannique vient de donner raison à l’éditeur du Daily Mail face au prince Harry et à plusieurs autres personnalités qui l’accusaient d’avoir obtenu illégalement des informations privées. Ce revers judiciaire fragilise le combat de Harry contre les tabloïds, malgré ses précédentes victoires contre d’autres ",
-      "link": "https://theconversation.com/les-raisons-du-revers-judiciaire-du-prince-harry-face-au-daily-mail-287386",
-      "image": "https://images.theconversation.com/files/746621/original/file-20260708-102-625kwe.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-13T15:35:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
       "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "alps742",
-      "title": "Le trouble développemental du langage, un enjeu de santé publique",
-      "summary": "Peu connu, le trouble développemental du langage affecterait 7,5 % de la population française. Souvent confondu avec de la timidité, un problème d’attention, ou des difficultés intellectuelles, ce handicap invisible, dont les causes sont encore mal comprises, gâche la vie de nombreux enfants, et a aussi des répercussio",
-      "link": "https://theconversation.com/le-trouble-developpemental-du-langage-un-enjeu-de-sante-publique-285501",
-      "image": "https://counter.theconversation.com/content/285501/count.gif",
-      "publishedAt": "2026-07-14T06:56:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "handicap"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agl46nz",
-      "title": "Si l’IA est capable de tout traduire, pourquoi encore apprendre des langues étrangères ?",
-      "summary": "Même à l’heure de la traduction instantanée par intelligence artificielle, l’apprentissage d’une nouvelle langue demeure bénéfique. En effet, de nombreux indices suggèrent qu’elle améliore la résilience cognitive du cerveau à mesure que l’on avance en âge. Par ailleurs, elle permet de saisir des nuances culturelles que",
-      "link": "https://theconversation.com/si-lia-est-capable-de-tout-traduire-pourquoi-encore-apprendre-des-langues-etrangeres-287436",
-      "image": "https://counter.theconversation.com/content/287436/count.gif",
-      "publishedAt": "2026-07-14T06:53:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -626,22 +620,6 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "atbg3oo",
-      "title": "Les 5 expos à voir pendant les vacances d’été",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
-      "publishedAt": "2026-07-06T11:24:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 3,
-      "urgencyLevel": "basse"
-    },
-    {
       "id": "a53kv91",
       "title": "Edouard Philippe veut raccourcir les vacances d’été",
       "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
@@ -655,6 +633,22 @@
         "école"
       ],
       "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 2,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "atbg3oo",
+      "title": "Les 5 expos à voir pendant les vacances d’été",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
+      "publishedAt": "2026-07-06T11:24:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 2,
       "urgencyLevel": "basse"
