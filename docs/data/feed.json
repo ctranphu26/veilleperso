@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T13:12:05.269Z",
+  "generatedAt": "2026-07-18T19:01:59.645Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,8 +131,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "af7w2l1",
@@ -147,8 +147,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akrbnvz",
@@ -165,8 +165,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a54e0or",
@@ -181,8 +181,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqi89h9",
@@ -199,7 +199,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,23 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ah01mjd",
-      "title": "L’affaire des rayons N : l’une des plus grandes bavures scientifiques de l’histoire",
-      "summary": "Photogravures supposées mettre en évidence les rayons N, dans une communication faite par Blondlot à l'Académie des sciences. Prosper-René Blondlot /Wikipedia, CC BY Il faut le croire pour le voir : voilà ce qui a conduit des scientifiques renommés à percevoir des rayons émis qui finalement n’existaient pas. L’affaire ",
-      "link": "https://theconversation.com/laffaire-des-rayons-n-lune-des-plus-grandes-bavures-scientifiques-de-lhistoire-282750",
-      "image": "https://images.theconversation.com/files/746653/original/file-20260708-101-12s76b.png?ixlib=rb-4.1.0&amp;rect=5%2C0%2C2094%2C1396&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-16T15:18:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,8 +265,24 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ah01mjd",
+      "title": "L’affaire des rayons N : l’une des plus grandes bavures scientifiques de l’histoire",
+      "summary": "Photogravures supposées mettre en évidence les rayons N, dans une communication faite par Blondlot à l'Académie des sciences. Prosper-René Blondlot /Wikipedia, CC BY Il faut le croire pour le voir : voilà ce qui a conduit des scientifiques renommés à percevoir des rayons émis qui finalement n’existaient pas. L’affaire ",
+      "link": "https://theconversation.com/laffaire-des-rayons-n-lune-des-plus-grandes-bavures-scientifiques-de-lhistoire-282750",
+      "image": "https://images.theconversation.com/files/746653/original/file-20260708-101-12s76b.png?ixlib=rb-4.1.0&amp;rect=5%2C0%2C2094%2C1396&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-16T15:18:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a6960nn",
@@ -297,8 +297,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a19xjzg",
@@ -313,8 +313,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ackf94g",
@@ -329,8 +329,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "al55744",
@@ -345,8 +345,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a15ih8q",
@@ -361,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -377,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -393,7 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -409,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +427,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -445,7 +445,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -463,7 +463,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -479,7 +479,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -495,7 +495,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -511,7 +511,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -527,7 +527,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
