@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T07:47:18.762Z",
+  "generatedAt": "2026-07-18T13:12:05.269Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,38 @@
   "count": 35,
   "items": [
     {
+      "id": "ayq7zrd",
+      "title": "Dengue, Zika, chikungunya : les moustiques invasifs coûtent des milliards, la prévention reste à la traîne",
+      "summary": "Les moustiques invasifs ne constituent pas seulement une menace sanitaire : ils représentent aussi un coût économique majeur. Une étude internationale estime qu’entre 1975 et 2020, les maladies transmises par les moustiques Aedes ont engendré au moins 94,7 milliards de dollars de pertes dans le monde. Plus frappant enc",
+      "link": "https://theconversation.com/dengue-zika-chikungunya-les-moustiques-invasifs-coutent-des-milliards-la-prevention-reste-a-la-traine-286365",
+      "image": "https://counter.theconversation.com/content/286365/count.gif",
+      "publishedAt": "2026-07-18T07:58:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "af7w2l1",
+      "title": "Manger sans avoir faim parce qu’on passe une mauvaise journée : l’alimentation émotionnelle est-elle un problème ?",
+      "summary": "L’alimentation émotionnelle est un comportement assez fréquent chez les femmes comme chez les hommes, qui n’est pas considéré, en soi, comme un trouble psychologique. MaxStrogiy/Shutterstock L’alimentation émotionnelle consiste à manger pour gérer des émotions. Ce comportement n’est pas considéré comme un trouble psych",
+      "link": "https://theconversation.com/manger-sans-avoir-faim-parce-quon-passe-une-mauvaise-journee-lalimentation-emotionnelle-est-elle-un-probleme-285651",
+      "image": "https://images.theconversation.com/files/742739/original/file-20260611-57-krl9vi.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-18T07:58:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "akrbnvz",
       "title": "Quand « L’Odyssée » d’Ulysse éclaire les migrations contemporaines",
       "summary": "Capture d'écran du film documentaire de Nathalie Loubeyre. No comment, Nathalie Loubeyre, avec l'autorisation de la réalisatrice. Le film documentaire No comment, réalisé à Calais en 2008 par la cinéaste Nathalie Loubeyre, est l’un des premiers films français sur ce que la presse et les politiques ont appelé la « crise",
@@ -133,7 +165,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +199,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +247,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ah01mjd",
+      "title": "L’affaire des rayons N : l’une des plus grandes bavures scientifiques de l’histoire",
+      "summary": "Photogravures supposées mettre en évidence les rayons N, dans une communication faite par Blondlot à l'Académie des sciences. Prosper-René Blondlot /Wikipedia, CC BY Il faut le croire pour le voir : voilà ce qui a conduit des scientifiques renommés à percevoir des rayons émis qui finalement n’existaient pas. L’affaire ",
+      "link": "https://theconversation.com/laffaire-des-rayons-n-lune-des-plus-grandes-bavures-scientifiques-de-lhistoire-282750",
+      "image": "https://images.theconversation.com/files/746653/original/file-20260708-101-12s76b.png?ixlib=rb-4.1.0&amp;rect=5%2C0%2C2094%2C1396&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-16T15:18:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,23 +281,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ah01mjd",
-      "title": "L’affaire des rayons N : l’une des plus grandes bavures scientifiques de l’histoire",
-      "summary": "Photogravures supposées mettre en évidence les rayons N, dans une communication faite par Blondlot à l'Académie des sciences. Prosper-René Blondlot /Wikipedia, CC BY Il faut le croire pour le voir : voilà ce qui a conduit des scientifiques renommés à percevoir des rayons émis qui finalement n’existaient pas. L’affaire ",
-      "link": "https://theconversation.com/laffaire-des-rayons-n-lune-des-plus-grandes-bavures-scientifiques-de-lhistoire-282750",
-      "image": "https://images.theconversation.com/files/746653/original/file-20260708-101-12s76b.png?ixlib=rb-4.1.0&amp;rect=5%2C0%2C2094%2C1396&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-16T15:18:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -307,38 +339,6 @@
       "link": "https://theconversation.com/du-zinc-a-instagram-la-revolution-des-coffee-shops-282650",
       "image": "https://images.theconversation.com/files/748306/original/file-20260716-57-yol9yh.jpg?ixlib=rb-4.1.0&amp;rect=0%2C1016%2C3487%2C2324&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-07-16T15:09:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avpfh8a",
-      "title": "Percevoir les conséquences immédiates du changement climatique suffit-il pour changer les comportements ?",
-      "summary": "Cet été 2026, la France subit de plein fouet les conséquences directes du réchauffement de la planète. Cette situation pourrait-elle affecter la distance psychologique à laquelle nous percevons le changement climatique et, par ce biais, constituer une opportunité pour renforcer les comportements visant à lutter contre ",
-      "link": "https://theconversation.com/percevoir-les-consequences-immediates-du-changement-climatique-suffit-il-pour-changer-les-comportements-287614",
-      "image": "https://images.theconversation.com/files/748053/original/file-20260715-69-niq48z.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-16T08:31:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aoqkfq1",
-      "title": "Les refuges climatiques seront utiles s’ils n’oublient pas de faire de la chaleur un objet politique",
-      "summary": "Alors que la France a déjà connu trois vagues de chaleur en quelques semaines à peine, le concept de refuge climatique, qui s’institutionnalise dans un certain nombre de pays, cristallise les espoirs des citoyens en surchauffe. Il peut s’agir d’une réponse prometteuse, mais uniquement à certaines conditions, notamment ",
-      "link": "https://theconversation.com/les-refuges-climatiques-seront-utiles-sils-noublient-pas-de-faire-de-la-chaleur-un-objet-politique-287200",
-      "image": "https://images.theconversation.com/files/746861/original/file-20260709-57-t33axh.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-16T08:27:15.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
@@ -361,8 +361,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "acmpuvy",
@@ -377,41 +377,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
-      "id": "any10xp",
-      "title": "Non, « L’Odyssée » de Christopher Nolan ne trahit pas l’œuvre d’Homère",
-      "summary": "L'Odyssée se prête aux interprétations et aux captations par d'autres auteurs depuis sa création. Allociné Depuis la sortie de la bande-annonce du prochain film de Christopher Nolan, une même rengaine circule : le péplum trahirait Homère. Costumes trop propres, accents américains, casting jugé « infidèle », aucun acteu",
-      "link": "https://theconversation.com/non-lodyssee-de-christopher-nolan-ne-trahit-pas-loeuvre-dhomere-287225",
-      "image": "https://images.theconversation.com/files/747489/original/file-20260713-68-aemurb.png?ixlib=rb-4.1.0&amp;rect=0%2C0%2C1883%2C1255&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-15T09:59:26.000Z",
+      "id": "avpfh8a",
+      "title": "Percevoir les conséquences immédiates du changement climatique suffit-il pour changer les comportements ?",
+      "summary": "Cet été 2026, la France subit de plein fouet les conséquences directes du réchauffement de la planète. Cette situation pourrait-elle affecter la distance psychologique à laquelle nous percevons le changement climatique et, par ce biais, constituer une opportunité pour renforcer les comportements visant à lutter contre ",
+      "link": "https://theconversation.com/percevoir-les-consequences-immediates-du-changement-climatique-suffit-il-pour-changer-les-comportements-287614",
+      "image": "https://images.theconversation.com/files/748053/original/file-20260715-69-niq48z.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-16T08:31:53.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
-      "id": "a9cqrqz",
-      "title": "Comment Londres, Paris et New York faisaient face aux canicules avant la climatisation",
-      "summary": "Les canicules qui frappent aujourd’hui Londres, Paris et New York ne sont pas inédites. Dès le XIXe siècle, les habitants de ces métropoles inventaient déjà des stratégies pour échapper à la chaleur, révélatrices des profondes inégalités sociales. Paris, Londres et New York évoquent plus spontanément la culture, la fin",
-      "link": "https://theconversation.com/comment-londres-paris-et-new-york-faisaient-face-aux-canicules-avant-la-climatisation-287599",
-      "image": "https://counter.theconversation.com/content/287599/count.gif",
-      "publishedAt": "2026-07-15T07:49:10.000Z",
+      "id": "aoqkfq1",
+      "title": "Les refuges climatiques seront utiles s’ils n’oublient pas de faire de la chaleur un objet politique",
+      "summary": "Alors que la France a déjà connu trois vagues de chaleur en quelques semaines à peine, le concept de refuge climatique, qui s’institutionnalise dans un certain nombre de pays, cristallise les espoirs des citoyens en surchauffe. Il peut s’agir d’une réponse prometteuse, mais uniquement à certaines conditions, notamment ",
+      "link": "https://theconversation.com/les-refuges-climatiques-seront-utiles-sils-noublient-pas-de-faire-de-la-chaleur-un-objet-politique-287200",
+      "image": "https://images.theconversation.com/files/746861/original/file-20260709-57-t33axh.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-07-16T08:27:15.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 56,
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 38,
       "urgencyLevel": "basse"
     },
     {
@@ -429,7 +427,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -447,7 +445,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -465,7 +463,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -481,7 +479,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -497,7 +495,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -513,7 +511,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -529,7 +527,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
