@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T08:14:52.329Z",
+  "generatedAt": "2026-07-19T13:14:56.863Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,104 @@
   "count": 35,
   "items": [
     {
+      "id": "a2dbyx",
+      "title": "L’IA générative, une révolution dans les comportements politiques et électoraux ?",
+      "summary": "Les usages politiques et électoraux de l’intelligence artificielle (IA) générative sont de plus en plus discutés dans le débat public. Selon certains acteurs, ils seraient susceptibles de remodeler nos systèmes démocratiques et notre rapport à la politique. Quelle est la réalité de ces usages, aujourd’hui, en France ? ",
+      "link": "https://theconversation.com/lia-generative-une-revolution-dans-les-comportements-politiques-et-electoraux-284627",
+      "image": "https://counter.theconversation.com/content/284627/count.gif",
+      "publishedAt": "2026-07-19T09:21:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac569v5",
+      "title": "Les centres de données spatiaux posent aussi des risques écologiques. Qu’en dit le droit ?",
+      "summary": "Déploiement de Starcloud-1 en novembre 2025 : avec ses GPU de Nvidia, c’est le premier satellite à faire tourner le modèle de langage de Google dans l’espace (Gemini). Philipjohnst, Wikipédia Différents acteurs du spatial prévoient d’envoyer des centres de données en orbite, souvent sous la forme de constellations de n",
+      "link": "https://theconversation.com/les-centres-de-donnees-spatiaux-posent-aussi-des-risques-ecologiques-quen-dit-le-droit-286490",
+      "image": "https://images.theconversation.com/files/746947/original/file-20260709-57-86mbta.jpg?ixlib=rb-4.1.1&amp;rect=167%2C71%2C800%2C533&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-19T09:21:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amc1l31",
+      "title": "Taylor au pays des Soviets : quand Lénine s'inspirait de l'organisation scientifique du travail",
+      "summary": "En 1918, Lénine écrit « Les Soviétiques au travail » en mentionnant les travaux de Frédéric Winslow Taylor. Wikimediacommons Ford Motor Company à Nijni Novgorod, Arthur Glenn McKee & Co à Magnitogorsk… dans les années 1920-1930, les États-Unis s’exportent en Union des républiques socialistes soviétiques (URSS). Au-delà",
+      "link": "https://theconversation.com/taylor-au-pays-des-soviets-quand-lenine-sinspirait-de-lorganisation-scientifique-du-travail-278683",
+      "image": "https://images.theconversation.com/files/743270/original/file-20260622-71-msohjz.jpg?ixlib=rb-4.1.1&amp;rect=7%2C0%2C968%2C645&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-19T09:23:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ae31wo8",
+      "title": "Santé des étudiants : plus d’un sur deux entre à l’université avec une fragilité physique ou mentale",
+      "summary": "26 % des étudiants présentent une vulnérabilité psychique lors de leur entrée à l'université. Tim Gouw / Unsplash, CC BY Dans l’imaginaire collectif, les années étudiantes sont souvent associées à une période d’insouciance et d’émancipation. Pourtant, les recherches récentes nuancent fortement ce tableau. À Lille, une ",
+      "link": "https://theconversation.com/sante-des-etudiants-plus-dun-sur-deux-entre-a-luniversite-avec-une-fragilite-physique-ou-mentale-286054",
+      "image": "https://images.theconversation.com/files/746941/original/file-20260709-57-pyoixl.jpg?ixlib=rb-4.1.1&amp;rect=0%2C2%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-19T09:23:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a38xx45",
+      "title": "Quand l’État vacille, qui gouverne encore ?",
+      "summary": "L’effritement de l’État ne plonge pas nécessairement le pays où ce phénomène se produit dans un vide organisationnel absolu. D’autres formes de gouvernance émergent, portées par des acteurs alternatifs — une réalité qui oblige à repenser l’articulation entre État et action publique. Plusieurs quartiers de la capitale h",
+      "link": "https://theconversation.com/quand-letat-vacille-qui-gouverne-encore-286368",
+      "image": "https://counter.theconversation.com/content/286368/count.gif",
+      "publishedAt": "2026-07-19T09:22:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac1jdlf",
+      "title": "Pourquoi la transition écologique fâche-t-elle les campagnes ?",
+      "summary": "Des gilets jaunes aux mobilisations contre les zones à faibles émissions ou contre les parcs éoliens, un constat s’impose : les politiques climatiques suscitent une opposition particulièrement vive hors des grandes villes. Ce phénomène n’est pas propre à la France, on l’observe dans plusieurs pays européens. Mais d’où ",
+      "link": "https://theconversation.com/pourquoi-la-transition-ecologique-fache-t-elle-les-campagnes-285391",
+      "image": "https://images.theconversation.com/files/743351/original/file-20260622-57-cso9nm.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-19T09:22:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ayq7zrd",
       "title": "Dengue, Zika, chikungunya : les moustiques invasifs coûtent des milliards, la prévention reste à la traîne",
       "summary": "Les moustiques invasifs ne constituent pas seulement une menace sanitaire : ils représentent aussi un coût économique majeur. Une étude internationale estime qu’entre 1975 et 2020, les maladies transmises par les moustiques Aedes ont engendré au moins 94,7 milliards de dollars de pertes dans le monde. Plus frappant enc",
@@ -131,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -147,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +263,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,8 +297,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5vn1cl",
@@ -215,8 +313,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aqzq8or",
@@ -231,8 +329,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ay0ujnd",
@@ -247,8 +345,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a15ih8q",
+      "title": "Lutter contre les incendies avec des produits qui aggravent le changement climatique et nuisent à la santé : les pompiers au piège des PFAS",
+      "summary": "Les PFAS (substances per — et polyfluoroalkylées) ont d’abord été célébrés comme une innovation industrielle, permettant notamment de lutter plus efficacement contre les incendies. Aujourd’hui, ils sont pourtant au cœur d’une crise sanitaire et environnementale mondiale. Les pompiers sont pris au piège d’un cycle infer",
+      "link": "https://theconversation.com/lutter-contre-les-incendies-avec-des-produits-qui-aggravent-le-changement-climatique-et-nuisent-a-la-sante-les-pompiers-au-piege-des-pfas-287245",
+      "image": "https://images.theconversation.com/files/747465/original/file-20260713-57-vip90x.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-15T14:23:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 31,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aug1an4",
@@ -265,7 +379,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -281,7 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -297,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -313,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -329,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -345,39 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a15ih8q",
-      "title": "Lutter contre les incendies avec des produits qui aggravent le changement climatique et nuisent à la santé : les pompiers au piège des PFAS",
-      "summary": "Les PFAS (substances per — et polyfluoroalkylées) ont d’abord été célébrés comme une innovation industrielle, permettant notamment de lutter plus efficacement contre les incendies. Aujourd’hui, ils sont pourtant au cœur d’une crise sanitaire et environnementale mondiale. Les pompiers sont pris au piège d’un cycle infer",
-      "link": "https://theconversation.com/lutter-contre-les-incendies-avec-des-produits-qui-aggravent-le-changement-climatique-et-nuisent-a-la-sante-les-pompiers-au-piege-des-pfas-287245",
-      "image": "https://images.theconversation.com/files/747465/original/file-20260713-57-vip90x.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-15T14:23:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "acmpuvy",
-      "title": "Faire les saisons en camion : « devenir adulte » autrement ?",
-      "summary": "Accéder à un emploi stable, se fixer dans un lieu de vie font partie de ces étapes clés menant vers l’âge adulte. Comment les jeunes qui choisissent une vie nomade, au gré des saisons touristiques et agricoles, vivent-ils alors cette transition ? En quoi leur expérience, a priori atypique, nous offre-t-elle un miroir d",
-      "link": "https://theconversation.com/faire-les-saisons-en-camion-devenir-adulte-autrement-285491",
-      "image": "https://counter.theconversation.com/content/285491/count.gif",
-      "publishedAt": "2026-07-15T14:19:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -393,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -409,61 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ae0g0ns",
-      "title": "En Méditerranée, les poissons fuient la chaleur, mais pas nécessairement comme on s’y attendrait",
-      "summary": "Au cours des deux dernières décennies, en raison du réchauffement des eaux de la Méditerranée lié au changement climatique, près de la moitié des espèces de poissons présentant un intérêt commercial ont abandonné leurs habitats d'origine pour se diriger vers des latitudes plus élevées, des profondeurs plus importantes ",
-      "link": "https://theconversation.com/en-mediterranee-les-poissons-fuient-la-chaleur-mais-pas-necessairement-comme-on-sy-attendrait-287242",
-      "image": "https://images.theconversation.com/files/746909/original/file-20260306-57-3k3mxm.jpg?ixlib=rb-4.1.0&amp;rect=299%2C0%2C3239%2C2160&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-15T14:19:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ao7axib",
-      "title": "Depuis le traumatisme de la crise grecque, les agences de notation souveraine influencent-elles encore les marchés financiers ?",
-      "summary": "Les agences de notation sont régulièrement accusées de manquer de transparence, de produire des évaluations biaisées ou d’amplifier les crises financières. Quinze ans après la crise grecque qui a cristallisé les critiques à leur égard, leur pouvoir est-il toujours aussi important ? Et quel est leur rôle ? Les notations",
-      "link": "https://theconversation.com/depuis-le-traumatisme-de-la-crise-grecque-les-agences-de-notation-souveraine-influencent-elles-encore-les-marches-financiers-277888",
-      "image": "https://images.theconversation.com/files/746352/original/file-20260707-57-h4t8ty.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-15T14:18:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "évaluation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "as9vvog",
-      "title": "À quoi ressemblaient les premiers congés payés, en 1936, pour les ouvriers bretons ?",
-      "summary": "Dans un département breton comme les Côtes-du-Nord (devenu Côtes-d’Armor), marqué par la prépondérance des campagnes, à quoi ressemblaient les premiers congés en 1936 ? La question mérite que l’on s’y attarde, archives à l’appui, pour déconstruire un certain nombre de représentations, si mythifiées qu’elles finissent p",
-      "link": "https://theconversation.com/a-quoi-ressemblaient-les-premiers-conges-payes-en-1936-pour-les-ouvriers-bretons-285127",
-      "image": "https://images.theconversation.com/files/747498/original/file-20260713-57-l7oyky.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-15T14:18:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -479,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -489,38 +517,6 @@
       "link": "https://theconversation.com/le-canada-a-leurovision-le-choix-de-la-langue-une-question-politique-cruciale-286815",
       "image": "https://counter.theconversation.com/content/286815/count.gif",
       "publishedAt": "2026-07-15T14:20:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2r58mt",
-      "title": "LVMH Kering : quelles bascules stratégiques attendre chez les conglomérats du luxe ?",
-      "summary": ".tc-acc{display:block;margin:0 0 1rem} .tc-acc .tc-head,.tc-acc .tc-title,.tc-acc .tc-cta,.tc-acc .tc-item{margin:0} .tc-acc .tc-head p{margin:0} .tc-acc .tc-head br{display:none} .tc-acc .tc-head{display:block;cursor:pointer;text-decoration:none;color:inherit;background:#f1f1f2;border-radius:.5rem;padding:.85rem 1rem}",
-      "link": "https://theconversation.com/lvmh-kering-quelles-bascules-strategiques-attendre-chez-les-conglomerats-du-luxe-284576",
-      "image": "https://counter.theconversation.com/content/284576/count.gif",
-      "publishedAt": "2026-07-15T14:18:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aibeyks",
-      "title": "The world’s first influencers were French and they emerged after the Revolution",
-      "summary": "A painting by Jacques-Louis David of French socialite and Neoclassical icon Madame Récamier whose salon in Paris attracted leading literary and political circles in the early 19th-century. Wikimedia In 1806, the Parisian gastronome Grimod de la Reynière launched a new periodical, the Journal des Gourmands et des Belles",
-      "link": "https://theconversation.com/the-worlds-first-influencers-were-french-and-they-emerged-after-the-revolution-286859",
-      "image": "https://images.theconversation.com/files/747485/original/file-20260713-71-wfub3s.jpg?ixlib=rb-4.1.0&amp;rect=0%2C31%2C1499%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-15T11:37:02.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
