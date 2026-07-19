@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T13:14:56.863Z",
+  "generatedAt": "2026-07-19T19:03:50.340Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "a8ht8h4",
+      "title": "Ukraine : un remaniement qui révèle les fractures au sein du premier cercle de Volodymyr Zelensky",
+      "summary": "Le conflit entre le ministre de la défense Mykhaïlo Fedorov, 35 ans, et le chef d’état-major Oleksandr Syrsky, 60 ans, a été tranché en faveur du second nommé : Volodymyr Zelensky a limogé Fedorov. Une décision qui a suscité une large levée de boucliers au sein de la population mais aussi parmi les proches soutiens du ",
+      "link": "https://theconversation.com/ukraine-un-remaniement-qui-revele-les-fractures-au-sein-du-premier-cercle-de-volodymyr-zelensky-287851",
+      "image": "https://counter.theconversation.com/content/287851/count.gif",
+      "publishedAt": "2026-07-19T17:08:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a2dbyx",
       "title": "L’IA générative, une révolution dans les comportements politiques et électoraux ?",
       "summary": "Les usages politiques et électoraux de l’intelligence artificielle (IA) générative sont de plus en plus discutés dans le débat public. Selon certains acteurs, ils seraient susceptibles de remodeler nos systèmes démocratiques et notre rapport à la politique. Quelle est la réalité de ces usages, aujourd’hui, en France ? ",
@@ -133,7 +149,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -197,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -213,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -229,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +279,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +313,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -313,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -329,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -345,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -361,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -379,7 +395,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -395,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -491,39 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aydndt3",
-      "title": "Lucas, 16 ans, a disparu sans laisser de traces : comment mener l’enquête ?",
-      "summary": "Le 18 mars 2015, Lucas, seize ans, disparaissait sans laisser de traces, alors qu’il devait se rendre à la piscine. À l’époque, l’enquête ne donnera aucune réponse et n’identifiera aucun suspect. Sur quelles méthodes s’appuie la police en cas de disparition ? Quel est le rôle des psychocriminologues dont le rôle est d’",
-      "link": "https://theconversation.com/lucas-16-ans-a-disparu-sans-laisser-de-traces-comment-mener-lenquete-281667",
-      "image": "https://images.theconversation.com/files/734010/original/file-20260505-57-fxkasw.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-15T14:21:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avx28al",
-      "title": "Le Canada à l’Eurovision : le choix de la langue, une question politique cruciale",
-      "summary": "En 2027, le Canada participera pour la première fois à l’Eurovision. Le choix de la langue de sa chanson dépasse largement le cadre artistique. Anglais, français, bilinguisme ou langue autochtone : chaque option incarne une vision différente de l’identité canadienne. En obligeant le pays à ne retenir qu’un seul récit n",
-      "link": "https://theconversation.com/le-canada-a-leurovision-le-choix-de-la-langue-une-question-politique-cruciale-286815",
-      "image": "https://counter.theconversation.com/content/286815/count.gif",
-      "publishedAt": "2026-07-15T14:20:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -540,6 +524,22 @@
       "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 21,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aydndt3",
+      "title": "Lucas, 16 ans, a disparu sans laisser de traces : comment mener l’enquête ?",
+      "summary": "Le 18 mars 2015, Lucas, seize ans, disparaissait sans laisser de traces, alors qu’il devait se rendre à la piscine. À l’époque, l’enquête ne donnera aucune réponse et n’identifiera aucun suspect. Sur quelles méthodes s’appuie la police en cas de disparition ? Quel est le rôle des psychocriminologues dont le rôle est d’",
+      "link": "https://theconversation.com/lucas-16-ans-a-disparu-sans-laisser-de-traces-comment-mener-lenquete-281667",
+      "image": "https://images.theconversation.com/files/734010/original/file-20260505-57-fxkasw.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-15T14:21:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
