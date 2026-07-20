@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T08:55:42.843Z",
+  "generatedAt": "2026-07-20T14:02:53.263Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,38 @@
   "count": 35,
   "items": [
     {
+      "id": "au4wqj1",
+      "title": "Peut-on suivre un salarié toutes les dix secondes pour vérifier son temps de travail ?",
+      "summary": "Le 18 mars 2026, la Cour de cassation valide un système de géolocalisation qui suit des distributeurs en continu pendant leur tournée. Comment l’expliquer ? Cette décision fait-elle loi ? Y a-t-il d’autres alternatives ? Le 18 mars 2026, la chambre sociale de la Cour de cassation, la plus haute juridiction pour les lit",
+      "link": "https://theconversation.com/peut-on-suivre-un-salarie-toutes-les-dix-secondes-pour-verifier-son-temps-de-travail-282770",
+      "image": "https://counter.theconversation.com/content/282770/count.gif",
+      "publishedAt": "2026-07-20T10:37:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 96,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6q4rxa",
+      "title": "Pourquoi des candidats disparaissent-ils en plein recrutement ? Ce que révèle vraiment le « ghosting »",
+      "summary": ".tc-acc{display:block;margin:0 0 1rem} .tc-acc .tc-head,.tc-acc .tc-title,.tc-acc .tc-cta,.tc-acc .tc-item{margin:0} .tc-acc .tc-head p{margin:0} .tc-acc .tc-head br{display:none} .tc-acc .tc-head{display:block;cursor:pointer;text-decoration:none;color:inherit;background:#f1f1f2;border-radius:.5rem;padding:.85rem 1rem}",
+      "link": "https://theconversation.com/pourquoi-des-candidats-disparaissent-ils-en-plein-recrutement-ce-que-revele-vraiment-le-ghosting-277748",
+      "image": "https://counter.theconversation.com/content/277748/count.gif",
+      "publishedAt": "2026-07-20T10:37:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a8ht8h4",
       "title": "Ukraine : un remaniement qui révèle les fractures au sein du premier cercle de Volodymyr Zelensky",
       "summary": "Le conflit entre le ministre de la défense Mykhaïlo Fedorov, 35 ans, et le chef d’état-major Oleksandr Syrsky, 60 ans, a été tranché en faveur du second nommé : Volodymyr Zelensky a limogé Fedorov. Une décision qui a suscité une large levée de boucliers au sein de la population mais aussi parmi les proches soutiens du ",
@@ -131,8 +163,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2dbyx",
@@ -149,7 +181,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,8 +277,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "af7w2l1",
@@ -261,8 +293,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akrbnvz",
@@ -279,7 +311,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -295,7 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -313,7 +345,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -329,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -345,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -361,23 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a15ih8q",
-      "title": "Lutter contre les incendies avec des produits qui aggravent le changement climatique et nuisent à la santé : les pompiers au piège des PFAS",
-      "summary": "Les PFAS (substances per — et polyfluoroalkylées) ont d’abord été célébrés comme une innovation industrielle, permettant notamment de lutter plus efficacement contre les incendies. Aujourd’hui, ils sont pourtant au cœur d’une crise sanitaire et environnementale mondiale. Les pompiers sont pris au piège d’un cycle infer",
-      "link": "https://theconversation.com/lutter-contre-les-incendies-avec-des-produits-qui-aggravent-le-changement-climatique-et-nuisent-a-la-sante-les-pompiers-au-piege-des-pfas-287245",
-      "image": "https://images.theconversation.com/files/747465/original/file-20260713-57-vip90x.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-15T14:23:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -395,7 +411,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -507,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -523,23 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aydndt3",
-      "title": "Lucas, 16 ans, a disparu sans laisser de traces : comment mener l’enquête ?",
-      "summary": "Le 18 mars 2015, Lucas, seize ans, disparaissait sans laisser de traces, alors qu’il devait se rendre à la piscine. À l’époque, l’enquête ne donnera aucune réponse et n’identifiera aucun suspect. Sur quelles méthodes s’appuie la police en cas de disparition ? Quel est le rôle des psychocriminologues dont le rôle est d’",
-      "link": "https://theconversation.com/lucas-16-ans-a-disparu-sans-laisser-de-traces-comment-mener-lenquete-281667",
-      "image": "https://images.theconversation.com/files/734010/original/file-20260505-57-fxkasw.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-15T14:21:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
