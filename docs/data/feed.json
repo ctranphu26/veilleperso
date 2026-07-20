@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T14:02:53.263Z",
+  "generatedAt": "2026-07-20T19:42:15.755Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,123 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 96,
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a59iwud",
+      "title": "Billes, cartes Pokémon… Pourquoi les enfants aiment faire du troc",
+      "summary": "L’essentiel Dans les groupes d’enfants, dans les cours de récréation, on s’échange des billes, des cartes à collectionner ou des goûters. Loin d’être anodin, ce troc sensibilise les enfants à la valeur des produits. Par le troc, les enfants découvrent la réciprocité des échanges, la nécessité de faire des arbitrages, d",
+      "link": "https://theconversation.com/billes-cartes-pokemon-pourquoi-les-enfants-aiment-faire-du-troc-287039",
+      "image": "https://counter.theconversation.com/content/287039/count.gif",
+      "publishedAt": "2026-07-20T15:17:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ax58xe8",
+      "title": "Plus d’un adulte sur cinq est touché par le handicap dans sa famille",
+      "summary": "L’essentiel Vingt ans après sa première enquête « Familles et Employeurs », l’Institut national d’études démographiques (Ined) s’est de nouveau penché sur les liens entre vie familiale et vie professionnelle. Les résultats de cette nouvelle édition, publiée en juin 2026, permettent pour la première fois d’estimer combi",
+      "link": "https://theconversation.com/plus-dun-adulte-sur-cinq-est-touche-par-le-handicap-dans-sa-famille-286870",
+      "image": "https://images.theconversation.com/files/748109/original/file-20260715-57-xlo5xq.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-20T15:18:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "handicap"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aknhybd",
+      "title": "Dans la France des outre-mer, les marges des distributeurs sont-elles responsables de la vie chère ?",
+      "summary": "Les habitants des outre-mer pâtissent de prix élevés pour acheter leurs produits, notamment ceux du quotidien. Une des causes identifiées dans le débat public : les marges des distributeurs. Mais sont-elles sont excessives par rapport à l’Hexagone ? À chaque débat sur la vie chère dans la France des outre-mer, les dist",
+      "link": "https://theconversation.com/dans-la-france-des-outre-mer-les-marges-des-distributeurs-sont-elles-responsables-de-la-vie-chere-284476",
+      "image": "https://images.theconversation.com/files/740153/original/file-20260604-57-rv52wo.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-20T15:18:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "asay5a5",
+      "title": "Les ONG à bout de souffle : comment réinventer un nouveau modèle d’organisation ?",
+      "summary": "La baisse historique de l’aide publique au développement met les ONG en grande difficulté, alors que les besoins humanitaires continuent d’augmenter. Une étude menée auprès de trois ONG françaises montre que leur principal défi est de trouver le bon équilibre entre contrôle du siège et autonomie des équipes de terrain.",
+      "link": "https://theconversation.com/les-ong-a-bout-de-souffle-comment-reinventer-un-nouveau-modele-dorganisation-287356",
+      "image": "https://counter.theconversation.com/content/287356/count.gif",
+      "publishedAt": "2026-07-20T15:16:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aw53yof",
+      "title": "La théorie de l’évolution est mal comprise : est-ce un problème de langue, de vocabulaire ou de psychologie ?",
+      "summary": "Notre langue « ordinaire » peut-elle décrire correctement un savoir scientifique et des concepts très précis ? La difficulté s’accroît lorsque l’on utilise des mots qui n’ont pas le même sens dans l’usage courant que dans le champ des sciences. L’exemple de la théorie de l’évolution est particulièrement parlant. La thé",
+      "link": "https://theconversation.com/la-theorie-de-levolution-est-mal-comprise-est-ce-un-probleme-de-langue-de-vocabulaire-ou-de-psychologie-287023",
+      "image": "https://images.theconversation.com/files/748790/original/file-20260720-71-g6elu4.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-20T15:15:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahk9oha",
+      "title": "Who does a company’s past belong to and how can companies stay true to their history?",
+      "summary": "Many companies have shady pasts. AkuraYochi/Shutterstock Corporate history belongs to everyone. It belongs just as much to communications professionals keen to craft unifying narratives for their clients and staff, as it does to historians who advocate honesty when it comes to the grey areas. To prevent the past from b",
+      "link": "https://theconversation.com/who-does-a-companys-past-belong-to-and-how-can-companies-stay-true-to-their-history-285420",
+      "image": "https://images.theconversation.com/files/742141/original/file-20260602-57-knf3x3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4896%2C3264&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-20T15:12:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7vsafm",
+      "title": "Why looking out for ‘weak signals’ can help European companies stay in business",
+      "summary": "A Kodak engineer built the first digital camera in 1975. The bosses said: “That’s cute, but don’t tell anyone”. On inventing a filmless device that would revolutionise photography, the reaction inside the company, was more or less that it was a charming little toy and that they should probably keep quiet about it. Koda",
+      "link": "https://theconversation.com/why-looking-out-for-weak-signals-can-help-european-companies-stay-in-business-286598",
+      "image": "https://images.theconversation.com/files/745753/original/file-20260702-71-xe0ouc.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-07-20T15:12:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +297,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,7 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -293,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -311,7 +427,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -327,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -345,7 +461,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -361,7 +477,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -377,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -393,105 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aug1an4",
-      "title": "Peut-on réussir en politique sans charisme ? Quelques pistes de réflexion tirées de la situation outre-Manche",
-      "summary": "En dépit de réussites factuelles (sur le temps d’attente dans les hôpitaux, la hausse du salaire minimum et la baisse de l’immigration), la perception générale des deux années que Keir Starmer a passées au poste de premier ministre est généralement mitigée. S’il est vrai qu’il a plusieurs fois changé de positions, c’es",
-      "link": "https://theconversation.com/peut-on-reussir-en-politique-sans-charisme-quelques-pistes-de-reflexion-tirees-de-la-situation-outre-manche-287086",
-      "image": "https://counter.theconversation.com/content/287086/count.gif",
-      "publishedAt": "2026-07-16T15:11:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "migration"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ah01mjd",
-      "title": "L’affaire des rayons N : l’une des plus grandes bavures scientifiques de l’histoire",
-      "summary": "Photogravures supposées mettre en évidence les rayons N, dans une communication faite par Blondlot à l'Académie des sciences. Prosper-René Blondlot /Wikipedia, CC BY Il faut le croire pour le voir : voilà ce qui a conduit des scientifiques renommés à percevoir des rayons émis qui finalement n’existaient pas. L’affaire ",
-      "link": "https://theconversation.com/laffaire-des-rayons-n-lune-des-plus-grandes-bavures-scientifiques-de-lhistoire-282750",
-      "image": "https://images.theconversation.com/files/746653/original/file-20260708-101-12s76b.png?ixlib=rb-4.1.0&amp;rect=5%2C0%2C2094%2C1396&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-16T15:18:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6960nn",
-      "title": "Pourquoi l’Organisation mondiale de la Santé est utile aux citoyens français",
-      "summary": "On associe souvent l’Organisation mondiale de la Santé à la gestion des grandes épidémies mondiales : Ebola, hantavirus Andes, Covid-19, etc. Pourtant, son action influence chaque jour la santé des Français, bien au-delà de la surveillance des seuls virus : elle a des effets dans des domaines aussi variés que la sécuri",
-      "link": "https://theconversation.com/pourquoi-lorganisation-mondiale-de-la-sante-est-utile-aux-citoyens-francais-285020",
-      "image": "https://counter.theconversation.com/content/285020/count.gif",
-      "publishedAt": "2026-07-16T15:13:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a19xjzg",
-      "title": "Manosphère : anatomie d’une galaxie antiféministe en pleine évolution",
-      "summary": "Fin juin, un rapport du Sénat alertait sur une offensive masculiniste en France, deux jours après un attentat à caractère sexiste à Montréal. Le masculinisme, mouvement réactionnaire antiféministe, est en constante évolution et prend de nouveaux visages, qui s’incarnent en ligne dans les différents courants de ce qu’on",
-      "link": "https://theconversation.com/manosphere-anatomie-dune-galaxie-antifeministe-en-pleine-evolution-287181",
-      "image": "https://counter.theconversation.com/content/287181/count.gif",
-      "publishedAt": "2026-07-16T15:13:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ackf94g",
-      "title": "Quand votre chien s’habille en Prada… Les marques de luxe surfent sur votre affect pour vous vendre leurs produits",
-      "summary": "En France en 2025, on dénombrait 79 millions d’animaux de compagnie, selon la Fédération des fabricants d’aliments pour animaux domestiques ; 61 % des Français et des Françaises en possèdent. Ces animaux deviennent des membres à part entière des familles. Les marques surfent sur cette tendance en s’adressant aux « pare",
-      "link": "https://theconversation.com/quand-votre-chien-shabille-en-prada-les-marques-de-luxe-surfent-sur-votre-affect-pour-vous-vendre-leurs-produits-281812",
-      "image": "https://counter.theconversation.com/content/281812/count.gif",
-      "publishedAt": "2026-07-16T15:10:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "al55744",
-      "title": "Du zinc à Instagram : la révolution des coffee shops",
-      "summary": "Le « latte art », pratique emblématique des coffee shops. CC BY En 15 ans, le nombre de « coffee shops » à l’anglo-saxonne a explosé sur le territoire français. Des lieux qui réinventent les habitudes de consommation et racontent un art de vivre branché, mais commencent à trouver leurs limites. Longtemps dominé par le ",
-      "link": "https://theconversation.com/du-zinc-a-instagram-la-revolution-des-coffee-shops-282650",
-      "image": "https://images.theconversation.com/files/748306/original/file-20260716-57-yol9yh.jpg?ixlib=rb-4.1.0&amp;rect=0%2C1016%2C3487%2C2324&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-16T15:09:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -511,28 +529,12 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "avpfh8a",
-      "title": "Percevoir les conséquences immédiates du changement climatique suffit-il pour changer les comportements ?",
-      "summary": "Cet été 2026, la France subit de plein fouet les conséquences directes du réchauffement de la planète. Cette situation pourrait-elle affecter la distance psychologique à laquelle nous percevons le changement climatique et, par ce biais, constituer une opportunité pour renforcer les comportements visant à lutter contre ",
-      "link": "https://theconversation.com/percevoir-les-consequences-immediates-du-changement-climatique-suffit-il-pour-changer-les-comportements-287614",
-      "image": "https://images.theconversation.com/files/748053/original/file-20260715-69-niq48z.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-16T08:31:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aoqkfq1",
-      "title": "Les refuges climatiques seront utiles s’ils n’oublient pas de faire de la chaleur un objet politique",
-      "summary": "Alors que la France a déjà connu trois vagues de chaleur en quelques semaines à peine, le concept de refuge climatique, qui s’institutionnalise dans un certain nombre de pays, cristallise les espoirs des citoyens en surchauffe. Il peut s’agir d’une réponse prometteuse, mais uniquement à certaines conditions, notamment ",
-      "link": "https://theconversation.com/les-refuges-climatiques-seront-utiles-sils-noublient-pas-de-faire-de-la-chaleur-un-objet-politique-287200",
-      "image": "https://images.theconversation.com/files/746861/original/file-20260709-57-t33axh.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-16T08:27:15.000Z",
+      "id": "ah01mjd",
+      "title": "L’affaire des rayons N : l’une des plus grandes bavures scientifiques de l’histoire",
+      "summary": "Photogravures supposées mettre en évidence les rayons N, dans une communication faite par Blondlot à l'Académie des sciences. Prosper-René Blondlot /Wikipedia, CC BY Il faut le croire pour le voir : voilà ce qui a conduit des scientifiques renommés à percevoir des rayons émis qui finalement n’existaient pas. L’affaire ",
+      "link": "https://theconversation.com/laffaire-des-rayons-n-lune-des-plus-grandes-bavures-scientifiques-de-lhistoire-282750",
+      "image": "https://images.theconversation.com/files/746653/original/file-20260708-101-12s76b.png?ixlib=rb-4.1.0&amp;rect=5%2C0%2C2094%2C1396&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-16T15:18:22.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
