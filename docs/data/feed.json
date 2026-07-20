@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T02:50:34.309Z",
+  "generatedAt": "2026-07-20T08:55:42.843Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +149,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ac569v5",
@@ -165,8 +165,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amc1l31",
@@ -181,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,8 +279,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a54e0or",
@@ -295,8 +295,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aqi89h9",
@@ -313,7 +313,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -329,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -345,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -361,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -377,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -395,7 +395,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -469,38 +469,6 @@
       "link": "https://theconversation.com/du-zinc-a-instagram-la-revolution-des-coffee-shops-282650",
       "image": "https://images.theconversation.com/files/748306/original/file-20260716-57-yol9yh.jpg?ixlib=rb-4.1.0&amp;rect=0%2C1016%2C3487%2C2324&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-07-16T15:09:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avpfh8a",
-      "title": "Percevoir les conséquences immédiates du changement climatique suffit-il pour changer les comportements ?",
-      "summary": "Cet été 2026, la France subit de plein fouet les conséquences directes du réchauffement de la planète. Cette situation pourrait-elle affecter la distance psychologique à laquelle nous percevons le changement climatique et, par ce biais, constituer une opportunité pour renforcer les comportements visant à lutter contre ",
-      "link": "https://theconversation.com/percevoir-les-consequences-immediates-du-changement-climatique-suffit-il-pour-changer-les-comportements-287614",
-      "image": "https://images.theconversation.com/files/748053/original/file-20260715-69-niq48z.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-16T08:31:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aoqkfq1",
-      "title": "Les refuges climatiques seront utiles s’ils n’oublient pas de faire de la chaleur un objet politique",
-      "summary": "Alors que la France a déjà connu trois vagues de chaleur en quelques semaines à peine, le concept de refuge climatique, qui s’institutionnalise dans un certain nombre de pays, cristallise les espoirs des citoyens en surchauffe. Il peut s’agir d’une réponse prometteuse, mais uniquement à certaines conditions, notamment ",
-      "link": "https://theconversation.com/les-refuges-climatiques-seront-utiles-sils-noublient-pas-de-faire-de-la-chaleur-un-objet-politique-287200",
-      "image": "https://images.theconversation.com/files/746861/original/file-20260709-57-t33axh.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-07-16T08:27:15.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
@@ -527,6 +495,38 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "avpfh8a",
+      "title": "Percevoir les conséquences immédiates du changement climatique suffit-il pour changer les comportements ?",
+      "summary": "Cet été 2026, la France subit de plein fouet les conséquences directes du réchauffement de la planète. Cette situation pourrait-elle affecter la distance psychologique à laquelle nous percevons le changement climatique et, par ce biais, constituer une opportunité pour renforcer les comportements visant à lutter contre ",
+      "link": "https://theconversation.com/percevoir-les-consequences-immediates-du-changement-climatique-suffit-il-pour-changer-les-comportements-287614",
+      "image": "https://images.theconversation.com/files/748053/original/file-20260715-69-niq48z.jpg?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-16T08:31:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 20,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aoqkfq1",
+      "title": "Les refuges climatiques seront utiles s’ils n’oublient pas de faire de la chaleur un objet politique",
+      "summary": "Alors que la France a déjà connu trois vagues de chaleur en quelques semaines à peine, le concept de refuge climatique, qui s’institutionnalise dans un certain nombre de pays, cristallise les espoirs des citoyens en surchauffe. Il peut s’agir d’une réponse prometteuse, mais uniquement à certaines conditions, notamment ",
+      "link": "https://theconversation.com/les-refuges-climatiques-seront-utiles-sils-noublient-pas-de-faire-de-la-chaleur-un-objet-politique-287200",
+      "image": "https://images.theconversation.com/files/746861/original/file-20260709-57-t33axh.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-07-16T08:27:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 20,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "aydndt3",
       "title": "Lucas, 16 ans, a disparu sans laisser de traces : comment mener l’enquête ?",
       "summary": "Le 18 mars 2015, Lucas, seize ans, disparaissait sans laisser de traces, alors qu’il devait se rendre à la piscine. À l’époque, l’enquête ne donnera aucune réponse et n’identifiera aucun suspect. Sur quelles méthodes s’appuie la police en cas de disparition ? Quel est le rôle des psychocriminologues dont le rôle est d’",
@@ -539,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
