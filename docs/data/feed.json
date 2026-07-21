@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T08:25:55.332Z",
+  "generatedAt": "2026-07-21T13:46:33.739Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,42 @@
   "count": 35,
   "items": [
     {
+      "id": "a8gwae2",
+      "title": "Qu’arrive-t-il à votre sang lorsque vous êtes stressé ?",
+      "summary": "Le stress a aussi des effets sur de sang, et ils surviennent rapidement. PeopleImages/Shutterstock L’ESSENTIEL Le stress psychologique aigu augmente la production de radicaux libres ; Ces molécules déclenchent une cascade de modifications qui vont influer sur la coagulation sanguine ; Ces travaux préliminaires pourraie",
+      "link": "https://theconversation.com/quarrive-t-il-a-votre-sang-lorsque-vous-etes-stresse-286281",
+      "image": "https://images.theconversation.com/files/744461/original/file-20260624-63-wq45ub.jpg?ixlib=rb-4.1.1&amp;rect=260%2C0%2C4304%2C2869&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-21T10:12:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahlefnx",
+      "title": "Covid long : et si ce n'était pas une seule maladie, mais plusieurs ?",
+      "summary": "L’ESSENTIEL Les causes du Covid long, un syndrome post-infectieux qui affecte des millions de personnes dans le monde, demeurent mal comprises ; Des travaux récents suggèrent que deux mécanismes pourraient participer au Covid long : une anomalie dans la formation de nouveaux vaisseaux sanguins et une inflammation de le",
+      "link": "https://theconversation.com/covid-long-et-si-ce-netait-pas-une-seule-maladie-mais-plusieurs-213578",
+      "image": "https://counter.theconversation.com/content/213578/count.gif",
+      "publishedAt": "2026-07-21T10:08:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "au4wqj1",
       "title": "Peut-on suivre un salarié toutes les dix secondes pour vérifier son temps de travail ?",
       "summary": "Le 18 mars 2026, la Cour de cassation valide un système de géolocalisation qui suit des distributeurs en continu pendant leur tournée. Comment l’expliquer ? Cette décision fait-elle loi ? Y a-t-il d’autres alternatives ? Le 18 mars 2026, la chambre sociale de la Cour de cassation, la plus haute juridiction pour les lit",
@@ -131,7 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +183,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ax58xe8",
@@ -165,7 +201,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +219,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +235,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +251,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +267,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +299,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +333,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +349,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,8 +365,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ae31wo8",
@@ -345,8 +381,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a38xx45",
@@ -361,8 +397,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ac1jdlf",
@@ -377,8 +413,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ayq7zrd",
@@ -393,7 +429,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -409,7 +445,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +463,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -443,73 +479,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqi89h9",
-      "title": "« En tout cas, ce n’était pas une licorne… » Des sociologues ont interrogé 130 chasseurs de Bigfoot",
-      "summary": "L’image 352 du film de Patterson et Gimlin sur Bigfoot, tourné en 1967, est centrale dans le développement de la communauté des bigfooters. Wikipedia Les Bigfooters ne sont pas seulement des amateurs de légendes. Deux sociologues qui ont étudié cette communauté expliquent qu’constitue offre un laboratoire fascinant pou",
-      "link": "https://theconversation.com/en-tout-cas-ce-netait-pas-une-licorne-des-sociologues-ont-interroge-130-chasseurs-de-bigfoot-287204",
-      "image": "https://images.theconversation.com/files/746841/original/file-20260210-56-t6du28.jpg?ixlib=rb-4.1.1&amp;rect=68%2C0%2C856%2C570&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-17T08:57:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5vn1cl",
-      "title": "Botticelli : une nouvelle étude relance le mystère de la mort de son célèbre modèle",
-      "summary": "Simonetta Vespucci aurait prêté ses traits au sujet principal de « La Naissance de Vénus » de Botticelli, l'un des chefs-d'œuvre les plus célèbres de l'histoire de l'art. Sandro Botticelli, Public domain, via Wikimedia Commons En croisant l’analyse des portraits de Botticelli, des lettres contemporaines et les connaiss",
-      "link": "https://theconversation.com/botticelli-une-nouvelle-etude-relance-le-mystere-de-la-mort-de-son-celebre-modele-287697",
-      "image": "https://images.theconversation.com/files/748297/original/file-20260707-85-rwlof6.jpg?ixlib=rb-4.1.1&amp;rect=37%2C0%2C1205%2C803&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-17T08:59:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqzq8or",
-      "title": "À quoi servent les grosses boules orange suspendues aux lignes électriques ?",
-      "summary": "La visibilité préside au choix de la couleur de ces boules. MdE/Wikimedia, CC BY Ces sphères orange que l’on aperçoit au-dessus des lignes à haute tension ne transportent pas l’électricité. Elles constituent en réalité un dispositif de sécurité aérienne aussi simple qu’efficace, conçu pour protéger les pilotes, leurs p",
-      "link": "https://theconversation.com/a-quoi-servent-les-grosses-boules-orange-suspendues-aux-lignes-electriques-287203",
-      "image": "https://images.theconversation.com/files/746858/original/file-20260709-57-nzwnef.jpg?ixlib=rb-4.1.1&amp;rect=0%2C40%2C960%2C640&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-17T08:58:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ay0ujnd",
-      "title": "Pourquoi respire-t-on surtout par une seule narine ?",
-      "summary": "Contrairement aux apparences, nous ne respirons presque jamais de façon égale par nos deux narines. Cette alternance, orchestrée par le cerveau, est indispensable au bon fonctionnement du nez, même si certaines maladies ou allergies peuvent la perturber. L’un des aspects les plus pénibles d’un rhume ou des allergies sa",
-      "link": "https://theconversation.com/pourquoi-respire-t-on-surtout-par-une-seule-narine-287205",
-      "image": "https://counter.theconversation.com/content/287205/count.gif",
-      "publishedAt": "2026-07-17T08:56:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -529,19 +499,53 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "ah01mjd",
-      "title": "L’affaire des rayons N : l’une des plus grandes bavures scientifiques de l’histoire",
-      "summary": "Photogravures supposées mettre en évidence les rayons N, dans une communication faite par Blondlot à l'Académie des sciences. Prosper-René Blondlot /Wikipedia, CC BY Il faut le croire pour le voir : voilà ce qui a conduit des scientifiques renommés à percevoir des rayons émis qui finalement n’existaient pas. L’affaire ",
-      "link": "https://theconversation.com/laffaire-des-rayons-n-lune-des-plus-grandes-bavures-scientifiques-de-lhistoire-282750",
-      "image": "https://images.theconversation.com/files/746653/original/file-20260708-101-12s76b.png?ixlib=rb-4.1.0&amp;rect=5%2C0%2C2094%2C1396&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-16T15:18:22.000Z",
+      "id": "aqi89h9",
+      "title": "« En tout cas, ce n’était pas une licorne… » Des sociologues ont interrogé 130 chasseurs de Bigfoot",
+      "summary": "L’image 352 du film de Patterson et Gimlin sur Bigfoot, tourné en 1967, est centrale dans le développement de la communauté des bigfooters. Wikipedia Les Bigfooters ne sont pas seulement des amateurs de légendes. Deux sociologues qui ont étudié cette communauté expliquent qu’constitue offre un laboratoire fascinant pou",
+      "link": "https://theconversation.com/en-tout-cas-ce-netait-pas-une-licorne-des-sociologues-ont-interroge-130-chasseurs-de-bigfoot-287204",
+      "image": "https://images.theconversation.com/files/746841/original/file-20260210-56-t6du28.jpg?ixlib=rb-4.1.1&amp;rect=68%2C0%2C856%2C570&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-17T08:57:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a5vn1cl",
+      "title": "Botticelli : une nouvelle étude relance le mystère de la mort de son célèbre modèle",
+      "summary": "Simonetta Vespucci aurait prêté ses traits au sujet principal de « La Naissance de Vénus » de Botticelli, l'un des chefs-d'œuvre les plus célèbres de l'histoire de l'art. Sandro Botticelli, Public domain, via Wikimedia Commons En croisant l’analyse des portraits de Botticelli, des lettres contemporaines et les connaiss",
+      "link": "https://theconversation.com/botticelli-une-nouvelle-etude-relance-le-mystere-de-la-mort-de-son-celebre-modele-287697",
+      "image": "https://images.theconversation.com/files/748297/original/file-20260707-85-rwlof6.jpg?ixlib=rb-4.1.1&amp;rect=37%2C0%2C1205%2C803&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-17T08:59:40.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aqzq8or",
+      "title": "À quoi servent les grosses boules orange suspendues aux lignes électriques ?",
+      "summary": "La visibilité préside au choix de la couleur de ces boules. MdE/Wikimedia, CC BY Ces sphères orange que l’on aperçoit au-dessus des lignes à haute tension ne transportent pas l’électricité. Elles constituent en réalité un dispositif de sécurité aérienne aussi simple qu’efficace, conçu pour protéger les pilotes, leurs p",
+      "link": "https://theconversation.com/a-quoi-servent-les-grosses-boules-orange-suspendues-aux-lignes-electriques-287203",
+      "image": "https://images.theconversation.com/files/746858/original/file-20260709-57-nzwnef.jpg?ixlib=rb-4.1.1&amp;rect=0%2C40%2C960%2C640&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-17T08:58:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
