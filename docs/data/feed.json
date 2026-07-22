@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T19:19:37.424Z",
+  "generatedAt": "2026-07-22T02:32:28.480Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,22 +119,6 @@
   "count": 35,
   "items": [
     {
-      "id": "a3zf78i",
-      "title": "Iraq is emerging as the Middle East’s strategic connector – but can it turn foreign competition into advantage?",
-      "summary": "Iraqi Prime Minister Ali al-Zaidi speaks at the U.S. Iraq Business Summit at the U.S. Chamber of Commerce on July 17, 2026, in Washington. AP Photo/Rod Lamkey, Jr. Iraqi Prime Minister Ali al-Zaidi is on something of a diplomatic roll at the moment. Having concluded a weeklong visit to the United States on July 19, 202",
-      "link": "https://theconversation.com/iraq-is-emerging-as-the-middle-easts-strategic-connector-but-can-it-turn-foreign-competition-into-advantage-287824",
-      "image": "https://images.theconversation.com/files/749097/original/file-20260721-57-bywts8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1023%2C682&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-21T16:53:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 87,
-      "urgencyLevel": "haute"
-    },
-    {
       "id": "aejoi76",
       "title": "Pourquoi le camping séduit toujours autant (alors que tout a changé)",
       "summary": "L’essentiel Mode d’hébergement préféré des Françaises et des Français en période de vacances, le camping recouvre aujourd’hui des réalités très variées, entre cabanes, caravanes, tentes, « tiny houses »… En 2026, le confort ne s’oppose plus au camping, il peut faire pleinement partie de l’expérience et ouvrir d’autres ",
@@ -147,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -179,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -195,8 +179,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aud5wzu",
@@ -211,8 +195,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "advm6go",
@@ -227,8 +211,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aemhf2q",
@@ -243,8 +227,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ag21fyx",
@@ -259,8 +243,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aac7g0h",
@@ -275,8 +259,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqp2d3i",
@@ -291,8 +275,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agiqw2v",
@@ -307,8 +291,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "au4wqj1",
+      "title": "Peut-on suivre un salarié toutes les dix secondes pour vérifier son temps de travail ?",
+      "summary": "Le 18 mars 2026, la Cour de cassation valide un système de géolocalisation qui suit des distributeurs en continu pendant leur tournée. Comment l’expliquer ? Cette décision fait-elle loi ? Y a-t-il d’autres alternatives ? Le 18 mars 2026, la chambre sociale de la Cour de cassation, la plus haute juridiction pour les lit",
+      "link": "https://theconversation.com/peut-on-suivre-un-salarie-toutes-les-dix-secondes-pour-verifier-son-temps-de-travail-282770",
+      "image": "https://counter.theconversation.com/content/282770/count.gif",
+      "publishedAt": "2026-07-20T10:37:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8gwae2",
@@ -325,8 +325,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahlefnx",
@@ -343,24 +343,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "au4wqj1",
-      "title": "Peut-on suivre un salarié toutes les dix secondes pour vérifier son temps de travail ?",
-      "summary": "Le 18 mars 2026, la Cour de cassation valide un système de géolocalisation qui suit des distributeurs en continu pendant leur tournée. Comment l’expliquer ? Cette décision fait-elle loi ? Y a-t-il d’autres alternatives ? Le 18 mars 2026, la chambre sociale de la Cour de cassation, la plus haute juridiction pour les lit",
-      "link": "https://theconversation.com/peut-on-suivre-un-salarie-toutes-les-dix-secondes-pour-verifier-son-temps-de-travail-282770",
-      "image": "https://counter.theconversation.com/content/282770/count.gif",
-      "publishedAt": "2026-07-20T10:37:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a59iwud",
@@ -375,7 +359,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -393,7 +377,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -411,7 +395,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -443,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -507,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -523,7 +507,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ae31wo8",
+      "title": "Santé des étudiants : plus d’un sur deux entre à l’université avec une fragilité physique ou mentale",
+      "summary": "26 % des étudiants présentent une vulnérabilité psychique lors de leur entrée à l'université. Tim Gouw / Unsplash, CC BY Dans l’imaginaire collectif, les années étudiantes sont souvent associées à une période d’insouciance et d’émancipation. Pourtant, les recherches récentes nuancent fortement ce tableau. À Lille, une ",
+      "link": "https://theconversation.com/sante-des-etudiants-plus-dun-sur-deux-entre-a-luniversite-avec-une-fragilite-physique-ou-mentale-286054",
+      "image": "https://images.theconversation.com/files/746941/original/file-20260709-57-pyoixl.jpg?ixlib=rb-4.1.1&amp;rect=0%2C2%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-19T09:23:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -580,40 +580,6 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "air22zr",
-      "title": "10 lectures pour vos vacances d’été",
-      "summary": "Retrouvez à cette page, nos 10 conseils lecture pour ces vacances ! Frédérique Blu : des nouvelles de l’école en 13 nouvelles De quoi est faite la vie de L’article 10 lectures pour vos vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/07/10-lectures-pour-vos-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/PHOTOS-DE-CLASSES-FRED-BLU_COUV-194x300.jpg.webp",
-      "publishedAt": "2026-07-07T06:22:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 1,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ay93gba",
-      "title": "Littérature jeunesse : la sélection de l’été",
-      "summary": "Découvrez les conseils de Marianne Baby, notre spécialiste littérature jeunesse, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Littérature jeunesse : la sélection de l’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
-      "publishedAt": "2026-07-07T06:10:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 1,
-      "urgencyLevel": "basse"
-    },
-    {
       "id": "aqhsrer",
       "title": "Ce que les fins d’année scolaire disent du métier d’enseignant",
       "summary": "Marion Fellrath raconte et analyse ces journées si particulières qui marquent la fin de l’année scolaire. Entre joie, gratitude, rites de passage, travail de deuil et désir de recommencer, elle L’article Ce que les fins d’année scolaire disent du métier d’enseignant est apparu en premier sur Le Café pédagogique.",
@@ -664,6 +630,40 @@
         "école"
       ],
       "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "air22zr",
+      "title": "10 lectures pour vos vacances d’été",
+      "summary": "Retrouvez à cette page, nos 10 conseils lecture pour ces vacances ! Frédérique Blu : des nouvelles de l’école en 13 nouvelles De quoi est faite la vie de L’article 10 lectures pour vos vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/10-lectures-pour-vos-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/PHOTOS-DE-CLASSES-FRED-BLU_COUV-194x300.jpg.webp",
+      "publishedAt": "2026-07-07T06:22:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ay93gba",
+      "title": "Littérature jeunesse : la sélection de l’été",
+      "summary": "Découvrez les conseils de Marianne Baby, notre spécialiste littérature jeunesse, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Littérature jeunesse : la sélection de l’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
+      "publishedAt": "2026-07-07T06:10:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 0,
       "urgencyLevel": "basse"
