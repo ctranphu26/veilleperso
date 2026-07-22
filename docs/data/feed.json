@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T08:26:47.387Z",
+  "generatedAt": "2026-07-22T13:49:57.818Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,38 @@
   "count": 35,
   "items": [
     {
+      "id": "a4ycicg",
+      "title": "Centres de données dans l’espace : ni écologiques, ni économes",
+      "summary": "Faudra-t-il envoyer un astronaute pour faire une mise à jour ou remplacer un composant défectueux dans un data center ? (ici, un astronaute en sortie extravéhiculaire autour de la station spatiale internationale en 2006) Nasa Les centres de données et de calcul, ou data center, permettent de stocker, traiter et distrib",
+      "link": "https://theconversation.com/centres-de-donnees-dans-lespace-ni-ecologiques-ni-economes-286074",
+      "image": "https://images.theconversation.com/files/748894/original/file-20260720-57-wtdjzp.jpeg?ixlib=rb-4.1.1&amp;rect=6%2C0%2C1986%2C1324&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-22T09:58:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aw6gc89",
+      "title": "Le rythme des abysses, ou comment les créatures qui vivent dans une nuit perpétuelle se repèrent dans le temps",
+      "summary": "Une hydroméduse (Crossota), observée juste au-dessus du fond marin, le long de la paroi ouest du canyon de Mona. Cet animal a été observé à plus de 3 900 mètres de profondeur. NOAA Photo Library, CC BY La majorité des êtres vivants sur Terre — plantes, animaux et micro-organismes — vit sous l’influence du rythme imposé",
+      "link": "https://theconversation.com/le-rythme-des-abysses-ou-comment-les-creatures-qui-vivent-dans-une-nuit-perpetuelle-se-reperent-dans-le-temps-286690",
+      "image": "https://images.theconversation.com/files/746158/original/file-20260706-57-d93iez.jpg?ixlib=rb-4.1.1&amp;rect=486%2C224%2C1283%2C855&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-22T09:58:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aejoi76",
       "title": "Pourquoi le camping séduit toujours autant (alors que tout a changé)",
       "summary": "L’essentiel Mode d’hébergement préféré des Françaises et des Français en période de vacances, le camping recouvre aujourd’hui des réalités très variées, entre cabanes, caravanes, tentes, « tiny houses »… En 2026, le confort ne s’oppose plus au camping, il peut faire pleinement partie de l’expérience et ouvrir d’autres ",
@@ -131,8 +163,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5hr3hs",
@@ -147,8 +179,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5k0slk",
@@ -163,8 +195,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "af1p4r3",
@@ -179,7 +211,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -195,7 +227,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -211,7 +243,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -227,7 +259,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -243,7 +275,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -259,7 +291,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -275,7 +307,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -291,7 +323,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -307,7 +339,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -325,7 +357,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -343,7 +375,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -377,7 +409,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -395,7 +427,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -411,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -443,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,23 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6q4rxa",
-      "title": "Pourquoi des candidats disparaissent-ils en plein recrutement ? Ce que révèle vraiment le « ghosting »",
-      "summary": ".tc-acc{display:block;margin:0 0 1rem} .tc-acc .tc-head,.tc-acc .tc-title,.tc-acc .tc-cta,.tc-acc .tc-item{margin:0} .tc-acc .tc-head p{margin:0} .tc-acc .tc-head br{display:none} .tc-acc .tc-head{display:block;cursor:pointer;text-decoration:none;color:inherit;background:#f1f1f2;border-radius:.5rem;padding:.85rem 1rem}",
-      "link": "https://theconversation.com/pourquoi-des-candidats-disparaissent-ils-en-plein-recrutement-ce-que-revele-vraiment-le-ghosting-277748",
-      "image": "https://counter.theconversation.com/content/277748/count.gif",
-      "publishedAt": "2026-07-20T10:37:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,39 +507,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "amc1l31",
-      "title": "Taylor au pays des Soviets : quand Lénine s'inspirait de l'organisation scientifique du travail",
-      "summary": "En 1918, Lénine écrit « Les Soviétiques au travail » en mentionnant les travaux de Frédéric Winslow Taylor. Wikimediacommons Ford Motor Company à Nijni Novgorod, Arthur Glenn McKee & Co à Magnitogorsk… dans les années 1920-1930, les États-Unis s’exportent en Union des républiques socialistes soviétiques (URSS). Au-delà",
-      "link": "https://theconversation.com/taylor-au-pays-des-soviets-quand-lenine-sinspirait-de-lorganisation-scientifique-du-travail-278683",
-      "image": "https://images.theconversation.com/files/743270/original/file-20260622-71-msohjz.jpg?ixlib=rb-4.1.1&amp;rect=7%2C0%2C968%2C645&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-19T09:23:39.000Z",
+      "id": "a6q4rxa",
+      "title": "Pourquoi des candidats disparaissent-ils en plein recrutement ? Ce que révèle vraiment le « ghosting »",
+      "summary": ".tc-acc{display:block;margin:0 0 1rem} .tc-acc .tc-head,.tc-acc .tc-title,.tc-acc .tc-cta,.tc-acc .tc-item{margin:0} .tc-acc .tc-head p{margin:0} .tc-acc .tc-head br{display:none} .tc-acc .tc-head{display:block;cursor:pointer;text-decoration:none;color:inherit;background:#f1f1f2;border-radius:.5rem;padding:.85rem 1rem}",
+      "link": "https://theconversation.com/pourquoi-des-candidats-disparaissent-ils-en-plein-recrutement-ce-que-revele-vraiment-le-ghosting-277748",
+      "image": "https://counter.theconversation.com/content/277748/count.gif",
+      "publishedAt": "2026-07-20T10:37:32.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ae31wo8",
-      "title": "Santé des étudiants : plus d’un sur deux entre à l’université avec une fragilité physique ou mentale",
-      "summary": "26 % des étudiants présentent une vulnérabilité psychique lors de leur entrée à l'université. Tim Gouw / Unsplash, CC BY Dans l’imaginaire collectif, les années étudiantes sont souvent associées à une période d’insouciance et d’émancipation. Pourtant, les recherches récentes nuancent fortement ce tableau. À Lille, une ",
-      "link": "https://theconversation.com/sante-des-etudiants-plus-dun-sur-deux-entre-a-luniversite-avec-une-fragilite-physique-ou-mentale-286054",
-      "image": "https://images.theconversation.com/files/746941/original/file-20260709-57-pyoixl.jpg?ixlib=rb-4.1.1&amp;rect=0%2C2%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-19T09:23:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 38,
       "urgencyLevel": "basse"
     },
     {
