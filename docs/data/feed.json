@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T02:37:23.263Z",
+  "generatedAt": "2026-07-23T08:27:24.164Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "an775cn",
+      "title": "La seconde vie méconnue des pesticides dans l’atmosphère",
+      "summary": "On a longtemps pensé que les pesticides évaporés après l’épandage ne restaient que peu de temps dans l’atmosphère. On sait désormais qu’ils peuvent voyager sur des milliers de kilomètres. Une étude inédite nous permet d’en savoir plus sur la façon dont ces substances se déplacent dans l’air. Sans le savoir, vous respir",
+      "link": "https://theconversation.com/la-seconde-vie-meconnue-des-pesticides-dans-latmosphere-286588",
+      "image": "https://images.theconversation.com/files/745684/original/file-20260702-76-px02uc.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-23T07:58:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +167,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -159,7 +175,7 @@
       "title": "Why safe water is still lacking in the Marajó Archipelago, one of the world’s most water-abundant regions",
       "summary": "In the Brazilian Amazon, water is not simply a natural resource. For many rural communities, it shapes mobility, livelihoods, food systems, and everyday life. In the Amazon River delta, the Marajó Archipelago – the world’s largest fluvio-marine archipelago – rivers, floodplains, and wetlands are deeply intertwined with",
       "link": "https://theconversation.com/why-safe-water-is-still-lacking-in-the-marajo-archipelago-one-of-the-worlds-most-water-abundant-regions-287699",
-      "image": "https://counter.theconversation.com/content/287699/count.gif",
+      "image": "https://images.theconversation.com/files/749739/original/file-20260723-78-8vnafe.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
       "publishedAt": "2026-07-22T14:06:47.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
@@ -169,7 +185,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -185,7 +201,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -201,7 +217,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +233,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -361,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -377,7 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -393,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +425,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +441,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +457,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +473,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,7 +489,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,7 +507,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -509,26 +525,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ax58xe8",
-      "title": "Plus d’un adulte sur cinq est touché par le handicap dans sa famille",
-      "summary": "L’essentiel Vingt ans après sa première enquête « Familles et Employeurs », l’Institut national d’études démographiques (Ined) s’est de nouveau penché sur les liens entre vie familiale et vie professionnelle. Les résultats de cette nouvelle édition, publiée en juin 2026, permettent pour la première fois d’estimer combi",
-      "link": "https://theconversation.com/plus-dun-adulte-sur-cinq-est-touche-par-le-handicap-dans-sa-famille-286870",
-      "image": "https://images.theconversation.com/files/748109/original/file-20260715-57-xlo5xq.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-20T15:18:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "handicap"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 34,
-      "urgencyLevel": "basse"
     },
     {
       "id": "a1vyu85",
