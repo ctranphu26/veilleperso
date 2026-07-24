@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T13:42:04.360Z",
+  "generatedAt": "2026-07-24T19:23:13.639Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -197,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -213,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -229,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -245,8 +245,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avptt35",
@@ -261,8 +261,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auv3ym9",
@@ -277,8 +277,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2me1j2",
@@ -293,8 +293,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auvrrar",
@@ -311,7 +311,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,55 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aavkqpo",
-      "title": "Cerebral small vessel disease: new treatment possibilities for the little-known condition affecting millions of people",
-      "summary": "Cerebral small vessel disease (CSVD), which notably increases the risk of stroke and cognitive disorders, is estimated to affect more than 5 million people in France alone. In the absence of a curative treatment, the prevention of cardiovascular risk factors remains the most effective strategy today. However, promising",
-      "link": "https://theconversation.com/cerebral-small-vessel-disease-new-treatment-possibilities-for-the-little-known-condition-affecting-millions-of-people-286928",
-      "image": "https://counter.theconversation.com/content/286928/count.gif",
-      "publishedAt": "2026-07-23T14:37:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a52fqbv",
-      "title": "Après les Jeux olympiques de Paris 2024, quel héritage pour la sécurité des évènements sportifs ?",
-      "summary": "*Deux ans après la tenue des Jeux olympiques de Paris 2024, il est temps de dresser le bilan sécuritaire de l’évènement : quels ont été les coûts ? Est-ce que les nouvelles technologies vont prendre de plus en plus de place ? * En France, l’année 2024 a été marquée par l’organisation d’un évènement planétaire, les Jeux",
-      "link": "https://theconversation.com/apres-les-jeux-olympiques-de-paris-2024-quel-heritage-pour-la-securite-des-evenements-sportifs-280863",
-      "image": "https://counter.theconversation.com/content/280863/count.gif",
-      "publishedAt": "2026-07-23T14:36:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anyoheu",
-      "title": "Dans le camp de Tsoundzou, à Mayotte, les oubliés de la route migratoire de l’océan Indien",
-      "summary": "Dans la mangrove de Tsoundzou, au sud de Mamoudzou, plusieurs centaines de demandeurs d’asile, dont beaucoup venus de République démocratique du Congo, de Somalie ou du Yémen, vivent dans des abris de fortune. Au-delà de la crise politique et humanitaire, actuellement sous le feu de l'actualité avec l’évacuation d'une ",
-      "link": "https://theconversation.com/dans-le-camp-de-tsoundzou-a-mayotte-les-oublies-de-la-route-migratoire-de-locean-indien-285951",
-      "image": "https://images.theconversation.com/files/747403/original/file-20260713-82-pky969.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-23T14:35:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -393,7 +345,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -411,7 +363,55 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aavkqpo",
+      "title": "Cerebral small vessel disease: new treatment possibilities for the little-known condition affecting millions of people",
+      "summary": "Cerebral small vessel disease (CSVD), which notably increases the risk of stroke and cognitive disorders, is estimated to affect more than 5 million people in France alone. In the absence of a curative treatment, the prevention of cardiovascular risk factors remains the most effective strategy today. However, promising",
+      "link": "https://theconversation.com/cerebral-small-vessel-disease-new-treatment-possibilities-for-the-little-known-condition-affecting-millions-of-people-286928",
+      "image": "https://counter.theconversation.com/content/286928/count.gif",
+      "publishedAt": "2026-07-23T14:37:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 53,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a52fqbv",
+      "title": "Après les Jeux olympiques de Paris 2024, quel héritage pour la sécurité des évènements sportifs ?",
+      "summary": "*Deux ans après la tenue des Jeux olympiques de Paris 2024, il est temps de dresser le bilan sécuritaire de l’évènement : quels ont été les coûts ? Est-ce que les nouvelles technologies vont prendre de plus en plus de place ? * En France, l’année 2024 a été marquée par l’organisation d’un évènement planétaire, les Jeux",
+      "link": "https://theconversation.com/apres-les-jeux-olympiques-de-paris-2024-quel-heritage-pour-la-securite-des-evenements-sportifs-280863",
+      "image": "https://counter.theconversation.com/content/280863/count.gif",
+      "publishedAt": "2026-07-23T14:36:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 53,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anyoheu",
+      "title": "Dans le camp de Tsoundzou, à Mayotte, les oubliés de la route migratoire de l’océan Indien",
+      "summary": "Dans la mangrove de Tsoundzou, au sud de Mamoudzou, plusieurs centaines de demandeurs d’asile, dont beaucoup venus de République démocratique du Congo, de Somalie ou du Yémen, vivent dans des abris de fortune. Au-delà de la crise politique et humanitaire, actuellement sous le feu de l'actualité avec l’évacuation d'une ",
+      "link": "https://theconversation.com/dans-le-camp-de-tsoundzou-a-mayotte-les-oublies-de-la-route-migratoire-de-locean-indien-285951",
+      "image": "https://images.theconversation.com/files/747403/original/file-20260713-82-pky969.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-23T14:35:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -443,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,8 +491,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akehpit",
@@ -507,8 +507,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ajhbzm6",
@@ -523,8 +523,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1vyu85",
