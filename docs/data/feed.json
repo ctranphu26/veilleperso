@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T19:14:28.820Z",
+  "generatedAt": "2026-07-24T02:34:02.900Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 95,
+      "urgency": 87,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -167,139 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aa01zva",
-      "title": "Comprendre l’effet des canicules sur la biodiversité du littoral avec les sciences participatives",
-      "summary": "Bénévoles au travail pour échantillonner une plage dans le cadre du projet BioLit. Célia Mébarki , Fourni par l'auteur Notre espèce n’est pas la seule à souffrir des vagues de chaleur : c’est le cas de toute la biodiversité, et en particulier de la biodiversité marine. Un projet de recherche participative en cours s’in",
-      "link": "https://theconversation.com/comprendre-leffet-des-canicules-sur-la-biodiversite-du-littoral-avec-les-sciences-participatives-287890",
-      "image": "https://images.theconversation.com/files/749596/original/file-20260722-82-6ngsbg.jpg?ixlib=rb-4.1.1&amp;rect=0%2C49%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-23T14:34:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ap8lqv2",
-      "title": "« Taxi Driver » : en 1976, le film de Martin Scorsese annonçait déjà la manosphère",
-      "summary": "La personnalité et le parcours de Travis Bickle, interprété par Robert de Niro dans le célèbre film de Martin Scorsese, Taxi Driver, recelaient déjà bien des traits propres au masculinisme contemporain. Alors que des volutes de vapeur s’élèvent et se dissipent depuis les plaques d’égout de New York dans les premières i",
-      "link": "https://theconversation.com/taxi-driver-en-1976-le-film-de-martin-scorsese-annoncait-deja-la-manosphere-287700",
-      "image": "https://counter.theconversation.com/content/287700/count.gif",
-      "publishedAt": "2026-07-23T14:31:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aavkqpo",
-      "title": "Cerebral small vessel disease: new treatment possibilities for the little-known condition affecting millions of people",
-      "summary": "Cerebral small vessel disease (CSVD), which notably increases the risk of stroke and cognitive disorders, is estimated to affect more than 5 million people in France alone. In the absence of a curative treatment, the prevention of cardiovascular risk factors remains the most effective strategy today. However, promising",
-      "link": "https://theconversation.com/cerebral-small-vessel-disease-new-treatment-possibilities-for-the-little-known-condition-affecting-millions-of-people-286928",
-      "image": "https://counter.theconversation.com/content/286928/count.gif",
-      "publishedAt": "2026-07-23T14:37:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a52fqbv",
-      "title": "Après les Jeux olympiques de Paris 2024, quel héritage pour la sécurité des évènements sportifs ?",
-      "summary": "*Deux ans après la tenue des Jeux olympiques de Paris 2024, il est temps de dresser le bilan sécuritaire de l’évènement : quels ont été les coûts ? Est-ce que les nouvelles technologies vont prendre de plus en plus de place ? * En France, l’année 2024 a été marquée par l’organisation d’un évènement planétaire, les Jeux",
-      "link": "https://theconversation.com/apres-les-jeux-olympiques-de-paris-2024-quel-heritage-pour-la-securite-des-evenements-sportifs-280863",
-      "image": "https://counter.theconversation.com/content/280863/count.gif",
-      "publishedAt": "2026-07-23T14:36:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "anyoheu",
-      "title": "Dans le camp de Tsoundzou, à Mayotte, les oubliés de la route migratoire de l’océan Indien",
-      "summary": "Dans la mangrove de Tsoundzou, au sud de Mamoudzou, plusieurs centaines de demandeurs d’asile, dont beaucoup venus de République démocratique du Congo, de Somalie ou du Yémen, vivent dans des abris de fortune. Au-delà de la crise politique et humanitaire, actuellement sous le feu de l'actualité avec l’évacuation d'une ",
-      "link": "https://theconversation.com/dans-le-camp-de-tsoundzou-a-mayotte-les-oublies-de-la-route-migratoire-de-locean-indien-285951",
-      "image": "https://images.theconversation.com/files/747403/original/file-20260713-82-pky969.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-23T14:35:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "alhqwvj",
-      "title": "Ce que la crise politique en Ukraine dit de l’avenir de la défense européenne",
-      "summary": "Ce qu’il faut retenir : Le limogeage de Mykhaïlo Fedorov a révélé un affrontement entre deux modèles de conduite de la guerre : l’innovation technologique rapide portée par un État-plateforme et un commandement militaire plus traditionnel. L’expérience ukrainienne montre que la guerre contemporaine se joue désormais su",
-      "link": "https://theconversation.com/ce-que-la-crise-politique-en-ukraine-dit-de-lavenir-de-la-defense-europeenne-288007",
-      "image": "https://counter.theconversation.com/content/288007/count.gif",
-      "publishedAt": "2026-07-23T14:34:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a4pcl4i",
-      "title": "Transparence salariale : une avancée en demi-teinte",
-      "summary": "La directive européenne sur la transparence des rémunérations entre dans son processus d’adoption en France, suscitant les espoirs des salariés et quelques réticences des employeurs, notamment du fait de sa complexité et de son coût. Au-delà de ces aspects, elle renvoie à des questions moins visibles mais plus complexe",
-      "link": "https://theconversation.com/transparence-salariale-une-avancee-en-demi-teinte-285296",
-      "image": "https://counter.theconversation.com/content/285296/count.gif",
-      "publishedAt": "2026-07-23T14:32:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aaa1cxs",
-      "title": "La saga One Piece peut nous aider à comprendre les alternatives à l’entreprise traditionnelle, avec Luffy contre le Gouvernement Mondial",
-      "summary": "Les organisations de l’économie sociale et solidaire – coopératives, fondations, mutuelles, associations – s’érigent en contre-système d’un modèle d’entreprise lucrative. Mais elles tendent à adopter tous les codes des entreprises auxquels elles s’opposent. C’est ici que la saga One Piece peut nous aider à comprendre c",
-      "link": "https://theconversation.com/la-saga-one-piece-peut-nous-aider-a-comprendre-les-alternatives-a-lentreprise-traditionnelle-avec-luffy-contre-le-gouvernement-mondial-281663",
-      "image": "https://counter.theconversation.com/content/281663/count.gif",
-      "publishedAt": "2026-07-23T14:31:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -317,8 +185,140 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aa01zva",
+      "title": "Comprendre l’effet des canicules sur la biodiversité du littoral avec les sciences participatives",
+      "summary": "Bénévoles au travail pour échantillonner une plage dans le cadre du projet BioLit. Célia Mébarki , Fourni par l'auteur Notre espèce n’est pas la seule à souffrir des vagues de chaleur : c’est le cas de toute la biodiversité, et en particulier de la biodiversité marine. Un projet de recherche participative en cours s’in",
+      "link": "https://theconversation.com/comprendre-leffet-des-canicules-sur-la-biodiversite-du-littoral-avec-les-sciences-participatives-287890",
+      "image": "https://images.theconversation.com/files/749596/original/file-20260722-82-6ngsbg.jpg?ixlib=rb-4.1.1&amp;rect=0%2C49%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-23T14:34:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ap8lqv2",
+      "title": "« Taxi Driver » : en 1976, le film de Martin Scorsese annonçait déjà la manosphère",
+      "summary": "La personnalité et le parcours de Travis Bickle, interprété par Robert de Niro dans le célèbre film de Martin Scorsese, Taxi Driver, recelaient déjà bien des traits propres au masculinisme contemporain. Alors que des volutes de vapeur s’élèvent et se dissipent depuis les plaques d’égout de New York dans les premières i",
+      "link": "https://theconversation.com/taxi-driver-en-1976-le-film-de-martin-scorsese-annoncait-deja-la-manosphere-287700",
+      "image": "https://counter.theconversation.com/content/287700/count.gif",
+      "publishedAt": "2026-07-23T14:31:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aavkqpo",
+      "title": "Cerebral small vessel disease: new treatment possibilities for the little-known condition affecting millions of people",
+      "summary": "Cerebral small vessel disease (CSVD), which notably increases the risk of stroke and cognitive disorders, is estimated to affect more than 5 million people in France alone. In the absence of a curative treatment, the prevention of cardiovascular risk factors remains the most effective strategy today. However, promising",
+      "link": "https://theconversation.com/cerebral-small-vessel-disease-new-treatment-possibilities-for-the-little-known-condition-affecting-millions-of-people-286928",
+      "image": "https://counter.theconversation.com/content/286928/count.gif",
+      "publishedAt": "2026-07-23T14:37:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a52fqbv",
+      "title": "Après les Jeux olympiques de Paris 2024, quel héritage pour la sécurité des évènements sportifs ?",
+      "summary": "*Deux ans après la tenue des Jeux olympiques de Paris 2024, il est temps de dresser le bilan sécuritaire de l’évènement : quels ont été les coûts ? Est-ce que les nouvelles technologies vont prendre de plus en plus de place ? * En France, l’année 2024 a été marquée par l’organisation d’un évènement planétaire, les Jeux",
+      "link": "https://theconversation.com/apres-les-jeux-olympiques-de-paris-2024-quel-heritage-pour-la-securite-des-evenements-sportifs-280863",
+      "image": "https://counter.theconversation.com/content/280863/count.gif",
+      "publishedAt": "2026-07-23T14:36:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anyoheu",
+      "title": "Dans le camp de Tsoundzou, à Mayotte, les oubliés de la route migratoire de l’océan Indien",
+      "summary": "Dans la mangrove de Tsoundzou, au sud de Mamoudzou, plusieurs centaines de demandeurs d’asile, dont beaucoup venus de République démocratique du Congo, de Somalie ou du Yémen, vivent dans des abris de fortune. Au-delà de la crise politique et humanitaire, actuellement sous le feu de l'actualité avec l’évacuation d'une ",
+      "link": "https://theconversation.com/dans-le-camp-de-tsoundzou-a-mayotte-les-oublies-de-la-route-migratoire-de-locean-indien-285951",
+      "image": "https://images.theconversation.com/files/747403/original/file-20260713-82-pky969.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-23T14:35:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "alhqwvj",
+      "title": "Ce que la crise politique en Ukraine dit de l’avenir de la défense européenne",
+      "summary": "Ce qu’il faut retenir : Le limogeage de Mykhaïlo Fedorov a révélé un affrontement entre deux modèles de conduite de la guerre : l’innovation technologique rapide portée par un État-plateforme et un commandement militaire plus traditionnel. L’expérience ukrainienne montre que la guerre contemporaine se joue désormais su",
+      "link": "https://theconversation.com/ce-que-la-crise-politique-en-ukraine-dit-de-lavenir-de-la-defense-europeenne-288007",
+      "image": "https://counter.theconversation.com/content/288007/count.gif",
+      "publishedAt": "2026-07-23T14:34:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4pcl4i",
+      "title": "Transparence salariale : une avancée en demi-teinte",
+      "summary": "La directive européenne sur la transparence des rémunérations entre dans son processus d’adoption en France, suscitant les espoirs des salariés et quelques réticences des employeurs, notamment du fait de sa complexité et de son coût. Au-delà de ces aspects, elle renvoie à des questions moins visibles mais plus complexe",
+      "link": "https://theconversation.com/transparence-salariale-une-avancee-en-demi-teinte-285296",
+      "image": "https://counter.theconversation.com/content/285296/count.gif",
+      "publishedAt": "2026-07-23T14:32:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aaa1cxs",
+      "title": "La saga One Piece peut nous aider à comprendre les alternatives à l’entreprise traditionnelle, avec Luffy contre le Gouvernement Mondial",
+      "summary": "Les organisations de l’économie sociale et solidaire – coopératives, fondations, mutuelles, associations – s’érigent en contre-système d’un modèle d’entreprise lucrative. Mais elles tendent à adopter tous les codes des entreprises auxquels elles s’opposent. C’est ici que la saga One Piece peut nous aider à comprendre c",
+      "link": "https://theconversation.com/la-saga-one-piece-peut-nous-aider-a-comprendre-les-alternatives-a-lentreprise-traditionnelle-avec-luffy-contre-le-gouvernement-mondial-281663",
+      "image": "https://counter.theconversation.com/content/281663/count.gif",
+      "publishedAt": "2026-07-23T14:31:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "an775cn",
@@ -333,7 +333,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +351,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,7 +369,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -385,7 +385,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -401,7 +401,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -417,7 +417,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +433,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -465,7 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -481,7 +481,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -497,7 +497,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -513,7 +513,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -529,7 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
