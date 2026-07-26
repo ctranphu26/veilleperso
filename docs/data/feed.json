@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T08:24:29.448Z",
+  "generatedAt": "2026-07-26T13:18:45.746Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -149,14 +149,14 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
-      "id": "avfugb0",
-      "title": "Le technofascisme est-il inéluctable ?",
+      "id": "aek2zre",
+      "title": "Le totalitarisme numérique est-il inéluctable ?",
       "summary": "L’essor de l’intelligence artificielle, des Big Tech et des technologies de surveillance bouleverse les rapports entre États, entreprises et citoyens. La convergence entre capitalisme de surveillance et dérives autoritaires pourrait conduire à un technofascisme ou à un totalitarisme numérique, comme l’illustrent les ex",
-      "link": "https://theconversation.com/le-technofascisme-est-il-ineluctable-287104",
+      "link": "https://theconversation.com/le-totalitarisme-numerique-est-il-ineluctable-287104",
       "image": "https://counter.theconversation.com/content/287104/count.gif",
       "publishedAt": "2026-07-26T07:37:16.000Z",
       "source": "The Conversation (FR)",
@@ -167,7 +167,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -183,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -199,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -217,7 +217,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,7 +235,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +251,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +267,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +299,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -317,88 +317,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "af10aod",
-      "title": "Le prix du bœuf explose aux États-Unis et le pire pourrait être à venir",
-      "summary": "Le bœuf consommé aux États-Unis dépend largement des échanges avec le Canada et le Mexique. Mike Newbry/Unsplash, CC BY Le marché nord-américain du bœuf fonctionne comme un seul et même écosystème : les bovins traversent plusieurs fois les frontières avant d’arriver dans les assiettes. Les tensions commerciales voulues",
-      "link": "https://theconversation.com/le-prix-du-boeuf-explose-aux-etats-unis-et-le-pire-pourrait-etre-a-venir-288019",
-      "image": "https://images.theconversation.com/files/749752/original/file-20260723-78-wqivbr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5437%2C3624&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:51:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ag07hfb",
-      "title": "Ce que les dératiseurs nous apprennent sur le bonheur au travail",
-      "summary": "Le métier de dératiseur et désinsectiseur ne se résume pas à éliminer des nuisibles. Il demande des connaissances en biologie, un sens de l'enquête, de l'adaptation et beaucoup de psychologie. torook/Shutterstock Pourquoi des personnes passent-elles leurs journées à traquer des rats, des punaises de lit ou des cafards…",
-      "link": "https://theconversation.com/ce-que-les-deratiseurs-nous-apprennent-sur-le-bonheur-au-travail-288015",
-      "image": "https://images.theconversation.com/files/749155/original/file-20260622-57-cwtjqv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5400%2C3600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:51:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "asrq7m0",
-      "title": "« Je ne peux plus participer à cette mascarade » : pourquoi des guides en Antarctique quittent le métier de leurs rêves",
-      "summary": "Observer le changement climatique au plus près, tout en contribuant à amener toujours plus de visiteurs sur l’un des écosystèmes les plus fragiles au monde : c’est le dilemme qui a poussé plusieurs guides touristiques à quitter l’Antarctique. « On voyait d’immenses pans de glacier s’effondrer dans la mer, et on avait j",
-      "link": "https://theconversation.com/je-ne-peux-plus-participer-a-cette-mascarade-pourquoi-des-guides-en-antarctique-quittent-le-metier-de-leurs-reves-288207",
-      "image": "https://images.theconversation.com/files/747992/original/file-20260715-57-nchn77.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-24T09:50:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ay775s5",
-      "title": "Arêtes de poisson, quarantaine et vaccination : les armes des Aborigènes contre la variole",
-      "summary": "Les peuples wiradjuri, gomeroi et wailwan des plaines et des régions fluviales ne sont pas restés passifs face à la variole. Ici les plaines de Bathurst et la colonie de Nouvelle-Galles du Sud, représentées par Augustus Earle. Mitchell Library, State Library of New South Wales Une étude fondée sur un rapport médical ou",
-      "link": "https://theconversation.com/aretes-de-poisson-quarantaine-et-vaccination-les-armes-des-aborigenes-contre-la-variole-287598",
-      "image": "https://images.theconversation.com/files/747989/original/file-20260602-71-rmwkk4.jpg?ixlib=rb-4.1.1&amp;rect=8%2C55%2C678%2C452&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:49:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aa6czf6",
-      "title": "Le Royaume-Uni face au scandale des adoptions forcées de l’après-guerre",
-      "summary": "Au milieu du XXᵉ siècle, les mentalités à l'égard de la maternité différaient profondément selon que les femmes étaient mariées ou non. Imperial War Museums L’Angleterre est le dernier pays des îles Britanniques à reconnaître officiellement le traumatisme des adoptions forcées. Cette page sombre de l’histoire révèle co",
-      "link": "https://theconversation.com/le-royaume-uni-face-au-scandale-des-adoptions-forcees-de-lapres-guerre-287201",
-      "image": "https://images.theconversation.com/files/746839/original/file-20260701-57-75y6zx.jpg?ixlib=rb-4.1.1&amp;rect=3%2C0%2C792%2C528&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:48:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "atxvlg",
@@ -413,8 +333,88 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "af10aod",
+      "title": "Le prix du bœuf explose aux États-Unis et le pire pourrait être à venir",
+      "summary": "Le bœuf consommé aux États-Unis dépend largement des échanges avec le Canada et le Mexique. Mike Newbry/Unsplash, CC BY Le marché nord-américain du bœuf fonctionne comme un seul et même écosystème : les bovins traversent plusieurs fois les frontières avant d’arriver dans les assiettes. Les tensions commerciales voulues",
+      "link": "https://theconversation.com/le-prix-du-boeuf-explose-aux-etats-unis-et-le-pire-pourrait-etre-a-venir-288019",
+      "image": "https://images.theconversation.com/files/749752/original/file-20260723-78-wqivbr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5437%2C3624&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-24T09:51:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ag07hfb",
+      "title": "Ce que les dératiseurs nous apprennent sur le bonheur au travail",
+      "summary": "Le métier de dératiseur et désinsectiseur ne se résume pas à éliminer des nuisibles. Il demande des connaissances en biologie, un sens de l'enquête, de l'adaptation et beaucoup de psychologie. torook/Shutterstock Pourquoi des personnes passent-elles leurs journées à traquer des rats, des punaises de lit ou des cafards…",
+      "link": "https://theconversation.com/ce-que-les-deratiseurs-nous-apprennent-sur-le-bonheur-au-travail-288015",
+      "image": "https://images.theconversation.com/files/749155/original/file-20260622-57-cwtjqv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5400%2C3600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-24T09:51:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "asrq7m0",
+      "title": "« Je ne peux plus participer à cette mascarade » : pourquoi des guides en Antarctique quittent le métier de leurs rêves",
+      "summary": "Observer le changement climatique au plus près, tout en contribuant à amener toujours plus de visiteurs sur l’un des écosystèmes les plus fragiles au monde : c’est le dilemme qui a poussé plusieurs guides touristiques à quitter l’Antarctique. « On voyait d’immenses pans de glacier s’effondrer dans la mer, et on avait j",
+      "link": "https://theconversation.com/je-ne-peux-plus-participer-a-cette-mascarade-pourquoi-des-guides-en-antarctique-quittent-le-metier-de-leurs-reves-288207",
+      "image": "https://images.theconversation.com/files/747992/original/file-20260715-57-nchn77.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-24T09:50:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ay775s5",
+      "title": "Arêtes de poisson, quarantaine et vaccination : les armes des Aborigènes contre la variole",
+      "summary": "Les peuples wiradjuri, gomeroi et wailwan des plaines et des régions fluviales ne sont pas restés passifs face à la variole. Ici les plaines de Bathurst et la colonie de Nouvelle-Galles du Sud, représentées par Augustus Earle. Mitchell Library, State Library of New South Wales Une étude fondée sur un rapport médical ou",
+      "link": "https://theconversation.com/aretes-de-poisson-quarantaine-et-vaccination-les-armes-des-aborigenes-contre-la-variole-287598",
+      "image": "https://images.theconversation.com/files/747989/original/file-20260602-71-rmwkk4.jpg?ixlib=rb-4.1.1&amp;rect=8%2C55%2C678%2C452&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-24T09:49:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aa6czf6",
+      "title": "Le Royaume-Uni face au scandale des adoptions forcées de l’après-guerre",
+      "summary": "Au milieu du XXᵉ siècle, les mentalités à l'égard de la maternité différaient profondément selon que les femmes étaient mariées ou non. Imperial War Museums L’Angleterre est le dernier pays des îles Britanniques à reconnaître officiellement le traumatisme des adoptions forcées. Cette page sombre de l’histoire révèle co",
+      "link": "https://theconversation.com/le-royaume-uni-face-au-scandale-des-adoptions-forcees-de-lapres-guerre-287201",
+      "image": "https://images.theconversation.com/files/746839/original/file-20260701-57-75y6zx.jpg?ixlib=rb-4.1.1&amp;rect=3%2C0%2C792%2C528&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-24T09:48:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aslwqc0",
@@ -429,8 +429,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avptt35",
@@ -445,8 +445,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "auv3ym9",
@@ -461,8 +461,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a2me1j2",
@@ -477,8 +477,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aavkqpo",
@@ -493,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -525,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
