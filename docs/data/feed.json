@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T19:05:09.614Z",
+  "generatedAt": "2026-07-26T02:39:47.587Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,23 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "almqcj2",
-      "title": "Coupe du Monde 2026 : le football a-t-il gagné ?",
-      "summary": "Ce qu’il faut retenir La Coupe du monde a été décevante en termes purement footballistiques, avec de nombreux matches de bas niveau et d’innombrables problèmes d’arbitrage. Au-delà du terrain de jeu, le prix exorbitant des places, les décisions de l’administration américaine à l’égard de l’arbitre somalien et de l’équi",
-      "link": "https://theconversation.com/coupe-du-monde-2026-le-football-a-t-il-gagne-288223",
-      "image": "https://images.theconversation.com/files/749809/original/file-20260723-63-t8wwum.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-24T08:47:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +217,23 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "almqcj2",
+      "title": "Coupe du Monde 2026 : le football a-t-il gagné ?",
+      "summary": "Ce qu’il faut retenir La Coupe du monde a été décevante en termes purement footballistiques, avec de nombreux matches de bas niveau et d’innombrables problèmes d’arbitrage. Au-delà du terrain de jeu, le prix exorbitant des places, les décisions de l’administration américaine à l’égard de l’arbitre somalien et de l’équi",
+      "link": "https://theconversation.com/coupe-du-monde-2026-le-football-a-t-il-gagne-288223",
+      "image": "https://images.theconversation.com/files/749809/original/file-20260723-63-t8wwum.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-24T08:47:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,71 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aslwqc0",
-      "title": "La surprenante araignée qui chasse les moustiques et préfère nos vieilles chaussettes",
-      "summary": "Avec ses grands yeux, son cerveau minuscule et son goût prononcé pour les moustiques porteurs de sang, Evarcha culicivora intrigue les chercheurs. Ses capacités cognitives pourraient changer notre regard sur les araignées. Enfant, la simple vue d'une araignée me faisait hurler et courir me mettre à l'abri. J'étais conv",
-      "link": "https://theconversation.com/la-surprenante-araignee-qui-chasse-les-moustiques-et-prefere-nos-vieilles-chaussettes-288290",
-      "image": "https://images.theconversation.com/files/732497/original/file-20260427-71-2bxsno.JPG?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-24T08:10:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avptt35",
-      "title": "Peut-on combattre les moustiques avec des moustiques ?",
-      "summary": "Des millions de moustiques mâles stérilisés pourraient bientôt être relâchés aux États-Unis pour freiner la propagation de maladies comme la dengue ou le Zika. Joao Paulo Burini, CC BY Face à l'expansion mondiale du moustique Aedes aegypti et aux limites des insecticides, une stratégie de lutte biologique gagne du terr",
-      "link": "https://theconversation.com/peut-on-combattre-les-moustiques-avec-des-moustiques-288289",
-      "image": "https://images.theconversation.com/files/749957/original/file-20260720-71-9qqmca.jpg?ixlib=rb-4.1.1&amp;rect=0%2C384%2C4608%2C3072&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T08:08:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "auv3ym9",
-      "title": "Les « peaux à moustiques » : mythe ou réalité ?",
-      "summary": "L’ESSENTIEL Les moustiques utilisent un arsenal complexe et sophistiqué pour nous détecter ; Nous ne sommes pas tous égaux face à la détection par les moustiques, qui par ailleurs nous trouvent plus ou moins attractifs selon nos activités ; Les réactions aux piqûres varient d’une personne à l’autre, ce qui peut renforc",
-      "link": "https://theconversation.com/les-peaux-a-moustiques-mythe-ou-realite-287323",
-      "image": "https://counter.theconversation.com/content/287323/count.gif",
-      "publishedAt": "2026-07-24T08:07:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2me1j2",
-      "title": "Moustiques, tiques et autres vecteurs de maladies : quelles sont les dernières recommandations pour s’en protéger ?",
-      "summary": "Moustique tigre qui poursuit sa conquête de la France hexagonale, nombre de cas de maladie de Lyme en augmentation, arrivée de la tique invasive Hyalomma sur le littoral méditerranéen… Les raisons de se protéger des arthropodes potentiellement vecteurs de maladies ne manquent pas. Voici les dernières recommandations en",
-      "link": "https://theconversation.com/moustiques-tiques-et-autres-vecteurs-de-maladies-quelles-sont-les-dernieres-recommandations-pour-sen-proteger-284137",
-      "image": "https://counter.theconversation.com/content/284137/count.gif",
-      "publishedAt": "2026-07-24T08:07:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -395,7 +331,71 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aslwqc0",
+      "title": "La surprenante araignée qui chasse les moustiques et préfère nos vieilles chaussettes",
+      "summary": "Avec ses grands yeux, son cerveau minuscule et son goût prononcé pour les moustiques porteurs de sang, Evarcha culicivora intrigue les chercheurs. Ses capacités cognitives pourraient changer notre regard sur les araignées. Enfant, la simple vue d'une araignée me faisait hurler et courir me mettre à l'abri. J'étais conv",
+      "link": "https://theconversation.com/la-surprenante-araignee-qui-chasse-les-moustiques-et-prefere-nos-vieilles-chaussettes-288290",
+      "image": "https://images.theconversation.com/files/732497/original/file-20260427-71-2bxsno.JPG?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-24T08:10:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avptt35",
+      "title": "Peut-on combattre les moustiques avec des moustiques ?",
+      "summary": "Des millions de moustiques mâles stérilisés pourraient bientôt être relâchés aux États-Unis pour freiner la propagation de maladies comme la dengue ou le Zika. Joao Paulo Burini, CC BY Face à l'expansion mondiale du moustique Aedes aegypti et aux limites des insecticides, une stratégie de lutte biologique gagne du terr",
+      "link": "https://theconversation.com/peut-on-combattre-les-moustiques-avec-des-moustiques-288289",
+      "image": "https://images.theconversation.com/files/749957/original/file-20260720-71-9qqmca.jpg?ixlib=rb-4.1.1&amp;rect=0%2C384%2C4608%2C3072&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-24T08:08:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "auv3ym9",
+      "title": "Les « peaux à moustiques » : mythe ou réalité ?",
+      "summary": "L’ESSENTIEL Les moustiques utilisent un arsenal complexe et sophistiqué pour nous détecter ; Nous ne sommes pas tous égaux face à la détection par les moustiques, qui par ailleurs nous trouvent plus ou moins attractifs selon nos activités ; Les réactions aux piqûres varient d’une personne à l’autre, ce qui peut renforc",
+      "link": "https://theconversation.com/les-peaux-a-moustiques-mythe-ou-realite-287323",
+      "image": "https://counter.theconversation.com/content/287323/count.gif",
+      "publishedAt": "2026-07-24T08:07:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a2me1j2",
+      "title": "Moustiques, tiques et autres vecteurs de maladies : quelles sont les dernières recommandations pour s’en protéger ?",
+      "summary": "Moustique tigre qui poursuit sa conquête de la France hexagonale, nombre de cas de maladie de Lyme en augmentation, arrivée de la tique invasive Hyalomma sur le littoral méditerranéen… Les raisons de se protéger des arthropodes potentiellement vecteurs de maladies ne manquent pas. Voici les dernières recommandations en",
+      "link": "https://theconversation.com/moustiques-tiques-et-autres-vecteurs-de-maladies-quelles-sont-les-dernieres-recommandations-pour-sen-proteger-284137",
+      "image": "https://counter.theconversation.com/content/284137/count.gif",
+      "publishedAt": "2026-07-24T08:07:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -411,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -429,7 +429,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -445,7 +445,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -461,7 +461,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -477,7 +477,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -493,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -525,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
