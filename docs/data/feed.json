@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T09:49:41.324Z",
+  "generatedAt": "2026-07-27T14:30:27.695Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,54 @@
   "count": 35,
   "items": [
     {
+      "id": "afvzj78",
+      "title": "Loi d’urgence agricole : pourquoi la droite et le centre ne lâchent rien sur les néonicotinoïdes et le stockage de l’eau",
+      "summary": "La loi d’urgence agricole a été adoptée par le 21 juillet. Elle réaffirme les choix controversés de la loi « Duplomb » de juillet 2025, autorisant certains néonicotinoïdes dangereux et facilitant le stockage de l’eau. Comment expliquer une telle obstination, malgré une importante mobilisation citoyenne et la censure du",
+      "link": "https://theconversation.com/loi-durgence-agricole-pourquoi-la-droite-et-le-centre-ne-lachent-rien-sur-les-neonicotino-des-et-le-stockage-de-leau-288367",
+      "image": "https://counter.theconversation.com/content/288367/count.gif",
+      "publishedAt": "2026-07-27T13:21:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "au3fk5x",
+      "title": "Avec la loi d’urgence agricole, la France contrevient au droit international sur les zones humides",
+      "summary": "Tandis qu’une partie du pays est touchée par des restrictions maximales d’utilisation de l’eau potable, le Parlement vient d’adopter la loi d’urgence agricole, qui prévoit le doublement des capacités de stockage de l’eau pour l’irrigation agricole à l’horizon 2035. Or, cette loi, conjuguée au contexte réglementaire fra",
+      "link": "https://theconversation.com/avec-la-loi-durgence-agricole-la-france-contrevient-au-droit-international-sur-les-zones-humides-288212",
+      "image": "https://images.theconversation.com/files/749833/original/file-20260723-57-9art84.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-27T13:16:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ae5r88d",
+      "title": "Les lanceurs d’alerte au travail se censurent, car ils sont ignorés par leur hiérarchie. Comment éviter d’en arriver à un drame ?",
+      "summary": "15 % des salariés estiment qu’il y a des irrégularités dans leur organisation. Très peu d’entre eux font part de ces préoccupations à la direction ou via un canal dédié aux lanceurs d’alerte. Alors, avant que la vie d’un collègue soit en danger, comment signaler un dysfonctionnement ? Qu’il s’agisse du scandale pharmac",
+      "link": "https://theconversation.com/les-lanceurs-dalerte-au-travail-se-censurent-car-ils-sont-ignores-par-leur-hierarchie-comment-eviter-den-arriver-a-un-drame-283186",
+      "image": "https://counter.theconversation.com/content/283186/count.gif",
+      "publishedAt": "2026-07-27T10:11:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a6ybzus",
       "title": "Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique",
       "summary": "Lecture facilitée et articles facilement retrouvables, l’application du Café pédagogique est disponible sur les stores. L’application permet aussi à chaque utilisateur de choisir les sujets sur lesquels il ou elle L’article Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique est apparu en pr",
@@ -131,7 +179,119 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 83,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "as5n2au",
+      "title": "Indonésie et Asie du Sud-Est : la France a une carte à jouer",
+      "summary": "Pendant que Washington et Pékin se disputent l’Indo-Pacifique, l’Asie du Sud-Est cherche des partenaires qui ne lui imposent pas de choisir un camp. Cette situation constitue une fenêtre d’opportunité que l’Europe et la France ne doivent pas laisser passer. Il y a quelques mois, nous montrions ici comment la Zone écono",
+      "link": "https://theconversation.com/indonesie-et-asie-du-sud-est-la-france-a-une-carte-a-jouer-287087",
+      "image": "https://counter.theconversation.com/content/287087/count.gif",
+      "publishedAt": "2026-07-27T13:20:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "al9y4mc",
+      "title": "Peu importe ce que les enfants lisent, tant qu’ils lisent ? Dépasser les préjugés sur les « bonnes » et « mauvaises lectures »",
+      "summary": "Une personne qui dévore des romans et des classiques est d’emblée considérée comme un lecteur ou une lectrice. Mais n’est-ce pas aussi le cas de celle qui ne lit que des magazines ou des mangas ? Pour donner aux enfants le goût de lire, peut-être faut-il d’abord en finir avec les catégories figées et avec les critères ",
+      "link": "https://theconversation.com/peu-importe-ce-que-les-enfants-lisent-tant-quils-lisent-depasser-les-prejuges-sur-les-bonnes-et-mauvaises-lectures-287799",
+      "image": "https://counter.theconversation.com/content/287799/count.gif",
+      "publishedAt": "2026-07-27T13:19:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoncsih",
+      "title": "Comment la présence de MSC Croisières dans les ports français est devenue un enjeu de souveraineté nationale",
+      "summary": "L’ESSENTIEL Les chantiers de Saint-Nazaire sont dépendants la construction des paquebots géants, notamment du groupe MSC, première entreprise de transport maritime mondial. Une étude met en lumière l'importance de ces entreprises de navigation touristique pour l'économie des ports français. Au-delà des bateaux de touri",
+      "link": "https://theconversation.com/comment-la-presence-de-msc-croisieres-dans-les-ports-francais-est-devenue-un-enjeu-de-souverainete-nationale-285510",
+      "image": "https://images.theconversation.com/files/742945/original/file-20260619-63-mt4xqp.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-27T13:19:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aptar3x",
+      "title": "L’hypominéralisation molaire-incisive, une anomalie dentaire mal connue qui touche des millions d’enfants",
+      "summary": "Les dents de lait de votre enfant, délicates et d’un blanc crayeux, tombent. À votre grande surprise, les dents qui poussent à leur place sont fragiles, et présentent des taches jaune-brun. Cette pathologie dentaire est appelée hypominéralisation molaire-incisive. Il s’agit d’une affection presque aussi fréquente que l",
+      "link": "https://theconversation.com/lhypomineralisation-molaire-incisive-une-anomalie-dentaire-mal-connue-qui-touche-des-millions-denfants-286284",
+      "image": "https://counter.theconversation.com/content/286284/count.gif",
+      "publishedAt": "2026-07-27T13:17:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aptod6f",
+      "title": "De la télévision au tourisme : comment Camping Paradis transforme la fiction en expérience",
+      "summary": "Vous aimez regarder Camping Paradis ? Eh bien, vivez l’expérience maintenant ! La série à succès de TF1 labellise désormais des campings pour proposer à ses fans de vivre « comme s’ils y étaient ». Que traduit cette évolution sur les attentes des consommateurs ? Et sur le modèle économique des fictions ? Depuis sa prem",
+      "link": "https://theconversation.com/de-la-television-au-tourisme-comment-camping-paradis-transforme-la-fiction-en-experience-281902",
+      "image": "https://counter.theconversation.com/content/281902/count.gif",
+      "publishedAt": "2026-07-27T13:17:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2tbiyp",
+      "title": "Ulysse aux mille ruses était-il aussi un athlète ?",
+      "summary": "Athlètes dans la palestre avec des entraîneurs et un flûtiste. Athènes, attribué à Nikoxenos, fin de l'époque archaïque, vers 520-510 av. J.-C. Wikipédia/ArchaiOptix, CC BY-SA Dans le film de Christopher Nolan, Ulysse apparaît à la fois comme un homme rusé et doté de capacités physiques hors normes. Mais dans l’épopée ",
+      "link": "https://theconversation.com/ulysse-aux-mille-ruses-etait-il-aussi-un-athlete-288213",
+      "image": "https://images.theconversation.com/files/750210/original/file-20260727-83-bip1jq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5472%2C3648&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-27T13:16:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ag9pvnq",
+      "title": "Peut-on s’inspirer du Japon pour repenser la durabilité de la filière textile en France ?",
+      "summary": "Vous voyez trois kimonos ? C'est aussi un modèle original de reconditionnement de l'industrie textile. Damian Hutter/Unsplash, CC BY Re conditionner le textile pourrait être un moyen de réduire l’empreinte écologique du secteur. Dans la seconde moitié du XXe siècle, le Japon pratiquait encore la réutilisation à grande ",
+      "link": "https://theconversation.com/peut-on-sinspirer-du-japon-pour-repenser-la-durabilite-de-la-filiere-textile-en-france-281779",
+      "image": "https://images.theconversation.com/files/739347/original/file-20260602-85-341eli.jpg?ixlib=rb-4.1.1&amp;rect=0%2C70%2C3508%2C2338&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-27T10:13:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +307,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +325,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +343,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +359,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +375,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +393,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +411,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -267,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -283,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -299,57 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "almqcj2",
-      "title": "Coupe du Monde 2026 : le football a-t-il gagné ?",
-      "summary": "Ce qu’il faut retenir La Coupe du monde a été décevante en termes purement footballistiques, avec de nombreux matches de bas niveau et d’innombrables problèmes d’arbitrage. Au-delà du terrain de jeu, le prix exorbitant des places, les décisions de l’administration américaine à l’égard de l’arbitre somalien et de l’équi",
-      "link": "https://theconversation.com/coupe-du-monde-2026-le-football-a-t-il-gagne-288223",
-      "image": "https://images.theconversation.com/files/749809/original/file-20260723-63-t8wwum.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-24T08:47:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "auvrrar",
-      "title": "Pourquoi masculinisme et antisémitisme sont profondément liés",
-      "summary": "Les contenus liés au fitness occupent une place importante dans la « manosphère », mais on y trouve également des idéologies extrêmes. ljubaphoto/E+ via Getty Images Les idées antisémites sont aujourd’hui présentes au sein des courants masculinistes. Or l’histoire nous montre que masculinité dominante et antisémitisme ",
-      "link": "https://theconversation.com/pourquoi-masculinisme-et-antisemitisme-sont-profondement-lies-280529",
-      "image": "https://images.theconversation.com/files/729579/original/file-20260401-69-sv9pp5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2120%2C1413&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-23T14:35:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atxvlg",
-      "title": "Le découpage technologique, la tactique vaine d’Apple pour esquiver la régulation",
-      "summary": "Pour la justice européenne, Apple est bien un contrôleur d’accès. Bangyu Wang/Unsplash, CC BY Apple a contesté tomber sous le coup du Digital Market Act (DMA) en faisant valoir que sa boutique d’application n’en était pas une, mais cinq plus petites dédiées à leurs différents produits. Cet argument n’a pas convaincu le",
-      "link": "https://theconversation.com/le-decoupage-technologique-la-tactique-vaine-dapple-pour-esquiver-la-regulation-287739",
-      "image": "https://images.theconversation.com/files/748529/original/file-20260717-71-prc54h.jpg?ixlib=rb-4.1.1&amp;rect=302%2C0%2C3375%2C2250&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-23T14:36:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -365,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -381,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -397,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -413,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -429,119 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aslwqc0",
-      "title": "La surprenante araignée qui chasse les moustiques et préfère nos vieilles chaussettes",
-      "summary": "Avec ses grands yeux, son cerveau minuscule et son goût prononcé pour les moustiques porteurs de sang, Evarcha culicivora intrigue les chercheurs. Ses capacités cognitives pourraient changer notre regard sur les araignées. Enfant, la simple vue d'une araignée me faisait hurler et courir me mettre à l'abri. J'étais conv",
-      "link": "https://theconversation.com/la-surprenante-araignee-qui-chasse-les-moustiques-et-prefere-nos-vieilles-chaussettes-288290",
-      "image": "https://images.theconversation.com/files/732497/original/file-20260427-71-2bxsno.JPG?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-24T08:10:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avptt35",
-      "title": "Peut-on combattre les moustiques avec des moustiques ?",
-      "summary": "Des millions de moustiques mâles stérilisés pourraient bientôt être relâchés aux États-Unis pour freiner la propagation de maladies comme la dengue ou le Zika. Joao Paulo Burini, CC BY Face à l'expansion mondiale du moustique Aedes aegypti et aux limites des insecticides, une stratégie de lutte biologique gagne du terr",
-      "link": "https://theconversation.com/peut-on-combattre-les-moustiques-avec-des-moustiques-288289",
-      "image": "https://images.theconversation.com/files/749957/original/file-20260720-71-9qqmca.jpg?ixlib=rb-4.1.1&amp;rect=0%2C384%2C4608%2C3072&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T08:08:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "auv3ym9",
-      "title": "Les « peaux à moustiques » : mythe ou réalité ?",
-      "summary": "L’ESSENTIEL Les moustiques utilisent un arsenal complexe et sophistiqué pour nous détecter ; Nous ne sommes pas tous égaux face à la détection par les moustiques, qui par ailleurs nous trouvent plus ou moins attractifs selon nos activités ; Les réactions aux piqûres varient d’une personne à l’autre, ce qui peut renforc",
-      "link": "https://theconversation.com/les-peaux-a-moustiques-mythe-ou-realite-287323",
-      "image": "https://counter.theconversation.com/content/287323/count.gif",
-      "publishedAt": "2026-07-24T08:07:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2me1j2",
-      "title": "Moustiques, tiques et autres vecteurs de maladies : quelles sont les dernières recommandations pour s’en protéger ?",
-      "summary": "Moustique tigre qui poursuit sa conquête de la France hexagonale, nombre de cas de maladie de Lyme en augmentation, arrivée de la tique invasive Hyalomma sur le littoral méditerranéen… Les raisons de se protéger des arthropodes potentiellement vecteurs de maladies ne manquent pas. Voici les dernières recommandations en",
-      "link": "https://theconversation.com/moustiques-tiques-et-autres-vecteurs-de-maladies-quelles-sont-les-dernieres-recommandations-pour-sen-proteger-284137",
-      "image": "https://counter.theconversation.com/content/284137/count.gif",
-      "publishedAt": "2026-07-24T08:07:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aavkqpo",
-      "title": "Cerebral small vessel disease: new treatment possibilities for the little-known condition affecting millions of people",
-      "summary": "Cerebral small vessel disease (CSVD), which notably increases the risk of stroke and cognitive disorders, is estimated to affect more than 5 million people in France alone. In the absence of a curative treatment, the prevention of cardiovascular risk factors remains the most effective strategy today. However, promising",
-      "link": "https://theconversation.com/cerebral-small-vessel-disease-new-treatment-possibilities-for-the-little-known-condition-affecting-millions-of-people-286928",
-      "image": "https://counter.theconversation.com/content/286928/count.gif",
-      "publishedAt": "2026-07-23T14:37:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a52fqbv",
-      "title": "Après les Jeux olympiques de Paris 2024, quel héritage pour la sécurité des évènements sportifs ?",
-      "summary": "*Deux ans après la tenue des Jeux olympiques de Paris 2024, il est temps de dresser le bilan sécuritaire de l’évènement : quels ont été les coûts ? Est-ce que les nouvelles technologies vont prendre de plus en plus de place ? * En France, l’année 2024 a été marquée par l’organisation d’un évènement planétaire, les Jeux",
-      "link": "https://theconversation.com/apres-les-jeux-olympiques-de-paris-2024-quel-heritage-pour-la-securite-des-evenements-sportifs-280863",
-      "image": "https://counter.theconversation.com/content/280863/count.gif",
-      "publishedAt": "2026-07-23T14:36:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "anyoheu",
-      "title": "Dans le camp de Tsoundzou, à Mayotte, les oubliés de la route migratoire de l’océan Indien",
-      "summary": "Dans la mangrove de Tsoundzou, au sud de Mamoudzou, plusieurs centaines de demandeurs d’asile, dont beaucoup venus de République démocratique du Congo, de Somalie ou du Yémen, vivent dans des abris de fortune. Au-delà de la crise politique et humanitaire, actuellement sous le feu de l'actualité avec l’évacuation d'une ",
-      "link": "https://theconversation.com/dans-le-camp-de-tsoundzou-a-mayotte-les-oublies-de-la-route-migratoire-de-locean-indien-285951",
-      "image": "https://images.theconversation.com/files/747403/original/file-20260713-82-pky969.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-23T14:35:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
