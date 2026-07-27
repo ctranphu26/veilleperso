@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T02:48:45.616Z",
+  "generatedAt": "2026-07-27T09:49:41.324Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "a6ybzus",
+      "title": "Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique",
+      "summary": "Lecture facilitée et articles facilement retrouvables, l’application du Café pédagogique est disponible sur les stores. L’application permet aussi à chaque utilisateur de choisir les sujets sur lesquels il ou elle L’article Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique est apparu en pr",
+      "link": "https://www.cafepedagogique.net/2026/07/27/telechargez-lapplication-officielle-du-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/01/appli_telecharger.jpg",
+      "publishedAt": "2026-07-27T08:24:09.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a4zjwd",
       "title": "« Avec seulement trois opérateurs télécoms, ce sera forcément plus cher qu’à quatre ». Vraiment ?",
       "summary": "Dans une version simplifiée, plus de concurrence conduirait à une baisse des prix. De là à en conclure que la réduction du nombre d’entreprises entraînerait mécaniquement à une hausse des prix, il n’y a qu’un pas à franchir avec précaution. Illustration avec le marché des télécoms français avec la disparition annoncée ",
@@ -131,8 +147,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afm452b",
@@ -149,7 +165,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +183,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +233,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,8 +251,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "adgoc4x",
@@ -251,13 +267,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ak0332f",
-      "title": "Quand les marques s'approprient le hip-hop pour paraître « cool » : entre opportunisme et engagement culturel",
-      "summary": "Le breakdance fait partie des disciplines de la sous-culture hip-hop. Boltron / CC BY-SA 2.0 , CC BY-SA S’approprier les codes du hip-hop, une culture née dans les marges, c’est un jeu risqué auquel se livrent de nombreuses marques. Dans une étude menée auprès de jeunes qui s’identifient à ce mouvement, nous mettons en",
+      "title": "Quand les marques s’approprient le hip-hop pour paraître « cool » : entre opportunisme et engagement culturel",
+      "summary": "Le breakdance fait partie des disciplines de la sous-culture hip-hop. Boltron/CC BY-SA 2.0 , CC BY-SA S’approprier les codes du hip-hop, une culture née dans les marges, c’est un jeu risqué auquel se livrent de nombreuses marques. Dans une étude menée auprès de jeunes qui s’identifient à ce mouvement, nous mettons en a",
       "link": "https://theconversation.com/quand-les-marques-sapproprient-le-hip-hop-pour-paraitre-cool-entre-opportunisme-et-engagement-culturel-282769",
       "image": "https://images.theconversation.com/files/745874/original/file-20260703-57-ytxckr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C3888%2C2592&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-07-25T06:58:34.000Z",
@@ -267,8 +283,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akdy3xm",
@@ -283,8 +299,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "almqcj2",
@@ -299,8 +315,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "auvrrar",
@@ -317,7 +333,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -333,7 +349,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -349,7 +365,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -365,7 +381,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -381,7 +397,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -397,7 +413,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -413,7 +429,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -429,7 +445,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -445,7 +461,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -461,7 +477,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -477,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -493,7 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -525,7 +541,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -596,25 +612,6 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 0,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aslqic3",
-      "title": "Orthographe aux examens : le ministre pique sa crise",
-      "summary": "Après avoir menacé les élèves d’une plus forte répression de leurs erreurs de langue aux examens de juin 2026, le ministre Édouard Geffray menace les cadres et enseignant.es qui n’auraient L’article Orthographe aux examens : le ministre pique sa crise est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/03/orthographe-aux-examens-le-ministre-pique-sa-crise/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/04/Edouard-Geffray-300x172.png",
-      "publishedAt": "2026-07-03T03:35:24.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
       "urgency": 0,
       "urgencyLevel": "basse"
     },
