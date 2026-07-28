@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T14:03:37.589Z",
+  "generatedAt": "2026-07-28T19:21:22.865Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,61 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "azademc",
+      "title": "Ce que les techniques de chasse des rapaces pourraient nous apprendre sur les dinosaures",
+      "summary": "Cyrano, pygargue de Steller de la Forêt des Aigles (Espace Rambouillet). Audrey COSTES - tous droits réservés seules les republications intégrales de l'article sont autorisées., CC BY-NC-ND L’ESSENTIEL Une nouvelle étude a permis de classer les rapaces selon leurs techniques de chasse. Observer les phalanges des rapace",
+      "link": "https://theconversation.com/ce-que-les-techniques-de-chasse-des-rapaces-pourraient-nous-apprendre-sur-les-dinosaures-287616",
+      "image": "https://images.theconversation.com/files/750503/original/file-20260728-57-6zqfrh.jpg?ixlib=rb-4.1.1&amp;rect=0%2C21%2C3883%2C2588&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-28T14:19:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "appemo",
+      "title": "La « vibecoding fatigue » : épuisés par l’IA, les développeurs informatiques inventent leurs propres parades",
+      "summary": "L'ESSENTIEL Les développeurs les plus en pointe avec l’intelligence artificielle générative décrivent une fatigue d’un genre nouveau, la vibecoding fatigue ou l’AI brain fry. Des parades sont inventées pour ne pas se laisser soumettre par l’IA. Cette fatigue pourrait gagner tous les métiers du langage, des journalistes",
+      "link": "https://theconversation.com/la-vibecoding-fatigue-epuises-par-lia-les-developpeurs-informatiques-inventent-leurs-propres-parades-281365",
+      "image": "https://counter.theconversation.com/content/281365/count.gif",
+      "publishedAt": "2026-07-28T14:17:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ao64joa",
+      "title": "Carbon capture explained: how EU member states are funding and rolling out the technology to clean up Europe’s fossil fuel industry",
+      "summary": "Carbon capture and storage (CCS) underpins the European Union’s (EU) strategy to decarbonise industries such as cement, steel, and chemicals. It involves capturing carbon dioxide (CO2) from industrial facilities, transporting it by pipeline or shipping and storing it permanently in geological formations. According to t",
+      "link": "https://theconversation.com/carbon-capture-explained-how-eu-member-states-are-funding-and-rolling-out-the-technology-to-clean-up-europes-fossil-fuel-industry-287712",
+      "image": "https://images.theconversation.com/files/749963/original/file-20260724-57-hrb2vu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C389%2C7380%2C4151&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-28T14:11:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +203,103 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3u2e1y",
+      "title": "Incendies en Gironde : la logistique au cœur de l’évacuation massive d’une population",
+      "summary": "L’ESSENTIEL Les mégafeux observés actuellement en Gironde ne mettent pas seulement les services d’incendie et de secours à l’épreuve. La lutte contre l’incendie passe aussi par la mise au point d’une logistique efficiente pour évacuer un vaste territoire sans le paralyser. De précédentes catastrophes ont montré le rôle",
+      "link": "https://theconversation.com/incendies-en-gironde-la-logistique-au-coeur-de-levacuation-massive-dune-population-288440",
+      "image": "https://counter.theconversation.com/content/288440/count.gif",
+      "publishedAt": "2026-07-28T14:20:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ak1hmb4",
+      "title": "Les feux de forêt menacent-ils les installations gazières ?",
+      "summary": "L'essentiel Sous l'effet du changement climatique, de l'évolution de l'occupation des sols et des activités humaines, les incendies deviennent de plus en plus intenses et difficiles à maîtriser. Les incendies de végétation ne menacent pas seulement les forêts et les habitations. Ils peuvent mettre également en danger d",
+      "link": "https://theconversation.com/les-feux-de-foret-menacent-ils-les-installations-gazieres-287402",
+      "image": "https://images.theconversation.com/files/748855/original/file-20260720-57-4ok8u2.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-28T14:19:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "au1y8m3",
+      "title": "Comment X est devenu l’un des théâtres de la guerre en Ukraine",
+      "summary": "Dans le cadre de la guerre à haute intensité en Ukraine, le rôle du réseau X (anciennement Twitter) a évolué : il est devenu un terrain privilégié à la fois pour les analystes, les journalistes et les chercheurs, ainsi qu’un espace d’expression pour les diplomates et les responsables politiques. Dès les premières heure",
+      "link": "https://theconversation.com/comment-x-est-devenu-lun-des-theatres-de-la-guerre-en-ukraine-287462",
+      "image": "https://images.theconversation.com/files/750051/original/file-20260724-57-2pq6as.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-28T14:16:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at5zf40",
+      "title": "Être rejeté par les autres fait mal : aider enfants et ados à rebondir quand ils sont mis de côté",
+      "summary": "Les adolescents sont hypersensibles au rejet. cottonbro studio/Pexels L’ESSENTIEL - L’été est une période où les enfants et les adolescents participent à de nouvelles activités et rencontrent de nouveaux groupes. Ils vont y nouer des amitiés mais parfois aussi se confronter au rejet. - Les parents peuvent aider leurs e",
+      "link": "https://theconversation.com/etre-rejete-par-les-autres-fait-mal-aider-enfants-et-ados-a-rebondir-quand-ils-sont-mis-de-cote-288361",
+      "image": "https://images.theconversation.com/files/750120/original/file-20260722-77-tkzke4.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-28T14:14:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aj6fw62",
+      "title": "Les sondages générés par IA séduisent des instituts, mais peuvent-ils vraiment refléter ce que pensent les gens ?",
+      "summary": "L’IA pourrait transformer la manière de concevoir et d’analyser les sondages, sans nécessairement remplacer les personnes interrogées. pics five Les instituts de sondage explorent de plus en plus l’idée de remplacer une partie de leurs répondants par des intelligences artificielles capables de simuler des profils humai",
+      "link": "https://theconversation.com/les-sondages-generes-par-ia-seduisent-des-instituts-mais-peuvent-ils-vraiment-refleter-ce-que-pensent-les-gens-284474",
+      "image": "https://images.theconversation.com/files/745589/original/file-20260702-64-5ja6ci.jpg?ixlib=rb-4.1.1&amp;rect=0%2C65%2C6636%2C4424&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-28T14:13:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "anceemi",
+      "title": "Crise de la culture : la théorie des quatre régimes culturels pour sortir de la controverse",
+      "summary": "La Fanfare d'occasio, Blandy-les-Tours, 2011. Flickr/Mathieu Luna, CC BY L’ESSENTIEL En France, il n’existe pas une seule réalité culturelle mais une multitude d’expériences de la culture, qui se vivent de façon très différentes. Certaines expériences reposent sur une forme de distance avec le public, quand d’autres l’",
+      "link": "https://theconversation.com/crise-de-la-culture-la-theorie-des-quatre-regimes-culturels-pour-sortir-de-la-controverse-286739",
+      "image": "https://images.theconversation.com/files/750494/original/file-20260728-57-1po9yx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C799%2C532&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-28T14:12:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +331,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +347,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +363,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +379,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -309,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -325,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -341,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,7 +509,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -377,7 +527,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -393,7 +543,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -409,43 +559,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "acdwi92",
-      "title": "Incendies : développer un « drone-avion » pour détecter les gaz toxiques dans les panaches de fumée",
-      "summary": "L’essentiel Les nuages de fumée générés par les incendies peuvent présenter une toxicité immédiate et sur le long terme. Aujourd’hui, ces toxicités sont évaluées par des prélèvements au sol et la position des retombées par des modélisations du panache de fumée. Pour accompagner les secours, et leur permettre de prendre",
-      "link": "https://theconversation.com/incendies-developper-un-drone-avion-pour-detecter-les-gaz-toxiques-dans-les-panaches-de-fumee-287227",
-      "image": "https://images.theconversation.com/files/748308/original/file-20260716-57-e7k4tj.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-25T06:56:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7y0qjb",
-      "title": "Alcool, tabac, cannabis : les jeunes se sont-ils vraiment détournés des drogues ?",
-      "summary": "L’essentiel C’est le résultat d’un changement dans les représentations et les politiques de prévention : la consommation de tabac baisse, et de manière bien plus marquée chez les jeunes. Si les nouvelles générations consomment moins d’alcool et de drogues illicites que les précédentes, cette évolution va de pair avec u",
-      "link": "https://theconversation.com/alcool-tabac-cannabis-les-jeunes-se-sont-ils-vraiment-detournes-des-drogues-286189",
-      "image": "https://counter.theconversation.com/content/286189/count.gif",
-      "publishedAt": "2026-07-25T06:58:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -461,39 +575,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ak0332f",
-      "title": "Quand les marques s’approprient le hip-hop pour paraître « cool » : entre opportunisme et engagement culturel",
-      "summary": "Le breakdance fait partie des disciplines de la sous-culture hip-hop. Boltron/CC BY-SA 2.0 , CC BY-SA S’approprier les codes du hip-hop, une culture née dans les marges, c’est un jeu risqué auquel se livrent de nombreuses marques. Dans une étude menée auprès de jeunes qui s’identifient à ce mouvement, nous mettons en a",
-      "link": "https://theconversation.com/quand-les-marques-sapproprient-le-hip-hop-pour-paraitre-cool-entre-opportunisme-et-engagement-culturel-282769",
-      "image": "https://images.theconversation.com/files/745874/original/file-20260703-57-ytxckr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C3888%2C2592&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-25T06:58:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "akdy3xm",
-      "title": "Les moines du punk : connaissez-vous la culture straight edge ?",
-      "summary": "Une croix en symbole de refus, signe de ralliement de la communauté straight edge. Archive ouverte WikiAestetics Auteur anonyme Date inconnue, CC BY Pas de drogue, pas d’alcool ; pour certains, pas de sexe, un régime végétalien, un mode de vie ascétique. Des restrictions choisies que l’on s’attendrait plus à trouver au",
-      "link": "https://theconversation.com/les-moines-du-punk-connaissez-vous-la-culture-straight-edge-287006",
-      "image": "https://images.theconversation.com/files/747290/original/file-20260712-57-m1os9.jpg?ixlib=rb-4.1.1&amp;rect=0%2C46%2C1108%2C738&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-25T06:58:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -510,86 +592,6 @@
       "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "af10aod",
-      "title": "Le prix du bœuf explose aux États-Unis et le pire pourrait être à venir",
-      "summary": "Le bœuf consommé aux États-Unis dépend largement des échanges avec le Canada et le Mexique. Mike Newbry/Unsplash, CC BY Le marché nord-américain du bœuf fonctionne comme un seul et même écosystème : les bovins traversent plusieurs fois les frontières avant d’arriver dans les assiettes. Les tensions commerciales voulues",
-      "link": "https://theconversation.com/le-prix-du-boeuf-explose-aux-etats-unis-et-le-pire-pourrait-etre-a-venir-288019",
-      "image": "https://images.theconversation.com/files/749752/original/file-20260723-78-wqivbr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5437%2C3624&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:51:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ag07hfb",
-      "title": "Ce que les dératiseurs nous apprennent sur le bonheur au travail",
-      "summary": "Le métier de dératiseur et désinsectiseur ne se résume pas à éliminer des nuisibles. Il demande des connaissances en biologie, un sens de l'enquête, de l'adaptation et beaucoup de psychologie. torook/Shutterstock Pourquoi des personnes passent-elles leurs journées à traquer des rats, des punaises de lit ou des cafards…",
-      "link": "https://theconversation.com/ce-que-les-deratiseurs-nous-apprennent-sur-le-bonheur-au-travail-288015",
-      "image": "https://images.theconversation.com/files/749155/original/file-20260622-57-cwtjqv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5400%2C3600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:51:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "asrq7m0",
-      "title": "« Je ne peux plus participer à cette mascarade » : pourquoi des guides en Antarctique quittent le métier de leurs rêves",
-      "summary": "Observer le changement climatique au plus près, tout en contribuant à amener toujours plus de visiteurs sur l’un des écosystèmes les plus fragiles au monde : c’est le dilemme qui a poussé plusieurs guides touristiques à quitter l’Antarctique. « On voyait d’immenses pans de glacier s’effondrer dans la mer, et on avait j",
-      "link": "https://theconversation.com/je-ne-peux-plus-participer-a-cette-mascarade-pourquoi-des-guides-en-antarctique-quittent-le-metier-de-leurs-reves-288207",
-      "image": "https://images.theconversation.com/files/747992/original/file-20260715-57-nchn77.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-24T09:50:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ay775s5",
-      "title": "Arêtes de poisson, quarantaine et vaccination : les armes des Aborigènes contre la variole",
-      "summary": "Les peuples wiradjuri, gomeroi et wailwan des plaines et des régions fluviales ne sont pas restés passifs face à la variole. Ici les plaines de Bathurst et la colonie de Nouvelle-Galles du Sud, représentées par Augustus Earle. Mitchell Library, State Library of New South Wales Une étude fondée sur un rapport médical ou",
-      "link": "https://theconversation.com/aretes-de-poisson-quarantaine-et-vaccination-les-armes-des-aborigenes-contre-la-variole-287598",
-      "image": "https://images.theconversation.com/files/747989/original/file-20260602-71-rmwkk4.jpg?ixlib=rb-4.1.1&amp;rect=8%2C55%2C678%2C452&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:49:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aa6czf6",
-      "title": "Le Royaume-Uni face au scandale des adoptions forcées de l’après-guerre",
-      "summary": "Au milieu du XXᵉ siècle, les mentalités à l'égard de la maternité différaient profondément selon que les femmes étaient mariées ou non. Imperial War Museums L’Angleterre est le dernier pays des îles Britanniques à reconnaître officiellement le traumatisme des adoptions forcées. Cette page sombre de l’histoire révèle co",
-      "link": "https://theconversation.com/le-royaume-uni-face-au-scandale-des-adoptions-forcees-de-lapres-guerre-287201",
-      "image": "https://images.theconversation.com/files/746839/original/file-20260701-57-75y6zx.jpg?ixlib=rb-4.1.1&amp;rect=3%2C0%2C792%2C528&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:48:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
