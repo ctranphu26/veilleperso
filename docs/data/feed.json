@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T08:31:42.173Z",
+  "generatedAt": "2026-07-28T14:03:37.589Z",
   "themes": [
     {
       "id": "education-medias",
@@ -121,7 +121,7 @@
     {
       "id": "ardl4so",
       "title": "Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ?",
-      "summary": "4 femmes, 4 hommes : le Journal officiel de ce jour indique 8 changements de rectrices et recteurs pour le 3 août prochain. Nathalie Mons garde le soleil, elle L’article Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ? est apparu en premier sur Le Café pédagogique.",
+      "summary": "4 femmes, 4 hommes : le Journal officiel de ce jour indique 8 changements de rectrices et recteurs pour le 3 août prochain. Plusieurs conseillers sont ainsi recasés avant les L’article Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ? est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/07/28/qui-sont-les-8-recteurs-qui-arrivent-a-la-rentree-2026/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/cabinet-ministre-rue-de-Grenelle-Cafe-pedagogique-e1730662316876-300x249.jpg",
       "publishedAt": "2026-07-28T07:02:46.000Z",
@@ -131,7 +131,25 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ah83g16",
+      "title": "IA & Education : encore quelques jours pour recevoir ce livre en cadeau",
+      "summary": "Le Café pédagogique vous offre cet ouvrage pour toute adhésion à l’association éditrice du Café pédagogique. Soutenez le Café pédagogique et recevez chez vous gratuitement le livre L’Ecole face à L’article IA & Education : encore quelques jours pour recevoir ce livre en cadeau est apparu en premier sur Le Café pédagogi",
+      "link": "https://www.cafepedagogique.net/2026/07/28/offre-speciale-soutenez-le-cafe-et-recevez-ce-livre-en-cadeau-13/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Couverture-Livre-ESF-1-200x300.jpg",
+      "publishedAt": "2026-07-28T13:27:18.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +165,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "au3fk5x",
@@ -163,8 +181,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ae5r88d",
@@ -179,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -195,7 +213,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -211,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -227,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -243,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -259,7 +277,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -275,7 +293,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -291,7 +309,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -307,7 +325,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -323,7 +341,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -341,8 +359,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aek2zre",
@@ -359,8 +377,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amdb23o",
@@ -375,12 +393,12 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "agv16fn",
-      "title": "Pourquoi les hommes mangent ils plus de viande que les femmes ?",
+      "title": "Pourquoi les hommes mangent-ils plus de viande que les femmes ?",
       "summary": "Réduire notre consommation de viande est l’un des leviers les plus efficaces pour limiter l’impact environnemental de notre alimentation. Pourtant, les hommes restent nettement plus réticents que les femmes à adopter des régimes végétariens ou végétaliens – et même à consommer des substituts de viande. Une résistance q",
       "link": "https://theconversation.com/pourquoi-les-hommes-mangent-ils-plus-de-viande-que-les-femmes-285988",
       "image": "https://images.theconversation.com/files/744008/original/file-20260624-3928-xte2j9.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
@@ -391,8 +409,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "acdwi92",
@@ -409,7 +427,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +445,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +461,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +477,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -475,87 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "af10aod",
-      "title": "Le prix du bœuf explose aux États-Unis et le pire pourrait être à venir",
-      "summary": "Le bœuf consommé aux États-Unis dépend largement des échanges avec le Canada et le Mexique. Mike Newbry/Unsplash, CC BY Le marché nord-américain du bœuf fonctionne comme un seul et même écosystème : les bovins traversent plusieurs fois les frontières avant d’arriver dans les assiettes. Les tensions commerciales voulues",
-      "link": "https://theconversation.com/le-prix-du-boeuf-explose-aux-etats-unis-et-le-pire-pourrait-etre-a-venir-288019",
-      "image": "https://images.theconversation.com/files/749752/original/file-20260723-78-wqivbr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5437%2C3624&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:51:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ag07hfb",
-      "title": "Ce que les dératiseurs nous apprennent sur le bonheur au travail",
-      "summary": "Le métier de dératiseur et désinsectiseur ne se résume pas à éliminer des nuisibles. Il demande des connaissances en biologie, un sens de l'enquête, de l'adaptation et beaucoup de psychologie. torook/Shutterstock Pourquoi des personnes passent-elles leurs journées à traquer des rats, des punaises de lit ou des cafards…",
-      "link": "https://theconversation.com/ce-que-les-deratiseurs-nous-apprennent-sur-le-bonheur-au-travail-288015",
-      "image": "https://images.theconversation.com/files/749155/original/file-20260622-57-cwtjqv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5400%2C3600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:51:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "asrq7m0",
-      "title": "« Je ne peux plus participer à cette mascarade » : pourquoi des guides en Antarctique quittent le métier de leurs rêves",
-      "summary": "Observer le changement climatique au plus près, tout en contribuant à amener toujours plus de visiteurs sur l’un des écosystèmes les plus fragiles au monde : c’est le dilemme qui a poussé plusieurs guides touristiques à quitter l’Antarctique. « On voyait d’immenses pans de glacier s’effondrer dans la mer, et on avait j",
-      "link": "https://theconversation.com/je-ne-peux-plus-participer-a-cette-mascarade-pourquoi-des-guides-en-antarctique-quittent-le-metier-de-leurs-reves-288207",
-      "image": "https://images.theconversation.com/files/747992/original/file-20260715-57-nchn77.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-24T09:50:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ay775s5",
-      "title": "Arêtes de poisson, quarantaine et vaccination : les armes des Aborigènes contre la variole",
-      "summary": "Les peuples wiradjuri, gomeroi et wailwan des plaines et des régions fluviales ne sont pas restés passifs face à la variole. Ici les plaines de Bathurst et la colonie de Nouvelle-Galles du Sud, représentées par Augustus Earle. Mitchell Library, State Library of New South Wales Une étude fondée sur un rapport médical ou",
-      "link": "https://theconversation.com/aretes-de-poisson-quarantaine-et-vaccination-les-armes-des-aborigenes-contre-la-variole-287598",
-      "image": "https://images.theconversation.com/files/747989/original/file-20260602-71-rmwkk4.jpg?ixlib=rb-4.1.1&amp;rect=8%2C55%2C678%2C452&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:49:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aa6czf6",
-      "title": "Le Royaume-Uni face au scandale des adoptions forcées de l’après-guerre",
-      "summary": "Au milieu du XXᵉ siècle, les mentalités à l'égard de la maternité différaient profondément selon que les femmes étaient mariées ou non. Imperial War Museums L’Angleterre est le dernier pays des îles Britanniques à reconnaître officiellement le traumatisme des adoptions forcées. Cette page sombre de l’histoire révèle co",
-      "link": "https://theconversation.com/le-royaume-uni-face-au-scandale-des-adoptions-forcees-de-lapres-guerre-287201",
-      "image": "https://images.theconversation.com/files/746839/original/file-20260701-57-75y6zx.jpg?ixlib=rb-4.1.1&amp;rect=3%2C0%2C792%2C528&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-24T09:48:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -575,6 +513,86 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "af10aod",
+      "title": "Le prix du bœuf explose aux États-Unis et le pire pourrait être à venir",
+      "summary": "Le bœuf consommé aux États-Unis dépend largement des échanges avec le Canada et le Mexique. Mike Newbry/Unsplash, CC BY Le marché nord-américain du bœuf fonctionne comme un seul et même écosystème : les bovins traversent plusieurs fois les frontières avant d’arriver dans les assiettes. Les tensions commerciales voulues",
+      "link": "https://theconversation.com/le-prix-du-boeuf-explose-aux-etats-unis-et-le-pire-pourrait-etre-a-venir-288019",
+      "image": "https://images.theconversation.com/files/749752/original/file-20260723-78-wqivbr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5437%2C3624&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-24T09:51:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ag07hfb",
+      "title": "Ce que les dératiseurs nous apprennent sur le bonheur au travail",
+      "summary": "Le métier de dératiseur et désinsectiseur ne se résume pas à éliminer des nuisibles. Il demande des connaissances en biologie, un sens de l'enquête, de l'adaptation et beaucoup de psychologie. torook/Shutterstock Pourquoi des personnes passent-elles leurs journées à traquer des rats, des punaises de lit ou des cafards…",
+      "link": "https://theconversation.com/ce-que-les-deratiseurs-nous-apprennent-sur-le-bonheur-au-travail-288015",
+      "image": "https://images.theconversation.com/files/749155/original/file-20260622-57-cwtjqv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5400%2C3600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-24T09:51:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "asrq7m0",
+      "title": "« Je ne peux plus participer à cette mascarade » : pourquoi des guides en Antarctique quittent le métier de leurs rêves",
+      "summary": "Observer le changement climatique au plus près, tout en contribuant à amener toujours plus de visiteurs sur l’un des écosystèmes les plus fragiles au monde : c’est le dilemme qui a poussé plusieurs guides touristiques à quitter l’Antarctique. « On voyait d’immenses pans de glacier s’effondrer dans la mer, et on avait j",
+      "link": "https://theconversation.com/je-ne-peux-plus-participer-a-cette-mascarade-pourquoi-des-guides-en-antarctique-quittent-le-metier-de-leurs-reves-288207",
+      "image": "https://images.theconversation.com/files/747992/original/file-20260715-57-nchn77.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-24T09:50:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ay775s5",
+      "title": "Arêtes de poisson, quarantaine et vaccination : les armes des Aborigènes contre la variole",
+      "summary": "Les peuples wiradjuri, gomeroi et wailwan des plaines et des régions fluviales ne sont pas restés passifs face à la variole. Ici les plaines de Bathurst et la colonie de Nouvelle-Galles du Sud, représentées par Augustus Earle. Mitchell Library, State Library of New South Wales Une étude fondée sur un rapport médical ou",
+      "link": "https://theconversation.com/aretes-de-poisson-quarantaine-et-vaccination-les-armes-des-aborigenes-contre-la-variole-287598",
+      "image": "https://images.theconversation.com/files/747989/original/file-20260602-71-rmwkk4.jpg?ixlib=rb-4.1.1&amp;rect=8%2C55%2C678%2C452&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-24T09:49:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aa6czf6",
+      "title": "Le Royaume-Uni face au scandale des adoptions forcées de l’après-guerre",
+      "summary": "Au milieu du XXᵉ siècle, les mentalités à l'égard de la maternité différaient profondément selon que les femmes étaient mariées ou non. Imperial War Museums L’Angleterre est le dernier pays des îles Britanniques à reconnaître officiellement le traumatisme des adoptions forcées. Cette page sombre de l’histoire révèle co",
+      "link": "https://theconversation.com/le-royaume-uni-face-au-scandale-des-adoptions-forcees-de-lapres-guerre-287201",
+      "image": "https://images.theconversation.com/files/746839/original/file-20260701-57-75y6zx.jpg?ixlib=rb-4.1.1&amp;rect=3%2C0%2C792%2C528&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-24T09:48:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "ap78oed",
       "title": "Le MEDEF entre un peu plus dans l’école : ce que prévoit la nouvelle convention avec l’Éducation nationale",
       "summary": "Alors que plusieurs parlementaires, des syndicats enseignants, des familles endeuillées proposent de mettre fin au stage de seconde et de réformer celui de troisième, la convention signée le 14 avril L’article Le MEDEF entre un peu plus dans l’école : ce que prévoit la nouvelle convention avec l’Éducation nationale est",
@@ -591,24 +609,6 @@
       "relevance": 81,
       "relevanceLevel": "haute",
       "urgency": 10,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqhsrer",
-      "title": "Ce que les fins d’année scolaire disent du métier d’enseignant",
-      "summary": "Marion Fellrath raconte et analyse ces journées si particulières qui marquent la fin de l’année scolaire. Entre joie, gratitude, rites de passage, travail de deuil et désir de recommencer, elle L’article Ce que les fins d’année scolaire disent du métier d’enseignant est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/03/ce-que-les-fins-dannee-scolaire-disent-du-metier-denseignant/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/Marion-Fellrath-a-2025-e1772997542816-298x300.jpeg",
-      "publishedAt": "2026-07-03T04:00:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 0,
       "urgencyLevel": "basse"
     },
     {
