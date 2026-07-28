@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T02:26:40.186Z",
+  "generatedAt": "2026-07-28T08:31:42.173Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "ardl4so",
+      "title": "Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ?",
+      "summary": "4 femmes, 4 hommes : le Journal officiel de ce jour indique 8 changements de rectrices et recteurs pour le 3 août prochain. Nathalie Mons garde le soleil, elle L’article Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/28/qui-sont-les-8-recteurs-qui-arrivent-a-la-rentree-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/cabinet-ministre-rue-de-Grenelle-Cafe-pedagogique-e1730662316876-300x249.jpg",
+      "publishedAt": "2026-07-28T07:02:46.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "afvzj78",
       "title": "Loi d’urgence agricole : pourquoi la droite et le centre ne lâchent rien sur les néonicotinoïdes et le stockage de l’eau",
       "summary": "La loi d’urgence agricole a été adoptée par le 21 juillet. Elle réaffirme les choix controversés de la loi « Duplomb » de juillet 2025, autorisant certains néonicotinoïdes dangereux et facilitant le stockage de l’eau. Comment expliquer une telle obstination, malgré une importante mobilisation citoyenne et la censure du",
@@ -131,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -163,8 +179,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6ybzus",
@@ -179,8 +195,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "as5n2au",
@@ -195,7 +211,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -211,7 +227,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -227,7 +243,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -243,7 +259,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -259,7 +275,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -275,7 +291,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -291,7 +307,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -307,7 +323,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -325,7 +341,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -343,7 +359,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,7 +375,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -375,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -393,8 +409,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a7y0qjb",
@@ -411,7 +427,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -507,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -523,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -539,7 +555,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -573,24 +589,6 @@
         "enseignant"
       ],
       "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 10,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a83kzx4",
-      "title": "À la rentrée, parions sur l’École : un manifeste pour 2027 (sortie le 21 août prochain !)",
-      "summary": "A l’heure de la pause estivale, le Café pédagogique vous souhaite de bonnes vacances, ressourçantes et rafraichissantes. On vous retrouve à la rentrée sous le signe du collectif avec la L’article À la rentrée, parions sur l’École : un manifeste pour 2027 (sortie le 21 août prochain !) est apparu en premier sur Le Café ",
-      "link": "https://www.cafepedagogique.net/2026/07/03/a-la-rentree-parions-sur-lecole-un-manifeste-pour-2027-sortie-le-21-aout-prochain/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/breve-1-198x300.png",
-      "publishedAt": "2026-07-03T03:45:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
       "relevanceLevel": "haute",
       "urgency": 10,
       "urgencyLevel": "basse"
