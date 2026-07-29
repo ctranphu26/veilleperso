@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T14:07:04.972Z",
+  "generatedAt": "2026-07-29T19:13:23.173Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,103 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2j7xk3",
+      "title": "Fusillade de Montréal : la haine des femmes n’a pas de parti, montre un manifeste laissé par le tireur",
+      "summary": "Une fusillade survenue lundi 22 juin à Montréal a fait trois morts, dont l’assaillant, qui a laissé derrière lui un manifeste puisant dans l’idéologie masculiniste. Un patchwork idéologique qu’il serait vain de chercher à positionner sur l’échiquier politique. Seule constante : la haine des femmes et la conviction que ",
+      "link": "https://theconversation.com/fusillade-de-montreal-la-haine-des-femmes-na-pas-de-parti-montre-un-manifeste-laisse-par-le-tireur-287107",
+      "image": "https://counter.theconversation.com/content/287107/count.gif",
+      "publishedAt": "2026-07-29T14:28:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac8sus9",
+      "title": "Comment la série « The White Lotus » remet le polar au goût du jour",
+      "summary": "The White Lotus, saison 3, un huis-clos entre ultra-privilégiés, comme dans chaque saison. HBO Alors que la saison 4 de The White Lotus est en cours de tournage sur la Côte d’Azur, la série de Mike White confirme sa recette : des décors de rêve comme théâtre de violence sociale. Hôtels de luxe, paysages exotiques, plag",
+      "link": "https://theconversation.com/comment-la-serie-the-white-lotus-remet-le-polar-au-gout-du-jour-283209",
+      "image": "https://images.theconversation.com/files/750496/original/file-20260728-57-aac0y6.png?ixlib=rb-4.1.1&amp;rect=44%2C0%2C2108%2C1405&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-29T14:27:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3eb69b",
+      "title": "L’Ukraine peut-elle gagner la guerre ?",
+      "summary": "L’ESSENTIEL L’Ukraine parvient de plus en plus à causer des dommages importants à divers équipements un peu partout sur le territoire de la Russie. Parallèlement, Volodymyr Zelensky enregistre certains succès diplomatiques au G7, à l’OTAN ou encore dans les pays du Golfe. Ces signes encourageants ne doivent pas être su",
+      "link": "https://theconversation.com/lukraine-peut-elle-gagner-la-guerre-288358",
+      "image": "https://images.theconversation.com/files/750278/original/file-20260727-68-ano0by.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-29T14:20:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6ly4n6",
+      "title": "Les halophytes, ces plantes de plage qui résistent contre vents et marées",
+      "summary": "Les dunes côtières, paradis des plantes qui composent avec le sel. Ici Cakile maritima, Matthiola sinuata et Ammophila arenaria. Delphine Arbelet-Bonnin, Fourni par l'auteur On les voit à peine, les yeux tournés vers la mer, et pourtant : les plantes des plages présentent des caractéristiques fascinantes. Celles-ci tie",
+      "link": "https://theconversation.com/les-halophytes-ces-plantes-de-plage-qui-resistent-contre-vents-et-marees-287101",
+      "image": "https://images.theconversation.com/files/747415/original/file-20260713-56-n8h1wd.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1386%2C924&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-29T14:19:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7ushyn",
+      "title": "Les ailes des papillons Morpho inspireront-elles les centrales solaires du futur ?",
+      "summary": "Les ailes du Morpho sont le résultat d’une longue évolution, qui a fait émerger de minuscules structures bien particulières qui jouent avec la lumière. Kiya Golara, Unsplash, CC BY En apprenant à manipuler la lumière avec la même finesse que les ailes d’un papillon, nous pourrions concevoir des centrales solaires plus ",
+      "link": "https://theconversation.com/les-ailes-des-papillons-morpho-inspireront-elles-les-centrales-solaires-du-futur-287015",
+      "image": "https://images.theconversation.com/files/748301/original/file-20260716-57-g32zzm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1984%2C3836%2C2558&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-29T14:19:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3oybpu",
+      "title": "Kidney disease is also a brain disease. Here’s why",
+      "summary": "Generally speaking, when we think of ‘kidney disease’, we think of dialysis or a kidney transplant. But it is less well known that kidney disease, which affects more than 10 per cent of the world’s population, can have significant consequences for the functioning of other organs. For example, the patients also suffer f",
+      "link": "https://theconversation.com/kidney-disease-is-also-a-brain-disease-heres-why-288234",
+      "image": "https://images.theconversation.com/files/750585/original/file-20260728-57-m9jkb2.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-29T14:14:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +245,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -168,7 +264,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -186,7 +282,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -202,7 +298,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -218,7 +314,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -234,8 +330,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ardl4so",
@@ -250,7 +346,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -268,7 +364,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +382,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +400,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +416,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +432,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -352,7 +448,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -368,7 +464,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -384,7 +480,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -400,7 +496,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -418,7 +514,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -434,39 +530,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "au3fk5x",
-      "title": "Avec la loi d’urgence agricole, la France contrevient au droit international sur les zones humides",
-      "summary": "Tandis qu’une partie du pays est touchée par des restrictions maximales d’utilisation de l’eau potable, le Parlement vient d’adopter la loi d’urgence agricole, qui prévoit le doublement des capacités de stockage de l’eau pour l’irrigation agricole à l’horizon 2035. Or, cette loi, conjuguée au contexte réglementaire fra",
-      "link": "https://theconversation.com/avec-la-loi-durgence-agricole-la-france-contrevient-au-droit-international-sur-les-zones-humides-288212",
-      "image": "https://images.theconversation.com/files/749833/original/file-20260723-57-9art84.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-27T13:16:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ae5r88d",
-      "title": "Les lanceurs d’alerte au travail se censurent, car ils sont ignorés par leur hiérarchie. Comment éviter d’en arriver à un drame ?",
-      "summary": "15 % des salariés estiment qu’il y a des irrégularités dans leur organisation. Très peu d’entre eux font part de ces préoccupations à la direction ou via un canal dédié aux lanceurs d’alerte. Alors, avant que la vie d’un collègue soit en danger, comment signaler un dysfonctionnement ? Qu’il s’agisse du scandale pharmac",
-      "link": "https://theconversation.com/les-lanceurs-dalerte-au-travail-se-censurent-car-ils-sont-ignores-par-leur-hierarchie-comment-eviter-den-arriver-a-un-drame-283186",
-      "image": "https://counter.theconversation.com/content/283186/count.gif",
-      "publishedAt": "2026-07-27T10:11:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -482,7 +546,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -498,8 +562,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "al9y4mc",
@@ -514,8 +578,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aoncsih",
@@ -530,71 +594,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aptar3x",
-      "title": "L’hypominéralisation molaire-incisive, une anomalie dentaire mal connue qui touche des millions d’enfants",
-      "summary": "Les dents de lait de votre enfant, délicates et d’un blanc crayeux, tombent. À votre grande surprise, les dents qui poussent à leur place sont fragiles, et présentent des taches jaune-brun. Cette pathologie dentaire est appelée hypominéralisation molaire-incisive. Il s’agit d’une affection presque aussi fréquente que l",
-      "link": "https://theconversation.com/lhypomineralisation-molaire-incisive-une-anomalie-dentaire-mal-connue-qui-touche-des-millions-denfants-286284",
-      "image": "https://counter.theconversation.com/content/286284/count.gif",
-      "publishedAt": "2026-07-27T13:17:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aptod6f",
-      "title": "De la télévision au tourisme : comment Camping Paradis transforme la fiction en expérience",
-      "summary": "Vous aimez regarder Camping Paradis ? Eh bien, vivez l’expérience maintenant ! La série à succès de TF1 labellise désormais des campings pour proposer à ses fans de vivre « comme s’ils y étaient ». Que traduit cette évolution sur les attentes des consommateurs ? Et sur le modèle économique des fictions ? Depuis sa prem",
-      "link": "https://theconversation.com/de-la-television-au-tourisme-comment-camping-paradis-transforme-la-fiction-en-experience-281902",
-      "image": "https://counter.theconversation.com/content/281902/count.gif",
-      "publishedAt": "2026-07-27T13:17:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2tbiyp",
-      "title": "Ulysse aux mille ruses était-il aussi un athlète ?",
-      "summary": "Athlètes dans la palestre avec des entraîneurs et un flûtiste. Athènes, attribué à Nikoxenos, fin de l'époque archaïque, vers 520-510 av. J.-C. Wikipédia/ArchaiOptix, CC BY-SA Dans le film de Christopher Nolan, Ulysse apparaît à la fois comme un homme rusé et doté de capacités physiques hors normes. Mais dans l’épopée ",
-      "link": "https://theconversation.com/ulysse-aux-mille-ruses-etait-il-aussi-un-athlete-288213",
-      "image": "https://images.theconversation.com/files/750210/original/file-20260727-83-bip1jq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5472%2C3648&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-27T13:16:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ag9pvnq",
-      "title": "Peut-on s’inspirer du Japon pour repenser la durabilité de la filière textile en France ?",
-      "summary": "Vous voyez trois kimonos ? C'est aussi un modèle original de reconditionnement de l'industrie textile. Damian Hutter/Unsplash, CC BY Re conditionner le textile pourrait être un moyen de réduire l’empreinte écologique du secteur. Dans la seconde moitié du XXe siècle, le Japon pratiquait encore la réutilisation à grande ",
-      "link": "https://theconversation.com/peut-on-sinspirer-du-japon-pour-repenser-la-durabilite-de-la-filiere-textile-en-france-281779",
-      "image": "https://images.theconversation.com/files/739347/original/file-20260602-85-341eli.jpg?ixlib=rb-4.1.1&amp;rect=0%2C70%2C3508%2C2338&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-27T10:13:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
