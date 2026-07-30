@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T13:57:10.447Z",
+  "generatedAt": "2026-07-30T19:23:49.605Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "a1ejtxa",
+      "title": "Vente de la Coupe du monde : le bras de fer entre la FIFA et l’Europe",
+      "summary": "L’ESSENTIEL Le président de la FIFA Gianni Infantino veut ouvrir les compétitions mondiales à des investisseurs privés via une nouvelle filiale commerciale. L’UEFA et plusieurs fédérations européennes dénoncent un projet contraire à l’esprit de ces compétitions et évoquent un boycott. Au-delà de ce bras de fer, c’est l",
+      "link": "https://theconversation.com/vente-de-la-coupe-du-monde-le-bras-de-fer-entre-la-fifa-et-leurope-288759",
+      "image": "https://counter.theconversation.com/content/288759/count.gif",
+      "publishedAt": "2026-07-30T15:28:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "atbf65j",
       "title": "Les limites de l’économie, au-delà des caricatures",
       "summary": "Les critiques d’une science économique hors sol et technocratique méritent d’être entendues, mais elles ignorent souvent la transformation profonde de la discipline. Devenue largement empirique, celle-ci mobilise l’identification causale pour analyser les politiques publiques et les comportements, tandis que ses approc",
@@ -133,7 +149,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -197,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afaud1w",
@@ -213,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +277,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,7 +293,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,7 +309,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -309,7 +325,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +343,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -346,7 +362,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -364,7 +380,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -380,7 +396,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -396,7 +412,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -412,7 +428,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -428,7 +444,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -446,40 +462,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3u2e1y",
-      "title": "Incendies en Gironde : la logistique au cœur de l’évacuation massive d’une population",
-      "summary": "L’ESSENTIEL Les mégafeux observés actuellement en Gironde ne mettent pas seulement les services d’incendie et de secours à l’épreuve. La lutte contre l’incendie passe aussi par la mise au point d’une logistique efficiente pour évacuer un vaste territoire sans le paralyser. De précédentes catastrophes ont montré le rôle",
-      "link": "https://theconversation.com/incendies-en-gironde-la-logistique-au-coeur-de-levacuation-massive-dune-population-288440",
-      "image": "https://counter.theconversation.com/content/288440/count.gif",
-      "publishedAt": "2026-07-28T14:20:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ak1hmb4",
-      "title": "Les feux de forêt menacent-ils les installations gazières ?",
-      "summary": "L'essentiel Sous l'effet du changement climatique, de l'évolution de l'occupation des sols et des activités humaines, les incendies deviennent de plus en plus intenses et difficiles à maîtriser. Les incendies de végétation ne menacent pas seulement les forêts et les habitations. Ils peuvent mettre également en danger d",
-      "link": "https://theconversation.com/les-feux-de-foret-menacent-ils-les-installations-gazieres-287402",
-      "image": "https://images.theconversation.com/files/748855/original/file-20260720-57-4ok8u2.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-28T14:19:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "appemo",
@@ -496,8 +480,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ah83g16",
@@ -514,8 +498,40 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3u2e1y",
+      "title": "Incendies en Gironde : la logistique au cœur de l’évacuation massive d’une population",
+      "summary": "L’ESSENTIEL Les mégafeux observés actuellement en Gironde ne mettent pas seulement les services d’incendie et de secours à l’épreuve. La lutte contre l’incendie passe aussi par la mise au point d’une logistique efficiente pour évacuer un vaste territoire sans le paralyser. De précédentes catastrophes ont montré le rôle",
+      "link": "https://theconversation.com/incendies-en-gironde-la-logistique-au-coeur-de-levacuation-massive-dune-population-288440",
+      "image": "https://counter.theconversation.com/content/288440/count.gif",
+      "publishedAt": "2026-07-28T14:20:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ak1hmb4",
+      "title": "Les feux de forêt menacent-ils les installations gazières ?",
+      "summary": "L'essentiel Sous l'effet du changement climatique, de l'évolution de l'occupation des sols et des activités humaines, les incendies deviennent de plus en plus intenses et difficiles à maîtriser. Les incendies de végétation ne menacent pas seulement les forêts et les habitations. Ils peuvent mettre également en danger d",
+      "link": "https://theconversation.com/les-feux-de-foret-menacent-ils-les-installations-gazieres-287402",
+      "image": "https://images.theconversation.com/files/748855/original/file-20260720-57-4ok8u2.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-28T14:19:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "au1y8m3",
@@ -530,8 +546,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "at5zf40",
@@ -546,8 +562,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aj6fw62",
@@ -562,24 +578,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anceemi",
-      "title": "Crise de la culture : la théorie des quatre régimes culturels pour sortir de la controverse",
-      "summary": "La Fanfare d'occasio, Blandy-les-Tours, 2011. Flickr/Mathieu Luna, CC BY L’ESSENTIEL En France, il n’existe pas une seule réalité culturelle mais une multitude d’expériences de la culture, qui se vivent de façon très différentes. Certaines expériences reposent sur une forme de distance avec le public, quand d’autres l’",
-      "link": "https://theconversation.com/crise-de-la-culture-la-theorie-des-quatre-regimes-culturels-pour-sortir-de-la-controverse-286739",
-      "image": "https://images.theconversation.com/files/750494/original/file-20260728-57-1po9yx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C799%2C532&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-28T14:12:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a6ybzus",
@@ -594,7 +594,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
