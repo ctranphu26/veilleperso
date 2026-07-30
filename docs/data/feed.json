@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T08:24:16.615Z",
+  "generatedAt": "2026-07-30T13:57:10.447Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,88 @@
   "count": 35,
   "items": [
     {
+      "id": "atbf65j",
+      "title": "Les limites de l’économie, au-delà des caricatures",
+      "summary": "Les critiques d’une science économique hors sol et technocratique méritent d’être entendues, mais elles ignorent souvent la transformation profonde de la discipline. Devenue largement empirique, celle-ci mobilise l’identification causale pour analyser les politiques publiques et les comportements, tandis que ses approc",
+      "link": "https://theconversation.com/les-limites-de-leconomie-au-dela-des-caricatures-287237",
+      "image": "https://counter.theconversation.com/content/287237/count.gif",
+      "publishedAt": "2026-07-30T13:16:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arc9ft7",
+      "title": "La caméra au service de la recherche : l’expérience d’un documentaire à Madagascar",
+      "summary": "Scène de tournage du film « Histoires paysannes des Hautes Terres de Madagascar », réalisée au sein d’une parcelle agricole. © Mathilde Le Graciet, Fourni par l'auteur Et si la caméra était bien plus qu’un moyen de présenter des résultats scientifiques ? En réalisant un documentaire auprès d’agriculteurs des Hautes Ter",
+      "link": "https://theconversation.com/la-camera-au-service-de-la-recherche-lexperience-dun-documentaire-a-madagascar-287405",
+      "image": "https://images.theconversation.com/files/750118/original/file-20260725-57-rkhuli.png?ixlib=rb-4.1.1&amp;rect=0%2C204%2C2486%2C1657&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-30T13:16:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aeuvkt1",
+      "title": "Habiter en hauteur : un immobilier cher et recherché, mais vulnérable aux fortes chaleurs",
+      "summary": "L’ESSENTIEL Dans les principales zones urbaines françaises, les logements se vendent d’autant plus cher que l’on monte dans les étages : plus de lumière, plus de vue, moins de vis-à-vis. Ces hauts étages sont pourtant les plus vulnérables à la chaleur en période de canicule, selon une enquête geographique récente. Les ",
+      "link": "https://theconversation.com/habiter-en-hauteur-un-immobilier-cher-et-recherche-mais-vulnerable-aux-fortes-chaleurs-288423",
+      "image": "https://images.theconversation.com/files/750270/original/file-20260727-57-2ndqoc.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-30T13:15:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5uxupp",
+      "title": "Qu’est-ce que la littérature « jeune adulte » ?",
+      "summary": "Les romans « jeune adulte » mettent en scène des héros qui font face à des choix de vie, explorent leur identité, vivent leurs premiers amours ou luttent dans des mondes extraordinaires. Pexels, CC BY Les romans de la littérature dite « jeune adulte » comportent des caractéristiques communes, bien que la catégorie rest",
+      "link": "https://theconversation.com/quest-ce-que-la-litterature-jeune-adulte-288455",
+      "image": "https://images.theconversation.com/files/750634/original/file-20260728-57-u88h9k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-30T13:15:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agvy8cc",
+      "title": "Cadmium : des laitues peuvent-elles nous aider à dépolluer les sols ?",
+      "summary": "Utiliser des plantes pour dépolluer les sols, c’est ce que propose la phytoremédiation. Cette aire de recherche est en pleine expansion alors que les inquiétudes liées aux métaux toxiques se multiplient. Mais un problème demeure : ces processus basés sur les plantes restent encore assez lent. Pour remédier à cela, une ",
+      "link": "https://theconversation.com/cadmium-des-laitues-peuvent-elles-nous-aider-a-depolluer-les-sols-285419",
+      "image": "https://images.theconversation.com/files/743581/original/file-20260623-71-5ns86m.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-30T08:41:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "afaud1w",
       "title": "Forces de l’ordre et recours aux armes : comment la Révolution française a posé les termes du débat",
       "summary": "Commandant de l'armée Parisienne donnant des ordres à un Aide de Camp. Gendarmerie à cheval. Musée Carnavalet, via Wikimedia commons Quand les policiers et les gendarmes peuvent-ils avoir recours à leurs armes ? Ces usages sont-ils bien encadrés par la loi ? Ou les forces de l’ordre disposent-elles de prérogatives trop",
@@ -131,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -147,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -163,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -179,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -195,7 +277,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -211,7 +293,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -227,7 +309,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +327,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -264,7 +346,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -282,7 +364,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -298,7 +380,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -314,7 +396,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -330,7 +412,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -346,7 +428,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -364,7 +446,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3u2e1y",
+      "title": "Incendies en Gironde : la logistique au cœur de l’évacuation massive d’une population",
+      "summary": "L’ESSENTIEL Les mégafeux observés actuellement en Gironde ne mettent pas seulement les services d’incendie et de secours à l’épreuve. La lutte contre l’incendie passe aussi par la mise au point d’une logistique efficiente pour évacuer un vaste territoire sans le paralyser. De précédentes catastrophes ont montré le rôle",
+      "link": "https://theconversation.com/incendies-en-gironde-la-logistique-au-coeur-de-levacuation-massive-dune-population-288440",
+      "image": "https://counter.theconversation.com/content/288440/count.gif",
+      "publishedAt": "2026-07-28T14:20:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ak1hmb4",
+      "title": "Les feux de forêt menacent-ils les installations gazières ?",
+      "summary": "L'essentiel Sous l'effet du changement climatique, de l'évolution de l'occupation des sols et des activités humaines, les incendies deviennent de plus en plus intenses et difficiles à maîtriser. Les incendies de végétation ne menacent pas seulement les forêts et les habitations. Ils peuvent mettre également en danger d",
+      "link": "https://theconversation.com/les-feux-de-foret-menacent-ils-les-installations-gazieres-287402",
+      "image": "https://images.theconversation.com/files/748855/original/file-20260720-57-4ok8u2.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-28T14:19:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -382,121 +496,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ao64joa",
-      "title": "Carbon capture explained: how EU member states are funding and rolling out the technology to clean up Europe’s fossil fuel industry",
-      "summary": "Carbon capture and storage (CCS) underpins the European Union’s (EU) strategy to decarbonise industries such as cement, steel, and chemicals. It involves capturing carbon dioxide (CO2) from industrial facilities, transporting it by pipeline or shipping and storing it permanently in geological formations. According to t",
-      "link": "https://theconversation.com/carbon-capture-explained-how-eu-member-states-are-funding-and-rolling-out-the-technology-to-clean-up-europes-fossil-fuel-industry-287712",
-      "image": "https://images.theconversation.com/files/749963/original/file-20260724-57-hrb2vu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C389%2C7380%2C4151&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-28T14:11:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3u2e1y",
-      "title": "Incendies en Gironde : la logistique au cœur de l’évacuation massive d’une population",
-      "summary": "L’ESSENTIEL Les mégafeux observés actuellement en Gironde ne mettent pas seulement les services d’incendie et de secours à l’épreuve. La lutte contre l’incendie passe aussi par la mise au point d’une logistique efficiente pour évacuer un vaste territoire sans le paralyser. De précédentes catastrophes ont montré le rôle",
-      "link": "https://theconversation.com/incendies-en-gironde-la-logistique-au-coeur-de-levacuation-massive-dune-population-288440",
-      "image": "https://counter.theconversation.com/content/288440/count.gif",
-      "publishedAt": "2026-07-28T14:20:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ak1hmb4",
-      "title": "Les feux de forêt menacent-ils les installations gazières ?",
-      "summary": "L'essentiel Sous l'effet du changement climatique, de l'évolution de l'occupation des sols et des activités humaines, les incendies deviennent de plus en plus intenses et difficiles à maîtriser. Les incendies de végétation ne menacent pas seulement les forêts et les habitations. Ils peuvent mettre également en danger d",
-      "link": "https://theconversation.com/les-feux-de-foret-menacent-ils-les-installations-gazieres-287402",
-      "image": "https://images.theconversation.com/files/748855/original/file-20260720-57-4ok8u2.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-28T14:19:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "au1y8m3",
-      "title": "Comment X est devenu l’un des théâtres de la guerre en Ukraine",
-      "summary": "Dans le cadre de la guerre à haute intensité en Ukraine, le rôle du réseau X (anciennement Twitter) a évolué : il est devenu un terrain privilégié à la fois pour les analystes, les journalistes et les chercheurs, ainsi qu’un espace d’expression pour les diplomates et les responsables politiques. Dès les premières heure",
-      "link": "https://theconversation.com/comment-x-est-devenu-lun-des-theatres-de-la-guerre-en-ukraine-287462",
-      "image": "https://images.theconversation.com/files/750051/original/file-20260724-57-2pq6as.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-28T14:16:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "at5zf40",
-      "title": "Être rejeté par les autres fait mal : aider enfants et ados à rebondir quand ils sont mis de côté",
-      "summary": "Les adolescents sont hypersensibles au rejet. cottonbro studio/Pexels L’ESSENTIEL - L’été est une période où les enfants et les adolescents participent à de nouvelles activités et rencontrent de nouveaux groupes. Ils vont y nouer des amitiés mais parfois aussi se confronter au rejet. - Les parents peuvent aider leurs e",
-      "link": "https://theconversation.com/etre-rejete-par-les-autres-fait-mal-aider-enfants-et-ados-a-rebondir-quand-ils-sont-mis-de-cote-288361",
-      "image": "https://images.theconversation.com/files/750120/original/file-20260722-77-tkzke4.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-28T14:14:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aj6fw62",
-      "title": "Les sondages générés par IA séduisent des instituts, mais peuvent-ils vraiment refléter ce que pensent les gens ?",
-      "summary": "L’IA pourrait transformer la manière de concevoir et d’analyser les sondages, sans nécessairement remplacer les personnes interrogées. pics five Les instituts de sondage explorent de plus en plus l’idée de remplacer une partie de leurs répondants par des intelligences artificielles capables de simuler des profils humai",
-      "link": "https://theconversation.com/les-sondages-generes-par-ia-seduisent-des-instituts-mais-peuvent-ils-vraiment-refleter-ce-que-pensent-les-gens-284474",
-      "image": "https://images.theconversation.com/files/745589/original/file-20260702-64-5ja6ci.jpg?ixlib=rb-4.1.1&amp;rect=0%2C65%2C6636%2C4424&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-28T14:13:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anceemi",
-      "title": "Crise de la culture : la théorie des quatre régimes culturels pour sortir de la controverse",
-      "summary": "La Fanfare d'occasio, Blandy-les-Tours, 2011. Flickr/Mathieu Luna, CC BY L’ESSENTIEL En France, il n’existe pas une seule réalité culturelle mais une multitude d’expériences de la culture, qui se vivent de façon très différentes. Certaines expériences reposent sur une forme de distance avec le public, quand d’autres l’",
-      "link": "https://theconversation.com/crise-de-la-culture-la-theorie-des-quatre-regimes-culturels-pour-sortir-de-la-controverse-286739",
-      "image": "https://images.theconversation.com/files/750494/original/file-20260728-57-1po9yx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C799%2C532&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-28T14:12:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -514,23 +514,71 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "afvzj78",
-      "title": "Loi d’urgence agricole : pourquoi la droite et le centre ne lâchent rien sur les néonicotinoïdes et le stockage de l’eau",
-      "summary": "La loi d’urgence agricole a été adoptée par le 21 juillet. Elle réaffirme les choix controversés de la loi « Duplomb » de juillet 2025, autorisant certains néonicotinoïdes dangereux et facilitant le stockage de l’eau. Comment expliquer une telle obstination, malgré une importante mobilisation citoyenne et la censure du",
-      "link": "https://theconversation.com/loi-durgence-agricole-pourquoi-la-droite-et-le-centre-ne-lachent-rien-sur-les-neonicotino-des-et-le-stockage-de-leau-288367",
-      "image": "https://counter.theconversation.com/content/288367/count.gif",
-      "publishedAt": "2026-07-27T13:21:47.000Z",
+      "id": "au1y8m3",
+      "title": "Comment X est devenu l’un des théâtres de la guerre en Ukraine",
+      "summary": "Dans le cadre de la guerre à haute intensité en Ukraine, le rôle du réseau X (anciennement Twitter) a évolué : il est devenu un terrain privilégié à la fois pour les analystes, les journalistes et les chercheurs, ainsi qu’un espace d’expression pour les diplomates et les responsables politiques. Dès les premières heure",
+      "link": "https://theconversation.com/comment-x-est-devenu-lun-des-theatres-de-la-guerre-en-ukraine-287462",
+      "image": "https://images.theconversation.com/files/750051/original/file-20260724-57-2pq6as.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-28T14:16:19.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "at5zf40",
+      "title": "Être rejeté par les autres fait mal : aider enfants et ados à rebondir quand ils sont mis de côté",
+      "summary": "Les adolescents sont hypersensibles au rejet. cottonbro studio/Pexels L’ESSENTIEL - L’été est une période où les enfants et les adolescents participent à de nouvelles activités et rencontrent de nouveaux groupes. Ils vont y nouer des amitiés mais parfois aussi se confronter au rejet. - Les parents peuvent aider leurs e",
+      "link": "https://theconversation.com/etre-rejete-par-les-autres-fait-mal-aider-enfants-et-ados-a-rebondir-quand-ils-sont-mis-de-cote-288361",
+      "image": "https://images.theconversation.com/files/750120/original/file-20260722-77-tkzke4.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-28T14:14:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aj6fw62",
+      "title": "Les sondages générés par IA séduisent des instituts, mais peuvent-ils vraiment refléter ce que pensent les gens ?",
+      "summary": "L’IA pourrait transformer la manière de concevoir et d’analyser les sondages, sans nécessairement remplacer les personnes interrogées. pics five Les instituts de sondage explorent de plus en plus l’idée de remplacer une partie de leurs répondants par des intelligences artificielles capables de simuler des profils humai",
+      "link": "https://theconversation.com/les-sondages-generes-par-ia-seduisent-des-instituts-mais-peuvent-ils-vraiment-refleter-ce-que-pensent-les-gens-284474",
+      "image": "https://images.theconversation.com/files/745589/original/file-20260702-64-5ja6ci.jpg?ixlib=rb-4.1.1&amp;rect=0%2C65%2C6636%2C4424&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-28T14:13:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anceemi",
+      "title": "Crise de la culture : la théorie des quatre régimes culturels pour sortir de la controverse",
+      "summary": "La Fanfare d'occasio, Blandy-les-Tours, 2011. Flickr/Mathieu Luna, CC BY L’ESSENTIEL En France, il n’existe pas une seule réalité culturelle mais une multitude d’expériences de la culture, qui se vivent de façon très différentes. Certaines expériences reposent sur une forme de distance avec le public, quand d’autres l’",
+      "link": "https://theconversation.com/crise-de-la-culture-la-theorie-des-quatre-regimes-culturels-pour-sortir-de-la-controverse-286739",
+      "image": "https://images.theconversation.com/files/750494/original/file-20260728-57-1po9yx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C799%2C532&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-28T14:12:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -546,55 +594,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "as5n2au",
-      "title": "Indonésie et Asie du Sud-Est : la France a une carte à jouer",
-      "summary": "Pendant que Washington et Pékin se disputent l’Indo-Pacifique, l’Asie du Sud-Est cherche des partenaires qui ne lui imposent pas de choisir un camp. Cette situation constitue une fenêtre d’opportunité que l’Europe et la France ne doivent pas laisser passer. Il y a quelques mois, nous montrions ici comment la Zone écono",
-      "link": "https://theconversation.com/indonesie-et-asie-du-sud-est-la-france-a-une-carte-a-jouer-287087",
-      "image": "https://counter.theconversation.com/content/287087/count.gif",
-      "publishedAt": "2026-07-27T13:20:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "al9y4mc",
-      "title": "Peu importe ce que les enfants lisent, tant qu’ils lisent ? Dépasser les préjugés sur les « bonnes » et « mauvaises lectures »",
-      "summary": "Une personne qui dévore des romans et des classiques est d’emblée considérée comme un lecteur ou une lectrice. Mais n’est-ce pas aussi le cas de celle qui ne lit que des magazines ou des mangas ? Pour donner aux enfants le goût de lire, peut-être faut-il d’abord en finir avec les catégories figées et avec les critères ",
-      "link": "https://theconversation.com/peu-importe-ce-que-les-enfants-lisent-tant-quils-lisent-depasser-les-prejuges-sur-les-bonnes-et-mauvaises-lectures-287799",
-      "image": "https://counter.theconversation.com/content/287799/count.gif",
-      "publishedAt": "2026-07-27T13:19:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aoncsih",
-      "title": "Comment la présence de MSC Croisières dans les ports français est devenue un enjeu de souveraineté nationale",
-      "summary": "L’ESSENTIEL Les chantiers de Saint-Nazaire sont dépendants la construction des paquebots géants, notamment du groupe MSC, première entreprise de transport maritime mondial. Une étude met en lumière l'importance de ces entreprises de navigation touristique pour l'économie des ports français. Au-delà des bateaux de touri",
-      "link": "https://theconversation.com/comment-la-presence-de-msc-croisieres-dans-les-ports-francais-est-devenue-un-enjeu-de-souverainete-nationale-285510",
-      "image": "https://images.theconversation.com/files/742945/original/file-20260619-63-mt4xqp.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-27T13:19:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
