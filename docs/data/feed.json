@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T19:22:36.274Z",
+  "generatedAt": "2026-08-01T02:40:42.005Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -163,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -179,7 +179,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -195,7 +195,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -211,7 +211,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +229,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,7 +277,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,7 +293,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -309,7 +309,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -325,7 +325,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -341,7 +341,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -357,7 +357,55 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a6ly4n6",
+      "title": "Les halophytes, ces plantes de plage qui résistent contre vents et marées",
+      "summary": "Les dunes côtières, paradis des plantes qui composent avec le sel. Ici Cakile maritima, Matthiola sinuata et Ammophila arenaria. Delphine Arbelet-Bonnin, Fourni par l'auteur On les voit à peine, les yeux tournés vers la mer, et pourtant : les plantes des plages présentent des caractéristiques fascinantes. Celles-ci tie",
+      "link": "https://theconversation.com/les-halophytes-ces-plantes-de-plage-qui-resistent-contre-vents-et-marees-287101",
+      "image": "https://images.theconversation.com/files/747415/original/file-20260713-56-n8h1wd.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1386%2C924&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-29T14:19:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a7ushyn",
+      "title": "Les ailes des papillons Morpho inspireront-elles les centrales solaires du futur ?",
+      "summary": "Les ailes du Morpho sont le résultat d’une longue évolution, qui a fait émerger de minuscules structures bien particulières qui jouent avec la lumière. Kiya Golara, Unsplash, CC BY En apprenant à manipuler la lumière avec la même finesse que les ailes d’un papillon, nous pourrions concevoir des centrales solaires plus ",
+      "link": "https://theconversation.com/les-ailes-des-papillons-morpho-inspireront-elles-les-centrales-solaires-du-futur-287015",
+      "image": "https://images.theconversation.com/files/748301/original/file-20260716-57-g32zzm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1984%2C3836%2C2558&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-29T14:19:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3oybpu",
+      "title": "Kidney disease is also a brain disease. Here’s why",
+      "summary": "Generally speaking, when we think of ‘kidney disease’, we think of dialysis or a kidney transplant. But it is less well known that kidney disease, which affects more than 10 per cent of the world’s population, can have significant consequences for the functioning of other organs. For example, the patients also suffer f",
+      "link": "https://theconversation.com/kidney-disease-is-also-a-brain-disease-heres-why-288234",
+      "image": "https://images.theconversation.com/files/750585/original/file-20260728-57-m9jkb2.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-29T14:14:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -375,55 +423,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6ly4n6",
-      "title": "Les halophytes, ces plantes de plage qui résistent contre vents et marées",
-      "summary": "Les dunes côtières, paradis des plantes qui composent avec le sel. Ici Cakile maritima, Matthiola sinuata et Ammophila arenaria. Delphine Arbelet-Bonnin, Fourni par l'auteur On les voit à peine, les yeux tournés vers la mer, et pourtant : les plantes des plages présentent des caractéristiques fascinantes. Celles-ci tie",
-      "link": "https://theconversation.com/les-halophytes-ces-plantes-de-plage-qui-resistent-contre-vents-et-marees-287101",
-      "image": "https://images.theconversation.com/files/747415/original/file-20260713-56-n8h1wd.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1386%2C924&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-29T14:19:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7ushyn",
-      "title": "Les ailes des papillons Morpho inspireront-elles les centrales solaires du futur ?",
-      "summary": "Les ailes du Morpho sont le résultat d’une longue évolution, qui a fait émerger de minuscules structures bien particulières qui jouent avec la lumière. Kiya Golara, Unsplash, CC BY En apprenant à manipuler la lumière avec la même finesse que les ailes d’un papillon, nous pourrions concevoir des centrales solaires plus ",
-      "link": "https://theconversation.com/les-ailes-des-papillons-morpho-inspireront-elles-les-centrales-solaires-du-futur-287015",
-      "image": "https://images.theconversation.com/files/748301/original/file-20260716-57-g32zzm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1984%2C3836%2C2558&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-29T14:19:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3oybpu",
-      "title": "Kidney disease is also a brain disease. Here’s why",
-      "summary": "Generally speaking, when we think of ‘kidney disease’, we think of dialysis or a kidney transplant. But it is less well known that kidney disease, which affects more than 10 per cent of the world’s population, can have significant consequences for the functioning of other organs. For example, the patients also suffer f",
-      "link": "https://theconversation.com/kidney-disease-is-also-a-brain-disease-heres-why-288234",
-      "image": "https://images.theconversation.com/files/750585/original/file-20260728-57-m9jkb2.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-29T14:14:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -442,7 +442,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -460,7 +460,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -476,7 +476,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -492,23 +492,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "au91mgo",
-      "title": "Gironde wildfires: what the logistical challenges behind the mass evacuations tell us",
-      "summary": "KEY TAKEAWAYS The massive wildfires currently raging in Gironde are not only putting the fire and emergency services to the test. Firefighting also requires the development of efficient logistics to evacuate a vast area without bringing it to a standstill. Previous disasters have highlighted the central role played by ",
-      "link": "https://theconversation.com/gironde-wildfires-what-the-logistical-challenges-behind-the-mass-evacuations-tell-us-288570",
-      "image": "https://counter.theconversation.com/content/288570/count.gif",
-      "publishedAt": "2026-07-29T08:55:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -524,39 +508,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
-      "id": "a3u2e1y",
-      "title": "Incendies en Gironde : la logistique au cœur de l’évacuation massive d’une population",
-      "summary": "L’ESSENTIEL Les mégafeux observés actuellement en Gironde ne mettent pas seulement les services d’incendie et de secours à l’épreuve. La lutte contre l’incendie passe aussi par la mise au point d’une logistique efficiente pour évacuer un vaste territoire sans le paralyser. De précédentes catastrophes ont montré le rôle",
-      "link": "https://theconversation.com/incendies-en-gironde-la-logistique-au-coeur-de-levacuation-massive-dune-population-288440",
-      "image": "https://counter.theconversation.com/content/288440/count.gif",
-      "publishedAt": "2026-07-28T14:20:05.000Z",
+      "id": "au91mgo",
+      "title": "Gironde wildfires: what the logistical challenges behind the mass evacuations tell us",
+      "summary": "KEY TAKEAWAYS The massive wildfires currently raging in Gironde are not only putting the fire and emergency services to the test. Firefighting also requires the development of efficient logistics to evacuate a vast area without bringing it to a standstill. Previous disasters have highlighted the central role played by ",
+      "link": "https://theconversation.com/gironde-wildfires-what-the-logistical-challenges-behind-the-mass-evacuations-tell-us-288570",
+      "image": "https://counter.theconversation.com/content/288570/count.gif",
+      "publishedAt": "2026-07-29T08:55:21.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ak1hmb4",
-      "title": "Les feux de forêt menacent-ils les installations gazières ?",
-      "summary": "L'essentiel Sous l'effet du changement climatique, de l'évolution de l'occupation des sols et des activités humaines, les incendies deviennent de plus en plus intenses et difficiles à maîtriser. Les incendies de végétation ne menacent pas seulement les forêts et les habitations. Ils peuvent mettre également en danger d",
-      "link": "https://theconversation.com/les-feux-de-foret-menacent-ils-les-installations-gazieres-287402",
-      "image": "https://images.theconversation.com/files/748855/original/file-20260720-57-4ok8u2.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-28T14:19:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -572,7 +540,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -590,7 +558,39 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3u2e1y",
+      "title": "Incendies en Gironde : la logistique au cœur de l’évacuation massive d’une population",
+      "summary": "L’ESSENTIEL Les mégafeux observés actuellement en Gironde ne mettent pas seulement les services d’incendie et de secours à l’épreuve. La lutte contre l’incendie passe aussi par la mise au point d’une logistique efficiente pour évacuer un vaste territoire sans le paralyser. De précédentes catastrophes ont montré le rôle",
+      "link": "https://theconversation.com/incendies-en-gironde-la-logistique-au-coeur-de-levacuation-massive-dune-population-288440",
+      "image": "https://counter.theconversation.com/content/288440/count.gif",
+      "publishedAt": "2026-07-28T14:20:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 24,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ak1hmb4",
+      "title": "Les feux de forêt menacent-ils les installations gazières ?",
+      "summary": "L'essentiel Sous l'effet du changement climatique, de l'évolution de l'occupation des sols et des activités humaines, les incendies deviennent de plus en plus intenses et difficiles à maîtriser. Les incendies de végétation ne menacent pas seulement les forêts et les habitations. Ils peuvent mettre également en danger d",
+      "link": "https://theconversation.com/les-feux-de-foret-menacent-ils-les-installations-gazieres-287402",
+      "image": "https://images.theconversation.com/files/748855/original/file-20260720-57-4ok8u2.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-28T14:19:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
