@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T02:40:42.005Z",
+  "generatedAt": "2026-08-01T08:18:12.391Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,40 @@
   "count": 35,
   "items": [
     {
+      "id": "a3di6yv",
+      "title": "Comment la crise à la frontière de Ceuta a immédiatement servi les intérêts de l'extrême droite espagnole",
+      "summary": "L’ESSENTIEL Les images de Ceuta ont imposé un registre plus sécuritaire dans le débat sur l'immigration en Espagne. L'extrême droite s'est appuyée sur ces images pour banaliser son discours sur l'« invasion migratoire ». Le gouvernement espagnol se retrouve contraint de défendre son récit d'une Espagne ouverte à l'immi",
+      "link": "https://theconversation.com/comment-la-crise-a-la-frontiere-de-ceuta-a-immediatement-servi-les-interets-de-lextreme-droite-espagnole-288890",
+      "image": "https://counter.theconversation.com/content/288890/count.gif",
+      "publishedAt": "2026-08-01T08:11:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a32x84c",
+      "title": "Pourquoi Ceuta est au cœur d'une crise migratoire permanente",
+      "summary": "L’ESSENTIEL À Ceuta, enclave espagnole située sur la côte marocaine, plus de 40 000 personnes sont entrées en 24 heures. Cette crise mêle enjeux migratoires, tensions diplomatiques et rivalités géopolitiques. La réponse doit concilier contrôle des frontières, État de droit et protection des droits humains. Depuis le 31",
+      "link": "https://theconversation.com/pourquoi-ceuta-est-au-coeur-dune-crise-migratoire-permanente-288888",
+      "image": "https://counter.theconversation.com/content/288888/count.gif",
+      "publishedAt": "2026-08-01T07:45:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a82rmdb",
       "title": "Que peut nous apprendre l’Australie, référence mondiale en matière d’alerte, sur la gestion des incendies ?",
       "summary": "L’ESSENTIEL L’Australie dispose d’un système d’alerte parmi les plus aboutis au monde face aux feux de végétation. Les alertes sont largement comprises, mais elles ne suffisent pas toujours à convaincre les habitants d’évacuer. Trouver le bon équilibre entre informer suffisamment et éviter la saturation reste un défi. ",
@@ -131,8 +165,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asyp44p",
@@ -147,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -163,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -179,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -195,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -211,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +263,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,7 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -309,8 +343,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a2j7xk3",
@@ -325,7 +359,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -341,7 +375,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -357,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -373,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -389,7 +423,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -405,7 +439,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -423,7 +457,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ardl4so",
+      "title": "Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ?",
+      "summary": "4 femmes, 4 hommes : le Journal officiel de ce jour indique 8 changements de rectrices et recteurs pour le 3 août prochain. Plusieurs conseillers sont ainsi recasés avant les L’article Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/28/qui-sont-les-8-recteurs-qui-arrivent-a-la-rentree-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/cabinet-ministre-rue-de-Grenelle-Cafe-pedagogique-e1730662316876-300x249.jpg",
+      "publishedAt": "2026-07-28T07:02:46.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -442,7 +492,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -460,7 +510,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -476,7 +526,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -492,23 +542,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ardl4so",
-      "title": "Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ?",
-      "summary": "4 femmes, 4 hommes : le Journal officiel de ce jour indique 8 changements de rectrices et recteurs pour le 3 août prochain. Plusieurs conseillers sont ainsi recasés avant les L’article Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/28/qui-sont-les-8-recteurs-qui-arrivent-a-la-rentree-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/cabinet-ministre-rue-de-Grenelle-Cafe-pedagogique-e1730662316876-300x249.jpg",
-      "publishedAt": "2026-07-28T07:02:46.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -524,7 +558,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -540,7 +574,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -558,39 +592,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3u2e1y",
-      "title": "Incendies en Gironde : la logistique au cœur de l’évacuation massive d’une population",
-      "summary": "L’ESSENTIEL Les mégafeux observés actuellement en Gironde ne mettent pas seulement les services d’incendie et de secours à l’épreuve. La lutte contre l’incendie passe aussi par la mise au point d’une logistique efficiente pour évacuer un vaste territoire sans le paralyser. De précédentes catastrophes ont montré le rôle",
-      "link": "https://theconversation.com/incendies-en-gironde-la-logistique-au-coeur-de-levacuation-massive-dune-population-288440",
-      "image": "https://counter.theconversation.com/content/288440/count.gif",
-      "publishedAt": "2026-07-28T14:20:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ak1hmb4",
-      "title": "Les feux de forêt menacent-ils les installations gazières ?",
-      "summary": "L'essentiel Sous l'effet du changement climatique, de l'évolution de l'occupation des sols et des activités humaines, les incendies deviennent de plus en plus intenses et difficiles à maîtriser. Les incendies de végétation ne menacent pas seulement les forêts et les habitations. Ils peuvent mettre également en danger d",
-      "link": "https://theconversation.com/les-feux-de-foret-menacent-ils-les-installations-gazieres-287402",
-      "image": "https://images.theconversation.com/files/748855/original/file-20260720-57-4ok8u2.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-28T14:19:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
