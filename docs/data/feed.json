@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T19:05:42.587Z",
+  "generatedAt": "2026-08-02T02:39:23.120Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +149,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar4q4xf",
@@ -165,8 +165,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afqhbs3",
@@ -183,8 +183,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arac1wf",
@@ -199,8 +199,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "af3bx0x",
@@ -215,8 +215,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3di6yv",
@@ -233,7 +233,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -363,7 +363,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -379,7 +379,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -395,7 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -427,103 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2j7xk3",
-      "title": "Fusillade de Montréal : la haine des femmes n’a pas de parti, montre un manifeste laissé par le tireur",
-      "summary": "Une fusillade survenue lundi 22 juin à Montréal a fait trois morts, dont l’assaillant, qui a laissé derrière lui un manifeste puisant dans l’idéologie masculiniste. Un patchwork idéologique qu’il serait vain de chercher à positionner sur l’échiquier politique. Seule constante : la haine des femmes et la conviction que ",
-      "link": "https://theconversation.com/fusillade-de-montreal-la-haine-des-femmes-na-pas-de-parti-montre-un-manifeste-laisse-par-le-tireur-287107",
-      "image": "https://counter.theconversation.com/content/287107/count.gif",
-      "publishedAt": "2026-07-29T14:28:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ac8sus9",
-      "title": "Comment la série « The White Lotus » remet le polar au goût du jour",
-      "summary": "The White Lotus, saison 3, un huis-clos entre ultra-privilégiés, comme dans chaque saison. HBO Alors que la saison 4 de The White Lotus est en cours de tournage sur la Côte d’Azur, la série de Mike White confirme sa recette : des décors de rêve comme théâtre de violence sociale. Hôtels de luxe, paysages exotiques, plag",
-      "link": "https://theconversation.com/comment-la-serie-the-white-lotus-remet-le-polar-au-gout-du-jour-283209",
-      "image": "https://images.theconversation.com/files/750496/original/file-20260728-57-aac0y6.png?ixlib=rb-4.1.1&amp;rect=44%2C0%2C2108%2C1405&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-29T14:27:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3eb69b",
-      "title": "L’Ukraine peut-elle gagner la guerre ?",
-      "summary": "L’ESSENTIEL L’Ukraine parvient de plus en plus à causer des dommages importants à divers équipements un peu partout sur le territoire de la Russie. Parallèlement, Volodymyr Zelensky enregistre certains succès diplomatiques au G7, à l’OTAN ou encore dans les pays du Golfe. Ces signes encourageants ne doivent pas être su",
-      "link": "https://theconversation.com/lukraine-peut-elle-gagner-la-guerre-288358",
-      "image": "https://images.theconversation.com/files/750278/original/file-20260727-68-ano0by.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-29T14:20:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6ly4n6",
-      "title": "Les halophytes, ces plantes de plage qui résistent contre vents et marées",
-      "summary": "Les dunes côtières, paradis des plantes qui composent avec le sel. Ici Cakile maritima, Matthiola sinuata et Ammophila arenaria. Delphine Arbelet-Bonnin, Fourni par l'auteur On les voit à peine, les yeux tournés vers la mer, et pourtant : les plantes des plages présentent des caractéristiques fascinantes. Celles-ci tie",
-      "link": "https://theconversation.com/les-halophytes-ces-plantes-de-plage-qui-resistent-contre-vents-et-marees-287101",
-      "image": "https://images.theconversation.com/files/747415/original/file-20260713-56-n8h1wd.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1386%2C924&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-29T14:19:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7ushyn",
-      "title": "Les ailes des papillons Morpho inspireront-elles les centrales solaires du futur ?",
-      "summary": "Les ailes du Morpho sont le résultat d’une longue évolution, qui a fait émerger de minuscules structures bien particulières qui jouent avec la lumière. Kiya Golara, Unsplash, CC BY En apprenant à manipuler la lumière avec la même finesse que les ailes d’un papillon, nous pourrions concevoir des centrales solaires plus ",
-      "link": "https://theconversation.com/les-ailes-des-papillons-morpho-inspireront-elles-les-centrales-solaires-du-futur-287015",
-      "image": "https://images.theconversation.com/files/748301/original/file-20260716-57-g32zzm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1984%2C3836%2C2558&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-29T14:19:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3oybpu",
-      "title": "Kidney disease is also a brain disease. Here’s why",
-      "summary": "Generally speaking, when we think of ‘kidney disease’, we think of dialysis or a kidney transplant. But it is less well known that kidney disease, which affects more than 10 per cent of the world’s population, can have significant consequences for the functioning of other organs. For example, the patients also suffer f",
-      "link": "https://theconversation.com/kidney-disease-is-also-a-brain-disease-heres-why-288234",
-      "image": "https://images.theconversation.com/files/750585/original/file-20260728-57-m9jkb2.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-29T14:14:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -539,7 +443,103 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a2j7xk3",
+      "title": "Fusillade de Montréal : la haine des femmes n’a pas de parti, montre un manifeste laissé par le tireur",
+      "summary": "Une fusillade survenue lundi 22 juin à Montréal a fait trois morts, dont l’assaillant, qui a laissé derrière lui un manifeste puisant dans l’idéologie masculiniste. Un patchwork idéologique qu’il serait vain de chercher à positionner sur l’échiquier politique. Seule constante : la haine des femmes et la conviction que ",
+      "link": "https://theconversation.com/fusillade-de-montreal-la-haine-des-femmes-na-pas-de-parti-montre-un-manifeste-laisse-par-le-tireur-287107",
+      "image": "https://counter.theconversation.com/content/287107/count.gif",
+      "publishedAt": "2026-07-29T14:28:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 24,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ac8sus9",
+      "title": "Comment la série « The White Lotus » remet le polar au goût du jour",
+      "summary": "The White Lotus, saison 3, un huis-clos entre ultra-privilégiés, comme dans chaque saison. HBO Alors que la saison 4 de The White Lotus est en cours de tournage sur la Côte d’Azur, la série de Mike White confirme sa recette : des décors de rêve comme théâtre de violence sociale. Hôtels de luxe, paysages exotiques, plag",
+      "link": "https://theconversation.com/comment-la-serie-the-white-lotus-remet-le-polar-au-gout-du-jour-283209",
+      "image": "https://images.theconversation.com/files/750496/original/file-20260728-57-aac0y6.png?ixlib=rb-4.1.1&amp;rect=44%2C0%2C2108%2C1405&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-29T14:27:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 24,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3eb69b",
+      "title": "L’Ukraine peut-elle gagner la guerre ?",
+      "summary": "L’ESSENTIEL L’Ukraine parvient de plus en plus à causer des dommages importants à divers équipements un peu partout sur le territoire de la Russie. Parallèlement, Volodymyr Zelensky enregistre certains succès diplomatiques au G7, à l’OTAN ou encore dans les pays du Golfe. Ces signes encourageants ne doivent pas être su",
+      "link": "https://theconversation.com/lukraine-peut-elle-gagner-la-guerre-288358",
+      "image": "https://images.theconversation.com/files/750278/original/file-20260727-68-ano0by.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-29T14:20:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 24,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a6ly4n6",
+      "title": "Les halophytes, ces plantes de plage qui résistent contre vents et marées",
+      "summary": "Les dunes côtières, paradis des plantes qui composent avec le sel. Ici Cakile maritima, Matthiola sinuata et Ammophila arenaria. Delphine Arbelet-Bonnin, Fourni par l'auteur On les voit à peine, les yeux tournés vers la mer, et pourtant : les plantes des plages présentent des caractéristiques fascinantes. Celles-ci tie",
+      "link": "https://theconversation.com/les-halophytes-ces-plantes-de-plage-qui-resistent-contre-vents-et-marees-287101",
+      "image": "https://images.theconversation.com/files/747415/original/file-20260713-56-n8h1wd.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1386%2C924&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-29T14:19:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 24,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a7ushyn",
+      "title": "Les ailes des papillons Morpho inspireront-elles les centrales solaires du futur ?",
+      "summary": "Les ailes du Morpho sont le résultat d’une longue évolution, qui a fait émerger de minuscules structures bien particulières qui jouent avec la lumière. Kiya Golara, Unsplash, CC BY En apprenant à manipuler la lumière avec la même finesse que les ailes d’un papillon, nous pourrions concevoir des centrales solaires plus ",
+      "link": "https://theconversation.com/les-ailes-des-papillons-morpho-inspireront-elles-les-centrales-solaires-du-futur-287015",
+      "image": "https://images.theconversation.com/files/748301/original/file-20260716-57-g32zzm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1984%2C3836%2C2558&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-29T14:19:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 24,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3oybpu",
+      "title": "Kidney disease is also a brain disease. Here’s why",
+      "summary": "Generally speaking, when we think of ‘kidney disease’, we think of dialysis or a kidney transplant. But it is less well known that kidney disease, which affects more than 10 per cent of the world’s population, can have significant consequences for the functioning of other organs. For example, the patients also suffer f",
+      "link": "https://theconversation.com/kidney-disease-is-also-a-brain-disease-heres-why-288234",
+      "image": "https://images.theconversation.com/files/750585/original/file-20260728-57-m9jkb2.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-07-29T14:14:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -558,7 +558,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -574,7 +574,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -608,7 +608,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
