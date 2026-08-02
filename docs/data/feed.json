@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T02:39:23.120Z",
+  "generatedAt": "2026-08-02T08:22:12.302Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,8 +133,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6fh1zo",
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +183,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,71 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "asyp44p",
-      "title": "Les séquelles du cancer compliquent souvent l’usage des outils numériques",
-      "summary": "Le « chemo brain » et d'autres séquelles du cancer ne perturbent pas seulement le quotidien : ils rendent aussi les sites web, les applications et les smartphones plus difficiles à utiliser. Thirdman/pexels, CC BY-SA Les progrès des traitements permettent à davantage de personnes de survivre au cancer. Mais beaucoup co",
-      "link": "https://theconversation.com/les-sequelles-du-cancer-compliquent-souvent-lusage-des-outils-numeriques-287975",
-      "image": "https://images.theconversation.com/files/749765/original/file-20260723-64-xfrcnf.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-31T08:21:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avy9l1v",
-      "title": "Les tout premiers influenceurs au monde étaient français et sont nés après la Révolution",
-      "summary": "A painting by Jacques-Louis David of French socialite and Neoclassical icon Madame Récamier whose salon in Paris attracted leading literary and political circles in the early 19th-century. Wikimedia Au lendemain de la Révolution française, une génération de journalistes, mondains et prescripteurs de goût invente une no",
-      "link": "https://theconversation.com/les-tout-premiers-influenceurs-au-monde-etaient-francais-et-sont-nes-apres-la-revolution-287797",
-      "image": "https://images.theconversation.com/files/748533/original/file-20260713-71-wfub3s.jpg?ixlib=rb-4.1.1&amp;rect=0%2C31%2C1499%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-31T08:19:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aezeoat",
-      "title": "La fée Morgane : comment la sœur du roi Arthur est-elle devenue la plus célèbre des sorcières médiévales ?",
-      "summary": "Guérisseuse, experte en mathématiques et reine d'Avalon dans les premiers récits, la fée Morgane était à l'origine une figure profondément positive. (ici La mort du roi Arthur, de James Archer, 1860). James Archer, 1860/Wikimedia, CC BY Bien avant d’incarner la sorcière maléfique, la fée Morgane était une reine, une ér",
-      "link": "https://theconversation.com/la-fee-morgane-comment-la-soeur-du-roi-arthur-est-elle-devenue-la-plus-celebre-des-sorcieres-medievales-287708",
-      "image": "https://images.theconversation.com/files/748312/original/file-20260227-57-w0u4s0.jpg?ixlib=rb-4.1.1&amp;rect=0%2C367%2C1266%2C844&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-31T08:19:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amx7uj7",
-      "title": "Pourquoi les vieux torchons essuient-ils mieux que les neufs ?",
-      "summary": "En modifiant la texture des fibres et du tissu, les lavages répétés le rendent plus absorbant que son remplaçant flambant neuf. Anna Shvets/Pexels Un torchon neuf peut repousser l’eau, tandis qu’un modèle usé l’absorbe beaucoup plus facilement. Les propriétés des fibres, les finitions textiles et les effets du lavage e",
-      "link": "https://theconversation.com/pourquoi-les-vieux-torchons-essuient-ils-mieux-que-les-neufs-287206",
-      "image": "https://images.theconversation.com/files/746844/original/file-20260106-56-wdekit.jpg?ixlib=rb-4.1.1&amp;rect=1455%2C1054%2C4105%2C2736&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-31T08:09:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +281,71 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "asyp44p",
+      "title": "Les séquelles du cancer compliquent souvent l’usage des outils numériques",
+      "summary": "Le « chemo brain » et d'autres séquelles du cancer ne perturbent pas seulement le quotidien : ils rendent aussi les sites web, les applications et les smartphones plus difficiles à utiliser. Thirdman/pexels, CC BY-SA Les progrès des traitements permettent à davantage de personnes de survivre au cancer. Mais beaucoup co",
+      "link": "https://theconversation.com/les-sequelles-du-cancer-compliquent-souvent-lusage-des-outils-numeriques-287975",
+      "image": "https://images.theconversation.com/files/749765/original/file-20260723-64-xfrcnf.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-31T08:21:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avy9l1v",
+      "title": "Les tout premiers influenceurs au monde étaient français et sont nés après la Révolution",
+      "summary": "A painting by Jacques-Louis David of French socialite and Neoclassical icon Madame Récamier whose salon in Paris attracted leading literary and political circles in the early 19th-century. Wikimedia Au lendemain de la Révolution française, une génération de journalistes, mondains et prescripteurs de goût invente une no",
+      "link": "https://theconversation.com/les-tout-premiers-influenceurs-au-monde-etaient-francais-et-sont-nes-apres-la-revolution-287797",
+      "image": "https://images.theconversation.com/files/748533/original/file-20260713-71-wfub3s.jpg?ixlib=rb-4.1.1&amp;rect=0%2C31%2C1499%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-31T08:19:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aezeoat",
+      "title": "La fée Morgane : comment la sœur du roi Arthur est-elle devenue la plus célèbre des sorcières médiévales ?",
+      "summary": "Guérisseuse, experte en mathématiques et reine d'Avalon dans les premiers récits, la fée Morgane était à l'origine une figure profondément positive. (ici La mort du roi Arthur, de James Archer, 1860). James Archer, 1860/Wikimedia, CC BY Bien avant d’incarner la sorcière maléfique, la fée Morgane était une reine, une ér",
+      "link": "https://theconversation.com/la-fee-morgane-comment-la-soeur-du-roi-arthur-est-elle-devenue-la-plus-celebre-des-sorcieres-medievales-287708",
+      "image": "https://images.theconversation.com/files/748312/original/file-20260227-57-w0u4s0.jpg?ixlib=rb-4.1.1&amp;rect=0%2C367%2C1266%2C844&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-31T08:19:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "amx7uj7",
+      "title": "Pourquoi les vieux torchons essuient-ils mieux que les neufs ?",
+      "summary": "En modifiant la texture des fibres et du tissu, les lavages répétés le rendent plus absorbant que son remplaçant flambant neuf. Anna Shvets/Pexels Un torchon neuf peut repousser l’eau, tandis qu’un modèle usé l’absorbe beaucoup plus facilement. Les propriétés des fibres, les finitions textiles et les effets du lavage e",
+      "link": "https://theconversation.com/pourquoi-les-vieux-torchons-essuient-ils-mieux-que-les-neufs-287206",
+      "image": "https://images.theconversation.com/files/746844/original/file-20260106-56-wdekit.jpg?ixlib=rb-4.1.1&amp;rect=1455%2C1054%2C4105%2C2736&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-31T08:09:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -363,7 +363,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -379,7 +379,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -395,7 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +443,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -507,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -523,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -539,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -558,7 +558,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -574,7 +574,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -608,7 +608,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
