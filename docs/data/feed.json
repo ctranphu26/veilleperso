@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T08:22:12.302Z",
+  "generatedAt": "2026-08-02T13:17:20.797Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +183,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,8 +297,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avy9l1v",
@@ -313,8 +313,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aezeoat",
@@ -329,8 +329,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amx7uj7",
@@ -345,8 +345,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "atbf65j",
@@ -363,7 +363,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -379,7 +379,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -395,7 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +443,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -507,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -523,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -538,25 +538,6 @@
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aaslclp",
-      "title": "Retrouvez toutes les controverses de Frédéric Grimaud",
-      "summary": "Le chercheur Frédéric Grimaud cumule des centaines d’heures d’entretiens avec des professeur.es des écoles. Iels parlent de leur métier, de leurs gestes du quotidien, de leur organisation du travail en L’article Retrouvez toutes les controverses de Frédéric Grimaud est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/29/retrouvez-toutes-les-controverses-de-frederic-grimaud/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/les-controverses.jpg",
-      "publishedAt": "2026-07-29T10:00:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "professeur"
-      ],
-      "relevance": 64,
       "relevanceLevel": "moyenne",
       "urgency": 21,
       "urgencyLevel": "basse"
@@ -594,6 +575,25 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "aaslclp",
+      "title": "Retrouvez toutes les controverses de Frédéric Grimaud",
+      "summary": "Le chercheur Frédéric Grimaud cumule des centaines d’heures d’entretiens avec des professeur.es des écoles. Iels parlent de leur métier, de leurs gestes du quotidien, de leur organisation du travail en L’article Retrouvez toutes les controverses de Frédéric Grimaud est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/29/retrouvez-toutes-les-controverses-de-frederic-grimaud/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/les-controverses.jpg",
+      "publishedAt": "2026-07-29T10:00:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "professeur"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "ah83g16",
       "title": "IA & Education : encore quelques jours pour recevoir ce livre en cadeau",
       "summary": "Le Café pédagogique vous offre cet ouvrage pour toute adhésion à l’association éditrice du Café pédagogique. Soutenez le Café pédagogique et recevez chez vous gratuitement le livre L’Ecole face à L’article IA & Education : encore quelques jours pour recevoir ce livre en cadeau est apparu en premier sur Le Café pédagogi",
@@ -608,7 +608,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
