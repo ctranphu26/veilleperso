@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T09:41:20.530Z",
+  "generatedAt": "2026-08-03T14:35:35.910Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,9 +119,130 @@
   "count": 35,
   "items": [
     {
+      "id": "a2ndrd2",
+      "title": "Aux États-Unis, les universités peinent à enrayer le recul de la lecture",
+      "summary": "L’ESSENTIEL Aux États-Unis, les enseignants constatent une baisse des compétences en lecture de leurs étudiants. Austin Sarat, professeur de sciences politiques au Amherst College, alerte sur les conséquences de ce recul pour l’enseignement supérieur. Selon lui, les livres longs restent indispensables pour former l’esp",
+      "link": "https://theconversation.com/aux-etats-unis-les-universites-peinent-a-enrayer-le-recul-de-la-lecture-288421",
+      "image": "https://counter.theconversation.com/content/288421/count.gif",
+      "publishedAt": "2026-08-03T14:03:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement",
+        "enseignant",
+        "professeur",
+        "compétence"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "alq8n7",
+      "title": "Redessiner le monde pour mieux le comprendre : le pouvoir politique des contre-cartes",
+      "summary": "L’île de la Tortue (« Turtle Island ») est le nom que certains peuples autochtones donnent à l’Amérique du Nord. Cette contre-carte est orientée vers l’est, c’est-à-dire en direction du soleil levant. The Decolonial Atlas, CC BY-NC-ND Les cartes ne se contentent pas de représenter le monde : elles contribuent à le faço",
+      "link": "https://theconversation.com/redessiner-le-monde-pour-mieux-le-comprendre-le-pouvoir-politique-des-contre-cartes-284467",
+      "image": "https://images.theconversation.com/files/739688/original/file-20260527-57-upbfzd.png?ixlib=rb-4.1.1&amp;rect=0%2C1196%2C3482%2C2321&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-03T14:05:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "décolonial"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ax3thyw",
+      "title": "Route 66 : cent ans d’un mythe qui ne raconte pas toute l’histoire",
+      "summary": "La Route 66 fête son centenaire en 2026. Mais derrière l’image d’Épinal de la « Mother Road » se cache une histoire plus complexe, où le marketing, les inégalités raciales et les mutations économiques ont façonné autant le mythe que la route elle-même. Agissant de concert, l’American Association of State Highway Offici",
+      "link": "https://theconversation.com/route-66-cent-ans-dun-mythe-qui-ne-raconte-pas-toute-lhistoire-287643",
+      "image": "https://counter.theconversation.com/content/287643/count.gif",
+      "publishedAt": "2026-08-03T14:02:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajojsb8",
+      "title": "Climate-related ‘silent adaptation’ coping strategies are going beyond official directives",
+      "summary": "Scientific reports, political directives and national plans follow one after another, urging regions to adapt to new climate realities. Yet, one question remains: how do adaptation initiatives among local communities and businesses actually unfold on the ground. While announcements of public or government-backed projec",
+      "link": "https://theconversation.com/climate-related-silent-adaptation-coping-strategies-are-going-beyond-official-directives-288137",
+      "image": "https://counter.theconversation.com/content/288137/count.gif",
+      "publishedAt": "2026-08-03T14:08:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awoudf5",
+      "title": "La souveraineté énergétique passe-t-elle forcément par l’électrification ? L’exemple du solaire thermique, mieux développé dans d’autres pays pas forcément plus ensoleillés",
+      "summary": "La guerre en Iran et le blocage du détroit d’Ormuz ont poussé le gouvernement Lecornu à accélérer la mise en œuvre de mesures inscrites dans la programmation pluriannuelle de l’énergie, dite PPE3. D’un objectif environnemental de réduction des émissions de CO₂, il est passé à un enjeu de souveraineté énergétique, « éle",
+      "link": "https://theconversation.com/la-souverainete-energetique-passe-t-elle-forcement-par-lelectrification-lexemple-du-solaire-thermique-mieux-developpe-dans-dautres-pays-pas-forcement-plus-ensoleilles-286900",
+      "image": "https://counter.theconversation.com/content/286900/count.gif",
+      "publishedAt": "2026-08-03T14:07:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1wnazg",
+      "title": "« Ils sont parmi nous » : la nouvelle plateforme de la Maison-Blanche et la déshumanisation des sans-papiers",
+      "summary": "Capture d’écran de la page d’accueil du site officiel *Aliens.gov* de la Maison-Blanche. Le texte dit : « Ils marchent parmi nous. » Whitehouse.gov L’ESSENTIEL. En mai dernier, l’administration Trump a mis en ligne un site permettant de repérer et d’arrêter les sans-papiers sur le territoire national. Jouant de l’ambig",
+      "link": "https://theconversation.com/ils-sont-parmi-nous-la-nouvelle-plateforme-de-la-maison-blanche-et-la-deshumanisation-des-sans-papiers-288434",
+      "image": "https://images.theconversation.com/files/750566/original/file-20260728-57-nelv8.png?ixlib=rb-4.1.1&amp;rect=35%2C0%2C921%2C614&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-03T14:04:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afen6on",
+      "title": "Les IA génératives à la recherche d’un modèle d’affaires viable pourront-elles survivre sans publicité ?",
+      "summary": "Certains les décrivent comme des psys ou des amis. C’est dire la place que les intelligences artficielles, ou IA, ont pris dans la vie des Français. La gratuité de ces services a probablement contribué à cette confusion. Mais combien de temps les entreprises du secteur pourront-elles continuer à offrir des services non",
+      "link": "https://theconversation.com/les-ia-generatives-a-la-recherche-dun-modele-daffaires-viable-pourront-elles-survivre-sans-publicite-287241",
+      "image": "https://counter.theconversation.com/content/287241/count.gif",
+      "publishedAt": "2026-08-03T14:03:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a2n4wan",
       "title": "Que signifient les chevelures bouclées des Égyptiennes d’hier et d’aujourd’hui ?",
-      "summary": "En Égypte, la « Révolution des cheveux bouclés », est menée par des femmes qui s’insurgent contre les méthodes de lissage chimique et les défrisages hautement toxiques. Un mouvement moins futile qu’il n’y paraît, et qui résonne avec des pratiques de l’Égypte ancienne ! Un nombre croissant d’Égyptiennes arborent aujourd",
+      "summary": "En Égypte, la « Révolution des cheveux bouclés » est menée par des femmes qui s’insurgent contre les méthodes de lissage chimique et les défrisages hautement toxiques. Un mouvement moins futile qu’il n’y paraît, et qui résonne avec des pratiques de l’Égypte ancienne ! Un nombre croissant d’Égyptiennes arborent aujourd’",
       "link": "https://theconversation.com/que-signifient-les-chevelures-bouclees-des-egyptiennes-dhier-et-daujourdhui-285868",
       "image": "https://images.theconversation.com/files/750936/original/file-20260729-57-n6jn6a.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
       "publishedAt": "2026-08-02T13:31:58.000Z",
@@ -131,7 +252,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +270,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aedlc0a",
@@ -167,7 +288,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +304,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +354,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +386,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,8 +404,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "arac1wf",
@@ -299,8 +420,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "af3bx0x",
@@ -315,8 +436,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a3di6yv",
@@ -333,7 +454,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -349,7 +470,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -365,23 +486,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1ejtxa",
-      "title": "Vente de la Coupe du monde : le bras de fer entre la FIFA et l’Europe",
-      "summary": "L’ESSENTIEL Le président de la FIFA Gianni Infantino veut ouvrir les compétitions mondiales à des investisseurs privés via une nouvelle filiale commerciale. L’UEFA et plusieurs fédérations européennes dénoncent un projet contraire à l’esprit de ces compétitions et évoquent un boycott. Au-delà de ce bras de fer, c’est l",
-      "link": "https://theconversation.com/vente-de-la-coupe-du-monde-le-bras-de-fer-entre-la-fifa-et-leurope-288759",
-      "image": "https://counter.theconversation.com/content/288759/count.gif",
-      "publishedAt": "2026-07-30T15:28:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -397,7 +502,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -413,7 +518,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -429,103 +534,21 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
-      "id": "amx7uj7",
-      "title": "Pourquoi les vieux torchons essuient-ils mieux que les neufs ?",
-      "summary": "En modifiant la texture des fibres et du tissu, les lavages répétés le rendent plus absorbant que son remplaçant flambant neuf. Anna Shvets/Pexels Un torchon neuf peut repousser l’eau, tandis qu’un modèle usé l’absorbe beaucoup plus facilement. Les propriétés des fibres, les finitions textiles et les effets du lavage e",
-      "link": "https://theconversation.com/pourquoi-les-vieux-torchons-essuient-ils-mieux-que-les-neufs-287206",
-      "image": "https://images.theconversation.com/files/746844/original/file-20260106-56-wdekit.jpg?ixlib=rb-4.1.1&amp;rect=1455%2C1054%2C4105%2C2736&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-31T08:09:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "a1vyu85",
+      "title": "Un BO avant une loi : interdire le téléphone portable au lycée",
+      "summary": "Publication officielle du ministre de l’Education, une circulaire précise l’annonce de l’interdiction du téléphone portable au lycée (MENE2617958C Circulaire : du 2-7-2026). Nous y sommes enfin, le ministère a tranché L’article Un BO avant une loi : interdire le téléphone portable au lycée est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/07/06/un-bo-avant-une-loi-interdire-le-telephone-portable-au-lycee/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-07-06T06:23:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atbf65j",
-      "title": "Les limites de l’économie, au-delà des caricatures",
-      "summary": "Les critiques d’une science économique hors sol et technocratique méritent d’être entendues, mais elles ignorent souvent la transformation profonde de la discipline. Devenue largement empirique, celle-ci mobilise l’identification causale pour analyser les politiques publiques et les comportements, tandis que ses approc",
-      "link": "https://theconversation.com/les-limites-de-leconomie-au-dela-des-caricatures-287237",
-      "image": "https://counter.theconversation.com/content/287237/count.gif",
-      "publishedAt": "2026-07-30T13:16:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arc9ft7",
-      "title": "La caméra au service de la recherche : l’expérience d’un documentaire à Madagascar",
-      "summary": "Scène de tournage du film « Histoires paysannes des Hautes Terres de Madagascar », réalisée au sein d’une parcelle agricole. © Mathilde Le Graciet, Fourni par l'auteur Et si la caméra était bien plus qu’un moyen de présenter des résultats scientifiques ? En réalisant un documentaire auprès d’agriculteurs des Hautes Ter",
-      "link": "https://theconversation.com/la-camera-au-service-de-la-recherche-lexperience-dun-documentaire-a-madagascar-287405",
-      "image": "https://images.theconversation.com/files/750118/original/file-20260725-57-rkhuli.png?ixlib=rb-4.1.1&amp;rect=0%2C204%2C2486%2C1657&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-30T13:16:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aeuvkt1",
-      "title": "Habiter en hauteur : un immobilier cher et recherché, mais vulnérable aux fortes chaleurs",
-      "summary": "L’ESSENTIEL Dans les principales zones urbaines françaises, les logements se vendent d’autant plus cher que l’on monte dans les étages : plus de lumière, plus de vue, moins de vis-à-vis. Ces hauts étages sont pourtant les plus vulnérables à la chaleur en période de canicule, selon une enquête geographique récente. Les ",
-      "link": "https://theconversation.com/habiter-en-hauteur-un-immobilier-cher-et-recherche-mais-vulnerable-aux-fortes-chaleurs-288423",
-      "image": "https://images.theconversation.com/files/750270/original/file-20260727-57-2ndqoc.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-30T13:15:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5uxupp",
-      "title": "Qu’est-ce que la littérature « jeune adulte » ?",
-      "summary": "Les romans « jeune adulte » mettent en scène des héros qui font face à des choix de vie, explorent leur identité, vivent leurs premiers amours ou luttent dans des mondes extraordinaires. Pexels, CC BY Les romans de la littérature dite « jeune adulte » comportent des caractéristiques communes, bien que la catégorie rest",
-      "link": "https://theconversation.com/quest-ce-que-la-litterature-jeune-adulte-288455",
-      "image": "https://images.theconversation.com/files/750634/original/file-20260728-57-u88h9k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-30T13:15:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agvy8cc",
-      "title": "Cadmium : des laitues peuvent-elles nous aider à dépolluer les sols ?",
-      "summary": "Utiliser des plantes pour dépolluer les sols, c’est ce que propose la phytoremédiation. Cette aire de recherche est en pleine expansion alors que les inquiétudes liées aux métaux toxiques se multiplient. Mais un problème demeure : ces processus basés sur les plantes restent encore assez lent. Pour remédier à cela, une ",
-      "link": "https://theconversation.com/cadmium-des-laitues-peuvent-elles-nous-aider-a-depolluer-les-sols-285419",
-      "image": "https://images.theconversation.com/files/743581/original/file-20260623-71-5ns86m.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-07-30T08:41:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 20,
       "urgencyLevel": "basse"
@@ -543,23 +566,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1vyu85",
-      "title": "Un BO avant une loi : interdire le téléphone portable au lycée",
-      "summary": "Publication officielle du ministre de l’Education, une circulaire précise l’annonce de l’interdiction du téléphone portable au lycée (MENE2617958C Circulaire : du 2-7-2026). Nous y sommes enfin, le ministère a tranché L’article Un BO avant une loi : interdire le téléphone portable au lycée est apparu en premier sur Le ",
-      "link": "https://www.cafepedagogique.net/2026/07/06/un-bo-avant-une-loi-interdire-le-telephone-portable-au-lycee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
-      "publishedAt": "2026-07-06T06:23:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -594,7 +601,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -612,7 +619,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
