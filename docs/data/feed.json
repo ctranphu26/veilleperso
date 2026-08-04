@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T02:24:58.756Z",
+  "generatedAt": "2026-08-04T08:33:53.913Z",
   "themes": [
     {
       "id": "education-medias",
@@ -136,8 +136,24 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2n4wan",
+      "title": "Que signifient les chevelures bouclées des Égyptiennes d’hier et d’aujourd’hui ?",
+      "summary": "En Égypte, la « révolution des cheveux bouclés » est menée par des femmes qui s’insurgent contre les méthodes de lissage chimique et les défrisages hautement toxiques. Un mouvement moins futile qu’il n’y paraît, et qui résonne avec des pratiques de l’Égypte ancienne ! Un nombre croissant d’Égyptiennes arborent aujourd’",
+      "link": "https://theconversation.com/que-signifient-les-chevelures-bouclees-des-egyptiennes-dhier-et-daujourdhui-285868",
+      "image": "https://images.theconversation.com/files/750936/original/file-20260729-57-n6jn6a.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-02T13:31:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alq8n7",
@@ -154,7 +170,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -172,7 +188,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -188,7 +204,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -204,7 +220,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -220,7 +236,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -236,23 +252,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2n4wan",
-      "title": "Que signifient les chevelures bouclées des Égyptiennes d’hier et d’aujourd’hui ?",
-      "summary": "En Égypte, la « Révolution des cheveux bouclés » est menée par des femmes qui s’insurgent contre les méthodes de lissage chimique et les défrisages hautement toxiques. Un mouvement moins futile qu’il n’y paraît, et qui résonne avec des pratiques de l’Égypte ancienne ! Un nombre croissant d’Égyptiennes arborent aujourd’",
-      "link": "https://theconversation.com/que-signifient-les-chevelures-bouclees-des-egyptiennes-dhier-et-daujourdhui-285868",
-      "image": "https://images.theconversation.com/files/750936/original/file-20260729-57-n6jn6a.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-02T13:31:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +270,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -288,7 +288,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +304,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,8 +354,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a6fh1zo",
@@ -370,7 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -386,7 +386,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a82rmdb",
+      "title": "Que peut nous apprendre l’Australie, référence mondiale en matière d’alerte, sur la gestion des incendies ?",
+      "summary": "L’ESSENTIEL L’Australie dispose d’un système d’alerte parmi les plus aboutis au monde face aux feux de végétation. Les alertes sont largement comprises, mais elles ne suffisent pas toujours à convaincre les habitants d’évacuer. Trouver le bon équilibre entre informer suffisamment et éviter la saturation reste un défi. ",
+      "link": "https://theconversation.com/que-peut-nous-apprendre-laustralie-reference-mondiale-en-matiere-dalerte-sur-la-gestion-des-incendies-288760",
+      "image": "https://counter.theconversation.com/content/288760/count.gif",
+      "publishedAt": "2026-07-31T08:17:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -404,7 +420,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -420,7 +436,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -436,23 +452,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a82rmdb",
-      "title": "Que peut nous apprendre l’Australie, référence mondiale en matière d’alerte, sur la gestion des incendies ?",
-      "summary": "L’ESSENTIEL L’Australie dispose d’un système d’alerte parmi les plus aboutis au monde face aux feux de végétation. Les alertes sont largement comprises, mais elles ne suffisent pas toujours à convaincre les habitants d’évacuer. Trouver le bon équilibre entre informer suffisamment et éviter la saturation reste un défi. ",
-      "link": "https://theconversation.com/que-peut-nous-apprendre-laustralie-reference-mondiale-en-matiere-dalerte-sur-la-gestion-des-incendies-288760",
-      "image": "https://counter.theconversation.com/content/288760/count.gif",
-      "publishedAt": "2026-07-31T08:17:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -470,7 +470,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -486,7 +486,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -502,7 +502,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -518,7 +518,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -534,7 +534,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -566,7 +566,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -582,7 +582,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
