@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:33:53.913Z",
+  "generatedAt": "2026-08-04T14:07:51.497Z",
   "themes": [
     {
       "id": "education-medias",
@@ -136,8 +136,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2n4wan",
@@ -152,7 +152,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -170,7 +170,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -204,7 +204,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -220,7 +220,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -236,7 +236,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -252,14 +252,14 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "al3mw0i",
-      "title": "Demandez à un homme ou une femme de vous parler de développement personnel, ils n’emploieront pas les mêmes mots",
-      "summary": "L’ESSENTIEL Le marché florissant du développement personnel est tantôt soupçonné de nombrilisme, tantôt considéré comme un outil de manipulation managériale. Une étude a passé au crible les discours sur le développement personnel, via un logiciel de statistiques textuelles. Les femmes et les hommes ne mettent pas les m",
-      "link": "https://theconversation.com/demandez-a-un-homme-ou-une-femme-de-vous-parler-de-developpement-personnel-ils-nemploieront-pas-les-memes-mots-287219",
+      "id": "aq8ekn6",
+      "title": "Demandez à un homme ou à une femme de vous parler de développement personnel, ils n’emploieront pas les mêmes mots",
+      "summary": "L’ESSENTIEL Le marché florissant du développement personnel est tantôt soupçonné de nombrilisme, tantôt considéré comme un outil de manipulation managériale. Une étude a passé au crible les discours sur le développement personnel, au moyen d’un logiciel de statistiques textuelles. Les femmes et les hommes ne mettent pa",
+      "link": "https://theconversation.com/demandez-a-un-homme-ou-a-une-femme-de-vous-parler-de-developpement-personnel-ils-nemploieront-pas-les-memes-mots-287219",
       "image": "https://images.theconversation.com/files/750222/original/file-20260727-57-mcyl8k.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
       "publishedAt": "2026-08-02T16:39:00.000Z",
       "source": "The Conversation (FR)",
@@ -270,13 +270,13 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
       "id": "aedlc0a",
-      "title": "Feux de forêt : quels sont les facteurs qui influencent le plus leur comportement ?",
-      "summary": "Le climat, les activités humaines et la végétation sont les trois grands facteurs qui contrôlent les feux et en modifient parfois le comportement, voire la dangerosité. Dans l’ouvrage « Feux de végétation : comprendre leur diversité et leur évolution », paru en 2022 aux éditions Quae, les chercheurs Thomas Curt (coordi",
+      "title": "Feux de forêt : quels sont les facteurs qui influencent le plus leur comportement ?",
+      "summary": "Le climat, les activités humaines et la végétation sont les trois grands facteurs qui contrôlent les feux et en modifient parfois le comportement, voire la dangerosité. Dans l’ouvrage Feux de végétation : comprendre leur diversité et leur évolution, paru en 2022 aux éditions Quae, les chercheurs Thomas Curt (coordinati",
       "link": "https://theconversation.com/feux-de-foret-quels-sont-les-facteurs-qui-influencent-le-plus-leur-comportement-288754",
       "image": "https://images.theconversation.com/files/751191/original/file-20260730-82-yvzjgt.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
       "publishedAt": "2026-08-02T13:33:48.000Z",
@@ -288,7 +288,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +304,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +354,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -370,7 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -386,7 +386,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -402,7 +402,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -420,7 +420,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -436,7 +436,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -452,7 +452,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -470,7 +470,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -486,55 +486,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "asyp44p",
-      "title": "Les séquelles du cancer compliquent souvent l’usage des outils numériques",
-      "summary": "Le « chemo brain » et d'autres séquelles du cancer ne perturbent pas seulement le quotidien : ils rendent aussi les sites web, les applications et les smartphones plus difficiles à utiliser. Thirdman/pexels, CC BY-SA Les progrès des traitements permettent à davantage de personnes de survivre au cancer. Mais beaucoup co",
-      "link": "https://theconversation.com/les-sequelles-du-cancer-compliquent-souvent-lusage-des-outils-numeriques-287975",
-      "image": "https://images.theconversation.com/files/749765/original/file-20260723-64-xfrcnf.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-31T08:21:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avy9l1v",
-      "title": "Les tout premiers influenceurs au monde étaient français et sont nés après la Révolution",
-      "summary": "A painting by Jacques-Louis David of French socialite and Neoclassical icon Madame Récamier whose salon in Paris attracted leading literary and political circles in the early 19th-century. Wikimedia Au lendemain de la Révolution française, une génération de journalistes, mondains et prescripteurs de goût invente une no",
-      "link": "https://theconversation.com/les-tout-premiers-influenceurs-au-monde-etaient-francais-et-sont-nes-apres-la-revolution-287797",
-      "image": "https://images.theconversation.com/files/748533/original/file-20260713-71-wfub3s.jpg?ixlib=rb-4.1.1&amp;rect=0%2C31%2C1499%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-31T08:19:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aezeoat",
-      "title": "La fée Morgane : comment la sœur du roi Arthur est-elle devenue la plus célèbre des sorcières médiévales ?",
-      "summary": "Guérisseuse, experte en mathématiques et reine d'Avalon dans les premiers récits, la fée Morgane était à l'origine une figure profondément positive. (ici La mort du roi Arthur, de James Archer, 1860). James Archer, 1860/Wikimedia, CC BY Bien avant d’incarner la sorcière maléfique, la fée Morgane était une reine, une ér",
-      "link": "https://theconversation.com/la-fee-morgane-comment-la-soeur-du-roi-arthur-est-elle-devenue-la-plus-celebre-des-sorcieres-medievales-287708",
-      "image": "https://images.theconversation.com/files/748312/original/file-20260227-57-w0u4s0.jpg?ixlib=rb-4.1.1&amp;rect=0%2C367%2C1266%2C844&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-07-31T08:19:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -551,6 +503,54 @@
       "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 20,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "asyp44p",
+      "title": "Les séquelles du cancer compliquent souvent l’usage des outils numériques",
+      "summary": "Le « chemo brain » et d'autres séquelles du cancer ne perturbent pas seulement le quotidien : ils rendent aussi les sites web, les applications et les smartphones plus difficiles à utiliser. Thirdman/pexels, CC BY-SA Les progrès des traitements permettent à davantage de personnes de survivre au cancer. Mais beaucoup co",
+      "link": "https://theconversation.com/les-sequelles-du-cancer-compliquent-souvent-lusage-des-outils-numeriques-287975",
+      "image": "https://images.theconversation.com/files/749765/original/file-20260723-64-xfrcnf.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-31T08:21:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "avy9l1v",
+      "title": "Les tout premiers influenceurs au monde étaient français et sont nés après la Révolution",
+      "summary": "A painting by Jacques-Louis David of French socialite and Neoclassical icon Madame Récamier whose salon in Paris attracted leading literary and political circles in the early 19th-century. Wikimedia Au lendemain de la Révolution française, une génération de journalistes, mondains et prescripteurs de goût invente une no",
+      "link": "https://theconversation.com/les-tout-premiers-influenceurs-au-monde-etaient-francais-et-sont-nes-apres-la-revolution-287797",
+      "image": "https://images.theconversation.com/files/748533/original/file-20260713-71-wfub3s.jpg?ixlib=rb-4.1.1&amp;rect=0%2C31%2C1499%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-31T08:19:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aezeoat",
+      "title": "La fée Morgane : comment la sœur du roi Arthur est-elle devenue la plus célèbre des sorcières médiévales ?",
+      "summary": "Guérisseuse, experte en mathématiques et reine d'Avalon dans les premiers récits, la fée Morgane était à l'origine une figure profondément positive. (ici La mort du roi Arthur, de James Archer, 1860). James Archer, 1860/Wikimedia, CC BY Bien avant d’incarner la sorcière maléfique, la fée Morgane était une reine, une ér",
+      "link": "https://theconversation.com/la-fee-morgane-comment-la-soeur-du-roi-arthur-est-elle-devenue-la-plus-celebre-des-sorcieres-medievales-287708",
+      "image": "https://images.theconversation.com/files/748312/original/file-20260227-57-w0u4s0.jpg?ixlib=rb-4.1.1&amp;rect=0%2C367%2C1266%2C844&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-07-31T08:19:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -619,7 +619,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 8,
+      "urgency": 7,
       "urgencyLevel": "basse"
     },
     {
