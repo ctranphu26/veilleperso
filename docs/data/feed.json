@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T19:27:43.712Z",
+  "generatedAt": "2026-08-04T02:24:58.756Z",
   "themes": [
     {
       "id": "education-medias",
@@ -136,7 +136,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 84,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -154,8 +154,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ax3thyw",
@@ -172,8 +172,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajojsb8",
@@ -188,8 +188,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awoudf5",
@@ -204,8 +204,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1wnazg",
@@ -220,8 +220,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afen6on",
@@ -236,8 +236,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2n4wan",
@@ -252,8 +252,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "al3mw0i",
@@ -270,7 +270,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -288,7 +288,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +304,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +354,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,7 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -386,7 +386,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -404,7 +404,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -420,7 +420,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -436,7 +436,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a82rmdb",
+      "title": "Que peut nous apprendre l’Australie, référence mondiale en matière d’alerte, sur la gestion des incendies ?",
+      "summary": "L’ESSENTIEL L’Australie dispose d’un système d’alerte parmi les plus aboutis au monde face aux feux de végétation. Les alertes sont largement comprises, mais elles ne suffisent pas toujours à convaincre les habitants d’évacuer. Trouver le bon équilibre entre informer suffisamment et éviter la saturation reste un défi. ",
+      "link": "https://theconversation.com/que-peut-nous-apprendre-laustralie-reference-mondiale-en-matiere-dalerte-sur-la-gestion-des-incendies-288760",
+      "image": "https://counter.theconversation.com/content/288760/count.gif",
+      "publishedAt": "2026-07-31T08:17:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -454,7 +470,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -470,23 +486,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a82rmdb",
-      "title": "Que peut nous apprendre l’Australie, référence mondiale en matière d’alerte, sur la gestion des incendies ?",
-      "summary": "L’ESSENTIEL L’Australie dispose d’un système d’alerte parmi les plus aboutis au monde face aux feux de végétation. Les alertes sont largement comprises, mais elles ne suffisent pas toujours à convaincre les habitants d’évacuer. Trouver le bon équilibre entre informer suffisamment et éviter la saturation reste un défi. ",
-      "link": "https://theconversation.com/que-peut-nous-apprendre-laustralie-reference-mondiale-en-matiere-dalerte-sur-la-gestion-des-incendies-288760",
-      "image": "https://counter.theconversation.com/content/288760/count.gif",
-      "publishedAt": "2026-07-31T08:17:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -502,7 +502,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -518,7 +518,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -534,7 +534,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -566,7 +566,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 18,
       "urgencyLevel": "basse"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -619,7 +619,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 9,
+      "urgency": 8,
       "urgencyLevel": "basse"
     },
     {
