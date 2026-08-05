@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T08:33:25.446Z",
+  "generatedAt": "2026-08-05T14:05:37.983Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,136 @@
   "count": 35,
   "items": [
     {
+      "id": "a3m34ot",
+      "title": "Il n’y a pas si longtemps, les grillons chantaient dans le métro parisien",
+      "summary": "Grillon domestique _Acheta domesticus_. Mani_raab/iNaturalist, CC BY-NC Saviez-vous que tous les grillons étaient gauchers ? Et que, jusqu’à il y a peu, on entendait leurs stridulations dans les couloirs du métro parisien, avant que les grèves et le béton les en fassent disparaître ? C’est ce que nous apprend l’entomol",
+      "link": "https://theconversation.com/il-ny-a-pas-si-longtemps-les-grillons-chantaient-dans-le-metro-parisien-288142",
+      "image": "https://images.theconversation.com/files/749528/original/file-20260722-69-88y16a.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-05T13:21:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 99,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7x09kp",
+      "title": "Les robots agricoles annoncent-ils vraiment une nouvelle révolution ?",
+      "summary": "Dans une parcelle de salades, un robot de désherbage autonome avance entre les rangs. Grâce à ses capteurs embarqués, il identifie les mauvaises herbes au plus près des cultures et les élimine, plante par plante. Là où les agriculteurs recourent traditionnellement aux herbicides ou à un désherbage manuel coûteux en mai",
+      "link": "https://theconversation.com/les-robots-agricoles-annoncent-ils-vraiment-une-nouvelle-revolution-286606",
+      "image": "https://images.theconversation.com/files/751137/original/file-20260730-50-n3rkbi.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-05T13:24:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atglhsm",
+      "title": "Renseignement : comment les services secrets sont devenus un pilier de l’État",
+      "summary": "Avec la série *le Bureau des légendes* (2015-2020, Canal+), les services de renseignement ont changé d’image auprès du grand public. Le Bureau des légendes/Canal + L’ESSENTIEL Longtemps cantonné aux marges de l’action publique, le renseignement est devenu, à partir des années 2000, un instrument pleinement assumé de l’",
+      "link": "https://theconversation.com/renseignement-comment-les-services-secrets-sont-devenus-un-pilier-de-letat-285503",
+      "image": "https://images.theconversation.com/files/747210/original/file-20260710-57-h7swye.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1598%2C1065&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-05T13:23:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac7jlwq",
+      "title": "Incendies : le retour à la maison, angle mort de la gestion de crise",
+      "summary": "L’ESSENTIEL La gestion des incendies reste organisée autour de l’urgence alors que les difficultés peuvent se prolonger après l’extinction du feu. L’accompagnement des habitants de retour chez eux est fragmenté. Un certain nombre de connaissances en matière d’expositions nocives ou de nuisances sont manquantes. Associe",
+      "link": "https://theconversation.com/incendies-le-retour-a-la-maison-angle-mort-de-la-gestion-de-crise-288860",
+      "image": "https://counter.theconversation.com/content/288860/count.gif",
+      "publishedAt": "2026-08-05T13:23:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "as2tnab",
+      "title": "Donald Trump ou la contagion du mal ordinaire",
+      "summary": "L’ESSENTIEL Trump agit comme un révélateur. Ses propos accélèrent une désinhibition morale générale où la brutalité, le mépris et la transgression deviennent progressivement acceptables. Le mal procède par division. Il fracture l’individu, les relations humaines, la société et le rapport au vivant, faisant du conflit l",
+      "link": "https://theconversation.com/donald-trump-ou-la-contagion-du-mal-ordinaire-288861",
+      "image": "https://counter.theconversation.com/content/288861/count.gif",
+      "publishedAt": "2026-08-05T13:22:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "acr96he",
+      "title": "De 1940 à 1944, quel véhicule roulait en l’absence de pétrole ?",
+      "summary": "Garage de bicyclettes aux portes de l’hippodrome de Longchamp, à Paris en juillet 1941. Bibliothèque historique de la ville de Paris, NN-013-07906-F, André Zucca, Fourni par l'auteur L’invasion de la France en 1940 par l’Allemagne nazie et la constitution du régime de Vichy donnent un coup de frein à l’essor de l’indus",
+      "link": "https://theconversation.com/de-1940-a-1944-quel-vehicule-roulait-en-labsence-de-petrole-283801",
+      "image": "https://images.theconversation.com/files/745694/original/file-20260702-64-eplm9j.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C253%2C1447%2C964&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-05T13:19:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahrho5b",
+      "title": "Dans l’Antiquité, les Grecs n’étaient pas tous bodybuildés !",
+      "summary": "Héraclès et Géras (personnification de la vieillesse). Pelikè (amphore dont la panse s’évase vers le bas) attique à figures rouges provenant de la nécropole de la Banditaccia (Italie), tombe 432, vers 480 avant notre ère, inv. 48238, Musée de la Villa Giulia, Rome. Photo : Lydie Bodiou , Fourni par l'auteur Le corps te",
+      "link": "https://theconversation.com/dans-lantiquite-les-grecs-netaient-pas-tous-bodybuildes-285079",
+      "image": "https://images.theconversation.com/files/750953/original/file-20260729-57-bv92jk.jpg?ixlib=rb-4.1.1&amp;rect=27%2C0%2C757%2C504&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-05T13:18:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akhw3pt",
+      "title": "‘They walk among us.’ The White House’s Aliens page and the dehumanisation of undocumented migrants",
+      "summary": "A screen shot of the White House’s Aliens.gov home page. Whitehouse.gov KEY TAKEAWAYS Last May, the Trump administration launched a website designed to track down and arrest undocumented migrants across the United States. Playing on the ambiguity of the term ‘aliens’, the online platform portrays Washington’s anti-immi",
+      "link": "https://theconversation.com/they-walk-among-us-the-white-houses-aliens-page-and-the-dehumanisation-of-undocumented-migrants-288967",
+      "image": "https://images.theconversation.com/files/751683/original/file-20260728-57-nelv8.png?ixlib=rb-4.1.1&amp;rect=35%2C0%2C921%2C614&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-05T13:08:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "an9h3fh",
       "title": "L’administration Trump veut priver les citoyens d’un puissant levier pour protéger l’environnement",
       "summary": "L’ESSENTIEL Les citoyens états-uniens peuvent saisir la justice pour faire appliquer les lois environnementales lorsque les autorités n’agissent pas. Dans une affaire visant l’entreprise xAI d’Elon Musk, l’administration Trump soutient aujourd’hui que ces recours ne devraient plus être possibles. Si cette position étai",
@@ -131,7 +261,41 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ar1q89j",
+      "title": "L’éclipse solaire, un spectacle impressionnant source de mythes et de découvertes scientifiques",
+      "summary": "L’ESSENTIEL Une première depuis 1999, le 12 août 2026, une éclipse solaire totale sera visible en Europe. En France hexagonale, ce spectacle astronomique parmi les plus marquants sera observable jusqu’à 99 % selon les régions. Découvrez comment se produit ce phénomène et pourquoi on ne l’observe pas tous les mois. Les ",
+      "link": "https://theconversation.com/leclipse-solaire-un-spectacle-impressionnant-source-de-mythes-et-de-decouvertes-scientifiques-283920",
+      "image": "https://images.theconversation.com/files/750857/original/file-20260729-57-tnq9b7.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-05T09:31:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqnu6bo",
+      "title": "Quelles sont les limites de la clim ?",
+      "summary": "L’ESSENTIEL L’efficacité d’une climatisation dépend de nombreux facteurs : la technologie utilisée, le bâtiment, le réseau électrique, l’urbanisme local, les usagers. On peut refroidir une pièce, un hôpital, et même organiser le froid à l’échelle d’un quartier… mais on ne peut pas climatiser le climat. Tant que la clim",
+      "link": "https://theconversation.com/quelles-sont-les-limites-de-la-clim-288010",
+      "image": "https://counter.theconversation.com/content/288010/count.gif",
+      "publishedAt": "2026-08-05T09:31:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -150,8 +314,8 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7k4m0i",
@@ -168,7 +332,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -186,7 +350,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -202,7 +366,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -218,7 +382,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -234,7 +398,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -250,7 +414,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -266,7 +430,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -287,23 +451,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2n4wan",
-      "title": "Que signifient les chevelures bouclées des Égyptiennes d’hier et d’aujourd’hui ?",
-      "summary": "En Égypte, la « révolution des cheveux bouclés » est menée par des femmes qui s’insurgent contre les méthodes de lissage chimique et les défrisages hautement toxiques. Un mouvement moins futile qu’il n’y paraît, et qui résonne avec des pratiques de l’Égypte ancienne ! Un nombre croissant d’Égyptiennes arborent aujourd’",
-      "link": "https://theconversation.com/que-signifient-les-chevelures-bouclees-des-egyptiennes-dhier-et-daujourdhui-285868",
-      "image": "https://images.theconversation.com/files/750936/original/file-20260729-57-n6jn6a.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-02T13:31:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -321,25 +469,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ax3thyw",
-      "title": "Route 66 : cent ans d’un mythe qui ne raconte pas toute l’histoire",
-      "summary": "La Route 66 fête son centenaire en 2026. Mais derrière l’image d’Épinal de la « Mother Road » se cache une histoire plus complexe, où le marketing, les inégalités raciales et les mutations économiques ont façonné autant le mythe que la route elle-même. Agissant de concert, l’American Association of State Highway Offici",
-      "link": "https://theconversation.com/route-66-cent-ans-dun-mythe-qui-ne-raconte-pas-toute-lhistoire-287643",
-      "image": "https://counter.theconversation.com/content/287643/count.gif",
-      "publishedAt": "2026-08-03T14:02:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -355,7 +485,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -387,7 +517,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -403,142 +533,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq8ekn6",
-      "title": "Demandez à un homme ou à une femme de vous parler de développement personnel, ils n’emploieront pas les mêmes mots",
-      "summary": "L’ESSENTIEL Le marché florissant du développement personnel est tantôt soupçonné de nombrilisme, tantôt considéré comme un outil de manipulation managériale. Une étude a passé au crible les discours sur le développement personnel, au moyen d’un logiciel de statistiques textuelles. Les femmes et les hommes ne mettent pa",
-      "link": "https://theconversation.com/demandez-a-un-homme-ou-a-une-femme-de-vous-parler-de-developpement-personnel-ils-nemploieront-pas-les-memes-mots-287219",
-      "image": "https://images.theconversation.com/files/750222/original/file-20260727-57-mcyl8k.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-02T16:39:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "manipulation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aedlc0a",
-      "title": "Feux de forêt : quels sont les facteurs qui influencent le plus leur comportement ?",
-      "summary": "Le climat, les activités humaines et la végétation sont les trois grands facteurs qui contrôlent les feux et en modifient parfois le comportement, voire la dangerosité. Dans l’ouvrage Feux de végétation : comprendre leur diversité et leur évolution, paru en 2022 aux éditions Quae, les chercheurs Thomas Curt (coordinati",
-      "link": "https://theconversation.com/feux-de-foret-quels-sont-les-facteurs-qui-influencent-le-plus-leur-comportement-288754",
-      "image": "https://images.theconversation.com/files/751191/original/file-20260730-82-yvzjgt.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-02T13:33:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a35xdpi",
-      "title": "Canicules, mégafeux, inondations : l’extrême droite à l’offensive",
-      "summary": "Alors que les événements climatiques extrêmes (vagues de chaleur, feux de végétation, inondations, etc.) se multiplient sous l’effet du dérèglement climatique, les acteurs d’extrême droite se sont récemment emparés du sujet pour avancer leur propre agenda anti-écologiste dans plusieurs pays occidentaux comme la France,",
-      "link": "https://theconversation.com/canicules-megafeux-inondations-lextreme-droite-a-loffensive-288765",
-      "image": "https://counter.theconversation.com/content/288765/count.gif",
-      "publishedAt": "2026-08-02T13:34:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ana28zz",
-      "title": "Construire des cabanes : un jeu d’enfants qui interroge nos liens avec la nature",
-      "summary": "L’ESSENTIEL Construire des cabanes, c’est un moyen d’apprendre à vivre en collectivité. Mais c’est aussi une invitation à la rêverie. Quand ils réalisent une cabane, les enfants s’approprient l’espace qui les entoure. Certains détails qui peuvent passer inaperçus aux yeux des adultes ont un sens très fort pour eux. Les",
-      "link": "https://theconversation.com/construire-des-cabanes-un-jeu-denfants-qui-interroge-nos-liens-avec-la-nature-286727",
-      "image": "https://images.theconversation.com/files/748620/original/file-20260717-71-3fbg3g.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-02T13:33:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5zjnfm",
-      "title": "Retour sur le pic d’inflation de 2022 résolu en seulement deux ans. Un héritage des leçons de 1973 ?",
-      "summary": "En 2022, la France connaît un pic d’inflation suite à la guerre en Ukraine. Cinquante ans après le choc pétrolier, la crise est similaire, mais les réponses sont radicalement différentes. Pourquoi ? Qu’en est-il de l’héritage de 1973 ? En 2022, l’inflation française a dépassé 6 %, replongeant le pays dans une situation",
-      "link": "https://theconversation.com/retour-sur-le-pic-dinflation-de-2022-resolu-en-seulement-deux-ans-un-heritage-des-lecons-de-1973-284477",
-      "image": "https://counter.theconversation.com/content/284477/count.gif",
-      "publishedAt": "2026-08-02T13:32:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6fh1zo",
-      "title": "Majorque se révolte contre un tourisme qui dépossède les habitants de leur territoire",
-      "summary": "Le touriste conscient de son impact comprend que payer n’efface pas les conséquences de ses choix et que certains voyages, hébergements ou activités peuvent cesser d’être moralement acceptables. Mistervlad/Shutterstock L’ESSENTIEL À Majorque, les habitants dénoncent un modèle touristique qui aggrave la crise du logemen",
-      "link": "https://theconversation.com/majorque-se-revolte-contre-un-tourisme-qui-depossede-les-habitants-de-leur-territoire-288893",
-      "image": "https://images.theconversation.com/files/751536/original/file-20260729-57-tu2phh.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5999%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-01T15:32:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ar4q4xf",
-      "title": "À l’heure d’Airbnb, qui sont les gagnants de la location de courte durée à La Rochelle ?",
-      "summary": "L'ESSENTIEL Une étude analyse les revenus Airbnb réels et le revenu global des ménages qui louent leurs maisons à La Rochelle. 606 maisons louées sur Airbnb sont comparées à plus de 20 000 maisons non louées. Les revenus associés à la location sont très inégalement répartis entre les ménages les plus modestes et les pl",
-      "link": "https://theconversation.com/a-lheure-dairbnb-qui-sont-les-gagnants-de-la-location-de-courte-duree-a-la-rochelle-286287",
-      "image": "https://counter.theconversation.com/content/286287/count.gif",
-      "publishedAt": "2026-08-01T15:00:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "afqhbs3",
-      "title": "Les plans de travail en quartz, à l’origine d’une crise de santé publique aux États-Unis et dans le monde",
-      "summary": "La pierre reconstituée, également appelée « quartz » ou « aggloméré de quartz », est devenue un matériau très prisé pour les plans de travail de cuisine. Guillermo Spelucin Runciman/iStock/Getty Images Plus Dans l’imaginaire collectif, la silicose, grave maladie incurable qui détruit la fonction pulmonaire, est associé",
-      "link": "https://theconversation.com/les-plans-de-travail-en-quartz-a-lorigine-dune-crise-de-sante-publique-aux-etats-unis-et-dans-le-monde-286271",
-      "image": "https://images.theconversation.com/files/744441/original/file-20260617-71-ot2ryk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7008%2C4672&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-01T10:02:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
     },
     {
       "id": "a1vyu85",
@@ -585,7 +581,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -622,7 +618,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 6,
+      "urgency": 5,
       "urgencyLevel": "basse"
     },
     {
