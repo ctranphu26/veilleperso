@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T19:27:03.782Z",
+  "generatedAt": "2026-08-06T02:27:20.906Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 93,
+      "urgency": 86,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +147,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 76,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "an9h3fh",
+      "title": "L’administration Trump veut priver les citoyens d’un puissant levier pour protéger l’environnement",
+      "summary": "L’ESSENTIEL Les citoyens états-uniens peuvent saisir la justice pour faire appliquer les lois environnementales lorsque les autorités n’agissent pas. Dans une affaire visant l’entreprise xAI d’Elon Musk, l’administration Trump soutient aujourd’hui que ces recours ne devraient plus être possibles. Si cette position étai",
+      "link": "https://theconversation.com/ladministration-trump-veut-priver-les-citoyens-dun-puissant-levier-pour-proteger-lenvironnement-289055",
+      "image": "https://images.theconversation.com/files/751449/original/file-20260731-50-2cliiv.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-04T14:08:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atglhsm",
@@ -165,8 +181,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ac7jlwq",
@@ -181,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "as2tnab",
@@ -197,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "acr96he",
@@ -213,8 +229,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahrho5b",
@@ -229,8 +245,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akhw3pt",
@@ -245,24 +261,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "an9h3fh",
-      "title": "L’administration Trump veut priver les citoyens d’un puissant levier pour protéger l’environnement",
-      "summary": "L’ESSENTIEL Les citoyens états-uniens peuvent saisir la justice pour faire appliquer les lois environnementales lorsque les autorités n’agissent pas. Dans une affaire visant l’entreprise xAI d’Elon Musk, l’administration Trump soutient aujourd’hui que ces recours ne devraient plus être possibles. Si cette position étai",
-      "link": "https://theconversation.com/ladministration-trump-veut-priver-les-citoyens-dun-puissant-levier-pour-proteger-lenvironnement-289055",
-      "image": "https://images.theconversation.com/files/751449/original/file-20260731-50-2cliiv.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-04T14:08:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar1q89j",
@@ -279,7 +279,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -314,7 +314,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -332,7 +332,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +350,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -366,7 +366,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -382,7 +382,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,7 +398,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -414,7 +414,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -430,7 +430,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -451,7 +451,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -469,7 +469,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -485,7 +485,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -501,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -517,7 +517,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -533,7 +533,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -618,7 +618,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 5,
+      "urgency": 4,
       "urgencyLevel": "basse"
     },
     {
