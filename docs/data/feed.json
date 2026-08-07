@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T23:57:08.179Z",
+  "generatedAt": "2026-08-07T02:50:15.165Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 86,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -165,8 +165,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 72,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3m34ot",
+      "title": "Il n’y a pas si longtemps, les grillons chantaient dans le métro parisien",
+      "summary": "Grillon domestique _Acheta domesticus_. Mani_raab/iNaturalist, CC BY-NC Saviez-vous que tous les grillons étaient gauchers ? Et que, jusqu’à il y a peu, on entendait leurs stridulations dans les couloirs du métro parisien, avant que les grèves et le béton les en fassent disparaître ? C’est ce que nous apprend l’entomol",
+      "link": "https://theconversation.com/il-ny-a-pas-si-longtemps-les-grillons-chantaient-dans-le-metro-parisien-288142",
+      "image": "https://images.theconversation.com/files/749528/original/file-20260722-69-88y16a.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-05T13:21:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aioyoqu",
@@ -183,7 +199,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 66,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 66,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 66,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 66,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 66,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,23 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3m34ot",
-      "title": "Il n’y a pas si longtemps, les grillons chantaient dans le métro parisien",
-      "summary": "Grillon domestique _Acheta domesticus_. Mani_raab/iNaturalist, CC BY-NC Saviez-vous que tous les grillons étaient gauchers ? Et que, jusqu’à il y a peu, on entendait leurs stridulations dans les couloirs du métro parisien, avant que les grèves et le béton les en fassent disparaître ? C’est ce que nous apprend l’entomol",
-      "link": "https://theconversation.com/il-ny-a-pas-si-longtemps-les-grillons-chantaient-dans-le-metro-parisien-288142",
-      "image": "https://images.theconversation.com/files/749528/original/file-20260722-69-88y16a.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-05T13:21:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 66,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +345,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -361,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -377,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -393,7 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,41 +425,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar1q89j",
-      "title": "L’éclipse solaire, un spectacle impressionnant source de mythes et de découvertes scientifiques",
-      "summary": "L’ESSENTIEL Une première depuis 1999, le 12 août 2026, une éclipse solaire totale sera visible en Europe. En France hexagonale, ce spectacle astronomique parmi les plus marquants sera observable jusqu’à 99 % selon les régions. Découvrez comment se produit ce phénomène et pourquoi on ne l’observe pas tous les mois. Les ",
-      "link": "https://theconversation.com/leclipse-solaire-un-spectacle-impressionnant-source-de-mythes-et-de-decouvertes-scientifiques-283920",
-      "image": "https://images.theconversation.com/files/750857/original/file-20260729-57-tnq9b7.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-05T09:31:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqnu6bo",
-      "title": "Quelles sont les limites de la clim ?",
-      "summary": "L’ESSENTIEL L’efficacité d’une climatisation dépend de nombreux facteurs : la technologie utilisée, le bâtiment, le réseau électrique, l’urbanisme local, les usagers. On peut refroidir une pièce, un hôpital, et même organiser le froid à l’échelle d’un quartier… mais on ne peut pas climatiser le climat. Tant que la clim",
-      "link": "https://theconversation.com/quelles-sont-les-limites-de-la-clim-288010",
-      "image": "https://counter.theconversation.com/content/288010/count.gif",
-      "publishedAt": "2026-08-05T09:31:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -478,7 +444,41 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ar1q89j",
+      "title": "L’éclipse solaire, un spectacle impressionnant source de mythes et de découvertes scientifiques",
+      "summary": "L’ESSENTIEL Une première depuis 1999, le 12 août 2026, une éclipse solaire totale sera visible en Europe. En France hexagonale, ce spectacle astronomique parmi les plus marquants sera observable jusqu’à 99 % selon les régions. Découvrez comment se produit ce phénomène et pourquoi on ne l’observe pas tous les mois. Les ",
+      "link": "https://theconversation.com/leclipse-solaire-un-spectacle-impressionnant-source-de-mythes-et-de-decouvertes-scientifiques-283920",
+      "image": "https://images.theconversation.com/files/750857/original/file-20260729-57-tnq9b7.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-05T09:31:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aqnu6bo",
+      "title": "Quelles sont les limites de la clim ?",
+      "summary": "L’ESSENTIEL L’efficacité d’une climatisation dépend de nombreux facteurs : la technologie utilisée, le bâtiment, le réseau électrique, l’urbanisme local, les usagers. On peut refroidir une pièce, un hôpital, et même organiser le froid à l’échelle d’un quartier… mais on ne peut pas climatiser le climat. Tant que la clim",
+      "link": "https://theconversation.com/quelles-sont-les-limites-de-la-clim-288010",
+      "image": "https://counter.theconversation.com/content/288010/count.gif",
+      "publishedAt": "2026-08-05T09:31:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +496,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -514,7 +514,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -530,7 +530,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
