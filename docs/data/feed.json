@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T07:12:59.904Z",
+  "generatedAt": "2026-08-07T12:59:31.606Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "au0bp3i",
+      "title": "Dans les forêts des Landes, le stockage de CO₂ atteint ses limites, et ce n’est pas seulement dû aux incendies",
+      "summary": "La forêt des Landes à La Teste-de-Buch (Gironde), en 2004. Larrousiney, CC BY L’ESSENTIEL Les forêts exploitées ne sont pas toujours des puits de carbone : elles peuvent parfois se retrouver à émettre plus de CO₂ qu’elles n’en stockent. Pour connaître la tendance, il faut s’intéresser à l’évolution des végétaux, du sol",
+      "link": "https://theconversation.com/dans-les-forets-des-landes-le-stockage-de-co-atteint-ses-limites-et-ce-nest-pas-seulement-du-aux-incendies-289163",
+      "image": "https://images.theconversation.com/files/752242/original/file-20260805-50-kg1htl.jpeg?ixlib=rb-4.1.1&amp;rect=94%2C0%2C1091%2C727&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-07T08:38:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a7v4q3e",
       "title": "Pourquoi le vote des personnes détenues doit être préservé",
       "summary": "L’ESSENTIEL Les personnes détenues font – en théorie – pleinement partie du corps électoral. Pourtant, leur accès au vote a été largement restreint par une loi votée au cours de l’été 2025. Seuls 4 % des potentiels électeurs incarcérés ont participé au dernier scrutin municipal. Ce vote doit-il être restreint ou, au co",
@@ -131,7 +147,73 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aufnuv2",
+      "title": "Le Royaume-Uni, le Japon et l’Italie peuvent-ils réussir leur avion de combat de sixième génération là où la France et ses partenaires ont échoué ?",
+      "summary": "L’ESSENTIEL Après l’échec de la tentative franco-germano-espagnole, le Royaume-Uni, l’Italie et le Japon s’unissent pour développer un avion de combat de sixième génération Les trois partenaires disposent des compétences technologiques nécessaires. Mais ils doivent encore démontrer leur capacité à maîtriser les coûts e",
+      "link": "https://theconversation.com/le-royaume-uni-le-japon-et-litalie-peuvent-ils-reussir-leur-avion-de-combat-de-sixieme-generation-la-ou-la-france-et-ses-partenaires-ont-echoue-289056",
+      "image": "https://counter.theconversation.com/content/289056/count.gif",
+      "publishedAt": "2026-08-07T09:37:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "compétence"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abcp492",
+      "title": "« Faire roter sa maison » : cette habitude allemande est-elle bonne pour la santé ?",
+      "summary": "Les Allemands pratiquent depuis longtemps le Stoßlüften, qui consiste à ouvrir largement les fenêtres pendant quelques minutes, même en hiver. Les recherches montrent que cette méthode renouvelle efficacement l’air sans refroidir durablement le logement. Le « house burping » (« faire roter sa maison ») envahit les rése",
+      "link": "https://theconversation.com/faire-roter-sa-maison-cette-habitude-allemande-est-elle-bonne-pour-la-sante-287212",
+      "image": "https://counter.theconversation.com/content/287212/count.gif",
+      "publishedAt": "2026-08-07T09:30:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arovni3",
+      "title": "À quoi doit-on faire attention quand on boit de l'alcool devant ses enfants ?",
+      "summary": "La manière dont les parents consomment de l'alcool contribue à façonner ce que leurs enfants considèrent comme une pratique « normale ». Kelsey Knight/Unsplash, CC BY Faut-il éviter de boire devant ses adolescents ? Sans prôner l'abstinence, une étude menée sur plus de vingt ans montre que la manière dont les parents c",
+      "link": "https://theconversation.com/a-quoi-doit-on-faire-attention-quand-on-boit-de-lalcool-devant-ses-enfants-287209",
+      "image": "https://images.theconversation.com/files/747407/original/file-20260713-56-20y7ta.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-07T09:12:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "am4xp87",
+      "title": "Pourquoi les boutons sont-ils à droite sur les vêtements d’homme et à gauche sur ceux des femmes ?",
+      "summary": "Boutons à gauche, boutons à droite : l'histoire méconnue d'une vieille convention vestimentaire Kristina Chuprina/Pexels, CC BY L’emplacement des boutons sur les vêtements masculins et féminins est l’un de ces héritages du passé qui ont survécu à la mécanisation de l’industrie textile. Une convention devenue si banale ",
+      "link": "https://theconversation.com/pourquoi-les-boutons-sont-ils-a-droite-sur-les-vetements-dhomme-et-a-gauche-sur-ceux-des-femmes-287207",
+      "image": "https://images.theconversation.com/files/747419/original/file-20260713-57-d59nn6.jpg?ixlib=rb-4.1.1&amp;rect=16%2C0%2C4894%2C3262&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-07T07:56:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +231,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awg5zfu",
@@ -165,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +281,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +427,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -361,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -377,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -393,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,26 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajtwwhk",
-      "title": "Ce que l’accès aux toilettes publiques révèle des inégalités de genre dans les villes",
-      "summary": "L’ESSENTIEL Dans les gares, dans les festivals ou sur les stations d’autoroutes, accéder aux toilettes relève pour les femmes de l’épreuve de patience. Le design uniformisé des toilettes publiques cache des normes de genre qui produisent des inégalités. Loin d’être triviale, la question des sanitaires interroge la conc",
-      "link": "https://theconversation.com/ce-que-lacces-aux-toilettes-publiques-revele-des-inegalites-de-genre-dans-les-villes-288744",
-      "image": "https://counter.theconversation.com/content/288744/count.gif",
-      "publishedAt": "2026-08-04T14:08:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité",
-        "genre"
-      ],
-      "relevance": 93,
-      "relevanceLevel": "haute",
-      "urgency": 42,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -462,75 +525,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqnu6bo",
-      "title": "Quelles sont les limites de la clim ?",
-      "summary": "L’ESSENTIEL L’efficacité d’une climatisation dépend de nombreux facteurs : la technologie utilisée, le bâtiment, le réseau électrique, l’urbanisme local, les usagers. On peut refroidir une pièce, un hôpital, et même organiser le froid à l’échelle d’un quartier… mais on ne peut pas climatiser le climat. Tant que la clim",
-      "link": "https://theconversation.com/quelles-sont-les-limites-de-la-clim-288010",
-      "image": "https://counter.theconversation.com/content/288010/count.gif",
-      "publishedAt": "2026-08-05T09:31:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a7k4m0i",
-      "title": "How grief became a subscription service",
-      "summary": "There is life after death: digitally speaking thanabots prove this by virtually recreating loved ones who have passed away. It’s a money-spinning, potentially heart-wrenching and largely unregulated business. AI generated image , Fourni par l'auteur KEY TAKEAWAYS Interactive digital clones of deceased people feed off a",
-      "link": "https://theconversation.com/how-grief-became-a-subscription-service-287412",
-      "image": "https://images.theconversation.com/files/748166/original/file-20260715-72-zaf0rr.png?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1536%2C1024&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-04T14:09:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "afs9i2n",
-      "title": "Pourquoi a-t-on envie de manger du salé au bord de la mer ?",
-      "summary": "À la plage, les produits apéritifs, les snacks ou les fruits secs peuvent apporter des quantités élevées de sel dans un volume réduit. Davizro Photography/Shutterstock (no reuse) L’ESSENTIEL Nous avons souvent envie de salé lors de pique-niques à la plage ou d’apéritifs en terrasse au bord de la mer. La transpiration, ",
-      "link": "https://theconversation.com/pourquoi-a-t-on-envie-de-manger-du-sale-au-bord-de-la-mer-288957",
-      "image": "https://images.theconversation.com/files/751665/original/file-20260724-57-9molak.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7313%2C4875&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-04T14:09:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ablmnfh",
-      "title": "Canicules : le rôle de l’isolation et de l’inertie thermique des bâtiments pour se protéger contre la chaleur",
-      "summary": ".tc-acc{display:block;margin:0 0 1rem} .tc-acc .tc-head,.tc-acc .tc-title,.tc-acc .tc-cta,.tc-acc .tc-item{margin:0} .tc-acc .tc-head p{margin:0} .tc-acc .tc-head br{display:none} .tc-acc .tc-head{display:block;cursor:pointer;text-decoration:none;color:inherit;background:#f1f1f2;border-radius:.5rem;padding:.85rem 1rem}",
-      "link": "https://theconversation.com/canicules-le-role-de-lisolation-et-de-linertie-thermique-des-batiments-pour-se-proteger-contre-la-chaleur-287925",
-      "image": "https://images.theconversation.com/files/748906/original/file-20260720-57-mz2bcn.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-04T14:09:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 38,
       "urgencyLevel": "basse"
     },
     {
@@ -562,7 +557,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
