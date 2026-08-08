@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T12:43:50.342Z",
+  "generatedAt": "2026-08-08T18:34:52.720Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,54 +119,6 @@
   "count": 25,
   "items": [
     {
-      "id": "a3x2fap",
-      "title": "Sous le Soleil noir… Les plus grandes éclipses de l’histoire du cinéma",
-      "summary": "Dans « Apocalypto », le film de Mel Gibson, l’éclipse joue un rôle majeur dans l’intrigue. Icon Entertainment Le 12 août 2026, un spectacle céleste exceptionnel attend les observateurs : la première éclipse solaire à traverser la péninsule ibérique depuis plus d’un siècle. Elle coïncidera en outre avec le pic des Persé",
-      "link": "https://theconversation.com/sous-le-soleil-noir-les-plus-grandes-eclipses-de-lhistoire-du-cinema-288216",
-      "image": "https://images.theconversation.com/files/749767/original/file-20260715-69-umyikw.jpg?ixlib=rb-4.1.1&amp;rect=168%2C0%2C911%2C607&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-08T06:51:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "awa0l9i",
-      "title": "Comment les éclipses ont ouvert la cour impériale chinoise aux sciences européennes",
-      "summary": "Le drapeau représentant un dragon dévorant le Soleil, également appelé drapeau du Dragon jaune, devint le premier drapeau national de la Chine. Wikimedia commons, CC BY L’ESSENTIEL En Chine impériale, prévoir les éclipses était essentiel à la légitimité du pouvoir. Au XVIIe siècle, les jésuites ont imposé des méthodes ",
-      "link": "https://theconversation.com/comment-les-eclipses-ont-ouvert-la-cour-imperiale-chinoise-aux-sciences-europeennes-289241",
-      "image": "https://images.theconversation.com/files/752503/original/file-20260727-57-p0cmrt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-08T06:49:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a9aired",
-      "title": "Comment l’éclipse permettra d’observer le Soleil dévier la lumière des étoiles",
-      "summary": "La déviation de la lumière par la gravité est invisible au quotidien, mais une éclipse totale de Soleil la rend observable. Sirbouman/Shutterstock L’ESSENTIEL La gravité peut dévier la lumière : une éclipse de Soleil permet d’observer directement cet effet prédit par Einstein. Cette déviation est à l’origine des effets",
-      "link": "https://theconversation.com/comment-leclipse-permettra-dobserver-le-soleil-devier-la-lumiere-des-etoiles-288985",
-      "image": "https://images.theconversation.com/files/751726/original/file-20260728-57-g7b9jq.jpg?ixlib=rb-4.1.1&amp;rect=16%2C0%2C5947%2C3965&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-08T06:48:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
       "id": "ajkh5zh",
       "title": "D’où viennent ces mystérieux signaux venus de l’espace ? Nous avons trouvé leur « pierre de Rosette »",
       "summary": "Simulation des lignes de champ magnétique dans un système binaire où les deux étoiles sont suffisamment proches pour interagir. Carl Knox (OzGrav/Swinburne) & Joshua Preston Pritchard (CSIRO) Grâce à des observations combinant ondes radio, lumière visible et rayons X, des astronomes ont identifié la source d’un mystéri",
@@ -181,8 +133,56 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3x2fap",
+      "title": "Sous le Soleil noir… Les plus grandes éclipses de l’histoire du cinéma",
+      "summary": "Dans « Apocalypto », le film de Mel Gibson, l’éclipse joue un rôle majeur dans l’intrigue. Icon Entertainment Le 12 août 2026, un spectacle céleste exceptionnel attend les observateurs : la première éclipse solaire à traverser la péninsule ibérique depuis plus d’un siècle. Elle coïncidera en outre avec le pic des Persé",
+      "link": "https://theconversation.com/sous-le-soleil-noir-les-plus-grandes-eclipses-de-lhistoire-du-cinema-288216",
+      "image": "https://images.theconversation.com/files/749767/original/file-20260715-69-umyikw.jpg?ixlib=rb-4.1.1&amp;rect=168%2C0%2C911%2C607&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-08T06:51:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awa0l9i",
+      "title": "Comment les éclipses ont ouvert la cour impériale chinoise aux sciences européennes",
+      "summary": "Le drapeau représentant un dragon dévorant le Soleil, également appelé drapeau du Dragon jaune, devint le premier drapeau national de la Chine. Wikimedia commons, CC BY L’ESSENTIEL En Chine impériale, prévoir les éclipses était essentiel à la légitimité du pouvoir. Au XVIIe siècle, les jésuites ont imposé des méthodes ",
+      "link": "https://theconversation.com/comment-les-eclipses-ont-ouvert-la-cour-imperiale-chinoise-aux-sciences-europeennes-289241",
+      "image": "https://images.theconversation.com/files/752503/original/file-20260727-57-p0cmrt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-08T06:49:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a9aired",
+      "title": "Comment l’éclipse permettra d’observer le Soleil dévier la lumière des étoiles",
+      "summary": "La déviation de la lumière par la gravité est invisible au quotidien, mais une éclipse totale de Soleil la rend observable. Sirbouman/Shutterstock L’ESSENTIEL La gravité peut dévier la lumière : une éclipse de Soleil permet d’observer directement cet effet prédit par Einstein. Cette déviation est à l’origine des effets",
+      "link": "https://theconversation.com/comment-leclipse-permettra-dobserver-le-soleil-devier-la-lumiere-des-etoiles-288985",
+      "image": "https://images.theconversation.com/files/751726/original/file-20260728-57-g7b9jq.jpg?ixlib=rb-4.1.1&amp;rect=16%2C0%2C5947%2C3965&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-08T06:48:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "an8png2",
@@ -197,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asdc3v1",
@@ -213,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "au0bp3i",
@@ -229,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +263,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,7 +329,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -363,8 +363,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5csazf",
@@ -379,8 +379,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "alwemyo",
@@ -395,8 +395,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ak97oih",
@@ -411,8 +411,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1txfvu",
@@ -427,8 +427,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ae1n2g0",
@@ -443,8 +443,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a7x09kp",
@@ -459,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +509,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -525,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     }
   ]
