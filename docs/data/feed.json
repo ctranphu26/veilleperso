@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T12:46:20.072Z",
+  "generatedAt": "2026-08-09T18:37:41.864Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +149,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6acgou",
@@ -165,8 +165,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajup20m",
@@ -181,8 +181,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amfimn9",
@@ -197,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apru93",
@@ -213,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajkh5zh",
@@ -231,7 +231,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -343,26 +343,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aufnuv2",
-      "title": "Le Royaume-Uni, le Japon et l’Italie peuvent-ils réussir leur avion de combat de sixième génération là où la France et ses partenaires ont échoué ?",
-      "summary": "L’ESSENTIEL Après l’échec de la tentative franco-germano-espagnole, le Royaume-Uni, l’Italie et le Japon s’unissent pour développer un avion de combat de sixième génération Les trois partenaires disposent des compétences technologiques nécessaires. Mais ils doivent encore démontrer leur capacité à maîtriser les coûts e",
-      "link": "https://theconversation.com/le-royaume-uni-le-japon-et-litalie-peuvent-ils-reussir-leur-avion-de-combat-de-sixieme-generation-la-ou-la-france-et-ses-partenaires-ont-echoue-289056",
-      "image": "https://counter.theconversation.com/content/289056/count.gif",
-      "publishedAt": "2026-08-07T09:37:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "compétence"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
     },
     {
       "id": "ash5nx0",
@@ -379,7 +361,25 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aufnuv2",
+      "title": "Le Royaume-Uni, le Japon et l’Italie peuvent-ils réussir leur avion de combat de sixième génération là où la France et ses partenaires ont échoué ?",
+      "summary": "L’ESSENTIEL Après l’échec de la tentative franco-germano-espagnole, le Royaume-Uni, l’Italie et le Japon s’unissent pour développer un avion de combat de sixième génération Les trois partenaires disposent des compétences technologiques nécessaires. Mais ils doivent encore démontrer leur capacité à maîtriser les coûts e",
+      "link": "https://theconversation.com/le-royaume-uni-le-japon-et-litalie-peuvent-ils-reussir-leur-avion-de-combat-de-sixieme-generation-la-ou-la-france-et-ses-partenaires-ont-echoue-289056",
+      "image": "https://counter.theconversation.com/content/289056/count.gif",
+      "publishedAt": "2026-08-07T09:37:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "compétence"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -395,7 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -445,7 +445,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -461,7 +461,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -477,7 +477,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -493,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -525,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
