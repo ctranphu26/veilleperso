@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:53:48.250Z",
+  "generatedAt": "2026-08-09T12:46:20.072Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,104 @@
   "count": 35,
   "items": [
     {
+      "id": "astd2pb",
+      "title": "Ce que les sciences sociales doivent à Edgar Morin",
+      "summary": "L’ESSENTIEL. Edgar Morin est décédé en mai dernier à l’âge de 104 ans. Le père de la pensée complexe à la curiosité insatiable a toujours cultivé une farouche indépendance intellectuelle. Edgar Morin refuse le cloisonnement des savoirs. Pour en sortir, il a proposé une méthode originale transdisciplinaire pour les reli",
+      "link": "https://theconversation.com/ce-que-les-sciences-sociales-doivent-a-edgar-morin-289070",
+      "image": "https://counter.theconversation.com/content/289070/count.gif",
+      "publishedAt": "2026-08-09T07:38:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6nbh2x",
+      "title": "Équilibrer son alimentation malgré la précarité ? Enquête sur les stratégies des classes populaires",
+      "summary": "L’ESSENTIEL Comment se nourrir sainement quand les revenus stagnent, mais que les prix en magasin ne cessent d’augmenter ? Une enquête à Roubaix, dans le Nord, se penche sur les stratégies de familles à bas revenu pour contrer la précarité alimentaire. La recherche révèle la charge mentale que créent ces inégalités. Fa",
+      "link": "https://theconversation.com/equilibrer-son-alimentation-malgre-la-precarite-enquete-sur-les-strategies-des-classes-populaires-287821",
+      "image": "https://counter.theconversation.com/content/287821/count.gif",
+      "publishedAt": "2026-08-09T07:36:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6acgou",
+      "title": "L’atelier Nawak, ou les ressorts des lieux mythiques de la création",
+      "summary": "Dans les années 1990, un petit atelier parisien de bande dessinée réunit, presque par hasard, plusieurs auteurs devenus depuis des figures majeures : Marjane Satrapi, Joann Sfar, Christophe Blain, Emmanuel Guibert ou encore Lewis Trondheim. Comment un lieu aussi ordinaire a-t-il pu devenir l’un des symboles d’un renouv",
+      "link": "https://theconversation.com/latelier-nawak-ou-les-ressorts-des-lieux-mythiques-de-la-creation-286909",
+      "image": "https://counter.theconversation.com/content/286909/count.gif",
+      "publishedAt": "2026-08-09T07:37:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajup20m",
+      "title": "Le Maroc, futur leader continental africain des data centers et de l’IA",
+      "summary": "L’ESSENTIEL En avril 2026, plusieurs institutions publiques marocaines ont validé le lancement d’un projet de data center à Dakhla, dans le sud du pays, qui sera exclusivement alimenté par des énergies renouvelables. Ce projet s’inscrit dans les nombreux efforts du Maroc pour s’imposer comme leader régional, voire cont",
+      "link": "https://theconversation.com/le-maroc-futur-leader-continental-africain-des-data-centers-et-de-lia-288658",
+      "image": "https://counter.theconversation.com/content/288658/count.gif",
+      "publishedAt": "2026-08-09T07:36:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amfimn9",
+      "title": "Héritons-nous des traumatismes de nos parents ? Pas exactement",
+      "summary": "La biologie transmet des possibilités, mais les gènes ne déterminent pas le destin. Olha Tsiplyar/Shutterstock (no reuse) L’ESSENTIEL Selon une idée reçue, les traumatismes pourraient « se transmettre » au sein des familles, d’une génération à une autre. Mais l’hypothèse selon laquelle nous pourrions hériter des souven",
+      "link": "https://theconversation.com/heritons-nous-des-traumatismes-de-nos-parents-pas-exactement-289107",
+      "image": "https://images.theconversation.com/files/752062/original/file-20260729-57-dq81ka.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5258%2C3505&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-09T07:35:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apru93",
+      "title": "Des millions de clichés condamnés à disparaître : l’héritage photographique oublié de la physique des particules",
+      "summary": "Détail d’un cliché révélant le passage de particules subatomiques. Olivier Dadoun et Hugo Deverchère, CC BY-NC-ND Alors que nous célébrons le bicentenaire de la photographie, un patrimoine scientifique et visuel exceptionnel est menacé de disparition silencieuse. Dans les réserves des laboratoires de recherche fondamen",
+      "link": "https://theconversation.com/des-millions-de-cliches-condamnes-a-disparaitre-lheritage-photographique-oublie-de-la-physique-des-particules-283940",
+      "image": "https://images.theconversation.com/files/751112/original/file-20260730-50-nmgmkn.jpg?ixlib=rb-4.1.1&amp;rect=456%2C0%2C983%2C655&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-09T07:35:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ajkh5zh",
       "title": "D’où viennent ces mystérieux signaux venus de l’espace ? Nous avons trouvé leur « pierre de Rosette »",
       "summary": "Simulation des lignes de champ magnétique dans un système binaire où les deux étoiles sont suffisamment proches pour interagir. Carl Knox (OzGrav/Swinburne) & Joshua Preston Pritchard (CSIRO) Grâce à des observations combinant ondes radio, lumière visible et rayons X, des astronomes ont identifié la source d’un mystéri",
@@ -133,7 +231,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -149,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,23 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "au0bp3i",
-      "title": "Dans les forêts des Landes, le stockage de CO₂ atteint ses limites, et ce n’est pas seulement dû aux incendies",
-      "summary": "La forêt des Landes à La Teste-de-Buch (Gironde), en 2004. Larrousiney, CC BY L’ESSENTIEL Les forêts exploitées ne sont pas toujours des puits de carbone : elles peuvent parfois se retrouver à émettre plus de CO₂ qu’elles n’en stockent. Pour connaître la tendance, il faut s’intéresser à l’évolution des végétaux, du sol",
-      "link": "https://theconversation.com/dans-les-forets-des-landes-le-stockage-de-co-atteint-ses-limites-et-ce-nest-pas-seulement-du-aux-incendies-289163",
-      "image": "https://images.theconversation.com/files/752242/original/file-20260805-50-kg1htl.jpeg?ixlib=rb-4.1.1&amp;rect=94%2C0%2C1091%2C727&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-07T08:38:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +327,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 49,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "au0bp3i",
+      "title": "Dans les forêts des Landes, le stockage de CO₂ atteint ses limites, et ce n’est pas seulement dû aux incendies",
+      "summary": "La forêt des Landes à La Teste-de-Buch (Gironde), en 2004. Larrousiney, CC BY L’ESSENTIEL Les forêts exploitées ne sont pas toujours des puits de carbone : elles peuvent parfois se retrouver à émettre plus de CO₂ qu’elles n’en stockent. Pour connaître la tendance, il faut s’intéresser à l’évolution des végétaux, du sol",
+      "link": "https://theconversation.com/dans-les-forets-des-landes-le-stockage-de-co-atteint-ses-limites-et-ce-nest-pas-seulement-du-aux-incendies-289163",
+      "image": "https://images.theconversation.com/files/752242/original/file-20260805-50-kg1htl.jpeg?ixlib=rb-4.1.1&amp;rect=94%2C0%2C1091%2C727&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-07T08:38:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,56 +361,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abcp492",
-      "title": "« Faire roter sa maison » : cette habitude allemande est-elle bonne pour la santé ?",
-      "summary": "Les Allemands pratiquent depuis longtemps le Stoßlüften, qui consiste à ouvrir largement les fenêtres pendant quelques minutes, même en hiver. Les recherches montrent que cette méthode renouvelle efficacement l’air sans refroidir durablement le logement. Le « house burping » (« faire roter sa maison ») envahit les rése",
-      "link": "https://theconversation.com/faire-roter-sa-maison-cette-habitude-allemande-est-elle-bonne-pour-la-sante-287212",
-      "image": "https://counter.theconversation.com/content/287212/count.gif",
-      "publishedAt": "2026-08-07T09:30:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arovni3",
-      "title": "À quoi doit-on faire attention quand on boit de l'alcool devant ses enfants ?",
-      "summary": "La manière dont les parents consomment de l'alcool contribue à façonner ce que leurs enfants considèrent comme une pratique « normale ». Kelsey Knight/Unsplash, CC BY Faut-il éviter de boire devant ses adolescents ? Sans prôner l'abstinence, une étude menée sur plus de vingt ans montre que la manière dont les parents c",
-      "link": "https://theconversation.com/a-quoi-doit-on-faire-attention-quand-on-boit-de-lalcool-devant-ses-enfants-287209",
-      "image": "https://images.theconversation.com/files/747407/original/file-20260713-56-20y7ta.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-07T09:12:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am4xp87",
-      "title": "Pourquoi les boutons sont-ils à droite sur les vêtements d’homme et à gauche sur ceux des femmes ?",
-      "summary": "Boutons à gauche, boutons à droite : l'histoire méconnue d'une vieille convention vestimentaire Kristina Chuprina/Pexels, CC BY L’emplacement des boutons sur les vêtements masculins et féminins est l’un de ces héritages du passé qui ont survécu à la mécanisation de l’industrie textile. Une convention devenue si banale ",
-      "link": "https://theconversation.com/pourquoi-les-boutons-sont-ils-a-droite-sur-les-vetements-dhomme-et-a-gauche-sur-ceux-des-femmes-287207",
-      "image": "https://images.theconversation.com/files/747419/original/file-20260713-57-d59nn6.jpg?ixlib=rb-4.1.1&amp;rect=16%2C0%2C4894%2C3262&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-07T07:56:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ash5nx0",
@@ -329,39 +379,55 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awg5zfu",
-      "title": "Ceuta migrant crossings: are calls for stronger border controls from 22 member states in line with EU law?",
-      "summary": "The unprecedented border crossing into the Spanish enclave of Ceuta has sparked a wave of political reactions across Europe. Far-right parties described the crossings as “an invasion” and a majority of European governments demanded a reaction from European Union officials. In an urgent meeting of the bloc’s interior mi",
-      "link": "https://theconversation.com/ceuta-migrant-crossings-are-calls-for-stronger-border-controls-from-22-member-states-in-line-with-eu-law-289062",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-06T08:48:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 38,
       "urgencyLevel": "basse"
     },
     {
-      "id": "a7x09kp",
-      "title": "Les robots agricoles annoncent-ils vraiment une nouvelle révolution ?",
-      "summary": "Dans une parcelle de salades, un robot de désherbage autonome avance entre les rangs. Grâce à ses capteurs embarqués, il identifie les mauvaises herbes au plus près des cultures et les élimine, plante par plante. Là où les agriculteurs recourent traditionnellement aux herbicides ou à un désherbage manuel coûteux en mai",
-      "link": "https://theconversation.com/les-robots-agricoles-annoncent-ils-vraiment-une-nouvelle-revolution-286606",
-      "image": "https://images.theconversation.com/files/751137/original/file-20260730-50-n3rkbi.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-05T13:24:08.000Z",
+      "id": "abcp492",
+      "title": "« Faire roter sa maison » : cette habitude allemande est-elle bonne pour la santé ?",
+      "summary": "Les Allemands pratiquent depuis longtemps le Stoßlüften, qui consiste à ouvrir largement les fenêtres pendant quelques minutes, même en hiver. Les recherches montrent que cette méthode renouvelle efficacement l’air sans refroidir durablement le logement. Le « house burping » (« faire roter sa maison ») envahit les rése",
+      "link": "https://theconversation.com/faire-roter-sa-maison-cette-habitude-allemande-est-elle-bonne-pour-la-sante-287212",
+      "image": "https://counter.theconversation.com/content/287212/count.gif",
+      "publishedAt": "2026-08-07T09:30:22.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "arovni3",
+      "title": "À quoi doit-on faire attention quand on boit de l'alcool devant ses enfants ?",
+      "summary": "La manière dont les parents consomment de l'alcool contribue à façonner ce que leurs enfants considèrent comme une pratique « normale ». Kelsey Knight/Unsplash, CC BY Faut-il éviter de boire devant ses adolescents ? Sans prôner l'abstinence, une étude menée sur plus de vingt ans montre que la manière dont les parents c",
+      "link": "https://theconversation.com/a-quoi-doit-on-faire-attention-quand-on-boit-de-lalcool-devant-ses-enfants-287209",
+      "image": "https://images.theconversation.com/files/747407/original/file-20260713-56-20y7ta.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-07T09:12:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "am4xp87",
+      "title": "Pourquoi les boutons sont-ils à droite sur les vêtements d’homme et à gauche sur ceux des femmes ?",
+      "summary": "Boutons à gauche, boutons à droite : l'histoire méconnue d'une vieille convention vestimentaire Kristina Chuprina/Pexels, CC BY L’emplacement des boutons sur les vêtements masculins et féminins est l’un de ces héritages du passé qui ont survécu à la mécanisation de l’industrie textile. Une convention devenue si banale ",
+      "link": "https://theconversation.com/pourquoi-les-boutons-sont-ils-a-droite-sur-les-vetements-dhomme-et-a-gauche-sur-ceux-des-femmes-287207",
+      "image": "https://images.theconversation.com/files/747419/original/file-20260713-57-d59nn6.jpg?ixlib=rb-4.1.1&amp;rect=16%2C0%2C4894%2C3262&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-07T07:56:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
       "urgencyLevel": "basse"
     },
     {
@@ -379,7 +445,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -395,7 +461,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +477,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -459,73 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "akqh3yo",
-      "title": "Did the Berlin Pride attack target the LGBTIQIA+ community or European values?",
-      "summary": "The political and media coverage of the recent car ramming attack at Berlin Pride seems to focus exclusively on the Islamist threat in the midst of European societies. That the attack was directed specifically at queer visibility and the fact that the incident left one Polish woman dead is often sidelined. If, in 2025,",
-      "link": "https://theconversation.com/did-the-berlin-pride-attack-target-the-lgbtiqia-community-or-european-values-289064",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-06T08:48:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
       "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5g8vcs",
-      "title": "Décharges sauvages, décharges anciennes : comment surmonter la tentation de l’oubli ?",
-      "summary": "Les décharges ont accompagné l’essor de la société de consommation, mais elles ne bénéficient d’un statut réglementaire que depuis 1975. Celui-ci a introduit un certain nombre d’obligations environnementales pour les nouveaux sites de traitement des déchets. Mais qu’en est-il des anciennes décharges ? Les tentatives d’",
-      "link": "https://theconversation.com/decharges-sauvages-decharges-anciennes-comment-surmonter-la-tentation-de-loubli-287891",
-      "image": "https://images.theconversation.com/files/749215/original/file-20260721-57-h4lskv.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-06T08:20:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atglhsm",
-      "title": "Renseignement : comment les services secrets sont devenus un pilier de l’État",
-      "summary": "Avec la série *le Bureau des légendes* (2015-2020, Canal+), les services de renseignement ont changé d’image auprès du grand public. Le Bureau des légendes/Canal + L’ESSENTIEL Longtemps cantonné aux marges de l’action publique, le renseignement est devenu, à partir des années 2000, un instrument pleinement assumé de l’",
-      "link": "https://theconversation.com/renseignement-comment-les-services-secrets-sont-devenus-un-pilier-de-letat-285503",
-      "image": "https://images.theconversation.com/files/747210/original/file-20260710-57-h7swye.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1598%2C1065&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-05T13:23:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ac7jlwq",
-      "title": "Incendies : le retour à la maison, angle mort de la gestion de crise",
-      "summary": "L’ESSENTIEL La gestion des incendies reste organisée autour de l’urgence alors que les difficultés peuvent se prolonger après l’extinction du feu. L’accompagnement des habitants de retour chez eux est fragmenté. Un certain nombre de connaissances en matière d’expositions nocives ou de nuisances sont manquantes. Associe",
-      "link": "https://theconversation.com/incendies-le-retour-a-la-maison-angle-mort-de-la-gestion-de-crise-288860",
-      "image": "https://counter.theconversation.com/content/288860/count.gif",
-      "publishedAt": "2026-08-05T13:23:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
