@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T07:37:53.409Z",
+  "generatedAt": "2026-08-10T13:03:42.336Z",
   "themes": [
     {
       "id": "education-medias",
@@ -116,8 +116,40 @@
       "enabled": false
     }
   ],
-  "count": 35,
+  "count": 25,
   "items": [
+    {
+      "id": "ao1ibwi",
+      "title": "Quand un simple T-shirt blanc devient tellement luxueux qu’il peut coûter plus de 500 euros",
+      "summary": "Sur quel levier les marques de luxe s’appuient-elles pour nous faire acheter un T-shirt blanc basique à plusieurs centaines d’euros, alors qu’on peut trouver un équivalent pour moins de 20 euros dans la fast-fashion, ou pour quelques dizaines d’euros dans des alternatives plus responsables ? Ces dernières années, une t",
+      "link": "https://theconversation.com/quand-un-simple-t-shirt-blanc-devient-tellement-luxueux-quil-peut-couter-plus-de-500-euros-284777",
+      "image": "https://images.theconversation.com/files/740936/original/file-20260610-71-qpcbn8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-10T08:35:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9b36gh",
+      "title": "Chanel à Biarritz, ou l’art de transformer la mémoire en capital",
+      "summary": "Mais qu’allait faire la maison Chanel à Biarritz ? Pour son défilé croisière signé Matthieu Blazy, c’est le casino de la ville qui a été retenu en avril dernier. Photos du défilé Chanel Le retour de Chanel à Biarritz, dans les Pyrénées-Atlantiques, où Gabrielle Chanel avait développé sa maison de couture à partir de 19",
+      "link": "https://theconversation.com/chanel-a-biarritz-ou-lart-de-transformer-la-memoire-en-capital-288625",
+      "image": "https://images.theconversation.com/files/751707/original/file-20260803-50-1jde8x.png?ixlib=rb-4.1.1&amp;rect=402%2C38%2C1608%2C1072&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-10T08:34:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
     {
       "id": "astd2pb",
       "title": "Ce que les sciences sociales doivent à Edgar Morin",
@@ -131,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -149,7 +181,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,8 +279,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a3x2fap",
@@ -263,8 +295,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "awa0l9i",
@@ -279,8 +311,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9aired",
@@ -295,8 +327,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "an8png2",
@@ -311,8 +343,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "asdc3v1",
@@ -327,8 +359,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "au0bp3i",
@@ -343,25 +375,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ash5nx0",
-      "title": "Fusion froide : quand la compétition et la pression médiatique virent à la bavure scientifique",
-      "summary": "La fusion froide, une révolution qui n'aura pas eu lieu. Logan Vosssur/Unsplash, CC BY L’ESSENTIEL La fusion est la réaction qui a lieu à l’intérieur du soleil et qui fournit une quantité d’énergie immense. Pour initier cette réaction, il faut atteindre des températures extrêmement élevées : 100 millions de degrés Cels",
-      "link": "https://theconversation.com/fusion-froide-quand-la-competition-et-la-pression-mediatique-virent-a-la-bavure-scientifique-286459",
-      "image": "https://images.theconversation.com/files/750572/original/file-20260728-57-v69ypu.jpg?ixlib=rb-4.1.1&amp;rect=561%2C0%2C6480%2C4320&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-06T11:19:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -379,7 +393,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -395,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +425,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -427,25 +441,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aioyoqu",
-      "title": "Solar eclipses are a source of fascination, legends and scientific discovery",
-      "summary": "KEY TAKEAWAYS On August 12 2026, a total solar eclipse – one of the most spectacular astronomical events in Europe since the one in 1999 – will be visible in France and Spain. Find out how this phenomenon occurs and why it doesn’t occur every month. Eclipses have always fascinated people and have given rise to numerous",
-      "link": "https://theconversation.com/solar-eclipses-are-a-source-of-fascination-legends-and-scientific-discovery-289008",
-      "image": "https://counter.theconversation.com/content/289008/count.gif",
-      "publishedAt": "2026-08-06T13:07:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 22,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -461,7 +457,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -477,7 +473,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -493,7 +489,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +505,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -525,176 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1vyu85",
-      "title": "Un BO avant une loi : interdire le téléphone portable au lycée",
-      "summary": "Publication officielle du ministre de l’Education, une circulaire précise l’annonce de l’interdiction du téléphone portable au lycée (MENE2617958C Circulaire : du 2-7-2026). Nous y sommes enfin, le ministère a tranché L’article Un BO avant une loi : interdire le téléphone portable au lycée est apparu en premier sur Le ",
-      "link": "https://www.cafepedagogique.net/2026/07/06/un-bo-avant-une-loi-interdire-le-telephone-portable-au-lycee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
-      "publishedAt": "2026-07-06T06:23:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
       "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ardl4so",
-      "title": "Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ?",
-      "summary": "4 femmes, 4 hommes : le Journal officiel de ce jour indique 8 changements de rectrices et recteurs pour le 3 août prochain. Plusieurs conseillers sont ainsi recasés avant les L’article Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/28/qui-sont-les-8-recteurs-qui-arrivent-a-la-rentree-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/cabinet-ministre-rue-de-Grenelle-Cafe-pedagogique-e1730662316876-300x249.jpg",
-      "publishedAt": "2026-07-28T07:02:46.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 11,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6ybzus",
-      "title": "Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique",
-      "summary": "Lecture facilitée et articles facilement retrouvables, l’application du Café pédagogique est disponible sur les stores. L’application permet aussi à chaque utilisateur de choisir les sujets sur lesquels il ou elle L’article Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique est apparu en pr",
-      "link": "https://www.cafepedagogique.net/2026/07/27/telechargez-lapplication-officielle-du-cafe-pedagogique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/01/appli_telecharger.jpg",
-      "publishedAt": "2026-07-27T08:24:09.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 11,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aaslclp",
-      "title": "Retrouvez toutes les controverses de Frédéric Grimaud",
-      "summary": "Le chercheur Frédéric Grimaud cumule des centaines d’heures d’entretiens avec des professeur.es des écoles. Iels parlent de leur métier, de leurs gestes du quotidien, de leur organisation du travail en L’article Retrouvez toutes les controverses de Frédéric Grimaud est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/29/retrouvez-toutes-les-controverses-de-frederic-grimaud/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/les-controverses.jpg",
-      "publishedAt": "2026-07-29T10:00:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "professeur"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 1,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ah83g16",
-      "title": "IA & Education : encore quelques jours pour recevoir ce livre en cadeau",
-      "summary": "Le Café pédagogique vous offre cet ouvrage pour toute adhésion à l’association éditrice du Café pédagogique. Soutenez le Café pédagogique et recevez chez vous gratuitement le livre L’Ecole face à L’article IA & Education : encore quelques jours pour recevoir ce livre en cadeau est apparu en premier sur Le Café pédagogi",
-      "link": "https://www.cafepedagogique.net/2026/07/28/offre-speciale-soutenez-le-cafe-et-recevez-ce-livre-en-cadeau-13/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Couverture-Livre-ESF-1-200x300.jpg",
-      "publishedAt": "2026-07-28T13:27:18.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 1,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a53kv91",
-      "title": "Edouard Philippe veut raccourcir les vacances d’été",
-      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
-      "publishedAt": "2026-07-06T06:37:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 0,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "air22zr",
-      "title": "10 lectures pour vos vacances d’été",
-      "summary": "Retrouvez à cette page, nos 10 conseils lecture pour ces vacances ! Frédérique Blu : des nouvelles de l’école en 13 nouvelles De quoi est faite la vie de L’article 10 lectures pour vos vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/07/10-lectures-pour-vos-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/PHOTOS-DE-CLASSES-FRED-BLU_COUV-194x300.jpg.webp",
-      "publishedAt": "2026-07-07T06:22:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 0,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ay93gba",
-      "title": "Littérature jeunesse : la sélection de l’été",
-      "summary": "Découvrez les conseils de Marianne Baby, notre spécialiste littérature jeunesse, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Littérature jeunesse : la sélection de l’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
-      "publishedAt": "2026-07-07T06:10:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 0,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atbg3oo",
-      "title": "Les 5 expos à voir pendant les vacances d’été",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
-      "publishedAt": "2026-07-06T11:24:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 0,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ab105s2",
-      "title": "Les 6 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
-      "publishedAt": "2026-07-06T07:26:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 0,
       "urgencyLevel": "basse"
     }
   ]
