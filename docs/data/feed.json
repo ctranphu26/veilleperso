@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T07:04:28.635Z",
+  "generatedAt": "2026-08-11T13:00:31.759Z",
   "themes": [
     {
       "id": "education-medias",
@@ -116,8 +116,24 @@
       "enabled": false
     }
   ],
-  "count": 25,
+  "count": 35,
   "items": [
+    {
+      "id": "ablzx4a",
+      "title": "Pendant les vagues de chaleur, pourquoi faut-il être particulièrement vigilant avec les intoxications alimentaires ?",
+      "summary": "L’été, et en particulier lors des vagues de chaleur et canicules, les aliments doivent être conservés au frais et sortis du réfrigérateur juste avant leur consommation. Natalia Deriabina/Shutterstock (no reuse) L’ESSENTIEL Les intoxications alimentaires sont notamment provoquées par des bactéries qui se développent dan",
+      "link": "https://theconversation.com/pendant-les-vagues-de-chaleur-pourquoi-faut-il-etre-particulierement-vigilant-avec-les-intoxications-alimentaires-288986",
+      "image": "https://images.theconversation.com/files/751727/original/file-20260714-71-q0dh3m.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-11T08:38:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
     {
       "id": "afs75g3",
       "title": "Avant la haute couture : 400 000 ans d’histoire de la mode",
@@ -131,8 +147,26 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ado4825",
+      "title": "À la rentrée, parions sur l’École : un manifeste pour 2027 (sortie le 21 août prochain !)",
+      "summary": "A l’heure de la pause estivale, le Café pédagogique vous souhaite de bonnes vacances, ressourçantes et rafraichissantes. On vous retrouve à la rentrée sous le signe du collectif avec la L’article À la rentrée, parions sur l’École : un manifeste pour 2027 (sortie le 21 août prochain !) est apparu en premier sur Le Café ",
+      "link": "https://www.cafepedagogique.net/2026/08/10/a-la-rentree-parions-sur-lecole-un-manifeste-pour-2027-sortie-le-21-aout-prochain/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/breve-1-198x300.png",
+      "publishedAt": "2026-08-10T03:45:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aysowx3",
@@ -149,7 +183,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,7 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,8 +345,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a6acgou",
@@ -327,8 +361,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ajup20m",
@@ -343,12 +377,12 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amfimn9",
-      "title": "Héritons-nous des traumatismes de nos parents ? Pas exactement",
+      "title": "Héritons-nous des traumatismes de nos parents ? Pas exactement",
       "summary": "La biologie transmet des possibilités, mais les gènes ne déterminent pas le destin. Olha Tsiplyar/Shutterstock (no reuse) L’ESSENTIEL Selon une idée reçue, les traumatismes pourraient « se transmettre » au sein des familles, d’une génération à une autre. Mais l’hypothèse selon laquelle nous pourrions hériter des souven",
       "link": "https://theconversation.com/heritons-nous-des-traumatismes-de-nos-parents-pas-exactement-289107",
       "image": "https://images.theconversation.com/files/752062/original/file-20260729-57-dq81ka.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5258%2C3505&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
@@ -359,8 +393,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apru93",
@@ -375,23 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3x2fap",
-      "title": "Sous le Soleil noir… Les plus grandes éclipses de l’histoire du cinéma",
-      "summary": "Dans « Apocalypto », le film de Mel Gibson, l’éclipse joue un rôle majeur dans l’intrigue. Icon Entertainment Le 12 août 2026, un spectacle céleste exceptionnel attend les observateurs : la première éclipse solaire à traverser la péninsule ibérique depuis plus d’un siècle. Elle coïncidera en outre avec le pic des Persé",
-      "link": "https://theconversation.com/sous-le-soleil-noir-les-plus-grandes-eclipses-de-lhistoire-du-cinema-288216",
-      "image": "https://images.theconversation.com/files/749767/original/file-20260715-69-umyikw.jpg?ixlib=rb-4.1.1&amp;rect=168%2C0%2C911%2C607&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-08T06:51:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -409,7 +427,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3x2fap",
+      "title": "Sous le Soleil noir… Les plus grandes éclipses de l’histoire du cinéma",
+      "summary": "Dans « Apocalypto », le film de Mel Gibson, l’éclipse joue un rôle majeur dans l’intrigue. Icon Entertainment Le 12 août 2026, un spectacle céleste exceptionnel attend les observateurs : la première éclipse solaire à traverser la péninsule ibérique depuis plus d’un siècle. Elle coïncidera en outre avec le pic des Persé",
+      "link": "https://theconversation.com/sous-le-soleil-noir-les-plus-grandes-eclipses-de-lhistoire-du-cinema-288216",
+      "image": "https://images.theconversation.com/files/749767/original/file-20260715-69-umyikw.jpg?ixlib=rb-4.1.1&amp;rect=168%2C0%2C911%2C607&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-08T06:51:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -425,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -441,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -457,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -473,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +525,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -507,23 +541,160 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
-      "id": "arovni3",
-      "title": "À quoi doit-on faire attention quand on boit de l'alcool devant ses enfants ?",
-      "summary": "La manière dont les parents consomment de l'alcool contribue à façonner ce que leurs enfants considèrent comme une pratique « normale ». Kelsey Knight/Unsplash, CC BY Faut-il éviter de boire devant ses adolescents ? Sans prôner l'abstinence, une étude menée sur plus de vingt ans montre que la manière dont les parents c",
-      "link": "https://theconversation.com/a-quoi-doit-on-faire-attention-quand-on-boit-de-lalcool-devant-ses-enfants-287209",
-      "image": "https://images.theconversation.com/files/747407/original/file-20260713-56-20y7ta.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-07T09:12:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "ardl4so",
+      "title": "Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ?",
+      "summary": "4 femmes, 4 hommes : le Journal officiel de ce jour indique 8 changements de rectrices et recteurs pour le 3 août prochain. Plusieurs conseillers sont ainsi recasés avant les L’article Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/28/qui-sont-les-8-recteurs-qui-arrivent-a-la-rentree-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/cabinet-ministre-rue-de-Grenelle-Cafe-pedagogique-e1730662316876-300x249.jpg",
+      "publishedAt": "2026-07-28T07:02:46.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 11,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a6ybzus",
+      "title": "Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique",
+      "summary": "Lecture facilitée et articles facilement retrouvables, l’application du Café pédagogique est disponible sur les stores. L’application permet aussi à chaque utilisateur de choisir les sujets sur lesquels il ou elle L’article Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique est apparu en pr",
+      "link": "https://www.cafepedagogique.net/2026/07/27/telechargez-lapplication-officielle-du-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/01/appli_telecharger.jpg",
+      "publishedAt": "2026-07-27T08:24:09.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 10,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aaslclp",
+      "title": "Retrouvez toutes les controverses de Frédéric Grimaud",
+      "summary": "Le chercheur Frédéric Grimaud cumule des centaines d’heures d’entretiens avec des professeur.es des écoles. Iels parlent de leur métier, de leurs gestes du quotidien, de leur organisation du travail en L’article Retrouvez toutes les controverses de Frédéric Grimaud est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/29/retrouvez-toutes-les-controverses-de-frederic-grimaud/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/les-controverses.jpg",
+      "publishedAt": "2026-07-29T10:00:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "professeur"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 1,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ah83g16",
+      "title": "IA & Education : encore quelques jours pour recevoir ce livre en cadeau",
+      "summary": "Le Café pédagogique vous offre cet ouvrage pour toute adhésion à l’association éditrice du Café pédagogique. Soutenez le Café pédagogique et recevez chez vous gratuitement le livre L’Ecole face à L’article IA & Education : encore quelques jours pour recevoir ce livre en cadeau est apparu en premier sur Le Café pédagogi",
+      "link": "https://www.cafepedagogique.net/2026/07/28/offre-speciale-soutenez-le-cafe-et-recevez-ce-livre-en-cadeau-13/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Couverture-Livre-ESF-1-200x300.jpg",
+      "publishedAt": "2026-07-28T13:27:18.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 1,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a53kv91",
+      "title": "Edouard Philippe veut raccourcir les vacances d’été",
+      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
+      "publishedAt": "2026-07-06T06:37:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "air22zr",
+      "title": "10 lectures pour vos vacances d’été",
+      "summary": "Retrouvez à cette page, nos 10 conseils lecture pour ces vacances ! Frédérique Blu : des nouvelles de l’école en 13 nouvelles De quoi est faite la vie de L’article 10 lectures pour vos vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/10-lectures-pour-vos-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/PHOTOS-DE-CLASSES-FRED-BLU_COUV-194x300.jpg.webp",
+      "publishedAt": "2026-07-07T06:22:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ay93gba",
+      "title": "Littérature jeunesse : la sélection de l’été",
+      "summary": "Découvrez les conseils de Marianne Baby, notre spécialiste littérature jeunesse, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Littérature jeunesse : la sélection de l’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
+      "publishedAt": "2026-07-07T06:10:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "atbg3oo",
+      "title": "Les 5 expos à voir pendant les vacances d’été",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
+      "publishedAt": "2026-07-06T11:24:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ab105s2",
+      "title": "Les 6 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
+      "publishedAt": "2026-07-06T07:26:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
       "urgencyLevel": "basse"
     }
   ]
