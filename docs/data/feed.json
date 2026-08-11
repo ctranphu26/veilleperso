@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T13:00:31.759Z",
+  "generatedAt": "2026-08-11T18:59:40.026Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,88 @@
   "count": 35,
   "items": [
     {
+      "id": "alxduvl",
+      "title": "Comment l’agriculture peut-elle s’adapter aux étés de plus en plus secs ?",
+      "summary": "Alors que la France connaît, en cet été 2026, une situation exceptionnelle de sécheresse, les cultures agricoles souffrent. Dans le même temps, la loi d’urgence agricole, votée au Sénat le 21 juillet dernier, a entériné le doublement des objectifs de stockage de l’eau à usage agricole à l’horizon 2035. C’est là tout le",
+      "link": "https://theconversation.com/comment-lagriculture-peut-elle-sadapter-aux-etes-de-plus-en-plus-secs-286702",
+      "image": "https://images.theconversation.com/files/748538/original/file-20260717-57-cay1xb.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-08-11T14:29:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 95,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3o3nz0",
+      "title": "L’os est bien plus dynamique qu’on ne l’a longtemps cru : il possède lui aussi un rythme quotidien",
+      "summary": "Notre squelette, vivant et en perpétuelle évolution, est en réalité bien éloigné de cette représentation. Pixel-Shot/Shutterstock (no reuse) Notre squelette est en permanence en train de se remodeler. Ces phases de destructions et de reconstructions quotidiennes suivent un rythme bien précis, qui pourrait être perturbé",
+      "link": "https://theconversation.com/los-est-bien-plus-dynamique-quon-ne-la-longtemps-cru-il-possede-lui-aussi-un-rythme-quotidien-289551",
+      "image": "https://images.theconversation.com/files/753350/original/file-20260629-57-d9mv36.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5760%2C3840&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-11T14:44:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "représentation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "argr807",
+      "title": "Durant la Renaissance, le retour des papes à Rome créa une ère de construction de palais sans précédent pour la « Ville éternelle »",
+      "summary": "La « Ville éternelle » s’est fait une nouvelle beauté de la fin du XIVᵉ siècle à la fin du XVIᵉ siècle, après une période de stagnation économique. Aujourd’hui, 84 % des palais construits durant cette période sont encore debout. Wikimediacommons Près de 31 % des palais de Rome furent construits entre 1378 et 1599 après",
+      "link": "https://theconversation.com/durant-la-renaissance-le-retour-des-papes-a-rome-crea-une-ere-de-construction-de-palais-sans-precedent-pour-la-ville-eternelle-268262",
+      "image": "https://images.theconversation.com/files/751169/original/file-20260730-50-6hn4vc.png?ixlib=rb-4.1.1&amp;rect=346%2C0%2C1338%2C892&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-11T14:28:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ady4glj",
+      "title": "Pompiers volontaires : ce modèle peut-il encore tenir face aux mégafeux ?",
+      "summary": "L’ESSENTIEL Près de 80 % des pompiers français ne sont pas salariés. Volontaires, ils combattent le feu après leur travail ou pendant leurs jours de congé. Beaucoup ne tiennent pas plus de trois ans. Ce modèle, déjà fragile, est mis sous tension par l’intensification des incendies. Le ratio entre pompiers professionnel",
+      "link": "https://theconversation.com/pompiers-volontaires-ce-modele-peut-il-encore-tenir-face-aux-megafeux-289003",
+      "image": "https://counter.theconversation.com/content/289003/count.gif",
+      "publishedAt": "2026-08-11T14:35:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axbti5l",
+      "title": "L’administration Trump veut sanctionner ceux qui jugent : un aveu de la force du droit international",
+      "summary": "L’ESSENTIEL En juillet 2026, le secrétaire d’État américain Marco Rubio a affirmé sa volonté de « démanteler » la Cour pénale internationale. Cette offensive s’inscrit dans une série d’attaques contre les juridictions internationales, notamment à travers des sanctions visant leur action et leurs acteurs. Si de telles s",
+      "link": "https://theconversation.com/ladministration-trump-veut-sanctionner-ceux-qui-jugent-un-aveu-de-la-force-du-droit-international-288756",
+      "image": "https://counter.theconversation.com/content/288756/count.gif",
+      "publishedAt": "2026-08-11T14:35:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ablzx4a",
       "title": "Pendant les vagues de chaleur, pourquoi faut-il être particulièrement vigilant avec les intoxications alimentaires ?",
       "summary": "L’été, et en particulier lors des vagues de chaleur et canicules, les aliments doivent être conservés au frais et sortis du réfrigérateur juste avant leur consommation. Natalia Deriabina/Shutterstock (no reuse) L’ESSENTIEL Les intoxications alimentaires sont notamment provoquées par des bactéries qui se développent dan",
@@ -131,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afs75g3",
@@ -147,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +247,23 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ac72kv2",
+      "title": "Que signifiaient les éclipses dans la Rome antique ?",
+      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
+      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
+      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-10T13:40:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,23 +281,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ac72kv2",
-      "title": "Que signifiaient les éclipses dans la Rome antique ?",
-      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
-      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
-      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-10T13:40:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +427,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -361,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -377,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -393,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -409,31 +491,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajkh5zh",
-      "title": "D’où viennent ces mystérieux signaux venus de l’espace ? Nous avons trouvé leur « pierre de Rosette »",
-      "summary": "Simulation des lignes de champ magnétique dans un système binaire où les deux étoiles sont suffisamment proches pour interagir. Carl Knox (OzGrav/Swinburne) & Joshua Preston Pritchard (CSIRO) Grâce à des observations combinant ondes radio, lumière visible et rayons X, des astronomes ont identifié la source d’un mystéri",
-      "link": "https://theconversation.com/dou-viennent-ces-mysterieux-signaux-venus-de-lespace-nous-avons-trouve-leur-pierre-de-rosette-287213",
-      "image": "https://images.theconversation.com/files/746850/original/file-20260510-69-69qz8v.png?ixlib=rb-4.1.1&amp;rect=0%2C573%2C7609%2C5073&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-08T06:47:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
       "id": "a3x2fap",
       "title": "Sous le Soleil noir… Les plus grandes éclipses de l’histoire du cinéma",
-      "summary": "Dans « Apocalypto », le film de Mel Gibson, l’éclipse joue un rôle majeur dans l’intrigue. Icon Entertainment Le 12 août 2026, un spectacle céleste exceptionnel attend les observateurs : la première éclipse solaire à traverser la péninsule ibérique depuis plus d’un siècle. Elle coïncidera en outre avec le pic des Persé",
+      "summary": "L’éclipse joue un rôle majeur dans l’intrigue d’*Apocalypto*, le film de Mel Gibson, sorti en 2006. Icon Entertainment L’ESSENTIEL L’éclipse solaire du 12 août 2026 est l’occasion de revenir sur un siècle de cinéma sous un ciel obscurci en plein jour. Le septième art a, très tôt, compris le formidable potentiel narrati",
       "link": "https://theconversation.com/sous-le-soleil-noir-les-plus-grandes-eclipses-de-lhistoire-du-cinema-288216",
       "image": "https://images.theconversation.com/files/749767/original/file-20260715-69-umyikw.jpg?ixlib=rb-4.1.1&amp;rect=168%2C0%2C911%2C607&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-08-08T06:51:03.000Z",
@@ -443,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -475,73 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "an8png2",
-      "title": "Éclipse solaire : tout ce qu’il faut faire (et éviter) pour observer le Soleil sans risque",
-      "summary": "L’ESSENTIEL Regarder le Soleil pendant une éclipse sans protection peut provoquer des lésions irréversibles de la rétine. Seules les lunettes certifiées ISO 12312-2 permettent d’observer l’éclipse en toute sécurité ; les lunettes de soleil classiques sont inefficaces. Les lunettes ayant servi à regarder l’éclipse de 20",
-      "link": "https://theconversation.com/eclipse-solaire-tout-ce-quil-faut-faire-et-eviter-pour-observer-le-soleil-sans-risque-288984",
-      "image": "https://counter.theconversation.com/content/288984/count.gif",
-      "publishedAt": "2026-08-08T06:47:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "asdc3v1",
-      "title": "Les gobelets de café jetables libèrent des microplastiques, surtout lorsqu’ils sont très chauds",
-      "summary": "Café à emporter, thé ou chocolat chaud : lorsque ces boissons sont servies dans des gobelets contenant du plastique, la chaleur favorise la libération de microplastiques. Katerina Holmes/Pexels, CC BY Les effets des microplastiques sur la santé humaine restent encore mal connus. Mais une étude australienne met en lumiè",
-      "link": "https://theconversation.com/les-gobelets-de-cafe-jetables-liberent-des-microplastiques-surtout-lorsquils-sont-tres-chauds-287210",
-      "image": "https://images.theconversation.com/files/746847/original/file-20260114-56-8e5vo2.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1006%2C4131%2C2754&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-08T06:46:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aufnuv2",
-      "title": "Le Royaume-Uni, le Japon et l’Italie peuvent-ils réussir leur avion de combat de sixième génération là où la France et ses partenaires ont échoué ?",
-      "summary": "L’ESSENTIEL Après l’échec de la tentative franco-germano-espagnole, le Royaume-Uni, l’Italie et le Japon s’unissent pour développer un avion de combat de sixième génération Les trois partenaires disposent des compétences technologiques nécessaires. Mais ils doivent encore démontrer leur capacité à maîtriser les coûts e",
-      "link": "https://theconversation.com/le-royaume-uni-le-japon-et-litalie-peuvent-ils-reussir-leur-avion-de-combat-de-sixieme-generation-la-ou-la-france-et-ses-partenaires-ont-echoue-289056",
-      "image": "https://counter.theconversation.com/content/289056/count.gif",
-      "publishedAt": "2026-08-07T09:37:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "compétence"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abcp492",
-      "title": "« Faire roter sa maison » : cette habitude allemande est-elle bonne pour la santé ?",
-      "summary": "Les Allemands pratiquent depuis longtemps le Stoßlüften, qui consiste à ouvrir largement les fenêtres pendant quelques minutes, même en hiver. Les recherches montrent que cette méthode renouvelle efficacement l’air sans refroidir durablement le logement. Le « house burping » (« faire roter sa maison ») envahit les rése",
-      "link": "https://theconversation.com/faire-roter-sa-maison-cette-habitude-allemande-est-elle-bonne-pour-la-sante-287212",
-      "image": "https://counter.theconversation.com/content/287212/count.gif",
-      "publishedAt": "2026-08-07T09:30:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
