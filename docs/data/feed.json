@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:22:18.789Z",
+  "generatedAt": "2026-08-12T13:05:09.186Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,41 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "attqzt1",
+      "title": "Charles de Gaulle, héros de la France libre : une représentation qui a évolué dans la mémoire nationale ?",
+      "summary": "« Paris ! Paris outragé ! Paris brisé ! Paris martyrisé ! Mais Paris libéré ! Libéré par lui-même, libéré par son peuple avec le concours des armées de la France » Le 25 août 1944, depuis l’hôtel de ville de la capitale, le général de Gaulle lance ces mots célèbres aux Françaises et aux Français, scellant sa posture my",
+      "link": "https://theconversation.com/charles-de-gaulle-heros-de-la-france-libre-une-representation-qui-a-evolue-dans-la-memoire-nationale-287031",
+      "image": "https://counter.theconversation.com/content/287031/count.gif",
+      "publishedAt": "2026-08-12T10:34:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "représentation"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a26o6jk",
+      "title": "Pourquoi la nouvelle « Petite Maison dans la prairie » est déjà une série politique",
+      "summary": "De gauche à droite : Warren Christie dans le rôle de John Edwards, Alice Halsey dans celui de Laura Ingalls, Skywalker Hughes dans celui de Mary Ingalls, Luke Bracey dans celui de Charles Ingalls et Crosby Fitzgerald dans celui de Caroline Ingalls, dans la nouvelle adaptation de *la Petite Maison dans la prairie* (Netf",
+      "link": "https://theconversation.com/pourquoi-la-nouvelle-petite-maison-dans-la-prairie-est-deja-une-serie-politique-287645",
+      "image": "https://images.theconversation.com/files/748120/original/file-20260601-57-najvgh.jpg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C3596%2C2396&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-12T10:35:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +183,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "argr807",
@@ -165,8 +199,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ady4glj",
@@ -181,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +281,39 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ac72kv2",
+      "title": "Que signifiaient les éclipses dans la Rome antique ?",
+      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
+      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
+      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-10T13:40:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a15gxmd",
+      "title": "Comprendre les consignes données aux populations lors des feux de forêt",
+      "summary": "L’ESSENTIEL Les incendies de végétation de grande ampleur, comme ceux qui ont touché la Gironde cet été, sont appelés à se multiplier et à s’intensifier en France sous l’effet du changement climatique. Ces feux libèrent de grandes quantités de polluants qui représentent un danger sanitaire, à l’origine des consignes do",
+      "link": "https://theconversation.com/comprendre-les-consignes-donnees-aux-populations-lors-des-feux-de-foret-288842",
+      "image": "https://images.theconversation.com/files/752769/original/file-20260807-50-lfj6pj.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-10T13:26:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,39 +331,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ac72kv2",
-      "title": "Que signifiaient les éclipses dans la Rome antique ?",
-      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
-      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
-      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-10T13:40:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a15gxmd",
-      "title": "Comprendre les consignes données aux populations lors des feux de forêt",
-      "summary": "L’ESSENTIEL Les incendies de végétation de grande ampleur, comme ceux qui ont touché la Gironde cet été, sont appelés à se multiplier et à s’intensifier en France sous l’effet du changement climatique. Ces feux libèrent de grandes quantités de polluants qui représentent un danger sanitaire, à l’origine des consignes do",
-      "link": "https://theconversation.com/comprendre-les-consignes-donnees-aux-populations-lors-des-feux-de-foret-288842",
-      "image": "https://images.theconversation.com/files/752769/original/file-20260807-50-lfj6pj.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-10T13:26:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +347,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,7 +363,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +379,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -361,7 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -377,8 +411,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9b36gh",
@@ -393,8 +427,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "astd2pb",
@@ -409,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -427,14 +461,14 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
-      "id": "a6acgou",
-      "title": "L’atelier Nawak, ou les ressorts des lieux mythiques de la création",
+      "id": "aoajvke",
+      "title": "Marjane Satrapi, Joann Sfar, Lewis Trondheim… comment l’atelier Nawak a changé la bande dessinée",
       "summary": "Dans les années 1990, un petit atelier parisien de bande dessinée réunit, presque par hasard, plusieurs auteurs devenus depuis des figures majeures : Marjane Satrapi, Joann Sfar, Christophe Blain, Emmanuel Guibert ou encore Lewis Trondheim. Comment un lieu aussi ordinaire a-t-il pu devenir l’un des symboles d’un renouv",
-      "link": "https://theconversation.com/latelier-nawak-ou-les-ressorts-des-lieux-mythiques-de-la-creation-286909",
+      "link": "https://theconversation.com/marjane-satrapi-joann-sfar-lewis-trondheim-comment-latelier-nawak-a-change-la-bande-dessinee-286909",
       "image": "https://counter.theconversation.com/content/286909/count.gif",
       "publishedAt": "2026-08-09T07:37:18.000Z",
       "source": "The Conversation (FR)",
@@ -443,7 +477,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -507,39 +541,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awa0l9i",
-      "title": "Comment les éclipses ont ouvert la cour impériale chinoise aux sciences européennes",
-      "summary": "Le drapeau représentant un dragon dévorant le Soleil, également appelé drapeau du Dragon jaune, devint le premier drapeau national de la Chine. Wikimedia commons, CC BY L’ESSENTIEL En Chine impériale, prévoir les éclipses était essentiel à la légitimité du pouvoir. Au XVIIe siècle, les jésuites ont imposé des méthodes ",
-      "link": "https://theconversation.com/comment-les-eclipses-ont-ouvert-la-cour-imperiale-chinoise-aux-sciences-europeennes-289241",
-      "image": "https://images.theconversation.com/files/752503/original/file-20260727-57-p0cmrt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-08T06:49:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9aired",
-      "title": "Comment l’éclipse permettra d’observer le Soleil dévier la lumière des étoiles",
-      "summary": "La déviation de la lumière par la gravité est invisible au quotidien, mais une éclipse totale de Soleil la rend observable. Sirbouman/Shutterstock L’ESSENTIEL La gravité peut dévier la lumière : une éclipse de Soleil permet d’observer directement cet effet prédit par Einstein. Cette déviation est à l’origine des effets",
-      "link": "https://theconversation.com/comment-leclipse-permettra-dobserver-le-soleil-devier-la-lumiere-des-etoiles-288985",
-      "image": "https://images.theconversation.com/files/751726/original/file-20260728-57-g7b9jq.jpg?ixlib=rb-4.1.1&amp;rect=16%2C0%2C5947%2C3965&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-08T06:48:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -608,7 +610,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 1,
+      "urgency": 0,
       "urgencyLevel": "basse"
     },
     {
