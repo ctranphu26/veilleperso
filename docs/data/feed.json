@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T18:59:40.026Z",
+  "generatedAt": "2026-08-12T01:49:22.392Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 95,
+      "urgency": 88,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +181,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axbti5l",
@@ -197,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ablzx4a",
@@ -213,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,23 +247,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ac72kv2",
-      "title": "Que signifiaient les éclipses dans la Rome antique ?",
-      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
-      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
-      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-10T13:40:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +265,23 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 48,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ac72kv2",
+      "title": "Que signifiaient les éclipses dans la Rome antique ?",
+      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
+      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
+      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-10T13:40:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -361,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -377,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -393,7 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +427,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -507,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -523,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -539,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
