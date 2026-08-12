@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T13:05:09.186Z",
+  "generatedAt": "2026-08-12T18:59:33.678Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,54 @@
   "count": 35,
   "items": [
     {
+      "id": "adebpsz",
+      "title": "Tous à confesse : lorsque la confession était au cœur de la vie sociale des Français",
+      "summary": "Le passage au confessionnal (au moins une fois par an) concernait encore 51 % des Français en 1952. Dabarti CGI/Shutterstock (no reuse) L’ESSENTIEL La confession est souvent envisagée comme une pratique spirituelle individuelle, touchant l’intimité et le secret des consciences. Mais au XIXe siècle, en France, elle étai",
+      "link": "https://theconversation.com/tous-a-confesse-lorsque-la-confession-etait-au-coeur-de-la-vie-sociale-des-francais-287418",
+      "image": "https://images.theconversation.com/files/751260/original/file-20260730-60-rtk7nl.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-12T13:22:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6hj901",
+      "title": "Un « mur d’investissements » pour l’adaptation au changement climatique, vraiment ?",
+      "summary": "L’ESSENTIEL La France est-elle vraiment bloquée devant à un « mur d’investissements » en matière d’adaptation au changement climatique, comme l’affirmait, fin juin 2026, la ministre de la transition écologique Monique Barbut ? Cette déclaration doit être forcément nuancée : le montant de la facture dépendra avant tout ",
+      "link": "https://theconversation.com/un-mur-dinvestissements-pour-ladaptation-au-changement-climatique-vraiment-288564",
+      "image": "https://counter.theconversation.com/content/288564/count.gif",
+      "publishedAt": "2026-08-12T13:21:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahw0kgj",
+      "title": "Le séquencement des politiques climatiques : quand l’ordre des priorités devient une question de survie économique",
+      "summary": "Cet été, l’Europe suffoque. Derrière les bilans sanitaires et les records de température, une question s’impose : faut-il s’adapter au réchauffement ou poursuivre la réduction des émissions de gaz à effet de serre ? Les vagues de chaleur que nous traversons ravivent les débats autour des politiques climatiques. Faut-il",
+      "link": "https://theconversation.com/le-sequencement-des-politiques-climatiques-quand-lordre-des-priorites-devient-une-question-de-survie-economique-288626",
+      "image": "https://counter.theconversation.com/content/288626/count.gif",
+      "publishedAt": "2026-08-12T13:19:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "alxduvl",
       "title": "Comment l’agriculture peut-elle s’adapter aux étés de plus en plus secs ?",
       "summary": "Alors que la France connaît, en cet été 2026, une situation exceptionnelle de sécheresse, les cultures agricoles souffrent. Dans le même temps, la loi d’urgence agricole, votée au Sénat le 21 juillet dernier, a entériné le doublement des objectifs de stockage de l’eau à usage agricole à l’horizon 2035. C’est là tout le",
@@ -131,7 +179,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +197,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -183,7 +231,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,39 +329,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ac72kv2",
-      "title": "Que signifiaient les éclipses dans la Rome antique ?",
-      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
-      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
-      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-10T13:40:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a15gxmd",
-      "title": "Comprendre les consignes données aux populations lors des feux de forêt",
-      "summary": "L’ESSENTIEL Les incendies de végétation de grande ampleur, comme ceux qui ont touché la Gironde cet été, sont appelés à se multiplier et à s’intensifier en France sous l’effet du changement climatique. Ces feux libèrent de grandes quantités de polluants qui représentent un danger sanitaire, à l’origine des consignes do",
-      "link": "https://theconversation.com/comprendre-les-consignes-donnees-aux-populations-lors-des-feux-de-foret-288842",
-      "image": "https://images.theconversation.com/files/752769/original/file-20260807-50-lfj6pj.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-10T13:26:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,8 +347,40 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ac72kv2",
+      "title": "Que signifiaient les éclipses dans la Rome antique ?",
+      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
+      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
+      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-10T13:40:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a15gxmd",
+      "title": "Comprendre les consignes données aux populations lors des feux de forêt",
+      "summary": "L’ESSENTIEL Les incendies de végétation de grande ampleur, comme ceux qui ont touché la Gironde cet été, sont appelés à se multiplier et à s’intensifier en France sous l’effet du changement climatique. Ces feux libèrent de grandes quantités de polluants qui représentent un danger sanitaire, à l’origine des consignes do",
+      "link": "https://theconversation.com/comprendre-les-consignes-donnees-aux-populations-lors-des-feux-de-foret-288842",
+      "image": "https://images.theconversation.com/files/752769/original/file-20260807-50-lfj6pj.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-10T13:26:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a11wu1z",
@@ -347,8 +395,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "asve9rn",
@@ -363,8 +411,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "agqi63f",
@@ -379,8 +427,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ad7985d",
@@ -395,8 +443,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ao1ibwi",
@@ -411,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -461,7 +509,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -477,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -493,55 +541,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amfimn9",
-      "title": "Héritons-nous des traumatismes de nos parents ? Pas exactement",
-      "summary": "La biologie transmet des possibilités, mais les gènes ne déterminent pas le destin. Olha Tsiplyar/Shutterstock (no reuse) L’ESSENTIEL Selon une idée reçue, les traumatismes pourraient « se transmettre » au sein des familles, d’une génération à une autre. Mais l’hypothèse selon laquelle nous pourrions hériter des souven",
-      "link": "https://theconversation.com/heritons-nous-des-traumatismes-de-nos-parents-pas-exactement-289107",
-      "image": "https://images.theconversation.com/files/752062/original/file-20260729-57-dq81ka.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5258%2C3505&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-09T07:35:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apru93",
-      "title": "Des millions de clichés condamnés à disparaître : l’héritage photographique oublié de la physique des particules",
-      "summary": "Détail d’un cliché révélant le passage de particules subatomiques. Olivier Dadoun et Hugo Deverchère, CC BY-NC-ND Alors que nous célébrons le bicentenaire de la photographie, un patrimoine scientifique et visuel exceptionnel est menacé de disparition silencieuse. Dans les réserves des laboratoires de recherche fondamen",
-      "link": "https://theconversation.com/des-millions-de-cliches-condamnes-a-disparaitre-lheritage-photographique-oublie-de-la-physique-des-particules-283940",
-      "image": "https://images.theconversation.com/files/751112/original/file-20260730-50-nmgmkn.jpg?ixlib=rb-4.1.1&amp;rect=456%2C0%2C983%2C655&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-09T07:35:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3x2fap",
-      "title": "Sous le Soleil noir… Les plus grandes éclipses de l’histoire du cinéma",
-      "summary": "L’éclipse joue un rôle majeur dans l’intrigue d’*Apocalypto*, le film de Mel Gibson, sorti en 2006. Icon Entertainment L’ESSENTIEL L’éclipse solaire du 12 août 2026 est l’occasion de revenir sur un siècle de cinéma sous un ciel obscurci en plein jour. Le septième art a, très tôt, compris le formidable potentiel narrati",
-      "link": "https://theconversation.com/sous-le-soleil-noir-les-plus-grandes-eclipses-de-lhistoire-du-cinema-288216",
-      "image": "https://images.theconversation.com/files/749767/original/file-20260715-69-umyikw.jpg?ixlib=rb-4.1.1&amp;rect=168%2C0%2C911%2C607&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-08T06:51:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
