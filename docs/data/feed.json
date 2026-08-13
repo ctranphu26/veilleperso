@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T18:59:33.678Z",
+  "generatedAt": "2026-08-13T01:50:59.293Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "alxduvl",
+      "title": "Comment l’agriculture peut-elle s’adapter aux étés de plus en plus secs ?",
+      "summary": "Alors que la France connaît, en cet été 2026, une situation exceptionnelle de sécheresse, les cultures agricoles souffrent. Dans le même temps, la loi d’urgence agricole, votée au Sénat le 21 juillet dernier, a entériné le doublement des objectifs de stockage de l’eau à usage agricole à l’horizon 2035. C’est là tout le",
+      "link": "https://theconversation.com/comment-lagriculture-peut-elle-sadapter-aux-etes-de-plus-en-plus-secs-286702",
+      "image": "https://images.theconversation.com/files/748538/original/file-20260717-57-cay1xb.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-08-11T14:29:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
       "id": "adebpsz",
       "title": "Tous à confesse : lorsque la confession était au cœur de la vie sociale des Français",
       "summary": "Le passage au confessionnal (au moins une fois par an) concernait encore 51 % des Français en 1952. Dabarti CGI/Shutterstock (no reuse) L’ESSENTIEL La confession est souvent envisagée comme une pratique spirituelle individuelle, touchant l’intimité et le secret des consciences. Mais au XIXe siècle, en France, elle étai",
@@ -131,8 +147,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6hj901",
@@ -147,8 +163,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahw0kgj",
@@ -163,24 +179,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "alxduvl",
-      "title": "Comment l’agriculture peut-elle s’adapter aux étés de plus en plus secs ?",
-      "summary": "Alors que la France connaît, en cet été 2026, une situation exceptionnelle de sécheresse, les cultures agricoles souffrent. Dans le même temps, la loi d’urgence agricole, votée au Sénat le 21 juillet dernier, a entériné le doublement des objectifs de stockage de l’eau à usage agricole à l’horizon 2035. C’est là tout le",
-      "link": "https://theconversation.com/comment-lagriculture-peut-elle-sadapter-aux-etes-de-plus-en-plus-secs-286702",
-      "image": "https://images.theconversation.com/files/748538/original/file-20260717-57-cay1xb.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-11T14:29:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "attqzt1",
@@ -197,8 +197,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a26o6jk",
@@ -213,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3o3nz0",
@@ -231,7 +231,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,8 +329,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aysowx3",
@@ -347,7 +347,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -363,7 +363,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -379,7 +379,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -395,7 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -443,39 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ao1ibwi",
-      "title": "Quand un simple T-shirt blanc devient tellement luxueux qu’il peut coûter plus de 500 euros",
-      "summary": "Sur quel levier les marques de luxe s’appuient-elles pour nous faire acheter un T-shirt blanc basique à plusieurs centaines d’euros, alors qu’on peut trouver un équivalent pour moins de 20 euros dans la fast-fashion, ou pour quelques dizaines d’euros dans des alternatives plus responsables ? Ces dernières années, une t",
-      "link": "https://theconversation.com/quand-un-simple-t-shirt-blanc-devient-tellement-luxueux-quil-peut-couter-plus-de-500-euros-284777",
-      "image": "https://images.theconversation.com/files/740936/original/file-20260610-71-qpcbn8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-10T08:35:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 35,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9b36gh",
-      "title": "Chanel à Biarritz, ou l’art de transformer la mémoire en capital",
-      "summary": "Mais qu’allait faire la maison Chanel à Biarritz ? Pour son défilé croisière signé Matthieu Blazy, c’est le casino de la ville qui a été retenu en avril dernier. Photos du défilé Chanel Le retour de Chanel à Biarritz, dans les Pyrénées-Atlantiques, où Gabrielle Chanel avait développé sa maison de couture à partir de 19",
-      "link": "https://theconversation.com/chanel-a-biarritz-ou-lart-de-transformer-la-memoire-en-capital-288625",
-      "image": "https://images.theconversation.com/files/751707/original/file-20260803-50-1jde8x.png?ixlib=rb-4.1.1&amp;rect=402%2C38%2C1608%2C1072&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-10T08:34:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +459,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ao1ibwi",
+      "title": "Quand un simple T-shirt blanc devient tellement luxueux qu’il peut coûter plus de 500 euros",
+      "summary": "Sur quel levier les marques de luxe s’appuient-elles pour nous faire acheter un T-shirt blanc basique à plusieurs centaines d’euros, alors qu’on peut trouver un équivalent pour moins de 20 euros dans la fast-fashion, ou pour quelques dizaines d’euros dans des alternatives plus responsables ? Ces dernières années, une t",
+      "link": "https://theconversation.com/quand-un-simple-t-shirt-blanc-devient-tellement-luxueux-quil-peut-couter-plus-de-500-euros-284777",
+      "image": "https://images.theconversation.com/files/740936/original/file-20260610-71-qpcbn8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-10T08:35:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 31,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a9b36gh",
+      "title": "Chanel à Biarritz, ou l’art de transformer la mémoire en capital",
+      "summary": "Mais qu’allait faire la maison Chanel à Biarritz ? Pour son défilé croisière signé Matthieu Blazy, c’est le casino de la ville qui a été retenu en avril dernier. Photos du défilé Chanel Le retour de Chanel à Biarritz, dans les Pyrénées-Atlantiques, où Gabrielle Chanel avait développé sa maison de couture à partir de 19",
+      "link": "https://theconversation.com/chanel-a-biarritz-ou-lart-de-transformer-la-memoire-en-capital-288625",
+      "image": "https://images.theconversation.com/files/751707/original/file-20260803-50-1jde8x.png?ixlib=rb-4.1.1&amp;rect=402%2C38%2C1608%2C1072&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-10T08:34:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +509,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -525,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -541,7 +541,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
