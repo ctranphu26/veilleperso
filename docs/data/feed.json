@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T13:06:24.794Z",
+  "generatedAt": "2026-08-13T19:00:31.568Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -147,14 +147,14 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
-      "id": "awolpxc",
-      "title": "SLA : l’exposition professionnelle aux pesticides pourrait accroître le risque de maladie des motoneurones",
+      "id": "a2z57ls",
+      "title": "SLA : l’exposition professionnelle aux pesticides pourrait accroître le risque de maladie du motoneurone",
       "summary": "L’exposition aux pesticides semble liée à un risque accru de développer une SLA, mais des interrogations persistent. Huntstock/Getty Une nouvelle étude suggère que l’exposition aux pesticides pourrait augmenter le risque de sclérose latérale amyotrophique, ou SLA. Cependant, ces travaux ne permettent pas de déterminer ",
-      "link": "https://theconversation.com/sla-lexposition-professionnelle-aux-pesticides-pourrait-accroitre-le-risque-de-maladie-des-motoneurones-289730",
+      "link": "https://theconversation.com/sla-lexposition-professionnelle-aux-pesticides-pourrait-accroitre-le-risque-de-maladie-du-motoneurone-289730",
       "image": "https://images.theconversation.com/files/753833/original/file-20260805-50-ghl9z8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5616%2C3744&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-08-13T12:17:58.000Z",
       "source": "The Conversation (FR)",
@@ -163,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -179,7 +179,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -195,7 +195,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -211,8 +211,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alxduvl",
@@ -227,7 +227,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -243,7 +243,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -259,7 +259,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -275,7 +275,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,7 +293,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -309,7 +309,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +327,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -343,7 +343,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,8 +359,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "axbti5l",
@@ -375,8 +375,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "afs75g3",
@@ -391,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -407,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -425,7 +425,23 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 35,
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ac72kv2",
+      "title": "Que signifiaient les éclipses dans la Rome antique ?",
+      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
+      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
+      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-10T13:40:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -443,23 +459,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ac72kv2",
-      "title": "Que signifiaient les éclipses dans la Rome antique ?",
-      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
-      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
-      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-10T13:40:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -507,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -523,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -539,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
