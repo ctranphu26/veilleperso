@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:08:06.315Z",
+  "generatedAt": "2026-08-15T06:34:55.626Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,24 @@
   "count": 25,
   "items": [
     {
+      "id": "axj711z",
+      "title": "Lanceurs d’alerte en exil : pourquoi les business schools ont une responsabilité à assumer",
+      "summary": "Dénonçant les pratiques « hors cadre » des entreprises, les lanceurs d’alerte mettent en péril leur carrière professionnelle. Et s’ils devenaient enseignants dans les business schools ? Avant de prendre la parole, ils ont pu observer le fonctionnement et certains dysfonctionnements des entreprises, un savoir qui pourra",
+      "link": "https://theconversation.com/lanceurs-dalerte-en-exil-pourquoi-les-business-schools-ont-une-responsabilite-a-assumer-284740",
+      "image": "https://counter.theconversation.com/content/284740/count.gif",
+      "publishedAt": "2026-08-15T05:34:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aolv1li",
       "title": "Dans les mines d’or de Guyane, le bilan mitigé de la réhabilitation des sols",
       "summary": "Mine d’or près de la rivière Awa, en Guyane française. Naomi Nitschke., Fourni par l'auteur En Guyane française, de nombreuses normes régulent les activités minières pendant et après l’exploitation. Ces mesures de réhabilitation se concentrent essentiellement sur la limitation des exports de particules vers les rivière",
@@ -131,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +165,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "az5q32d",
@@ -165,7 +183,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -309,23 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apn6kt1",
-      "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
-      "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
-      "link": "https://theconversation.com/latoll-de-clipperton-un-laboratoire-unique-pour-etudier-les-extinctions-deja-engagees-mais-encore-invisibles-288645",
-      "image": "https://images.theconversation.com/files/750888/original/file-20260729-57-e2ojom.jpg?ixlib=rb-4.1.1&amp;rect=28%2C0%2C952%2C634&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T08:07:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -341,7 +343,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 43,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apn6kt1",
+      "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
+      "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
+      "link": "https://theconversation.com/latoll-de-clipperton-un-laboratoire-unique-pour-etudier-les-extinctions-deja-engagees-mais-encore-invisibles-288645",
+      "image": "https://images.theconversation.com/files/750888/original/file-20260729-57-e2ojom.jpg?ixlib=rb-4.1.1&amp;rect=28%2C0%2C952%2C634&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T08:07:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,7 +377,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -375,7 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -391,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -407,7 +425,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -423,7 +441,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -441,7 +459,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -457,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -473,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -489,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -505,23 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ac72kv2",
-      "title": "Que signifiaient les éclipses dans la Rome antique ?",
-      "summary": "_Deux philosophes observant une éclipse_, par Pierre Brébiette (1598-1650). Metropolitan Museum of Art. Ce 12 août, une éclipse solaire spectaculaire traversera le ciel européen, calculée à la minute près par nos applications modernes. Mais dans la Rome antique, ce phénomène revêtait une tout autre dimension : savoir a",
-      "link": "https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411",
-      "image": "https://images.theconversation.com/files/753023/original/file-20260720-85-7ohd1k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C76%2C3519%2C2346&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-10T13:40:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 21,
       "urgencyLevel": "basse"
     }
   ]
