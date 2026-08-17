@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:40:11.580Z",
+  "generatedAt": "2026-08-17T18:36:21.169Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,105 @@
   "count": 35,
   "items": [
     {
+      "id": "ai8intp",
+      "title": "L’utilisation de l’IA par Al-Qaida et l’État islamique : deux approches différentes",
+      "summary": "L’ESSENTIEL Les réseaux djihadistes s’emparent eux aussi de l’intelligence artificielle, notamment pour la propagande, la traduction et la production de contenus. Al-Qaida et l’État islamique mettent en œuvre, dans ce domaine comme dans d’autres, des approches différentes : la première privilégie une stratégie de long ",
+      "link": "https://theconversation.com/lutilisation-de-lia-par-al-qaida-et-letat-islamique-deux-approches-differentes-289822",
+      "image": "https://counter.theconversation.com/content/289822/count.gif",
+      "publishedAt": "2026-08-17T13:11:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle",
+        "propagande"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayngugz",
+      "title": "Incendies : comprendre le mystère des pyromanes",
+      "summary": "L’ESSENTIEL Plus de 400 incendiaires ont été interpellés en France à la suite des incendies de juillet 2026. Quels sont les profils des personnes mises en cause ? Pyromanes et psychopathes, incendiaires par vengeance, pour motifs économiques ou politiques : que dit la criminologie ? En 1938, le philosophe Gaston Bachel",
+      "link": "https://theconversation.com/incendies-comprendre-le-mystere-des-pyromanes-289244",
+      "image": "https://counter.theconversation.com/content/289244/count.gif",
+      "publishedAt": "2026-08-17T13:12:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoyetq8",
+      "title": "Contre le gaspillage alimentaire, une réduction suffit-elle ?",
+      "summary": "L’ESSENTIEL Face au gaspillage alimentaire, des plateformes mettent en relation consommateurs et commerçants ou artisans qui vendent à prix réduit leurs produits non écoulés. Le rapport qualité-prix arrive en tête des motivations des acheteurs, mais d’autres facteurs entrent aussi en ligne de compte. Cette pratique est",
+      "link": "https://theconversation.com/contre-le-gaspillage-alimentaire-une-reduction-suffit-elle-288755",
+      "image": "https://counter.theconversation.com/content/288755/count.gif",
+      "publishedAt": "2026-08-17T13:10:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ad99osz",
+      "title": "L’histoire de la « double fente », l’expérience qui contient tout le mystère de la quantique",
+      "summary": "Depuis plus de deux siècles, les physiciens réalisent une expérience au principe simple, qui permet toujours de mettre en évidence les mystères de la mécanique quantique. ©Université de Vienne Quelle est l’expérience qui permet aux novices d’appréhender les mystères de la mécanique quantique et qui continue de faire vi",
+      "link": "https://theconversation.com/lhistoire-de-la-double-fente-lexperience-qui-contient-tout-le-mystere-de-la-quantique-289548",
+      "image": "https://images.theconversation.com/files/753634/original/file-20260812-50-xnckje.png?ixlib=rb-4.1.1&amp;rect=0%2C90%2C2929%2C1952&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-17T13:07:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aojdb7k",
+      "title": "Une bouse de vache vaut-elle un crottin de cheval ? Les bousiers n’ont pas tous les mêmes préférences gustatives",
+      "summary": "Bousier de l’espèce _O. Vacca_ avec des acariens sur le dos. Martin A. Prinz (martin_der_prinz)/iNaturalist, CC BY-NC L’ESSENTIEL Les bousiers sont une grande famille d’insectes coléoptères qui se nourrit et pond dans les excréments d’animaux, parmi lesquels les grands mammifères d’élevage (vaches, chevaux…). On pensai",
+      "link": "https://theconversation.com/une-bouse-de-vache-vaut-elle-un-crottin-de-cheval-les-bousiers-nont-pas-tous-les-memes-preferences-gustatives-289166",
+      "image": "https://images.theconversation.com/files/752245/original/file-20260805-60-12mq4s.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-17T13:07:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayatsrf",
+      "title": "The Medicines Patent Pool is improving access to essential medication where it’s most needed, but does it make economic sense?",
+      "summary": "A new UN-backed initiative is enabling qualified generic manufacturers to develop, produce and supply vital medicines such as antivirals independently. By reducing the cost of essential medicines, pooled licensing particularly benefits low- and middle-income countries, in sub-Saharan Africa, for instance. Maxim Studio/",
+      "link": "https://theconversation.com/the-medicines-patent-pool-is-improving-access-to-essential-medication-where-its-most-needed-but-does-it-make-economic-sense-286914",
+      "image": "https://images.theconversation.com/files/750593/original/file-20260728-57-qisucl.jpg?ixlib=rb-4.1.1&amp;rect=125%2C0%2C5509%2C3673&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-17T13:02:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "axj711z",
       "title": "Lanceurs d’alerte en exil : pourquoi les business schools ont une responsabilité à assumer",
       "summary": "Dénonçant les pratiques « hors cadre » des entreprises, les lanceurs d’alerte mettent en péril leur carrière professionnelle. Et s’ils devenaient enseignants dans les business schools ? Avant de prendre la parole, ils ont pu observer le fonctionnement et certains dysfonctionnements des entreprises, un savoir qui pourra",
@@ -133,7 +232,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -149,7 +248,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -165,7 +264,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -181,23 +280,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "alxduvl",
-      "title": "Comment l’agriculture peut-elle s’adapter aux étés de plus en plus secs ?",
-      "summary": "Alors que la France connaît, en cet été 2026, une situation exceptionnelle de sécheresse, les cultures agricoles souffrent. Dans le même temps, la loi d’urgence agricole, votée au Sénat le 21 juillet dernier, a entériné le doublement des objectifs de stockage de l’eau à usage agricole à l’horizon 2035. C’est là tout le",
-      "link": "https://theconversation.com/comment-lagriculture-peut-elle-sadapter-aux-etes-de-plus-en-plus-secs-286702",
-      "image": "https://images.theconversation.com/files/748538/original/file-20260717-57-cay1xb.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-11T14:29:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -215,7 +298,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -231,7 +314,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -247,7 +330,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -263,7 +346,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -279,105 +362,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3o3nz0",
-      "title": "L’os est bien plus dynamique qu’on ne l’a longtemps cru : il possède lui aussi un rythme quotidien",
-      "summary": "Notre squelette, vivant et en perpétuelle évolution, est en réalité bien éloigné de cette représentation. Pixel-Shot/Shutterstock (no reuse) Notre squelette est en permanence en train de se remodeler. Ces phases de destructions et de reconstructions quotidiennes suivent un rythme bien précis, qui pourrait être perturbé",
-      "link": "https://theconversation.com/los-est-bien-plus-dynamique-quon-ne-la-longtemps-cru-il-possede-lui-aussi-un-rythme-quotidien-289551",
-      "image": "https://images.theconversation.com/files/753350/original/file-20260629-57-d9mv36.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5760%2C3840&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-11T14:44:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ayq9s3r",
-      "title": "À l’ère des canicules, l’avenir du télétravail passe-t-il par des espaces de coworking pour échapper aux passoires thermiques ?",
-      "summary": "L’ESSENTIEL La succession d’épisodes caniculaires depuis le mois de mai 2026 a de nouveau braqué les projecteurs sur le télétravail. Ces derniers mois pourtant, plusieurs chefs d’entreprise avaient souhaité réduire la voilure dans ce domaine. La dimension durable du changement climatique nécessite une vraie réflexion s",
-      "link": "https://theconversation.com/a-lere-des-canicules-lavenir-du-teletravail-passe-t-il-par-des-espaces-de-coworking-pour-echapper-aux-passoires-thermiques-289310",
-      "image": "https://counter.theconversation.com/content/289310/count.gif",
-      "publishedAt": "2026-08-13T12:19:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2z57ls",
-      "title": "SLA : l’exposition professionnelle aux pesticides pourrait accroître le risque de maladie du motoneurone",
-      "summary": "L’exposition aux pesticides semble liée à un risque accru de développer une SLA, mais des interrogations persistent. Huntstock/Getty Une nouvelle étude suggère que l’exposition aux pesticides pourrait augmenter le risque de sclérose latérale amyotrophique, ou SLA. Cependant, ces travaux ne permettent pas de déterminer ",
-      "link": "https://theconversation.com/sla-lexposition-professionnelle-aux-pesticides-pourrait-accroitre-le-risque-de-maladie-du-motoneurone-289730",
-      "image": "https://images.theconversation.com/files/753833/original/file-20260805-50-ghl9z8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5616%2C3744&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:17:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aexilm9",
-      "title": "L’histoire méconnue de la Vierge Marie, sainte patronne des États-Unis",
-      "summary": "Depuis 1847, la Vierge Marie est officiellement la patronne des États-Unis sous le vocable de l’Immaculée Conception. The Marian Library, University of Dayton (Ohio) L’ESSENTIEL Les États-Unis ont une sainte patronne depuis près de 180 ans : la Vierge Marie, sous le titre de l’Immaculée Conception. Cette histoire éclai",
-      "link": "https://theconversation.com/lhistoire-meconnue-de-la-vierge-marie-sainte-patronne-des-etats-unis-284472",
-      "image": "https://images.theconversation.com/files/739691/original/file-20260520-57-wytza7.png?ixlib=rb-4.1.1&amp;rect=0%2C161%2C1500%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:17:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aslnn2d",
-      "title": "De nombreuses espèces d’abeilles renferment de minuscules particules magnétiques, suggérant l’existence d’une boussole interne",
-      "summary": "Les scientifiques ignorent encore comment les insectes utilisent leur sens magnétique pour s’orienter. Laura Russo Les abeilles sociales, les espèces solitaires, celles qui nichent dans le sol ou dans des cavités : toutes ou presque présentent des traces de magnétisme. Cette découverte remet en cause les idées reçues s",
-      "link": "https://theconversation.com/de-nombreuses-especes-dabeilles-renferment-de-minuscules-particules-magnetiques-suggerant-lexistence-dune-boussole-interne-287920",
-      "image": "https://images.theconversation.com/files/748870/original/file-20260526-57-1jzpd6.JPG?ixlib=rb-4.1.1&amp;rect=179%2C108%2C2004%2C1336&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:13:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "argr807",
-      "title": "Durant la Renaissance, le retour des papes à Rome créa une ère de construction de palais sans précédent pour la « Ville éternelle »",
-      "summary": "La « Ville éternelle » s’est fait une nouvelle beauté de la fin du XIVᵉ siècle à la fin du XVIᵉ siècle, après une période de stagnation économique. Aujourd’hui, 84 % des palais construits durant cette période sont encore debout. Wikimediacommons Près de 31 % des palais de Rome furent construits entre 1378 et 1599 après",
-      "link": "https://theconversation.com/durant-la-renaissance-le-retour-des-papes-a-rome-crea-une-ere-de-construction-de-palais-sans-precedent-pour-la-ville-eternelle-268262",
-      "image": "https://images.theconversation.com/files/751169/original/file-20260730-50-6hn4vc.png?ixlib=rb-4.1.1&amp;rect=346%2C0%2C1338%2C892&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-11T14:28:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -397,6 +382,70 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "ayq9s3r",
+      "title": "À l’ère des canicules, l’avenir du télétravail passe-t-il par des espaces de coworking pour échapper aux passoires thermiques ?",
+      "summary": "L’ESSENTIEL La succession d’épisodes caniculaires depuis le mois de mai 2026 a de nouveau braqué les projecteurs sur le télétravail. Ces derniers mois pourtant, plusieurs chefs d’entreprise avaient souhaité réduire la voilure dans ce domaine. La dimension durable du changement climatique nécessite une vraie réflexion s",
+      "link": "https://theconversation.com/a-lere-des-canicules-lavenir-du-teletravail-passe-t-il-par-des-espaces-de-coworking-pour-echapper-aux-passoires-thermiques-289310",
+      "image": "https://counter.theconversation.com/content/289310/count.gif",
+      "publishedAt": "2026-08-13T12:19:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a2z57ls",
+      "title": "SLA : l’exposition professionnelle aux pesticides pourrait accroître le risque de maladie du motoneurone",
+      "summary": "L’exposition aux pesticides semble liée à un risque accru de développer une SLA, mais des interrogations persistent. Huntstock/Getty Une nouvelle étude suggère que l’exposition aux pesticides pourrait augmenter le risque de sclérose latérale amyotrophique, ou SLA. Cependant, ces travaux ne permettent pas de déterminer ",
+      "link": "https://theconversation.com/sla-lexposition-professionnelle-aux-pesticides-pourrait-accroitre-le-risque-de-maladie-du-motoneurone-289730",
+      "image": "https://images.theconversation.com/files/753833/original/file-20260805-50-ghl9z8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5616%2C3744&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T12:17:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aexilm9",
+      "title": "L’histoire méconnue de la Vierge Marie, sainte patronne des États-Unis",
+      "summary": "Depuis 1847, la Vierge Marie est officiellement la patronne des États-Unis sous le vocable de l’Immaculée Conception. The Marian Library, University of Dayton (Ohio) L’ESSENTIEL Les États-Unis ont une sainte patronne depuis près de 180 ans : la Vierge Marie, sous le titre de l’Immaculée Conception. Cette histoire éclai",
+      "link": "https://theconversation.com/lhistoire-meconnue-de-la-vierge-marie-sainte-patronne-des-etats-unis-284472",
+      "image": "https://images.theconversation.com/files/739691/original/file-20260520-57-wytza7.png?ixlib=rb-4.1.1&amp;rect=0%2C161%2C1500%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T12:17:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aslnn2d",
+      "title": "De nombreuses espèces d’abeilles renferment de minuscules particules magnétiques, suggérant l’existence d’une boussole interne",
+      "summary": "Les scientifiques ignorent encore comment les insectes utilisent leur sens magnétique pour s’orienter. Laura Russo Les abeilles sociales, les espèces solitaires, celles qui nichent dans le sol ou dans des cavités : toutes ou presque présentent des traces de magnétisme. Cette découverte remet en cause les idées reçues s",
+      "link": "https://theconversation.com/de-nombreuses-especes-dabeilles-renferment-de-minuscules-particules-magnetiques-suggerant-lexistence-dune-boussole-interne-287920",
+      "image": "https://images.theconversation.com/files/748870/original/file-20260526-57-1jzpd6.JPG?ixlib=rb-4.1.1&amp;rect=179%2C108%2C2004%2C1336&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T12:13:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "apn6kt1",
       "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
       "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
@@ -409,7 +458,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -431,6 +480,24 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "attqzt1",
+      "title": "Charles de Gaulle, héros de la France libre : une représentation qui a évolué dans la mémoire nationale ?",
+      "summary": "« Paris ! Paris outragé ! Paris brisé ! Paris martyrisé ! Mais Paris libéré ! Libéré par lui-même, libéré par son peuple avec le concours des armées de la France » Le 25 août 1944, depuis l’hôtel de ville de la capitale, le général de Gaulle lance ces mots célèbres aux Françaises et aux Français, scellant sa posture my",
+      "link": "https://theconversation.com/charles-de-gaulle-heros-de-la-france-libre-une-representation-qui-a-evolue-dans-la-memoire-nationale-287031",
+      "image": "https://counter.theconversation.com/content/287031/count.gif",
+      "publishedAt": "2026-08-12T10:34:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "représentation"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 13,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "adebpsz",
       "title": "Tous à confesse : lorsque la confession était au cœur de la vie sociale des Français",
       "summary": "Le passage au confessionnal (au moins une fois par an) concernait encore 51 % des Français en 1952. Dabarti CGI/Shutterstock (no reuse) L’ESSENTIEL La confession est souvent envisagée comme une pratique spirituelle individuelle, touchant l’intimité et le secret des consciences. Mais au XIXe siècle, en France, elle étai",
@@ -443,7 +510,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +526,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -475,25 +542,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "attqzt1",
-      "title": "Charles de Gaulle, héros de la France libre : une représentation qui a évolué dans la mémoire nationale ?",
-      "summary": "« Paris ! Paris outragé ! Paris brisé ! Paris martyrisé ! Mais Paris libéré ! Libéré par lui-même, libéré par son peuple avec le concours des armées de la France » Le 25 août 1944, depuis l’hôtel de ville de la capitale, le général de Gaulle lance ces mots célèbres aux Françaises et aux Français, scellant sa posture my",
-      "link": "https://theconversation.com/charles-de-gaulle-heros-de-la-france-libre-une-representation-qui-a-evolue-dans-la-memoire-nationale-287031",
-      "image": "https://counter.theconversation.com/content/287031/count.gif",
-      "publishedAt": "2026-08-12T10:34:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 14,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -509,55 +558,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ady4glj",
-      "title": "Pompiers volontaires : ce modèle peut-il encore tenir face aux mégafeux ?",
-      "summary": "L’ESSENTIEL Près de 80 % des pompiers français ne sont pas salariés. Volontaires, ils combattent le feu après leur travail ou pendant leurs jours de congé. Beaucoup ne tiennent pas plus de trois ans. Ce modèle, déjà fragile, est mis sous tension par l’intensification des incendies. Le ratio entre pompiers professionnel",
-      "link": "https://theconversation.com/pompiers-volontaires-ce-modele-peut-il-encore-tenir-face-aux-megafeux-289003",
-      "image": "https://counter.theconversation.com/content/289003/count.gif",
-      "publishedAt": "2026-08-11T14:35:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 11,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "axbti5l",
-      "title": "L’administration Trump veut sanctionner ceux qui jugent : un aveu de la force du droit international",
-      "summary": "L’ESSENTIEL En juillet 2026, le secrétaire d’État américain Marco Rubio a affirmé sa volonté de « démanteler » la Cour pénale internationale. Cette offensive s’inscrit dans une série d’attaques contre les juridictions internationales, notamment à travers des sanctions visant leur action et leurs acteurs. Si de telles s",
-      "link": "https://theconversation.com/ladministration-trump-veut-sanctionner-ceux-qui-jugent-un-aveu-de-la-force-du-droit-international-288756",
-      "image": "https://counter.theconversation.com/content/288756/count.gif",
-      "publishedAt": "2026-08-11T14:35:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 11,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ablzx4a",
-      "title": "Pendant les vagues de chaleur, pourquoi faut-il être particulièrement vigilant avec les intoxications alimentaires ?",
-      "summary": "L’été, et en particulier lors des vagues de chaleur et canicules, les aliments doivent être conservés au frais et sortis du réfrigérateur juste avant leur consommation. Natalia Deriabina/Shutterstock (no reuse) L’ESSENTIEL Les intoxications alimentaires sont notamment provoquées par des bactéries qui se développent dan",
-      "link": "https://theconversation.com/pendant-les-vagues-de-chaleur-pourquoi-faut-il-etre-particulierement-vigilant-avec-les-intoxications-alimentaires-288986",
-      "image": "https://images.theconversation.com/files/751727/original/file-20260714-71-q0dh3m.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-11T08:38:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
