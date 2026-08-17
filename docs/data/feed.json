@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T18:26:17.535Z",
+  "generatedAt": "2026-08-17T01:09:56.974Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,8 +165,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aveq7a2",
+      "title": "« Minutieuse » : un compliment qui peut enfermer les femmes dans des rôles subalternes",
+      "summary": "À un même type de poste, les femmes et les hommes ne sont pas décrits de la même manière par leur entourage professionnel. Selon une étude, ces différences de langage contribuent à éloigner les femmes des postes de direction. Unsplash L’analyse de plus de 550 000 recommandations publiées sur LinkedIn révèle un biais pe",
+      "link": "https://theconversation.com/minutieuse-un-compliment-qui-peut-enfermer-les-femmes-dans-des-roles-subalternes-288023",
+      "image": "https://images.theconversation.com/files/749160/original/file-20260511-57-qz8gfn.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5423%2C3615&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T12:15:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
     },
     {
       "id": "az5q32d",
@@ -183,7 +199,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -199,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -215,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -231,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -247,23 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aveq7a2",
-      "title": "« Minutieuse » : un compliment qui peut enfermer les femmes dans des rôles subalternes",
-      "summary": "À un même type de poste, les femmes et les hommes ne sont pas décrits de la même manière par leur entourage professionnel. Selon une étude, ces différences de langage contribuent à éloigner les femmes des postes de direction. Unsplash L’analyse de plus de 550 000 recommandations publiées sur LinkedIn révèle un biais pe",
-      "link": "https://theconversation.com/minutieuse-un-compliment-qui-peut-enfermer-les-femmes-dans-des-roles-subalternes-288023",
-      "image": "https://images.theconversation.com/files/749160/original/file-20260511-57-qz8gfn.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5423%2C3615&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:15:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -279,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -311,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -327,7 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -343,23 +343,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apn6kt1",
-      "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
-      "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
-      "link": "https://theconversation.com/latoll-de-clipperton-un-laboratoire-unique-pour-etudier-les-extinctions-deja-engagees-mais-encore-invisibles-288645",
-      "image": "https://images.theconversation.com/files/750888/original/file-20260729-57-e2ojom.jpg?ixlib=rb-4.1.1&amp;rect=28%2C0%2C952%2C634&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T08:07:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -377,7 +361,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "apn6kt1",
+      "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
+      "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
+      "link": "https://theconversation.com/latoll-de-clipperton-un-laboratoire-unique-pour-etudier-les-extinctions-deja-engagees-mais-encore-invisibles-288645",
+      "image": "https://images.theconversation.com/files/750888/original/file-20260729-57-e2ojom.jpg?ixlib=rb-4.1.1&amp;rect=28%2C0%2C952%2C634&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T08:07:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -393,7 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -409,7 +409,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -425,7 +425,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -441,7 +441,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +459,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 18,
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -507,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -523,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 11,
       "urgencyLevel": "basse"
     }
   ]
