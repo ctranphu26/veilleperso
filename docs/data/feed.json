@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T06:51:55.068Z",
+  "generatedAt": "2026-08-17T12:40:11.580Z",
   "themes": [
     {
       "id": "education-medias",
@@ -116,7 +116,7 @@
       "enabled": false
     }
   ],
-  "count": 25,
+  "count": 35,
   "items": [
     {
       "id": "axj711z",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -149,8 +149,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aufyrso",
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -181,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -197,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -215,7 +215,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -231,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -247,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -263,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -279,71 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ayq9s3r",
-      "title": "À l’ère des canicules, l’avenir du télétravail passe-t-il par des espaces de coworking pour échapper aux passoires thermiques ?",
-      "summary": "L’ESSENTIEL La succession d’épisodes caniculaires depuis le mois de mai 2026 a de nouveau braqué les projecteurs sur le télétravail. Ces derniers mois pourtant, plusieurs chefs d’entreprise avaient souhaité réduire la voilure dans ce domaine. La dimension durable du changement climatique nécessite une vraie réflexion s",
-      "link": "https://theconversation.com/a-lere-des-canicules-lavenir-du-teletravail-passe-t-il-par-des-espaces-de-coworking-pour-echapper-aux-passoires-thermiques-289310",
-      "image": "https://counter.theconversation.com/content/289310/count.gif",
-      "publishedAt": "2026-08-13T12:19:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2z57ls",
-      "title": "SLA : l’exposition professionnelle aux pesticides pourrait accroître le risque de maladie du motoneurone",
-      "summary": "L’exposition aux pesticides semble liée à un risque accru de développer une SLA, mais des interrogations persistent. Huntstock/Getty Une nouvelle étude suggère que l’exposition aux pesticides pourrait augmenter le risque de sclérose latérale amyotrophique, ou SLA. Cependant, ces travaux ne permettent pas de déterminer ",
-      "link": "https://theconversation.com/sla-lexposition-professionnelle-aux-pesticides-pourrait-accroitre-le-risque-de-maladie-du-motoneurone-289730",
-      "image": "https://images.theconversation.com/files/753833/original/file-20260805-50-ghl9z8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5616%2C3744&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:17:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aexilm9",
-      "title": "L’histoire méconnue de la Vierge Marie, sainte patronne des États-Unis",
-      "summary": "Depuis 1847, la Vierge Marie est officiellement la patronne des États-Unis sous le vocable de l’Immaculée Conception. The Marian Library, University of Dayton (Ohio) L’ESSENTIEL Les États-Unis ont une sainte patronne depuis près de 180 ans : la Vierge Marie, sous le titre de l’Immaculée Conception. Cette histoire éclai",
-      "link": "https://theconversation.com/lhistoire-meconnue-de-la-vierge-marie-sainte-patronne-des-etats-unis-284472",
-      "image": "https://images.theconversation.com/files/739691/original/file-20260520-57-wytza7.png?ixlib=rb-4.1.1&amp;rect=0%2C161%2C1500%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:17:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aslnn2d",
-      "title": "De nombreuses espèces d’abeilles renferment de minuscules particules magnétiques, suggérant l’existence d’une boussole interne",
-      "summary": "Les scientifiques ignorent encore comment les insectes utilisent leur sens magnétique pour s’orienter. Laura Russo Les abeilles sociales, les espèces solitaires, celles qui nichent dans le sol ou dans des cavités : toutes ou presque présentent des traces de magnétisme. Cette découverte remet en cause les idées reçues s",
-      "link": "https://theconversation.com/de-nombreuses-especes-dabeilles-renferment-de-minuscules-particules-magnetiques-suggerant-lexistence-dune-boussole-interne-287920",
-      "image": "https://images.theconversation.com/files/748870/original/file-20260526-57-1jzpd6.JPG?ixlib=rb-4.1.1&amp;rect=179%2C108%2C2004%2C1336&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:13:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -365,19 +301,67 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "apn6kt1",
-      "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
-      "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
-      "link": "https://theconversation.com/latoll-de-clipperton-un-laboratoire-unique-pour-etudier-les-extinctions-deja-engagees-mais-encore-invisibles-288645",
-      "image": "https://images.theconversation.com/files/750888/original/file-20260729-57-e2ojom.jpg?ixlib=rb-4.1.1&amp;rect=28%2C0%2C952%2C634&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T08:07:30.000Z",
+      "id": "ayq9s3r",
+      "title": "À l’ère des canicules, l’avenir du télétravail passe-t-il par des espaces de coworking pour échapper aux passoires thermiques ?",
+      "summary": "L’ESSENTIEL La succession d’épisodes caniculaires depuis le mois de mai 2026 a de nouveau braqué les projecteurs sur le télétravail. Ces derniers mois pourtant, plusieurs chefs d’entreprise avaient souhaité réduire la voilure dans ce domaine. La dimension durable du changement climatique nécessite une vraie réflexion s",
+      "link": "https://theconversation.com/a-lere-des-canicules-lavenir-du-teletravail-passe-t-il-par-des-espaces-de-coworking-pour-echapper-aux-passoires-thermiques-289310",
+      "image": "https://counter.theconversation.com/content/289310/count.gif",
+      "publishedAt": "2026-08-13T12:19:16.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 20,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a2z57ls",
+      "title": "SLA : l’exposition professionnelle aux pesticides pourrait accroître le risque de maladie du motoneurone",
+      "summary": "L’exposition aux pesticides semble liée à un risque accru de développer une SLA, mais des interrogations persistent. Huntstock/Getty Une nouvelle étude suggère que l’exposition aux pesticides pourrait augmenter le risque de sclérose latérale amyotrophique, ou SLA. Cependant, ces travaux ne permettent pas de déterminer ",
+      "link": "https://theconversation.com/sla-lexposition-professionnelle-aux-pesticides-pourrait-accroitre-le-risque-de-maladie-du-motoneurone-289730",
+      "image": "https://images.theconversation.com/files/753833/original/file-20260805-50-ghl9z8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5616%2C3744&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T12:17:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 20,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aexilm9",
+      "title": "L’histoire méconnue de la Vierge Marie, sainte patronne des États-Unis",
+      "summary": "Depuis 1847, la Vierge Marie est officiellement la patronne des États-Unis sous le vocable de l’Immaculée Conception. The Marian Library, University of Dayton (Ohio) L’ESSENTIEL Les États-Unis ont une sainte patronne depuis près de 180 ans : la Vierge Marie, sous le titre de l’Immaculée Conception. Cette histoire éclai",
+      "link": "https://theconversation.com/lhistoire-meconnue-de-la-vierge-marie-sainte-patronne-des-etats-unis-284472",
+      "image": "https://images.theconversation.com/files/739691/original/file-20260520-57-wytza7.png?ixlib=rb-4.1.1&amp;rect=0%2C161%2C1500%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T12:17:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 20,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aslnn2d",
+      "title": "De nombreuses espèces d’abeilles renferment de minuscules particules magnétiques, suggérant l’existence d’une boussole interne",
+      "summary": "Les scientifiques ignorent encore comment les insectes utilisent leur sens magnétique pour s’orienter. Laura Russo Les abeilles sociales, les espèces solitaires, celles qui nichent dans le sol ou dans des cavités : toutes ou presque présentent des traces de magnétisme. Cette découverte remet en cause les idées reçues s",
+      "link": "https://theconversation.com/de-nombreuses-especes-dabeilles-renferment-de-minuscules-particules-magnetiques-suggerant-lexistence-dune-boussole-interne-287920",
+      "image": "https://images.theconversation.com/files/748870/original/file-20260526-57-1jzpd6.JPG?ixlib=rb-4.1.1&amp;rect=179%2C108%2C2004%2C1336&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T12:13:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -393,7 +377,57 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 20,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a1vyu85",
+      "title": "Un BO avant une loi : interdire le téléphone portable au lycée",
+      "summary": "Publication officielle du ministre de l’Education, une circulaire précise l’annonce de l’interdiction du téléphone portable au lycée (MENE2617958C Circulaire : du 2-7-2026). Nous y sommes enfin, le ministère a tranché L’article Un BO avant une loi : interdire le téléphone portable au lycée est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/07/06/un-bo-avant-une-loi-interdire-le-telephone-portable-au-lycee/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-07-06T06:23:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 20,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "apn6kt1",
+      "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
+      "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
+      "link": "https://theconversation.com/latoll-de-clipperton-un-laboratoire-unique-pour-etudier-les-extinctions-deja-engagees-mais-encore-invisibles-288645",
+      "image": "https://images.theconversation.com/files/750888/original/file-20260729-57-e2ojom.jpg?ixlib=rb-4.1.1&amp;rect=28%2C0%2C952%2C634&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T08:07:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ado4825",
+      "title": "À la rentrée, parions sur l’École : un manifeste pour 2027 (sortie le 21 août prochain !)",
+      "summary": "A l’heure de la pause estivale, le Café pédagogique vous souhaite de bonnes vacances, ressourçantes et rafraichissantes. On vous retrouve à la rentrée sous le signe du collectif avec la L’article À la rentrée, parions sur l’École : un manifeste pour 2027 (sortie le 21 août prochain !) est apparu en premier sur Le Café ",
+      "link": "https://www.cafepedagogique.net/2026/08/10/a-la-rentree-parions-sur-lecole-un-manifeste-pour-2027-sortie-le-21-aout-prochain/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/breve-1-198x300.png",
+      "publishedAt": "2026-08-10T03:45:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -409,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -425,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -441,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +493,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -524,6 +558,141 @@
       "relevance": 50,
       "relevanceLevel": "moyenne",
       "urgency": 10,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ardl4so",
+      "title": "Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ?",
+      "summary": "4 femmes, 4 hommes : le Journal officiel de ce jour indique 8 changements de rectrices et recteurs pour le 3 août prochain. Plusieurs conseillers sont ainsi recasés avant les L’article Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/28/qui-sont-les-8-recteurs-qui-arrivent-a-la-rentree-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/cabinet-ministre-rue-de-Grenelle-Cafe-pedagogique-e1730662316876-300x249.jpg",
+      "publishedAt": "2026-07-28T07:02:46.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 10,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a6ybzus",
+      "title": "Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique",
+      "summary": "Lecture facilitée et articles facilement retrouvables, l’application du Café pédagogique est disponible sur les stores. L’application permet aussi à chaque utilisateur de choisir les sujets sur lesquels il ou elle L’article Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique est apparu en pr",
+      "link": "https://www.cafepedagogique.net/2026/07/27/telechargez-lapplication-officielle-du-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/01/appli_telecharger.jpg",
+      "publishedAt": "2026-07-27T08:24:09.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 10,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aaslclp",
+      "title": "Retrouvez toutes les controverses de Frédéric Grimaud",
+      "summary": "Le chercheur Frédéric Grimaud cumule des centaines d’heures d’entretiens avec des professeur.es des écoles. Iels parlent de leur métier, de leurs gestes du quotidien, de leur organisation du travail en L’article Retrouvez toutes les controverses de Frédéric Grimaud est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/29/retrouvez-toutes-les-controverses-de-frederic-grimaud/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/les-controverses.jpg",
+      "publishedAt": "2026-07-29T10:00:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "professeur"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a53kv91",
+      "title": "Edouard Philippe veut raccourcir les vacances d’été",
+      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
+      "publishedAt": "2026-07-06T06:37:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "air22zr",
+      "title": "10 lectures pour vos vacances d’été",
+      "summary": "Retrouvez à cette page, nos 10 conseils lecture pour ces vacances ! Frédérique Blu : des nouvelles de l’école en 13 nouvelles De quoi est faite la vie de L’article 10 lectures pour vos vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/10-lectures-pour-vos-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/PHOTOS-DE-CLASSES-FRED-BLU_COUV-194x300.jpg.webp",
+      "publishedAt": "2026-07-07T06:22:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ay93gba",
+      "title": "Littérature jeunesse : la sélection de l’été",
+      "summary": "Découvrez les conseils de Marianne Baby, notre spécialiste littérature jeunesse, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Littérature jeunesse : la sélection de l’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
+      "publishedAt": "2026-07-07T06:10:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "atbg3oo",
+      "title": "Les 5 expos à voir pendant les vacances d’été",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
+      "publishedAt": "2026-07-06T11:24:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ab105s2",
+      "title": "Les 6 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
+      "publishedAt": "2026-07-06T07:26:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
       "urgencyLevel": "basse"
     }
   ]
