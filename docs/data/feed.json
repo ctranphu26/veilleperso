@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T12:41:45.402Z",
+  "generatedAt": "2026-08-18T18:35:43.913Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,42 @@
   "count": 35,
   "items": [
     {
+      "id": "a6bie0c",
+      "title": "Russie : les étudiants étrangers au cœur d’une nouvelle stratégie internationale",
+      "summary": "Document de certificat d’établissement d’enseignement supérieur ou secondaire spécialisé (inscription « carte d’étudiant », en russe). La Russie accueille des centaines de milliers d’étudiants étrangers. Kittyfly/Shutterstock (no reuse) L’ESSENTIEL Alors que les universités russes sont coupées de leurs anciens partenai",
+      "link": "https://theconversation.com/russie-les-etudiants-etrangers-au-coeur-dune-nouvelle-strategie-internationale-289510",
+      "image": "https://images.theconversation.com/files/754041/original/file-20260814-60-adkdcq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6240%2C4160&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-18T13:09:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awnehgc",
+      "title": "Procès Pormanove : pourquoi les condamnations déçoivent (nécessairement) le public",
+      "summary": "L’ESSENTIEL Le 5 août, la justice a condamné les streameurs Naruto et Safine à des peines de prison avec sursis pour « violences en réunion et provocation à la haine ». Est-ce une décision laxiste, alors que leur souffre-douleur Jean Pormanove est mort en direct lors de leur émission de streaming ? Dans les affaires mé",
+      "link": "https://theconversation.com/proces-pormanove-pourquoi-les-condamnations-decoivent-necessairement-le-public-289368",
+      "image": "https://counter.theconversation.com/content/289368/count.gif",
+      "publishedAt": "2026-08-18T13:06:48.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ap9fg41",
       "title": "Allocation de rentrée scolaire : ce que les familles modestes font de cet argent",
       "summary": "L’ESSENTIEL L’allocation de rentrée scolaire, ARS, est versée aux familles modestes ayant des enfants scolarisés de 6 à 18 ans. Son montant varie de 426 à 466 euros. Cette allocation fait parfois l’objet de polémiques : que font les familles modestes de cet argent ? Une enquête menée auprès de parents vivant sous le se",
@@ -131,7 +167,55 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1e1kt1",
+      "title": "Termites, abeilles, fourmis… comment les insectes sociaux « climatisent » leurs nids",
+      "summary": "L’ESSENTIEL Architecture, battement d’ailes, déplacements des individus les plus fragiles… les insectes sociaux, tels que les termites, les abeilles et les fourmis, adoptent diverses stratégies pour limiter la surchauffe de leurs nids lors des épisodes de surchauffes extrêmes. La ventilation naturelle à l’œuvre dans le",
+      "link": "https://theconversation.com/termites-abeilles-fourmis-comment-les-insectes-sociaux-climatisent-leurs-nids-289728",
+      "image": "https://images.theconversation.com/files/753838/original/file-20260813-50-n2iamv.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-08-18T13:14:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aa49tyc",
+      "title": "Objets connectés de santé : Pourquoi les soignants ne les adoptent-ils pas tous de la même manière ?",
+      "summary": "Montres, capteurs, tensiomètres ou glucomètres connectés promettent de mieux suivre les patients et de soulager l’organisation des soins sous tension. Pourtant, leur adoption ne dépend pas uniquement de leurs performances techniques. Une enquête menée auprès de 300 professionnels de santé révèle que le rapport des prat",
+      "link": "https://theconversation.com/objets-connectes-de-sante-pourquoi-les-soignants-ne-les-adoptent-ils-pas-tous-de-la-meme-maniere-286199",
+      "image": "https://counter.theconversation.com/content/286199/count.gif",
+      "publishedAt": "2026-08-18T13:09:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "am0lh6r",
+      "title": "Alcool et fortes chaleurs : des risques pour le cerveau à ne pas négliger",
+      "summary": "On a souvent tendance à croire que le principal risque lié à la consommation d’alcool sous de fortes chaleurs est la déshydratation. Toutefois, le véritable problème n’est probablement pas hydrique, mais plutôt neurobiologique. En effet, chaleur et alcool se conjuguent pour favoriser les dérapages, entre désinhibition ",
+      "link": "https://theconversation.com/alcool-et-fortes-chaleurs-des-risques-pour-le-cerveau-a-ne-pas-negliger-287794",
+      "image": "https://counter.theconversation.com/content/287794/count.gif",
+      "publishedAt": "2026-08-18T13:06:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +233,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -168,7 +252,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -184,7 +268,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -200,7 +284,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -216,7 +300,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,7 +316,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -248,7 +332,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -266,7 +350,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -282,7 +366,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -298,7 +382,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -314,89 +398,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "az5q32d",
-      "title": "Demain, une IRM cardiaque plus rapide, précise, confortable et en couleurs pour mieux visualiser les cicatrices du cœur",
-      "summary": "L’ESSENTIEL L’IRM cardiaque est outil d’imagerie médicale incontournable pour la prise en charge des infarctus aigus du myocarde. Mais elle n’est pas toujours confortable pour les patients et son utilisation est complexe pour les radiologues et les cardiologues. Une équipe de recherche a mis au point une technique avan",
-      "link": "https://theconversation.com/demain-une-irm-cardiaque-plus-rapide-precise-confortable-et-en-couleurs-pour-mieux-visualiser-les-cicatrices-du-coeur-289106",
-      "image": "https://counter.theconversation.com/content/289106/count.gif",
-      "publishedAt": "2026-08-14T11:12:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9ll00",
-      "title": "À la tête de l’ONU, l’heure d’une femme a-t-elle enfin sonné ?",
-      "summary": "L’ESSENTIEL Depuis le mois de juin, les auditions ont commencé à New York pour désigner le ou la prochaine secrétaire générale de l’Organisation des Nations unies. Mais la bataille dépasse largement les murs du siège de l’ONU. À l’international, d’intenses tractations diplomatiques se jouent déjà, à la hauteur des enje",
-      "link": "https://theconversation.com/a-la-tete-de-lonu-lheure-dune-femme-a-t-elle-enfin-sonne-288666",
-      "image": "https://counter.theconversation.com/content/288666/count.gif",
-      "publishedAt": "2026-08-14T11:13:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "az2x2du",
-      "title": "Le naturisme, laboratoire des tensions touristiques : comment cohabiter entre vacanciers ?",
-      "summary": "À Fouesnant (Finistère), sur les dunes de Mousterlin. Wikimédia/Olybrius, CC BY L’ESSENTIEL À Euronat, dans le Médoc, le plus grand centre naturiste d’Europe, il arrive que l’on croise des gens habillés, que l’on surnomme des « textiles ». Une telle cohabitation change totalement la nature de l’expérience et peut provo",
-      "link": "https://theconversation.com/le-naturisme-laboratoire-des-tensions-touristiques-comment-cohabiter-entre-vacanciers-285648",
-      "image": "https://images.theconversation.com/files/750863/original/file-20260729-57-hbbudk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C80%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-14T11:11:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ad4ycr9",
-      "title": "Pourquoi les riches achètent-ils de plus en plus de whisky de prestige ?",
-      "summary": "Les whiskys rares ont vu leur valeur progresser de 190 % en dix ans. Les raisons évoquées : la rareté, la passion, les valeurs refuges et, surtout, la diversification des portefeuilles financiers des grandes fortunes. N’y a-t-il pas d’autres raisons ? Début 2024, lors d’une vente aux enchères, le collectionneur états-u",
-      "link": "https://theconversation.com/pourquoi-les-riches-achetent-ils-de-plus-en-plus-de-whisky-de-prestige-282764",
-      "image": "https://images.theconversation.com/files/748530/original/file-20260717-57-sst2tf.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-14T11:10:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "akcr78z",
-      "title": "Qui se cachait derrière les lettres signées « Jack l’Éventreur » ?",
-      "summary": "La lettre « Dear Boss », signée par Jack l’Éventreur, fut adressée à la Central News Agency de Londres, le 27 septembre 1888, puis à la police de Scotland Yard. Wikimédia L’ESSENTIEL La signature du tueur en série Jack l’Éventreur est présente sur de nombreuses lettres envoyées à la police londonienne à la fin du XIXᵉ ",
-      "link": "https://theconversation.com/qui-se-cachait-derriere-les-lettres-signees-jack-leventreur-285499",
-      "image": "https://images.theconversation.com/files/749540/original/file-20260722-69-sr0tfc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C206%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-14T11:06:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -416,6 +418,88 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "az5q32d",
+      "title": "Demain, une IRM cardiaque plus rapide, précise, confortable et en couleurs pour mieux visualiser les cicatrices du cœur",
+      "summary": "L’ESSENTIEL L’IRM cardiaque est outil d’imagerie médicale incontournable pour la prise en charge des infarctus aigus du myocarde. Mais elle n’est pas toujours confortable pour les patients et son utilisation est complexe pour les radiologues et les cardiologues. Une équipe de recherche a mis au point une technique avan",
+      "link": "https://theconversation.com/demain-une-irm-cardiaque-plus-rapide-precise-confortable-et-en-couleurs-pour-mieux-visualiser-les-cicatrices-du-coeur-289106",
+      "image": "https://counter.theconversation.com/content/289106/count.gif",
+      "publishedAt": "2026-08-14T11:12:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 18,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a9ll00",
+      "title": "À la tête de l’ONU, l’heure d’une femme a-t-elle enfin sonné ?",
+      "summary": "L’ESSENTIEL Depuis le mois de juin, les auditions ont commencé à New York pour désigner le ou la prochaine secrétaire générale de l’Organisation des Nations unies. Mais la bataille dépasse largement les murs du siège de l’ONU. À l’international, d’intenses tractations diplomatiques se jouent déjà, à la hauteur des enje",
+      "link": "https://theconversation.com/a-la-tete-de-lonu-lheure-dune-femme-a-t-elle-enfin-sonne-288666",
+      "image": "https://counter.theconversation.com/content/288666/count.gif",
+      "publishedAt": "2026-08-14T11:13:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 18,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "az2x2du",
+      "title": "Le naturisme, laboratoire des tensions touristiques : comment cohabiter entre vacanciers ?",
+      "summary": "À Fouesnant (Finistère), sur les dunes de Mousterlin. Wikimédia/Olybrius, CC BY L’ESSENTIEL À Euronat, dans le Médoc, le plus grand centre naturiste d’Europe, il arrive que l’on croise des gens habillés, que l’on surnomme des « textiles ». Une telle cohabitation change totalement la nature de l’expérience et peut provo",
+      "link": "https://theconversation.com/le-naturisme-laboratoire-des-tensions-touristiques-comment-cohabiter-entre-vacanciers-285648",
+      "image": "https://images.theconversation.com/files/750863/original/file-20260729-57-hbbudk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C80%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-14T11:11:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 18,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ad4ycr9",
+      "title": "Pourquoi les riches achètent-ils de plus en plus de whisky de prestige ?",
+      "summary": "Les whiskys rares ont vu leur valeur progresser de 190 % en dix ans. Les raisons évoquées : la rareté, la passion, les valeurs refuges et, surtout, la diversification des portefeuilles financiers des grandes fortunes. N’y a-t-il pas d’autres raisons ? Début 2024, lors d’une vente aux enchères, le collectionneur états-u",
+      "link": "https://theconversation.com/pourquoi-les-riches-achetent-ils-de-plus-en-plus-de-whisky-de-prestige-282764",
+      "image": "https://images.theconversation.com/files/748530/original/file-20260717-57-sst2tf.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-14T11:10:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 18,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "akcr78z",
+      "title": "Qui se cachait derrière les lettres signées « Jack l’Éventreur » ?",
+      "summary": "La lettre « Dear Boss », signée par Jack l’Éventreur, fut adressée à la Central News Agency de Londres, le 27 septembre 1888, puis à la police de Scotland Yard. Wikimédia L’ESSENTIEL La signature du tueur en série Jack l’Éventreur est présente sur de nombreuses lettres envoyées à la police londonienne à la fin du XIXᵉ ",
+      "link": "https://theconversation.com/qui-se-cachait-derriere-les-lettres-signees-jack-leventreur-285499",
+      "image": "https://images.theconversation.com/files/749540/original/file-20260722-69-sr0tfc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C206%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-14T11:06:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 18,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "ado4825",
       "title": "À la rentrée, parions sur l’École : un manifeste pour 2027 (sortie le 21 août prochain !)",
       "summary": "A l’heure de la pause estivale, le Café pédagogique vous souhaite de bonnes vacances, ressourçantes et rafraichissantes. On vous retrouve à la rentrée sous le signe du collectif avec la L’article À la rentrée, parions sur l’École : un manifeste pour 2027 (sortie le 21 août prochain !) est apparu en premier sur Le Café ",
@@ -430,7 +514,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -446,7 +530,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -462,7 +546,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -478,87 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aslnn2d",
-      "title": "De nombreuses espèces d’abeilles renferment de minuscules particules magnétiques, suggérant l’existence d’une boussole interne",
-      "summary": "Les scientifiques ignorent encore comment les insectes utilisent leur sens magnétique pour s’orienter. Laura Russo Les abeilles sociales, les espèces solitaires, celles qui nichent dans le sol ou dans des cavités : toutes ou presque présentent des traces de magnétisme. Cette découverte remet en cause les idées reçues s",
-      "link": "https://theconversation.com/de-nombreuses-especes-dabeilles-renferment-de-minuscules-particules-magnetiques-suggerant-lexistence-dune-boussole-interne-287920",
-      "image": "https://images.theconversation.com/files/748870/original/file-20260526-57-1jzpd6.JPG?ixlib=rb-4.1.1&amp;rect=179%2C108%2C2004%2C1336&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:13:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 14,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apn6kt1",
-      "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
-      "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
-      "link": "https://theconversation.com/latoll-de-clipperton-un-laboratoire-unique-pour-etudier-les-extinctions-deja-engagees-mais-encore-invisibles-288645",
-      "image": "https://images.theconversation.com/files/750888/original/file-20260729-57-e2ojom.jpg?ixlib=rb-4.1.1&amp;rect=28%2C0%2C952%2C634&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T08:07:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
       "urgency": 13,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "adebpsz",
-      "title": "Tous à confesse : lorsque la confession était au cœur de la vie sociale des Français",
-      "summary": "Le passage au confessionnal (au moins une fois par an) concernait encore 51 % des Français en 1952. Dabarti CGI/Shutterstock (no reuse) L’ESSENTIEL La confession est souvent envisagée comme une pratique spirituelle individuelle, touchant l’intimité et le secret des consciences. Mais au XIXe siècle, en France, elle étai",
-      "link": "https://theconversation.com/tous-a-confesse-lorsque-la-confession-etait-au-coeur-de-la-vie-sociale-des-francais-287418",
-      "image": "https://images.theconversation.com/files/751260/original/file-20260730-60-rtk7nl.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-12T13:22:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 10,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6hj901",
-      "title": "Un « mur d’investissements » pour l’adaptation au changement climatique, vraiment ?",
-      "summary": "L’ESSENTIEL La France est-elle vraiment bloquée devant à un « mur d’investissements » en matière d’adaptation au changement climatique, comme l’affirmait, fin juin 2026, la ministre de la transition écologique Monique Barbut ? Cette déclaration doit être forcément nuancée : le montant de la facture dépendra avant tout ",
-      "link": "https://theconversation.com/un-mur-dinvestissements-pour-ladaptation-au-changement-climatique-vraiment-288564",
-      "image": "https://counter.theconversation.com/content/288564/count.gif",
-      "publishedAt": "2026-08-12T13:21:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 10,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ahw0kgj",
-      "title": "Le séquencement des politiques climatiques : quand l’ordre des priorités devient une question de survie économique",
-      "summary": "Cet été, l’Europe suffoque. Derrière les bilans sanitaires et les records de température, une question s’impose : faut-il s’adapter au réchauffement ou poursuivre la réduction des émissions de gaz à effet de serre ? Les vagues de chaleur que nous traversons ravivent les débats autour des politiques climatiques. Faut-il",
-      "link": "https://theconversation.com/le-sequencement-des-politiques-climatiques-quand-lordre-des-priorites-devient-une-question-de-survie-economique-288626",
-      "image": "https://counter.theconversation.com/content/288626/count.gif",
-      "publishedAt": "2026-08-12T13:19:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
