@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T06:39:53.004Z",
+  "generatedAt": "2026-08-18T12:41:45.402Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,40 @@
   "count": 35,
   "items": [
     {
+      "id": "ap9fg41",
+      "title": "Allocation de rentrée scolaire : ce que les familles modestes font de cet argent",
+      "summary": "L’ESSENTIEL L’allocation de rentrée scolaire, ARS, est versée aux familles modestes ayant des enfants scolarisés de 6 à 18 ans. Son montant varie de 426 à 466 euros. Cette allocation fait parfois l’objet de polémiques : que font les familles modestes de cet argent ? Une enquête menée auprès de parents vivant sous le se",
+      "link": "https://theconversation.com/allocation-de-rentree-scolaire-ce-que-les-familles-modestes-font-de-cet-argent-289931",
+      "image": "https://counter.theconversation.com/content/289931/count.gif",
+      "publishedAt": "2026-08-18T08:37:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aen8r5n",
+      "title": "Misophonie : quand les sons du quotidien deviennent insupportables",
+      "summary": "L’ESSENTIEL Chez les personnes souffrant de misophonie, certains sons déclenchent des réactions automatiques d’aversion et de stress. Handicapante au quotidien, cette affection ne résulte pas d’une simple sensibilité auditive aux sons. La misophonie se traduit par un large éventail de symptômes et de troubles touchant ",
+      "link": "https://theconversation.com/misophonie-quand-les-sons-du-quotidien-deviennent-insupportables-289837",
+      "image": "https://counter.theconversation.com/content/289837/count.gif",
+      "publishedAt": "2026-08-18T10:24:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "handicap"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ai8intp",
       "title": "L’utilisation de l’IA par Al-Qaida et l’État islamique : deux approches différentes",
       "summary": "L’ESSENTIEL Les réseaux djihadistes s’emparent eux aussi de l’intelligence artificielle, notamment pour la propagande, la traduction et la production de contenus. Al-Qaida et l’État islamique mettent en œuvre, dans ce domaine comme dans d’autres, des approches différentes : la première privilégie une stratégie de long ",
@@ -134,7 +168,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -150,7 +184,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -166,7 +200,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -182,7 +216,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -198,7 +232,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -214,7 +248,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,7 +266,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -248,7 +282,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -264,7 +298,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -280,7 +314,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -298,7 +332,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -314,7 +348,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -330,7 +364,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -346,7 +380,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -362,7 +396,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -379,70 +413,6 @@
       "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ayq9s3r",
-      "title": "À l’ère des canicules, l’avenir du télétravail passe-t-il par des espaces de coworking pour échapper aux passoires thermiques ?",
-      "summary": "L’ESSENTIEL La succession d’épisodes caniculaires depuis le mois de mai 2026 a de nouveau braqué les projecteurs sur le télétravail. Ces derniers mois pourtant, plusieurs chefs d’entreprise avaient souhaité réduire la voilure dans ce domaine. La dimension durable du changement climatique nécessite une vraie réflexion s",
-      "link": "https://theconversation.com/a-lere-des-canicules-lavenir-du-teletravail-passe-t-il-par-des-espaces-de-coworking-pour-echapper-aux-passoires-thermiques-289310",
-      "image": "https://counter.theconversation.com/content/289310/count.gif",
-      "publishedAt": "2026-08-13T12:19:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 16,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2z57ls",
-      "title": "SLA : l’exposition professionnelle aux pesticides pourrait accroître le risque de maladie du motoneurone",
-      "summary": "L’exposition aux pesticides semble liée à un risque accru de développer une SLA, mais des interrogations persistent. Huntstock/Getty Une nouvelle étude suggère que l’exposition aux pesticides pourrait augmenter le risque de sclérose latérale amyotrophique, ou SLA. Cependant, ces travaux ne permettent pas de déterminer ",
-      "link": "https://theconversation.com/sla-lexposition-professionnelle-aux-pesticides-pourrait-accroitre-le-risque-de-maladie-du-motoneurone-289730",
-      "image": "https://images.theconversation.com/files/753833/original/file-20260805-50-ghl9z8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5616%2C3744&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:17:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 16,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aexilm9",
-      "title": "L’histoire méconnue de la Vierge Marie, sainte patronne des États-Unis",
-      "summary": "Depuis 1847, la Vierge Marie est officiellement la patronne des États-Unis sous le vocable de l’Immaculée Conception. The Marian Library, University of Dayton (Ohio) L’ESSENTIEL Les États-Unis ont une sainte patronne depuis près de 180 ans : la Vierge Marie, sous le titre de l’Immaculée Conception. Cette histoire éclai",
-      "link": "https://theconversation.com/lhistoire-meconnue-de-la-vierge-marie-sainte-patronne-des-etats-unis-284472",
-      "image": "https://images.theconversation.com/files/739691/original/file-20260520-57-wytza7.png?ixlib=rb-4.1.1&amp;rect=0%2C161%2C1500%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:17:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 16,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aslnn2d",
-      "title": "De nombreuses espèces d’abeilles renferment de minuscules particules magnétiques, suggérant l’existence d’une boussole interne",
-      "summary": "Les scientifiques ignorent encore comment les insectes utilisent leur sens magnétique pour s’orienter. Laura Russo Les abeilles sociales, les espèces solitaires, celles qui nichent dans le sol ou dans des cavités : toutes ou presque présentent des traces de magnétisme. Cette découverte remet en cause les idées reçues s",
-      "link": "https://theconversation.com/de-nombreuses-especes-dabeilles-renferment-de-minuscules-particules-magnetiques-suggerant-lexistence-dune-boussole-interne-287920",
-      "image": "https://images.theconversation.com/files/748870/original/file-20260526-57-1jzpd6.JPG?ixlib=rb-4.1.1&amp;rect=179%2C108%2C2004%2C1336&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:13:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -464,6 +434,70 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "ayq9s3r",
+      "title": "À l’ère des canicules, l’avenir du télétravail passe-t-il par des espaces de coworking pour échapper aux passoires thermiques ?",
+      "summary": "L’ESSENTIEL La succession d’épisodes caniculaires depuis le mois de mai 2026 a de nouveau braqué les projecteurs sur le télétravail. Ces derniers mois pourtant, plusieurs chefs d’entreprise avaient souhaité réduire la voilure dans ce domaine. La dimension durable du changement climatique nécessite une vraie réflexion s",
+      "link": "https://theconversation.com/a-lere-des-canicules-lavenir-du-teletravail-passe-t-il-par-des-espaces-de-coworking-pour-echapper-aux-passoires-thermiques-289310",
+      "image": "https://counter.theconversation.com/content/289310/count.gif",
+      "publishedAt": "2026-08-13T12:19:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 14,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a2z57ls",
+      "title": "SLA : l’exposition professionnelle aux pesticides pourrait accroître le risque de maladie du motoneurone",
+      "summary": "L’exposition aux pesticides semble liée à un risque accru de développer une SLA, mais des interrogations persistent. Huntstock/Getty Une nouvelle étude suggère que l’exposition aux pesticides pourrait augmenter le risque de sclérose latérale amyotrophique, ou SLA. Cependant, ces travaux ne permettent pas de déterminer ",
+      "link": "https://theconversation.com/sla-lexposition-professionnelle-aux-pesticides-pourrait-accroitre-le-risque-de-maladie-du-motoneurone-289730",
+      "image": "https://images.theconversation.com/files/753833/original/file-20260805-50-ghl9z8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5616%2C3744&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T12:17:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 14,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aexilm9",
+      "title": "L’histoire méconnue de la Vierge Marie, sainte patronne des États-Unis",
+      "summary": "Depuis 1847, la Vierge Marie est officiellement la patronne des États-Unis sous le vocable de l’Immaculée Conception. The Marian Library, University of Dayton (Ohio) L’ESSENTIEL Les États-Unis ont une sainte patronne depuis près de 180 ans : la Vierge Marie, sous le titre de l’Immaculée Conception. Cette histoire éclai",
+      "link": "https://theconversation.com/lhistoire-meconnue-de-la-vierge-marie-sainte-patronne-des-etats-unis-284472",
+      "image": "https://images.theconversation.com/files/739691/original/file-20260520-57-wytza7.png?ixlib=rb-4.1.1&amp;rect=0%2C161%2C1500%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T12:17:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 14,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aslnn2d",
+      "title": "De nombreuses espèces d’abeilles renferment de minuscules particules magnétiques, suggérant l’existence d’une boussole interne",
+      "summary": "Les scientifiques ignorent encore comment les insectes utilisent leur sens magnétique pour s’orienter. Laura Russo Les abeilles sociales, les espèces solitaires, celles qui nichent dans le sol ou dans des cavités : toutes ou presque présentent des traces de magnétisme. Cette découverte remet en cause les idées reçues s",
+      "link": "https://theconversation.com/de-nombreuses-especes-dabeilles-renferment-de-minuscules-particules-magnetiques-suggerant-lexistence-dune-boussole-interne-287920",
+      "image": "https://images.theconversation.com/files/748870/original/file-20260526-57-1jzpd6.JPG?ixlib=rb-4.1.1&amp;rect=179%2C108%2C2004%2C1336&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T12:13:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 14,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "apn6kt1",
       "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
       "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
@@ -476,25 +510,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "attqzt1",
-      "title": "Charles de Gaulle, héros de la France libre : une représentation qui a évolué dans la mémoire nationale ?",
-      "summary": "« Paris ! Paris outragé ! Paris brisé ! Paris martyrisé ! Mais Paris libéré ! Libéré par lui-même, libéré par son peuple avec le concours des armées de la France » Le 25 août 1944, depuis l’hôtel de ville de la capitale, le général de Gaulle lance ces mots célèbres aux Françaises et aux Français, scellant sa posture my",
-      "link": "https://theconversation.com/charles-de-gaulle-heros-de-la-france-libre-une-representation-qui-a-evolue-dans-la-memoire-nationale-287031",
-      "image": "https://counter.theconversation.com/content/287031/count.gif",
-      "publishedAt": "2026-08-12T10:34:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 11,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -510,7 +526,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
@@ -526,7 +542,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
@@ -542,23 +558,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 11,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a26o6jk",
-      "title": "Pourquoi la nouvelle « Petite Maison dans la prairie » est déjà une série politique",
-      "summary": "De gauche à droite : Warren Christie dans le rôle de John Edwards, Alice Halsey dans celui de Laura Ingalls, Skywalker Hughes dans celui de Mary Ingalls, Luke Bracey dans celui de Charles Ingalls et Crosby Fitzgerald dans celui de Caroline Ingalls, dans la nouvelle adaptation de *la Petite Maison dans la prairie* (Netf",
-      "link": "https://theconversation.com/pourquoi-la-nouvelle-petite-maison-dans-la-prairie-est-deja-une-serie-politique-287645",
-      "image": "https://images.theconversation.com/files/748120/original/file-20260601-57-najvgh.jpg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C3596%2C2396&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-12T10:35:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
