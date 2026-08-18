@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T01:07:43.055Z",
+  "generatedAt": "2026-08-18T06:39:53.004Z",
   "themes": [
     {
       "id": "education-medias",
@@ -134,7 +134,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -150,7 +150,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -166,7 +166,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -182,7 +182,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -198,7 +198,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -214,7 +214,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,8 +232,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aolv1li",
@@ -248,7 +248,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -264,7 +264,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -280,7 +280,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -298,7 +298,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -314,7 +314,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -330,7 +330,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -346,7 +346,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -362,7 +362,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -394,7 +394,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -410,7 +410,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -426,7 +426,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -436,22 +436,6 @@
       "link": "https://theconversation.com/de-nombreuses-especes-dabeilles-renferment-de-minuscules-particules-magnetiques-suggerant-lexistence-dune-boussole-interne-287920",
       "image": "https://images.theconversation.com/files/748870/original/file-20260526-57-1jzpd6.JPG?ixlib=rb-4.1.1&amp;rect=179%2C108%2C2004%2C1336&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-08-13T12:13:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 17,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apn6kt1",
-      "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
-      "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
-      "link": "https://theconversation.com/latoll-de-clipperton-un-laboratoire-unique-pour-etudier-les-extinctions-deja-engagees-mais-encore-invisibles-288645",
-      "image": "https://images.theconversation.com/files/750888/original/file-20260729-57-e2ojom.jpg?ixlib=rb-4.1.1&amp;rect=28%2C0%2C952%2C634&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T08:07:30.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
@@ -480,6 +464,22 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "apn6kt1",
+      "title": "L’atoll de Clipperton, un laboratoire unique pour étudier les extinctions déjà engagées, mais encore invisibles",
+      "summary": "Vue satellite de l’atoll de Clipperton, prise en 2022. Contains modified Copernicus Sentinel data 2022, CC BY L’ESSENTIEL L’île de Clipperton tient de l’énigme écologique : l’écosystème terrestre, très pauvre, subsiste avec trois fois rien et surtout grâce aux apports de l’écosystème marin voisin. Cet atoll presque dés",
+      "link": "https://theconversation.com/latoll-de-clipperton-un-laboratoire-unique-pour-etudier-les-extinctions-deja-engagees-mais-encore-invisibles-288645",
+      "image": "https://images.theconversation.com/files/750888/original/file-20260729-57-e2ojom.jpg?ixlib=rb-4.1.1&amp;rect=28%2C0%2C952%2C634&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-13T08:07:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 15,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "attqzt1",
       "title": "Charles de Gaulle, héros de la France libre : une représentation qui a évolué dans la mémoire nationale ?",
       "summary": "« Paris ! Paris outragé ! Paris brisé ! Paris martyrisé ! Mais Paris libéré ! Libéré par lui-même, libéré par son peuple avec le concours des armées de la France » Le 25 août 1944, depuis l’hôtel de ville de la capitale, le général de Gaulle lance ces mots célèbres aux Françaises et aux Français, scellant sa posture my",
@@ -494,7 +494,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -510,7 +510,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -526,7 +526,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -542,7 +542,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -558,7 +558,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
