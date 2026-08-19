@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T12:42:18.066Z",
+  "generatedAt": "2026-08-19T18:32:36.519Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,76 @@
   "count": 35,
   "items": [
     {
+      "id": "axw6o3i",
+      "title": "Patrimoine : faut-il faire contribuer ceux qui exploitent son image ?",
+      "summary": "Façade du Palais Garnier, à Paris, revêtue d’une publicité de la marque Chanel, dont les recettes ont financé la restauration de l’édifice. ATHEM Alors que la Cour des comptes alerte sur l’ampleur des besoins en matière de financement du patrimoine, l’image des biens culturels pourrait-elle devenir une ressource économ",
+      "link": "https://theconversation.com/patrimoine-faut-il-faire-contribuer-ceux-qui-exploitent-son-image-286911",
+      "image": "https://images.theconversation.com/files/750808/original/file-20260729-57-tvlm5b.png?ixlib=rb-4.1.1&amp;rect=91%2C0%2C1818%2C1212&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-19T13:34:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image",
+        "source"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 95,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agbqlrz",
+      "title": "Réseaux sociaux, algorithmes, prison : vers l’hypersurveillance ?",
+      "summary": "La loi Ripost prolonge jusqu’en 2030 le dispositif de vidéosurveillance algorithmique, initialement conçu pour la stricte durée des Jeux olympiques de Paris 2024. HJBC/Shutterstock (no reuse) L’ESSENTIEL La loi interdisant l’accès aux réseaux sociaux aux moins de 15 ans ( finalement censurée par le Conseil constitution",
+      "link": "https://theconversation.com/reseaux-sociaux-algorithmes-prison-vers-lhypersurveillance-289317",
+      "image": "https://images.theconversation.com/files/754061/original/file-20260814-50-d4zylr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5567%2C3711&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-19T13:35:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux",
+        "algorithme"
+      ],
+      "relevance": 90,
+      "relevanceLevel": "haute",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8660t8",
+      "title": "Un oligarque russe à l’honneur dans « The Economist » : quand les médias prêtent leur crédibilité aux acteurs des conflits",
+      "summary": "Ouverture du grand format publié par *The Economist* consacré à Andreï Melnitchenko, présenté comme « l’homme qui pourrait changer la Russie ». Photo : Hanna Heitman. « The Economist », 9 juillet 2026. L’ESSENTIEL En juillet 2026, l’hebdomadaire britannique The Economist a consacré sa couverture et plusieurs formats éd",
+      "link": "https://theconversation.com/un-oligarque-russe-a-lhonneur-dans-the-economist-quand-les-medias-pretent-leur-credibilite-aux-acteurs-des-conflits-288365",
+      "image": "https://images.theconversation.com/files/751433/original/file-20260731-58-y8m677.png?ixlib=rb-4.1.1&amp;rect=244%2C0%2C2367%2C1578&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-19T13:30:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auv2x02",
+      "title": "États-Unis : le parti démocrate a-t-il pris un virage progressiste ?",
+      "summary": "L’ESSENTIEL Le 4 août 2026, à la surprise générale, le progressiste Abdul El-Sayed a remporté la primaire démocrate de l’un des deux postes de sénateur du Michigan au Sénat des États-Unis. Cette victoire montre que la légitimité sociale – El-Sayed n’est pas un politicien professionnel – peut se traduire en reconnaissan",
+      "link": "https://theconversation.com/etats-unis-le-parti-democrate-a-t-il-pris-un-virage-progressiste-289512",
+      "image": "https://images.theconversation.com/files/754292/original/file-20260817-50-f80643.jpg?ixlib=rb-4.1.1&amp;rect=0%2C99%2C1920%2C1080&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-19T13:26:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "avvuf0k",
       "title": "L’histoire de l’IA, faite de cycles entre attentes démesurées et réelles avancées",
       "summary": "L’ESSENTIEL Plonger dans son histoire permet de mettre en perspective les avancées de l’IA, ses promesses et sa rhétorique. Déjà en 1970, Marvin Minsky, mathématicien, annonçait : « D’ici trois à huit ans, nous disposerons d’une machine dotée d’une intelligence générale équivalente à celle d’un être humain moyen. » Ça ",
@@ -131,8 +201,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6bie0c",
@@ -149,7 +219,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +237,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +253,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +269,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +285,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +301,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +319,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -268,8 +338,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ayngugz",
@@ -284,8 +354,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aoyetq8",
@@ -300,8 +370,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ad99osz",
@@ -316,8 +386,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aojdb7k",
@@ -332,8 +402,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ayatsrf",
@@ -348,8 +418,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "axj711z",
@@ -366,7 +436,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -382,23 +452,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aufyrso",
-      "title": "Les métiers de la transition écologique restent encore peu attractifs, avec de bas salaires et de mauvaises conditions de travail",
-      "summary": "La qualité des emplois liés aux activités utiles pour la transition écologique pose question. Que ce soit pour les jeunes débutants ou les actifs en reconversion, s’engager dans ces emplois est-il alors un bon choix ? L’impréparation pour affronter les récents épisodes caniculaires en France a révélé le manque d’antici",
-      "link": "https://theconversation.com/les-metiers-de-la-transition-ecologique-restent-encore-peu-attractifs-avec-de-bas-salaires-et-de-mauvaises-conditions-de-travail-284103",
-      "image": "https://images.theconversation.com/files/749567/original/file-20260722-71-53fsd5.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-14T08:27:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -415,88 +469,6 @@
       "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "az5q32d",
-      "title": "Demain, une IRM cardiaque plus rapide, précise, confortable et en couleurs pour mieux visualiser les cicatrices du cœur",
-      "summary": "L’ESSENTIEL L’IRM cardiaque est outil d’imagerie médicale incontournable pour la prise en charge des infarctus aigus du myocarde. Mais elle n’est pas toujours confortable pour les patients et son utilisation est complexe pour les radiologues et les cardiologues. Une équipe de recherche a mis au point une technique avan",
-      "link": "https://theconversation.com/demain-une-irm-cardiaque-plus-rapide-precise-confortable-et-en-couleurs-pour-mieux-visualiser-les-cicatrices-du-coeur-289106",
-      "image": "https://counter.theconversation.com/content/289106/count.gif",
-      "publishedAt": "2026-08-14T11:12:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 14,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9ll00",
-      "title": "À la tête de l’ONU, l’heure d’une femme a-t-elle enfin sonné ?",
-      "summary": "L’ESSENTIEL Depuis le mois de juin, les auditions ont commencé à New York pour désigner le ou la prochaine secrétaire générale de l’Organisation des Nations unies. Mais la bataille dépasse largement les murs du siège de l’ONU. À l’international, d’intenses tractations diplomatiques se jouent déjà, à la hauteur des enje",
-      "link": "https://theconversation.com/a-la-tete-de-lonu-lheure-dune-femme-a-t-elle-enfin-sonne-288666",
-      "image": "https://counter.theconversation.com/content/288666/count.gif",
-      "publishedAt": "2026-08-14T11:13:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 14,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "az2x2du",
-      "title": "Le naturisme, laboratoire des tensions touristiques : comment cohabiter entre vacanciers ?",
-      "summary": "À Fouesnant (Finistère), sur les dunes de Mousterlin. Wikimédia/Olybrius, CC BY L’ESSENTIEL À Euronat, dans le Médoc, le plus grand centre naturiste d’Europe, il arrive que l’on croise des gens habillés, que l’on surnomme des « textiles ». Une telle cohabitation change totalement la nature de l’expérience et peut provo",
-      "link": "https://theconversation.com/le-naturisme-laboratoire-des-tensions-touristiques-comment-cohabiter-entre-vacanciers-285648",
-      "image": "https://images.theconversation.com/files/750863/original/file-20260729-57-hbbudk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C80%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-14T11:11:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 14,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ad4ycr9",
-      "title": "Pourquoi les riches achètent-ils de plus en plus de whisky de prestige ?",
-      "summary": "Les whiskys rares ont vu leur valeur progresser de 190 % en dix ans. Les raisons évoquées : la rareté, la passion, les valeurs refuges et, surtout, la diversification des portefeuilles financiers des grandes fortunes. N’y a-t-il pas d’autres raisons ? Début 2024, lors d’une vente aux enchères, le collectionneur états-u",
-      "link": "https://theconversation.com/pourquoi-les-riches-achetent-ils-de-plus-en-plus-de-whisky-de-prestige-282764",
-      "image": "https://images.theconversation.com/files/748530/original/file-20260717-57-sst2tf.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-14T11:10:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 14,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "akcr78z",
-      "title": "Qui se cachait derrière les lettres signées « Jack l’Éventreur » ?",
-      "summary": "La lettre « Dear Boss », signée par Jack l’Éventreur, fut adressée à la Central News Agency de Londres, le 27 septembre 1888, puis à la police de Scotland Yard. Wikimédia L’ESSENTIEL La signature du tueur en série Jack l’Éventreur est présente sur de nombreuses lettres envoyées à la police londonienne à la fin du XIXᵉ ",
-      "link": "https://theconversation.com/qui-se-cachait-derriere-les-lettres-signees-jack-leventreur-285499",
-      "image": "https://images.theconversation.com/files/749540/original/file-20260722-69-sr0tfc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C206%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-14T11:06:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -518,51 +490,85 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "ayq9s3r",
-      "title": "À l’ère des canicules, l’avenir du télétravail passe-t-il par des espaces de coworking pour échapper aux passoires thermiques ?",
-      "summary": "L’ESSENTIEL La succession d’épisodes caniculaires depuis le mois de mai 2026 a de nouveau braqué les projecteurs sur le télétravail. Ces derniers mois pourtant, plusieurs chefs d’entreprise avaient souhaité réduire la voilure dans ce domaine. La dimension durable du changement climatique nécessite une vraie réflexion s",
-      "link": "https://theconversation.com/a-lere-des-canicules-lavenir-du-teletravail-passe-t-il-par-des-espaces-de-coworking-pour-echapper-aux-passoires-thermiques-289310",
-      "image": "https://counter.theconversation.com/content/289310/count.gif",
-      "publishedAt": "2026-08-13T12:19:16.000Z",
+      "id": "az5q32d",
+      "title": "Demain, une IRM cardiaque plus rapide, précise, confortable et en couleurs pour mieux visualiser les cicatrices du cœur",
+      "summary": "L’ESSENTIEL L’IRM cardiaque est outil d’imagerie médicale incontournable pour la prise en charge des infarctus aigus du myocarde. Mais elle n’est pas toujours confortable pour les patients et son utilisation est complexe pour les radiologues et les cardiologues. Une équipe de recherche a mis au point une technique avan",
+      "link": "https://theconversation.com/demain-une-irm-cardiaque-plus-rapide-precise-confortable-et-en-couleurs-pour-mieux-visualiser-les-cicatrices-du-coeur-289106",
+      "image": "https://counter.theconversation.com/content/289106/count.gif",
+      "publishedAt": "2026-08-14T11:12:28.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
-      "id": "a2z57ls",
-      "title": "SLA : l’exposition professionnelle aux pesticides pourrait accroître le risque de maladie du motoneurone",
-      "summary": "L’exposition aux pesticides semble liée à un risque accru de développer une SLA, mais des interrogations persistent. Huntstock/Getty Une nouvelle étude suggère que l’exposition aux pesticides pourrait augmenter le risque de sclérose latérale amyotrophique, ou SLA. Cependant, ces travaux ne permettent pas de déterminer ",
-      "link": "https://theconversation.com/sla-lexposition-professionnelle-aux-pesticides-pourrait-accroitre-le-risque-de-maladie-du-motoneurone-289730",
-      "image": "https://images.theconversation.com/files/753833/original/file-20260805-50-ghl9z8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5616%2C3744&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:17:58.000Z",
+      "id": "a9ll00",
+      "title": "À la tête de l’ONU, l’heure d’une femme a-t-elle enfin sonné ?",
+      "summary": "L’ESSENTIEL Depuis le mois de juin, les auditions ont commencé à New York pour désigner le ou la prochaine secrétaire générale de l’Organisation des Nations unies. Mais la bataille dépasse largement les murs du siège de l’ONU. À l’international, d’intenses tractations diplomatiques se jouent déjà, à la hauteur des enje",
+      "link": "https://theconversation.com/a-la-tete-de-lonu-lheure-dune-femme-a-t-elle-enfin-sonne-288666",
+      "image": "https://counter.theconversation.com/content/288666/count.gif",
+      "publishedAt": "2026-08-14T11:13:20.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
-      "id": "aexilm9",
-      "title": "L’histoire méconnue de la Vierge Marie, sainte patronne des États-Unis",
-      "summary": "Depuis 1847, la Vierge Marie est officiellement la patronne des États-Unis sous le vocable de l’Immaculée Conception. The Marian Library, University of Dayton (Ohio) L’ESSENTIEL Les États-Unis ont une sainte patronne depuis près de 180 ans : la Vierge Marie, sous le titre de l’Immaculée Conception. Cette histoire éclai",
-      "link": "https://theconversation.com/lhistoire-meconnue-de-la-vierge-marie-sainte-patronne-des-etats-unis-284472",
-      "image": "https://images.theconversation.com/files/739691/original/file-20260520-57-wytza7.png?ixlib=rb-4.1.1&amp;rect=0%2C161%2C1500%2C1000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:17:02.000Z",
+      "id": "az2x2du",
+      "title": "Le naturisme, laboratoire des tensions touristiques : comment cohabiter entre vacanciers ?",
+      "summary": "À Fouesnant (Finistère), sur les dunes de Mousterlin. Wikimédia/Olybrius, CC BY L’ESSENTIEL À Euronat, dans le Médoc, le plus grand centre naturiste d’Europe, il arrive que l’on croise des gens habillés, que l’on surnomme des « textiles ». Une telle cohabitation change totalement la nature de l’expérience et peut provo",
+      "link": "https://theconversation.com/le-naturisme-laboratoire-des-tensions-touristiques-comment-cohabiter-entre-vacanciers-285648",
+      "image": "https://images.theconversation.com/files/750863/original/file-20260729-57-hbbudk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C80%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-14T11:11:57.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 13,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ad4ycr9",
+      "title": "Pourquoi les riches achètent-ils de plus en plus de whisky de prestige ?",
+      "summary": "Les whiskys rares ont vu leur valeur progresser de 190 % en dix ans. Les raisons évoquées : la rareté, la passion, les valeurs refuges et, surtout, la diversification des portefeuilles financiers des grandes fortunes. N’y a-t-il pas d’autres raisons ? Début 2024, lors d’une vente aux enchères, le collectionneur états-u",
+      "link": "https://theconversation.com/pourquoi-les-riches-achetent-ils-de-plus-en-plus-de-whisky-de-prestige-282764",
+      "image": "https://images.theconversation.com/files/748530/original/file-20260717-57-sst2tf.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-14T11:10:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 13,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "akcr78z",
+      "title": "Qui se cachait derrière les lettres signées « Jack l’Éventreur » ?",
+      "summary": "La lettre « Dear Boss », signée par Jack l’Éventreur, fut adressée à la Central News Agency de Londres, le 27 septembre 1888, puis à la police de Scotland Yard. Wikimédia L’ESSENTIEL La signature du tueur en série Jack l’Éventreur est présente sur de nombreuses lettres envoyées à la police londonienne à la fin du XIXᵉ ",
+      "link": "https://theconversation.com/qui-se-cachait-derriere-les-lettres-signees-jack-leventreur-285499",
+      "image": "https://images.theconversation.com/files/749540/original/file-20260722-69-sr0tfc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C206%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-14T11:06:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
