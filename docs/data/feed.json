@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T06:40:18.378Z",
+  "generatedAt": "2026-08-19T12:42:18.066Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "avvuf0k",
+      "title": "L’histoire de l’IA, faite de cycles entre attentes démesurées et réelles avancées",
+      "summary": "L’ESSENTIEL Plonger dans son histoire permet de mettre en perspective les avancées de l’IA, ses promesses et sa rhétorique. Déjà en 1970, Marvin Minsky, mathématicien, annonçait : « D’ici trois à huit ans, nous disposerons d’une machine dotée d’une intelligence générale équivalente à celle d’un être humain moyen. » Ça ",
+      "link": "https://theconversation.com/lhistoire-de-lia-faite-de-cycles-entre-attentes-demesurees-et-reelles-avancees-285291",
+      "image": "https://counter.theconversation.com/content/285291/count.gif",
+      "publishedAt": "2026-08-19T07:55:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a6bie0c",
       "title": "Russie : les étudiants étrangers au cœur d’une nouvelle stratégie internationale",
       "summary": "Document de certificat d’établissement d’enseignement supérieur ou secondaire spécialisé (inscription « carte d’étudiant », en russe). La Russie accueille des centaines de milliers d’étudiants étrangers. Kittyfly/Shutterstock (no reuse) L’ESSENTIEL Alors que les universités russes sont coupées de leurs anciens partenai",
@@ -133,8 +149,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awnehgc",
@@ -151,8 +167,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ap9fg41",
@@ -167,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +249,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -252,7 +268,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -268,7 +284,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -284,7 +300,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -300,7 +316,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -316,7 +332,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -332,7 +348,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +366,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -366,7 +382,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -382,23 +398,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aveq7a2",
-      "title": "« Minutieuse » : un compliment qui peut enfermer les femmes dans des rôles subalternes",
-      "summary": "À un même type de poste, les femmes et les hommes ne sont pas décrits de la même manière par leur entourage professionnel. Selon une étude, ces différences de langage contribuent à éloigner les femmes des postes de direction. Unsplash L’analyse de plus de 550 000 recommandations publiées sur LinkedIn révèle un biais pe",
-      "link": "https://theconversation.com/minutieuse-un-compliment-qui-peut-enfermer-les-femmes-dans-des-roles-subalternes-288023",
-      "image": "https://images.theconversation.com/files/749160/original/file-20260511-57-qz8gfn.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5423%2C3615&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-13T12:15:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -432,7 +432,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -448,7 +448,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -464,7 +464,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -480,7 +480,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -496,7 +496,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -514,7 +514,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 14,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -530,7 +530,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
@@ -546,7 +546,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
@@ -562,7 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
