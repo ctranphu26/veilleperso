@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:32:36.519Z",
+  "generatedAt": "2026-08-20T01:08:08.282Z",
   "themes": [
     {
       "id": "education-medias",
@@ -134,7 +134,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 95,
+      "urgency": 88,
       "urgencyLevel": "haute"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 85,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -169,8 +169,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auv2x02",
@@ -185,8 +185,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avvuf0k",
@@ -201,7 +201,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -237,7 +237,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -253,7 +253,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,7 +269,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +285,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +301,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +319,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,7 +338,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -354,7 +354,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -370,7 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -386,7 +386,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -402,7 +402,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -418,7 +418,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -436,7 +436,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -452,7 +452,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -504,7 +504,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -520,7 +520,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -536,7 +536,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -552,7 +552,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -568,7 +568,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
