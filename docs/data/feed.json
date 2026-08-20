@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T12:45:46.819Z",
+  "generatedAt": "2026-08-20T18:36:00.111Z",
   "themes": [
     {
       "id": "education-medias",
@@ -116,8 +116,142 @@
       "enabled": false
     }
   ],
-  "count": 25,
+  "count": 35,
   "items": [
+    {
+      "id": "any1v6v",
+      "title": "Loi sur l’interdiction des réseaux sociaux aux moins de 15 ans : où mène la censure du Conseil constitutionnel ?",
+      "summary": "L’ESSENTIEL Le Conseil constitutionnel a censuré, mi-août, la loi interdisant les réseaux sociaux aux moins de 15 ans au motif d’atteinte à la liberté d’expression et à la vie privée. Plutôt que d’interdire l’ensemble des réseaux sociaux, la loi, qui sera réécrite en septembre, devrait neutraliser les fonctionnalités t",
+      "link": "https://theconversation.com/loi-sur-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-ou-mene-la-censure-du-conseil-constitutionnel-290011",
+      "image": "https://counter.theconversation.com/content/290011/count.gif",
+      "publishedAt": "2026-08-20T13:07:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ag5uow6",
+      "title": "Vin, huile, profits : le véritable rôle des intendantes dans les fermes romaines",
+      "summary": "Longtemps décrites comme de simples gouvernantes chargées des tâches domestiques, les vilicae de la Rome antique jouaient en réalité un rôle central dans la gestion des exploitations agricoles. Une nouvelle étude montre qu’elles supervisaient notamment la production de vin et d’huile d’olive, au cœur de l’économie roma",
+      "link": "https://theconversation.com/vin-huile-profits-le-veritable-role-des-intendantes-dans-les-fermes-romaines-287595",
+      "image": "https://images.theconversation.com/files/732682/original/file-20260428-69-etebt0.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-08-20T13:02:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoyhnwx",
+      "title": "Nouveaux sports : d’où vient le succès du padel ?",
+      "summary": "L’ESSENTIEL Inventée en 1969 au Mexique, la pratique du padel s’est installée en France à partir des années 1990. Le principe du jeu à quatre, la continuité entre murs et terrains en font une discipline conviviale, qui attire vers les sports de raquette un public plus large. Aujourd’hui, le padel a rejoint la Fédératio",
+      "link": "https://theconversation.com/nouveaux-sports-dou-vient-le-succes-du-padel-285490",
+      "image": "https://counter.theconversation.com/content/285490/count.gif",
+      "publishedAt": "2026-08-20T13:01:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoxelqb",
+      "title": "Enquête de l’OSCE : dans les territoires ukrainiens occupés, la Russie endoctrine et militarise les enfants",
+      "summary": "L’ESSENTIEL Dans les territoires ukrainiens occupés, les enfants sont la cible d’une politique d’endoctrinement et de militarisation par la Russie. Cours d’histoire, formation militaire, jeu de simulation de guerre, transformation du système éducatif : l’objectif explicite est d’effacer leur identité ukrainienne et de ",
+      "link": "https://theconversation.com/enquete-de-losce-dans-les-territoires-ukrainiens-occupes-la-russie-endoctrine-et-militarise-les-enfants-288958",
+      "image": "https://counter.theconversation.com/content/288958/count.gif",
+      "publishedAt": "2026-08-20T13:05:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7e6rkg",
+      "title": "Quelle est la différence entre le beurre et la margarine ? Une chimiste explore leurs effets en cuisine",
+      "summary": "La margarine fond de façon plus homogène que le beurre à cause de sa structure chimique, et ne brunit pas. Douglas Sacha/Moment via Getty Images Graisses saturées, produits ultratransformés… quelles sont les différences chimiques entre le beurre et la margarine ? Comment se comportent-ils pour la cuisson et la pâtisser",
+      "link": "https://theconversation.com/quelle-est-la-difference-entre-le-beurre-et-la-margarine-une-chimiste-explore-leurs-effets-en-cuisine-285621",
+      "image": "https://images.theconversation.com/files/742687/original/file-20260602-57-rbbqzb.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5156%2C3437&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-20T13:05:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahr0ria",
+      "title": "Prunier ou abricotier ? Le marmottier, un arbre fruitier qui brouille les pistes",
+      "summary": "Marmottier (_Prunus brigantina_) dans les Alpes françaises, en 2017. Stéphane Decroocq, Fourni par l'auteur L’ESSENTIEL Prunus brigantina est un arbre fruitier sauvage que l’on retrouve en altitude dans les Alpes et que la science a longtemps hésité à rattacher soit aux pruniers, soit aux abricotiers. Le nom « marmotti",
+      "link": "https://theconversation.com/prunier-ou-abricotier-le-marmottier-un-arbre-fruitier-qui-brouille-les-pistes-289624",
+      "image": "https://images.theconversation.com/files/753508/original/file-20260812-50-s9rjfv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C44%2C1300%2C866&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-20T13:04:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ah9hmjv",
+      "title": "Agir contre ses principes au travail, une souffrance psychologique encore méconnue",
+      "summary": "Longtemps associée aux professions du soin, la « blessure morale » touche aussi de nombreux salariés confrontés à des dilemmes éthiques. KieferPix/Shutterstock (no reuse) L’ESSENTIEL La « blessure morale » apparaît lorsque des salariés sont contraints d’agir à l’encontre de leurs valeurs. Cette souffrance psychologique",
+      "link": "https://theconversation.com/agir-contre-ses-principes-au-travail-une-souffrance-psychologique-encore-meconnue-288017",
+      "image": "https://images.theconversation.com/files/749157/original/file-20260226-71-4vcti3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-20T13:03:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7t6pxt",
+      "title": "Est-ce que vous jouez avec votre chat ou est-ce que vous êtes juste en train de l’embêter ?",
+      "summary": "L’ESSENTIEL Le jeu est bénéfique à la santé des chats domestiques. Il renforce également les liens avec l’humain. Cependant, une étude inédite montre que nous sommes nombreux à confondre le jeu avec des situations où les chats sont en détresse. C’est l’occasion donc de faire le bilan sur les signes qui doivent nous ale",
+      "link": "https://theconversation.com/est-ce-que-vous-jouez-avec-votre-chat-ou-est-ce-que-vous-etes-juste-en-train-de-lembeter-290022",
+      "image": "https://images.theconversation.com/files/748262/original/file-20260716-57-9wkyra.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-20T13:02:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
     {
       "id": "axw6o3i",
       "title": "Patrimoine : faut-il faire contribuer ceux qui exploitent son image ?",
@@ -134,7 +268,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -150,8 +284,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avbvcno",
@@ -166,8 +300,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agbqlrz",
@@ -185,7 +319,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -201,7 +335,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +351,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +367,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +385,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,7 +403,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +419,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,8 +435,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aa49tyc",
@@ -317,8 +451,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "am0lh6r",
@@ -333,8 +467,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aen8r5n",
@@ -351,7 +485,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -370,7 +504,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -386,7 +520,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -402,139 +536,176 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
-      "id": "ad99osz",
-      "title": "L’histoire de la « double fente », l’expérience qui contient tout le mystère de la quantique",
-      "summary": "Depuis plus de deux siècles, les physiciens réalisent une expérience au principe simple, qui permet toujours de mettre en évidence les mystères de la mécanique quantique. ©Université de Vienne Quelle est l’expérience qui permet aux novices d’appréhender les mystères de la mécanique quantique et qui continue de faire vi",
-      "link": "https://theconversation.com/lhistoire-de-la-double-fente-lexperience-qui-contient-tout-le-mystere-de-la-quantique-289548",
-      "image": "https://images.theconversation.com/files/753634/original/file-20260812-50-xnckje.png?ixlib=rb-4.1.1&amp;rect=0%2C90%2C2929%2C1952&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-17T13:07:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "a1vyu85",
+      "title": "Un BO avant une loi : interdire le téléphone portable au lycée",
+      "summary": "Publication officielle du ministre de l’Education, une circulaire précise l’annonce de l’interdiction du téléphone portable au lycée (MENE2617958C Circulaire : du 2-7-2026). Nous y sommes enfin, le ministère a tranché L’article Un BO avant une loi : interdire le téléphone portable au lycée est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/07/06/un-bo-avant-une-loi-interdire-le-telephone-portable-au-lycee/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-07-06T06:23:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
-      "id": "aojdb7k",
-      "title": "Une bouse de vache vaut-elle un crottin de cheval ? Les bousiers n’ont pas tous les mêmes préférences gustatives",
-      "summary": "Bousier de l’espèce _O. Vacca_ avec des acariens sur le dos. Martin A. Prinz (martin_der_prinz)/iNaturalist, CC BY-NC L’ESSENTIEL Les bousiers sont une grande famille d’insectes coléoptères qui se nourrit et pond dans les excréments d’animaux, parmi lesquels les grands mammifères d’élevage (vaches, chevaux…). On pensai",
-      "link": "https://theconversation.com/une-bouse-de-vache-vaut-elle-un-crottin-de-cheval-les-bousiers-nont-pas-tous-les-memes-preferences-gustatives-289166",
-      "image": "https://images.theconversation.com/files/752245/original/file-20260805-60-12mq4s.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-17T13:07:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ayatsrf",
-      "title": "The Medicines Patent Pool is improving access to essential medication where it’s most needed, but does it make economic sense?",
-      "summary": "A new UN-backed initiative is enabling qualified generic manufacturers to develop, produce and supply vital medicines such as antivirals independently. By reducing the cost of essential medicines, pooled licensing particularly benefits low- and middle-income countries, in sub-Saharan Africa, for instance. Maxim Studio/",
-      "link": "https://theconversation.com/the-medicines-patent-pool-is-improving-access-to-essential-medication-where-its-most-needed-but-does-it-make-economic-sense-286914",
-      "image": "https://images.theconversation.com/files/750593/original/file-20260728-57-qisucl.jpg?ixlib=rb-4.1.1&amp;rect=125%2C0%2C5509%2C3673&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-17T13:02:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "axj711z",
-      "title": "Lanceurs d’alerte en exil : pourquoi les business schools ont une responsabilité à assumer",
-      "summary": "Dénonçant les pratiques « hors cadre » des entreprises, les lanceurs d’alerte mettent en péril leur carrière professionnelle. Et s’ils devenaient enseignants dans les business schools ? Avant de prendre la parole, ils ont pu observer le fonctionnement et certains dysfonctionnements des entreprises, un savoir qui pourra",
-      "link": "https://theconversation.com/lanceurs-dalerte-en-exil-pourquoi-les-business-schools-ont-une-responsabilite-a-assumer-284740",
-      "image": "https://counter.theconversation.com/content/284740/count.gif",
-      "publishedAt": "2026-08-15T05:34:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "ado4825",
+      "title": "À la rentrée, parions sur l’École : un manifeste pour 2027 (sortie le 21 août prochain !)",
+      "summary": "A l’heure de la pause estivale, le Café pédagogique vous souhaite de bonnes vacances, ressourçantes et rafraichissantes. On vous retrouve à la rentrée sous le signe du collectif avec la L’article À la rentrée, parions sur l’École : un manifeste pour 2027 (sortie le 21 août prochain !) est apparu en premier sur Le Café ",
+      "link": "https://www.cafepedagogique.net/2026/08/10/a-la-rentree-parions-sur-lecole-un-manifeste-pour-2027-sortie-le-21-aout-prochain/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/breve-1-198x300.png",
+      "publishedAt": "2026-08-10T03:45:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
-        "enseignant"
+        "école"
       ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
-      "id": "az5q32d",
-      "title": "Demain, une IRM cardiaque plus rapide, précise, confortable et en couleurs pour mieux visualiser les cicatrices du cœur",
-      "summary": "L’ESSENTIEL L’IRM cardiaque est outil d’imagerie médicale incontournable pour la prise en charge des infarctus aigus du myocarde. Mais elle n’est pas toujours confortable pour les patients et son utilisation est complexe pour les radiologues et les cardiologues. Une équipe de recherche a mis au point une technique avan",
-      "link": "https://theconversation.com/demain-une-irm-cardiaque-plus-rapide-precise-confortable-et-en-couleurs-pour-mieux-visualiser-les-cicatrices-du-coeur-289106",
-      "image": "https://counter.theconversation.com/content/289106/count.gif",
-      "publishedAt": "2026-08-14T11:12:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
+      "id": "ardl4so",
+      "title": "Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ?",
+      "summary": "4 femmes, 4 hommes : le Journal officiel de ce jour indique 8 changements de rectrices et recteurs pour le 3 août prochain. Plusieurs conseillers sont ainsi recasés avant les L’article Qui sont les 8 recteurs et rectrices qui arrivent à la rentrée 2026 ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/28/qui-sont-les-8-recteurs-qui-arrivent-a-la-rentree-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/cabinet-ministre-rue-de-Grenelle-Cafe-pedagogique-e1730662316876-300x249.jpg",
+      "publishedAt": "2026-07-28T07:02:46.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 10,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a6ybzus",
+      "title": "Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique",
+      "summary": "Lecture facilitée et articles facilement retrouvables, l’application du Café pédagogique est disponible sur les stores. L’application permet aussi à chaque utilisateur de choisir les sujets sur lesquels il ou elle L’article Rentrée 2026 : soyez informés avec l’application officielle du Café pédagogique est apparu en pr",
+      "link": "https://www.cafepedagogique.net/2026/07/27/telechargez-lapplication-officielle-du-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/01/appli_telecharger.jpg",
+      "publishedAt": "2026-07-27T08:24:09.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 10,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aaslclp",
+      "title": "Retrouvez toutes les controverses de Frédéric Grimaud",
+      "summary": "Le chercheur Frédéric Grimaud cumule des centaines d’heures d’entretiens avec des professeur.es des écoles. Iels parlent de leur métier, de leurs gestes du quotidien, de leur organisation du travail en L’article Retrouvez toutes les controverses de Frédéric Grimaud est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/29/retrouvez-toutes-les-controverses-de-frederic-grimaud/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/les-controverses.jpg",
+      "publishedAt": "2026-07-29T10:00:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
       "keywords": [
-        "image"
+        "école",
+        "professeur"
       ],
-      "relevance": 56,
+      "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 0,
       "urgencyLevel": "basse"
     },
     {
-      "id": "a9ll00",
-      "title": "À la tête de l’ONU, l’heure d’une femme a-t-elle enfin sonné ?",
-      "summary": "L’ESSENTIEL Depuis le mois de juin, les auditions ont commencé à New York pour désigner le ou la prochaine secrétaire générale de l’Organisation des Nations unies. Mais la bataille dépasse largement les murs du siège de l’ONU. À l’international, d’intenses tractations diplomatiques se jouent déjà, à la hauteur des enje",
-      "link": "https://theconversation.com/a-la-tete-de-lonu-lheure-dune-femme-a-t-elle-enfin-sonne-288666",
-      "image": "https://counter.theconversation.com/content/288666/count.gif",
-      "publishedAt": "2026-08-14T11:13:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "a53kv91",
+      "title": "Edouard Philippe veut raccourcir les vacances d’été",
+      "summary": "Les multiples épisodes caniculaires de 2026 n’auront pas fait plier le marronnier de la droite. Le candidat à la présidentielle Edouard Philippe a longuement parlé de l’Ecole et de son L’article Edouard Philippe veut raccourcir les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/edouard-philippe-veut-raccourcir-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/Edouard-Philippe-300x241.png",
+      "publishedAt": "2026-07-06T06:37:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 0,
       "urgencyLevel": "basse"
     },
     {
-      "id": "az2x2du",
-      "title": "Le naturisme, laboratoire des tensions touristiques : comment cohabiter entre vacanciers ?",
-      "summary": "À Fouesnant (Finistère), sur les dunes de Mousterlin. Wikimédia/Olybrius, CC BY L’ESSENTIEL À Euronat, dans le Médoc, le plus grand centre naturiste d’Europe, il arrive que l’on croise des gens habillés, que l’on surnomme des « textiles ». Une telle cohabitation change totalement la nature de l’expérience et peut provo",
-      "link": "https://theconversation.com/le-naturisme-laboratoire-des-tensions-touristiques-comment-cohabiter-entre-vacanciers-285648",
-      "image": "https://images.theconversation.com/files/750863/original/file-20260729-57-hbbudk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C80%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-14T11:11:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "air22zr",
+      "title": "10 lectures pour vos vacances d’été",
+      "summary": "Retrouvez à cette page, nos 10 conseils lecture pour ces vacances ! Frédérique Blu : des nouvelles de l’école en 13 nouvelles De quoi est faite la vie de L’article 10 lectures pour vos vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/10-lectures-pour-vos-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/PHOTOS-DE-CLASSES-FRED-BLU_COUV-194x300.jpg.webp",
+      "publishedAt": "2026-07-07T06:22:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
+      "keywords": [
+        "école"
+      ],
+      "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 0,
       "urgencyLevel": "basse"
     },
     {
-      "id": "ad4ycr9",
-      "title": "Pourquoi les riches achètent-ils de plus en plus de whisky de prestige ?",
-      "summary": "Les whiskys rares ont vu leur valeur progresser de 190 % en dix ans. Les raisons évoquées : la rareté, la passion, les valeurs refuges et, surtout, la diversification des portefeuilles financiers des grandes fortunes. N’y a-t-il pas d’autres raisons ? Début 2024, lors d’une vente aux enchères, le collectionneur états-u",
-      "link": "https://theconversation.com/pourquoi-les-riches-achetent-ils-de-plus-en-plus-de-whisky-de-prestige-282764",
-      "image": "https://images.theconversation.com/files/748530/original/file-20260717-57-sst2tf.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-14T11:10:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "ay93gba",
+      "title": "Littérature jeunesse : la sélection de l’été",
+      "summary": "Découvrez les conseils de Marianne Baby, notre spécialiste littérature jeunesse, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Littérature jeunesse : la sélection de l’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/07/litterature-jeunesse-la-selection-de-lete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/qui-veut-messuyer-noli-qui-dit-non-300x135.jpeg.webp",
+      "publishedAt": "2026-07-07T06:10:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 10,
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "atbg3oo",
+      "title": "Les 5 expos à voir pendant les vacances d’été",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 expos à voir pendant les vacances d’été est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-5-expos-a-voir-pendant-les-vacances-dete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sevigne-202x300.png.webp",
+      "publishedAt": "2026-07-06T11:24:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ab105s2",
+      "title": "Les 6 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 6 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/07/06/les-6-films-a-voir-durant-ces-vacances-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/NOTRE-HISTOIRE_Doc120_WEB_HD-221x300.jpg.webp",
+      "publishedAt": "2026-07-06T07:26:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 0,
       "urgencyLevel": "basse"
     }
   ]
