@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:36:00.111Z",
+  "generatedAt": "2026-08-21T01:11:56.961Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 84,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -165,91 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aoxelqb",
-      "title": "Enquête de l’OSCE : dans les territoires ukrainiens occupés, la Russie endoctrine et militarise les enfants",
-      "summary": "L’ESSENTIEL Dans les territoires ukrainiens occupés, les enfants sont la cible d’une politique d’endoctrinement et de militarisation par la Russie. Cours d’histoire, formation militaire, jeu de simulation de guerre, transformation du système éducatif : l’objectif explicite est d’effacer leur identité ukrainienne et de ",
-      "link": "https://theconversation.com/enquete-de-losce-dans-les-territoires-ukrainiens-occupes-la-russie-endoctrine-et-militarise-les-enfants-288958",
-      "image": "https://counter.theconversation.com/content/288958/count.gif",
-      "publishedAt": "2026-08-20T13:05:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a7e6rkg",
-      "title": "Quelle est la différence entre le beurre et la margarine ? Une chimiste explore leurs effets en cuisine",
-      "summary": "La margarine fond de façon plus homogène que le beurre à cause de sa structure chimique, et ne brunit pas. Douglas Sacha/Moment via Getty Images Graisses saturées, produits ultratransformés… quelles sont les différences chimiques entre le beurre et la margarine ? Comment se comportent-ils pour la cuisson et la pâtisser",
-      "link": "https://theconversation.com/quelle-est-la-difference-entre-le-beurre-et-la-margarine-une-chimiste-explore-leurs-effets-en-cuisine-285621",
-      "image": "https://images.theconversation.com/files/742687/original/file-20260602-57-rbbqzb.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5156%2C3437&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-20T13:05:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ahr0ria",
-      "title": "Prunier ou abricotier ? Le marmottier, un arbre fruitier qui brouille les pistes",
-      "summary": "Marmottier (_Prunus brigantina_) dans les Alpes françaises, en 2017. Stéphane Decroocq, Fourni par l'auteur L’ESSENTIEL Prunus brigantina est un arbre fruitier sauvage que l’on retrouve en altitude dans les Alpes et que la science a longtemps hésité à rattacher soit aux pruniers, soit aux abricotiers. Le nom « marmotti",
-      "link": "https://theconversation.com/prunier-ou-abricotier-le-marmottier-un-arbre-fruitier-qui-brouille-les-pistes-289624",
-      "image": "https://images.theconversation.com/files/753508/original/file-20260812-50-s9rjfv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C44%2C1300%2C866&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-20T13:04:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ah9hmjv",
-      "title": "Agir contre ses principes au travail, une souffrance psychologique encore méconnue",
-      "summary": "Longtemps associée aux professions du soin, la « blessure morale » touche aussi de nombreux salariés confrontés à des dilemmes éthiques. KieferPix/Shutterstock (no reuse) L’ESSENTIEL La « blessure morale » apparaît lorsque des salariés sont contraints d’agir à l’encontre de leurs valeurs. Cette souffrance psychologique",
-      "link": "https://theconversation.com/agir-contre-ses-principes-au-travail-une-souffrance-psychologique-encore-meconnue-288017",
-      "image": "https://images.theconversation.com/files/749157/original/file-20260226-71-4vcti3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-20T13:03:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a7t6pxt",
-      "title": "Est-ce que vous jouez avec votre chat ou est-ce que vous êtes juste en train de l’embêter ?",
-      "summary": "L’ESSENTIEL Le jeu est bénéfique à la santé des chats domestiques. Il renforce également les liens avec l’humain. Cependant, une étude inédite montre que nous sommes nombreux à confondre le jeu avec des situations où les chats sont en détresse. C’est l’occasion donc de faire le bilan sur les signes qui doivent nous ale",
-      "link": "https://theconversation.com/est-ce-que-vous-jouez-avec-votre-chat-ou-est-ce-que-vous-etes-juste-en-train-de-lembeter-290022",
-      "image": "https://images.theconversation.com/files/748262/original/file-20260716-57-9wkyra.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-20T13:02:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -268,8 +184,92 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aoxelqb",
+      "title": "Enquête de l’OSCE : dans les territoires ukrainiens occupés, la Russie endoctrine et militarise les enfants",
+      "summary": "L’ESSENTIEL Dans les territoires ukrainiens occupés, les enfants sont la cible d’une politique d’endoctrinement et de militarisation par la Russie. Cours d’histoire, formation militaire, jeu de simulation de guerre, transformation du système éducatif : l’objectif explicite est d’effacer leur identité ukrainienne et de ",
+      "link": "https://theconversation.com/enquete-de-losce-dans-les-territoires-ukrainiens-occupes-la-russie-endoctrine-et-militarise-les-enfants-288958",
+      "image": "https://counter.theconversation.com/content/288958/count.gif",
+      "publishedAt": "2026-08-20T13:05:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a7e6rkg",
+      "title": "Quelle est la différence entre le beurre et la margarine ? Une chimiste explore leurs effets en cuisine",
+      "summary": "La margarine fond de façon plus homogène que le beurre à cause de sa structure chimique, et ne brunit pas. Douglas Sacha/Moment via Getty Images Graisses saturées, produits ultratransformés… quelles sont les différences chimiques entre le beurre et la margarine ? Comment se comportent-ils pour la cuisson et la pâtisser",
+      "link": "https://theconversation.com/quelle-est-la-difference-entre-le-beurre-et-la-margarine-une-chimiste-explore-leurs-effets-en-cuisine-285621",
+      "image": "https://images.theconversation.com/files/742687/original/file-20260602-57-rbbqzb.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5156%2C3437&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-20T13:05:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahr0ria",
+      "title": "Prunier ou abricotier ? Le marmottier, un arbre fruitier qui brouille les pistes",
+      "summary": "Marmottier (_Prunus brigantina_) dans les Alpes françaises, en 2017. Stéphane Decroocq, Fourni par l'auteur L’ESSENTIEL Prunus brigantina est un arbre fruitier sauvage que l’on retrouve en altitude dans les Alpes et que la science a longtemps hésité à rattacher soit aux pruniers, soit aux abricotiers. Le nom « marmotti",
+      "link": "https://theconversation.com/prunier-ou-abricotier-le-marmottier-un-arbre-fruitier-qui-brouille-les-pistes-289624",
+      "image": "https://images.theconversation.com/files/753508/original/file-20260812-50-s9rjfv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C44%2C1300%2C866&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-20T13:04:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ah9hmjv",
+      "title": "Agir contre ses principes au travail, une souffrance psychologique encore méconnue",
+      "summary": "Longtemps associée aux professions du soin, la « blessure morale » touche aussi de nombreux salariés confrontés à des dilemmes éthiques. KieferPix/Shutterstock (no reuse) L’ESSENTIEL La « blessure morale » apparaît lorsque des salariés sont contraints d’agir à l’encontre de leurs valeurs. Cette souffrance psychologique",
+      "link": "https://theconversation.com/agir-contre-ses-principes-au-travail-une-souffrance-psychologique-encore-meconnue-288017",
+      "image": "https://images.theconversation.com/files/749157/original/file-20260226-71-4vcti3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-20T13:03:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a7t6pxt",
+      "title": "Est-ce que vous jouez avec votre chat ou est-ce que vous êtes juste en train de l’embêter ?",
+      "summary": "L’ESSENTIEL Le jeu est bénéfique à la santé des chats domestiques. Il renforce également les liens avec l’humain. Cependant, une étude inédite montre que nous sommes nombreux à confondre le jeu avec des situations où les chats sont en détresse. C’est l’occasion donc de faire le bilan sur les signes qui doivent nous ale",
+      "link": "https://theconversation.com/est-ce-que-vous-jouez-avec-votre-chat-ou-est-ce-que-vous-etes-juste-en-train-de-lembeter-290022",
+      "image": "https://images.theconversation.com/files/748262/original/file-20260716-57-9wkyra.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-20T13:02:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afa6gtr",
@@ -284,7 +284,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -300,7 +300,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +319,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +335,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,23 +351,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avvuf0k",
-      "title": "L’histoire de l’IA, faite de cycles entre attentes démesurées et réelles avancées",
-      "summary": "L’ESSENTIEL Plonger dans son histoire permet de mettre en perspective les avancées de l’IA, ses promesses et sa rhétorique. Déjà en 1970, Marvin Minsky, mathématicien, annonçait : « D’ici trois à huit ans, nous disposerons d’une machine dotée d’une intelligence générale équivalente à celle d’un être humain moyen. » Ça ",
-      "link": "https://theconversation.com/lhistoire-de-lia-faite-de-cycles-entre-attentes-demesurees-et-reelles-avancees-285291",
-      "image": "https://counter.theconversation.com/content/285291/count.gif",
-      "publishedAt": "2026-08-19T07:55:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -385,7 +369,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -403,7 +387,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avvuf0k",
+      "title": "L’histoire de l’IA, faite de cycles entre attentes démesurées et réelles avancées",
+      "summary": "L’ESSENTIEL Plonger dans son histoire permet de mettre en perspective les avancées de l’IA, ses promesses et sa rhétorique. Déjà en 1970, Marvin Minsky, mathématicien, annonçait : « D’ici trois à huit ans, nous disposerons d’une machine dotée d’une intelligence générale équivalente à celle d’un être humain moyen. » Ça ",
+      "link": "https://theconversation.com/lhistoire-de-lia-faite-de-cycles-entre-attentes-demesurees-et-reelles-avancees-285291",
+      "image": "https://counter.theconversation.com/content/285291/count.gif",
+      "publishedAt": "2026-08-19T07:55:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -419,7 +419,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -435,7 +435,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -451,7 +451,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -467,7 +467,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -485,7 +485,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -504,7 +504,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -520,7 +520,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -536,7 +536,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
