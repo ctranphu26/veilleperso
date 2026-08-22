@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T01:07:53.161Z",
+  "generatedAt": "2026-08-22T06:36:48.252Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +263,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -314,7 +314,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -332,7 +332,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +350,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -366,7 +366,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -382,7 +382,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,23 +398,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afa6gtr",
-      "title": "Pourquoi la génération Z est tombée amoureuse de la photographie argentique",
-      "summary": "Après les vinyles, les cassettes VHS, les vidéoclubs et la profession de disquaire, la génération Z, née entre 1995 et 2010, ressuscite la photographie argentique. Derrière cette fascination pour certains objets ou supports se dessine une même aspiration : retrouver des expériences plus réfléchies, plus tangibles et pl",
-      "link": "https://theconversation.com/pourquoi-la-generation-z-est-tombee-amoureuse-de-la-photographie-argentique-287644",
-      "image": "https://counter.theconversation.com/content/287644/count.gif",
-      "publishedAt": "2026-08-20T08:18:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +417,23 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 44,
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "afa6gtr",
+      "title": "Pourquoi la génération Z est tombée amoureuse de la photographie argentique",
+      "summary": "Après les vinyles, les cassettes VHS, les vidéoclubs et la profession de disquaire, la génération Z, née entre 1995 et 2010, ressuscite la photographie argentique. Derrière cette fascination pour certains objets ou supports se dessine une même aspiration : retrouver des expériences plus réfléchies, plus tangibles et pl",
+      "link": "https://theconversation.com/pourquoi-la-generation-z-est-tombee-amoureuse-de-la-photographie-argentique-287644",
+      "image": "https://counter.theconversation.com/content/287644/count.gif",
+      "publishedAt": "2026-08-20T08:18:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -465,7 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -481,7 +481,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -497,7 +497,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -513,7 +513,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -529,7 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
