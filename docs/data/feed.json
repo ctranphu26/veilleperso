@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:34:05.880Z",
+  "generatedAt": "2026-08-22T01:07:53.161Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +181,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awgg0qz",
@@ -197,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9eniax",
@@ -213,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a74uoqb",
@@ -229,8 +229,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqpqr4k",
@@ -245,8 +245,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "any1v6v",
@@ -263,7 +263,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -314,7 +314,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -332,7 +332,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +350,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -366,7 +366,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -382,7 +382,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,7 +398,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -414,23 +414,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avbvcno",
-      "title": "Les plantes, aussi, ont besoin de gestes barrières : l’enjeu mondial de la biosécurité",
-      "summary": "Les plantes nous nourrissent, les arbres nous fournissent de l’ombre et de la fraîcheur, les forêts sont nos alliées face au changement climatique. Malgré tous ces bénéfices, la lutte contre les insectes et les maladies qui ravagent les végétaux reste une question très peu médiatisée. Pourtant, chacun de nous peut œuvr",
-      "link": "https://theconversation.com/les-plantes-aussi-ont-besoin-de-gestes-barrieres-lenjeu-mondial-de-la-biosecurite-286478",
-      "image": "https://images.theconversation.com/files/745117/original/file-20260630-63-6mt6u.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-20T07:40:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +433,23 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avbvcno",
+      "title": "Les plantes, aussi, ont besoin de gestes barrières : l’enjeu mondial de la biosécurité",
+      "summary": "Les plantes nous nourrissent, les arbres nous fournissent de l’ombre et de la fraîcheur, les forêts sont nos alliées face au changement climatique. Malgré tous ces bénéfices, la lutte contre les insectes et les maladies qui ravagent les végétaux reste une question très peu médiatisée. Pourtant, chacun de nous peut œuvr",
+      "link": "https://theconversation.com/les-plantes-aussi-ont-besoin-de-gestes-barrieres-lenjeu-mondial-de-la-biosecurite-286478",
+      "image": "https://images.theconversation.com/files/745117/original/file-20260630-63-6mt6u.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-20T07:40:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -465,7 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -481,7 +481,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -497,7 +497,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -513,7 +513,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -529,7 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
