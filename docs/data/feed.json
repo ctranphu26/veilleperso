@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:36:12.843Z",
+  "generatedAt": "2026-08-23T18:26:25.451Z",
   "themes": [
     {
       "id": "education-medias",
@@ -134,7 +134,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -150,7 +150,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -166,7 +166,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -182,7 +182,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -201,8 +201,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "any1v6v",
@@ -219,7 +219,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -237,7 +237,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -253,7 +253,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -269,7 +269,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -285,7 +285,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -301,7 +301,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -317,7 +317,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -333,7 +333,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -352,7 +352,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -370,7 +370,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -388,7 +388,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -404,7 +404,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -420,7 +420,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -436,7 +436,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -452,7 +452,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -468,39 +468,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8660t8",
-      "title": "Un oligarque russe à l’honneur dans « The Economist » : quand les médias prêtent leur crédibilité aux acteurs des conflits",
-      "summary": "Ouverture du grand format publié par *The Economist* consacré à Andreï Melnitchenko, présenté comme « l’homme qui pourrait changer la Russie ». Photo : Hanna Heitman. « The Economist », 9 juillet 2026. L’ESSENTIEL En juillet 2026, l’hebdomadaire britannique The Economist a consacré sa couverture et plusieurs formats éd",
-      "link": "https://theconversation.com/un-oligarque-russe-a-lhonneur-dans-the-economist-quand-les-medias-pretent-leur-credibilite-aux-acteurs-des-conflits-288365",
-      "image": "https://images.theconversation.com/files/751433/original/file-20260731-58-y8m677.png?ixlib=rb-4.1.1&amp;rect=244%2C0%2C2367%2C1578&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-19T13:30:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "auv2x02",
-      "title": "États-Unis : le Parti démocrate a-t-il pris un virage progressiste ?",
-      "summary": "L’ESSENTIEL Le 4 août 2026, à la surprise générale, le progressiste Abdul El-Sayed a remporté la primaire démocrate de l’un des deux postes de sénateur du Michigan au Sénat des États-Unis. Cette victoire montre que la légitimité sociale – El-Sayed n’est pas un politicien professionnel – peut se traduire en reconnaissan",
-      "link": "https://theconversation.com/etats-unis-le-parti-democrate-a-t-il-pris-un-virage-progressiste-289512",
-      "image": "https://images.theconversation.com/files/754292/original/file-20260817-50-f80643.jpg?ixlib=rb-4.1.1&amp;rect=0%2C99%2C1920%2C1080&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-19T13:26:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -520,6 +488,38 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "a8660t8",
+      "title": "Un oligarque russe à l’honneur dans « The Economist » : quand les médias prêtent leur crédibilité aux acteurs des conflits",
+      "summary": "Ouverture du grand format publié par *The Economist* consacré à Andreï Melnitchenko, présenté comme « l’homme qui pourrait changer la Russie ». Photo : Hanna Heitman. « The Economist », 9 juillet 2026. L’ESSENTIEL En juillet 2026, l’hebdomadaire britannique The Economist a consacré sa couverture et plusieurs formats éd",
+      "link": "https://theconversation.com/un-oligarque-russe-a-lhonneur-dans-the-economist-quand-les-medias-pretent-leur-credibilite-aux-acteurs-des-conflits-288365",
+      "image": "https://images.theconversation.com/files/751433/original/file-20260731-58-y8m677.png?ixlib=rb-4.1.1&amp;rect=244%2C0%2C2367%2C1578&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-19T13:30:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "auv2x02",
+      "title": "États-Unis : le Parti démocrate a-t-il pris un virage progressiste ?",
+      "summary": "L’ESSENTIEL Le 4 août 2026, à la surprise générale, le progressiste Abdul El-Sayed a remporté la primaire démocrate de l’un des deux postes de sénateur du Michigan au Sénat des États-Unis. Cette victoire montre que la légitimité sociale – El-Sayed n’est pas un politicien professionnel – peut se traduire en reconnaissan",
+      "link": "https://theconversation.com/etats-unis-le-parti-democrate-a-t-il-pris-un-virage-progressiste-289512",
+      "image": "https://images.theconversation.com/files/754292/original/file-20260817-50-f80643.jpg?ixlib=rb-4.1.1&amp;rect=0%2C99%2C1920%2C1080&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-19T13:26:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 19,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "avvuf0k",
       "title": "L’histoire de l’IA, faite de cycles entre attentes démesurées et réelles avancées",
       "summary": "L’ESSENTIEL Plonger dans son histoire permet de mettre en perspective les avancées de l’IA, ses promesses et sa rhétorique. Déjà en 1970, Marvin Minsky, mathématicien, annonçait : « D’ici trois à huit ans, nous disposerons d’une machine dotée d’une intelligence générale équivalente à celle d’un être humain moyen. » Ça ",
@@ -532,7 +532,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -548,7 +548,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
