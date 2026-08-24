@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:54:50.523Z",
+  "generatedAt": "2026-08-24T12:45:44.396Z",
   "themes": [
     {
       "id": "education-medias",
@@ -151,7 +151,25 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 96,
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akiix4i",
+      "title": "Pour devenir un meilleur leader, eh bien, dansez maintenant…",
+      "summary": "Et si la pratique de la danse formait de meilleurs leaders ? Loin d’être un simple loisir, la danse permet de développer des compétences clés du leadership, des savoir-être plus que jamais indispensables. Car un bon danseur, à l’image d’un bon leader, doit posséder une connexion à soi, aux autres et à son environnement",
+      "link": "https://theconversation.com/pour-devenir-un-meilleur-leader-eh-bien-dansez-maintenant-280951",
+      "image": "https://counter.theconversation.com/content/280951/count.gif",
+      "publishedAt": "2026-08-24T08:52:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +187,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 87,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +203,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -204,7 +222,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -223,7 +241,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -242,7 +260,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -260,13 +278,13 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
       "id": "a2ygfbq",
       "title": "Retrouvez Jean Giono à Banon (04)",
-      "summary": "La librairie Le Bleuet de Banon consacre sa nouvelle exposition temporaire à Giono. « Le Trières et Giono » présente, jusqu’au 21 octobre 2026, 6 photos issues des archives personnelles de Jean L’article Retrouvez Jean Giono à Banon (04) est apparu en premier sur Le Café pédagogique.",
+      "summary": "La librairie Le Bleuet de Banon consacre sa nouvelle exposition temporaire à Giono. « Le Trièves et Giono » présente, jusqu’au 21 octobre 2026, 6 photos issues des archives personnelles L’article Retrouvez Jean Giono à Banon (04) est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/08/24/retrouvez-jean-giono-a-banon-04/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Jean-Giono-1932-197x300.png",
       "publishedAt": "2026-08-24T03:28:51.000Z",
@@ -276,7 +294,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -295,8 +313,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ap2q9cv",
@@ -311,8 +329,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "auos56a",
@@ -327,8 +345,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ac8zq1v",
@@ -343,8 +361,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "axw6o3i",
@@ -362,7 +380,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -380,7 +398,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -396,7 +414,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -412,7 +430,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -430,7 +448,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -446,7 +464,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -462,7 +480,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -478,7 +496,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -494,7 +512,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -513,7 +531,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -531,7 +549,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -549,7 +567,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -565,7 +583,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -581,7 +599,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -597,7 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -613,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -629,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -645,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -661,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -677,7 +695,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -695,22 +713,6 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 11,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1e1kt1",
-      "title": "Termites, abeilles, fourmis… comment les insectes sociaux « climatisent » leurs nids",
-      "summary": "L’ESSENTIEL Architecture, battement d’ailes, déplacements des individus les plus fragiles… les insectes sociaux, tels que les termites, les abeilles et les fourmis, adoptent diverses stratégies pour limiter la surchauffe de leurs nids lors des épisodes de surchauffes extrêmes. La ventilation naturelle à l’œuvre dans le",
-      "link": "https://theconversation.com/termites-abeilles-fourmis-comment-les-insectes-sociaux-climatisent-leurs-nids-289728",
-      "image": "https://images.theconversation.com/files/753838/original/file-20260813-50-n2iamv.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-18T13:14:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
       "urgency": 11,
       "urgencyLevel": "basse"
     }
