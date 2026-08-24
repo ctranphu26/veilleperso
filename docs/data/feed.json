@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:45:44.396Z",
+  "generatedAt": "2026-08-24T18:37:15.139Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,41 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 100,
+      "urgency": 94,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9aay6m",
+      "title": "Comment est fabriqué un billet de banque ? Dans les coulisses de la Banque de France depuis Napoléon Bonaparte",
+      "summary": "Billet de cent nouveaux francs type 1959 représentant Bonaparte, peint par Henri Clément-Serveau (1886-1972). Comme un clin d’œil de la Banque de France à son fondateur du Premier Empire. Fourni par l'auteur Alors que la Banque centrale européenne organise un vote pour choisir sa nouvelle gamme de coupures d’euros, rev",
+      "link": "https://theconversation.com/comment-est-fabrique-un-billet-de-banque-dans-les-coulisses-de-la-banque-de-france-depuis-napoleon-bonaparte-285174",
+      "image": "https://images.theconversation.com/files/751932/original/file-20260804-60-90ujjt.png?ixlib=rb-4.1.1&amp;rect=344%2C0%2C1614%2C1076&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-24T15:43:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ad8ldqi",
+      "title": "Comment ajouter The Conversation à vos sources préférées sur Google",
+      "summary": "Internet regorge aujourd’hui de contenus clivants, voire douteux. Il est désormais possible de mieux maîtriser vos recherches et de privilégier les sources auxquelles vous faites confiance. Google a récemment lancé une nouvelle fonctionnalité permettant de personnaliser votre expérience de recherche en mettant en avant",
+      "link": "https://theconversation.com/comment-ajouter-the-conversation-a-vos-sources-preferees-sur-google-290091",
+      "image": "https://counter.theconversation.com/content/290091/count.gif",
+      "publishedAt": "2026-08-24T15:22:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 86,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +185,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 90,
+      "urgency": 85,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +203,90 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apvl1ef",
+      "title": "Langue populaire, langue savante : des différences à reconsidérer pour mieux lutter contre les inégalités scolaires",
+      "summary": "L’ESSENTIEL La langue populaire n’est pas une version sommaire de la langue savante. Tout aussi complexe, elle introduit un autre rapport à la parole. C’est ce que montrent les travaux d’anthropologues sur l’oralité et l’écriture. Le comprendre ne permettrait-il pas de mieux accueillir les élèves dans leur diversité ? ",
+      "link": "https://theconversation.com/langue-populaire-langue-savante-des-differences-a-reconsiderer-pour-mieux-lutter-contre-les-inegalites-scolaires-287822",
+      "image": "https://counter.theconversation.com/content/287822/count.gif",
+      "publishedAt": "2026-08-24T15:40:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité",
+        "égalité"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ab4p7f6",
+      "title": "Comment la pollution de l’eau peut modifier les maladies parasitaires qui nous affectent",
+      "summary": "Dans une rivière, les polluants les plus préoccupants ne sont pas toujours visibles. Pesticides, résidus de médicaments, métaux et autres substances chimiques peuvent circuler à des concentrations trop faibles pour provoquer une mortalité immédiate des êtres vivants. Ils peuvent cependant modifier leur physiologie. Or,",
+      "link": "https://theconversation.com/comment-la-pollution-de-leau-peut-modifier-les-maladies-parasitaires-qui-nous-affectent-286409",
+      "image": "https://images.theconversation.com/files/550941/original/file-20230928-27-ozpk23.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-08-24T15:42:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "alo74bl",
+      "title": "Vers une consigne pour les bouteilles en plastique ? Face à un problème complexe, gare aux solutions simplistes",
+      "summary": "L’ESSENTIEL Ce que l’on nomme plastique masque une multitude de matériaux et de réalités économiques différentes. Face à ce tableau complexe, la réponse aux pollutions engendrées ne saurait être ni universelle ni, exclusivement, technique. La proposition, au printemps 2026, de mettre en place une consigne pour les bout",
+      "link": "https://theconversation.com/vers-une-consigne-pour-les-bouteilles-en-plastique-face-a-un-probleme-complexe-gare-aux-solutions-simplistes-285960",
+      "image": "https://images.theconversation.com/files/754079/original/file-20260814-50-cd1rlo.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-08-24T15:39:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awgyx2h",
+      "title": "Entre conflits armés et El Niño, la dangereuse convergence des crises en mer Rouge",
+      "summary": "L’ESSENTIEL La guerre perturbe les routes commerciales de la mer Rouge, renchérissant les importations de céréales, de carburant et d’engrais et menaçant l’approvisionnement régional. El Niño aggrave la situation climatique, avec une sécheresse et des chaleurs extrêmes suivies de possibles inondations, mettant à mal ré",
+      "link": "https://theconversation.com/entre-conflits-armes-et-el-nino-la-dangereuse-convergence-des-crises-en-mer-rouge-290123",
+      "image": "https://counter.theconversation.com/content/290123/count.gif",
+      "publishedAt": "2026-08-24T15:39:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ay61n6v",
+      "title": "Djen Djen : ce qu’un port algérien révèle des mutations des routes maritimes mondiales",
+      "summary": "Vue aérienne du port international de Djen Djen, en Algérie. Le port fait l’objet d’un projet d’extension, afin de devenir une plateforme logistique majeure en Méditerranée. Sandervalya/Wikimédia, CC BY-NC L’ESSENTIEL Le 25 janvier 2026, en Algérie, la première opération de transbordement à l’échelle nationale a été ré",
+      "link": "https://theconversation.com/djen-djen-ce-quun-port-algerien-revele-des-mutations-des-routes-maritimes-mondiales-289933",
+      "image": "https://images.theconversation.com/files/755176/original/file-20260820-50-wkoru8.jpg?ixlib=rb-4.1.1&amp;rect=294%2C0%2C710%2C473&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-24T15:38:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -187,7 +304,23 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8qml6x",
+      "title": "Mieux diagnostiquer et prendre en charge les règles douloureuses dès l’adolescence",
+      "summary": "L’ESSENTIEL Chez les adolescentes, les douleurs des règles, ou dysménorrhée, représentent le symptôme gynécologique le plus fréquent. On déplore un retard dans la prise en charge des formes sévères qui affectent pourtant santé, qualité de vie et scolarité. Des études s’intéressent aux liens entre dysménorrhées précoces",
+      "link": "https://theconversation.com/mieux-diagnostiquer-et-prendre-en-charge-les-regles-douloureuses-des-ladolescence-290110",
+      "image": "https://counter.theconversation.com/content/290110/count.gif",
+      "publishedAt": "2026-08-24T13:40:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -203,8 +336,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ags980g",
@@ -222,8 +355,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajdj40a",
@@ -241,8 +374,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a315qx4",
@@ -260,8 +393,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4mipfd",
@@ -278,8 +411,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2ygfbq",
@@ -294,8 +427,56 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ap2q9cv",
+      "title": "L’IA ne tue pas la créativité en agence, elle la transforme",
+      "summary": "L'irruption des intelligences artificielles génératives interroge tous les métiers. Il était donc fatal que le métier des créatifs se pose la question. Que devient la créativité quand une IA peut inventer un concept ? Loin de disparaître, elle se redéploie. Découvrez de quelle manière. En 2018, Shantanu Narayen, PDG d’",
+      "link": "https://theconversation.com/lia-ne-tue-pas-la-creativite-en-agence-elle-la-transforme-281785",
+      "image": "https://counter.theconversation.com/content/281785/count.gif",
+      "publishedAt": "2026-08-21T10:59:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "auos56a",
+      "title": "Ukraine : des élections pendant la guerre renforceraient-elles vraiment la démocratie ?",
+      "summary": "L’ESSENTIEL Si l’Ukraine n’avait pas été envahie par la Russie, des élections législatives auraient eu lieu en octobre 2023 et une élection présidentielle en 2024. La promulgation de la loi martiale a repoussé sine die ces deux scrutins. Deux personnalités ukrainiennes de premier plan viennent d’appeler à l’organisatio",
+      "link": "https://theconversation.com/ukraine-des-elections-pendant-la-guerre-renforceraient-elles-vraiment-la-democratie-290179",
+      "image": "https://counter.theconversation.com/content/290179/count.gif",
+      "publishedAt": "2026-08-21T10:58:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ac8zq1v",
+      "title": "Le paradoxe de l’ultra-trail : pourquoi les femmes excellent mais sont sous-représentées",
+      "summary": "L’ESSENTIEL La 23ᵉ édition de l’Ultra-Trail du Mont-Blanc se tiendra du 24 au 30 août 2026. L’États-Unienne Rachel Entrekin est devenue en mai 2026 la première femme à remporter le Cocodona 250, en Arizona, une compétition phare de la discipline. Alors qu’elles excellent sur les très longues distances, les femmes sont ",
+      "link": "https://theconversation.com/le-paradoxe-de-lultra-trail-pourquoi-les-femmes-excellent-mais-sont-sous-representees-286474",
+      "image": "https://images.theconversation.com/files/750628/original/file-20260728-71-hqmjys.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-21T10:56:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "arlp6vc",
@@ -313,73 +494,6 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ap2q9cv",
-      "title": "L’IA ne tue pas la créativité en agence, elle la transforme",
-      "summary": "L'irruption des intelligences artificielles génératives interroge tous les métiers. Il était donc fatal que le métier des créatifs se pose la question. Que devient la créativité quand une IA peut inventer un concept ? Loin de disparaître, elle se redéploie. Découvrez de quelle manière. En 2018, Shantanu Narayen, PDG d’",
-      "link": "https://theconversation.com/lia-ne-tue-pas-la-creativite-en-agence-elle-la-transforme-281785",
-      "image": "https://counter.theconversation.com/content/281785/count.gif",
-      "publishedAt": "2026-08-21T10:59:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "auos56a",
-      "title": "Ukraine : des élections pendant la guerre renforceraient-elles vraiment la démocratie ?",
-      "summary": "L’ESSENTIEL Si l’Ukraine n’avait pas été envahie par la Russie, des élections législatives auraient eu lieu en octobre 2023 et une élection présidentielle en 2024. La promulgation de la loi martiale a repoussé sine die ces deux scrutins. Deux personnalités ukrainiennes de premier plan viennent d’appeler à l’organisatio",
-      "link": "https://theconversation.com/ukraine-des-elections-pendant-la-guerre-renforceraient-elles-vraiment-la-democratie-290179",
-      "image": "https://counter.theconversation.com/content/290179/count.gif",
-      "publishedAt": "2026-08-21T10:58:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ac8zq1v",
-      "title": "Le paradoxe de l’ultra-trail : pourquoi les femmes excellent mais sont sous-représentées",
-      "summary": "L’ESSENTIEL La 23ᵉ édition de l’Ultra-Trail du Mont-Blanc se tiendra du 24 au 30 août 2026. L’États-Unienne Rachel Entrekin est devenue en mai 2026 la première femme à remporter le Cocodona 250, en Arizona, une compétition phare de la discipline. Alors qu’elles excellent sur les très longues distances, les femmes sont ",
-      "link": "https://theconversation.com/le-paradoxe-de-lultra-trail-pourquoi-les-femmes-excellent-mais-sont-sous-representees-286474",
-      "image": "https://images.theconversation.com/files/750628/original/file-20260728-71-hqmjys.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-21T10:56:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "axw6o3i",
-      "title": "Patrimoine : faut-il faire contribuer ceux qui exploitent son image ?",
-      "summary": "Façade du Palais Garnier, à Paris, revêtue d’une publicité de la marque Chanel, dont les recettes ont financé la restauration de l’édifice. ATHEM Alors que la Cour des comptes alerte sur l’ampleur des besoins en matière de financement du patrimoine, l’image des biens culturels pourrait-elle devenir une ressource économ",
-      "link": "https://theconversation.com/patrimoine-faut-il-faire-contribuer-ceux-qui-exploitent-son-image-286911",
-      "image": "https://images.theconversation.com/files/750808/original/file-20260729-57-tvlm5b.png?ixlib=rb-4.1.1&amp;rect=91%2C0%2C1818%2C1212&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-19T13:34:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image",
-        "source"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
       "urgency": 35,
       "urgencyLevel": "basse"
     },
@@ -398,7 +512,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -414,23 +528,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aoyhnwx",
-      "title": "Nouveaux sports : d’où vient le succès du padel ?",
-      "summary": "L’ESSENTIEL Inventée en 1969 au Mexique, la pratique du padel s’est installée en France à partir des années 1990. Le principe du jeu à quatre, la continuité entre murs et terrains en font une discipline conviviale, qui attire vers les sports de raquette un public plus large. Aujourd’hui, le padel a rejoint la Fédératio",
-      "link": "https://theconversation.com/nouveaux-sports-dou-vient-le-succes-du-padel-285490",
-      "image": "https://counter.theconversation.com/content/285490/count.gif",
-      "publishedAt": "2026-08-20T13:01:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -448,7 +546,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -464,7 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -480,7 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -496,7 +594,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -512,26 +610,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agbqlrz",
-      "title": "Réseaux sociaux, algorithmes, prison : vers l’hypersurveillance ?",
-      "summary": "La loi Ripost prolonge jusqu’en 2030 le dispositif de vidéosurveillance algorithmique, initialement conçu pour la stricte durée des Jeux olympiques de Paris 2024. HJBC/Shutterstock (no reuse) L’ESSENTIEL La loi interdisant l’accès aux réseaux sociaux aux moins de 15 ans ( finalement censurée par le Conseil constitution",
-      "link": "https://theconversation.com/reseaux-sociaux-algorithmes-prison-vers-lhypersurveillance-289317",
-      "image": "https://images.theconversation.com/files/754061/original/file-20260814-50-d4zylr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5567%2C3711&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-19T13:35:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux",
-        "algorithme"
-      ],
-      "relevance": 90,
-      "relevanceLevel": "haute",
-      "urgency": 25,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -549,7 +628,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -567,7 +646,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -583,7 +662,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -599,7 +678,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -615,87 +694,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "afa6gtr",
-      "title": "Pourquoi la génération Z est tombée amoureuse de la photographie argentique",
-      "summary": "Après les vinyles, les cassettes VHS, les vidéoclubs et la profession de disquaire, la génération Z, née entre 1995 et 2010, ressuscite la photographie argentique. Derrière cette fascination pour certains objets ou supports se dessine une même aspiration : retrouver des expériences plus réfléchies, plus tangibles et pl",
-      "link": "https://theconversation.com/pourquoi-la-generation-z-est-tombee-amoureuse-de-la-photographie-argentique-287644",
-      "image": "https://counter.theconversation.com/content/287644/count.gif",
-      "publishedAt": "2026-08-20T08:18:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
       "urgency": 19,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avbvcno",
-      "title": "Les plantes, aussi, ont besoin de gestes barrières : l’enjeu mondial de la biosécurité",
-      "summary": "Les plantes nous nourrissent, les arbres nous fournissent de l’ombre et de la fraîcheur, les forêts sont nos alliées face au changement climatique. Malgré tous ces bénéfices, la lutte contre les insectes et les maladies qui ravagent les végétaux reste une question très peu médiatisée. Pourtant, chacun de nous peut œuvr",
-      "link": "https://theconversation.com/les-plantes-aussi-ont-besoin-de-gestes-barrieres-lenjeu-mondial-de-la-biosecurite-286478",
-      "image": "https://images.theconversation.com/files/745117/original/file-20260630-63-6mt6u.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-20T07:40:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8660t8",
-      "title": "Un oligarque russe à l’honneur dans « The Economist » : quand les médias prêtent leur crédibilité aux acteurs des conflits",
-      "summary": "Ouverture du grand format publié par *The Economist* consacré à Andreï Melnitchenko, présenté comme « l’homme qui pourrait changer la Russie ». Photo : Hanna Heitman. « The Economist », 9 juillet 2026. L’ESSENTIEL En juillet 2026, l’hebdomadaire britannique The Economist a consacré sa couverture et plusieurs formats éd",
-      "link": "https://theconversation.com/un-oligarque-russe-a-lhonneur-dans-the-economist-quand-les-medias-pretent-leur-credibilite-aux-acteurs-des-conflits-288365",
-      "image": "https://images.theconversation.com/files/751433/original/file-20260731-58-y8m677.png?ixlib=rb-4.1.1&amp;rect=244%2C0%2C2367%2C1578&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-19T13:30:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 15,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "auv2x02",
-      "title": "États-Unis : le Parti démocrate a-t-il pris un virage progressiste ?",
-      "summary": "L’ESSENTIEL Le 4 août 2026, à la surprise générale, le progressiste Abdul El-Sayed a remporté la primaire démocrate de l’un des deux postes de sénateur du Michigan au Sénat des États-Unis. Cette victoire montre que la légitimité sociale – El-Sayed n’est pas un politicien professionnel – peut se traduire en reconnaissan",
-      "link": "https://theconversation.com/etats-unis-le-parti-democrate-a-t-il-pris-un-virage-progressiste-289512",
-      "image": "https://images.theconversation.com/files/754292/original/file-20260817-50-f80643.jpg?ixlib=rb-4.1.1&amp;rect=0%2C99%2C1920%2C1080&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-19T13:26:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 15,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avvuf0k",
-      "title": "L’histoire de l’IA, faite de cycles entre attentes démesurées et réelles avancées",
-      "summary": "L’ESSENTIEL Plonger dans son histoire permet de mettre en perspective les avancées de l’IA, ses promesses et sa rhétorique. Déjà en 1970, Marvin Minsky, mathématicien, annonçait : « D’ici trois à huit ans, nous disposerons d’une machine dotée d’une intelligence générale équivalente à celle d’un être humain moyen. » Ça ",
-      "link": "https://theconversation.com/lhistoire-de-lia-faite-de-cycles-entre-attentes-demesurees-et-reelles-avancees-285291",
-      "image": "https://counter.theconversation.com/content/285291/count.gif",
-      "publishedAt": "2026-08-19T07:55:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
