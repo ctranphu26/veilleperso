@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:37:15.139Z",
+  "generatedAt": "2026-08-25T01:09:55.148Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,23 +133,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 94,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a9aay6m",
-      "title": "Comment est fabriqué un billet de banque ? Dans les coulisses de la Banque de France depuis Napoléon Bonaparte",
-      "summary": "Billet de cent nouveaux francs type 1959 représentant Bonaparte, peint par Henri Clément-Serveau (1886-1972). Comme un clin d’œil de la Banque de France à son fondateur du Premier Empire. Fourni par l'auteur Alors que la Banque centrale européenne organise un vote pour choisir sa nouvelle gamme de coupures d’euros, rev",
-      "link": "https://theconversation.com/comment-est-fabrique-un-billet-de-banque-dans-les-coulisses-de-la-banque-de-france-depuis-napoleon-bonaparte-285174",
-      "image": "https://images.theconversation.com/files/751932/original/file-20260804-60-90ujjt.png?ixlib=rb-4.1.1&amp;rect=344%2C0%2C1614%2C1076&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-24T15:43:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 89,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +151,23 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 86,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9aay6m",
+      "title": "Comment est fabriqué un billet de banque ? Dans les coulisses de la Banque de France depuis Napoléon Bonaparte",
+      "summary": "Billet de cent nouveaux francs type 1959 représentant Bonaparte, peint par Henri Clément-Serveau (1886-1972). Comme un clin d’œil de la Banque de France à son fondateur du Premier Empire. Fourni par l'auteur Alors que la Banque centrale européenne organise un vote pour choisir sa nouvelle gamme de coupures d’euros, rev",
+      "link": "https://theconversation.com/comment-est-fabrique-un-billet-de-banque-dans-les-coulisses-de-la-banque-de-france-depuis-napoleon-bonaparte-285174",
+      "image": "https://images.theconversation.com/files/751932/original/file-20260804-60-90ujjt.png?ixlib=rb-4.1.1&amp;rect=344%2C0%2C1614%2C1076&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-24T15:43:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 85,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -203,7 +203,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -238,7 +238,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -254,7 +254,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -270,7 +270,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -286,7 +286,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -304,8 +304,8 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8qml6x",
@@ -320,23 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "albb7kq",
-      "title": "Education nationale : une fuite des données qui inquiète",
-      "summary": "Dates de naissances, adresses mail, numéros de téléphone, affectation, grade et identifiants de connexion… Pas moins de 43 gigaoctets de données ont été volés au ministère de l’Éducation nationale, répartis L’article Education nationale : une fuite des données qui inquiète est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/24/education-nationale-une-fuite-des-donnees-qui-inquiete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/iprof-300x173.png",
-      "publishedAt": "2026-08-24T03:55:34.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 68,
       "urgencyLevel": "moyenne"
     },
     {
@@ -355,7 +339,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -374,7 +358,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -393,7 +377,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -411,7 +395,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "albb7kq",
+      "title": "Education nationale : une fuite des données qui inquiète",
+      "summary": "Dates de naissances, adresses mail, numéros de téléphone, affectation, grade et identifiants de connexion… Pas moins de 43 gigaoctets de données ont été volés au ministère de l’Éducation nationale, répartis L’article Education nationale : une fuite des données qui inquiète est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/08/24/education-nationale-une-fuite-des-donnees-qui-inquiete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/iprof-300x173.png",
+      "publishedAt": "2026-08-24T03:55:34.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +427,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -443,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -494,7 +494,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -512,7 +512,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -528,7 +528,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -546,7 +546,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -562,7 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -578,7 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -594,7 +594,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -610,7 +610,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -662,7 +662,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -678,7 +678,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -694,7 +694,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -712,7 +712,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     }
   ]
