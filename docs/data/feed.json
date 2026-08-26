@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:37:02.226Z",
+  "generatedAt": "2026-08-26T01:12:23.949Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -183,8 +183,8 @@
       ],
       "relevance": 98,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a72mzrx",
@@ -204,92 +204,8 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "anancwd",
-      "title": "Salaire des enseignant.es : rétablir la vérité",
-      "summary": "Après le « trop de vacances », va-t-on vers un « trop payés » ? En cette rentrée 2026, le matraquage médiatique sur le salaire des enseignants ne manquera pas d’égratigner encore l’image du corps L’article Salaire des enseignant.es : rétablir la vérité est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/25/salaire-des-enseignant-es-retablir-la-verite/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/01/argent-300x206.png",
-      "publishedAt": "2026-08-25T04:00:34.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "avkyfx",
-      "title": "Pourquoi le RN revendique l’héritage gaulliste",
-      "summary": "L’ESSENTIEL Le Rassemblement national tente de capter l’héritage gaulliste, alors que son ancêtre, le Front national, est lié à des partisans de Vichy et de l’Algérie française. Le projet de référendum constitutionnel du RN épouse la posture gaullienne de refondation sociopolitique de la France. L’image du gaullisme s’",
-      "link": "https://theconversation.com/pourquoi-le-rn-revendique-lheritage-gaulliste-289993",
-      "image": "https://counter.theconversation.com/content/289993/count.gif",
-      "publishedAt": "2026-08-25T14:28:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "addg8mx",
-      "title": "D’ici à 2040, l’Europe a besoin de dix millions de logements « net zéro » neufs ou rénovés. Comment y parvenir ?",
-      "summary": "L’ESSENTIEL Le secteur de l’architecture, de l’ingénierie et de la construction est en pleine révolution avec l’avènement de la politique « zéro émission nette ». Une étude propose quatre scénarios pour le secteur européen de la construction à l’horizon 2040, en combinant besoins en logement, objectifs « net zéero » et",
-      "link": "https://theconversation.com/dici-a-2040-leurope-a-besoin-de-dix-millions-de-logements-net-zero-neufs-ou-renoves-comment-y-parvenir-284883",
-      "image": "https://counter.theconversation.com/content/284883/count.gif",
-      "publishedAt": "2026-08-25T14:29:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "altygne",
-      "title": "COP17 en Mongolie : la diplomatie de la terre à l’épreuve de la crise du multilatéralisme environnemental",
-      "summary": "L’Amazonie recouvre l’un des principaux foyers de déforestation de la planète. En perturbant le cycle de l’eau et en augmentant les risques de catastrophes naturelles, la destruction des forêts contribue largement au phénomène de désertification. Midia Ninja/Wikimédia, CC BY L’ESSENTIEL La Mongolie accueille en ce mome",
-      "link": "https://theconversation.com/cop17-en-mongolie-la-diplomatie-de-la-terre-a-lepreuve-de-la-crise-du-multilateralisme-environnemental-290199",
-      "image": "https://images.theconversation.com/files/755232/original/file-20260820-50-p8xm2.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1024%2C683&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-25T14:26:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a55xz6o",
-      "title": "Protéger les enfants en mobilité au Mali : l’angle mort des dispositifs actuels",
-      "summary": "Dans une rue de Bamako, en octobre&nbsp:2018. Vincent van Zeijst/Wikimédia, CC BY-NC-SA L’ESSENTIEL Au Mali, il est relativement fréquent que des enfants ayant grandi dans des villages soient envoyés dans les grandes villes, confiés aux bons soins d’adultes plus ou moins proches de leurs parents. Ces enfants ne sont pa",
-      "link": "https://theconversation.com/proteger-les-enfants-en-mobilite-au-mali-langle-mort-des-dispositifs-actuels-289937",
-      "image": "https://images.theconversation.com/files/754660/original/file-20260818-50-idellu.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C54%2C3251%2C2167&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-25T14:26:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ao5sbtt",
@@ -307,8 +223,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aswafgt",
@@ -326,8 +242,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aocc2za",
@@ -344,8 +260,26 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anancwd",
+      "title": "Salaire des enseignant.es : rétablir la vérité",
+      "summary": "Après le « trop de vacances », va-t-on vers un « trop payés » ? En cette rentrée 2026, le matraquage médiatique sur le salaire des enseignants ne manquera pas d’égratigner encore l’image du corps L’article Salaire des enseignant.es : rétablir la vérité est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/08/25/salaire-des-enseignant-es-retablir-la-verite/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/01/argent-300x206.png",
+      "publishedAt": "2026-08-25T04:00:34.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahda3e4",
@@ -363,8 +297,90 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avkyfx",
+      "title": "Pourquoi le RN revendique l’héritage gaulliste",
+      "summary": "L’ESSENTIEL Le Rassemblement national tente de capter l’héritage gaulliste, alors que son ancêtre, le Front national, est lié à des partisans de Vichy et de l’Algérie française. Le projet de référendum constitutionnel du RN épouse la posture gaullienne de refondation sociopolitique de la France. L’image du gaullisme s’",
+      "link": "https://theconversation.com/pourquoi-le-rn-revendique-lheritage-gaulliste-289993",
+      "image": "https://counter.theconversation.com/content/289993/count.gif",
+      "publishedAt": "2026-08-25T14:28:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "addg8mx",
+      "title": "D’ici à 2040, l’Europe a besoin de dix millions de logements « net zéro » neufs ou rénovés. Comment y parvenir ?",
+      "summary": "L’ESSENTIEL Le secteur de l’architecture, de l’ingénierie et de la construction est en pleine révolution avec l’avènement de la politique « zéro émission nette ». Une étude propose quatre scénarios pour le secteur européen de la construction à l’horizon 2040, en combinant besoins en logement, objectifs « net zéero » et",
+      "link": "https://theconversation.com/dici-a-2040-leurope-a-besoin-de-dix-millions-de-logements-net-zero-neufs-ou-renoves-comment-y-parvenir-284883",
+      "image": "https://counter.theconversation.com/content/284883/count.gif",
+      "publishedAt": "2026-08-25T14:29:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "altygne",
+      "title": "COP17 en Mongolie : la diplomatie de la terre à l’épreuve de la crise du multilatéralisme environnemental",
+      "summary": "L’Amazonie recouvre l’un des principaux foyers de déforestation de la planète. En perturbant le cycle de l’eau et en augmentant les risques de catastrophes naturelles, la destruction des forêts contribue largement au phénomène de désertification. Midia Ninja/Wikimédia, CC BY L’ESSENTIEL La Mongolie accueille en ce mome",
+      "link": "https://theconversation.com/cop17-en-mongolie-la-diplomatie-de-la-terre-a-lepreuve-de-la-crise-du-multilateralisme-environnemental-290199",
+      "image": "https://images.theconversation.com/files/755232/original/file-20260820-50-p8xm2.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1024%2C683&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-25T14:26:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a55xz6o",
+      "title": "Protéger les enfants en mobilité au Mali : l’angle mort des dispositifs actuels",
+      "summary": "Dans une rue de Bamako, en octobre&nbsp:2018. Vincent van Zeijst/Wikimédia, CC BY-NC-SA L’ESSENTIEL Au Mali, il est relativement fréquent que des enfants ayant grandi dans des villages soient envoyés dans les grandes villes, confiés aux bons soins d’adultes plus ou moins proches de leurs parents. Ces enfants ne sont pa",
+      "link": "https://theconversation.com/proteger-les-enfants-en-mobilite-au-mali-langle-mort-des-dispositifs-actuels-289937",
+      "image": "https://images.theconversation.com/files/754660/original/file-20260818-50-idellu.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C54%2C3251%2C2167&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-25T14:26:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a9aay6m",
+      "title": "Comment est fabriqué un billet de banque ? Dans les coulisses de la Banque de France depuis Napoléon Bonaparte",
+      "summary": "Billet de cent nouveaux francs type 1959 représentant Bonaparte, peint par Clément-Serveau (1886-1972). Comme un clin d’œil de la Banque de France à son fondateur du Premier Empire. Fourni par l'auteur Alors que la Banque centrale européenne organise un vote pour choisir sa nouvelle gamme de coupures d’euros, revenons ",
+      "link": "https://theconversation.com/comment-est-fabrique-un-billet-de-banque-dans-les-coulisses-de-la-banque-de-france-depuis-napoleon-bonaparte-285174",
+      "image": "https://images.theconversation.com/files/751932/original/file-20260804-60-90ujjt.png?ixlib=rb-4.1.1&amp;rect=344%2C0%2C1614%2C1076&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-24T15:43:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "advci6r",
@@ -382,7 +398,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -400,23 +416,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 64,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9aay6m",
-      "title": "Comment est fabriqué un billet de banque ? Dans les coulisses de la Banque de France depuis Napoléon Bonaparte",
-      "summary": "Billet de cent nouveaux francs type 1959 représentant Bonaparte, peint par Clément-Serveau (1886-1972). Comme un clin d’œil de la Banque de France à son fondateur du Premier Empire. Fourni par l'auteur Alors que la Banque centrale européenne organise un vote pour choisir sa nouvelle gamme de coupures d’euros, revenons ",
-      "link": "https://theconversation.com/comment-est-fabrique-un-billet-de-banque-dans-les-coulisses-de-la-banque-de-france-depuis-napoleon-bonaparte-285174",
-      "image": "https://images.theconversation.com/files/751932/original/file-20260804-60-90ujjt.png?ixlib=rb-4.1.1&amp;rect=344%2C0%2C1614%2C1076&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-24T15:43:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,7 +432,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -450,7 +450,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -469,7 +469,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +485,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +517,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,7 +533,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -549,7 +549,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -565,7 +565,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -581,7 +581,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -597,7 +597,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -634,7 +634,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 23,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -652,7 +652,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -668,7 +668,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -684,7 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -700,7 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -716,7 +716,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 16,
       "urgencyLevel": "basse"
     }
   ]
