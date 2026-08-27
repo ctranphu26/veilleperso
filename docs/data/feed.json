@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:46:01.306Z",
+  "generatedAt": "2026-08-27T07:25:15.215Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,19 +119,77 @@
   "count": 35,
   "items": [
     {
-      "id": "a904hul",
-      "title": "Rentrée scolaire : Edouard Geffray promet la continuité… et aligne les annonces",
-      "summary": "Pas de « réforme Geffray », mais une rentrée avec des nouveautés. Mardi 25 août, depuis le lycée Arago à Paris, le ministre de l’Éducation nationale Édouard Geffray a fixé L’article Rentrée scolaire : Edouard Geffray promet la continuité… et aligne les annonces est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/26/rentree-scolaire-edouard-geffray-promet-la-continuite-et-aligne-les-annonces/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/IMG_4433-rotated-e1787700011142-249x300.jpeg",
-      "publishedAt": "2026-08-26T04:05:47.000Z",
+      "id": "asex185",
+      "title": "Lycée professionnel : « On va retenir un mot : échec »",
+      "summary": "À l’approche de la rentrée, le syndicat de l’enseignement professionnel, Snuep-FSU dresse un bilan très sévère des réformes menées ces dernières années. Calendrier des examens, baisse des heures d’enseignement, transformation L’article Lycée professionnel : « On va retenir un mot : échec » est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/08/27/lycee-professionnel-on-va-retenir-un-mot-echec/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/IMG_4475-scaled-e1787759782681-300x295.jpeg",
+      "publishedAt": "2026-08-27T03:55:20.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
+      "keywords": [
+        "enseignement",
+        "formation"
+      ],
+      "relevance": 71,
+      "relevanceLevel": "haute",
+      "urgency": 96,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afhmti4",
+      "title": "Directions d’école : les collectivités pourront financer des décharges supplémentaires dès la rentrée",
+      "summary": "Le Journal officiel du jour laisse apparaître une nouvelle possibilité de décharges supplémentaires pour certaines directions d’école confrontées à des contraintes particulières. Jusqu’à présent les décharges de direction étaient principalement L’article Directions d’école : les collectivités pourront financer des déch",
+      "link": "https://www.cafepedagogique.net/2026/08/27/directions-decole-les-collectivites-pourront-financer-des-decharges-supplementaires-des-la-rentree/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/Journal-Officiel-Cafe-pedagogique-3-300x122.gif",
+      "publishedAt": "2026-08-27T03:27:51.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8jwzrt",
+      "title": "À la rentrée, parions sur l’École : un manifeste pour 2027",
+      "summary": "La Rédaction du Café pédagogique espère que vous avez passé des vacances, ressourçantes et rafraichissantes. En cette rentrée 2026, on se retrouve sous le signe du collectif avec la publication L’article À la rentrée, parions sur l’École : un manifeste pour 2027 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/08/27/a-la-rentree-parions-sur-lecole-un-manifeste-pour-2027-sortie-le-21-aout-prochain/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/07/breve-1-198x300.png",
+      "publishedAt": "2026-08-27T03:45:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apk1fyr",
+      "title": "Ma rentrée 2026 : entre curiosité estivale et rigueur de pré-rentrée",
+      "summary": "Lundi 31 août, Antoine Cavelier inaugure sa onzième rentrée au collège Jules Ferry de Villeneuve-Saint-Georges (REP+). Enseignant d’histoire-géographie et d’EMC, il sera à nouveau cette année professeur principal en 3ᵉ L’article Ma rentrée 2026 : entre curiosité estivale et rigueur de pré-rentrée est apparu en premier ",
+      "link": "https://www.cafepedagogique.net/2026/08/27/ma-rentree-2026-entre-curiosite-estivale-et-rigueur-de-la-pre-rentree/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/AC-carre-300x300.jpeg",
+      "publishedAt": "2026-08-27T03:30:12.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant",
+        "professeur"
+      ],
+      "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 94,
+      "urgency": 86,
       "urgencyLevel": "haute"
     },
     {
@@ -147,23 +205,107 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 93,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
-      "id": "ahsg23n",
-      "title": "Rentrée : Édouard Geffray dans les pas de Jean-Michel Blanquer",
-      "summary": "Pas de « réforme Geffray », a répété le ministre de l’Éducation nationale lors de sa conférence de presse de rentrée mardi 25 août. « instruire, protéger, unir, prévoir », pour sa L’article Rentrée : Édouard Geffray dans les pas de Jean-Michel Blanquer est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/26/rentree-edouard-geffray-dans-les-pas-de-blanquer/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.07.53-PM-225x300.jpeg",
-      "publishedAt": "2026-08-26T04:00:37.000Z",
+      "id": "amliwcf",
+      "title": "0,3 % des personnels confiants face à l’avenir de l’École",
+      "summary": "Un tableau noir. C’est le constat dressé par le SE-UNSA à partir de son Baromètre UNSA Éducation 2026 auprès de 42 000 personnels. Et un chiffre vertigineux : 0,3 % L’article 0,3 % des personnels confiants face à l’avenir de l’École est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/08/27/03-des-personnels-confiants-des-personnels-face-a-lavenir-de-lecole/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/IMG_4406-1-e1787759872640-300x175.jpeg",
+      "publishedAt": "2026-08-27T04:00:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5ure48",
+      "title": "3 nominations à des postes clés de l’administration centrale",
+      "summary": "Ca bouge à la rue de Grenelle ! Affaires juridiques, rémunérations et systèmes d’information RH : trois nominations interviennent à des postes stratégiques de l’administration centrale de l’Éducation nationale à L’article 3 nominations à des postes clés de l’administration centrale est apparu en premier sur Le Café péd",
+      "link": "https://www.cafepedagogique.net/2026/08/27/3-nominations-a-des-postes-cles-de-ladministration-centrale/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/cabinet-ministre-rue-de-Grenelle-Cafe-pedagogique-e1730662316876-300x249.jpg",
+      "publishedAt": "2026-08-27T03:27:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "asuaz7",
+      "title": "Le certificat d’études primaires : 20 août 1866 vs 25 août 2026",
+      "summary": "1866-2026 : 160 ans en arrière ! Gabriel Attal ou la machine à remonter le temps. Remettre au gout du jour un certificat d’études primaires ? cette idée qui n’est pas neuve, a L’article Le certificat d’études primaires : 20 août 1866 vs 25 août 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/08/27/20-aout-1866-le-certificat-detudes-primaires-vs-25-aout-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Claude-Lelievre-cafe-pedagogique-300x300.jpg",
+      "publishedAt": "2026-08-27T03:35:40.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aijim7m",
+      "title": "Découvrez 100 ans de diplomatie française à Rambouillet",
+      "summary": "Cadre du premier G6 de l’histoire en 1975, le château de Rambouillet dévoile, depuis le 1er juillet, les coulisses de cent ans de diplomatie à travers son nouveau parcours de L’article Découvrez 100 ans de diplomatie française à Rambouillet est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/08/27/decouvrez-100-ans-de-diplomatie-francaise-a-rambouillet/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/100-ans-diplomatie-a-Rambouillet-300x300.webp",
+      "publishedAt": "2026-08-27T03:28:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aldzqh0",
+      "title": "Ces directions académiques sont renouvelées pour 4 ans",
+      "summary": "Pas de changement à la tête des services de l’Éducation nationale en Ille-et-Vilaine. Marc Teulier, directeur académique des services de l’Éducation nationale (DASEN), et Isabelle Desillière, directrice académique adjointe (DAASEN), L’article Ces directions académiques sont renouvelées pour 4 ans est apparu en premier ",
+      "link": "https://www.cafepedagogique.net/2026/08/27/ces-directions-academiques-sont-renouvelees-pour-4-ans/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/academie-rennes-300x226.jpg",
+      "publishedAt": "2026-08-27T03:27:36.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "au8d735",
+      "title": "Calendrier des dates des payes",
+      "summary": "Alors, avez-vous touché près de 3090 euros ce jeudi 27 août ? Le Café pédagogique vous propose ce calendrier pour connaître les dates de paiement des salaires pour cette année L’article Calendrier des dates des payes est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/08/27/calendrier-des-dates-des-payes/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/Dates-de-paie-3.jpg",
+      "publishedAt": "2026-08-27T03:27:20.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -179,44 +321,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "atdrrue",
-      "title": "Rentrée : « J’ai besoin de rencontrer mes élèves pour savoir réellement ce que je vais construire avec eux »",
-      "summary": "A J-5 : « Malgré l’expérience, les veilles de rentrée scolaire, un stress s’empare toujours de moi » confie Tanguy Dassonville, enseignant en Segpa, même si « en dix ans, L’article Rentrée : « J’ai besoin de rencontrer mes élèves pour savoir réellement ce que je vais construire avec eux » est apparu en premier sur Le C",
-      "link": "https://www.cafepedagogique.net/2026/08/26/rentree-jai-besoin-de-rencontrer-mes-eleves-pour-savoir-reellement-ce-que-je-vais-construire-avec-eux/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/tanguyDAssonville-e1787664093872-281x300.jpeg",
-      "publishedAt": "2026-08-26T03:40:33.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a4a07md",
-      "title": "Un peu de magie pour reprendre le chemin de l’école",
-      "summary": "Pour mettre un peu de magie dans ces jours de rentrée, pour les plus petits un album plein de couleurs et d’imagination et pour les plus grands un roman plein L’article Un peu de magie pour reprendre le chemin de l’école est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/26/un-peu-de-magie-pour-reprendre-le-chemin-de-lecole/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/tour-de-magie-magie-sous-hte-tension-300x263.jpeg",
-      "publishedAt": "2026-08-26T03:29:33.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 76,
-      "relevanceLevel": "haute",
-      "urgency": 73,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -234,8 +339,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aujz0a",
@@ -250,8 +355,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aeivq78",
@@ -266,8 +371,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abo30zz",
@@ -282,24 +387,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aykbmv6",
-      "title": "19e édition du Festival du Film Francophone d’Angoulême",
-      "summary": "Tremplin populaire du cinéma en langue française depuis sa création en 2008, le FFA (Festival du film francophone d’Angoulême) accueille largement jusqu’au 29 août dans la Cité m des Valois L’article 19e édition du Festival du Film Francophone d’Angoulême est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/26/19eme-edition-du-festival-du-film-francophone-dangouleme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/festival-film-francophone-page-article-header-225x300.jpg",
-      "publishedAt": "2026-08-26T03:28:55.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aj4mgvb",
@@ -314,8 +403,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aw1qhv4",
@@ -333,8 +422,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqc4sm7",
@@ -349,8 +438,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1866qq",
@@ -365,8 +454,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axx99zy",
@@ -381,8 +470,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahc14xg",
@@ -397,7 +486,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -413,59 +502,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am6e34t",
-      "title": "Comment mettre fin au collège unique sans oser (pour l’instant …) le dire ouvertement",
-      "summary": "Traduction de Gabriel Attal par Jean-Paul Delahaye. L’ancien numéro 2 du ministère revient sur les propos de l’ancien Premier ministre Attal, passé Rue de Grenelle. Le « collège plus individualisé L’article Comment mettre fin au collège unique sans oser (pour l’instant …) le dire ouvertement est apparu en premier sur L",
-      "link": "https://www.cafepedagogique.net/2026/08/26/comment-mettre-fin-au-college-unique-sans-oser-pour-linstant-le-dire-ouvertement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/08/delahaye-300x209.png",
-      "publishedAt": "2026-08-26T03:55:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 64,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5wox0x",
-      "title": "Un plan de formation aux violences sexistes et sexuelles",
-      "summary": "Le Bulletin officiel du 25 août 2026 précise le plan de formation aux violences sexistes et sexuelles. « Cette formation poursuit trois objectifs : construire une culture commune pour mieux comprendre L’article Un plan de formation aux violences sexistes et sexuelles est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/26/un-plan-de-formation-aux-violences-sexistes-et-sexuelles/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/BO-bulletin-officiel-254x300.png",
-      "publishedAt": "2026-08-26T03:30:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "acv4xd",
-      "title": "Gabriel Attal remonte le temps comme Marty Mc Fly",
-      "summary": "Et de 3 pour le jeu de séduction envers ces très cher.es enseignant.es ! Après Edouard Philippe et Raphaël Glucksmann, c’est au tour de Gabriel Attal. L’éphémère ministre de l’Éducation L’article Gabriel Attal remonte le temps comme Marty Mc Fly est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/26/gabriel-attal-remonte-le-temps-comme-marty-mc-fly/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/02/G-Attal-300x198.jpg",
-      "publishedAt": "2026-08-26T03:28:40.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -481,7 +518,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -497,25 +534,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anancwd",
-      "title": "Salaire des enseignant.es : rétablir la vérité",
-      "summary": "Après le « trop de vacances », va-t-on vers un « trop payés » ? En cette rentrée 2026, le matraquage médiatique sur le salaire des enseignants ne manquera pas d’égratigner encore l’image du corps L’article Salaire des enseignant.es : rétablir la vérité est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/25/salaire-des-enseignant-es-retablir-la-verite/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/01/argent-300x206.png",
-      "publishedAt": "2026-08-25T04:00:34.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,7 +552,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -549,7 +568,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -565,7 +584,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -581,7 +600,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -597,26 +616,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "advci6r",
-      "title": "FSU-SNUipp : « L’école doit être un rempart de la République »",
-      "summary": "Postes supprimés, classes fermées, inclusion, inégalités territoriales et perte de liberté pédagogique : la FSU-SNUipp dresse le constat d’une école publique fragilisée par des années de choix budgétaires. À l’approche L’article FSU-SNUipp : « L’école doit être un rempart de la République » est apparu en premier sur Le",
-      "link": "https://www.cafepedagogique.net/2026/08/25/fsu-snuipp-lecole-doit-etre-un-rempart-de-la-republique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-10.50.21-AM-e1787589752426-300x203.jpeg",
-      "publishedAt": "2026-08-25T03:55:36.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "classe"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -635,7 +635,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 38,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -651,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -667,7 +667,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +683,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -699,7 +699,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 32,
       "urgencyLevel": "basse"
     }
   ]
