@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T07:25:15.215Z",
+  "generatedAt": "2026-08-27T21:48:00.309Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,38 @@
   "count": 35,
   "items": [
     {
+      "id": "ax2ojct",
+      "title": "Droit de vote des étrangers : pourquoi les socialistes n’ont-ils jamais tenu leur promesse ?",
+      "summary": "L’ESSENTIEL En 1972, le Parti socialiste promet le « droit de vote aux étrangers aux élections locales ». Il y renoncera en 1990. Depuis, cette mesure est régulièrement annoncée, mais jamais mise en œuvre. Comment expliquer le destin de ce projet avorté ? À partir de la fin des années 1980, la pression exercée par la d",
+      "link": "https://theconversation.com/droit-de-vote-des-etrangers-pourquoi-les-socialistes-nont-ils-jamais-tenu-leur-promesse-282812",
+      "image": "https://counter.theconversation.com/content/282812/count.gif",
+      "publishedAt": "2026-08-27T13:43:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 91,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "argbe19",
+      "title": "Pourra-t-on un jour refroidir nos maisons en envoyant leur chaleur dans le vide interstellaire ?",
+      "summary": "L’ESSENTIEL Avec les canicules à répétition, la question du refroidissement des bâtiments se pose, en particulier en évitant les méthodes qui aggravent l’effet de serre, le changement climatique et, donc, les pics de chaleur. Le « refroidissement radiatif » est une piste : il s’agit d’exploiter le rayonnement thermique",
+      "link": "https://theconversation.com/pourra-t-on-un-jour-refroidir-nos-maisons-en-envoyant-leur-chaleur-dans-le-vide-interstellaire-290362",
+      "image": "https://images.theconversation.com/files/755940/original/file-20260825-50-sr1qvn.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-27T13:42:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 91,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "asex185",
       "title": "Lycée professionnel : « On va retenir un mot : échec »",
       "summary": "À l’approche de la rentrée, le syndicat de l’enseignement professionnel, Snuep-FSU dresse un bilan très sévère des réformes menées ces dernières années. Calendrier des examens, baisse des heures d’enseignement, transformation L’article Lycée professionnel : « On va retenir un mot : échec » est apparu en premier sur Le ",
@@ -134,7 +166,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 96,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -152,7 +184,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 86,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -170,7 +202,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 86,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -189,7 +221,55 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aaphddq",
+      "title": "France, première destination touristique mondiale : des retombées inégalement réparties dans la restauration",
+      "summary": "L’ESSENTIEL En 2025, plus de 100 millions de touristes ont été accueillis en France. Les répercussions économiques sur le secteur de la restauration sont importantes, mais tous les types de restaurants n’en profitent pas de la même façon. Cette mondialisation de la clientèle a bouleversé l’économie de la recommandation",
+      "link": "https://theconversation.com/france-premiere-destination-touristique-mondiale-des-retombees-inegalement-reparties-dans-la-restauration-288730",
+      "image": "https://counter.theconversation.com/content/288730/count.gif",
+      "publishedAt": "2026-08-27T13:41:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "andsodm",
+      "title": "Quand la polarisation internationale s’invite dans la présidentielle brésilienne",
+      "summary": "L’ESSENTIEL La présidentielle brésilienne, en octobre prochain, se jouera sans aucun doute entre le sortant Lula (centre gauche), en lice pour un dernier mandat, et Flávio Bolsonaro, fils de Jair et, comme ce dernier, représentant de la droite dure. Ce duel est suivi avec la plus grande attention dans de nombreux pays ",
+      "link": "https://theconversation.com/quand-la-polarisation-internationale-sinvite-dans-la-presidentielle-bresilienne-289957",
+      "image": "https://images.theconversation.com/files/755006/original/file-20260819-50-ojnsxl.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-27T13:40:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agt2ebg",
+      "title": "Internet, réseaux mobiles : nos télécommunications sont-elles à bout ?",
+      "summary": "Au fil des décennies, nos réseaux de communications se sont toujours plus complexifiés afin de monter en puissance. Mais ce chemin ne sera pas viable éternellement. Allons-nous bientôt devoir changer d’approche ? Pendant des décennies, ingénieurs et chercheurs en télécommunications ont poursuivi un seul objectif : tran",
+      "link": "https://theconversation.com/internet-reseaux-mobiles-nos-telecommunications-sont-elles-a-bout-289586",
+      "image": "https://counter.theconversation.com/content/289586/count.gif",
+      "publishedAt": "2026-08-27T13:39:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -205,8 +285,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 70,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayr6fel",
+      "title": "Pourquoi il faut en finir avec le mythe de la forêt salvatrice",
+      "summary": "L’ESSENTIEL Face au changement climatique, les forêts sont souvent présentées comme de salvateurs « poumons verts ». Pourtant, de plus en plus de forêts françaises émettent plus de CO₂ qu’elles n’en séquestrent. Pour le comprendre, il faut savoir faire la distinction entre stocks et flux de carbone, mais également rega",
+      "link": "https://theconversation.com/pourquoi-il-faut-en-finir-avec-le-mythe-de-la-foret-salvatrice-289909",
+      "image": "https://images.theconversation.com/files/754805/original/file-20260819-50-fdstxv.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-27T09:59:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amliwcf",
@@ -223,8 +319,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5ure48",
@@ -241,8 +337,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asuaz7",
@@ -257,8 +353,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aijim7m",
@@ -273,8 +369,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aldzqh0",
@@ -289,8 +385,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "au8d735",
@@ -305,8 +401,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ak6676r",
@@ -321,8 +417,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9zcjq8",
@@ -339,7 +435,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -355,7 +451,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,7 +467,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -387,13 +483,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
       "id": "aj4mgvb",
       "title": "Les fuites de données de Bercy et de l’éducation nationale auraient-elles pu être techniquement évitées ?",
-      "summary": "L’ESSENTIEL Au mois d’août, plusieurs attaques informatiques ont provoqué des fuites de données officielles dans différents services publics et administrations : impôts, cadastre, succession, ministère de l’éducation nationale… La méthode employée par les hackers est tristement simple : ils ont usurpé les identifiants ",
+      "summary": "L’ESSENTIEL Le mois d’août a révélé plusieurs attaques informatiques ayant provoqué des fuites de données officielles dans différents services publics et administrations : impôts, cadastre, succession, ministère de l’éducation nationale… La méthode employée par les hackers est tristement simple : ils ont usurpé les ide",
       "link": "https://theconversation.com/les-fuites-de-donnees-de-bercy-et-de-leducation-nationale-auraient-elles-pu-etre-techniquement-evitees-290489",
       "image": "https://counter.theconversation.com/content/290489/count.gif",
       "publishedAt": "2026-08-26T12:40:13.000Z",
@@ -403,7 +499,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -422,7 +518,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,7 +534,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -454,7 +550,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -470,7 +566,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,7 +582,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -502,13 +598,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
       "id": "a94qupp",
       "title": "Y a-t-il trop de bois mort dans nos forêts ?",
-      "summary": "L’ESSENTIEL Il y a en moyenne cinq fois plus de bois mort dans les forêts françaises aujourd’hui qu’il y a vingt ans. Le bois mort est souvent accusée de provoquer des fléaux tels que des incendies ou des épidémies. C’est infondé. Le bois mort est, au contraire, fondamental à l’écosystème forestier. C'est même un indic",
+      "summary": "L’ESSENTIEL Il y a en moyenne cinq fois plus de bois mort dans les forêts françaises aujourd’hui qu’il y a vingt ans. Le bois mort est souvent accusé de provoquer des fléaux tels que des incendies ou des épidémies. C’est infondé. Le bois mort est, au contraire, fondamental à l’écosystème forestier. C'est même un indica",
       "link": "https://theconversation.com/y-a-t-il-trop-de-bois-mort-dans-nos-forets-290087",
       "image": "https://images.theconversation.com/files/754863/original/file-20260819-50-5tapn4.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
       "publishedAt": "2026-08-25T14:28:39.000Z",
@@ -518,7 +614,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -534,7 +630,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -552,8 +648,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "addg8mx",
@@ -568,8 +664,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "altygne",
@@ -584,8 +680,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a55xz6o",
@@ -600,106 +696,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9aay6m",
-      "title": "Comment est fabriqué un billet de banque ? Dans les coulisses de la Banque de France depuis Napoléon Bonaparte",
-      "summary": "Billet de cent nouveaux francs type 1959 représentant Bonaparte, peint par Clément-Serveau (1886-1972). Comme un clin d’œil de la Banque de France à son fondateur du Premier Empire. Fourni par l'auteur Alors que la Banque centrale européenne organise un vote pour choisir sa nouvelle gamme de coupures d’euros, revenons ",
-      "link": "https://theconversation.com/comment-est-fabrique-un-billet-de-banque-dans-les-coulisses-de-la-banque-de-france-depuis-napoleon-bonaparte-285174",
-      "image": "https://images.theconversation.com/files/751932/original/file-20260804-60-90ujjt.png?ixlib=rb-4.1.1&amp;rect=344%2C0%2C1614%2C1076&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-24T15:43:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apvl1ef",
-      "title": "Langue populaire, langue savante : des différences à reconsidérer pour mieux lutter contre les inégalités scolaires",
-      "summary": "L’ESSENTIEL La langue populaire n’est pas une version sommaire de la langue savante. Tout aussi complexe, elle introduit un autre rapport à la parole. C’est ce que montrent les travaux d’anthropologues sur l’oralité et l’écriture. Le comprendre ne permettrait-il pas de mieux accueillir les élèves dans leur diversité ? ",
-      "link": "https://theconversation.com/langue-populaire-langue-savante-des-differences-a-reconsiderer-pour-mieux-lutter-contre-les-inegalites-scolaires-287822",
-      "image": "https://counter.theconversation.com/content/287822/count.gif",
-      "publishedAt": "2026-08-24T15:40:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité",
-        "égalité"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ab4p7f6",
-      "title": "Comment la pollution de l’eau peut modifier les maladies parasitaires qui nous affectent",
-      "summary": "Dans une rivière, les polluants les plus préoccupants ne sont pas toujours visibles. Pesticides, résidus de médicaments, métaux et autres substances chimiques peuvent circuler à des concentrations trop faibles pour provoquer une mortalité immédiate des êtres vivants. Ils peuvent cependant modifier leur physiologie. Or,",
-      "link": "https://theconversation.com/comment-la-pollution-de-leau-peut-modifier-les-maladies-parasitaires-qui-nous-affectent-286409",
-      "image": "https://images.theconversation.com/files/550941/original/file-20230928-27-ozpk23.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-24T15:42:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "alo74bl",
-      "title": "Vers une consigne pour les bouteilles en plastique ? Face à un problème complexe, gare aux solutions simplistes",
-      "summary": "L’ESSENTIEL Ce que l’on nomme plastique masque une multitude de matériaux et de réalités économiques différentes. Face à ce tableau complexe, la réponse aux pollutions engendrées ne saurait être ni universelle ni, exclusivement, technique. La proposition, au printemps 2026, de mettre en place une consigne pour les bout",
-      "link": "https://theconversation.com/vers-une-consigne-pour-les-bouteilles-en-plastique-face-a-un-probleme-complexe-gare-aux-solutions-simplistes-285960",
-      "image": "https://images.theconversation.com/files/754079/original/file-20260814-50-cd1rlo.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-24T15:39:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awgyx2h",
-      "title": "Entre conflits armés et El Niño, la dangereuse convergence des crises en mer Rouge",
-      "summary": "L’ESSENTIEL La guerre perturbe les routes commerciales de la mer Rouge, renchérissant les importations de céréales, de carburant et d’engrais et menaçant l’approvisionnement régional. El Niño aggrave la situation climatique, avec une sécheresse et des chaleurs extrêmes suivies de possibles inondations, mettant à mal ré",
-      "link": "https://theconversation.com/entre-conflits-armes-et-el-nino-la-dangereuse-convergence-des-crises-en-mer-rouge-290123",
-      "image": "https://counter.theconversation.com/content/290123/count.gif",
-      "publishedAt": "2026-08-24T15:39:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ay61n6v",
-      "title": "Djen Djen : ce qu’un port algérien révèle des mutations des routes maritimes mondiales",
-      "summary": "Vue aérienne du port international de Djen Djen, en Algérie. Le port fait l’objet d’un projet d’extension, afin de devenir une plateforme logistique majeure en Méditerranée. Sandervalya/Wikimédia, CC BY-NC L’ESSENTIEL Le 25 janvier 2026, en Algérie, la première opération de transbordement à l’échelle nationale a été ré",
-      "link": "https://theconversation.com/djen-djen-ce-quun-port-algerien-revele-des-mutations-des-routes-maritimes-mondiales-289933",
-      "image": "https://images.theconversation.com/files/755176/original/file-20260820-50-wkoru8.jpg?ixlib=rb-4.1.1&amp;rect=294%2C0%2C710%2C473&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-24T15:38:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 36,
       "urgencyLevel": "basse"
     }
   ]
