@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T09:40:05.353Z",
+  "generatedAt": "2026-08-28T21:43:52.853Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "avzfad6",
+      "title": "Que pensent vraiment les Israéliens et les Palestiniens ?",
+      "summary": "L’ESSENTIEL Israël organise des législatives le 27 octobre prochain, tandis que Mahmoud Abbas a annoncé l’organisation d’une présidentielle palestinienne pour le début de l’année 2027. D’un côté comme de l’autre, les visions de l’avenir souhaitable des deux sociétés partagent aujourd’hui un grand pessimisme et une méfi",
+      "link": "https://theconversation.com/que-pensent-vraiment-les-israeliens-et-les-palestiniens-290490",
+      "image": "https://images.theconversation.com/files/756238/original/file-20260826-50-fvn12e.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-28T10:42:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "apu8l31",
       "title": "Sophie Vénétitay : « Le bilan d’Emmanuel Macron, ça a été de nous faire travailler plus, pour nous épuiser plus »",
       "summary": "« En 9 ans de rentrées préparées sous la présidence Macron, 10 230 emplois d’enseignant·es ont été supprimés dans le second degré public », indique le Snes-FSU. Mais le sujet principal est L’article Sophie Vénétitay : « Le bilan d’Emmanuel Macron, ça a été de nous faire travailler plus, pour nous épuiser plus » est app",
@@ -133,7 +149,43 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 94,
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajnqfkx",
+      "title": "Première rentrée au collège : qu’est-ce qui inquiète les enfants, et comment les rassurer ?",
+      "summary": "Quitter une petite école primaire de quartier pour un grand collège peut être stressant pour les enfants. Mais se sentir bien préparés les aide à maîtriser leur appréhension. Rawpixel.com/Shutterstock (no reuse) Le passage de l’école primaire au collège peut susciter chez les enfants des émotions très diverses, allant ",
+      "link": "https://theconversation.com/premiere-rentree-au-college-quest-ce-qui-inquiete-les-enfants-et-comment-les-rassurer-290562",
+      "image": "https://images.theconversation.com/files/756216/original/file-20260825-60-srmpfq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4414%2C2942&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-28T10:43:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akxac03",
+      "title": "Handicap, sport et santé : Dimitri Grygowski à la Dgesco",
+      "summary": "Par un arrêté du 27 août 2026, le ministère de l’Éducation nationale annonce la nomination de Dimitri Grygowski comme expert de haut niveau auprès du chef du service de la L’article Handicap, sport et santé : Dimitri Grygowski à la Dgesco est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/08/28/handicap-sport-et-sante-dimitri-grygowski-a-la-dgesco/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/Journal-Officiel-Cafe-pedagogique-2-300x122.gif",
+      "publishedAt": "2026-08-28T03:27:59.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "handicap"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -152,7 +204,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 84,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -168,7 +220,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -184,7 +236,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -200,25 +252,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "akxac03",
-      "title": "Handicap, sport et santé : Dimitri Grygowski à la Dgesco",
-      "summary": "Par un arrêté du 27 août 2026, le ministère de l’Éducation nationale annonce la nomination de Dimitri Grygowski comme expert de haut niveau auprès du chef du service de la L’article Handicap, sport et santé : Dimitri Grygowski à la Dgesco est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/28/handicap-sport-et-sante-dimitri-grygowski-a-la-dgesco/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/Journal-Officiel-Cafe-pedagogique-2-300x122.gif",
-      "publishedAt": "2026-08-28T03:27:59.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "handicap"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -234,7 +268,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -250,8 +284,123 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahpc7ev",
+      "title": "Qu’est-ce qu’un « bon » prof à l’ère de l’IA ?",
+      "summary": "L’ESSENTIEL L’identité des enseignants s’est construite sur la maîtrise de disciplines : maths, histoire, français, sciences… Mais être expert d’un domaine ne suffit pas à bien « faire apprendre » les élèves. Et l’intelligence artificielle change la donne. Or, le système favorise l’étendue des connaissances à transmett",
+      "link": "https://theconversation.com/quest-ce-quun-bon-prof-a-lere-de-lia-288129",
+      "image": "https://counter.theconversation.com/content/288129/count.gif",
+      "publishedAt": "2026-08-28T10:31:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "enseignant"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "arld6j5",
+      "title": "Téléphone au lycée : comment transformer une interdiction en éducation ?",
+      "summary": "Halfpoint L’ESSENTIEL À partir du 1er septembre, téléphones portables et objets connectés seront interdits au lycée, y compris pendant les récréations. Interdire cet objet omniprésent dans la vie des jeunes et se focaliser sur les seuls dangers ne peut suffire à une véritable éducation numérique. Les établissements dev",
+      "link": "https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377",
+      "image": "https://images.theconversation.com/files/755727/original/file-20260824-50-3vlf9n.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7008%2C4672&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-28T10:47:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apjx3k3",
+      "title": "Ceuta : ce qui se joue derrière le récit de la « crise migratoire »",
+      "summary": "L’ESSENTIEL Fin juillet, des dizaines de milliers de personnes ont franchi la frontière entre le Maroc et l’enclave espagnole de Ceuta, 141 d’entre elles en sont mortes. Plutôt que de chercher une cause unique ou des intentions cachées, les sciences sociales décrivent un faisceau de mécanismes à l’œuvre. Il est essenti",
+      "link": "https://theconversation.com/ceuta-ce-qui-se-joue-derriere-le-recit-de-la-crise-migratoire-290080",
+      "image": "https://images.theconversation.com/files/755541/original/file-20260822-50-l9vzd6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-28T10:42:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "af86xon",
+      "title": "Un jet privé peut-il être « vert » ? Ce que dit la justice européenne",
+      "summary": "L’ESSENTIEL Depuis 2020, l’Union européenne dresse une liste des activités économiques considérées comme durables, vers lesquelles elle tâche de diriger les capitaux. C’est la taxonomie verte. Les jets privés ont d’abord été exclus d’office de cette liste. Avant que cette exclusion soit annulée en juin dernier. Ce dern",
+      "link": "https://theconversation.com/un-jet-prive-peut-il-etre-vert-ce-que-dit-la-justice-europeenne-290211",
+      "image": "https://counter.theconversation.com/content/290211/count.gif",
+      "publishedAt": "2026-08-28T10:40:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ad7mwiz",
+      "title": "Lufthansa contre Air France-KLM : le grand duel du ciel européen pour acquérir TAP Air Portugal",
+      "summary": "L’ESSENTIEL Lufthansa et Air France-KLM ont déposé, chacun, une offre d’achat de la compagnie aérienne portugaise Transportes Aéreos Portugueses, TAP. Cette actualité illustre la philosophie de la concurrence au sein de l’Union européenne. Les deux paramètres à regarder de près : concentration du marché et résilience d",
+      "link": "https://theconversation.com/lufthansa-contre-air-france-klm-le-grand-duel-du-ciel-europeen-pour-acquerir-tap-air-portugal-283729",
+      "image": "https://images.theconversation.com/files/751961/original/file-20260804-50-jvrvw6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-28T10:39:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aho5a6p",
+      "title": "De la télé au portable, comment nos corps se sont progressivement rapprochés des écrans",
+      "summary": "Sur un banc madrilène. Ana Hidalgo Burgos/Pexels, CC BY L’ESSENTIEL Face aux technologies successives, nous adoptons des gestes qui deviennent des automatismes : zapper, cliquer, scroller. Ces gestes nous engagent bien au-delà de ce que nous imaginons, en nous donnant une impression de contrôle. Mais ils n’ont pas tous",
+      "link": "https://theconversation.com/de-la-tele-au-portable-comment-nos-corps-se-sont-progressivement-rapproches-des-ecrans-288742",
+      "image": "https://images.theconversation.com/files/753667/original/file-20260812-50-yxn6ch.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5112%2C3407&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-28T10:34:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a70733o",
+      "title": "Faut-il réduire les aides publiques à l’innovation ? Ou revoir la philosophie de leur distribution ?",
+      "summary": "L’ESSENTIEL L’efficacité du crédit impôt recherche n’a pas été faite. C’est pourtant le dispositif le plus généreux des aides fiscales des pays de l’OCDE. La politique de soutien à l’innovation cherche de nouvelles voies, avec notamment le projet de développer une « Darpa à la française ». Une étude réalisée auprès d’i",
+      "link": "https://theconversation.com/faut-il-reduire-les-aides-publiques-a-linnovation-ou-revoir-la-philosophie-de-leur-distribution-284453",
+      "image": "https://counter.theconversation.com/content/284453/count.gif",
+      "publishedAt": "2026-08-28T10:32:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akwemdt",
@@ -270,8 +419,8 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1k50oq",
@@ -288,8 +437,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arba5s",
@@ -306,8 +455,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arlhns",
@@ -322,7 +471,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,7 +487,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +503,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,7 +519,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -386,7 +535,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,7 +551,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -420,7 +569,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,8 +587,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aujz0a",
@@ -454,8 +603,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aeivq78",
@@ -470,8 +619,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "abo30zz",
@@ -486,8 +635,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aj4mgvb",
@@ -502,27 +651,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aw1qhv4",
-      "title": "Les archives orales, des sources comme les autres ? Comment les témoignages nourrissent le travail des historiens",
-      "summary": "Si les piliers de l’histoire orale ont été posés dès 1921 par Marc Bloch, les sources orales ont mis près d’un siècle à être admises comme telles en histoire. Pourquoi tant de précautions ? Retour sur cette longue évolution alors que l’intelligence artificielle bouleverse le travail des archives. La consécration républ",
-      "link": "https://theconversation.com/les-archives-orales-des-sources-comme-les-autres-comment-les-temoignages-nourrissent-le-travail-des-historiens-287747",
-      "image": "https://counter.theconversation.com/content/287747/count.gif",
-      "publishedAt": "2026-08-26T10:27:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle",
-        "source"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aqc4sm7",
@@ -537,8 +667,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 34,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1866qq",
@@ -553,8 +683,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 34,
+      "urgencyLevel": "basse"
     },
     {
       "id": "axx99zy",
@@ -569,137 +699,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a94qupp",
-      "title": "Y a-t-il trop de bois mort dans nos forêts ?",
-      "summary": "L’ESSENTIEL Il y a en moyenne cinq fois plus de bois mort dans les forêts françaises aujourd’hui qu’il y a vingt ans. Le bois mort est souvent accusé de provoquer des fléaux tels que des incendies ou des épidémies. C’est infondé. Le bois mort est, au contraire, fondamental à l’écosystème forestier. C'est même un indica",
-      "link": "https://theconversation.com/y-a-t-il-trop-de-bois-mort-dans-nos-forets-290087",
-      "image": "https://images.theconversation.com/files/754863/original/file-20260819-50-5tapn4.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-25T14:28:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahc14xg",
-      "title": "What has the return-to-office movement taught us? People, not technology help companies get ahead",
-      "summary": "We like to believe that whatever ails a company can be fixed by digitising it. And technology is easy to swap. Rip out the old system, bolt in the new one, declare yourself modern. But a company is not its buildings, its machines, or its software. It is the people in it. Organizations do not change. People change or th",
-      "link": "https://theconversation.com/what-has-the-return-to-office-movement-taught-us-people-not-technology-help-companies-get-ahead-286576",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-26T08:13:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "adtqj1w",
-      "title": "Europe recycles just 12% of the materials it\nuses. Here’s how training can accelerate the transition to a circular economy",
-      "summary": "Since January 2024, ten organisations in four European countries have been working on the following question: If Europe is serious about circular economy, who is actually going to teach people how to run one? Become, short for Boosting Circular Economy Expertise through learning communities, is a project that was desig",
-      "link": "https://theconversation.com/europe-recycles-just-12-of-the-materials-it-uses-heres-how-training-can-accelerate-the-transition-to-a-circular-economy-288822",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-26T08:11:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "av59fwa",
-      "title": "Left-handed people tend to be left-leaning voters",
-      "summary": "Political preferences are generally explained by income, age and level of education. However, our research suggests that a far more unexpected trait may also have a hand in how we vote. A survey carried out in 18 western countries has shown that left-handed people tend to identify more strongly with the political left.",
-      "link": "https://theconversation.com/left-handed-people-tend-to-be-left-leaning-voters-286274",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-08-25T09:59:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avkyfx",
-      "title": "Pourquoi le RN revendique l’héritage gaulliste",
-      "summary": "L’ESSENTIEL Le Rassemblement national tente de capter l’héritage gaulliste, alors que son ancêtre, le Front national, est lié à des partisans de Vichy et de l’Algérie française. Le projet de référendum constitutionnel du RN épouse la posture gaullienne de refondation sociopolitique de la France. L’image du gaullisme s’",
-      "link": "https://theconversation.com/pourquoi-le-rn-revendique-lheritage-gaulliste-289993",
-      "image": "https://counter.theconversation.com/content/289993/count.gif",
-      "publishedAt": "2026-08-25T14:28:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "addg8mx",
-      "title": "D’ici à 2040, l’Europe a besoin de dix millions de logements « net zéro » neufs ou rénovés. Comment y parvenir ?",
-      "summary": "L’ESSENTIEL Le secteur de l’architecture, de l’ingénierie et de la construction est en pleine révolution avec l’avènement de la politique « zéro émission nette ». Une étude propose quatre scénarios pour le secteur européen de la construction à l’horizon 2040, en combinant besoins en logement, objectifs « net zéro » et ",
-      "link": "https://theconversation.com/dici-a-2040-leurope-a-besoin-de-dix-millions-de-logements-net-zero-neufs-ou-renoves-comment-y-parvenir-284883",
-      "image": "https://counter.theconversation.com/content/284883/count.gif",
-      "publishedAt": "2026-08-25T14:29:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "altygne",
-      "title": "COP17 en Mongolie : la diplomatie de la terre à l’épreuve de la crise du multilatéralisme environnemental",
-      "summary": "L’Amazonie recouvre l’un des principaux foyers de déforestation de la planète. En perturbant le cycle de l’eau et en augmentant les risques de catastrophes naturelles, la destruction des forêts contribue largement au phénomène de désertification. Midia Ninja/Wikimédia, CC BY L’ESSENTIEL La Mongolie accueille en ce mome",
-      "link": "https://theconversation.com/cop17-en-mongolie-la-diplomatie-de-la-terre-a-lepreuve-de-la-crise-du-multilateralisme-environnemental-290199",
-      "image": "https://images.theconversation.com/files/755232/original/file-20260820-50-p8xm2.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1024%2C683&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-25T14:26:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a55xz6o",
-      "title": "Protéger les enfants en mobilité au Mali : l’angle mort des dispositifs actuels",
-      "summary": "Dans une rue de Bamako, en octobre&nbsp:2018. Vincent van Zeijst/Wikimédia, CC BY-NC-SA L’ESSENTIEL Au Mali, il est relativement fréquent que des enfants ayant grandi dans des villages soient envoyés dans les grandes villes, confiés aux bons soins d’adultes plus ou moins proches de leurs parents. Ces enfants ne sont pa",
-      "link": "https://theconversation.com/proteger-les-enfants-en-mobilite-au-mali-langle-mort-des-dispositifs-actuels-289937",
-      "image": "https://images.theconversation.com/files/754660/original/file-20260818-50-idellu.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C54%2C3251%2C2167&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-25T14:26:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 34,
       "urgencyLevel": "basse"
     }
   ]
