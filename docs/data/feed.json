@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T05:44:06.044Z",
+  "generatedAt": "2026-08-29T12:19:33.561Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,25 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "az9i2ps",
+      "title": "Actualité de l’éducation du 24 au 28 août 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine sur le Café pédagogique. Salaires du corps enseignant, bug informatique ou encore déclarations du ministre Edouard L’article Actualité de l’éducation du 24 au 28 août 2026 est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/08/29/actualite-de-leducation-du-24-au-28-aout-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/parions-sur-ecole-300x256.png",
+      "publishedAt": "2026-08-29T03:57:25.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +167,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -167,8 +185,40 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ax2ojct",
+      "title": "Droit de vote des étrangers : pourquoi les socialistes n’ont-ils jamais tenu leur promesse ?",
+      "summary": "L’ESSENTIEL En 1972, le Parti socialiste promet le « droit de vote aux étrangers aux élections locales ». Il y renoncera en 1990. Depuis, cette mesure est régulièrement annoncée, mais jamais mise en œuvre. Comment expliquer le destin de ce projet avorté ? À partir de la fin des années 1980, la pression exercée par la d",
+      "link": "https://theconversation.com/droit-de-vote-des-etrangers-pourquoi-les-socialistes-nont-ils-jamais-tenu-leur-promesse-282812",
+      "image": "https://counter.theconversation.com/content/282812/count.gif",
+      "publishedAt": "2026-08-27T13:43:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "argbe19",
+      "title": "Pourra-t-on un jour refroidir nos maisons en envoyant leur chaleur dans le vide interstellaire ?",
+      "summary": "L’ESSENTIEL Avec les canicules à répétition, la question du refroidissement des bâtiments se pose, en particulier en évitant les méthodes qui aggravent l’effet de serre, le changement climatique et, donc, les pics de chaleur. Le « refroidissement radiatif » est une piste : il s’agit d’exploiter le rayonnement thermique",
+      "link": "https://theconversation.com/pourra-t-on-un-jour-refroidir-nos-maisons-en-envoyant-leur-chaleur-dans-le-vide-interstellaire-290362",
+      "image": "https://images.theconversation.com/files/755940/original/file-20260825-50-sr1qvn.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-27T13:42:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akxac03",
@@ -185,7 +235,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -204,39 +254,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ax2ojct",
-      "title": "Droit de vote des étrangers : pourquoi les socialistes n’ont-ils jamais tenu leur promesse ?",
-      "summary": "L’ESSENTIEL En 1972, le Parti socialiste promet le « droit de vote aux étrangers aux élections locales ». Il y renoncera en 1990. Depuis, cette mesure est régulièrement annoncée, mais jamais mise en œuvre. Comment expliquer le destin de ce projet avorté ? À partir de la fin des années 1980, la pression exercée par la d",
-      "link": "https://theconversation.com/droit-de-vote-des-etrangers-pourquoi-les-socialistes-nont-ils-jamais-tenu-leur-promesse-282812",
-      "image": "https://counter.theconversation.com/content/282812/count.gif",
-      "publishedAt": "2026-08-27T13:43:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "argbe19",
-      "title": "Pourra-t-on un jour refroidir nos maisons en envoyant leur chaleur dans le vide interstellaire ?",
-      "summary": "L’ESSENTIEL Avec les canicules à répétition, la question du refroidissement des bâtiments se pose, en particulier en évitant les méthodes qui aggravent l’effet de serre, le changement climatique et, donc, les pics de chaleur. Le « refroidissement radiatif » est une piste : il s’agit d’exploiter le rayonnement thermique",
-      "link": "https://theconversation.com/pourra-t-on-un-jour-refroidir-nos-maisons-en-envoyant-leur-chaleur-dans-le-vide-interstellaire-290362",
-      "image": "https://images.theconversation.com/files/755940/original/file-20260825-50-sr1qvn.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-27T13:42:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -252,7 +270,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -268,7 +286,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -284,7 +302,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "arld6j5",
+      "title": "Téléphone au lycée : comment transformer une interdiction en éducation ?",
+      "summary": "Halfpoint L’ESSENTIEL À partir du 1er septembre, téléphones portables et objets connectés seront interdits au lycée, y compris pendant les récréations. Interdire cet objet omniprésent dans la vie des jeunes et se focaliser sur les seuls dangers ne peut suffire à une véritable éducation numérique. Les établissements dev",
+      "link": "https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377",
+      "image": "https://images.theconversation.com/files/755727/original/file-20260824-50-3vlf9n.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7008%2C4672&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-28T10:47:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -303,23 +337,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arld6j5",
-      "title": "Téléphone au lycée : comment transformer une interdiction en éducation ?",
-      "summary": "Halfpoint L’ESSENTIEL À partir du 1er septembre, téléphones portables et objets connectés seront interdits au lycée, y compris pendant les récréations. Interdire cet objet omniprésent dans la vie des jeunes et se focaliser sur les seuls dangers ne peut suffire à une véritable éducation numérique. Les établissements dev",
-      "link": "https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377",
-      "image": "https://images.theconversation.com/files/755727/original/file-20260824-50-3vlf9n.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7008%2C4672&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-28T10:47:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +353,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +369,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +385,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +401,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,7 +417,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -419,7 +437,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -437,7 +455,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -455,7 +473,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -471,7 +489,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -487,7 +505,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -503,7 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -519,7 +537,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -535,8 +553,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ak6676r",
@@ -551,24 +569,6 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amliwcf",
-      "title": "0,3 % des personnels confiants face à l’avenir de l’École",
-      "summary": "Un tableau noir. C’est le constat dressé par le SE-UNSA à partir de son Baromètre UNSA Éducation 2026 auprès de 42 000 personnels. Et un chiffre vertigineux : 0,3 % L’article 0,3 % des personnels confiants face à l’avenir de l’École est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/08/27/03-des-personnels-confiants-des-personnels-face-a-lavenir-de-lecole/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/IMG_4406-1-e1787759872640-300x175.jpeg",
-      "publishedAt": "2026-08-27T04:00:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
       "urgency": 39,
       "urgencyLevel": "basse"
     },
@@ -587,7 +587,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -603,7 +603,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -619,7 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -635,7 +635,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -651,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -667,7 +667,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +683,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -699,7 +699,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     }
   ]
