@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T03:46:23.375Z",
+  "generatedAt": "2026-08-30T11:18:23.902Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 89,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -203,7 +203,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -219,7 +219,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,7 +235,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -253,7 +253,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -272,7 +272,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -288,7 +288,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +304,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,23 +320,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "arld6j5",
-      "title": "Téléphone au lycée : comment transformer une interdiction en éducation ?",
-      "summary": "Halfpoint L’ESSENTIEL À partir du 1er septembre, téléphones portables et objets connectés seront interdits au lycée, y compris pendant les récréations. Interdire cet objet omniprésent dans la vie des jeunes et se focaliser sur les seuls dangers ne peut suffire à une véritable éducation numérique. Les établissements dev",
-      "link": "https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377",
-      "image": "https://images.theconversation.com/files/755727/original/file-20260824-50-3vlf9n.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7008%2C4672&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-28T10:47:04.000Z",
+      "id": "arlhns",
+      "title": "Les entreprises qui veulent revenir sur le télétravail jouent-elles contre leur camp ?",
+      "summary": "L’ESSENTIEL Ubisoft, Deloitte et d’autres ont annoncé ces derniers mois vouloir revenir sur le télétravail tel qu’il était pratiqué jusque-là. Simultanément, il est mobilisé comme solution en cas de fortes chaleurs ou de menaces sur la sécurité. Côté salariés, un retour en arrière produirait une vague de mécontentement",
+      "link": "https://theconversation.com/les-entreprises-qui-veulent-revenir-sur-le-teletravail-jouent-elles-contre-leur-camp-288025",
+      "image": "https://counter.theconversation.com/content/288025/count.gif",
+      "publishedAt": "2026-08-26T13:28:29.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -355,7 +355,23 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "arld6j5",
+      "title": "Téléphone au lycée : comment transformer une interdiction en éducation ?",
+      "summary": "Halfpoint L’ESSENTIEL À partir du 1er septembre, téléphones portables et objets connectés seront interdits au lycée, y compris pendant les récréations. Interdire cet objet omniprésent dans la vie des jeunes et se focaliser sur les seuls dangers ne peut suffire à une véritable éducation numérique. Les établissements dev",
+      "link": "https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377",
+      "image": "https://images.theconversation.com/files/755727/original/file-20260824-50-3vlf9n.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7008%2C4672&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-28T10:47:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,7 +387,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -387,7 +403,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -403,7 +419,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -419,7 +435,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -435,23 +451,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arlhns",
-      "title": "Les entreprises qui veulent revenir sur le télétravail jouent-elles contre leur camp ?",
-      "summary": "L’ESSENTIEL Ubisoft, Deloitte et d’autres ont annoncé ces derniers mois vouloir revenir sur le télétravail tel qu’il était pratiqué jusque-là. Simultanément, il est mobilisé comme solution en cas de fortes chaleurs ou de menaces sur la sécurité. Côté salariés, un retour en arrière produirait une vague de mécontentement",
-      "link": "https://theconversation.com/les-entreprises-qui-veulent-revenir-sur-le-teletravail-jouent-elles-contre-leur-camp-288025",
-      "image": "https://counter.theconversation.com/content/288025/count.gif",
-      "publishedAt": "2026-08-26T13:28:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -471,8 +471,8 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1k50oq",
@@ -489,55 +489,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aaphddq",
-      "title": "France, première destination touristique mondiale : des retombées inégalement réparties dans la restauration",
-      "summary": "L’ESSENTIEL En 2025, plus de 100 millions de touristes ont été accueillis en France. Les répercussions économiques sur le secteur de la restauration sont importantes, mais tous les types de restaurants n’en profitent pas de la même façon. Cette mondialisation de la clientèle a bouleversé l’économie de la recommandation",
-      "link": "https://theconversation.com/france-premiere-destination-touristique-mondiale-des-retombees-inegalement-reparties-dans-la-restauration-288730",
-      "image": "https://counter.theconversation.com/content/288730/count.gif",
-      "publishedAt": "2026-08-27T13:41:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "andsodm",
-      "title": "Quand la polarisation internationale s’invite dans la présidentielle brésilienne",
-      "summary": "L’ESSENTIEL La présidentielle brésilienne, en octobre prochain, se jouera sans aucun doute entre le sortant Lula (centre gauche), en lice pour un dernier mandat, et Flávio Bolsonaro, fils de Jair et, comme ce dernier, représentant de la droite dure. Ce duel est suivi avec la plus grande attention dans de nombreux pays ",
-      "link": "https://theconversation.com/quand-la-polarisation-internationale-sinvite-dans-la-presidentielle-bresilienne-289957",
-      "image": "https://images.theconversation.com/files/755006/original/file-20260819-50-ojnsxl.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-27T13:40:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agt2ebg",
-      "title": "Internet, réseaux mobiles : nos télécommunications sont-elles à bout ?",
-      "summary": "Au fil des décennies, nos réseaux de communications se sont toujours plus complexifiés afin de monter en puissance. Mais ce chemin ne sera pas viable éternellement. Allons-nous bientôt devoir changer d’approche ? Pendant des décennies, ingénieurs et chercheurs en télécommunications ont poursuivi un seul objectif : tran",
-      "link": "https://theconversation.com/internet-reseaux-mobiles-nos-telecommunications-sont-elles-a-bout-289586",
-      "image": "https://counter.theconversation.com/content/289586/count.gif",
-      "publishedAt": "2026-08-27T13:39:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -553,7 +505,55 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aaphddq",
+      "title": "France, première destination touristique mondiale : des retombées inégalement réparties dans la restauration",
+      "summary": "L’ESSENTIEL En 2025, plus de 100 millions de touristes ont été accueillis en France. Les répercussions économiques sur le secteur de la restauration sont importantes, mais tous les types de restaurants n’en profitent pas de la même façon. Cette mondialisation de la clientèle a bouleversé l’économie de la recommandation",
+      "link": "https://theconversation.com/france-premiere-destination-touristique-mondiale-des-retombees-inegalement-reparties-dans-la-restauration-288730",
+      "image": "https://counter.theconversation.com/content/288730/count.gif",
+      "publishedAt": "2026-08-27T13:41:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "andsodm",
+      "title": "Quand la polarisation internationale s’invite dans la présidentielle brésilienne",
+      "summary": "L’ESSENTIEL La présidentielle brésilienne, en octobre prochain, se jouera sans aucun doute entre le sortant Lula (centre gauche), en lice pour un dernier mandat, et Flávio Bolsonaro, fils de Jair et, comme ce dernier, représentant de la droite dure. Ce duel est suivi avec la plus grande attention dans de nombreux pays ",
+      "link": "https://theconversation.com/quand-la-polarisation-internationale-sinvite-dans-la-presidentielle-bresilienne-289957",
+      "image": "https://images.theconversation.com/files/755006/original/file-20260819-50-ojnsxl.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-27T13:40:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agt2ebg",
+      "title": "Internet, réseaux mobiles : nos télécommunications sont-elles à bout ?",
+      "summary": "Au fil des décennies, nos réseaux de communications se sont toujours plus complexifiés afin de monter en puissance. Mais ce chemin ne sera pas viable éternellement. Allons-nous bientôt devoir changer d’approche ? Pendant des décennies, ingénieurs et chercheurs en télécommunications ont poursuivi un seul objectif : tran",
+      "link": "https://theconversation.com/internet-reseaux-mobiles-nos-telecommunications-sont-elles-a-bout-289586",
+      "image": "https://counter.theconversation.com/content/289586/count.gif",
+      "publishedAt": "2026-08-27T13:39:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -569,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -603,7 +603,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -619,7 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -635,7 +635,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -651,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -667,7 +667,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +683,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -699,7 +699,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     }
   ]
