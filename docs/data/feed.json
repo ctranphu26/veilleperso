@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T20:26:37.646Z",
+  "generatedAt": "2026-08-30T03:46:23.375Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,24 @@
   "count": 35,
   "items": [
     {
+      "id": "ad8ns5p",
+      "title": "Comment aborder la rentrée 2026 ? 5 enseignant.es témoignent",
+      "summary": "En cette rentrée scolaire, 5 enseignant.es nous racontent leur façon d’appréhender ce début d’année. Entre lectures de vacances, idées pour l’année et résolution, ces articles donneront surement à penser et L’article Comment aborder la rentrée 2026 ? 5 enseignant.es témoignent est apparu en premier sur Le Café pédagogi",
+      "link": "https://www.cafepedagogique.net/2026/08/30/rentree-2026-ces-5-enseignant-es-nous-temoignent-leurs-idees/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/photo-sarah-225x300.jpeg",
+      "publishedAt": "2026-08-30T03:12:46.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "avzfad6",
       "title": "Que pensent vraiment les Israéliens et les Palestiniens ?",
       "summary": "L’ESSENTIEL Israël organise des législatives le 27 octobre prochain, tandis que Mahmoud Abbas a annoncé l’organisation d’une présidentielle palestinienne pour le début de l’année 2027. D’un côté comme de l’autre, les visions de l’avenir souhaitable des deux sociétés partagent aujourd’hui un grand pessimisme et une méfi",
@@ -131,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -149,7 +167,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +185,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -185,7 +203,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -201,7 +219,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +235,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,7 +253,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -254,7 +272,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +288,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +304,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -302,7 +320,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "arld6j5",
+      "title": "Téléphone au lycée : comment transformer une interdiction en éducation ?",
+      "summary": "Halfpoint L’ESSENTIEL À partir du 1er septembre, téléphones portables et objets connectés seront interdits au lycée, y compris pendant les récréations. Interdire cet objet omniprésent dans la vie des jeunes et se focaliser sur les seuls dangers ne peut suffire à une véritable éducation numérique. Les établissements dev",
+      "link": "https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377",
+      "image": "https://images.theconversation.com/files/755727/original/file-20260824-50-3vlf9n.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7008%2C4672&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-28T10:47:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -321,23 +355,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arld6j5",
-      "title": "Téléphone au lycée : comment transformer une interdiction en éducation ?",
-      "summary": "Halfpoint L’ESSENTIEL À partir du 1er septembre, téléphones portables et objets connectés seront interdits au lycée, y compris pendant les récréations. Interdire cet objet omniprésent dans la vie des jeunes et se focaliser sur les seuls dangers ne peut suffire à une véritable éducation numérique. Les établissements dev",
-      "link": "https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377",
-      "image": "https://images.theconversation.com/files/755727/original/file-20260824-50-3vlf9n.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7008%2C4672&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-28T10:47:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -353,7 +371,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,7 +387,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -385,7 +403,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -401,7 +419,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -417,7 +435,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +451,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -453,7 +471,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -471,25 +489,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arba5s",
-      "title": "BFI : cinq œuvres australiennes au programme du bac 2028 et 2029",
-      "summary": "Le Bulletin officiel du 27 août fixe le nouveau programme littéraire de l’enseignement d’approfondissement culturel et linguistique en anglais australien du Baccalauréat français international. Il concernera les épreuves spécifiques des L’article BFI : cinq œuvres australiennes au programme du bac 2028 et 2029 est appa",
-      "link": "https://www.cafepedagogique.net/2026/08/28/bfi-cinq-oeuvres-australiennes-au-programme-du-bac-2028-et-2029/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/81KdTB5E3sL._AC_UF10001000_QL80_-196x300.jpg",
-      "publishedAt": "2026-08-28T03:27:54.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -505,7 +505,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -521,7 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -537,7 +537,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -553,7 +553,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -569,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -603,7 +603,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -619,7 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -635,7 +635,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -651,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -667,7 +667,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +683,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -699,7 +699,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 22,
       "urgencyLevel": "basse"
     }
   ]
