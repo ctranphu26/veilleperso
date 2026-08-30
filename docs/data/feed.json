@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T11:18:23.902Z",
+  "generatedAt": "2026-08-30T16:04:46.489Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -185,7 +185,39 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ax2ojct",
+      "title": "Droit de vote des étrangers : pourquoi les socialistes n’ont-ils jamais tenu leur promesse ?",
+      "summary": "L’ESSENTIEL En 1972, le Parti socialiste promet le « droit de vote aux étrangers aux élections locales ». Il y renoncera en 1990. Depuis, cette mesure est régulièrement annoncée, mais jamais mise en œuvre. Comment expliquer le destin de ce projet avorté ? À partir de la fin des années 1980, la pression exercée par la d",
+      "link": "https://theconversation.com/droit-de-vote-des-etrangers-pourquoi-les-socialistes-nont-ils-jamais-tenu-leur-promesse-282812",
+      "image": "https://counter.theconversation.com/content/282812/count.gif",
+      "publishedAt": "2026-08-27T13:43:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "argbe19",
+      "title": "Pourra-t-on un jour refroidir nos maisons en envoyant leur chaleur dans le vide interstellaire ?",
+      "summary": "L’ESSENTIEL Avec les canicules à répétition, la question du refroidissement des bâtiments se pose, en particulier en évitant les méthodes qui aggravent l’effet de serre, le changement climatique et, donc, les pics de chaleur. Le « refroidissement radiatif » est une piste : il s’agit d’exploiter le rayonnement thermique",
+      "link": "https://theconversation.com/pourra-t-on-un-jour-refroidir-nos-maisons-en-envoyant-leur-chaleur-dans-le-vide-interstellaire-290362",
+      "image": "https://images.theconversation.com/files/755940/original/file-20260825-50-sr1qvn.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-27T13:42:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -203,39 +235,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ax2ojct",
-      "title": "Droit de vote des étrangers : pourquoi les socialistes n’ont-ils jamais tenu leur promesse ?",
-      "summary": "L’ESSENTIEL En 1972, le Parti socialiste promet le « droit de vote aux étrangers aux élections locales ». Il y renoncera en 1990. Depuis, cette mesure est régulièrement annoncée, mais jamais mise en œuvre. Comment expliquer le destin de ce projet avorté ? À partir de la fin des années 1980, la pression exercée par la d",
-      "link": "https://theconversation.com/droit-de-vote-des-etrangers-pourquoi-les-socialistes-nont-ils-jamais-tenu-leur-promesse-282812",
-      "image": "https://counter.theconversation.com/content/282812/count.gif",
-      "publishedAt": "2026-08-27T13:43:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "argbe19",
-      "title": "Pourra-t-on un jour refroidir nos maisons en envoyant leur chaleur dans le vide interstellaire ?",
-      "summary": "L’ESSENTIEL Avec les canicules à répétition, la question du refroidissement des bâtiments se pose, en particulier en évitant les méthodes qui aggravent l’effet de serre, le changement climatique et, donc, les pics de chaleur. Le « refroidissement radiatif » est une piste : il s’agit d’exploiter le rayonnement thermique",
-      "link": "https://theconversation.com/pourra-t-on-un-jour-refroidir-nos-maisons-en-envoyant-leur-chaleur-dans-le-vide-interstellaire-290362",
-      "image": "https://images.theconversation.com/files/755940/original/file-20260825-50-sr1qvn.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-27T13:42:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -253,7 +253,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -272,7 +272,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -288,7 +288,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +304,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +320,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -355,8 +355,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "arld6j5",
@@ -371,8 +371,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apjx3k3",
@@ -387,8 +387,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "af86xon",
@@ -403,8 +403,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ad7mwiz",
@@ -419,8 +419,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aho5a6p",
@@ -435,8 +435,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a70733o",
@@ -451,8 +451,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akwemdt",
@@ -471,7 +471,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -489,7 +489,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -505,7 +505,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -521,7 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -537,7 +537,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -553,7 +553,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -569,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -603,7 +603,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -619,7 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -635,7 +635,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -651,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -667,7 +667,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +683,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -699,7 +699,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     }
   ]
