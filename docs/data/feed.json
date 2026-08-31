@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T03:48:17.059Z",
+  "generatedAt": "2026-08-31T12:46:01.052Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,72 @@
   "count": 35,
   "items": [
     {
+      "id": "arjeujn",
+      "title": "2 355 enfants à la rue à la veille de la rentrée : une hausse de 22% depuis 2022",
+      "summary": "« Plus un enfant à la rue » : la promesse d’Emmanuel Macron pour 2027 est loin d’être tenue. La rentrée 2026 est marquée par un nombre record d’enfants sans abri. L’article 2 355 enfants à la rue à la veille de la rentrée : une hausse de 22% depuis 2022 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/08/31/2-355-enfants-a-la-rue-a-la-veille-de-la-rentree-une-hausse-de-22-depuis-2022/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/une-enfantrue-300x181.png",
+      "publishedAt": "2026-08-31T04:00:52.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 91,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ai50fgx",
+      "title": "Pourquoi les modèles théoriques expliquent mal les décisions des start-up",
+      "summary": "L’ESSENTIEL La plupart des entrepreneurs évoluent dans une incertitude totale, et non dans un risque mesurable. Les outils classiques de décision supposent que l’on peut connaître des probabilités. C’est rarement le cas pour les fondateurs de start-up. Il est possible d’apprendre à mieux décider – grâce aux retours d’i",
+      "link": "https://theconversation.com/pourquoi-les-modeles-theoriques-expliquent-mal-les-decisions-des-start-up-285175",
+      "image": "https://counter.theconversation.com/content/285175/count.gif",
+      "publishedAt": "2026-08-31T09:14:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ak9p4ek",
+      "title": "Edito : « Faire et penser l’École, au Café pédagogique, c’est tous les jours »",
+      "summary": "Chère lectrice, cher lecteur du Café pédagogique, C’est la rentrée scolaire, mais aussi la rentrée politique. À l’approche des élections, les promesses, intox, fausses bonnes idées ou vraies mauvaises L’article Edito : « Faire et penser l’École, au Café pédagogique, c’est tous les jours » est apparu en premier sur Le C",
+      "link": "https://www.cafepedagogique.net/2026/08/31/edito-faire-et-penser-lecole-au-cafe-pedagogique-cest-tous-les-jours/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Djehanne-Gani-Cafe-pedagogique-225x300.jpeg",
+      "publishedAt": "2026-08-31T04:05:02.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afnn5p0",
+      "title": "Le piratage des fichiers de l’éducation nationale : quelles conséquences ?",
+      "summary": "Après la cyberattaque estivale, c’est une rentrée désorganisée dans les académies. Le piratage est aussi l’occasion d’interroger les système. « Globalement la fragilité des applications informatiques aussi bien administratives, organisationnelles et L’article Le piratage des fichiers de l’éducation nationale : quelles ",
+      "link": "https://www.cafepedagogique.net/2026/08/31/le-piratage-des-fichiers-de-leducation-nationale-quelles-consequences/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-08-31T03:55:47.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aga5qhh",
       "title": "Les conseils de rentrée pour les enseignant·es débutant·es, des pires aux meilleurs !",
       "summary": "« Ne souris pas avant les vacances de la Toussaint ! », « Vous n’êtes pas là pour aimer les élèves », « Prends du plaisir à faire classe ». L’article Les conseils de rentrée pour les enseignant·es débutant·es, des pires aux meilleurs ! est apparu en premier sur Le Café pédagogique.",
@@ -135,7 +201,75 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 90,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a4b7so2",
+      "title": "Soutenez-nous et recevez ce livre en cadeau",
+      "summary": "La Rédaction du Café pédagogique espère que vous avez passé des vacances, ressourçantes et rafraichissantes. En cette rentrée 2026, on se retrouve sous le signe du collectif avec la publication L’article Soutenez-nous et recevez ce livre en cadeau est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/08/31/soutenez-nous-et-recevez-ce-livre-en-cadeau/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/breve-198x300.png",
+      "publishedAt": "2026-08-31T03:45:27.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1klmfq",
+      "title": "L’apport du Triple Bottom Line et de l’implication des consommateurs dans les choix alimentaires à l’ère du numérique",
+      "summary": "Au prisme du Triple Bottom Line, ou TBL, qui articule les dimensions environnementale, sociale et économique de la durabilité, cette étude montre comment les réseaux sociaux influencent les choix responsables de la restauration. Les résultats soulignent le potentiel des réseaux sociaux pour accélérer la transition vers",
+      "link": "https://theconversation.com/lapport-du-triple-bottom-line-et-de-limplication-des-consommateurs-dans-les-choix-alimentaires-a-lere-du-numerique-286196",
+      "image": "https://counter.theconversation.com/content/286196/count.gif",
+      "publishedAt": "2026-08-31T09:17:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axlbnaz",
+      "title": "Managers : à quel moment avez-vous commencé à désirer votre propre collier ?",
+      "summary": "L’ESSENTIEL Au travail, le contrôle n’a pas disparu, il a changé de camp. Une étude met en lumière le principe d’autodomestication des managers. Ce faisant, les managers en viennent à anticiper ce qu’on attend d’eux, puis à se surveiller et à se corriger eux-mêmes. Il est 8 h 45. Personne ne vous a rien demandé, et vou",
+      "link": "https://theconversation.com/managers-a-quel-moment-avez-vous-commence-a-desirer-votre-propre-collier-286717",
+      "image": "https://counter.theconversation.com/content/286717/count.gif",
+      "publishedAt": "2026-08-31T09:12:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "anc86e",
+      "title": "Réseaux sociaux : quand l’État contraint les jeunes plutôt que les plateformes",
+      "summary": "L’ESSENTIEL Sous l’impulsion d’Emmanuel Macron, l’État a multiplié les contraintes sur les jeunes utilisateurs de réseaux, mais la régulation des plateformes reste faible. En censurant la loi sur l’interdiction des réseaux aux moins de 15 ans, le Conseil constitutionnel a reconnu une contrainte excessive sur les usager",
+      "link": "https://theconversation.com/reseaux-sociaux-quand-letat-contraint-les-jeunes-plutot-que-les-plateformes-290383",
+      "image": "https://counter.theconversation.com/content/290383/count.gif",
+      "publishedAt": "2026-08-30T17:18:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -155,7 +289,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -174,7 +308,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -193,7 +327,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -212,7 +346,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -228,44 +362,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
-    },
-    {
-      "id": "anc86e",
-      "title": "Réseaux sociaux : quand l’État contraint les jeunes plutôt que les plateformes",
-      "summary": "L’ESSENTIEL Sous l’impulsion d’Emmanuel Macron, l’État a multiplié les contraintes sur les jeunes utilisateurs de réseaux mais la régulation des plateformes reste faible. En censurant la loi sur l’interdiction des réseaux aux moins de 15 ans, le Conseil constitutionnel a reconnu une contrainte excessive sur les usagers",
-      "link": "https://theconversation.com/reseaux-sociaux-quand-letat-contraint-les-jeunes-plutot-que-les-plateformes-290383",
-      "image": "https://counter.theconversation.com/content/290383/count.gif",
-      "publishedAt": "2026-08-30T17:18:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 79,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ad8ns5p",
-      "title": "Comment aborder la rentrée 2026 ? 5 enseignant.es témoignent",
-      "summary": "En cette rentrée scolaire, 5 enseignant.es nous racontent leur façon d’appréhender ce début d’année. Entre lectures de vacances, idées pour l’année et résolution, ces articles donneront surement à penser et L’article Comment aborder la rentrée 2026 ? 5 enseignant.es témoignent est apparu en premier sur Le Café pédagogi",
-      "link": "https://www.cafepedagogique.net/2026/08/30/rentree-2026-ces-5-enseignant-es-nous-temoignent-leurs-idees/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/photo-sarah-225x300.jpeg",
-      "publishedAt": "2026-08-30T03:12:46.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
     },
     {
       "id": "avzfad6",
@@ -280,25 +378,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apu8l31",
-      "title": "Sophie Vénétitay : « Le bilan d’Emmanuel Macron, ça a été de nous faire travailler plus, pour nous épuiser plus »",
-      "summary": "« En 9 ans de rentrées préparées sous la présidence Macron, 10 230 emplois d’enseignant·es ont été supprimés dans le second degré public », indique le Snes-FSU. Mais le sujet principal est L’article Sophie Vénétitay : « Le bilan d’Emmanuel Macron, ça a été de nous faire travailler plus, pour nous épuiser plus » est app",
-      "link": "https://www.cafepedagogique.net/2026/08/28/sophie-venetitay-le-bilan-demmanuel-macron-ca-a-ete-de-nous-faire-travailler-plus-pour-nous-epuiser-plus/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-27-at-10.16.39-AM-300x225.jpeg",
-      "publishedAt": "2026-08-28T04:01:10.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -314,7 +394,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -330,7 +410,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -348,41 +428,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "az9i2ps",
-      "title": "Actualité de l’éducation du 24 au 28 août 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine sur le Café pédagogique. Salaires du corps enseignant, bug informatique ou encore déclarations du ministre Edouard L’article Actualité de l’éducation du 24 au 28 août 2026 est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/08/29/actualite-de-leducation-du-24-au-28-aout-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/parions-sur-ecole-300x256.png",
-      "publishedAt": "2026-08-29T03:57:25.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axsdg3v",
-      "title": "Réseau informatique : une pré-rentrée chaotique pour beaucoup d’établissements",
-      "summary": "À quelques jours de la rentrée, l’Éducation nationale tourne encore en « mode dégradé ». Messageries bloquées, pas d’impressions, applications inaccessibles, affectations retardées, dossiers traités à la main : de L’article Réseau informatique : une pré-rentrée chaotique pour beaucoup d’établissements est apparu en pre",
-      "link": "https://www.cafepedagogique.net/2026/08/28/reseau-informatique-une-pre-rentree-chaotique-pour-beaucoup-detablissements/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/101b9bae-9c5d-46c4-84ca-e34a7fc00751-300x200.png",
-      "publishedAt": "2026-08-28T04:02:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 38,
       "urgencyLevel": "basse"
     },
     {
@@ -398,87 +444,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arld6j5",
-      "title": "Téléphone au lycée : comment transformer une interdiction en éducation ?",
-      "summary": "Halfpoint L’ESSENTIEL À partir du 1er septembre, téléphones portables et objets connectés seront interdits au lycée, y compris pendant les récréations. Interdire cet objet omniprésent dans la vie des jeunes et se focaliser sur les seuls dangers ne peut suffire à une véritable éducation numérique. Les établissements dev",
-      "link": "https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377",
-      "image": "https://images.theconversation.com/files/755727/original/file-20260824-50-3vlf9n.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7008%2C4672&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-28T10:47:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apjx3k3",
-      "title": "Ceuta : ce qui se joue derrière le récit de la « crise migratoire »",
-      "summary": "L’ESSENTIEL Fin juillet, des dizaines de milliers de personnes ont franchi la frontière entre le Maroc et l’enclave espagnole de Ceuta, 141 d’entre elles en sont mortes. Plutôt que de chercher une cause unique ou des intentions cachées, les sciences sociales décrivent un faisceau de mécanismes à l’œuvre. Il est essenti",
-      "link": "https://theconversation.com/ceuta-ce-qui-se-joue-derriere-le-recit-de-la-crise-migratoire-290080",
-      "image": "https://images.theconversation.com/files/755541/original/file-20260822-50-l9vzd6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-28T10:42:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "af86xon",
-      "title": "Un jet privé peut-il être « vert » ? Ce que dit la justice européenne",
-      "summary": "L’ESSENTIEL Depuis 2020, l’Union européenne dresse une liste des activités économiques considérées comme durables, vers lesquelles elle tâche de diriger les capitaux. C’est la taxonomie verte. Les jets privés ont d’abord été exclus d’office de cette liste. Avant que cette exclusion soit annulée en juin dernier. Ce dern",
-      "link": "https://theconversation.com/un-jet-prive-peut-il-etre-vert-ce-que-dit-la-justice-europeenne-290211",
-      "image": "https://counter.theconversation.com/content/290211/count.gif",
-      "publishedAt": "2026-08-28T10:40:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ad7mwiz",
-      "title": "Lufthansa contre Air France-KLM : le grand duel du ciel européen pour acquérir TAP Air Portugal",
-      "summary": "L’ESSENTIEL Lufthansa et Air France-KLM ont déposé, chacun, une offre d’achat de la compagnie aérienne portugaise Transportes Aéreos Portugueses, TAP. Cette actualité illustre la philosophie de la concurrence au sein de l’Union européenne. Les deux paramètres à regarder de près : concentration du marché et résilience d",
-      "link": "https://theconversation.com/lufthansa-contre-air-france-klm-le-grand-duel-du-ciel-europeen-pour-acquerir-tap-air-portugal-283729",
-      "image": "https://images.theconversation.com/files/751961/original/file-20260804-50-jvrvw6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-28T10:39:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aho5a6p",
-      "title": "De la télé au portable, comment nos corps se sont progressivement rapprochés des écrans",
-      "summary": "Sur un banc madrilène. Ana Hidalgo Burgos/Pexels, CC BY L’ESSENTIEL Face aux technologies successives, nous adoptons des gestes qui deviennent des automatismes : zapper, cliquer, scroller. Ces gestes nous engagent bien au-delà de ce que nous imaginons, en nous donnant une impression de contrôle. Mais ils n’ont pas tous",
-      "link": "https://theconversation.com/de-la-tele-au-portable-comment-nos-corps-se-sont-progressivement-rapproches-des-ecrans-288742",
-      "image": "https://images.theconversation.com/files/753667/original/file-20260812-50-yxn6ch.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5112%2C3407&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-28T10:34:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -497,13 +463,93 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "arld6j5",
+      "title": "Téléphone au lycée : comment transformer une interdiction en éducation ?",
+      "summary": "À partir du 1er septembre, les téléphones portables seront interdits au lycée. Halfpoint/shutterstock (no reuse) L’ESSENTIEL À partir du 1er septembre, téléphones portables et objets connectés seront interdits au lycée, y compris pendant les récréations. Interdire cet objet omniprésent dans la vie des jeunes et se foca",
+      "link": "https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377",
+      "image": "https://images.theconversation.com/files/755727/original/file-20260824-50-3vlf9n.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7008%2C4672&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-28T10:47:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 28,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "apjx3k3",
+      "title": "Ceuta : ce qui se joue derrière le récit de la « crise migratoire »",
+      "summary": "L’ESSENTIEL Fin juillet, des dizaines de milliers de personnes ont franchi la frontière entre le Maroc et l’enclave espagnole de Ceuta, 141 d’entre elles en sont mortes. Plutôt que de chercher une cause unique ou des intentions cachées, les sciences sociales décrivent un faisceau de mécanismes à l’œuvre. Il est essenti",
+      "link": "https://theconversation.com/ceuta-ce-qui-se-joue-derriere-le-recit-de-la-crise-migratoire-290080",
+      "image": "https://images.theconversation.com/files/755541/original/file-20260822-50-l9vzd6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-28T10:42:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 28,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "af86xon",
+      "title": "Un jet privé peut-il être « vert » ? Ce que dit la justice européenne",
+      "summary": "L’ESSENTIEL Depuis 2020, l’Union européenne dresse une liste des activités économiques considérées comme durables, vers lesquelles elle tâche de diriger les capitaux. C’est la taxonomie verte. Les jets privés ont d’abord été exclus d’office de cette liste. Avant que cette exclusion soit annulée en juin dernier. Ce dern",
+      "link": "https://theconversation.com/un-jet-prive-peut-il-etre-vert-ce-que-dit-la-justice-europeenne-290211",
+      "image": "https://counter.theconversation.com/content/290211/count.gif",
+      "publishedAt": "2026-08-28T10:40:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 28,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ad7mwiz",
+      "title": "Lufthansa contre Air France-KLM : le grand duel du ciel européen pour acquérir TAP Air Portugal",
+      "summary": "L’ESSENTIEL Lufthansa et Air France-KLM ont déposé, chacun, une offre d’achat de la compagnie aérienne portugaise Transportes Aéreos Portugueses, TAP. Cette actualité illustre la philosophie de la concurrence au sein de l’Union européenne. Les deux paramètres à regarder de près : concentration du marché et résilience d",
+      "link": "https://theconversation.com/lufthansa-contre-air-france-klm-le-grand-duel-du-ciel-europeen-pour-acquerir-tap-air-portugal-283729",
+      "image": "https://images.theconversation.com/files/751961/original/file-20260804-50-jvrvw6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-28T10:39:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 28,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aho5a6p",
+      "title": "De la télé au portable, comment nos corps se sont progressivement rapprochés des écrans",
+      "summary": "Sur un banc madrilène. Ana Hidalgo Burgos/Pexels, CC BY L’ESSENTIEL Face aux technologies successives, nous adoptons des gestes qui deviennent des automatismes : zapper, cliquer, scroller. Ces gestes nous engagent bien au-delà de ce que nous imaginons, en nous donnant une impression de contrôle. Mais ils n’ont pas tous",
+      "link": "https://theconversation.com/de-la-tele-au-portable-comment-nos-corps-se-sont-progressivement-rapproches-des-ecrans-288742",
+      "image": "https://images.theconversation.com/files/753667/original/file-20260812-50-yxn6ch.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5112%2C3407&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-28T10:34:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
       "id": "a70733o",
       "title": "Faut-il réduire les aides publiques à l’innovation ? Ou revoir la philosophie de leur distribution ?",
-      "summary": "L’ESSENTIEL L’efficacité du crédit impôt recherche n’a pas été faite. C’est pourtant le dispositif le plus généreux des aides fiscales des pays de l’OCDE. La politique de soutien à l’innovation cherche de nouvelles voies, avec notamment le projet de développer une « Darpa à la française ». Une étude réalisée auprès d’i",
+      "summary": "L’ESSENTIEL L’efficacité du crédit impôt recherche n’a pas été établie. C’est pourtant le dispositif le plus généreux des aides fiscales des pays de l’OCDE. La politique de soutien à l’innovation cherche de nouvelles voies, avec notamment le projet de développer une « Darpa à la française ». Une étude réalisée auprès d",
       "link": "https://theconversation.com/faut-il-reduire-les-aides-publiques-a-linnovation-ou-revoir-la-philosophie-de-leur-distribution-284453",
       "image": "https://counter.theconversation.com/content/284453/count.gif",
       "publishedAt": "2026-08-28T10:32:50.000Z",
@@ -513,7 +559,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -529,7 +575,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -545,7 +591,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -561,7 +607,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -577,7 +623,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -593,7 +639,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -611,7 +657,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -627,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -643,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -659,55 +705,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 16,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aj4mgvb",
-      "title": "Les fuites de données de Bercy et de l’éducation nationale auraient-elles pu être techniquement évitées ?",
-      "summary": "L’ESSENTIEL Le mois d’août a révélé plusieurs attaques informatiques ayant provoqué des fuites de données officielles dans différents services publics et administrations : impôts, cadastre, succession, ministère de l’éducation nationale… La méthode employée par les hackers est tristement simple : ils ont usurpé les ide",
-      "link": "https://theconversation.com/les-fuites-de-donnees-de-bercy-et-de-leducation-nationale-auraient-elles-pu-etre-techniquement-evitees-290489",
-      "image": "https://counter.theconversation.com/content/290489/count.gif",
-      "publishedAt": "2026-08-26T12:40:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 16,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqc4sm7",
-      "title": "Les tornades sont-elles plus fréquentes qu’avant ? Peut-on les prévoir ?",
-      "summary": "Lundi 24 août, le sud-ouest de la France était en vigilance orange pour orage, quand une tornade a frappé le village de Pomas, au sud de Carcassonne, dans l’Aude, faisant plusieurs blessés et touchant des centaines d’habitations. Retour avec Flavio Pons, spécialiste des tornades et chercheur associé au Laboratoire des ",
-      "link": "https://theconversation.com/les-tornades-sont-elles-plus-frequentes-quavant-peut-on-les-prevoir-290474",
-      "image": "https://counter.theconversation.com/content/290474/count.gif",
-      "publishedAt": "2026-08-26T10:32:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 16,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1866qq",
-      "title": "Corsets, crinolines et maquillage au plomb… Quand la mode mettait la vie des femmes en péril",
-      "summary": "La crinoline, aussi encombrante qu’inflammable, fut l’une des tendances vestimentaires les plus dangereuses de l’histoire. Musée Carnavalet - Histoire de Paris Des crinolines qui s’embrasent aux coiffures au radium, l’histoire de la mode est jalonnée de tendances aussi spectaculaires que dangereuses. Certaines ont lais",
-      "link": "https://theconversation.com/corsets-crinolines-et-maquillage-au-plomb-quand-la-mode-mettait-la-vie-des-femmes-en-peril-288942",
-      "image": "https://images.theconversation.com/files/751930/original/file-20260804-60-39dzg3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C40%2C1024%2C682&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-26T10:28:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 14,
       "urgencyLevel": "basse"
     }
   ]
