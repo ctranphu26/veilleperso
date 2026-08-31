@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:46:01.052Z",
+  "generatedAt": "2026-08-31T22:29:08.813Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,42 @@
   "count": 35,
   "items": [
     {
+      "id": "aghyoif",
+      "title": "Comment l’école maternelle s’est mise à évaluer les enfants : retour sur un siècle de transformations",
+      "summary": "L’ESSENTIEL En cette rentrée 2026, un nouveau programme scolaire entre en vigueur en maternelle. Depuis 1977, c’est la huitième fois que les objectifs de cette école sont réécrits : que penser de cette inflation de textes officiels ? Au-delà de ce qu’on apprend à l’école maternelle, ne faut-il pas s’interroger sur le p",
+      "link": "https://theconversation.com/comment-lecole-maternelle-sest-mise-a-evaluer-les-enfants-retour-sur-un-siecle-de-transformations-285793",
+      "image": "https://images.theconversation.com/files/750861/original/file-20260729-71-pvqis5.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-31T14:30:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "formation",
+        "programme scolaire"
+      ],
+      "relevance": 95,
+      "relevanceLevel": "haute",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "acw47s2",
+      "title": "Les « comptes Trump » : les angles morts d’une vaste opération de marketing politique",
+      "summary": "L’ESSENTIEL Créés par la loi budgétaire de 2025, les « comptes Trump » permettent à tous les Américains de moins de 18 ans d’investir jusqu’à 5 000 dollars par an jusqu’à l’année précédant leur majorité pour se constituer un patrimoine. Cette mesure, présentée comme universelle, favorisera en réalité les familles les p",
+      "link": "https://theconversation.com/les-comptes-trump-les-angles-morts-dune-vaste-operation-de-marketing-politique-290456",
+      "image": "https://images.theconversation.com/files/756003/original/file-20260825-60-nwx30k.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-31T14:28:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "arjeujn",
       "title": "2 355 enfants à la rue à la veille de la rentrée : une hausse de 22% depuis 2022",
       "summary": "« Plus un enfant à la rue » : la promesse d’Emmanuel Macron pour 2027 est loin d’être tenue. La rentrée 2026 est marquée par un nombre record d’enfants sans abri. L’article 2 355 enfants à la rue à la veille de la rentrée : une hausse de 22% depuis 2022 est apparu en premier sur Le Café pédagogique.",
@@ -131,7 +167,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 91,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +183,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agrxo98",
+      "title": "How the Trump Administration’s ICC sanctions reveal the power of international law",
+      "summary": "KEY TAKEAWAYS In July 2026, US Secretary of State Marco Rubio affirmed his intention to dismantle the International Criminal court. The offensive is part of a series of attacks on international courts, notably through sanctions targeting legal proceedings and the judges and officials involved. While such sanctions are ",
+      "link": "https://theconversation.com/how-the-trump-administrations-icc-sanctions-reveal-the-power-of-international-law-290452",
+      "image": "https://counter.theconversation.com/content/290452/count.gif",
+      "publishedAt": "2026-08-31T16:33:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -165,23 +217,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 81,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "afnn5p0",
-      "title": "Le piratage des fichiers de l’éducation nationale : quelles conséquences ?",
-      "summary": "Après la cyberattaque estivale, c’est une rentrée désorganisée dans les académies. Le piratage est aussi l’occasion d’interroger les système. « Globalement la fragilité des applications informatiques aussi bien administratives, organisationnelles et L’article Le piratage des fichiers de l’éducation nationale : quelles ",
-      "link": "https://www.cafepedagogique.net/2026/08/31/le-piratage-des-fichiers-de-leducation-nationale-quelles-consequences/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
-      "publishedAt": "2026-08-31T03:55:47.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -201,7 +237,125 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a65d75x",
+      "title": "Quand être trop riche devient un handicap pour une entreprise, ou les revers de l’excès de trésorerie",
+      "summary": "On ne prête qu’aux riches, dit-on. Il n’est pas certain que l’adage qui s’applique aux particuliers concerne aussi les entreprises. Une trésorerie trop importante peut être mal interprétée par les actionnaires. Et si l’accumulation d’argent dormant révélait une sorte d’impasse stratégique… « Cash is King. » Cette formu",
+      "link": "https://theconversation.com/quand-etre-trop-riche-devient-un-handicap-pour-une-entreprise-ou-les-revers-de-lexces-de-tresorerie-288732",
+      "image": "https://counter.theconversation.com/content/288732/count.gif",
+      "publishedAt": "2026-08-31T14:32:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "handicap"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ah4bsax",
+      "title": "Un algorithme aide les entreprises à définir la stratégie optimale pour recycler et remettre un produit usagé à neuf",
+      "summary": "Dans le secteur des batteries de véhicules électriques, le coût du *remanufacturing* est d’environ 50 % d’une batterie neuve contre 20 % pour le recyclage. Karepastock/Shutterstock (no reuse) La hausse des préoccupations environnementales, des réglementations plus strictes et la pression concurrentielle poussent les en",
+      "link": "https://theconversation.com/un-algorithme-aide-les-entreprises-a-definir-la-strategie-optimale-pour-recycler-et-remettre-un-produit-usage-a-neuf-279825",
+      "image": "https://images.theconversation.com/files/749559/original/file-20260722-57-56ehpp.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6081%2C4054&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-31T14:32:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "algorithme"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a4rw9ap",
+      "title": "Bronzage : pourquoi utiliser le « peptide Barbie » pour foncer sa peau est une mauvaise idée",
+      "summary": "L’ESSENTIEL Sur les réseaux sociaux, certaines publications sur le bronzage vantent les mérites d’un peptide, une courte chaîne d’acides aminés, capable de foncer la peau. Il s’agit d’un usage clandestin et détourné d’un composé pharmaceutique, l’afamélanotide. Cette substance est à l’origine d’effets indésirables, et ",
+      "link": "https://theconversation.com/bronzage-pourquoi-utiliser-le-peptide-barbie-pour-foncer-sa-peau-est-une-mauvaise-idee-290553",
+      "image": "https://counter.theconversation.com/content/290553/count.gif",
+      "publishedAt": "2026-08-31T14:27:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avdlboz",
+      "title": "L’IA a-t-elle vraiment « tué » l’auteur ?",
+      "summary": "Déjà en 1967, Barthes prophétisait la mort de l'auteur. Pixabay, CC BY À chaque nouvelle avancée des intelligences artificielles génératives, la même inquiétude revient. ChatGPT peut être employé pour écrire des romans. Des IA imitent le style de Stephen King ou celui de J. K. Rowling. Elles permettent désormais de pro",
+      "link": "https://theconversation.com/lia-a-t-elle-vraiment-tue-lauteur-287630",
+      "image": "https://images.theconversation.com/files/753687/original/file-20260812-50-axhmqm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-31T14:33:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amxep5u",
+      "title": "Quand les incendies s’éteignent, les sols se transforment",
+      "summary": "L’ESSENTIEL Les feux de forêt n’endommagent pas que les arbres. Les flammes impactent aussi le sol, la vie qu’il abrite tout comme le stock de carbone qu’il détient. L’ampleur des impacts varie selon les températures atteintes et de la capacité de récupération du sol. Le feu a également tendance à diminuer le stock de ",
+      "link": "https://theconversation.com/quand-les-incendies-seteignent-les-sols-se-transforment-290544",
+      "image": "https://images.theconversation.com/files/756264/original/file-20260826-50-ugq7k9.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-31T14:29:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ax5248k",
+      "title": "L’univers magnétique, et la plus grande carte des champs magnétiques cosmiques réalisée à ce jour",
+      "summary": "La nouvelle carte des champs magnétiques qui baignent l’Univers. CSIRO/Alec Thomson et al. (magnetic fields)/Alex Cherney (photo)/Sam Moorfield (composite) Une carte des champs magnétiques cosmiques a été réalisée avec un télescope radio australien, le plus puissant du monde. On ne les voit pas, alors il est parfois di",
+      "link": "https://theconversation.com/lunivers-magnetique-et-la-plus-grande-carte-des-champs-magnetiques-cosmiques-realisee-a-ce-jour-284571",
+      "image": "https://images.theconversation.com/files/739962/original/file-20260602-57-rkuyvr.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C9316%2C6210&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-31T14:27:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afnn5p0",
+      "title": "Le piratage des fichiers de l’éducation nationale : quelles conséquences ?",
+      "summary": "Après la cyberattaque estivale, c’est une rentrée désorganisée dans les académies. Le piratage est aussi l’occasion d’interroger les système. « Globalement la fragilité des applications informatiques aussi bien administratives, organisationnelles et L’article Le piratage des fichiers de l’éducation nationale : quelles ",
+      "link": "https://www.cafepedagogique.net/2026/08/31/le-piratage-des-fichiers-de-leducation-nationale-quelles-consequences/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-08-31T03:55:47.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -217,7 +371,26 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "almdy05",
+      "title": "Ce que les entreprises françaises doivent encore apprendre sur leurs clients, après la disparation du consommateur moyen",
+      "summary": "L’ESSENTIEL La prise en compte de la diversité reste trop souvent cantonnée aux ressources humaines. Pourtant, elle devrait aussi concerner le marketing et les ventes. Le consommateur moyen ne constitue pas un portrait implicite du client moyen. Surtout dans une société où les inégalités progressent.. Le marketing s’il",
+      "link": "https://theconversation.com/ce-que-les-entreprises-francaises-doivent-encore-apprendre-sur-leurs-clients-apres-la-disparation-du-consommateur-moyen-290364",
+      "image": "https://counter.theconversation.com/content/290364/count.gif",
+      "publishedAt": "2026-08-31T13:35:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité",
+        "égalité"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -235,8 +408,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axlbnaz",
@@ -251,8 +424,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anc86e",
@@ -269,8 +442,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abkmiuv",
@@ -289,8 +462,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "au9aduj",
@@ -308,8 +481,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afxd5aq",
@@ -327,8 +500,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ak4yusu",
@@ -346,8 +519,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3ek1i7",
@@ -362,8 +535,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avzfad6",
@@ -378,7 +551,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -394,8 +567,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "argbe19",
@@ -410,8 +583,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ajnqfkx",
@@ -428,23 +601,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arlhns",
-      "title": "Les entreprises qui veulent revenir sur le télétravail jouent-elles contre leur camp ?",
-      "summary": "L’ESSENTIEL Ubisoft, Deloitte et d’autres ont annoncé ces derniers mois vouloir revenir sur le télétravail tel qu’il était pratiqué jusque-là. Simultanément, il est mobilisé comme solution en cas de fortes chaleurs ou de menaces sur la sécurité. Côté salariés, un retour en arrière produirait une vague de mécontentement",
-      "link": "https://theconversation.com/les-entreprises-qui-veulent-revenir-sur-le-teletravail-jouent-elles-contre-leur-camp-288025",
-      "image": "https://counter.theconversation.com/content/288025/count.gif",
-      "publishedAt": "2026-08-26T13:28:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -463,7 +620,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -479,7 +636,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -495,7 +652,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -511,7 +668,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -527,7 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -543,13 +700,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
       "id": "a70733o",
       "title": "Faut-il réduire les aides publiques à l’innovation ? Ou revoir la philosophie de leur distribution ?",
-      "summary": "L’ESSENTIEL L’efficacité du crédit impôt recherche n’a pas été établie. C’est pourtant le dispositif le plus généreux des aides fiscales des pays de l’OCDE. La politique de soutien à l’innovation cherche de nouvelles voies, avec notamment le projet de développer une « Darpa à la française ». Une étude réalisée auprès d",
+      "summary": "L’ESSENTIEL L’efficacité du crédit impôt recherche n’a pas été établie. C’est pourtant le dispositif le plus généreux des aides fiscales des pays de l’OCDE. La politique de soutien à l’innovation cherche de nouvelles voies, avec notamment le projet de développer une « DARPA à la française ». Une étude réalisée auprès d",
       "link": "https://theconversation.com/faut-il-reduire-les-aides-publiques-a-linnovation-ou-revoir-la-philosophie-de-leur-distribution-284453",
       "image": "https://counter.theconversation.com/content/284453/count.gif",
       "publishedAt": "2026-08-28T10:32:50.000Z",
@@ -559,153 +716,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ak6676r",
-      "title": "Pourquoi Napoléon III a fait de l’archéologie une affaire d’État",
-      "summary": "La statue de Vercingétorix, sur le probable site d’Alésia, a été érigée à la demande de Napoléon III. Thierry Clarte/MuséoParc Alésia L’ESSENTIEL Passionné d’archéologie, Napoléon III finance sur ses propres deniers les premières grandes campagnes de fouilles consacrées aux origines gauloises et gallo-romaines de la Fr",
-      "link": "https://theconversation.com/pourquoi-napoleon-iii-a-fait-de-larcheologie-une-affaire-detat-286579",
-      "image": "https://images.theconversation.com/files/751997/original/file-20260804-50-jz4vyi.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5184%2C3455&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-26T13:25:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aaphddq",
-      "title": "France, première destination touristique mondiale : des retombées inégalement réparties dans la restauration",
-      "summary": "L’ESSENTIEL En 2025, plus de 100 millions de touristes ont été accueillis en France. Les répercussions économiques sur le secteur de la restauration sont importantes, mais tous les types de restaurants n’en profitent pas de la même façon. Cette mondialisation de la clientèle a bouleversé l’économie de la recommandation",
-      "link": "https://theconversation.com/france-premiere-destination-touristique-mondiale-des-retombees-inegalement-reparties-dans-la-restauration-288730",
-      "image": "https://counter.theconversation.com/content/288730/count.gif",
-      "publishedAt": "2026-08-27T13:41:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "andsodm",
-      "title": "Quand la polarisation internationale s’invite dans la présidentielle brésilienne",
-      "summary": "L’ESSENTIEL La présidentielle brésilienne, en octobre prochain, se jouera sans aucun doute entre le sortant Lula (centre gauche), en lice pour un dernier mandat, et Flávio Bolsonaro, fils de Jair et, comme ce dernier, représentant de la droite dure. Ce duel est suivi avec la plus grande attention dans de nombreux pays ",
-      "link": "https://theconversation.com/quand-la-polarisation-internationale-sinvite-dans-la-presidentielle-bresilienne-289957",
-      "image": "https://images.theconversation.com/files/755006/original/file-20260819-50-ojnsxl.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-27T13:40:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agt2ebg",
-      "title": "Internet, réseaux mobiles : nos télécommunications sont-elles à bout ?",
-      "summary": "Au fil des décennies, nos réseaux de communications se sont toujours plus complexifiés afin de monter en puissance. Mais ce chemin ne sera pas viable éternellement. Allons-nous bientôt devoir changer d’approche ? Pendant des décennies, ingénieurs et chercheurs en télécommunications ont poursuivi un seul objectif : tran",
-      "link": "https://theconversation.com/internet-reseaux-mobiles-nos-telecommunications-sont-elles-a-bout-289586",
-      "image": "https://counter.theconversation.com/content/289586/count.gif",
-      "publishedAt": "2026-08-27T13:39:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ayr6fel",
-      "title": "Pourquoi il faut en finir avec le mythe de la forêt salvatrice",
-      "summary": "L’ESSENTIEL Face au changement climatique, les forêts sont souvent présentées comme de salvateurs « poumons verts ». Pourtant, de plus en plus de forêts françaises émettent plus de CO₂ qu’elles n’en séquestrent. Pour le comprendre, il faut savoir faire la distinction entre stocks et flux de carbone, mais également rega",
-      "link": "https://theconversation.com/pourquoi-il-faut-en-finir-avec-le-mythe-de-la-foret-salvatrice-289909",
-      "image": "https://images.theconversation.com/files/754805/original/file-20260819-50-fdstxv.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-27T09:59:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9zcjq8",
-      "title": "Canicules et pollution : quelle évolution entre 2003 et 2026 ?",
-      "summary": "L’ESSENTIEL Les vagues de fortes chaleurs sont propices à la formation des pics de pollution à l’ozone. Lors de la canicule d’août 2003, les niveaux atteints avaient été spectaculaires. L’instauration, depuis plus de vingt ans, de politiques de lutte contre la pollution atmosphérique a permis d’éviter le pire lors des ",
-      "link": "https://theconversation.com/canicules-et-pollution-quelle-evolution-entre-2003-et-2026-290185",
-      "image": "https://images.theconversation.com/files/755171/original/file-20260820-50-a3lmex.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-26T13:27:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 15,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aujz0a",
-      "title": "Cancer : quand des cellules résistent à leur mort programmée et favorisent le développement des tumeurs",
-      "summary": "La mort programmée, ou apoptose, est un processus clé du bon fonctionnement des cellules. De manière paradoxale, c’est quand ce processus se dérègle, quand certaines cellules se caractérisent par une « non mort », que les cancers peuvent se développer et mettre en jeu le pronostic vital. Abdel Aouacheria (Université de",
-      "link": "https://theconversation.com/cancer-quand-des-cellules-resistent-a-leur-mort-programmee-et-favorisent-le-developpement-des-tumeurs-290222",
-      "image": "https://counter.theconversation.com/content/290222/count.gif",
-      "publishedAt": "2026-08-26T13:28:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 15,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aeivq78",
-      "title": "Ce que le cas Natalie Harp révèle du système Trump",
-      "summary": "Le 18 août 2025, dans le bureau Ovale, sous les yeux de J. D. Vance et de Donald Trump, Natalie Harp finalise un post du président sur Truth Social pendant une rencontre avec plusieurs leaders européens. Daniel Torok/Site officiel de la Maison-Blanche L’ESSENTIEL Le rôle exact d’une assistante de Donald Trump, omniprés",
-      "link": "https://theconversation.com/ce-que-le-cas-natalie-harp-revele-du-systeme-trump-290073",
-      "image": "https://images.theconversation.com/files/755550/original/file-20260823-50-miwuss.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1680%2C1120&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-26T13:25:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 15,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abo30zz",
-      "title": "Dioclétien, l’empereur romain qui abandonna le pouvoir pour cultiver des choux",
-      "summary": "Grand réformateur, fondateur de la tétrarchie, Dioclétien transforma profondément l’Empire romain. Sur cette photo, copie de buste antique en marbre, réalisée au XVIIᵉ siècle en Italie pour orner le grand salon du château de Vaux-le-Vicomte, à Maincy, en Seine-et-Marne. Jean-Pol Grabdmont/Wikimédia, CC BY Assassinats, ",
-      "link": "https://theconversation.com/diocletien-lempereur-romain-qui-abandonna-le-pouvoir-pour-cultiver-des-choux-287709",
-      "image": "https://images.theconversation.com/files/748524/original/file-20260717-57-1djmcn.JPG?ixlib=rb-4.1.1&amp;rect=0%2C24%2C960%2C640&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-26T12:56:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 14,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
