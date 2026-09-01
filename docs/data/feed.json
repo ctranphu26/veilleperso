@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T16:06:08.176Z",
+  "generatedAt": "2026-09-01T20:35:02.994Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 99,
+      "urgency": 94,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -197,7 +197,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -216,7 +216,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -232,7 +232,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -248,7 +248,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -267,7 +267,7 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -285,7 +285,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -303,23 +303,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aq5qeas",
-      "title": "Cancers pédiatriques : comment les parents vivent-ils et s’adaptent-ils à l’épreuve du cancer de leur enfant ?",
-      "summary": "L’ESSENTIEL Lorsqu’un diagnostic de cancer touche un enfant, le quotidien et l’équilibre de la famille se recomposent. Les parents passent alors par trois grandes phases : rupture, routines et retour (après l’hospitalisation). Contrairement à ce que peut percevoir l’entourage, la fin des traitements intensifs n’est pas",
-      "link": "https://theconversation.com/cancers-pediatriques-comment-les-parents-vivent-ils-et-sadaptent-ils-a-lepreuve-du-cancer-de-leur-enfant-290679",
-      "image": "https://counter.theconversation.com/content/290679/count.gif",
-      "publishedAt": "2026-09-01T13:00:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -335,7 +319,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aq5qeas",
+      "title": "Cancers pédiatriques : comment les parents vivent-ils et s’adaptent-ils à l’épreuve du cancer de leur enfant ?",
+      "summary": "L’ESSENTIEL Lorsqu’un diagnostic de cancer touche un enfant, le quotidien et l’équilibre de la famille se recomposent. Les parents passent alors par trois grandes phases : rupture, routines et retour (après l’hospitalisation). Contrairement à ce que peut percevoir l’entourage, la fin des traitements intensifs n’est pas",
+      "link": "https://theconversation.com/cancers-pediatriques-comment-les-parents-vivent-ils-et-sadaptent-ils-a-lepreuve-du-cancer-de-leur-enfant-290679",
+      "image": "https://counter.theconversation.com/content/290679/count.gif",
+      "publishedAt": "2026-09-01T13:00:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -351,7 +351,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -371,7 +371,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -390,7 +390,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,7 +408,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -426,7 +426,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -444,7 +444,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +464,7 @@
       ],
       "relevance": 95,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +480,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +496,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -512,7 +512,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -530,7 +530,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -548,7 +548,25 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 52,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4rw9ap",
+      "title": "Bronzage : pourquoi utiliser le « peptide Barbie » pour foncer sa peau est une mauvaise idée",
+      "summary": "L’ESSENTIEL Sur les réseaux sociaux, certaines publications sur le bronzage vantent les mérites d’un peptide, une courte chaîne d’acides aminés, capable de foncer la peau. Il s’agit d’un usage clandestin et détourné d’un composé pharmaceutique, le Melanotan II. Cette substance est à l’origine d’effets indésirables, et ",
+      "link": "https://theconversation.com/bronzage-pourquoi-utiliser-le-peptide-barbie-pour-foncer-sa-peau-est-une-mauvaise-idee-290553",
+      "image": "https://counter.theconversation.com/content/290553/count.gif",
+      "publishedAt": "2026-08-31T14:27:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -564,7 +582,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "amxep5u",
+      "title": "Quand les incendies s’éteignent, les sols se transforment",
+      "summary": "L’ESSENTIEL Les feux de forêt n’endommagent pas que les arbres. Les flammes impactent aussi le sol, la vie qu’il abrite tout comme le stock de carbone qu’il détient. L’ampleur des impacts varie selon les températures atteintes et de la capacité de récupération du sol. Le feu a également tendance à diminuer le stock de ",
+      "link": "https://theconversation.com/quand-les-incendies-seteignent-les-sols-se-transforment-290544",
+      "image": "https://images.theconversation.com/files/756264/original/file-20260826-50-ugq7k9.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-31T14:29:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 52,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ax5248k",
+      "title": "L’univers magnétique, et la plus grande carte des champs magnétiques cosmiques réalisée à ce jour",
+      "summary": "La nouvelle carte des champs magnétiques qui baignent l’Univers. CSIRO/Alec Thomson et al. (magnetic fields)/Alex Cherney (photo)/Sam Moorfield (composite) Une carte des champs magnétiques cosmiques a été réalisée avec un télescope radio australien, le plus puissant du monde. On ne les voit pas, alors il est parfois di",
+      "link": "https://theconversation.com/lunivers-magnetique-et-la-plus-grande-carte-des-champs-magnetiques-cosmiques-realisee-a-ce-jour-284571",
+      "image": "https://images.theconversation.com/files/739962/original/file-20260602-57-rkuyvr.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C9316%2C6210&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-31T14:27:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -583,75 +633,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4rw9ap",
-      "title": "Bronzage : pourquoi utiliser le « peptide Barbie » pour foncer sa peau est une mauvaise idée",
-      "summary": "L’ESSENTIEL Sur les réseaux sociaux, certaines publications sur le bronzage vantent les mérites d’un peptide, une courte chaîne d’acides aminés, capable de foncer la peau. Il s’agit d’un usage clandestin et détourné d’un composé pharmaceutique, le Melanotan II. Cette substance est à l’origine d’effets indésirables, et ",
-      "link": "https://theconversation.com/bronzage-pourquoi-utiliser-le-peptide-barbie-pour-foncer-sa-peau-est-une-mauvaise-idee-290553",
-      "image": "https://counter.theconversation.com/content/290553/count.gif",
-      "publishedAt": "2026-08-31T14:27:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amxep5u",
-      "title": "Quand les incendies s’éteignent, les sols se transforment",
-      "summary": "L’ESSENTIEL Les feux de forêt n’endommagent pas que les arbres. Les flammes impactent aussi le sol, la vie qu’il abrite tout comme le stock de carbone qu’il détient. L’ampleur des impacts varie selon les températures atteintes et de la capacité de récupération du sol. Le feu a également tendance à diminuer le stock de ",
-      "link": "https://theconversation.com/quand-les-incendies-seteignent-les-sols-se-transforment-290544",
-      "image": "https://images.theconversation.com/files/756264/original/file-20260826-50-ugq7k9.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-31T14:29:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ax5248k",
-      "title": "L’univers magnétique, et la plus grande carte des champs magnétiques cosmiques réalisée à ce jour",
-      "summary": "La nouvelle carte des champs magnétiques qui baignent l’Univers. CSIRO/Alec Thomson et al. (magnetic fields)/Alex Cherney (photo)/Sam Moorfield (composite) Une carte des champs magnétiques cosmiques a été réalisée avec un télescope radio australien, le plus puissant du monde. On ne les voit pas, alors il est parfois di",
-      "link": "https://theconversation.com/lunivers-magnetique-et-la-plus-grande-carte-des-champs-magnetiques-cosmiques-realisee-a-ce-jour-284571",
-      "image": "https://images.theconversation.com/files/739962/original/file-20260602-57-rkuyvr.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C9316%2C6210&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-31T14:27:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1klmfq",
-      "title": "L’apport du Triple Bottom Line et de l’implication des consommateurs dans les choix alimentaires à l’ère du numérique",
-      "summary": "Au prisme du Triple Bottom Line, ou TBL, qui articule les dimensions environnementale, sociale et économique de la durabilité, cette étude montre comment les réseaux sociaux influencent les choix responsables de la restauration. Les résultats soulignent le potentiel des réseaux sociaux pour accélérer la transition vers",
-      "link": "https://theconversation.com/lapport-du-triple-bottom-line-et-de-limplication-des-consommateurs-dans-les-choix-alimentaires-a-lere-du-numerique-286196",
-      "image": "https://counter.theconversation.com/content/286196/count.gif",
-      "publishedAt": "2026-08-31T09:17:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -669,7 +651,25 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 48,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a1klmfq",
+      "title": "L’apport du Triple Bottom Line et de l’implication des consommateurs dans les choix alimentaires à l’ère du numérique",
+      "summary": "Au prisme du Triple Bottom Line, ou TBL, qui articule les dimensions environnementale, sociale et économique de la durabilité, cette étude montre comment les réseaux sociaux influencent les choix responsables de la restauration. Les résultats soulignent le potentiel des réseaux sociaux pour accélérer la transition vers",
+      "link": "https://theconversation.com/lapport-du-triple-bottom-line-et-de-limplication-des-consommateurs-dans-les-choix-alimentaires-a-lere-du-numerique-286196",
+      "image": "https://counter.theconversation.com/content/286196/count.gif",
+      "publishedAt": "2026-08-31T09:17:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -685,7 +685,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -719,7 +719,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 18,
       "urgencyLevel": "basse"
     }
   ]
