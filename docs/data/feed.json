@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:35:02.994Z",
+  "generatedAt": "2026-09-02T02:59:59.748Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 94,
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajm2hl",
+      "title": "Fournitures scolaires : les élections municipales se poursuivent dans les cartables",
+      "summary": "A la veille de la rentrée, des municipalités, comme Nice, ont annoncé arrêter la distribution gratuite de fournitures scolaires, jugée trop coûteuse. D’autres, comme Saint-Denis-Pierrefitte, s’apprêtent à prendre le chemin L’article Fournitures scolaires : les élections municipales se poursuivent dans les cartables est",
+      "link": "https://www.cafepedagogique.net/2026/09/01/fournitures-scolaires-les-elections-municipales-se-poursuivent-dans-les-cartables/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fournitures-scolaires-Cafe-pedagogique-300x225.jpeg",
+      "publishedAt": "2026-09-01T04:00:31.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +165,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -181,110 +197,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
-      "id": "ajm2hl",
-      "title": "Fournitures scolaires : les élections municipales se poursuivent dans les cartables",
-      "summary": "A la veille de la rentrée, des municipalités, comme Nice, ont annoncé arrêter la distribution gratuite de fournitures scolaires, jugée trop coûteuse. D’autres, comme Saint-Denis-Pierrefitte, s’apprêtent à prendre le chemin L’article Fournitures scolaires : les élections municipales se poursuivent dans les cartables est",
-      "link": "https://www.cafepedagogique.net/2026/09/01/fournitures-scolaires-les-elections-municipales-se-poursuivent-dans-les-cartables/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fournitures-scolaires-Cafe-pedagogique-300x225.jpeg",
-      "publishedAt": "2026-09-01T04:00:31.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 83,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ate95jm",
-      "title": "Vagues de chaleur à l’école : pourquoi rénover les murs ne suffira pas",
-      "summary": "L’ESSENTIEL Fin mai 2026, le ministère de l’éducation nationale publiait son premier plan « vagues de chaleur » pour les écoles, qui charge les collectivités de repérer les bâtiments les plus exposés et de lancer les chantiers prioritaires. Mais la fraîcheur d’une classe ne dépend pas seulement de la rénovation thermiq",
-      "link": "https://theconversation.com/vagues-de-chaleur-a-lecole-pourquoi-renover-les-murs-ne-suffira-pas-289415",
-      "image": "https://images.theconversation.com/files/753083/original/file-20260810-50-ef59ag.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-01T15:01:07.000Z",
+      "id": "a46p6n7",
+      "title": "Santé des pompiers : pourquoi il faut poursuivre les recherches",
+      "summary": "L’ESSENTIEL - L’activité des pompiers les expose, tout au long de leur carrière, à de nombreux facteurs de risque, qu’ils soient chimiques, physiques ou psychiques - Ces expositions multiples sont très intriquées les unes avec les autres, ce qui complique l’évaluation de leurs effets sur la santé - Des recherches compl",
+      "link": "https://theconversation.com/sante-des-pompiers-pourquoi-il-faut-poursuivre-les-recherches-290926",
+      "image": "https://counter.theconversation.com/content/290926/count.gif",
+      "publishedAt": "2026-09-01T20:30:21.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [
-        "école",
-        "classe"
+        "évaluation"
       ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a1ib0r9",
-      "title": "Prendre plus de protéines au petit-déjeuner sans faire d’exercice ne vous fera pas gagner en masse musculaire – il faut distinguer la science du marketing",
-      "summary": "L’ESSENTIEL Aux États-Unis comme en France, les aliments enrichis en protéines ont envahi les rayons des supermarchés. Les protéines sont essentielles à l’organisme. Mais leur apport est généralement suffisant avec des aliments classiques. Les industriels tirent bénéfice de l’engouement pour leurs aliments, poudres et ",
-      "link": "https://theconversation.com/prendre-plus-de-proteines-au-petit-dejeuner-sans-faire-dexercice-ne-vous-fera-pas-gagner-en-masse-musculaire-il-faut-distinguer-la-science-du-marketing-290645",
-      "image": "https://images.theconversation.com/files/754407/original/file-20260817-50-nqgt8q.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-01T14:58:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
+      "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ayz83nt",
-      "title": "Pourquoi est-ce que nous nous envoyons des messages à nous-même ? Ou comment nous nous approprions les technologies",
-      "summary": "S’envoyer un message permet de mieux éclairer sa journée. Rui Silvestre/Unsplash, CC BY Détourner la fonction première d’une technologie pour mieux se l’approprier révèle que nous la percevons comme un moyen de répondre à certains de nos besoins – que ces derniers soient ou non ceux que ses concepteurs ont anticipés. L",
-      "link": "https://theconversation.com/pourquoi-est-ce-que-nous-nous-envoyons-des-messages-a-nous-meme-ou-comment-nous-nous-approprions-les-technologies-272404",
-      "image": "https://images.theconversation.com/files/752499/original/file-20260806-50-kond4q.jpg?ixlib=rb-4.1.1&amp;rect=7%2C0%2C6001%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-01T14:57:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "afh4kec",
-      "title": "« La baisse du nombre d’élèves en France doit être un levier pour diminuer leur nombre par classe »",
-      "summary": "Le syndicat SUD éducation revient sur la conférence de presse d’Edouard Geffray en cette rentrée 2026. « Dans son discours, le ministre s’entête à prétexter la baisse démographique pour justifier la L’article « La baisse du nombre d’élèves en France doit être un levier pour diminuer leur nombre par classe » est apparu ",
-      "link": "https://www.cafepedagogique.net/2026/09/01/la-baisse-du-nombre-deleves-en-france-doit-etre-un-levier-pour-diminuer-leur-nombre-par-classe/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/07/sud-education-or-paris.png",
-      "publishedAt": "2026-09-01T03:28:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "classe"
-      ],
-      "relevance": 91,
-      "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ah4dfb",
-      "title": "Rennes : l’Espace des sciences invite les enseignants",
-      "summary": "Mercredi 23 septembre, à 14h30, l’Espace des sciences organise pour les enseignants une visite de rentrée. Cette visite est destinée à faire découvrir l’offre pédagogique 2026-2027 et à échanger avec L’article Rennes : l’Espace des sciences invite les enseignants est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/01/rennes-lespace-des-sciences-invite-les-enseignants/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/12/espace-des-sciences-300x238.png",
-      "publishedAt": "2026-09-01T03:28:11.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
       "urgency": 73,
       "urgencyLevel": "haute"
     },
@@ -303,8 +233,96 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "afh4kec",
+      "title": "« La baisse du nombre d’élèves en France doit être un levier pour diminuer leur nombre par classe »",
+      "summary": "Le syndicat SUD éducation revient sur la conférence de presse d’Edouard Geffray en cette rentrée 2026. « Dans son discours, le ministre s’entête à prétexter la baisse démographique pour justifier la L’article « La baisse du nombre d’élèves en France doit être un levier pour diminuer leur nombre par classe » est apparu ",
+      "link": "https://www.cafepedagogique.net/2026/09/01/la-baisse-du-nombre-deleves-en-france-doit-etre-un-levier-pour-diminuer-leur-nombre-par-classe/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/07/sud-education-or-paris.png",
+      "publishedAt": "2026-09-01T03:28:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "classe"
+      ],
+      "relevance": 91,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ate95jm",
+      "title": "Vagues de chaleur à l’école : pourquoi rénover les murs ne suffira pas",
+      "summary": "L’ESSENTIEL Fin mai 2026, le ministère de l’éducation nationale publiait son premier plan « vagues de chaleur » pour les écoles, qui charge les collectivités de repérer les bâtiments les plus exposés et de lancer les chantiers prioritaires. Mais la fraîcheur d’une classe ne dépend pas seulement de la rénovation thermiq",
+      "link": "https://theconversation.com/vagues-de-chaleur-a-lecole-pourquoi-renover-les-murs-ne-suffira-pas-289415",
+      "image": "https://images.theconversation.com/files/753083/original/file-20260810-50-ef59ag.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-01T15:01:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "classe"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ah4dfb",
+      "title": "Rennes : l’Espace des sciences invite les enseignants",
+      "summary": "Mercredi 23 septembre, à 14h30, l’Espace des sciences organise pour les enseignants une visite de rentrée. Cette visite est destinée à faire découvrir l’offre pédagogique 2026-2027 et à échanger avec L’article Rennes : l’Espace des sciences invite les enseignants est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/01/rennes-lespace-des-sciences-invite-les-enseignants/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/12/espace-des-sciences-300x238.png",
+      "publishedAt": "2026-09-01T03:28:11.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a1ib0r9",
+      "title": "Prendre plus de protéines au petit-déjeuner sans faire d’exercice ne vous fera pas gagner en masse musculaire – il faut distinguer la science du marketing",
+      "summary": "L’ESSENTIEL Aux États-Unis comme en France, les aliments enrichis en protéines ont envahi les rayons des supermarchés. Les protéines sont essentielles à l’organisme. Mais leur apport est généralement suffisant avec des aliments classiques. Les industriels tirent bénéfice de l’engouement pour leurs aliments, poudres et ",
+      "link": "https://theconversation.com/prendre-plus-de-proteines-au-petit-dejeuner-sans-faire-dexercice-ne-vous-fera-pas-gagner-en-masse-musculaire-il-faut-distinguer-la-science-du-marketing-290645",
+      "image": "https://images.theconversation.com/files/754407/original/file-20260817-50-nqgt8q.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-01T14:58:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ayz83nt",
+      "title": "Pourquoi est-ce que nous nous envoyons des messages à nous-même ? Ou comment nous nous approprions les technologies",
+      "summary": "S’envoyer un message permet de mieux éclairer sa journée. Rui Silvestre/Unsplash, CC BY Détourner la fonction première d’une technologie pour mieux se l’approprier révèle que nous la percevons comme un moyen de répondre à certains de nos besoins – que ces derniers soient ou non ceux que ses concepteurs ont anticipés. L",
+      "link": "https://theconversation.com/pourquoi-est-ce-que-nous-nous-envoyons-des-messages-a-nous-meme-ou-comment-nous-nous-approprions-les-technologies-272404",
+      "image": "https://images.theconversation.com/files/752499/original/file-20260806-50-kond4q.jpg?ixlib=rb-4.1.1&amp;rect=7%2C0%2C6001%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-01T14:57:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auxhga2",
@@ -319,8 +337,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aq5qeas",
@@ -335,8 +353,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5ief7w",
@@ -351,46 +369,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a55ol95",
-      "title": "Refaire de l’École le creuset de l’égalité républicaine : un enjeu majeur pour 2027",
-      "summary": "À l’approche de 2027, l’École s’impose comme un enjeu majeur du débat politique. Face au poids croissant des inégalités sociales sur la réussite scolaire, au déclassement des enseignants et à L’article Refaire de l’École le creuset de l’égalité républicaine : un enjeu majeur pour 2027 est apparu en premier sur Le Café ",
-      "link": "https://www.cafepedagogique.net/2026/09/01/refaire-de-lecole-le-creuset-de-legalite-republicaine-un-enjeu-majeur-pour-2027/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/01/Yannick-Trigance-Cafe-pedagogique-e1737004858366-268x300.jpeg",
-      "publishedAt": "2026-09-01T03:40:14.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "enseignant",
-        "classe"
-      ],
-      "relevance": 88,
-      "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3dpwpy",
-      "title": "Anne-Sophie Moal : Des collégiens à l’école du sauvetage en mer",
-      "summary": "Avec plus de 300 décès par noyade cet été 2026 en France, l’importance du sauvetage en mer n’est plus à démontrer. Anne-Sophie Moal, enseignante de Lettres au collège Saint-Joseph de L’article Anne-Sophie Moal : Des collégiens à l’école du sauvetage en mer est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/01/anne-sophie-moal-des-collegiens-a-lecole-du-sauvetage-en-mer/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Anne-Sophie-Moal-Cafe-pedagogique-e1788199076285-247x300.jpg",
-      "publishedAt": "2026-09-01T03:30:46.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,43 +387,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3o6e5u",
-      "title": "Vitesse de la lumière, physique quantique : découvrez le BUP 1086",
-      "summary": "Le Bup n°1086 propose un panorama riche de l’enseignement de la physique-chimie, entre innovation pédagogique, culture scientifique et actualité de l’association. Ce numéro met notamment en lumière une expérimentation ambitieuse L’article Vitesse de la lumière, physique quantique : découvrez le BUP 1086 est apparu en p",
-      "link": "https://www.cafepedagogique.net/2026/09/01/vitesse-de-la-lumiere-physique-quantique-decouvrez-le-bup-1086/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/BUP-211x300.png",
-      "publishedAt": "2026-09-01T03:29:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "an22kib",
-      "title": "Cyberattaque à l’Education nationale : envoyez-nous vos témoignages",
-      "summary": "Le Café pédagogique recueille vos témoignages sur les conséquences de la cyberattaque qui touche l’Éducation nationale. Accès aux messageries, ENT ou logiciels métiers impossibles, listes d’élèves inaccessibles, difficultés pour préparer L’article Cyberattaque à l’Education nationale : envoyez-nous vos témoignages est ",
-      "link": "https://www.cafepedagogique.net/2026/09/01/cyberattaque-a-leducation-nationale-envoyez-nous-vos-temoignages/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/appel-temoignage.jpg",
-      "publishedAt": "2026-09-01T03:28:12.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +407,82 @@
       ],
       "relevance": 95,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a55ol95",
+      "title": "Refaire de l’École le creuset de l’égalité républicaine : un enjeu majeur pour 2027",
+      "summary": "À l’approche de 2027, l’École s’impose comme un enjeu majeur du débat politique. Face au poids croissant des inégalités sociales sur la réussite scolaire, au déclassement des enseignants et à L’article Refaire de l’École le creuset de l’égalité républicaine : un enjeu majeur pour 2027 est apparu en premier sur Le Café ",
+      "link": "https://www.cafepedagogique.net/2026/09/01/refaire-de-lecole-le-creuset-de-legalite-republicaine-un-enjeu-majeur-pour-2027/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/01/Yannick-Trigance-Cafe-pedagogique-e1737004858366-268x300.jpeg",
+      "publishedAt": "2026-09-01T03:40:14.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "enseignant",
+        "classe"
+      ],
+      "relevance": 88,
+      "relevanceLevel": "haute",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3dpwpy",
+      "title": "Anne-Sophie Moal : Des collégiens à l’école du sauvetage en mer",
+      "summary": "Avec plus de 300 décès par noyade cet été 2026 en France, l’importance du sauvetage en mer n’est plus à démontrer. Anne-Sophie Moal, enseignante de Lettres au collège Saint-Joseph de L’article Anne-Sophie Moal : Des collégiens à l’école du sauvetage en mer est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/01/anne-sophie-moal-des-collegiens-a-lecole-du-sauvetage-en-mer/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Anne-Sophie-Moal-Cafe-pedagogique-e1788199076285-247x300.jpg",
+      "publishedAt": "2026-09-01T03:30:46.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "enseignant"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3o6e5u",
+      "title": "Vitesse de la lumière, physique quantique : découvrez le BUP 1086",
+      "summary": "Le Bup n°1086 propose un panorama riche de l’enseignement de la physique-chimie, entre innovation pédagogique, culture scientifique et actualité de l’association. Ce numéro met notamment en lumière une expérimentation ambitieuse L’article Vitesse de la lumière, physique quantique : découvrez le BUP 1086 est apparu en p",
+      "link": "https://www.cafepedagogique.net/2026/09/01/vitesse-de-la-lumiere-physique-quantique-decouvrez-le-bup-1086/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/BUP-211x300.png",
+      "publishedAt": "2026-09-01T03:29:58.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "an22kib",
+      "title": "Cyberattaque à l’Education nationale : envoyez-nous vos témoignages",
+      "summary": "Le Café pédagogique recueille vos témoignages sur les conséquences de la cyberattaque qui touche l’Éducation nationale. Accès aux messageries, ENT ou logiciels métiers impossibles, listes d’élèves inaccessibles, difficultés pour préparer L’article Cyberattaque à l’Education nationale : envoyez-nous vos témoignages est ",
+      "link": "https://www.cafepedagogique.net/2026/09/01/cyberattaque-a-leducation-nationale-envoyez-nous-vos-temoignages/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/appel-temoignage.jpg",
+      "publishedAt": "2026-09-01T03:28:12.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +498,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +514,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -512,7 +530,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -530,7 +548,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -548,25 +566,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4rw9ap",
-      "title": "Bronzage : pourquoi utiliser le « peptide Barbie » pour foncer sa peau est une mauvaise idée",
-      "summary": "L’ESSENTIEL Sur les réseaux sociaux, certaines publications sur le bronzage vantent les mérites d’un peptide, une courte chaîne d’acides aminés, capable de foncer la peau. Il s’agit d’un usage clandestin et détourné d’un composé pharmaceutique, le Melanotan II. Cette substance est à l’origine d’effets indésirables, et ",
-      "link": "https://theconversation.com/bronzage-pourquoi-utiliser-le-peptide-barbie-pour-foncer-sa-peau-est-une-mauvaise-idee-290553",
-      "image": "https://counter.theconversation.com/content/290553/count.gif",
-      "publishedAt": "2026-08-31T14:27:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -582,39 +582,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amxep5u",
-      "title": "Quand les incendies s’éteignent, les sols se transforment",
-      "summary": "L’ESSENTIEL Les feux de forêt n’endommagent pas que les arbres. Les flammes impactent aussi le sol, la vie qu’il abrite tout comme le stock de carbone qu’il détient. L’ampleur des impacts varie selon les températures atteintes et de la capacité de récupération du sol. Le feu a également tendance à diminuer le stock de ",
-      "link": "https://theconversation.com/quand-les-incendies-seteignent-les-sols-se-transforment-290544",
-      "image": "https://images.theconversation.com/files/756264/original/file-20260826-50-ugq7k9.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-08-31T14:29:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ax5248k",
-      "title": "L’univers magnétique, et la plus grande carte des champs magnétiques cosmiques réalisée à ce jour",
-      "summary": "La nouvelle carte des champs magnétiques qui baignent l’Univers. CSIRO/Alec Thomson et al. (magnetic fields)/Alex Cherney (photo)/Sam Moorfield (composite) Une carte des champs magnétiques cosmiques a été réalisée avec un télescope radio australien, le plus puissant du monde. On ne les voit pas, alors il est parfois di",
-      "link": "https://theconversation.com/lunivers-magnetique-et-la-plus-grande-carte-des-champs-magnetiques-cosmiques-realisee-a-ce-jour-284571",
-      "image": "https://images.theconversation.com/files/739962/original/file-20260602-57-rkuyvr.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C9316%2C6210&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-31T14:27:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -633,7 +601,57 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4rw9ap",
+      "title": "Bronzage : pourquoi utiliser le « peptide Barbie » pour foncer sa peau est une mauvaise idée",
+      "summary": "L’ESSENTIEL Sur les réseaux sociaux, certaines publications sur le bronzage vantent les mérites d’un peptide, une courte chaîne d’acides aminés, capable de foncer la peau. Il s’agit d’un usage clandestin et détourné d’un composé pharmaceutique, le Melanotan II. Cette substance est à l’origine d’effets indésirables, et ",
+      "link": "https://theconversation.com/bronzage-pourquoi-utiliser-le-peptide-barbie-pour-foncer-sa-peau-est-une-mauvaise-idee-290553",
+      "image": "https://counter.theconversation.com/content/290553/count.gif",
+      "publishedAt": "2026-08-31T14:27:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "amxep5u",
+      "title": "Quand les incendies s’éteignent, les sols se transforment",
+      "summary": "L’ESSENTIEL Les feux de forêt n’endommagent pas que les arbres. Les flammes impactent aussi le sol, la vie qu’il abrite tout comme le stock de carbone qu’il détient. L’ampleur des impacts varie selon les températures atteintes et de la capacité de récupération du sol. Le feu a également tendance à diminuer le stock de ",
+      "link": "https://theconversation.com/quand-les-incendies-seteignent-les-sols-se-transforment-290544",
+      "image": "https://images.theconversation.com/files/756264/original/file-20260826-50-ugq7k9.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-08-31T14:29:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ax5248k",
+      "title": "L’univers magnétique, et la plus grande carte des champs magnétiques cosmiques réalisée à ce jour",
+      "summary": "La nouvelle carte des champs magnétiques qui baignent l’Univers. CSIRO/Alec Thomson et al. (magnetic fields)/Alex Cherney (photo)/Sam Moorfield (composite) Une carte des champs magnétiques cosmiques a été réalisée avec un télescope radio australien, le plus puissant du monde. On ne les voit pas, alors il est parfois di",
+      "link": "https://theconversation.com/lunivers-magnetique-et-la-plus-grande-carte-des-champs-magnetiques-cosmiques-realisee-a-ce-jour-284571",
+      "image": "https://images.theconversation.com/files/739962/original/file-20260602-57-rkuyvr.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C9316%2C6210&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-08-31T14:27:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -651,7 +669,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -669,7 +687,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -685,26 +703,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajnqfkx",
-      "title": "Première rentrée au collège : qu’est-ce qui inquiète les enfants, et comment les rassurer ?",
-      "summary": "Quitter une petite école primaire de quartier pour un grand collège peut être stressant pour les enfants. Mais se sentir bien préparés les aide à maîtriser leur appréhension. Rawpixel.com/Shutterstock (no reuse) Le passage de l’école primaire au collège peut susciter chez les enfants des émotions très diverses, allant ",
-      "link": "https://theconversation.com/premiere-rentree-au-college-quest-ce-qui-inquiete-les-enfants-et-comment-les-rassurer-290562",
-      "image": "https://images.theconversation.com/files/756216/original/file-20260825-60-srmpfq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4414%2C2942&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-08-28T10:43:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
     },
     {
       "id": "arld6j5",
@@ -719,7 +719,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 16,
       "urgencyLevel": "basse"
     }
   ]
