@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T15:59:33.818Z",
+  "generatedAt": "2026-09-02T20:31:23.104Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -185,87 +185,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "arfyif8",
-      "title": "Pourboire : pourquoi continuеr à récompenser un service déjà réglé alors que rien ne nous y oblige ?",
-      "summary": "L’ESSENTIEL Le pourboire paraît être un petit geste banal de fin de repas au restaurant. Il révèle pourtant des mécanismes sociaux complexes. La recherche en psychologie sociale met en lumière le poids prépondérant des émotions dans cette transaction commerciale. L’avènement du terminal de paiement laisse entrevoir un ",
-      "link": "https://theconversation.com/pourboire-pourquoi-continu-r-a-recompenser-un-service-deja-regle-alors-que-rien-ne-nous-y-oblige-280528",
-      "image": "https://counter.theconversation.com/content/280528/count.gif",
-      "publishedAt": "2026-09-02T14:05:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "avff60t",
-      "title": "Le Maghreb, un territoire à géométrie variable",
-      "summary": "Si, en France, le terme « Maghreb » désigne communément l’ensemble formé par la Tunisie, le Maroc et l’Algérie, les délimitations et la dénomination même de cette région n’ont rien de défini. Les circulations et les différents peuplements qui se sont succédé au fil de son histoire invitent à la concevoir comme un espac",
-      "link": "https://theconversation.com/le-maghreb-un-territoire-a-geometrie-variable-290265",
-      "image": "https://counter.theconversation.com/content/290265/count.gif",
-      "publishedAt": "2026-09-02T14:04:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "avfsc7d",
-      "title": "Routes, stations de ski, permis de construire : quand les décideurs publics apprennent à dire stop",
-      "summary": "Fermée depuis novembre 2019, la piscine municipale Vaucanson à Grenoble a été choisie pour devenir le siège de la future Cit’Écobat, cité des métiers du bâtiment sobre, durable, connecté. Greta de Grenoble, Fourni par l'auteur L’ESSENTIEL Longtemps, l’action publique s’est pensée comme un art de construire, d’aménager ",
-      "link": "https://theconversation.com/routes-stations-de-ski-permis-de-construire-quand-les-decideurs-publics-apprennent-a-dire-stop-285115",
-      "image": "https://images.theconversation.com/files/748929/original/file-20260720-57-7kn0nw.jpg?ixlib=rb-4.1.1&amp;rect=200%2C0%2C2160%2C1440&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-02T14:03:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ag9feq6",
-      "title": "Palaces and the Pope: the fascinating story of how Renaissance Rome was rebuilt",
-      "summary": "The Eternal City underwent a period of renewal spanning the late 14th century to the late 16th century, following a period of economic stagnation. Today, 84% of the palaces built during this period are still standing. Wikimediacommons Nearly 31% of Rome’s palaces were built between 1378 and 1599, after a century of eco",
-      "link": "https://theconversation.com/palaces-and-the-pope-the-fascinating-story-of-how-renaissance-rome-was-rebuilt-290876",
-      "image": "https://images.theconversation.com/files/756972/original/file-20260730-50-6hn4vc.png?ixlib=rb-4.1.1&amp;rect=346%2C0%2C1338%2C892&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-02T13:53:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ayzfr3p",
-      "title": "« Je ne peux pas payer mon loyer » : Inquiétude des contractuels non renouvelés",
-      "summary": "« Contractuel.les, pas jetables » : Alors que le rectorat de Paris, à l’instar d’autres academies, prépare la rentrée avec de nouveaux « postes berceaux » suite au nouveau concours de recrutement, des L’article « Je ne peux pas payer mon loyer » : Inquiétude des contractuels non renouvelés est apparu en premier sur Le ",
-      "link": "https://www.cafepedagogique.net/2026/09/02/je-ne-peux-pas-payer-mon-loyer-inquietude-des-contractuels-non-renouveles-a-quelques-jours-de-la-rentree/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/contractuels-cafe-pedagogique-300x295.png",
-      "publishedAt": "2026-09-02T04:10:14.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -283,13 +203,93 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arfyif8",
+      "title": "Pourboire : pourquoi continuеr à récompenser un service déjà réglé alors que rien ne nous y oblige ?",
+      "summary": "L’ESSENTIEL Le pourboire paraît être un petit geste banal de fin de repas au restaurant. Il révèle pourtant des mécanismes sociaux complexes. La recherche en psychologie sociale met en lumière le poids prépondérant des émotions dans cette transaction commerciale. L’avènement du terminal de paiement laisse entrevoir un ",
+      "link": "https://theconversation.com/pourboire-pourquoi-continu-r-a-recompenser-un-service-deja-regle-alors-que-rien-ne-nous-y-oblige-280528",
+      "image": "https://counter.theconversation.com/content/280528/count.gif",
+      "publishedAt": "2026-09-02T14:05:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avff60t",
+      "title": "Le Maghreb, un territoire à géométrie variable",
+      "summary": "Si, en France, le terme « Maghreb » désigne communément l’ensemble formé par la Tunisie, le Maroc et l’Algérie, les délimitations et la dénomination même de cette région n’ont rien de défini. Les circulations et les différents peuplements qui se sont succédé au fil de son histoire invitent à la concevoir comme un espac",
+      "link": "https://theconversation.com/le-maghreb-un-territoire-a-geometrie-variable-290265",
+      "image": "https://counter.theconversation.com/content/290265/count.gif",
+      "publishedAt": "2026-09-02T14:04:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avfsc7d",
+      "title": "Routes, stations de ski, permis de construire : quand les décideurs publics apprennent à dire stop",
+      "summary": "Fermée depuis novembre 2019, la piscine municipale Vaucanson à Grenoble a été choisie pour devenir le siège de la future Cit’Écobat, cité des métiers du bâtiment sobre, durable, connecté. Greta de Grenoble, Fourni par l'auteur L’ESSENTIEL Longtemps, l’action publique s’est pensée comme un art de construire, d’aménager ",
+      "link": "https://theconversation.com/routes-stations-de-ski-permis-de-construire-quand-les-decideurs-publics-apprennent-a-dire-stop-285115",
+      "image": "https://images.theconversation.com/files/748929/original/file-20260720-57-7kn0nw.jpg?ixlib=rb-4.1.1&amp;rect=200%2C0%2C2160%2C1440&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-02T14:03:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ag9feq6",
+      "title": "Palaces and the Pope: the fascinating story of how Renaissance Rome was rebuilt",
+      "summary": "The Eternal City underwent a period of renewal spanning the late 14th century to the late 16th century, following a period of economic stagnation. Today, 84% of the palaces built during this period are still standing. Wikimediacommons Nearly 31% of Rome’s palaces were built between 1378 and 1599, after a century of eco",
+      "link": "https://theconversation.com/palaces-and-the-pope-the-fascinating-story-of-how-renaissance-rome-was-rebuilt-290876",
+      "image": "https://images.theconversation.com/files/756972/original/file-20260730-50-6hn4vc.png?ixlib=rb-4.1.1&amp;rect=346%2C0%2C1338%2C892&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-02T13:53:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayzfr3p",
+      "title": "« Je ne peux pas payer mon loyer » : Inquiétude des contractuels non renouvelés",
+      "summary": "« Contractuel.les, pas jetables » : Alors que le rectorat de Paris, à l’instar d’autres academies, prépare la rentrée avec de nouveaux « postes berceaux » suite au nouveau concours de recrutement, des L’article « Je ne peux pas payer mon loyer » : Inquiétude des contractuels non renouvelés est apparu en premier sur Le ",
+      "link": "https://www.cafepedagogique.net/2026/09/02/je-ne-peux-pas-payer-mon-loyer-inquietude-des-contractuels-non-renouveles-a-quelques-jours-de-la-rentree/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/contractuels-cafe-pedagogique-300x295.png",
+      "publishedAt": "2026-09-02T04:10:14.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
       "id": "a70ezul",
       "title": "Emmanuel Macron évoque des vacances d’été qui débuteraient le 14 juillet",
-      "summary": "Pour sa dernière rentrée scolaire come président, Emmanuel Macron s’est rendu mardi 1er septembre au lycée Chaptal de Mende (Lozère) avec le ministre de l’Education nationale Édouard Geffray. L’objectif de L’article Emmanuel Macron évoque des vacances d’été qui débuteraient le 14 juillet est apparu en premier sur Le Ca",
+      "summary": "Pour sa dernière rentrée scolaire comme président, Emmanuel Macron s’est rendu mardi 1er septembre au lycée Chaptal de Mende (Lozère) avec le ministre de l’Education nationale Édouard Geffray. L’objectif de L’article Emmanuel Macron évoque des vacances d’été qui débuteraient le 14 juillet est apparu en premier sur Le C",
       "link": "https://www.cafepedagogique.net/2026/09/02/emmanuel-macron-evoque-des-vacances-dete-qui-debuterait-le-14-juillet/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/macron5-300x295.png",
       "publishedAt": "2026-09-02T03:27:27.000Z",
@@ -299,7 +299,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -315,23 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ayitk5a",
-      "title": "Le père Armand David, l’homme qui « découvrit » le panda et le fit entrer dans la science",
-      "summary": "L’ESSENTIEL Si le panda était déjà connu en Chine, le père Armand David a permis de le faire découvrir à la science européenne au XIXᵉ siècle. L’apport scientifique de ce grand naturaliste ne se résume pas au panda, de nombreux animaux et plantes portent son nom. Découvrez comment son travail fait toujours écho à la sc",
-      "link": "https://theconversation.com/le-pere-armand-david-lhomme-qui-decouvrit-le-panda-et-le-fit-entrer-dans-la-science-287803",
-      "image": "https://images.theconversation.com/files/751204/original/file-20260730-50-a4mbgx.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-02T10:34:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -349,8 +333,24 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ayitk5a",
+      "title": "Le père Armand David, l’homme qui « découvrit » le panda et le fit entrer dans la science",
+      "summary": "L’ESSENTIEL Si le panda était déjà connu en Chine, le père Armand David a permis de le faire découvrir à la science européenne au XIXᵉ siècle. L’apport scientifique de ce grand naturaliste ne se résume pas au panda, de nombreux animaux et plantes portent son nom. Découvrez comment son travail fait toujours écho à la sc",
+      "link": "https://theconversation.com/le-pere-armand-david-lhomme-qui-decouvrit-le-panda-et-le-fit-entrer-dans-la-science-287803",
+      "image": "https://images.theconversation.com/files/751204/original/file-20260730-50-a4mbgx.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-02T10:34:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "at0xt",
@@ -369,7 +369,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -388,7 +388,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +407,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +425,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aejipvu",
+      "title": "Le musée sur ordonnance : comment nos pratiques culturelles deviennent un enjeu de santé publique",
+      "summary": "La « muséothérapie » gagne du terrain. Loic Manegarium/Pexels, CC BY L’ESSENTIEL Le 18 juin dernier, les instances européennes ont déclaré la culture priorité stratégique de l’Union européenne. Il est désormais admis que les pratiques culturelles produisent des réponses psychologiques, physiologiques, sociales et compo",
+      "link": "https://theconversation.com/le-musee-sur-ordonnance-comment-nos-pratiques-culturelles-deviennent-un-enjeu-de-sante-publique-287007",
+      "image": "https://images.theconversation.com/files/753921/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-01T15:04:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +457,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +473,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +491,7 @@
       ],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -493,23 +509,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aejipvu",
-      "title": "Le musée sur ordonnance : comment nos pratiques culturelles deviennent un enjeu de santé publique",
-      "summary": "La « muséothérapie » gagne du terrain. Loic Manegarium/Pexels, CC BY L’ESSENTIEL Le 18 juin dernier, les instances européennes ont déclaré la culture priorité stratégique de l’Union européenne. Il est désormais admis que les pratiques culturelles produisent des réponses psychologiques, physiologiques, sociales et compo",
-      "link": "https://theconversation.com/le-musee-sur-ordonnance-comment-nos-pratiques-culturelles-deviennent-un-enjeu-de-sante-publique-287007",
-      "image": "https://images.theconversation.com/files/753921/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-01T15:04:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -525,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -543,7 +543,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -562,7 +562,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -578,7 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -594,7 +594,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -610,7 +610,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -626,7 +626,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "relevance": 95,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -662,8 +662,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a65d75x",
@@ -680,7 +680,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -698,7 +698,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -714,7 +714,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     }
   ]
