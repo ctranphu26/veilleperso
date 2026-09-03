@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T15:49:10.801Z",
+  "generatedAt": "2026-09-03T20:31:53.694Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 98,
+      "urgency": 93,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -181,59 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "axyhb4o",
-      "title": "Périscolaire : derrière le scandale des violences sexuelles, un secteur en manque de projet politique ?",
-      "summary": "L’ESSENTIEL Depuis 2025, une vague de révélations de violences sexuelles secoue le périscolaire (garderie, accueil des enfants après la classe…). Le scandale a mis en lumière des failles dans le recrutement et la formation des animateurs. Mais le secteur ne souffre-t-il pas, avant tout, d’un désintérêt collectif qui fr",
-      "link": "https://theconversation.com/periscolaire-derriere-le-scandale-des-violences-sexuelles-un-secteur-en-manque-de-projet-politique-290797",
-      "image": "https://counter.theconversation.com/content/290797/count.gif",
-      "publishedAt": "2026-09-03T13:50:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ays4ngt",
-      "title": "Crise d’attractivité : le rapport qui appelle à revaloriser le métier enseignant",
-      "summary": "La question salariale est au centre de la rentrée, et cela continue avec le rapport de France stratégie publié lundi 31 août. Dans son rapport sur le niveau scolaire, le L’article Crise d’attractivité : le rapport qui appelle à revaloriser le métier enseignant est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/03/crise-dattractivite-le-rapport-qui-appelle-a-revaloriser-le-metier-enseignant/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rapport-276x300.png",
-      "publishedAt": "2026-09-03T04:05:03.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aoqdw2l",
-      "title": "Un cinéaste à réhabiliter : René Clair au programme du baccalauréat",
-      "summary": "René Clair au début de sa carrière. Cinémathèque française. À l’heure où deux de ses œuvres de jeunesse, Entr’acte (1924) et Paris qui dort (1925), sont retenues au programme de la spécialité cinéma-audiovisuel du baccalauréat, il paraît utile de reconstituer l’ensemble du parcours de René Clair avant d’en dégager la p",
-      "link": "https://theconversation.com/un-cineaste-a-rehabiliter-rene-clair-au-programme-du-baccalaureat-288775",
-      "image": "https://images.theconversation.com/files/757723/original/file-20260903-50-1wf3oa.jpg?ixlib=rb-4.1.1&amp;rect=0%2C33%2C800%2C533&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-03T13:50:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -253,7 +201,59 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axyhb4o",
+      "title": "Périscolaire : derrière le scandale des violences sexuelles, un secteur en manque de projet politique ?",
+      "summary": "L’ESSENTIEL Depuis 2025, une vague de révélations de violences sexuelles secoue le périscolaire (garderie, accueil des enfants après la classe…). Le scandale a mis en lumière des failles dans le recrutement et la formation des animateurs. Mais le secteur ne souffre-t-il pas, avant tout, d’un désintérêt collectif qui fr",
+      "link": "https://theconversation.com/periscolaire-derriere-le-scandale-des-violences-sexuelles-un-secteur-en-manque-de-projet-politique-290797",
+      "image": "https://counter.theconversation.com/content/290797/count.gif",
+      "publishedAt": "2026-09-03T13:50:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ays4ngt",
+      "title": "Crise d’attractivité : le rapport qui appelle à revaloriser le métier enseignant",
+      "summary": "La question salariale est au centre de la rentrée, et cela continue avec le rapport de France stratégie publié lundi 31 août. Dans son rapport sur le niveau scolaire, le L’article Crise d’attractivité : le rapport qui appelle à revaloriser le métier enseignant est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/03/crise-dattractivite-le-rapport-qui-appelle-a-revaloriser-le-metier-enseignant/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rapport-276x300.png",
+      "publishedAt": "2026-09-03T04:05:03.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoqdw2l",
+      "title": "Un cinéaste à réhabiliter : René Clair au programme du baccalauréat",
+      "summary": "René Clair au début de sa carrière. Cinémathèque française. À l’heure où deux de ses œuvres de jeunesse, Entr’acte (1924) et Paris qui dort (1925), sont retenues au programme de la spécialité cinéma-audiovisuel du baccalauréat, il paraît utile de reconstituer l’ensemble du parcours de René Clair avant d’en dégager la p",
+      "link": "https://theconversation.com/un-cineaste-a-rehabiliter-rene-clair-au-programme-du-baccalaureat-288775",
+      "image": "https://images.theconversation.com/files/757723/original/file-20260903-50-1wf3oa.jpg?ixlib=rb-4.1.1&amp;rect=0%2C33%2C800%2C533&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-03T13:50:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -269,7 +269,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -285,7 +285,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -301,7 +301,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -317,7 +317,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -333,7 +333,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -353,7 +353,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,7 +371,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -390,7 +390,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +409,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +425,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -443,7 +443,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -493,7 +493,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -511,7 +511,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -527,7 +527,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -543,7 +543,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -559,7 +559,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -575,23 +575,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayitk5a",
-      "title": "Le père Armand David, l’homme qui « découvrit » le panda et le fit entrer dans la science",
-      "summary": "L’ESSENTIEL Si le panda était déjà connu en Chine, le père Armand David a permis de le faire découvrir à la science européenne au XIXᵉ siècle. L’apport scientifique de ce grand naturaliste ne se résume pas au panda, de nombreux animaux et plantes portent son nom. Découvrez comment son travail fait toujours écho à la sc",
-      "link": "https://theconversation.com/le-pere-armand-david-lhomme-qui-decouvrit-le-panda-et-le-fit-entrer-dans-la-science-287803",
-      "image": "https://images.theconversation.com/files/751204/original/file-20260730-50-a4mbgx.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-02T10:34:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -609,7 +593,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ayitk5a",
+      "title": "Le père Armand David, l’homme qui « découvrit » le panda et le fit entrer dans la science",
+      "summary": "L’ESSENTIEL Si le panda était déjà connu en Chine, le père Armand David a permis de le faire découvrir à la science européenne au XIXᵉ siècle. L’apport scientifique de ce grand naturaliste ne se résume pas au panda, de nombreux animaux et plantes portent son nom. Découvrez comment son travail fait toujours écho à la sc",
+      "link": "https://theconversation.com/le-pere-armand-david-lhomme-qui-decouvrit-le-panda-et-le-fit-entrer-dans-la-science-287803",
+      "image": "https://images.theconversation.com/files/751204/original/file-20260730-50-a4mbgx.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-02T10:34:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -627,7 +627,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -643,7 +643,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -659,7 +659,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -696,8 +696,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1ib0r9",
@@ -712,8 +712,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     }
   ]
 }
