@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T20:31:53.694Z",
+  "generatedAt": "2026-09-04T03:01:16.176Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 93,
+      "urgency": 86,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +181,26 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 76,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "ays4ngt",
+      "title": "Crise d’attractivité : le rapport qui appelle à revaloriser le métier enseignant",
+      "summary": "La question salariale est au centre de la rentrée, et cela continue avec le rapport de France stratégie publié lundi 31 août. Dans son rapport sur le niveau scolaire, le L’article Crise d’attractivité : le rapport qui appelle à revaloriser le métier enseignant est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/03/crise-dattractivite-le-rapport-qui-appelle-a-revaloriser-le-metier-enseignant/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rapport-276x300.png",
+      "publishedAt": "2026-09-03T04:05:03.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3w7hc9",
@@ -201,8 +219,56 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a9bewda",
+      "title": "Soutenez-nous et recevez ce livre en cadeau",
+      "summary": "La Rédaction du Café pédagogique espère que vous avez passé des vacances, ressourçantes et rafraichissantes. En cette rentrée 2026, on se retrouve sous le signe du collectif avec la publication L’article Soutenez-nous et recevez ce livre en cadeau est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/03/soutenez-nous-et-recevez-ce-livre-en-cadeau/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/breve-198x300.png",
+      "publishedAt": "2026-09-03T03:45:27.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "akps1yt",
+      "title": "Maths : parution du n° 101 de MathémaTICE",
+      "summary": "Ce numéro de rentrée de MathémaTICE explore différentes manières d’enseigner et de faire vivre les mathématiques, de la maternelle au lycée. Au programme : une journée crêpes en CM2, le L’article Maths : parution du n° 101 de MathémaTICE est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/03/maths-parution-du-n-101-de-mathematice/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/mathematice-300x152.png",
+      "publishedAt": "2026-09-03T03:29:52.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ac3xrmw",
+      "title": "Cinéma : « Salvation » de Emin Alper",
+      "summary": "Emir Alper, cinéaste turc engagé et convaincu du pouvoir d’alerte d’un cinéma politique, frappe un grand coup avec « Salvation ». Grand Prix du jury au festival de Berlin 2026, L’article Cinéma : « Salvation » de Emin Alper est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/03/cinema-salvation-de-emin-alper/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/salvation-aff-120x160-6a54acbf23cac-221x300.jpg",
+      "publishedAt": "2026-09-03T03:28:05.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axyhb4o",
@@ -219,26 +285,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ays4ngt",
-      "title": "Crise d’attractivité : le rapport qui appelle à revaloriser le métier enseignant",
-      "summary": "La question salariale est au centre de la rentrée, et cela continue avec le rapport de France stratégie publié lundi 31 août. Dans son rapport sur le niveau scolaire, le L’article Crise d’attractivité : le rapport qui appelle à revaloriser le métier enseignant est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/03/crise-dattractivite-le-rapport-qui-appelle-a-revaloriser-le-metier-enseignant/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rapport-276x300.png",
-      "publishedAt": "2026-09-03T04:05:03.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aoqdw2l",
@@ -253,56 +301,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a9bewda",
-      "title": "Soutenez-nous et recevez ce livre en cadeau",
-      "summary": "La Rédaction du Café pédagogique espère que vous avez passé des vacances, ressourçantes et rafraichissantes. En cette rentrée 2026, on se retrouve sous le signe du collectif avec la publication L’article Soutenez-nous et recevez ce livre en cadeau est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/03/soutenez-nous-et-recevez-ce-livre-en-cadeau/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/breve-198x300.png",
-      "publishedAt": "2026-09-03T03:45:27.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "akps1yt",
-      "title": "Maths : parution du n° 101 de MathémaTICE",
-      "summary": "Ce numéro de rentrée de MathémaTICE explore différentes manières d’enseigner et de faire vivre les mathématiques, de la maternelle au lycée. Au programme : une journée crêpes en CM2, le L’article Maths : parution du n° 101 de MathémaTICE est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/03/maths-parution-du-n-101-de-mathematice/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/mathematice-300x152.png",
-      "publishedAt": "2026-09-03T03:29:52.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ac3xrmw",
-      "title": "Cinéma : « Salvation » de Emin Alper",
-      "summary": "Emir Alper, cinéaste turc engagé et convaincu du pouvoir d’alerte d’un cinéma politique, frappe un grand coup avec « Salvation ». Grand Prix du jury au festival de Berlin 2026, L’article Cinéma : « Salvation » de Emin Alper est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/03/cinema-salvation-de-emin-alper/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/salvation-aff-120x160-6a54acbf23cac-221x300.jpg",
-      "publishedAt": "2026-09-03T03:28:05.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aoge2ud",
@@ -317,8 +317,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8sztjz",
@@ -333,8 +333,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adxmx1b",
@@ -353,7 +353,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,7 +371,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -390,7 +390,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,23 +409,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "auha8ip",
-      "title": "Le Cnesco ouvre les candidatures pour un jury sur la baisse démographique",
-      "summary": "Le Cnesco, avec le laboratoire CRISES de l’Université de Montpellier Paul-Valéry, l’Institut français de l’Éducation (IFÉ-ENS de Lyon) et l’Institut universitaire de France, organise les 1er et 2 février 2027 L’article Le Cnesco ouvre les candidatures pour un jury sur la baisse démographique est apparu en premier sur L",
-      "link": "https://www.cafepedagogique.net/2026/09/03/le-cnesco-ouvre-les-candidatures-pour-un-jury-sur-la-baisse-demographique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/baisse-demographie-scolaire-picto.png",
-      "publishedAt": "2026-09-03T03:27:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -443,7 +427,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "auha8ip",
+      "title": "Le Cnesco ouvre les candidatures pour un jury sur la baisse démographique",
+      "summary": "Le Cnesco, avec le laboratoire CRISES de l’Université de Montpellier Paul-Valéry, l’Institut français de l’Éducation (IFÉ-ENS de Lyon) et l’Institut universitaire de France, organise les 1er et 2 février 2027 L’article Le Cnesco ouvre les candidatures pour un jury sur la baisse démographique est apparu en premier sur L",
+      "link": "https://www.cafepedagogique.net/2026/09/03/le-cnesco-ouvre-les-candidatures-pour-un-jury-sur-la-baisse-demographique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/baisse-demographie-scolaire-picto.png",
+      "publishedAt": "2026-09-03T03:27:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -493,7 +493,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -511,7 +511,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -527,7 +527,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -543,7 +543,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -559,7 +559,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -575,7 +575,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ayitk5a",
+      "title": "Le père Armand David, l’homme qui « découvrit » le panda et le fit entrer dans la science",
+      "summary": "L’ESSENTIEL Si le panda était déjà connu en Chine, le père Armand David a permis de le faire découvrir à la science européenne au XIXᵉ siècle. L’apport scientifique de ce grand naturaliste ne se résume pas au panda, de nombreux animaux et plantes portent son nom. Découvrez comment son travail fait toujours écho à la sc",
+      "link": "https://theconversation.com/le-pere-armand-david-lhomme-qui-decouvrit-le-panda-et-le-fit-entrer-dans-la-science-287803",
+      "image": "https://images.theconversation.com/files/751204/original/file-20260730-50-a4mbgx.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-02T10:34:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -593,23 +609,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayitk5a",
-      "title": "Le père Armand David, l’homme qui « découvrit » le panda et le fit entrer dans la science",
-      "summary": "L’ESSENTIEL Si le panda était déjà connu en Chine, le père Armand David a permis de le faire découvrir à la science européenne au XIXᵉ siècle. L’apport scientifique de ce grand naturaliste ne se résume pas au panda, de nombreux animaux et plantes portent son nom. Découvrez comment son travail fait toujours écho à la sc",
-      "link": "https://theconversation.com/le-pere-armand-david-lhomme-qui-decouvrit-le-panda-et-le-fit-entrer-dans-la-science-287803",
-      "image": "https://images.theconversation.com/files/751204/original/file-20260730-50-a4mbgx.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-02T10:34:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -627,7 +627,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -643,7 +643,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -659,7 +659,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -677,8 +677,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ate95jm",
@@ -696,7 +696,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -712,7 +712,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     }
   ]
