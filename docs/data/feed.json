@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T15:47:28.452Z",
+  "generatedAt": "2026-09-04T20:18:14.576Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,25 +133,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 98,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aj3puiq",
-      "title": "L’interdiction des réseaux sociaux aux moins de 15 ans n’est pas pour tout de suite",
-      "summary": "Le Conseil constitutionnel a censuré, mi-août, la loi interdisant les réseaux sociaux aux moins de 15 ans qui avait été adoptée par le parlement en juillet. Emmanuel Macron a chargé L’article L’interdiction des réseaux sociaux aux moins de 15 ans n’est pas pour tout de suite est apparu en premier sur Le Café pédagogiqu",
-      "link": "https://www.cafepedagogique.net/2026/09/04/linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-nest-pas-pour-tout-de-suite/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rs-300x199.png",
-      "publishedAt": "2026-09-04T03:55:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 93,
       "urgencyLevel": "haute"
     },
     {
@@ -170,7 +152,25 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aj3puiq",
+      "title": "L’interdiction des réseaux sociaux aux moins de 15 ans n’est pas pour tout de suite",
+      "summary": "Le Conseil constitutionnel a censuré, mi-août, la loi interdisant les réseaux sociaux aux moins de 15 ans qui avait été adoptée par le parlement en juillet. Emmanuel Macron a chargé L’article L’interdiction des réseaux sociaux aux moins de 15 ans n’est pas pour tout de suite est apparu en premier sur Le Café pédagogiqu",
+      "link": "https://www.cafepedagogique.net/2026/09/04/linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-nest-pas-pour-tout-de-suite/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rs-300x199.png",
+      "publishedAt": "2026-09-04T03:55:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -204,7 +204,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -220,7 +220,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -236,7 +236,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -255,7 +255,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -274,7 +274,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -292,7 +292,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -312,7 +312,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -330,7 +330,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -348,7 +348,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -364,7 +364,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -380,7 +380,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,7 +398,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -416,7 +416,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,7 +432,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -448,7 +448,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +464,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -482,7 +482,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -498,7 +498,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -514,7 +514,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -532,7 +532,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -550,7 +550,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -566,7 +566,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -582,7 +582,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -598,7 +598,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -614,7 +614,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -630,7 +630,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -646,7 +646,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -664,7 +664,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -680,7 +680,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -698,7 +698,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 28,
+      "urgency": 27,
       "urgencyLevel": "basse"
     }
   ]
