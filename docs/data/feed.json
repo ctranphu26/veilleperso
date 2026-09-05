@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:18:14.576Z",
+  "generatedAt": "2026-09-05T03:03:13.526Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 93,
+      "urgency": 88,
       "urgencyLevel": "haute"
     },
     {
@@ -152,8 +152,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aj3puiq",
@@ -170,8 +170,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atdg5p",
@@ -188,8 +188,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axx9ewh",
@@ -204,8 +204,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aljph0t",
@@ -220,8 +220,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1czpa1",
@@ -236,8 +236,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "andbyqq",
@@ -255,7 +255,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -274,7 +274,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -292,7 +292,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -312,25 +312,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahle07i",
-      "title": "Écrans : avant d’interdire aux enfants, regardons nos propres usages",
-      "summary": "Et si, avant d’interdire les écrans aux enfants, les adultes commençaient par regarder leurs propres usages ? Smartphones, réseaux sociaux, télévision : les jeunes n’ont ni inventé ces outils, ni L’article Écrans : avant d’interdire aux enfants, regardons nos propres usages est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/09/04/ecrans-avant-dinterdire-aux-enfants-regardons-nos-propres-usages/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
-      "publishedAt": "2026-09-04T03:42:12.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -348,7 +330,25 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahle07i",
+      "title": "Écrans : avant d’interdire aux enfants, regardons nos propres usages",
+      "summary": "Et si, avant d’interdire les écrans aux enfants, les adultes commençaient par regarder leurs propres usages ? Smartphones, réseaux sociaux, télévision : les jeunes n’ont ni inventé ces outils, ni L’article Écrans : avant d’interdire aux enfants, regardons nos propres usages est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/09/04/ecrans-avant-dinterdire-aux-enfants-regardons-nos-propres-usages/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-09-04T03:42:12.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -364,7 +364,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -380,7 +380,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,7 +398,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -416,7 +416,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,7 +432,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -448,7 +448,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +464,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aa1y8sl",
+      "title": "« Et clic, l’argent est là » : les usages du crédit digital en Côte d’Ivoire",
+      "summary": "L’ESSENTIEL Accessible en quelques clics, le crédit digital connaît un essor rapide en Afrique, et notamment en Côte d’Ivoire. Ces petits crédits servent surtout à répondre aux situations urgentes. Loin de discipliner ou de transformer profondément les budgets, le crédit digital apparaît surtout comme un outil suppléme",
+      "link": "https://theconversation.com/et-clic-largent-est-la-les-usages-du-credit-digital-en-cote-divoire-290006",
+      "image": "https://images.theconversation.com/files/755964/original/file-20260825-60-umb0ac.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-01T14:59:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -482,23 +498,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aa1y8sl",
-      "title": "« Et clic, l’argent est là » : les usages du crédit digital en Côte d’Ivoire",
-      "summary": "L’ESSENTIEL Accessible en quelques clics, le crédit digital connaît un essor rapide en Afrique, et notamment en Côte d’Ivoire. Ces petits crédits servent surtout à répondre aux situations urgentes. Loin de discipliner ou de transformer profondément les budgets, le crédit digital apparaît surtout comme un outil suppléme",
-      "link": "https://theconversation.com/et-clic-largent-est-la-les-usages-du-credit-digital-en-cote-divoire-290006",
-      "image": "https://images.theconversation.com/files/755964/original/file-20260825-60-umb0ac.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-01T14:59:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -514,26 +514,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aed4xom",
-      "title": "Sur le terrain, les chercheuses face aux violences sexistes et sexuelles de leurs collègues",
-      "summary": "Selon une étude internationale, menée en 2014, 64 % des chercheuses rapportent avoir subi du harcèlement sexuel lors de missions de recherche sur le terrain. Kaab Empresa/Unsplash, CC BY L’ESSENTIEL Les missions de terrain exposent les chercheuses à des risques spécifiques de violences sexistes et sexuelles de la part ",
-      "link": "https://theconversation.com/sur-le-terrain-les-chercheuses-face-aux-violences-sexistes-et-sexuelles-de-leurs-collegues-288631",
-      "image": "https://images.theconversation.com/files/757206/original/file-20260901-50-jtonc7.jpg?ixlib=rb-4.1.1&amp;rect=0%2C65%2C4382%2C2921&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-02T14:01:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 37,
-      "urgencyLevel": "basse"
     },
     {
       "id": "aoelrfj",
@@ -550,71 +532,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arfyif8",
-      "title": "Pourboire : pourquoi continuеr à récompenser un service déjà réglé alors que rien ne nous y oblige ?",
-      "summary": "L’ESSENTIEL Le pourboire paraît être un petit geste banal de fin de repas au restaurant. Il révèle pourtant des mécanismes sociaux complexes. La recherche en psychologie sociale met en lumière le poids prépondérant des émotions dans cette transaction commerciale. L’avènement du terminal de paiement laisse entrevoir un ",
-      "link": "https://theconversation.com/pourboire-pourquoi-continu-r-a-recompenser-un-service-deja-regle-alors-que-rien-ne-nous-y-oblige-280528",
-      "image": "https://counter.theconversation.com/content/280528/count.gif",
-      "publishedAt": "2026-09-02T14:05:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avff60t",
-      "title": "Le Maghreb, un territoire à géométrie variable",
-      "summary": "Si, en France, le terme « Maghreb » désigne communément l’ensemble formé par la Tunisie, le Maroc et l’Algérie, les délimitations et la dénomination même de cette région n’ont rien de défini. Les circulations et les différents peuplements qui se sont succédé au fil de son histoire invitent à la concevoir comme un espac",
-      "link": "https://theconversation.com/le-maghreb-un-territoire-a-geometrie-variable-290265",
-      "image": "https://counter.theconversation.com/content/290265/count.gif",
-      "publishedAt": "2026-09-02T14:04:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avfsc7d",
-      "title": "Routes, stations de ski, permis de construire : quand les décideurs publics apprennent à dire stop",
-      "summary": "Fermée depuis novembre 2019, la piscine municipale Vaucanson à Grenoble a été choisie pour devenir le siège de la future Cit’Écobat, cité des métiers du bâtiment sobre, durable, connecté. Greta de Grenoble, Fourni par l'auteur L’ESSENTIEL Longtemps, l’action publique s’est pensée comme un art de construire, d’aménager ",
-      "link": "https://theconversation.com/routes-stations-de-ski-permis-de-construire-quand-les-decideurs-publics-apprennent-a-dire-stop-285115",
-      "image": "https://images.theconversation.com/files/748929/original/file-20260720-57-7kn0nw.jpg?ixlib=rb-4.1.1&amp;rect=200%2C0%2C2160%2C1440&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-02T14:03:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ag9feq6",
-      "title": "Palaces and the Pope: the fascinating story of how Renaissance Rome was rebuilt",
-      "summary": "The Eternal City underwent a period of renewal spanning the late 14th century to the late 16th century, following a period of economic stagnation. Today, 84% of the palaces built during this period are still standing. Wikimediacommons Nearly 31% of Rome’s palaces were built between 1378 and 1599, after a century of eco",
-      "link": "https://theconversation.com/palaces-and-the-pope-the-fascinating-story-of-how-renaissance-rome-was-rebuilt-290876",
-      "image": "https://images.theconversation.com/files/756972/original/file-20260730-50-6hn4vc.png?ixlib=rb-4.1.1&amp;rect=346%2C0%2C1338%2C892&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-02T13:53:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -630,7 +548,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -646,7 +564,89 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aed4xom",
+      "title": "Sur le terrain, les chercheuses face aux violences sexistes et sexuelles de leurs collègues",
+      "summary": "Selon une étude internationale, menée en 2014, 64 % des chercheuses rapportent avoir subi du harcèlement sexuel lors de missions de recherche sur le terrain. Kaab Empresa/Unsplash, CC BY L’ESSENTIEL Les missions de terrain exposent les chercheuses à des risques spécifiques de violences sexistes et sexuelles de la part ",
+      "link": "https://theconversation.com/sur-le-terrain-les-chercheuses-face-aux-violences-sexistes-et-sexuelles-de-leurs-collegues-288631",
+      "image": "https://images.theconversation.com/files/757206/original/file-20260901-50-jtonc7.jpg?ixlib=rb-4.1.1&amp;rect=0%2C65%2C4382%2C2921&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-02T14:01:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "arfyif8",
+      "title": "Pourboire : pourquoi continuеr à récompenser un service déjà réglé alors que rien ne nous y oblige ?",
+      "summary": "L’ESSENTIEL Le pourboire paraît être un petit geste banal de fin de repas au restaurant. Il révèle pourtant des mécanismes sociaux complexes. La recherche en psychologie sociale met en lumière le poids prépondérant des émotions dans cette transaction commerciale. L’avènement du terminal de paiement laisse entrevoir un ",
+      "link": "https://theconversation.com/pourboire-pourquoi-continu-r-a-recompenser-un-service-deja-regle-alors-que-rien-ne-nous-y-oblige-280528",
+      "image": "https://counter.theconversation.com/content/280528/count.gif",
+      "publishedAt": "2026-09-02T14:05:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "avff60t",
+      "title": "Le Maghreb, un territoire à géométrie variable",
+      "summary": "Si, en France, le terme « Maghreb » désigne communément l’ensemble formé par la Tunisie, le Maroc et l’Algérie, les délimitations et la dénomination même de cette région n’ont rien de défini. Les circulations et les différents peuplements qui se sont succédé au fil de son histoire invitent à la concevoir comme un espac",
+      "link": "https://theconversation.com/le-maghreb-un-territoire-a-geometrie-variable-290265",
+      "image": "https://counter.theconversation.com/content/290265/count.gif",
+      "publishedAt": "2026-09-02T14:04:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "avfsc7d",
+      "title": "Routes, stations de ski, permis de construire : quand les décideurs publics apprennent à dire stop",
+      "summary": "Fermée depuis novembre 2019, la piscine municipale Vaucanson à Grenoble a été choisie pour devenir le siège de la future Cit’Écobat, cité des métiers du bâtiment sobre, durable, connecté. Greta de Grenoble, Fourni par l'auteur L’ESSENTIEL Longtemps, l’action publique s’est pensée comme un art de construire, d’aménager ",
+      "link": "https://theconversation.com/routes-stations-de-ski-permis-de-construire-quand-les-decideurs-publics-apprennent-a-dire-stop-285115",
+      "image": "https://images.theconversation.com/files/748929/original/file-20260720-57-7kn0nw.jpg?ixlib=rb-4.1.1&amp;rect=200%2C0%2C2160%2C1440&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-02T14:03:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ag9feq6",
+      "title": "Palaces and the Pope: the fascinating story of how Renaissance Rome was rebuilt",
+      "summary": "The Eternal City underwent a period of renewal spanning the late 14th century to the late 16th century, following a period of economic stagnation. Today, 84% of the palaces built during this period are still standing. Wikimediacommons Nearly 31% of Rome’s palaces were built between 1378 and 1599, after a century of eco",
+      "link": "https://theconversation.com/palaces-and-the-pope-the-fascinating-story-of-how-renaissance-rome-was-rebuilt-290876",
+      "image": "https://images.theconversation.com/files/756972/original/file-20260730-50-6hn4vc.png?ixlib=rb-4.1.1&amp;rect=346%2C0%2C1338%2C892&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-02T13:53:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -664,7 +664,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -680,7 +680,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -698,7 +698,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
