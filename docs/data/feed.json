@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T14:38:10.364Z",
+  "generatedAt": "2026-09-05T19:57:20.108Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,55 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1py601",
+      "title": "Vers un ciel artificiel ? Ce que prévoit le droit contre la pollution du ciel nocturne",
+      "summary": "La nébuleuse d’Orion prise en photo en 2009. Sur les 208 minutes nécessaires à la pause, de nombreux satellites sont passés devant l’objectif et empêchent de voir une partie du ciel. A. H. Abolfath/NOIRLab/NSF/AURA, CC BY L’ESSENTIEL L’explosion en cours du nombre de satellites vient s’ajouter à la pollution lumineuse ",
+      "link": "https://theconversation.com/vers-un-ciel-artificiel-ce-que-prevoit-le-droit-contre-la-pollution-du-ciel-nocturne-290885",
+      "image": "https://images.theconversation.com/files/757523/original/file-20260902-60-hty9m0.jpg?ixlib=rb-4.1.1&amp;rect=0%2C158%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-05T15:13:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ami9hxm",
+      "title": "Notre ciel nocturne est en train de disparaître : un des enjeux du Sommet international sur l’espace 2026",
+      "summary": "Cette photo permet de distinguer non seulement les constellations d’Orion et du Taureau, ainsi que la Voie lactée, mais aussi les traînées laissées par de nombreux satellites traversant le ciel. Parmi ceux-ci figurent la Station spatiale internationale, des satellites de la mégaconstellation Starlink ainsi qu’une myria",
+      "link": "https://theconversation.com/notre-ciel-nocturne-est-en-train-de-disparaitre-un-des-enjeux-du-sommet-international-sur-lespace-2026-290870",
+      "image": "https://images.theconversation.com/files/756975/original/file-20260831-50-y68obc.jpg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C2497%2C1664&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-05T15:12:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "als02ah",
+      "title": "Actualité de l’éducation du 31 août au 4 septembre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine sur le Café pédagogique. Si vous ne connaissez pas encore notre application officielle, venez la découvrir L’article Actualité de l’éducation du 31 août au 4 septembre 2026 est apparu en premier sur Le Café pédagogiqu",
+      "link": "https://www.cafepedagogique.net/2026/09/05/actualite-de-leducation-du-31-aout-au-4-septembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Djehanne-Gani-Cafe-pedagogique-225x300.jpeg",
+      "publishedAt": "2026-09-05T13:45:20.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +215,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -183,8 +231,26 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "awf4yej",
+      "title": "13 ressources sélectionnées par le Café pédagogique",
+      "summary": "Retrouvez sur cette page 13 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Ecrire en 2de avec l’IA : leçons d’expériences L’article 13 ressources sélectionnées par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/05/13-ressources-selectionnees-par-le-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Ecrire-en-2nde-avec-lIA-Lecons-dexperiences-300x190.png",
+      "publishedAt": "2026-09-05T05:46:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axx9ewh",
@@ -199,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,26 +283,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq8kp9l",
-      "title": "Violente agression sexuelle sur une enseignante à Nantes : préavis de grève déposé",
-      "summary": "Suite à l’agression sexuelle d’une extrême violence subie en juin 2026 par une collègue professeure, les enseignant·es du collège la Durantière à Nantes, menacent de faire grève à compter du L’article Violente agression sexuelle sur une enseignante à Nantes : préavis de grève déposé est apparu en premier sur Le Café pé",
-      "link": "https://www.cafepedagogique.net/2026/09/04/violente-agression-sexuelle-sur-une-enseignante-a-nantes-preavis-de-greve-depose/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/college-la-durantiere-300x176.png",
-      "publishedAt": "2026-09-04T03:27:48.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant",
-        "professeur"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -254,7 +301,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +317,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +333,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +351,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +367,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +383,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -355,25 +402,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahle07i",
-      "title": "Écrans : avant d’interdire aux enfants, regardons nos propres usages",
-      "summary": "Et si, avant d’interdire les écrans aux enfants, les adultes commençaient par regarder leurs propres usages ? Smartphones, réseaux sociaux, télévision : les jeunes n’ont ni inventé ces outils, ni L’article Écrans : avant d’interdire aux enfants, regardons nos propres usages est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/09/04/ecrans-avant-dinterdire-aux-enfants-regardons-nos-propres-usages/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
-      "publishedAt": "2026-09-04T03:42:12.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -392,7 +421,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -410,7 +439,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -430,24 +459,24 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "ays4ngt",
-      "title": "Crise d’attractivité : le rapport qui appelle à revaloriser le métier enseignant",
-      "summary": "La question salariale est au centre de la rentrée, et cela continue avec le rapport de France stratégie publié lundi 31 août. Dans son rapport sur le niveau scolaire, le L’article Crise d’attractivité : le rapport qui appelle à revaloriser le métier enseignant est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/03/crise-dattractivite-le-rapport-qui-appelle-a-revaloriser-le-metier-enseignant/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rapport-276x300.png",
-      "publishedAt": "2026-09-03T04:05:03.000Z",
+      "id": "ahle07i",
+      "title": "Écrans : avant d’interdire aux enfants, regardons nos propres usages",
+      "summary": "Et si, avant d’interdire les écrans aux enfants, les adultes commençaient par regarder leurs propres usages ? Smartphones, réseaux sociaux, télévision : les jeunes n’ont ni inventé ces outils, ni L’article Écrans : avant d’interdire aux enfants, regardons nos propres usages est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/09/04/ecrans-avant-dinterdire-aux-enfants-regardons-nos-propres-usages/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-09-04T03:42:12.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
+      "themeId": "education-medias",
       "keywords": [
-        "enseignant"
+        "réseaux sociaux"
       ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
       "urgency": 45,
       "urgencyLevel": "moyenne"
     },
@@ -466,8 +495,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aoqdw2l",
@@ -482,8 +511,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "agqipyz",
@@ -500,7 +529,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -516,7 +545,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -532,7 +561,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -548,23 +577,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aejipvu",
-      "title": "Le musée sur ordonnance : comment nos pratiques culturelles deviennent un enjeu de santé publique",
-      "summary": "La « muséothérapie » gagne du terrain. Loic Manegarium/Pexels, CC BY L’ESSENTIEL Le 18 juin dernier, les instances européennes ont déclaré la culture priorité stratégique de l’Union européenne. Il est désormais admis que les pratiques culturelles produisent des réponses psychologiques, physiologiques, sociales et compo",
-      "link": "https://theconversation.com/le-musee-sur-ordonnance-comment-nos-pratiques-culturelles-deviennent-un-enjeu-de-sante-publique-287007",
-      "image": "https://images.theconversation.com/files/753921/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-01T15:04:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -582,7 +595,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -600,7 +613,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -616,7 +629,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -632,7 +645,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -648,7 +661,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -664,7 +677,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -682,7 +695,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -698,25 +711,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a46p6n7",
-      "title": "Santé des pompiers : pourquoi il faut poursuivre les recherches",
-      "summary": "L’ESSENTIEL L’activité des pompiers les expose, tout au long de leur carrière, à de nombreux facteurs de risque, qu’ils soient chimiques, physiques ou psychiques. Ces expositions multiples sont très intriquées les unes aux autres, ce qui complique l’évaluation de leurs effets sur la santé. Des recherches complémentaire",
-      "link": "https://theconversation.com/sante-des-pompiers-pourquoi-il-faut-poursuivre-les-recherches-290926",
-      "image": "https://counter.theconversation.com/content/290926/count.gif",
-      "publishedAt": "2026-09-01T20:30:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "évaluation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 25,
       "urgencyLevel": "basse"
     }
   ]
