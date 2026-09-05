@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:59:16.958Z",
+  "generatedAt": "2026-09-05T14:38:10.364Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "a9z3v1a",
+      "title": "Pourquoi les séries coréennes préfèrent suggérer plutôt que démontrer",
+      "summary": "Plan tiré de *Justice juvénile*, dont l’action se déroule dans un tribunal pour enfants. Netflix Le stratège taoïste Guiguzi – de son nom de naissance probable Wang Xu (王詡) – célèbre pour son Tao de la tromperie, une pensée vieille de plus de deux mille ans, éclaire la manière dont les séries sud-coréennes persuadent a",
+      "link": "https://theconversation.com/pourquoi-les-series-coreennes-preferent-suggerer-plutot-que-demontrer-290879",
+      "image": "https://images.theconversation.com/files/757974/original/file-20260904-60-tamito.png?ixlib=rb-4.1.1&amp;rect=5%2C0%2C2033%2C1355&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-05T11:36:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "agxp6fa",
       "title": "Menace de mutation de deux professeures lanceuses d’alerte : le lycée Utrillo de Stains en grève",
       "summary": "Procédure bâillon, intimidation ? À la veille de la rentrée, deux professeures du lycée Maurice-Utrillo de Stains ont reçu un courrier du rectorat de Créteil les informant qu’une mutation « dans L’article Menace de mutation de deux professeures lanceuses d’alerte : le lycée Utrillo de Stains en grève est apparu en prem",
@@ -133,7 +149,41 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aitgadd",
+      "title": "La voiture électrique peut-elle faire disparaître 20 milliards de recettes fiscales ?",
+      "summary": "L’ESSENTIEL Le véhicule électrique est un moyen de réduire les émissions de CO₂ dues aux déplacements. Pour l’État, la fiscalité sur les carburants est une source de revenus importante. En outre, l’acquisition des véhicules électriques est subventionnée. Autant dire que le bilan fiscal est moins favorable que le bilan ",
+      "link": "https://theconversation.com/la-voiture-electrique-peut-elle-faire-disparaitre-20-milliards-de-recettes-fiscales-291053",
+      "image": "https://counter.theconversation.com/content/291053/count.gif",
+      "publishedAt": "2026-09-05T11:35:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ael0wzw",
+      "title": "Pour quelles raisons André Citroën pourrait-il devenir le premier industriel à entrer au Panthéon ?",
+      "summary": "L’industriel français André Citroën sur un paquebot. Library of Congress /George Grantham Bain Collection L’ESSENTIEL Lors de la rencontre des entrepreneurs de France, le président du Medef Patrick Martin a soutenu le projet d’entrée au Panthéon d’André Citroën. Si la marque est toujours connue, la biographie de son fo",
+      "link": "https://theconversation.com/pour-quelles-raisons-andre-citroen-pourrait-il-devenir-le-premier-industriel-a-entrer-au-pantheon-288835",
+      "image": "https://images.theconversation.com/files/756009/original/file-20260825-50-nip81q.png?ixlib=rb-4.1.1&amp;rect=35%2C0%2C1355%2C903&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-05T11:35:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +199,25 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aj3puiq",
+      "title": "L’interdiction des réseaux sociaux aux moins de 15 ans n’est pas pour tout de suite",
+      "summary": "Le Conseil constitutionnel a censuré, mi-août, la loi interdisant les réseaux sociaux aux moins de 15 ans qui avait été adoptée par le parlement en juillet. Emmanuel Macron a chargé L’article L’interdiction des réseaux sociaux aux moins de 15 ans n’est pas pour tout de suite est apparu en premier sur Le Café pédagogiqu",
+      "link": "https://www.cafepedagogique.net/2026/09/04/linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-nest-pas-pour-tout-de-suite/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rs-300x199.png",
+      "publishedAt": "2026-09-04T03:55:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -168,25 +236,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aj3puiq",
-      "title": "L’interdiction des réseaux sociaux aux moins de 15 ans n’est pas pour tout de suite",
-      "summary": "Le Conseil constitutionnel a censuré, mi-août, la loi interdisant les réseaux sociaux aux moins de 15 ans qui avait été adoptée par le parlement en juillet. Emmanuel Macron a chargé L’article L’interdiction des réseaux sociaux aux moins de 15 ans n’est pas pour tout de suite est apparu en premier sur Le Café pédagogiqu",
-      "link": "https://www.cafepedagogique.net/2026/09/04/linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-nest-pas-pour-tout-de-suite/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rs-300x199.png",
-      "publishedAt": "2026-09-04T03:55:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -204,7 +254,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -220,7 +270,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -236,7 +286,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -254,7 +304,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -305,7 +355,25 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 49,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahle07i",
+      "title": "Écrans : avant d’interdire aux enfants, regardons nos propres usages",
+      "summary": "Et si, avant d’interdire les écrans aux enfants, les adultes commençaient par regarder leurs propres usages ? Smartphones, réseaux sociaux, télévision : les jeunes n’ont ni inventé ces outils, ni L’article Écrans : avant d’interdire aux enfants, regardons nos propres usages est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/09/04/ecrans-avant-dinterdire-aux-enfants-regardons-nos-propres-usages/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-09-04T03:42:12.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -324,7 +392,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,7 +410,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -362,25 +430,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahle07i",
-      "title": "Écrans : avant d’interdire aux enfants, regardons nos propres usages",
-      "summary": "Et si, avant d’interdire les écrans aux enfants, les adultes commençaient par regarder leurs propres usages ? Smartphones, réseaux sociaux, télévision : les jeunes n’ont ni inventé ces outils, ni L’article Écrans : avant d’interdire aux enfants, regardons nos propres usages est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/09/04/ecrans-avant-dinterdire-aux-enfants-regardons-nos-propres-usages/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
-      "publishedAt": "2026-09-04T03:42:12.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,7 +448,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -416,7 +466,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,55 +482,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aa1y8sl",
-      "title": "« Et clic, l’argent est là » : les usages du crédit digital en Côte d’Ivoire",
-      "summary": "L’ESSENTIEL Accessible en quelques clics, le crédit digital connaît un essor rapide en Afrique, et notamment en Côte d’Ivoire. Ces petits crédits servent surtout à répondre aux situations urgentes. Loin de discipliner ou de transformer profondément les budgets, le crédit digital apparaît surtout comme un outil suppléme",
-      "link": "https://theconversation.com/et-clic-largent-est-la-les-usages-du-credit-digital-en-cote-divoire-290006",
-      "image": "https://images.theconversation.com/files/755964/original/file-20260825-60-umb0ac.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-01T14:59:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aoge2ud",
-      "title": "La pollution plastique, grande oubliée du bilan carbone",
-      "summary": "L’ESSENTIEL Un T-shirt « climatiquement vertueux » peut émettre des millions de microplastiques : c’est l’angle mort du bilan carbone. Nous proposons un calcul systématique de l’empreinte plastique particulaire pour quantifier et contrer cette pollution ignorée par l’empreinte carbone. Intégrer cet indicateur dans les ",
-      "link": "https://theconversation.com/la-pollution-plastique-grande-oubliee-du-bilan-carbone-289821",
-      "image": "https://images.theconversation.com/files/754055/original/file-20260814-50-2ntac8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-03T10:44:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8sztjz",
-      "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
-      "summary": "Des fragments de plastique de très petite taille peuvent se mélanger aux grains de sable, aux matières organiques ou aux sédiments. Les repérer ne suffit pas toujours : il faut aussi confirmer leur nature chimique. NOAA Marine Debris Program/Wikimedia Commons, domaine public, CC BY L’ESSENTIEL La taille des microplasti",
-      "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
-      "image": "https://images.theconversation.com/files/744229/original/file-20260625-71-38x53y.jpg?ixlib=rb-4.1.1&amp;rect=0%2C128%2C3072%2C2048&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-03T10:43:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -498,8 +500,40 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aoge2ud",
+      "title": "La pollution plastique, grande oubliée du bilan carbone",
+      "summary": "L’ESSENTIEL Un T-shirt « climatiquement vertueux » peut émettre des millions de microplastiques : c’est l’angle mort du bilan carbone. Nous proposons un calcul systématique de l’empreinte plastique particulaire pour quantifier et contrer cette pollution ignorée par l’empreinte carbone. Intégrer cet indicateur dans les ",
+      "link": "https://theconversation.com/la-pollution-plastique-grande-oubliee-du-bilan-carbone-289821",
+      "image": "https://images.theconversation.com/files/754055/original/file-20260814-50-2ntac8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-03T10:44:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a8sztjz",
+      "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
+      "summary": "Des fragments de plastique de très petite taille peuvent se mélanger aux grains de sable, aux matières organiques ou aux sédiments. Les repérer ne suffit pas toujours : il faut aussi confirmer leur nature chimique. NOAA Marine Debris Program/Wikimedia Commons, domaine public, CC BY L’ESSENTIEL La taille des microplasti",
+      "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
+      "image": "https://images.theconversation.com/files/744229/original/file-20260625-71-38x53y.jpg?ixlib=rb-4.1.1&amp;rect=0%2C128%2C3072%2C2048&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-03T10:43:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a66s7fg",
@@ -514,7 +548,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -530,23 +564,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ai2s2v0",
-      "title": "Une rentrée sans toit : comment la crise du logement étudiant fragilise l’entrée dans l’âge adulte",
-      "summary": "L’ESSENTIEL La recherche d’un logement étudiant est un parcours du combattant. Cette instabilité résidentielle a des répercussions bien au-delà de la rentrée universitaire sur les conditions d’études et de vie des jeunes. Une recherche, menée en France et en Irlande, interroge les risques d’une citoyenneté différée. À ",
-      "link": "https://theconversation.com/une-rentree-sans-toit-comment-la-crise-du-logement-etudiant-fragilise-lentree-dans-lage-adulte-289101",
-      "image": "https://counter.theconversation.com/content/289101/count.gif",
-      "publishedAt": "2026-09-01T15:01:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -564,7 +582,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -582,7 +600,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -598,7 +616,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -614,7 +632,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -630,7 +648,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -646,7 +664,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -664,7 +682,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -680,7 +698,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -698,25 +716,6 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ate95jm",
-      "title": "Vagues de chaleur à l’école : pourquoi rénover les murs ne suffira pas",
-      "summary": "L’ESSENTIEL Fin mai 2026, le ministère de l’éducation nationale publiait son premier plan « vagues de chaleur » pour les écoles, qui charge les collectivités de repérer les bâtiments les plus exposés et de lancer les chantiers prioritaires. Mais la fraîcheur d’une classe ne dépend pas seulement de la rénovation thermiq",
-      "link": "https://theconversation.com/vagues-de-chaleur-a-lecole-pourquoi-renover-les-murs-ne-suffira-pas-289415",
-      "image": "https://images.theconversation.com/files/753083/original/file-20260810-50-ef59ag.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-01T15:01:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "classe"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
       "urgency": 22,
       "urgencyLevel": "basse"
     }
