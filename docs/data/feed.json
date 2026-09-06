@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T03:02:55.438Z",
+  "generatedAt": "2026-09-06T10:18:10.970Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,8 +131,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agxp6fa",
@@ -149,8 +149,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1py601",
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +197,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +215,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +249,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +283,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,39 +301,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aljph0t",
-      "title": "Avant d’être ennemis, ils étaient amis… La bromance méconnue de Guillaume le Conquérant et Harold",
-      "summary": "Dans les premières scènes de la tapisserie de Bayeux, avant le serment visible ici, Guillaume de Normandie et Harold Godwinson s’entraident. Wikimedia L’ESSENTIEL La tapisserie de Bayeux, présentée au British Museum à Londres à partir du 10 septembre, raconte aussi les événements qui ont précédé la conquête normande. A",
-      "link": "https://theconversation.com/avant-detre-ennemis-ils-etaient-amis-la-bromance-meconnue-de-guillaume-le-conquerant-et-harold-291174",
-      "image": "https://images.theconversation.com/files/757710/original/file-20260826-50-p7hmmo.jpg?ixlib=rb-4.1.1&amp;rect=0%2C7%2C899%2C600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-04T10:33:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1czpa1",
-      "title": "Une étude chez la souris éclaire les changements cérébraux qui pourraient favoriser la rechute après l’arrêt de l’alcool",
-      "summary": "Mieux comprendre les mécanismes cérébraux liés à la rechute est un enjeu majeur pour le traitement de l'alcoolisme. Mart productio/Pexels Pourquoi certaines personnes rechutent-elles après avoir arrêté de boire ? Des travaux menés chez la souris suggèrent que l’abstinence peut modifier l’activité d’une région cérébrale",
-      "link": "https://theconversation.com/une-etude-chez-la-souris-eclaire-les-changements-cerebraux-qui-pourraient-favoriser-la-rechute-apres-larret-de-lalcool-291181",
-      "image": "https://images.theconversation.com/files/757990/original/file-20260904-50-t2pxv6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-04T10:32:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +319,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aljph0t",
+      "title": "Avant d’être ennemis, ils étaient amis… La bromance méconnue de Guillaume le Conquérant et Harold",
+      "summary": "Dans les premières scènes de la tapisserie de Bayeux, avant le serment visible ici, Guillaume de Normandie et Harold Godwinson s’entraident. Wikimedia L’ESSENTIEL La tapisserie de Bayeux, présentée au British Museum à Londres à partir du 10 septembre, raconte aussi les événements qui ont précédé la conquête normande. A",
+      "link": "https://theconversation.com/avant-detre-ennemis-ils-etaient-amis-la-bromance-meconnue-de-guillaume-le-conquerant-et-harold-291174",
+      "image": "https://images.theconversation.com/files/757710/original/file-20260826-50-p7hmmo.jpg?ixlib=rb-4.1.1&amp;rect=0%2C7%2C899%2C600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-04T10:33:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a1czpa1",
+      "title": "Une étude chez la souris éclaire les changements cérébraux qui pourraient favoriser la rechute après l’arrêt de l’alcool",
+      "summary": "Mieux comprendre les mécanismes cérébraux liés à la rechute est un enjeu majeur pour le traitement de l'alcoolisme. Mart productio/Pexels Pourquoi certaines personnes rechutent-elles après avoir arrêté de boire ? Des travaux menés chez la souris suggèrent que l’abstinence peut modifier l’activité d’une région cérébrale",
+      "link": "https://theconversation.com/une-etude-chez-la-souris-eclaire-les-changements-cerebraux-qui-pourraient-favoriser-la-rechute-apres-larret-de-lalcool-291181",
+      "image": "https://images.theconversation.com/files/757990/original/file-20260904-50-t2pxv6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-04T10:32:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +367,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +383,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,8 +402,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a4tvb1y",
@@ -421,8 +421,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a8lhtvt",
@@ -439,8 +439,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "azbajqy",
@@ -459,8 +459,8 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ahle07i",
@@ -477,8 +477,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "agqipyz",
@@ -495,7 +495,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -513,7 +513,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -529,7 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -545,7 +545,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -561,7 +561,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -577,7 +577,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -595,7 +595,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -629,7 +629,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -645,7 +645,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -661,7 +661,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -677,23 +677,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ayitk5a",
-      "title": "Le père Armand David, l’homme qui « découvrit » le panda et le fit entrer dans la science",
-      "summary": "L’ESSENTIEL Si le panda était déjà connu en Chine, le père Armand David a permis de le faire découvrir à la science européenne au XIXᵉ siècle. L’apport scientifique de ce grand naturaliste ne se résume pas au panda, de nombreux animaux et plantes portent son nom. Découvrez comment son travail fait toujours écho à la sc",
-      "link": "https://theconversation.com/le-pere-armand-david-lhomme-qui-decouvrit-le-panda-et-le-fit-entrer-dans-la-science-287803",
-      "image": "https://images.theconversation.com/files/751204/original/file-20260730-50-a4mbgx.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-02T10:34:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -711,7 +695,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ayitk5a",
+      "title": "Le père Armand David, l’homme qui « découvrit » le panda et le fit entrer dans la science",
+      "summary": "L’ESSENTIEL Si le panda était déjà connu en Chine, le père Armand David a permis de le faire découvrir à la science européenne au XIXᵉ siècle. L’apport scientifique de ce grand naturaliste ne se résume pas au panda, de nombreux animaux et plantes portent son nom. Découvrez comment son travail fait toujours écho à la sc",
+      "link": "https://theconversation.com/le-pere-armand-david-lhomme-qui-decouvrit-le-panda-et-le-fit-entrer-dans-la-science-287803",
+      "image": "https://images.theconversation.com/files/751204/original/file-20260730-50-a4mbgx.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-02T10:34:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 20,
       "urgencyLevel": "basse"
     }
   ]
