@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:57:20.108Z",
+  "generatedAt": "2026-09-06T03:02:55.438Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 75,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -165,8 +165,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ami9hxm",
@@ -181,8 +181,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "als02ah",
@@ -197,8 +197,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aitgadd",
@@ -215,8 +215,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ael0wzw",
@@ -231,8 +231,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awf4yej",
@@ -249,7 +249,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +283,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +301,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -317,7 +317,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,7 +333,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +351,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +367,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +383,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,7 +402,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,7 +421,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,7 +439,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +459,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -477,42 +477,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axyhb4o",
-      "title": "Périscolaire : derrière le scandale des violences sexuelles, un secteur en manque de projet politique ?",
-      "summary": "L’ESSENTIEL Depuis 2025, une vague de révélations de violences sexuelles secoue le périscolaire (garderie, accueil des enfants après la classe…). Le scandale a mis en lumière des failles dans le recrutement et la formation des animateurs. Mais le secteur ne souffre-t-il pas, avant tout, d’un désintérêt collectif qui fr",
-      "link": "https://theconversation.com/periscolaire-derriere-le-scandale-des-violences-sexuelles-un-secteur-en-manque-de-projet-politique-290797",
-      "image": "https://counter.theconversation.com/content/290797/count.gif",
-      "publishedAt": "2026-09-03T13:50:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aoqdw2l",
-      "title": "Un cinéaste à réhabiliter : René Clair au programme du baccalauréat",
-      "summary": "René Clair au début de sa carrière. Cinémathèque française. À l’heure où deux de ses œuvres de jeunesse, Entr’acte (1924) et Paris qui dort (1925), sont retenues au programme de la spécialité cinéma-audiovisuel du baccalauréat, il paraît utile de reconstituer l’ensemble du parcours de René Clair avant d’en dégager la p",
-      "link": "https://theconversation.com/un-cineaste-a-rehabiliter-rene-clair-au-programme-du-baccalaureat-288775",
-      "image": "https://images.theconversation.com/files/757723/original/file-20260903-50-1wf3oa.jpg?ixlib=rb-4.1.1&amp;rect=0%2C33%2C800%2C533&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-03T13:50:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
     },
     {
       "id": "agqipyz",
@@ -529,39 +495,41 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
-      "id": "aoge2ud",
-      "title": "La pollution plastique, grande oubliée du bilan carbone",
-      "summary": "L’ESSENTIEL Un T-shirt « climatiquement vertueux » peut émettre des millions de microplastiques : c’est l’angle mort du bilan carbone. Nous proposons un calcul systématique de l’empreinte plastique particulaire pour quantifier et contrer cette pollution ignorée par l’empreinte carbone. Intégrer cet indicateur dans les ",
-      "link": "https://theconversation.com/la-pollution-plastique-grande-oubliee-du-bilan-carbone-289821",
-      "image": "https://images.theconversation.com/files/754055/original/file-20260814-50-2ntac8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-03T10:44:59.000Z",
+      "id": "axyhb4o",
+      "title": "Périscolaire : derrière le scandale des violences sexuelles, un secteur en manque de projet politique ?",
+      "summary": "L’ESSENTIEL Depuis 2025, une vague de révélations de violences sexuelles secoue le périscolaire (garderie, accueil des enfants après la classe…). Le scandale a mis en lumière des failles dans le recrutement et la formation des animateurs. Mais le secteur ne souffre-t-il pas, avant tout, d’un désintérêt collectif qui fr",
+      "link": "https://theconversation.com/periscolaire-derriere-le-scandale-des-violences-sexuelles-un-secteur-en-manque-de-projet-politique-290797",
+      "image": "https://counter.theconversation.com/content/290797/count.gif",
+      "publishedAt": "2026-09-03T13:50:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aoqdw2l",
+      "title": "Un cinéaste à réhabiliter : René Clair au programme du baccalauréat",
+      "summary": "René Clair au début de sa carrière. Cinémathèque française. À l’heure où deux de ses œuvres de jeunesse, Entr’acte (1924) et Paris qui dort (1925), sont retenues au programme de la spécialité cinéma-audiovisuel du baccalauréat, il paraît utile de reconstituer l’ensemble du parcours de René Clair avant d’en dégager la p",
+      "link": "https://theconversation.com/un-cineaste-a-rehabiliter-rene-clair-au-programme-du-baccalaureat-288775",
+      "image": "https://images.theconversation.com/files/757723/original/file-20260903-50-1wf3oa.jpg?ixlib=rb-4.1.1&amp;rect=0%2C33%2C800%2C533&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-03T13:50:52.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8sztjz",
-      "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
-      "summary": "Des fragments de plastique de très petite taille peuvent se mélanger aux grains de sable, aux matières organiques ou aux sédiments. Les repérer ne suffit pas toujours : il faut aussi confirmer leur nature chimique. NOAA Marine Debris Program/Wikimedia Commons, domaine public, CC BY L’ESSENTIEL La taille des microplasti",
-      "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
-      "image": "https://images.theconversation.com/files/744229/original/file-20260625-71-38x53y.jpg?ixlib=rb-4.1.1&amp;rect=0%2C128%2C3072%2C2048&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-03T10:43:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -577,7 +545,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aoge2ud",
+      "title": "La pollution plastique, grande oubliée du bilan carbone",
+      "summary": "L’ESSENTIEL Un T-shirt « climatiquement vertueux » peut émettre des millions de microplastiques : c’est l’angle mort du bilan carbone. Nous proposons un calcul systématique de l’empreinte plastique particulaire pour quantifier et contrer cette pollution ignorée par l’empreinte carbone. Intégrer cet indicateur dans les ",
+      "link": "https://theconversation.com/la-pollution-plastique-grande-oubliee-du-bilan-carbone-289821",
+      "image": "https://images.theconversation.com/files/754055/original/file-20260814-50-2ntac8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-03T10:44:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 32,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a8sztjz",
+      "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
+      "summary": "Des fragments de plastique de très petite taille peuvent se mélanger aux grains de sable, aux matières organiques ou aux sédiments. Les repérer ne suffit pas toujours : il faut aussi confirmer leur nature chimique. NOAA Marine Debris Program/Wikimedia Commons, domaine public, CC BY L’ESSENTIEL La taille des microplasti",
+      "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
+      "image": "https://images.theconversation.com/files/744229/original/file-20260625-71-38x53y.jpg?ixlib=rb-4.1.1&amp;rect=0%2C128%2C3072%2C2048&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-03T10:43:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -595,7 +595,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -629,7 +629,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -645,7 +645,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -661,7 +661,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -677,7 +677,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ayitk5a",
+      "title": "Le père Armand David, l’homme qui « découvrit » le panda et le fit entrer dans la science",
+      "summary": "L’ESSENTIEL Si le panda était déjà connu en Chine, le père Armand David a permis de le faire découvrir à la science européenne au XIXᵉ siècle. L’apport scientifique de ce grand naturaliste ne se résume pas au panda, de nombreux animaux et plantes portent son nom. Découvrez comment son travail fait toujours écho à la sc",
+      "link": "https://theconversation.com/le-pere-armand-david-lhomme-qui-decouvrit-le-panda-et-le-fit-entrer-dans-la-science-287803",
+      "image": "https://images.theconversation.com/files/751204/original/file-20260730-50-a4mbgx.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-02T10:34:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -695,23 +711,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ayitk5a",
-      "title": "Le père Armand David, l’homme qui « découvrit » le panda et le fit entrer dans la science",
-      "summary": "L’ESSENTIEL Si le panda était déjà connu en Chine, le père Armand David a permis de le faire découvrir à la science européenne au XIXᵉ siècle. L’apport scientifique de ce grand naturaliste ne se résume pas au panda, de nombreux animaux et plantes portent son nom. Découvrez comment son travail fait toujours écho à la sc",
-      "link": "https://theconversation.com/le-pere-armand-david-lhomme-qui-decouvrit-le-panda-et-le-fit-entrer-dans-la-science-287803",
-      "image": "https://images.theconversation.com/files/751204/original/file-20260730-50-a4mbgx.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-02T10:34:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 22,
       "urgencyLevel": "basse"
     }
   ]
