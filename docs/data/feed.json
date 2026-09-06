@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:18:10.970Z",
+  "generatedAt": "2026-09-06T14:57:42.044Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,20 +119,22 @@
   "count": 35,
   "items": [
     {
-      "id": "a9z3v1a",
-      "title": "Pourquoi les séries coréennes préfèrent suggérer plutôt que démontrer",
-      "summary": "Plan tiré de *Justice juvénile*, dont l’action se déroule dans un tribunal pour enfants. Netflix Le stratège taoïste Guiguzi – de son nom de naissance probable Wang Xu (王詡) – célèbre pour son Tao de la tromperie, une pensée vieille de plus de deux mille ans, éclaire la manière dont les séries sud-coréennes persuadent a",
-      "link": "https://theconversation.com/pourquoi-les-series-coreennes-preferent-suggerer-plutot-que-demontrer-290879",
-      "image": "https://images.theconversation.com/files/757974/original/file-20260904-60-tamito.png?ixlib=rb-4.1.1&amp;rect=5%2C0%2C2033%2C1355&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-05T11:36:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "a884qhr",
+      "title": "PISA 2025 : de nouveaux résultats attendus mardi",
+      "summary": "Où en sont les élèves français en sciences ? Les nouveaux résultats de PISA seront dévoilés mardi par l’OCDE. Cette édition met l’accent sur la culture scientifique. Une publication très L’article PISA 2025 : de nouveaux résultats attendus mardi est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/06/pisa-2025-de-nouveaux-resultats-attendus-mardi/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-2025-ocde-230x300.png",
+      "publishedAt": "2026-09-06T14:00:06.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
+      "urgency": 79,
+      "urgencyLevel": "haute"
     },
     {
       "id": "agxp6fa",
@@ -149,7 +151,23 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a9z3v1a",
+      "title": "Pourquoi les séries coréennes préfèrent suggérer plutôt que démontrer",
+      "summary": "Plan tiré de *Justice juvénile*, dont l’action se déroule dans un tribunal pour enfants. Netflix Le stratège taoïste Guiguzi – de son nom de naissance probable Wang Xu (王詡) – célèbre pour son Tao de la tromperie, une pensée vieille de plus de deux mille ans, éclaire la manière dont les séries sud-coréennes persuadent a",
+      "link": "https://theconversation.com/pourquoi-les-series-coreennes-preferent-suggerer-plutot-que-demontrer-290879",
+      "image": "https://images.theconversation.com/files/757974/original/file-20260904-60-tamito.png?ixlib=rb-4.1.1&amp;rect=5%2C0%2C2033%2C1355&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-05T11:36:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -165,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +215,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +233,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +267,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +301,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +319,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,8 +337,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aljph0t",
@@ -335,8 +353,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1czpa1",
@@ -351,8 +369,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1dqqah",
@@ -367,8 +385,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aj1uige",
@@ -383,8 +401,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "andbyqq",
@@ -402,7 +420,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -421,25 +439,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8lhtvt",
-      "title": "Handicap : la CFDT juge les avancées sur l’école inclusive insuffisantes",
-      "summary": "À l’occasion de la Conférence nationale du handicap de ce 4 septembre, la CFDT réclame un plan ambitieux pour l’école inclusive. Le syndicat veut en finir avec les mesures ponctuelles L’article Handicap : la CFDT juge les avancées sur l’école inclusive insuffisantes est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/04/handicap-la-cfdt-juge-les-avancees-sur-lecole-inclusive-insuffisantes/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/09/cfdt-fep-e1727637201488-245x300.png",
-      "publishedAt": "2026-09-04T03:27:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +459,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -477,7 +477,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -495,7 +495,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a66s7fg",
+      "title": "Trancher ou broyer ? Un compromis qui a orienté l’évolution des dents chez les mammifères",
+      "summary": "Au cours des 66 derniers millions d’années, plusieurs lignées de mammifères ont développé indépendamment des dents carnassières, des molaires spécialisées dans la découpe de la viande. Aujourd’hui, cette caractéristique ne se retrouve que chez les *Carnivora*, qui comprennent notamment les félins (comme ici, un guépard",
+      "link": "https://theconversation.com/trancher-ou-broyer-un-compromis-qui-a-oriente-levolution-des-dents-chez-les-mammiferes-288437",
+      "image": "https://images.theconversation.com/files/752548/original/file-20260806-50-r2qmue.jpg?ixlib=rb-4.1.1&amp;rect=12%2C0%2C3670%2C2447&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-02T10:35:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -513,7 +529,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -529,23 +545,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a66s7fg",
-      "title": "Trancher ou broyer ? Un compromis qui a orienté l’évolution des dents chez les mammifères",
-      "summary": "Au cours des 66 derniers millions d’années, plusieurs lignées de mammifères ont développé indépendamment des dents carnassières, des molaires spécialisées dans la découpe de la viande. Aujourd’hui, cette caractéristique ne se retrouve que chez les *Carnivora*, qui comprennent notamment les félins (comme ici, un guépard",
-      "link": "https://theconversation.com/trancher-ou-broyer-un-compromis-qui-a-oriente-levolution-des-dents-chez-les-mammiferes-288437",
-      "image": "https://images.theconversation.com/files/752548/original/file-20260806-50-r2qmue.jpg?ixlib=rb-4.1.1&amp;rect=12%2C0%2C3670%2C2447&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-02T10:35:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -561,7 +561,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -577,7 +577,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -595,7 +595,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 21,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 21,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -629,7 +629,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -645,7 +645,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -661,7 +661,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -677,7 +677,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -695,7 +695,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -711,7 +711,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     }
   ]
