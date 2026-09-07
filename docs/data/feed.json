@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:17:13.118Z",
+  "generatedAt": "2026-09-07T21:08:23.598Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 96,
+      "urgency": 92,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 86,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -181,13 +181,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
       "id": "ayestdn",
       "title": "Répression syndicale dans l’Éducation nationale : quatre enseignants syndiqués suspendus",
-      "summary": "Suspendus le 31 août, à la veille de la reprise, trois professeurs syndiqués à la CGT Éduc’action n’ont pas retrouvé leurs classes de l’école de la Tourelle à Aubagne, une L’article Répression syndicale dans l’Éducation nationale : quatre enseignants syndiqués suspendus est apparu en premier sur Le Café pédagogique.",
+      "summary": "Suspendus le 31 août, à la veille de la reprise, trois professeurs syndiqués à la CGT Éduc’action n’ont pas retrouvé leurs classes de l’école de la Tourtelle à Aubagne, une L’article Répression syndicale dans l’Éducation nationale : quatre enseignants syndiqués suspendus est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/09/07/repression-syndicale-dans-leducation-nationale-quatre-enseignants-syndiques-suspendus/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Repression-syndicale-dans-leducation-nationale-300x300.jpg",
       "publishedAt": "2026-09-07T17:00:56.000Z",
@@ -202,13 +202,13 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
       "id": "avpxe8a",
-      "title": "EXCLUSIF CAFE PEDAGOGIQUE Une fiche du rectorat pour verrouiller la parole face à la presse",
-      "summary": "L’académie d’Aix-Marseille a diffusé une fiche intitulée « si vous êtes sollicité par la presse ». Présenté comme un outil pour aider les agents à « répondre de manière adaptée L’article EXCLUSIF CAFE PEDAGOGIQUE Une fiche du rectorat pour verrouiller la parole face à la presse est apparu en premier sur Le Café pédagog",
+      "title": "EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse",
+      "summary": "L’académie d’Aix-Marseille a diffusé une fiche intitulée « si vous êtes sollicité par la presse ». Présenté comme un outil pour aider les agents à « répondre de manière adaptée L’article EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse est apparu en premier sur Le Café pédag",
       "link": "https://www.cafepedagogique.net/2026/09/07/si-vous-etes-sollicite-par-la-presse-une-fiche-du-rectorat-pour-verrouiller-la-parole-face-a-la-presse/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/document-presse-cafe-pedagogique-216x300.jpg",
       "publishedAt": "2026-09-07T16:54:49.000Z",
@@ -218,7 +218,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -234,7 +234,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -252,7 +252,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -270,7 +270,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -286,7 +286,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -302,7 +302,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -318,7 +318,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -334,7 +334,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -350,8 +350,44 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a83ifc0",
+      "title": "PISA 2025 : de nouveaux résultats attendus mardi",
+      "summary": "Où en sont les élèves français en sciences ? Les nouveaux résultats de PISA seront dévoilés mardi par l’OCDE. Cette édition met l’accent sur la culture scientifique. Une publication très L’article PISA 2025 : de nouveaux résultats attendus mardi est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/07/pisa-2025-de-nouveaux-resultats-attendus-mardi/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-2025-ocde-230x300.png",
+      "publishedAt": "2026-09-07T04:00:06.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aejv1th",
+      "title": "Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels",
+      "summary": "À Rennes, les lauréats de la liste complémentaire demandent à être recrutés alors que des besoins persistent dans les écoles. Une course contre la montre s’engage avant le 30 septembre, L’article Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels est apparu en premier sur Le Café pédagogiqu",
+      "link": "https://www.cafepedagogique.net/2026/09/07/ils-ont-reussi-le-concours-mais-leducation-nationale-recrute-des-contractuels/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/academie-rennes-300x226.jpg",
+      "publishedAt": "2026-09-07T03:55:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajkc8t7",
@@ -369,7 +405,7 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -388,7 +424,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +443,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +461,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -445,7 +481,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,43 +500,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a83ifc0",
-      "title": "PISA 2025 : de nouveaux résultats attendus mardi",
-      "summary": "Où en sont les élèves français en sciences ? Les nouveaux résultats de PISA seront dévoilés mardi par l’OCDE. Cette édition met l’accent sur la culture scientifique. Une publication très L’article PISA 2025 : de nouveaux résultats attendus mardi est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/07/pisa-2025-de-nouveaux-resultats-attendus-mardi/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-2025-ocde-230x300.png",
-      "publishedAt": "2026-09-07T04:00:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aejv1th",
-      "title": "Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels",
-      "summary": "À Rennes, les lauréats de la liste complémentaire demandent à être recrutés alors que des besoins persistent dans les écoles. Une course contre la montre s’engage avant le 30 septembre, L’article Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels est apparu en premier sur Le Café pédagogiqu",
-      "link": "https://www.cafepedagogique.net/2026/09/07/ils-ont-reussi-le-concours-mais-leducation-nationale-recrute-des-contractuels/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/academie-rennes-300x226.jpg",
-      "publishedAt": "2026-09-07T03:55:16.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -518,7 +518,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -536,7 +536,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -570,7 +570,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -586,7 +586,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -602,7 +602,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -618,7 +618,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -634,7 +634,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -650,7 +650,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -668,7 +668,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -684,7 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -700,7 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -716,7 +716,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 25,
       "urgencyLevel": "basse"
     }
   ]
