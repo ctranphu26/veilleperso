@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T20:00:58.426Z",
+  "generatedAt": "2026-09-07T03:00:49.398Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +185,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -201,7 +201,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -217,7 +217,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -235,8 +235,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agxp6fa",
@@ -253,7 +253,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,7 +269,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +285,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +301,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -317,7 +317,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +335,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +351,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axx9ewh",
+      "title": "Pourquoi les prix alimentaires ne baissent-ils pas immédiatement avec ceux de l’énergie ?",
+      "summary": "L’ESSENTIEL En cette rentrée scolaire et en début de campagne présidentielle disputée, la question de l’inflation revient en force. Si la flambée du coût de l’énergie explique la hausse des prix alimentaires, pourquoi ceux-ci ne baissent-ils pas quand le prix du pétrole recule ? Loin d’être mécanique, la transmission d",
+      "link": "https://theconversation.com/pourquoi-les-prix-alimentaires-ne-baissent-ils-pas-immediatement-avec-ceux-de-lenergie-289523",
+      "image": "https://counter.theconversation.com/content/289523/count.gif",
+      "publishedAt": "2026-09-03T13:50:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,23 +385,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axx9ewh",
-      "title": "Pourquoi les prix alimentaires ne baissent-ils pas immédiatement avec ceux de l’énergie ?",
-      "summary": "L’ESSENTIEL En cette rentrée scolaire et en début de campagne présidentielle disputée, la question de l’inflation revient en force. Si la flambée du coût de l’énergie explique la hausse des prix alimentaires, pourquoi ceux-ci ne baissent-ils pas quand le prix du pétrole recule ? Loin d’être mécanique, la transmission d",
-      "link": "https://theconversation.com/pourquoi-les-prix-alimentaires-ne-baissent-ils-pas-immediatement-avec-ceux-de-lenergie-289523",
-      "image": "https://counter.theconversation.com/content/289523/count.gif",
-      "publishedAt": "2026-09-03T13:50:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -403,8 +403,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "atdg5p",
@@ -421,8 +421,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a470rtj",
@@ -439,7 +439,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -455,7 +455,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -471,7 +471,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -487,7 +487,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -503,7 +503,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -522,7 +522,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -541,7 +541,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -561,7 +561,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -579,7 +579,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -597,7 +597,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -631,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -647,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -663,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -681,7 +681,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -697,7 +697,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -713,7 +713,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     }
   ]
