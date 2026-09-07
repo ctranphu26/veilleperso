@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:38:16.733Z",
+  "generatedAt": "2026-09-07T17:17:13.118Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,56 @@
   "count": 35,
   "items": [
     {
+      "id": "akygfhp",
+      "title": "En 50 ans, comment ont évolué les positions des médecins sur l’avortement",
+      "summary": "En quelque cinquante ans – de la période qui a précédé l’adoption de la loi Veil jusqu’à aujourd’hui après que l’interruption volontaire de grossesse a été inscrite dans la Constitution –, les positions des médecins ont évolué concernant l’interruption volontaire de grossesse. Si les oppositions des années 1970 se sont",
+      "link": "https://theconversation.com/en-50-ans-comment-ont-evolue-les-positions-des-medecins-sur-lavortement-268461",
+      "image": "https://counter.theconversation.com/content/268461/count.gif",
+      "publishedAt": "2026-09-07T13:48:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 96,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8mr9yr",
+      "title": "Incendies en Algérie : l’exceptionnelle résilience du peuple comme ressource politique du pouvoir",
+      "summary": "L’ESSENTIEL Face à la catastrophe, les dirigeants algériens focalisent l’attention sur leur double réaction : la promesse d’une indemnisation rapide des victimes et la décision de rétablir la peine de mort pour les pyromanes. Les défaillances structurelles de prévention et de gestion des feux sont pourtant largement en",
+      "link": "https://theconversation.com/incendies-en-algerie-lexceptionnelle-resilience-du-peuple-comme-ressource-politique-du-pouvoir-291087",
+      "image": "https://counter.theconversation.com/content/291087/count.gif",
+      "publishedAt": "2026-09-07T13:47:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9vat8t",
+      "title": "Fournitures scolaires : petite mythologie de la liste, de l’Antiquité à Roland Barthes",
+      "summary": "L’ESSENTIEL Cadrée chaque rentrée par des listes, la recherche des fournitures scolaires peut virer au casse-tête. Dans un langage neutre, la liste de fournitures se présente comme un service rendu tout en fixant un carcan. Relire Quintilien, pédagogue romain du Ier de notre ère, et Roland Barthes aide à en questionner",
+      "link": "https://theconversation.com/fournitures-scolaires-petite-mythologie-de-la-liste-de-lantiquite-a-roland-barthes-291191",
+      "image": "https://counter.theconversation.com/content/291191/count.gif",
+      "publishedAt": "2026-09-07T13:46:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ar7i0oh",
       "title": "Le bore-out : quand l’ennui au travail devient une souffrance invisible",
       "summary": "À l’opposé du burn out, le bore-out résulte d’un manque d’activité, de stimulation ou de sens au travail. Pourtant, ses effets psychologiques peuvent être tout aussi importants. Une étude qualitative permet d’analyser les manifestations du bore-out, ses causes organisationnelles et l’invisibilisation persistante de l’e",
@@ -131,7 +181,160 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayestdn",
+      "title": "Répression syndicale dans l’Éducation nationale : quatre enseignants syndiqués suspendus",
+      "summary": "Suspendus le 31 août, à la veille de la reprise, trois professeurs syndiqués à la CGT Éduc’action n’ont pas retrouvé leurs classes de l’école de la Tourelle à Aubagne, une L’article Répression syndicale dans l’Éducation nationale : quatre enseignants syndiqués suspendus est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/07/repression-syndicale-dans-leducation-nationale-quatre-enseignants-syndiques-suspendus/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Repression-syndicale-dans-leducation-nationale-300x300.jpg",
+      "publishedAt": "2026-09-07T17:00:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "enseignant",
+        "professeur",
+        "classe"
+      ],
+      "relevance": 88,
+      "relevanceLevel": "haute",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avpxe8a",
+      "title": "EXCLUSIF CAFE PEDAGOGIQUE Une fiche du rectorat pour verrouiller la parole face à la presse",
+      "summary": "L’académie d’Aix-Marseille a diffusé une fiche intitulée « si vous êtes sollicité par la presse ». Présenté comme un outil pour aider les agents à « répondre de manière adaptée L’article EXCLUSIF CAFE PEDAGOGIQUE Une fiche du rectorat pour verrouiller la parole face à la presse est apparu en premier sur Le Café pédagog",
+      "link": "https://www.cafepedagogique.net/2026/09/07/si-vous-etes-sollicite-par-la-presse-une-fiche-du-rectorat-pour-verrouiller-la-parole-face-a-la-presse/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/document-presse-cafe-pedagogique-216x300.jpg",
+      "publishedAt": "2026-09-07T16:54:49.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3g3j8b",
+      "title": "Grand âge et perte d’audition : le manque de dépistage finit par coûter cher",
+      "summary": "L’ESSENTIEL La perte auditive, qui survient avec l’âge, reste insuffisamment dépistée et prise en charge. Les données montrent pourtant clairement que le fait de porter des appareils auditifs prévient les chutes ainsi que le déclin cognitif. Ne pas suffisamment prendre en charge la question de l’audition dans les polit",
+      "link": "https://theconversation.com/grand-age-et-perte-daudition-le-manque-de-depistage-finit-par-couter-cher-290467",
+      "image": "https://counter.theconversation.com/content/290467/count.gif",
+      "publishedAt": "2026-09-07T15:28:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ao4n34z",
+      "title": "Le RN veut interdire le foulard islamique dans l’espace public : une rupture avec les principes de liberté religieuse et de non-discrimination",
+      "summary": "L’ESSENTIEL Le Rassemblement national souhaite interdire le foulard islamique dans l’espace public, s’il emporte l’élection présidentielle. Le principe invoqué par le RN est la lutte contre l’islamisme. Or, les données de la recherche ne permettent pas de réduire le port du voile à une motivation politique. Cette inter",
+      "link": "https://theconversation.com/le-rn-veut-interdire-le-foulard-islamique-dans-lespace-public-une-rupture-avec-les-principes-de-liberte-religieuse-et-de-non-discrimination-291079",
+      "image": "https://counter.theconversation.com/content/291079/count.gif",
+      "publishedAt": "2026-09-07T13:49:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "discrimination"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aj0egfa",
+      "title": "Assurés, mais pas couverts contre certaines catastrophes naturelles, ce que nous enseignent les leçons tirées des incendies en Gironde",
+      "summary": "L’ESSENTIEL Les incendies de l’été 2026 ne relèvent pas du régime CatNat et font peser un risque sur les particuliers et les assureurs privés. Si l’assurance indemnise les dommages matériels, elle ne couvre pas encore les pertes d’activité pour 15 000 entreprises girondines. Le spectre d’une augmentation des primes, d’",
+      "link": "https://theconversation.com/assures-mais-pas-couverts-contre-certaines-catastrophes-naturelles-ce-que-nous-enseignent-les-lecons-tirees-des-incendies-en-gironde-289257",
+      "image": "https://images.theconversation.com/files/757736/original/file-20260903-60-ok1jeu.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-07T13:45:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akfpl4m",
+      "title": "Gloria Steinem, l’art de mettre un mouvement en marche",
+      "summary": "Les trajets en taxi permettaient à Gloria Steinem d’accéder, le temps d’un trajet, à des univers sociaux souvent invisibles. apture d’écran/Youtube Icône américaine de la deuxième vague féministe, Gloria Steinem, décédée le 2 septembre 2026 à l’âge de 92 ans, est l’autrice de My Life on the Road (2015). Entre autobiogr",
+      "link": "https://theconversation.com/gloria-steinem-lart-de-mettre-un-mouvement-en-marche-291299",
+      "image": "https://images.theconversation.com/files/758204/original/file-20260907-50-8wx9ll.png?ixlib=rb-4.1.1&amp;rect=250%2C0%2C1299%2C866&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-07T13:51:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoxguz7",
+      "title": "Fire and floods are usually treated as separate hazards. Portugal’s Pinhal Interior shows why they are part of the same cycle",
+      "summary": "Across southern Europe, increasingly extreme heat, wildfire and intense rainfall are forcing planners to consider how one event can alter the risk of the next. Portugal’s exceptionally wet winter and another summer of wildfire risk are an example of this. As a professor of architecture and climate change adaptation who",
+      "link": "https://theconversation.com/fire-and-floods-are-usually-treated-as-separate-hazards-portugals-pinhal-interior-shows-why-they-are-part-of-the-same-cycle-290857",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-07T13:48:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "am92fwp",
+      "title": "Pourquoi les forêts françaises sont-elles si peu assurées ?",
+      "summary": "L’ESSENTIEL Seuls 7,5 % de la forêt privée française sont assurés contre l’incendie et/ou la tempête. Ce faible taux s’explique notamment par la présence d’aides publiques et d’assurances jugées trop chères ou incomplètes. Les modèles d’assurance étrangers pourraient offrir des pistes de réflexion pour faire évoluer le",
+      "link": "https://theconversation.com/pourquoi-les-forets-francaises-sont-elles-si-peu-assurees-291005",
+      "image": "https://images.theconversation.com/files/757288/original/file-20260901-60-vk6p5m.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-07T13:46:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1vn8x9",
+      "title": "États-Unis, Arabie saoudite, Russie : à chacun sa manière de vaciller pour les trois grands du pétrole",
+      "summary": "L’ESSENTIEL C’est un paradoxe : malgré la flambée des prix, les trois principaux producteurs de pétrole sont ébranlés. La crise révèle qu’être un « gros » producteur ne suffit pas pour être puissant, dès lors que les flux sont entravés. Et, si le pétrole reste indispensable, la transition énergétique affaiblit progress",
+      "link": "https://theconversation.com/etats-unis-arabie-saoudite-russie-a-chacun-sa-maniere-de-vaciller-pour-les-trois-grands-du-petrole-291056",
+      "image": "https://counter.theconversation.com/content/291056/count.gif",
+      "publishedAt": "2026-09-07T13:45:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -146,62 +349,6 @@
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ajr4zmt",
-      "title": "Mathématiques : « Ne pas opposer automatisation et compréhension»",
-      "summary": "Depuis plusieurs années, les évaluations internationales dressent un constat préoccupant sur les résultats des élèves français. Le mathématicien médaillé Field Hugo Duminil-Copin et le professeur de psychologie l’éducation Emmanuel Sander L’article Mathématiques : « Ne pas opposer automatisation et compréhension» est a",
-      "link": "https://www.cafepedagogique.net/2026/09/07/faire-des-maths-ce-nest-pas-appliquer-des-recettes-repenser-leur-enseignement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/maths-300x151.png",
-      "publishedAt": "2026-09-07T03:50:15.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "professeur",
-        "évaluation"
-      ],
-      "relevance": 71,
-      "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a83ifc0",
-      "title": "PISA 2025 : de nouveaux résultats attendus mardi",
-      "summary": "Où en sont les élèves français en sciences ? Les nouveaux résultats de PISA seront dévoilés mardi par l’OCDE. Cette édition met l’accent sur la culture scientifique. Une publication très L’article PISA 2025 : de nouveaux résultats attendus mardi est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/07/pisa-2025-de-nouveaux-resultats-attendus-mardi/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-2025-ocde-230x300.png",
-      "publishedAt": "2026-09-07T04:00:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aejv1th",
-      "title": "Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels",
-      "summary": "À Rennes, les lauréats de la liste complémentaire demandent à être recrutés alors que des besoins persistent dans les écoles. Une course contre la montre s’engage avant le 30 septembre, L’article Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels est apparu en premier sur Le Café pédagogiqu",
-      "link": "https://www.cafepedagogique.net/2026/09/07/ils-ont-reussi-le-concours-mais-leducation-nationale-recrute-des-contractuels/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/academie-rennes-300x226.jpg",
-      "publishedAt": "2026-09-07T03:55:16.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
       "relevanceLevel": "moyenne",
       "urgency": 72,
       "urgencyLevel": "haute"
@@ -222,8 +369,8 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4vw9oy",
@@ -241,8 +388,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar5n4vo",
@@ -260,8 +407,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1y49tu",
@@ -278,8 +425,28 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ajr4zmt",
+      "title": "Mathématiques : « Ne pas opposer automatisation et compréhension»",
+      "summary": "Depuis plusieurs années, les évaluations internationales dressent un constat préoccupant sur les résultats des élèves français. Le mathématicien médaillé Field Hugo Duminil-Copin et le professeur de psychologie l’éducation Emmanuel Sander L’article Mathématiques : « Ne pas opposer automatisation et compréhension» est a",
+      "link": "https://www.cafepedagogique.net/2026/09/07/faire-des-maths-ce-nest-pas-appliquer-des-recettes-repenser-leur-enseignement/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/maths-300x151.png",
+      "publishedAt": "2026-09-07T03:50:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "professeur",
+        "évaluation"
+      ],
+      "relevance": 71,
+      "relevanceLevel": "haute",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adqt2dt",
@@ -297,40 +464,44 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
-      "id": "a5uaby2",
-      "title": "Le musée de la Vie romantique participe aux journées européennes du Patrimoine",
-      "summary": "Les 19 et 20 septembre 2026, le musée de la Vie romantique offre aux visiteurs des animations exceptionnelles : visites-promenades, présentation flash des collections permanentes, visites-guidées, intermèdes musicaux et spectacles sont L’article Le musée de la Vie romantique participe aux journées européennes du Patrim",
-      "link": "https://www.cafepedagogique.net/2026/09/07/le-musee-de-la-vie-romantique-participe-aux-journees-europeennes-du-patrimoine/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/vie-romantique-300x225.jpg",
-      "publishedAt": "2026-09-07T03:28:52.000Z",
+      "id": "a83ifc0",
+      "title": "PISA 2025 : de nouveaux résultats attendus mardi",
+      "summary": "Où en sont les élèves français en sciences ? Les nouveaux résultats de PISA seront dévoilés mardi par l’OCDE. Cette édition met l’accent sur la culture scientifique. Une publication très L’article PISA 2025 : de nouveaux résultats attendus mardi est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/07/pisa-2025-de-nouveaux-resultats-attendus-mardi/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-2025-ocde-230x300.png",
+      "publishedAt": "2026-09-07T04:00:06.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
-      "id": "ak0s2zv",
-      "title": "[Le chiffre du jour] 474 points en mathématiques",
-      "summary": "En décembre 2023, le score moyen en mathématiques était de 474 pour la France pour l’enquête PISA. La chute était alors de 21 points. Il y a 3 ans, l’OCDE L’article [Le chiffre du jour] 474 points en mathématiques est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/07/le-chiffre-du-jour-474-points-en-mathematiques/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/12/word-image-257498-2.png",
-      "publishedAt": "2026-09-07T03:27:48.000Z",
+      "id": "aejv1th",
+      "title": "Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels",
+      "summary": "À Rennes, les lauréats de la liste complémentaire demandent à être recrutés alors que des besoins persistent dans les écoles. Une course contre la montre s’engage avant le 30 septembre, L’article Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels est apparu en premier sur Le Café pédagogiqu",
+      "link": "https://www.cafepedagogique.net/2026/09/07/ils-ont-reussi-le-concours-mais-leducation-nationale-recrute-des-contractuels/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/academie-rennes-300x226.jpg",
+      "publishedAt": "2026-09-07T03:55:16.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ad2566w",
@@ -347,7 +518,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -365,7 +536,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +554,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,7 +570,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,7 +586,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -431,7 +602,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -447,7 +618,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -463,8 +634,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ami9hxm",
@@ -479,24 +650,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axx9ewh",
-      "title": "Pourquoi les prix alimentaires ne baissent-ils pas immédiatement avec ceux de l’énergie ?",
-      "summary": "L’ESSENTIEL En cette rentrée scolaire et en début de campagne présidentielle disputée, la question de l’inflation revient en force. Si la flambée du coût de l’énergie explique la hausse des prix alimentaires, pourquoi ceux-ci ne baissent-ils pas quand le prix du pétrole recule ? Loin d’être mécanique, la transmission d",
-      "link": "https://theconversation.com/pourquoi-les-prix-alimentaires-ne-baissent-ils-pas-immediatement-avec-ceux-de-lenergie-289523",
-      "image": "https://counter.theconversation.com/content/289523/count.gif",
-      "publishedAt": "2026-09-03T13:50:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aitgadd",
@@ -513,8 +668,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ael0wzw",
@@ -529,57 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a470rtj",
-      "title": "Au Népal, le contrôle du Tibet par la Chine complique la prévention des crues",
-      "summary": "L’ESSENTIEL Une crue soudaine a ravagé, le 26 août, la zone frontalière entre le Népal et le Tibet, faisant au moins un millier de morts et de nombreux disparus. Le manque de coopération et le faible partage de données entre le Népal et la Chine (très réticente à communiquer des informations, quelles qu’elles soient, s",
-      "link": "https://theconversation.com/au-nepal-le-controle-du-tibet-par-la-chine-complique-la-prevention-des-crues-290961",
-      "image": "https://images.theconversation.com/files/756739/original/file-20260828-50-o59qnt.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-03T13:49:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1dqqah",
-      "title": "À quoi servent les cartes de bruit ? Mesurer le bruit des transports pour mieux protéger la santé",
-      "summary": "Exemple de carte de bruit stratégique pour un axe routier. Fourni par l'auteur Troubles du sommeil, stress chronique, risques cardiovasculaires… le bruit des transports est aujourd’hui considéré comme l’un des principaux facteurs environnementaux affectant la santé des Européens. Mais combien sont exposés à des niveaux",
-      "link": "https://theconversation.com/a-quoi-servent-les-cartes-de-bruit-mesurer-le-bruit-des-transports-pour-mieux-proteger-la-sante-287726",
-      "image": "https://images.theconversation.com/files/748526/original/file-20260717-57-8gw9nn.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1163%2C775&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-03T13:49:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aj1uige",
-      "title": "Pourquoi l’ancien bassin minier du Nord-Pas-de-Calais vote RN (ou non)",
-      "summary": "La mono-industrie minière du Nord a laissé des traces bien au-delà de l’économie de la région. Igor Paszkiewicz/Shutterstock (no reuse) Dans le nord de la France, la progression du RN aux élections municipales de 2026 semble pouvoir s’expliquer par les difficultés sociales de l’ancien bassin minier. Mais cette lecture ",
-      "link": "https://theconversation.com/pourquoi-lancien-bassin-minier-du-nord-pas-de-calais-vote-rn-ou-non-281574",
-      "image": "https://images.theconversation.com/files/733328/original/file-20260430-57-eeuejq.jpg?ixlib=rb-4.1.1&amp;rect=309%2C0%2C3380%2C2252&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-03T13:48:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -595,7 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -611,107 +716,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "axyhb4o",
-      "title": "Périscolaire : derrière le scandale des violences sexuelles, un secteur en manque de projet politique ?",
-      "summary": "L’ESSENTIEL Depuis 2025, une vague de révélations de violences sexuelles secoue le périscolaire (garderie, accueil des enfants après la classe…). Le scandale a mis en lumière des failles dans le recrutement et la formation des animateurs. Mais le secteur ne souffre-t-il pas, avant tout, d’un désintérêt collectif qui fr",
-      "link": "https://theconversation.com/periscolaire-derriere-le-scandale-des-violences-sexuelles-un-secteur-en-manque-de-projet-politique-290797",
-      "image": "https://counter.theconversation.com/content/290797/count.gif",
-      "publishedAt": "2026-09-03T13:50:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aoqdw2l",
-      "title": "Un cinéaste à réhabiliter : René Clair au programme du baccalauréat",
-      "summary": "René Clair au début de sa carrière. Cinémathèque française. À l’heure où deux de ses œuvres de jeunesse, Entr’acte (1924) et Paris qui dort (1925), sont retenues au programme de la spécialité cinéma-audiovisuel du baccalauréat, il paraît utile de reconstituer l’ensemble du parcours de René Clair avant d’en dégager la p",
-      "link": "https://theconversation.com/un-cineaste-a-rehabiliter-rene-clair-au-programme-du-baccalaureat-288775",
-      "image": "https://images.theconversation.com/files/757723/original/file-20260903-50-1wf3oa.jpg?ixlib=rb-4.1.1&amp;rect=0%2C33%2C800%2C533&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-03T13:50:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aoge2ud",
-      "title": "La pollution plastique, grande oubliée du bilan carbone",
-      "summary": "L’ESSENTIEL Un T-shirt « climatiquement vertueux » peut émettre des millions de microplastiques : c’est l’angle mort du bilan carbone. Nous proposons un calcul systématique de l’empreinte plastique particulaire pour quantifier et contrer cette pollution ignorée par l’empreinte carbone. Intégrer cet indicateur dans les ",
-      "link": "https://theconversation.com/la-pollution-plastique-grande-oubliee-du-bilan-carbone-289821",
-      "image": "https://images.theconversation.com/files/754055/original/file-20260814-50-2ntac8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-03T10:44:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8sztjz",
-      "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
-      "summary": "Des fragments de plastique de très petite taille peuvent se mélanger aux grains de sable, aux matières organiques ou aux sédiments. Les repérer ne suffit pas toujours : il faut aussi confirmer leur nature chimique. NOAA Marine Debris Program/Wikimedia Commons, domaine public, CC BY L’ESSENTIEL La taille des microplasti",
-      "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
-      "image": "https://images.theconversation.com/files/744229/original/file-20260625-71-38x53y.jpg?ixlib=rb-4.1.1&amp;rect=0%2C128%2C3072%2C2048&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-03T10:43:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aoelrfj",
-      "title": "L’humour, botte secrète de Dolly Parton pour contrer le sexisme",
-      "summary": "« Ça coûte cher d’avoir l’air aussi vulgaire », disait Dolly Parton. Paul Natkin/Getty Images L’ESSENTIEL Disparue le 25 août 2026, Dolly Parton est connue pour ses tubes, comme Jolene, mais au-delà de son talent musical, elle était aussi redoutablement drôle. Les artistes country féminines, du milieu du XXᵉ siècle jus",
-      "link": "https://theconversation.com/lhumour-botte-secrete-de-dolly-parton-pour-contrer-le-sexisme-290953",
-      "image": "https://images.theconversation.com/files/757189/original/file-20260827-60-ghsows.jpg?ixlib=rb-4.1.1&amp;rect=469%2C274%2C2367%2C1578&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-02T14:07:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "sexisme"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 15,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arfyif8",
-      "title": "Pourboire : pourquoi continuеr à récompenser un service déjà réglé alors que rien ne nous y oblige ?",
-      "summary": "L’ESSENTIEL Le pourboire paraît être un petit geste banal de fin de repas au restaurant. Il révèle pourtant des mécanismes sociaux complexes. La recherche en psychologie sociale met en lumière le poids prépondérant des émotions dans cette transaction commerciale. L’avènement du terminal de paiement laisse entrevoir un ",
-      "link": "https://theconversation.com/pourboire-pourquoi-continu-r-a-recompenser-un-service-deja-regle-alors-que-rien-ne-nous-y-oblige-280528",
-      "image": "https://counter.theconversation.com/content/280528/count.gif",
-      "publishedAt": "2026-09-02T14:05:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 15,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
