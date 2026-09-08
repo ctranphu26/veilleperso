@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:37:27.703Z",
+  "generatedAt": "2026-09-08T16:01:16.795Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "atw9k7m",
+      "title": "Les agences privées de garde d’enfants : entre promesses aux parents et réalité du marché",
+      "summary": "L’ESSENTIEL Face à la pénurie de modes de garde, de nombreuses agences privées proposent leurs services aux familles. Ces entreprises mettent en scène leur expertise dans le recrutement de professionnels de la petite enfance. Les conditions d’emploi proposées interrogent les lacunes du service public en matière de gard",
+      "link": "https://theconversation.com/les-agences-privees-de-garde-denfants-entre-promesses-aux-parents-et-realite-du-marche-290801",
+      "image": "https://counter.theconversation.com/content/290801/count.gif",
+      "publishedAt": "2026-09-08T14:10:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "avrncx",
       "title": "PISA 2025 : compréhension de l’écrit des garçons, rôle des familles, enseignants… ce que l’enquête dit du rapport aux apprentissages",
       "summary": "Derrière les scores de PISA 2025, plusieurs nouvelles alertes et indicateurs qui éclairent le rapport des élèves aux apprentissages. L’écart entre filles et garçons se creuse en compréhension de l’écrit, L’article PISA 2025 : compréhension de l’écrit des garçons, rôle des familles, enseignants… ce que l’enquête dit du ",
@@ -135,7 +151,139 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 87,
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqt4lzz",
+      "title": "« L’évolution de l’électorat rend possible la victoire de Marine Le Pen à la présidentielle »",
+      "summary": "L’ESSENTIEL À huit mois du scrutin, les sondages donnent Marine Le Pen victorieuse en 2027, quel que soit son adversaire au second tour. Pour Jean-Yves Dormagen, politiste et fondateur de l’institut Cluster 17, le front républicain est désactivé. La dynamique des partis d’extrême droite touche tous les pays occidentaux",
+      "link": "https://theconversation.com/levolution-de-lelectorat-rend-possible-la-victoire-de-marine-le-pen-a-la-presidentielle-291401",
+      "image": "https://images.theconversation.com/files/758473/original/file-20260908-50-8b0hs8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-08T15:13:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amplynw",
+      "title": "Souveraineté de l’Europe spatiale : des écosystèmes performants pour la transformation numérique des start-up et des PME",
+      "summary": "L’ESSENTIEL L’avenir de l’industrie spatiale passe par les technologies innovantes des start-up et des PME du secteur. La France et l’Italie ont deux approches différentes pour stimuler l’écosystème d’innovation. Chacune possède des points forts. Un rapprochement stimulerait l’ensemble. Une première étape en vue d’une ",
+      "link": "https://theconversation.com/souverainete-de-leurope-spatiale-des-ecosystemes-performants-pour-la-transformation-numerique-des-start-up-et-des-pme-291062",
+      "image": "https://counter.theconversation.com/content/291062/count.gif",
+      "publishedAt": "2026-09-08T14:10:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aclv0s5",
+      "title": "L’intolérance au lactose est en réalité la norme chez l’humain, mais le racisme, le gouvernement des États-Unis et les intérêts commerciaux en ont fait un trouble",
+      "summary": "L’ESSENTIEL Chaque organisme assimile le lait différemment et ne pas le digérer est la situation la plus couramment rencontrée à l’échelle mondiale. La consommation du lait est pourtant promue auprès de populations majoritairement intolérantes au lactose, en Asie par exemple. L’« impérialisme alimentaire » des États-Un",
+      "link": "https://theconversation.com/lintolerance-au-lactose-est-en-realite-la-norme-chez-lhumain-mais-le-racisme-le-gouvernement-des-etats-unis-et-les-interets-commerciaux-en-ont-fait-un-trouble-290654",
+      "image": "https://images.theconversation.com/files/755790/original/file-20260824-50-hp5q4b.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-08T14:09:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "racisme"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ak7fgav",
+      "title": "Les coulées de boues meurtrières du Népal pourraient-elles advenir en France ?",
+      "summary": "L’ESSENTIEL Le changement climatique ne peut que favoriser les crues et les coulées de boue. L’Europe en a déjà connu, mais d’ampleur nettement moins spectaculaire que celles survenues au Népal, le 26 août 2026. Des travaux de recherche permettent de cartographier les endroits à surveiller, d’anticiper les risques et d",
+      "link": "https://theconversation.com/les-coulees-de-boues-meurtrieres-du-nepal-pourraient-elles-advenir-en-france-291097",
+      "image": "https://counter.theconversation.com/content/291097/count.gif",
+      "publishedAt": "2026-09-08T14:11:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agynf16",
+      "title": "Allemagne : les multiples effets du triomphe de l’AfD en Saxe-Anhalt",
+      "summary": "L’ESSENTIEL Le parti d’extrême droite Alternative für Deutschland est arrivé largement en tête en Saxe-Anhalt, un Land d’Allemagne de l’Est qu’il pourrait gouverner s’il parvient à s’allier au petit parti populiste BSW ou à rallier quelques élus chrétiens-démocrates de la CDU. Ce succès régional reflète une montée en p",
+      "link": "https://theconversation.com/allemagne-les-multiples-effets-du-triomphe-de-lafd-en-saxe-anhalt-291470",
+      "image": "https://counter.theconversation.com/content/291470/count.gif",
+      "publishedAt": "2026-09-08T14:10:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a57or6v",
+      "title": "Qu’est-ce que le « bear market » pour les cryptomonnaies ?",
+      "summary": "L’ESSENTIEL Après un record à plus de 126 000 dollars (environ 108 500 euros) en octobre 2025, le bitcoin a perdu plus de la moitié de sa valeur au premier semestre 2026. Ces périodes prolongées de baisse des prix, ou bear market, sont symptomatiques d’une remise en question des croyances dans les cryptomonnaies. Les b",
+      "link": "https://theconversation.com/quest-ce-que-le-bear-market-pour-les-cryptomonnaies-287122",
+      "image": "https://images.theconversation.com/files/751770/original/file-20260803-50-irlyca.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-08T14:10:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8554uo",
+      "title": "India’s middle-class crisis: the great bifurcation and the Gen Z uprising",
+      "summary": "The student protests we have been witnessing in India can be explained in large part by the crisis facing the Indian middle class, marked in particular by graduate unemployment and a decline in average purchasing power. This is because the upper middle class has grown wealthier, while the lower-middle class has become ",
+      "link": "https://theconversation.com/indias-middle-class-crisis-the-great-bifurcation-and-the-gen-z-uprising-289061",
+      "image": "https://counter.theconversation.com/content/289061/count.gif",
+      "publishedAt": "2026-09-08T14:09:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8uo2ti",
+      "title": "Comment rendre visible le recours à l’IA générative dans l’édition littéraire, ou le rôle du paratexte",
+      "summary": "L’autrice états-unienne Sara A. Noé a choisi de faire certifier son roman *Lab Rat* « sans IA » par l’Authors Guild, et l’affiche sur son blog. Sara A.Noé L’ESSENTIEL Dans le monde littéraire, la question du recours à l’IA se pose de plus en plus. Jusque-là, son usage a été tantôt mis en valeur, tantôt minoré, voire ca",
+      "link": "https://theconversation.com/comment-rendre-visible-le-recours-a-lia-generative-dans-ledition-litteraire-ou-le-role-du-paratexte-288736",
+      "image": "https://images.theconversation.com/files/758405/original/file-20260908-50-9jovtb.png?ixlib=rb-4.1.1&amp;rect=31%2C0%2C1570%2C1046&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-08T14:08:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +299,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ar9x64k",
+      "title": "Avec Yoda, la France se prépare à défendre ses intérêts en orbite",
+      "summary": "Les satellites Yoda (ici, représenté par une vue d’artiste) seront les premiers dispositifs européens de défense spatiale. CNES, Fourni par l'auteur L’ESSENTIEL L’espace est devenu un nouveau lieu de conflictualité, au vu de l’importance stratégique des satellites civils comme militaires. Le programme Yoda, du Commande",
+      "link": "https://theconversation.com/avec-yoda-la-france-se-prepare-a-defendre-ses-interets-en-orbite-291186",
+      "image": "https://images.theconversation.com/files/757744/original/file-20260903-50-ay37ui.png?ixlib=rb-4.1.1&amp;rect=152%2C0%2C1690%2C1126&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-08T10:38:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5dawvk",
+      "title": "Souveraineté technologique : ce que le spatial européen nous apprend de nos dépendances",
+      "summary": "L’ESSENTIEL Les satellites sous-tendent toujours davantage d’activités humaines. Pour certains secteurs, comme la défense, notre dépendance à des services spatiaux constitue une vulnérabilité. Pour mieux la contrôler, certains appellent à une souveraineté technologique, souvent assimilée à une autonomie totale de chaqu",
+      "link": "https://theconversation.com/souverainete-technologique-ce-que-le-spatial-europeen-nous-apprend-de-nos-dependances-291106",
+      "image": "https://counter.theconversation.com/content/291106/count.gif",
+      "publishedAt": "2026-09-08T10:37:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -170,7 +350,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -189,7 +369,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -207,7 +387,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -228,8 +408,8 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aiyo709",
@@ -247,60 +427,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "axp0arj",
-      "title": "Les mathématiques, une affaire d’intuition et d’émotions",
-      "summary": "« Le stéréotype des mathématiques froides est un contresens. » Dans cette deuxième partie d’entretien, Hugo Duminil-Copin et Emmanuel Sander reviennent sur le visage humain des mathématiques évoqué dans la première, L’article Les mathématiques, une affaire d’intuition et d’émotions est apparu en premier sur Le Café péd",
-      "link": "https://www.cafepedagogique.net/2026/09/08/les-mathematiques-une-affaire-dintuition-et-demotions/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/maths-300x151.png",
-      "publishedAt": "2026-09-08T03:45:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "stéréotype"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a8jqxvg",
-      "title": "PISA : ce que les chiffres ne disent pas",
-      "summary": "Les résultats de l’enquête PISA de l’OCDE feront la Une ce mardi 8 septembre. Comme tous les trois ans, à chaque édition, les scores seront brandis. On classera les pays, L’article PISA : ce que les chiffres ne disent pas est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/08/pisa-ce-que-les-chiffres-ne-disent-pas/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-OCDE-300x239.png",
-      "publishedAt": "2026-09-08T04:00:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "auqo37t",
-      "title": "EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse",
-      "summary": "L’académie d’Aix-Marseille a diffusé une fiche intitulée « si vous êtes sollicité par la presse ». Présenté comme un outil pour aider les agents à « répondre de manière adaptée L’article EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse est apparu en premier sur Le Café pédag",
-      "link": "https://www.cafepedagogique.net/2026/09/08/si-vous-etes-sollicite-par-la-presse-une-fiche-du-rectorat-pour-verrouiller-la-parole-face-a-la-presse/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/document-presse-cafe-pedagogique-216x300.jpg",
-      "publishedAt": "2026-09-08T03:53:49.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akkn5y8",
@@ -317,8 +445,60 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axp0arj",
+      "title": "Les mathématiques, une affaire d’intuition et d’émotions",
+      "summary": "« Le stéréotype des mathématiques froides est un contresens. » Dans cette deuxième partie d’entretien, Hugo Duminil-Copin et Emmanuel Sander reviennent sur le visage humain des mathématiques évoqué dans la première, L’article Les mathématiques, une affaire d’intuition et d’émotions est apparu en premier sur Le Café péd",
+      "link": "https://www.cafepedagogique.net/2026/09/08/les-mathematiques-une-affaire-dintuition-et-demotions/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/maths-300x151.png",
+      "publishedAt": "2026-09-08T03:45:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "stéréotype"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a8jqxvg",
+      "title": "PISA : ce que les chiffres ne disent pas",
+      "summary": "Les résultats de l’enquête PISA de l’OCDE feront la Une ce mardi 8 septembre. Comme tous les trois ans, à chaque édition, les scores seront brandis. On classera les pays, L’article PISA : ce que les chiffres ne disent pas est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/08/pisa-ce-que-les-chiffres-ne-disent-pas/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-OCDE-300x239.png",
+      "publishedAt": "2026-09-08T04:00:32.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "auqo37t",
+      "title": "EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse",
+      "summary": "L’académie d’Aix-Marseille a diffusé une fiche intitulée « si vous êtes sollicité par la presse ». Présenté comme un outil pour aider les agents à « répondre de manière adaptée L’article EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse est apparu en premier sur Le Café pédag",
+      "link": "https://www.cafepedagogique.net/2026/09/08/si-vous-etes-sollicite-par-la-presse-une-fiche-du-rectorat-pour-verrouiller-la-parole-face-a-la-presse/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/document-presse-cafe-pedagogique-216x300.jpg",
+      "publishedAt": "2026-09-08T03:53:49.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8mr9yr",
@@ -335,7 +515,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +531,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +547,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +563,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -401,7 +581,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -419,7 +599,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -435,7 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -451,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -467,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -483,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -499,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,43 +697,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aaip5zi",
-      "title": "Le dessin peut-il révéler qu’un enfant est victime d’abus sexuels ? Ce que disent vraiment les recherches",
-      "summary": "L’ESSENTIEL Les dessins produits par des enfants victimes d’abus sexuels contiendraient des indices graphiques spécifiques permettant de détecter ces violences. Les études solides sur le plan méthodologique ne valident pas cette hypothèse. Dessiner a néanmoins un intérêt : il aide les enfants à raconter des événements ",
-      "link": "https://theconversation.com/le-dessin-peut-il-reveler-quun-enfant-est-victime-dabus-sexuels-ce-que-disent-vraiment-les-recherches-290640",
-      "image": "https://counter.theconversation.com/content/290640/count.gif",
-      "publishedAt": "2026-09-06T17:26:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "autcb8z",
-      "title": "Notre cerveau ne perçoit pas le monde de manière continue, mais par vagues",
-      "summary": "Notre vision du monde n’est pas celle que l’on croit. Fourni par l'auteur L’ESSENTIEL Même si notre perception visuelle nous semble continue, elle est en réalité saccadée. De nouvelles recherches démontrent que notre perception ne varie pas seulement dans le temps, mais aussi selon la position de l’information dans l’e",
-      "link": "https://theconversation.com/notre-cerveau-ne-percoit-pas-le-monde-de-maniere-continue-mais-par-vagues-274081",
-      "image": "https://images.theconversation.com/files/751995/original/file-20260804-50-psvmu5.gif?ixlib=rb-4.1.1&amp;rect=0%2C127%2C1459%2C972&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-06T17:26:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -569,154 +713,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ab3imwn",
-      "title": "Ce que vise le lobby patronal dans la campagne présidentielle",
-      "summary": "L’ESSENTIEL La Rencontre des entrepreneurs de France (REF), organisée par le Medef fin août, a réuni sept candidats à la présidentielle. Qui est le favori des patrons ? Le Medef veut peser dans le débat public, mais prétend ne pas faire de politique, à travers une approche strictement économique. Le président du Medef ",
-      "link": "https://theconversation.com/ce-que-vise-le-lobby-patronal-dans-la-campagne-presidentielle-291185",
-      "image": "https://counter.theconversation.com/content/291185/count.gif",
-      "publishedAt": "2026-09-06T17:27:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2fcoz0",
-      "title": "Galileo, Copernicus, Cleansky, IRIS² must work together to secure Europe’s place in the space race",
-      "summary": "Aerospace players like French company Thales Alenia Space have no alternative but to join forces with competitors if they want to seal further deals. MikeDotta/Shutterstock (no reuse) “Seeing the Earth from above is a powerful reminder of our interdependence,” Thomas Pesquet. The words of France’s tenth astronaut to he",
-      "link": "https://theconversation.com/galileo-copernicus-cleansky-iris-must-work-together-to-secure-europes-place-in-the-space-race-288150",
-      "image": "https://images.theconversation.com/files/749538/original/file-20260420-57-fljop7.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5472%2C3648&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-06T17:25:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9z3v1a",
-      "title": "Pourquoi les séries coréennes préfèrent suggérer plutôt que démontrer",
-      "summary": "Plan tiré de *Justice juvénile*, dont l’action se déroule dans un tribunal pour enfants. Netflix Le stratège taoïste Guiguzi – de son nom de naissance probable Wang Xu (王詡) – célèbre pour son Tao de la tromperie, une pensée vieille de plus de deux mille ans, éclaire la manière dont les séries sud-coréennes persuadent a",
-      "link": "https://theconversation.com/pourquoi-les-series-coreennes-preferent-suggerer-plutot-que-demontrer-290879",
-      "image": "https://images.theconversation.com/files/757974/original/file-20260904-60-tamito.png?ixlib=rb-4.1.1&amp;rect=5%2C0%2C2033%2C1355&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-05T11:36:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1py601",
-      "title": "Vers un ciel artificiel ? Ce que prévoit le droit contre la pollution du ciel nocturne",
-      "summary": "La nébuleuse d’Orion prise en photo en 2009. Sur les 208 minutes nécessaires à la pause, de nombreux satellites sont passés devant l’objectif et empêchent de voir une partie du ciel. A. H. Abolfath/NOIRLab/NSF/AURA, CC BY L’ESSENTIEL L’explosion en cours du nombre de satellites vient s’ajouter à la pollution lumineuse ",
-      "link": "https://theconversation.com/vers-un-ciel-artificiel-ce-que-prevoit-le-droit-contre-la-pollution-du-ciel-nocturne-290885",
-      "image": "https://images.theconversation.com/files/757523/original/file-20260902-60-hty9m0.jpg?ixlib=rb-4.1.1&amp;rect=0%2C158%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-05T15:13:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ami9hxm",
-      "title": "Notre ciel nocturne est en train de disparaître : un des enjeux du Sommet international sur l’espace 2026",
-      "summary": "Cette photo permet de distinguer non seulement les constellations d’Orion et du Taureau, ainsi que la Voie lactée, mais aussi les traînées laissées par de nombreux satellites traversant le ciel. Parmi ceux-ci figurent la Station spatiale internationale, des satellites de la mégaconstellation Starlink ainsi qu’une myria",
-      "link": "https://theconversation.com/notre-ciel-nocturne-est-en-train-de-disparaitre-un-des-enjeux-du-sommet-international-sur-lespace-2026-290870",
-      "image": "https://images.theconversation.com/files/756975/original/file-20260831-50-y68obc.jpg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C2497%2C1664&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-05T15:12:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aitgadd",
-      "title": "La voiture électrique peut-elle faire disparaître 20 milliards de recettes fiscales ?",
-      "summary": "L’ESSENTIEL Le véhicule électrique est un moyen de réduire les émissions de CO₂ dues aux déplacements. Pour l’État, la fiscalité sur les carburants est une source de revenus importante. En outre, l’acquisition des véhicules électriques est subventionnée. Autant dire que le bilan fiscal est moins favorable que le bilan ",
-      "link": "https://theconversation.com/la-voiture-electrique-peut-elle-faire-disparaitre-20-milliards-de-recettes-fiscales-291053",
-      "image": "https://counter.theconversation.com/content/291053/count.gif",
-      "publishedAt": "2026-09-05T11:35:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ael0wzw",
-      "title": "Pour quelles raisons André Citroën pourrait-il devenir le premier industriel à entrer au Panthéon ?",
-      "summary": "L’industriel français André Citroën sur un paquebot. Library of Congress /George Grantham Bain Collection L’ESSENTIEL Lors de la rencontre des entrepreneurs de France, le président du Medef Patrick Martin a soutenu le projet d’entrée au Panthéon d’André Citroën. Si la marque est toujours connue, la biographie de son fo",
-      "link": "https://theconversation.com/pour-quelles-raisons-andre-citroen-pourrait-il-devenir-le-premier-industriel-a-entrer-au-pantheon-288835",
-      "image": "https://images.theconversation.com/files/756009/original/file-20260825-50-nip81q.png?ixlib=rb-4.1.1&amp;rect=35%2C0%2C1355%2C903&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-05T11:35:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aljph0t",
-      "title": "Avant d’être ennemis, ils étaient amis… La bromance méconnue de Guillaume le Conquérant et Harold",
-      "summary": "Dans les premières scènes de la tapisserie de Bayeux, avant le serment visible ici, Guillaume de Normandie et Harold Godwinson s’entraident. Wikimedia L’ESSENTIEL La tapisserie de Bayeux, présentée au British Museum à Londres à partir du 10 septembre, raconte aussi les événements qui ont précédé la conquête normande. A",
-      "link": "https://theconversation.com/avant-detre-ennemis-ils-etaient-amis-la-bromance-meconnue-de-guillaume-le-conquerant-et-harold-291174",
-      "image": "https://images.theconversation.com/files/757710/original/file-20260826-50-p7hmmo.jpg?ixlib=rb-4.1.1&amp;rect=0%2C7%2C899%2C600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-04T10:33:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1czpa1",
-      "title": "Une étude chez la souris éclaire les changements cérébraux qui pourraient favoriser la rechute après l’arrêt de l’alcool",
-      "summary": "Mieux comprendre les mécanismes cérébraux liés à la rechute est un enjeu majeur pour le traitement de l'alcoolisme. Mart productio/Pexels Pourquoi certaines personnes rechutent-elles après avoir arrêté de boire ? Des travaux menés chez la souris suggèrent que l’abstinence peut modifier l’activité d’une région cérébrale",
-      "link": "https://theconversation.com/une-etude-chez-la-souris-eclaire-les-changements-cerebraux-qui-pourraient-favoriser-la-rechute-apres-larret-de-lalcool-291181",
-      "image": "https://images.theconversation.com/files/757990/original/file-20260904-50-t2pxv6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-04T10:32:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
     }
   ]
 }
