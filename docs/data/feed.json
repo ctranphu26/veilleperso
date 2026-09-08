@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T03:10:41.687Z",
+  "generatedAt": "2026-09-08T10:37:27.703Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,26 @@
   "count": 35,
   "items": [
     {
+      "id": "avrncx",
+      "title": "PISA 2025 : compréhension de l’écrit des garçons, rôle des familles, enseignants… ce que l’enquête dit du rapport aux apprentissages",
+      "summary": "Derrière les scores de PISA 2025, plusieurs nouvelles alertes et indicateurs qui éclairent le rapport des élèves aux apprentissages. L’écart entre filles et garçons se creuse en compréhension de l’écrit, L’article PISA 2025 : compréhension de l’écrit des garçons, rôle des familles, enseignants… ce que l’enquête dit du ",
+      "link": "https://www.cafepedagogique.net/2026/09/08/pisa-2025-comprehension-de-lecrit-des-garcons-role-des-familles-enseignants-ce-que-lenquete-dit-du-rapport-aux-apprentissages/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-enquete-300x232.png",
+      "publishedAt": "2026-09-08T07:33:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "enseignant",
+        "apprentissage"
+      ],
+      "relevance": 93,
+      "relevanceLevel": "haute",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "akygfhp",
       "title": "En 50 ans, comment ont évolué les positions des médecins sur l’avortement",
       "summary": "En quelque cinquante ans – de la période qui a précédé l’adoption de la loi Veil jusqu’à aujourd’hui après que l’interruption volontaire de grossesse a été inscrite dans la Constitution –, les positions des médecins ont évolué concernant l’interruption volontaire de grossesse. Si les oppositions des années 1970 se sont",
@@ -131,7 +151,173 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aygvox5",
+      "title": "PISA 2025 : les élèves français aiment les sciences plus que leurs résultats ne le montrent",
+      "summary": "Ce ne sera pas la douche froide pour les enseignants de sciences. Avec une baisse limitée, le score des élèves français reste au-dessus de la moyenne de l’OCDE. Des aspects L’article PISA 2025 : les élèves français aiment les sciences plus que leurs résultats ne le montrent est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/09/08/pisa-2025-les-eleves-francais-aiment-les-sciences-plus-que-leurs-resultats-ne-le-montrent/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/sciences-PISA-cafe-pedagogique-300x286.png",
+      "publishedAt": "2026-09-08T07:32:40.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "enseignant"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ai5i5tq",
+      "title": "PISA : nouvelle chute des résultats en maths",
+      "summary": "C’est une nouvelle baisse sévère du score des élèves français pour le classement PISA 2025 en mathématiques. La chute est plus forte pour la France que pour les autres pays. L’article PISA : nouvelle chute des résultats en maths est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/08/pisa-nouvelle-chute-des-resultats-en-maths/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-Maths-score-300x288.png",
+      "publishedAt": "2026-09-08T07:34:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "classe"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajk0tj",
+      "title": "Que dit l’édition 2025 de l’enquête PISA ?",
+      "summary": "Tous les trois ans, elle évalue les compétences des jeunes de 15 ans dans une soixantaine de pays et économies. L’édition 2025 confirme une tendance déjà observée en 2022 : L’article Que dit l’édition 2025 de l’enquête PISA ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/08/que-dit-ledition-2025-de-lenquete-pisa/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-enquete-2025-300x144.png",
+      "publishedAt": "2026-09-08T07:35:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "compétence"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a74cnoc",
+      "title": "Répression syndicale dans l’Éducation nationale : quatre enseignants syndiqués suspendus",
+      "summary": "Suspendus le 31 août, à la veille de la reprise, trois professeurs syndiqués à la CGT Éduc’action n’ont pas retrouvé leurs classes de l’école de la Tourtelle à Aubagne, une L’article Répression syndicale dans l’Éducation nationale : quatre enseignants syndiqués suspendus est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/08/repression-syndicale-dans-leducation-nationale-quatre-enseignants-syndiques-suspendus/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Repression-syndicale-dans-leducation-nationale-300x300.jpg",
+      "publishedAt": "2026-09-08T03:54:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "enseignant",
+        "professeur",
+        "classe"
+      ],
+      "relevance": 88,
+      "relevanceLevel": "haute",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aiyo709",
+      "title": "PISA 2025 : Éric Charbonnier appelle à « ouvrir un grand chantier sur le métier d’enseignant »",
+      "summary": "Que peut nous apprendre PISA sur l’école française ? « L’enquête PISA a permis de casser les idées reçues et d’ouvrir de vraies réflexions sur les systèmes éducatifs », estime L’article PISA 2025 : Éric Charbonnier appelle à « ouvrir un grand chantier sur le métier d’enseignant » est apparu en premier sur Le Café pédag",
+      "link": "https://www.cafepedagogique.net/2026/09/08/pisa-2025-eric-charbonnier-appelle-a-ouvrir-un-grand-chantier-sur-le-metier-denseignant/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/charbonnier-e1788804704931-300x300.jpeg",
+      "publishedAt": "2026-09-08T03:55:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "enseignant"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axp0arj",
+      "title": "Les mathématiques, une affaire d’intuition et d’émotions",
+      "summary": "« Le stéréotype des mathématiques froides est un contresens. » Dans cette deuxième partie d’entretien, Hugo Duminil-Copin et Emmanuel Sander reviennent sur le visage humain des mathématiques évoqué dans la première, L’article Les mathématiques, une affaire d’intuition et d’émotions est apparu en premier sur Le Café péd",
+      "link": "https://www.cafepedagogique.net/2026/09/08/les-mathematiques-une-affaire-dintuition-et-demotions/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/maths-300x151.png",
+      "publishedAt": "2026-09-08T03:45:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "stéréotype"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8jqxvg",
+      "title": "PISA : ce que les chiffres ne disent pas",
+      "summary": "Les résultats de l’enquête PISA de l’OCDE feront la Une ce mardi 8 septembre. Comme tous les trois ans, à chaque édition, les scores seront brandis. On classera les pays, L’article PISA : ce que les chiffres ne disent pas est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/08/pisa-ce-que-les-chiffres-ne-disent-pas/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-OCDE-300x239.png",
+      "publishedAt": "2026-09-08T04:00:32.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auqo37t",
+      "title": "EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse",
+      "summary": "L’académie d’Aix-Marseille a diffusé une fiche intitulée « si vous êtes sollicité par la presse ». Présenté comme un outil pour aider les agents à « répondre de manière adaptée L’article EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse est apparu en premier sur Le Café pédag",
+      "link": "https://www.cafepedagogique.net/2026/09/08/si-vous-etes-sollicite-par-la-presse-une-fiche-du-rectorat-pour-verrouiller-la-parole-face-a-la-presse/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/document-presse-cafe-pedagogique-216x300.jpg",
+      "publishedAt": "2026-09-08T03:53:49.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akkn5y8",
+      "title": "Grégory Michnik : quand l’IA fait enquêter les élèves en SVT",
+      "summary": "Et si les élèves de seconde devenaient internes en médecine le temps d’un cours de SVT ? Avec Docteur Maison, ces lycéens enquêtent sur des cas cliniques, analysent des résultats L’article Grégory Michnik : quand l’IA fait enquêter les élèves en SVT est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/08/gregory-michnik-quand-lia-fait-enqueter-les-eleves-en-svt/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/G-Michnik.jpg.webp",
+      "publishedAt": "2026-09-08T03:30:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +335,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9vat8t",
@@ -165,8 +351,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar7i0oh",
@@ -181,44 +367,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ayestdn",
-      "title": "Répression syndicale dans l’Éducation nationale : quatre enseignants syndiqués suspendus",
-      "summary": "Suspendus le 31 août, à la veille de la reprise, trois professeurs syndiqués à la CGT Éduc’action n’ont pas retrouvé leurs classes de l’école de la Tourtelle à Aubagne, une L’article Répression syndicale dans l’Éducation nationale : quatre enseignants syndiqués suspendus est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/07/repression-syndicale-dans-leducation-nationale-quatre-enseignants-syndiques-suspendus/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Repression-syndicale-dans-leducation-nationale-300x300.jpg",
-      "publishedAt": "2026-09-07T17:00:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "enseignant",
-        "professeur",
-        "classe"
-      ],
-      "relevance": 88,
-      "relevanceLevel": "haute",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avpxe8a",
-      "title": "EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse",
-      "summary": "L’académie d’Aix-Marseille a diffusé une fiche intitulée « si vous êtes sollicité par la presse ». Présenté comme un outil pour aider les agents à « répondre de manière adaptée L’article EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse est apparu en premier sur Le Café pédag",
-      "link": "https://www.cafepedagogique.net/2026/09/07/si-vous-etes-sollicite-par-la-presse-une-fiche-du-rectorat-pour-verrouiller-la-parole-face-a-la-presse/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/document-presse-cafe-pedagogique-216x300.jpg",
-      "publishedAt": "2026-09-07T16:54:49.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 66,
       "urgencyLevel": "moyenne"
     },
     {
@@ -234,7 +383,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -252,7 +401,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +419,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +435,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -302,7 +451,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -318,7 +467,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -334,7 +483,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,157 +499,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajkc8t7",
-      "title": "Sélection, classes séparées, patriotisme : l’école que veut construire l’AfD",
-      "summary": "Séisme politique en Allemagne ce dimanche 6 septembre. L’extrême droite allemande est arrivée au pouvoir en Saxe-Anhalt avec une participation record de 80%, soit 20% de plus qu’aux précédentes élections. L’article Sélection, classes séparées, patriotisme : l’école que veut construire l’AfD est apparu en premier sur Le",
-      "link": "https://www.cafepedagogique.net/2026/09/07/selection-classes-separees-patriotisme-lecole-que-veut-construire-lafd/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Capture-decran-.-2026-09-06-a-21.44.39-e1788756158418-260x300.jpeg",
-      "publishedAt": "2026-09-07T03:35:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "classe"
-      ],
-      "relevance": 91,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4vw9oy",
-      "title": "Laurent Villemonteix,  un enseignant face à l’IA",
-      "summary": "L’Intelligence Artificielle bouleverse les modalités d’appropriation des savoirs jusqu’à potentiellement penser et écrire à la place de nos élèves Comment peut-on être persan ? interrogeait ironiquement Montesquieu en 1721. Comment peut-on encore L’article Laurent Villemonteix, un enseignant face à l’IA est apparu en p",
-      "link": "https://www.cafepedagogique.net/2026/09/07/laurent-villemonteix-un-enseignant-face-a-lia/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Laurent-Villemonteix-221x300.jpg",
-      "publishedAt": "2026-09-07T03:30:09.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar5n4vo",
-      "title": "Une invitation à l’écriture créative enseignante",
-      "summary": "Écri’20 est un dispositif dont le but est de mettre en valeur la créativité des acteurs et actrices de l’éducation. Héléna Demirdjian, professeure de lettres responsable, en éclaire ainsi le L’article Une invitation à l’écriture créative enseignante est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/07/une-invitation-a-lecriture-creative-enseignante/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Une-invitation-a-lecriture-creative-enseignante.png",
-      "publishedAt": "2026-09-07T03:29:24.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant",
-        "professeur"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1y49tu",
-      "title": "Front syndical contre les évaluations nationales : « Le ministère doit cesser de standardiser les pratiques »",
-      "summary": "« Le pilotage pédagogique déployé par le ministère pour standardiser les pratiques doit cesser » déclare une large intersyndicale (FSU Snuipp, Se-Unsa, FO, CFDT, CGT Educ’Action, Snalc, Sud solidaire) qui L’article Front syndical contre les évaluations nationales : « Le ministère doit cesser de standardiser les pratiqu",
-      "link": "https://www.cafepedagogique.net/2026/09/07/front-syndical-contre-les-evaluations-nationales-le-ministere-doit-cesser-de-standardiser-les-pratiques/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/evaluation-300x200.jpg",
-      "publishedAt": "2026-09-07T03:45:10.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "évaluation"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajr4zmt",
-      "title": "Mathématiques : « Ne pas opposer automatisation et compréhension»",
-      "summary": "Depuis plusieurs années, les évaluations internationales dressent un constat préoccupant sur les résultats des élèves français. Le mathématicien médaillé Field Hugo Duminil-Copin et le professeur de psychologie l’éducation Emmanuel Sander L’article Mathématiques : « Ne pas opposer automatisation et compréhension» est a",
-      "link": "https://www.cafepedagogique.net/2026/09/07/faire-des-maths-ce-nest-pas-appliquer-des-recettes-repenser-leur-enseignement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/maths-300x151.png",
-      "publishedAt": "2026-09-07T03:50:15.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "professeur",
-        "évaluation"
-      ],
-      "relevance": 71,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adqt2dt",
-      "title": "Nicolas Bannier : Rêver à l’heure de l’IA",
-      "summary": "Comment se confronter à l’IA par une pédagogie de la créativité et de la réflexivité ? Professeur de lettres dans l’académie de Strasbourg, Nicolas Bannier expose en ligne une passionnante L’article Nicolas Bannier : Rêver à l’heure de l’IA est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/07/nicolas-bannier-rever-a-lheure-de-lia/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Rever-a-lheure-de-lIA-300x150.png",
-      "publishedAt": "2026-09-07T03:29:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "pédagogie",
-        "professeur"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a83ifc0",
-      "title": "PISA 2025 : de nouveaux résultats attendus mardi",
-      "summary": "Où en sont les élèves français en sciences ? Les nouveaux résultats de PISA seront dévoilés mardi par l’OCDE. Cette édition met l’accent sur la culture scientifique. Une publication très L’article PISA 2025 : de nouveaux résultats attendus mardi est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/07/pisa-2025-de-nouveaux-resultats-attendus-mardi/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-2025-ocde-230x300.png",
-      "publishedAt": "2026-09-07T04:00:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aejv1th",
-      "title": "Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels",
-      "summary": "À Rennes, les lauréats de la liste complémentaire demandent à être recrutés alors que des besoins persistent dans les écoles. Une course contre la montre s’engage avant le 30 septembre, L’article Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels est apparu en premier sur Le Café pédagogiqu",
-      "link": "https://www.cafepedagogique.net/2026/09/07/ils-ont-reussi-le-concours-mais-leducation-nationale-recrute-des-contractuels/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/academie-rennes-300x226.jpg",
-      "publishedAt": "2026-09-07T03:55:16.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -518,7 +517,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -536,7 +535,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -554,7 +553,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -570,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -586,7 +585,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -602,7 +601,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -618,8 +617,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1py601",
@@ -634,7 +633,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -650,7 +649,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -668,7 +667,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -684,7 +683,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -700,7 +699,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -716,7 +715,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 20,
       "urgencyLevel": "basse"
     }
   ]
