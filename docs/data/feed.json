@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:08:23.598Z",
+  "generatedAt": "2026-09-08T03:10:41.687Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 92,
+      "urgency": 86,
       "urgencyLevel": "haute"
     },
     {
@@ -149,13 +149,13 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
       "id": "a9vat8t",
       "title": "Fournitures scolaires : petite mythologie de la liste, de l’Antiquité à Roland Barthes",
-      "summary": "L’ESSENTIEL Cadrée chaque rentrée par des listes, la recherche des fournitures scolaires peut virer au casse-tête. Dans un langage neutre, la liste de fournitures se présente comme un service rendu tout en fixant un carcan. Relire Quintilien, pédagogue romain du Ier de notre ère, et Roland Barthes aide à en questionner",
+      "summary": "L’ESSENTIEL Cadrée chaque rentrée par des listes, la recherche des fournitures scolaires peut virer au casse-tête. Dans un langage neutre, la liste de fournitures se présente comme un service rendu tout en fixant un carcan. Relire Quintilien, pédagogue romain du Ier siècle de notre ère, et Roland Barthes aide à en ques",
       "link": "https://theconversation.com/fournitures-scolaires-petite-mythologie-de-la-liste-de-lantiquite-a-roland-barthes-291191",
       "image": "https://counter.theconversation.com/content/291191/count.gif",
       "publishedAt": "2026-09-07T13:46:15.000Z",
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -202,8 +202,8 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avpxe8a",
@@ -218,8 +218,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3g3j8b",
@@ -234,8 +234,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ao4n34z",
@@ -252,8 +252,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aj0egfa",
@@ -270,8 +270,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akfpl4m",
@@ -286,8 +286,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aoxguz7",
@@ -302,8 +302,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am92fwp",
@@ -318,8 +318,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1vn8x9",
@@ -334,8 +334,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "au46bt0",
@@ -350,43 +350,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a83ifc0",
-      "title": "PISA 2025 : de nouveaux résultats attendus mardi",
-      "summary": "Où en sont les élèves français en sciences ? Les nouveaux résultats de PISA seront dévoilés mardi par l’OCDE. Cette édition met l’accent sur la culture scientifique. Une publication très L’article PISA 2025 : de nouveaux résultats attendus mardi est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/07/pisa-2025-de-nouveaux-resultats-attendus-mardi/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-2025-ocde-230x300.png",
-      "publishedAt": "2026-09-07T04:00:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aejv1th",
-      "title": "Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels",
-      "summary": "À Rennes, les lauréats de la liste complémentaire demandent à être recrutés alors que des besoins persistent dans les écoles. Une course contre la montre s’engage avant le 30 septembre, L’article Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels est apparu en premier sur Le Café pédagogiqu",
-      "link": "https://www.cafepedagogique.net/2026/09/07/ils-ont-reussi-le-concours-mais-leducation-nationale-recrute-des-contractuels/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/academie-rennes-300x226.jpg",
-      "publishedAt": "2026-09-07T03:55:16.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -405,7 +369,7 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +388,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -443,7 +407,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -461,7 +425,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -481,7 +445,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -500,7 +464,43 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a83ifc0",
+      "title": "PISA 2025 : de nouveaux résultats attendus mardi",
+      "summary": "Où en sont les élèves français en sciences ? Les nouveaux résultats de PISA seront dévoilés mardi par l’OCDE. Cette édition met l’accent sur la culture scientifique. Une publication très L’article PISA 2025 : de nouveaux résultats attendus mardi est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/07/pisa-2025-de-nouveaux-resultats-attendus-mardi/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-2025-ocde-230x300.png",
+      "publishedAt": "2026-09-07T04:00:06.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aejv1th",
+      "title": "Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels",
+      "summary": "À Rennes, les lauréats de la liste complémentaire demandent à être recrutés alors que des besoins persistent dans les écoles. Une course contre la montre s’engage avant le 30 septembre, L’article Ils ont réussi le concours, mais l’Éducation nationale recrute des contractuels est apparu en premier sur Le Café pédagogiqu",
+      "link": "https://www.cafepedagogique.net/2026/09/07/ils-ont-reussi-le-concours-mais-leducation-nationale-recrute-des-contractuels/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/academie-rennes-300x226.jpg",
+      "publishedAt": "2026-09-07T03:55:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -518,7 +518,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -536,7 +536,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -570,7 +570,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -586,7 +586,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -602,7 +602,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -618,7 +618,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -634,7 +634,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -650,7 +650,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -668,7 +668,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -684,7 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -700,7 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -716,7 +716,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     }
   ]
