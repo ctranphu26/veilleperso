@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:44:38.719Z",
+  "generatedAt": "2026-09-09T03:12:42.139Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -167,8 +167,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "akygfhp",
+      "title": "En 50 ans, comment ont évolué les positions des médecins sur l’avortement",
+      "summary": "En quelque cinquante ans – de la période qui a précédé l’adoption de la loi Veil jusqu’à aujourd’hui après que l’interruption volontaire de grossesse a été inscrite dans la Constitution –, les positions des médecins ont évolué concernant l’interruption volontaire de grossesse. Si les oppositions des années 1970 se sont",
+      "link": "https://theconversation.com/en-50-ans-comment-ont-evolue-les-positions-des-medecins-sur-lavortement-268461",
+      "image": "https://counter.theconversation.com/content/268461/count.gif",
+      "publishedAt": "2026-09-07T13:48:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amplynw",
@@ -185,8 +201,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aclv0s5",
@@ -203,8 +219,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ak7fgav",
@@ -219,8 +235,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agynf16",
@@ -235,8 +251,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a57or6v",
@@ -251,8 +267,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8554uo",
@@ -267,8 +283,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8uo2ti",
@@ -283,24 +299,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "akygfhp",
-      "title": "En 50 ans, comment ont évolué les positions des médecins sur l’avortement",
-      "summary": "En quelque cinquante ans – de la période qui a précédé l’adoption de la loi Veil jusqu’à aujourd’hui après que l’interruption volontaire de grossesse a été inscrite dans la Constitution –, les positions des médecins ont évolué concernant l’interruption volontaire de grossesse. Si les oppositions des années 1970 se sont",
-      "link": "https://theconversation.com/en-50-ans-comment-ont-evolue-les-positions-des-medecins-sur-lavortement-268461",
-      "image": "https://counter.theconversation.com/content/268461/count.gif",
-      "publishedAt": "2026-09-07T13:48:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar9x64k",
@@ -315,7 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,7 +331,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +350,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,7 +369,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -387,7 +387,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,7 +408,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +427,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -445,59 +445,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axp0arj",
-      "title": "Les mathématiques, une affaire d’intuition et d’émotions",
-      "summary": "« Le stéréotype des mathématiques froides est un contresens. » Dans cette deuxième partie d’entretien, Hugo Duminil-Copin et Emmanuel Sander reviennent sur le visage humain des mathématiques évoqué dans la première, L’article Les mathématiques, une affaire d’intuition et d’émotions est apparu en premier sur Le Café péd",
-      "link": "https://www.cafepedagogique.net/2026/09/08/les-mathematiques-une-affaire-dintuition-et-demotions/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/maths-300x151.png",
-      "publishedAt": "2026-09-08T03:45:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "stéréotype"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8jqxvg",
-      "title": "PISA : ce que les chiffres ne disent pas",
-      "summary": "Les résultats de l’enquête PISA de l’OCDE feront la Une ce mardi 8 septembre. Comme tous les trois ans, à chaque édition, les scores seront brandis. On classera les pays, L’article PISA : ce que les chiffres ne disent pas est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/08/pisa-ce-que-les-chiffres-ne-disent-pas/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-OCDE-300x239.png",
-      "publishedAt": "2026-09-08T04:00:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "auqo37t",
-      "title": "EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse",
-      "summary": "L’académie d’Aix-Marseille a diffusé une fiche intitulée « si vous êtes sollicité par la presse ». Présenté comme un outil pour aider les agents à « répondre de manière adaptée L’article EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse est apparu en premier sur Le Café pédag",
-      "link": "https://www.cafepedagogique.net/2026/09/08/si-vous-etes-sollicite-par-la-presse-une-fiche-du-rectorat-pour-verrouiller-la-parole-face-a-la-presse/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/document-presse-cafe-pedagogique-216x300.jpg",
-      "publishedAt": "2026-09-08T03:53:49.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -515,7 +463,43 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axp0arj",
+      "title": "Les mathématiques, une affaire d’intuition et d’émotions",
+      "summary": "« Le stéréotype des mathématiques froides est un contresens. » Dans cette deuxième partie d’entretien, Hugo Duminil-Copin et Emmanuel Sander reviennent sur le visage humain des mathématiques évoqué dans la première, L’article Les mathématiques, une affaire d’intuition et d’émotions est apparu en premier sur Le Café péd",
+      "link": "https://www.cafepedagogique.net/2026/09/08/les-mathematiques-une-affaire-dintuition-et-demotions/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/maths-300x151.png",
+      "publishedAt": "2026-09-08T03:45:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "stéréotype"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a8jqxvg",
+      "title": "PISA : ce que les chiffres ne disent pas",
+      "summary": "Les résultats de l’enquête PISA de l’OCDE feront la Une ce mardi 8 septembre. Comme tous les trois ans, à chaque édition, les scores seront brandis. On classera les pays, L’article PISA : ce que les chiffres ne disent pas est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/08/pisa-ce-que-les-chiffres-ne-disent-pas/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-OCDE-300x239.png",
+      "publishedAt": "2026-09-08T04:00:32.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -531,7 +515,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "auqo37t",
+      "title": "EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse",
+      "summary": "L’académie d’Aix-Marseille a diffusé une fiche intitulée « si vous êtes sollicité par la presse ». Présenté comme un outil pour aider les agents à « répondre de manière adaptée L’article EXCLUSIF CAFE PEDAGOGIQUE : Une fiche du rectorat pour verrouiller la parole face à la presse est apparu en premier sur Le Café pédag",
+      "link": "https://www.cafepedagogique.net/2026/09/08/si-vous-etes-sollicite-par-la-presse-une-fiche-du-rectorat-pour-verrouiller-la-parole-face-a-la-presse/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/document-presse-cafe-pedagogique-216x300.jpg",
+      "publishedAt": "2026-09-08T03:53:49.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -547,7 +547,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -563,7 +563,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -581,7 +581,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -615,7 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -631,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -647,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -663,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -679,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -697,7 +697,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -713,7 +713,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     }
   ]
