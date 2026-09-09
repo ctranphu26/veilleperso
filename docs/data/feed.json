@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:57:20.132Z",
+  "generatedAt": "2026-09-09T20:27:02.422Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -188,89 +188,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a1mriao",
-      "title": "Un chasseur qui ne chasse plus : portrait d’un policier de l’environnement",
-      "summary": "En 2000, l’Office national de la chasse est devenu l’Office national de la chasse et de la faune sauvage. En 2020, cet office a été fusionné avec l’Agence française pour la biodiversité, pour donner naissance à l’Office français de la biodiversité. D’anciens gardes-chasse, souvent eux-mêmes chasseurs, sont ainsi devenu",
-      "link": "https://theconversation.com/un-chasseur-qui-ne-chasse-plus-portrait-dun-policier-de-lenvironnement-291305",
-      "image": "https://images.theconversation.com/files/757991/original/file-20260904-50-ukw223.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-09T14:11:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "afyys1x",
-      "title": "La justice sud-africaine bloque un projet de Shell : une victoire pour la justice climatique",
-      "summary": "L’ESSENTIEL La Cour constitutionnelle sud-africaine vient d’annuler un projet d’exploration pétrolière de Shell, estimant que les autorités n’avaient pas suffisamment consulté les communautés locales ni pris en compte les enjeux environnementaux et climatiques. L’arrêt consacre une conception large de la justice climat",
-      "link": "https://theconversation.com/la-justice-sud-africaine-bloque-un-projet-de-shell-une-victoire-pour-la-justice-climatique-291202",
-      "image": "https://counter.theconversation.com/content/291202/count.gif",
-      "publishedAt": "2026-09-09T14:12:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "atr8gfv",
-      "title": "Risques liés au plomb : À Abidjan, une approche participative pour sensibiliser les familles et mieux protéger les enfants",
-      "summary": "L’ESSENTIEL Les peintures au plomb sont dangereuses, en particulier pour les jeunes enfants. De telles peintures sont encore commercialisées en Côte d’Ivoire, où les dangers du plomb sont mal connus par la population. Une intervention pilote pour sensibiliser les femmes enceintes et les mères de très jeunes enfants s’e",
-      "link": "https://theconversation.com/risques-lies-au-plomb-a-abidjan-une-approche-participative-pour-sensibiliser-les-familles-et-mieux-proteger-les-enfants-261237",
-      "image": "https://images.theconversation.com/files/757574/original/file-20260902-60-spt15r.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-09T14:12:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "axfarau",
-      "title": "Comment plus de 11 millions de salariés états-uniens sont devenus actionnaires de leur entreprise sans débourser un centime",
-      "summary": "Publix Super Markets est l’une des plus grandes entreprises américaines majoritairement détenues par ses salariés à travers un ESOP. Wikimédia, CC BY L’ESSENTIEL Près d’un salarié du secteur privé aux États-Unis sur dix est propriétaire d’une part de son entreprise. Et ce, sans apport personnel le plus souvent. Cela ne",
-      "link": "https://theconversation.com/comment-plus-de-11-millions-de-salaries-etats-uniens-sont-devenus-actionnaires-de-leur-entreprise-sans-debourser-un-centime-287248",
-      "image": "https://images.theconversation.com/files/757204/original/file-20260901-50-fgp95o.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5999%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-09T14:10:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "at6ityd",
-      "title": "Why France’s illustrious history of cheesemaking is full of holes",
-      "summary": "The famous words of General de Gaulle – “How can you govern a country where there are 246 varieties of cheese?” – show just how closely regional identities are linked to a country’s cheesemaking heritage that seems to be rooted in ancient history. And yet this is both true and false, as this tradition that the French a",
-      "link": "https://theconversation.com/why-frances-illustrious-history-of-cheesemaking-is-full-of-holes-285426",
-      "image": "https://images.theconversation.com/files/728392/original/file-20260407-57-3k11x.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-09T14:10:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -288,23 +206,89 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
-      "id": "agjy75a",
-      "title": "Les survivants de la peste nous ont laissé des graffitis, de rares archives… et une leçon pour l’après-Covid",
-      "summary": "Après la Peste noire, beaucoup de survivants évitaient d’évoquer la maladie. Pourtant, quelques graffitis, archives et témoignages ont traversé les siècles (sur un mur de l’église Sainte-Marie d’Ashwell, en Angleterre). Jack1956/Wikipédia, CC BY Graffitis gravés sur les murs des églises, quelques chroniques et actes de",
-      "link": "https://theconversation.com/les-survivants-de-la-peste-nous-ont-laisse-des-graffitis-de-rares-archives-et-une-lecon-pour-lapres-covid-287596",
-      "image": "https://images.theconversation.com/files/747988/original/file-20260218-56-uvykjg.png?ixlib=rb-4.1.1&amp;rect=145%2C0%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-09T11:16:47.000Z",
+      "id": "a1mriao",
+      "title": "Un chasseur qui ne chasse plus : portrait d’un policier de l’environnement",
+      "summary": "En 2000, l’Office national de la chasse est devenu l’Office national de la chasse et de la faune sauvage. En 2020, cet office a été fusionné avec l’Agence française pour la biodiversité, pour donner naissance à l’Office français de la biodiversité. D’anciens gardes-chasse, souvent eux-mêmes chasseurs, sont ainsi devenu",
+      "link": "https://theconversation.com/un-chasseur-qui-ne-chasse-plus-portrait-dun-policier-de-lenvironnement-291305",
+      "image": "https://images.theconversation.com/files/757991/original/file-20260904-50-ukw223.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-09T14:11:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afyys1x",
+      "title": "La justice sud-africaine bloque un projet de Shell : une victoire pour la justice climatique",
+      "summary": "L’ESSENTIEL La Cour constitutionnelle sud-africaine vient d’annuler un projet d’exploration pétrolière de Shell, estimant que les autorités n’avaient pas suffisamment consulté les communautés locales ni pris en compte les enjeux environnementaux et climatiques. L’arrêt consacre une conception large de la justice climat",
+      "link": "https://theconversation.com/la-justice-sud-africaine-bloque-un-projet-de-shell-une-victoire-pour-la-justice-climatique-291202",
+      "image": "https://counter.theconversation.com/content/291202/count.gif",
+      "publishedAt": "2026-09-09T14:12:44.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atr8gfv",
+      "title": "Risques liés au plomb : À Abidjan, une approche participative pour sensibiliser les familles et mieux protéger les enfants",
+      "summary": "L’ESSENTIEL Les peintures au plomb sont dangereuses, en particulier pour les jeunes enfants. De telles peintures sont encore commercialisées en Côte d’Ivoire, où les dangers du plomb sont mal connus par la population. Une intervention pilote pour sensibiliser les femmes enceintes et les mères de très jeunes enfants s’e",
+      "link": "https://theconversation.com/risques-lies-au-plomb-a-abidjan-une-approche-participative-pour-sensibiliser-les-familles-et-mieux-proteger-les-enfants-261237",
+      "image": "https://images.theconversation.com/files/757574/original/file-20260902-60-spt15r.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-09T14:12:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axfarau",
+      "title": "Comment plus de 11 millions de salariés états-uniens sont devenus actionnaires de leur entreprise sans débourser un centime",
+      "summary": "Publix Super Markets est l’une des plus grandes entreprises américaines majoritairement détenues par ses salariés à travers un ESOP. Wikimédia, CC BY L’ESSENTIEL Près d’un salarié du secteur privé aux États-Unis sur dix est propriétaire d’une part de son entreprise. Et ce, sans apport personnel le plus souvent. Cela ne",
+      "link": "https://theconversation.com/comment-plus-de-11-millions-de-salaries-etats-uniens-sont-devenus-actionnaires-de-leur-entreprise-sans-debourser-un-centime-287248",
+      "image": "https://images.theconversation.com/files/757204/original/file-20260901-50-fgp95o.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5999%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T14:10:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at6ityd",
+      "title": "Why France’s illustrious history of cheesemaking is full of holes",
+      "summary": "The famous words of General de Gaulle – “How can you govern a country where there are 246 varieties of cheese?” – show just how closely regional identities are linked to a country’s cheesemaking heritage that seems to be rooted in ancient history. And yet this is both true and false, as this tradition that the French a",
+      "link": "https://theconversation.com/why-frances-illustrious-history-of-cheesemaking-is-full-of-holes-285426",
+      "image": "https://images.theconversation.com/files/728392/original/file-20260407-57-3k11x.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-09T14:10:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -322,7 +306,23 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 74,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agjy75a",
+      "title": "Les survivants de la peste nous ont laissé des graffitis, de rares archives… et une leçon pour l’après-Covid",
+      "summary": "Après la Peste noire, beaucoup de survivants évitaient d’évoquer la maladie. Pourtant, quelques graffitis, archives et témoignages ont traversé les siècles (sur un mur de l’église Sainte-Marie d’Ashwell, en Angleterre). Jack1956/Wikipédia, CC BY Graffitis gravés sur les murs des églises, quelques chroniques et actes de",
+      "link": "https://theconversation.com/les-survivants-de-la-peste-nous-ont-laisse-des-graffitis-de-rares-archives-et-une-lecon-pour-lapres-covid-287596",
+      "image": "https://images.theconversation.com/files/747988/original/file-20260218-56-uvykjg.png?ixlib=rb-4.1.1&amp;rect=145%2C0%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T11:16:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -338,7 +338,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -354,7 +354,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -370,7 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -389,8 +389,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aloyqhr",
@@ -408,7 +408,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +427,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -445,7 +445,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -461,7 +461,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -477,7 +477,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -493,7 +493,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -509,7 +509,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -525,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -541,7 +541,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -559,7 +559,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -577,7 +577,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -593,7 +593,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -609,7 +609,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -625,7 +625,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -641,7 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -657,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -673,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -689,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -707,7 +707,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     }
   ]
