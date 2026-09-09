@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:47:34.700Z",
+  "generatedAt": "2026-09-09T15:57:20.132Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,42 @@
   "count": 35,
   "items": [
     {
+      "id": "alak0mz",
+      "title": "Peut-on vraiment détecter les textes générés par IA ?",
+      "summary": "Il reste difficile, malgré l’apparition de logiciels de détection, de savoir si un texte a été généré par une intelligence artificielle ou par un humain. Shutterstock (no reuse) L’ESSENTIEL Il est très difficile, aujourd’hui, de savoir si un texte est produit par un humain ou par une intelligence artificielle, malgré d",
+      "link": "https://theconversation.com/peut-on-vraiment-detecter-les-textes-generes-par-ia-289673",
+      "image": "https://images.theconversation.com/files/758420/original/file-20260908-60-sbnsr5.jpg?ixlib=rb-4.1.1&amp;rect=7%2C0%2C3597%2C2398&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T13:57:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aipp6si",
+      "title": "L’interdiction de quitter le territoire : le nouvel outil de la Chine dans la compétition internationale ?",
+      "summary": "L’ESSENTIEL La République populaire renforce son contrôle des sorties du territoire, aussi bien pour ses citoyens que pour certains étrangers, notamment issus de la diaspora chinoise. Ces restrictions visent à limiter les risques de fuite de compétences dans les secteurs stratégiques. Pékin cherche ainsi à préserver se",
+      "link": "https://theconversation.com/linterdiction-de-quitter-le-territoire-le-nouvel-outil-de-la-chine-dans-la-competition-internationale-290461",
+      "image": "https://counter.theconversation.com/content/290461/count.gif",
+      "publishedAt": "2026-09-09T14:12:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "compétence"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "apbanmd",
       "title": "Le collège la Durantière à Nantes en grève",
       "summary": "Mobilisés pour obtenir le classement de leur établissement en REP+, les personnels du collège de la Durantière à Nantes, étaient en grève ce mardi 8 septembre. Depuis 2019, ils alertent, L’article Le collège la Durantière à Nantes en grève est apparu en premier sur Le Café pédagogique.",
@@ -133,7 +169,108 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 92,
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a400b7l",
+      "title": "Ces hommes pionniers du féminisme, de Condorcet à Léon Blum",
+      "summary": "Le philosophe Condorcet, l’inventeur et militant Jules Allix, l’économiste Victor Considerant, le médecin et franc-maçon Georges Martin, le chef du gouvernement sous le Front populaire Léon Blum, l’écrivain Victor Margueritte (de gauche à droite et de haut en bas). L’ESSENTIEL Face aux violences sexistes et sexuelles, ",
+      "link": "https://theconversation.com/ces-hommes-pionniers-du-feminisme-de-condorcet-a-leon-blum-288547",
+      "image": "https://images.theconversation.com/files/752040/original/file-20260804-50-bdhel1.jpg?ixlib=rb-4.1.1&amp;rect=0%2C35%2C1365%2C910&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T13:59:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "féminisme",
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1mriao",
+      "title": "Un chasseur qui ne chasse plus : portrait d’un policier de l’environnement",
+      "summary": "En 2000, l’Office national de la chasse est devenu l’Office national de la chasse et de la faune sauvage. En 2020, cet office a été fusionné avec l’Agence française pour la biodiversité, pour donner naissance à l’Office français de la biodiversité. D’anciens gardes-chasse, souvent eux-mêmes chasseurs, sont ainsi devenu",
+      "link": "https://theconversation.com/un-chasseur-qui-ne-chasse-plus-portrait-dun-policier-de-lenvironnement-291305",
+      "image": "https://images.theconversation.com/files/757991/original/file-20260904-50-ukw223.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-09T14:11:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afyys1x",
+      "title": "La justice sud-africaine bloque un projet de Shell : une victoire pour la justice climatique",
+      "summary": "L’ESSENTIEL La Cour constitutionnelle sud-africaine vient d’annuler un projet d’exploration pétrolière de Shell, estimant que les autorités n’avaient pas suffisamment consulté les communautés locales ni pris en compte les enjeux environnementaux et climatiques. L’arrêt consacre une conception large de la justice climat",
+      "link": "https://theconversation.com/la-justice-sud-africaine-bloque-un-projet-de-shell-une-victoire-pour-la-justice-climatique-291202",
+      "image": "https://counter.theconversation.com/content/291202/count.gif",
+      "publishedAt": "2026-09-09T14:12:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atr8gfv",
+      "title": "Risques liés au plomb : À Abidjan, une approche participative pour sensibiliser les familles et mieux protéger les enfants",
+      "summary": "L’ESSENTIEL Les peintures au plomb sont dangereuses, en particulier pour les jeunes enfants. De telles peintures sont encore commercialisées en Côte d’Ivoire, où les dangers du plomb sont mal connus par la population. Une intervention pilote pour sensibiliser les femmes enceintes et les mères de très jeunes enfants s’e",
+      "link": "https://theconversation.com/risques-lies-au-plomb-a-abidjan-une-approche-participative-pour-sensibiliser-les-familles-et-mieux-proteger-les-enfants-261237",
+      "image": "https://images.theconversation.com/files/757574/original/file-20260902-60-spt15r.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-09T14:12:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axfarau",
+      "title": "Comment plus de 11 millions de salariés états-uniens sont devenus actionnaires de leur entreprise sans débourser un centime",
+      "summary": "Publix Super Markets est l’une des plus grandes entreprises américaines majoritairement détenues par ses salariés à travers un ESOP. Wikimédia, CC BY L’ESSENTIEL Près d’un salarié du secteur privé aux États-Unis sur dix est propriétaire d’une part de son entreprise. Et ce, sans apport personnel le plus souvent. Cela ne",
+      "link": "https://theconversation.com/comment-plus-de-11-millions-de-salaries-etats-uniens-sont-devenus-actionnaires-de-leur-entreprise-sans-debourser-un-centime-287248",
+      "image": "https://images.theconversation.com/files/757204/original/file-20260901-50-fgp95o.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5999%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T14:10:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at6ityd",
+      "title": "Why France’s illustrious history of cheesemaking is full of holes",
+      "summary": "The famous words of General de Gaulle – “How can you govern a country where there are 246 varieties of cheese?” – show just how closely regional identities are linked to a country’s cheesemaking heritage that seems to be rooted in ancient history. And yet this is both true and false, as this tradition that the French a",
+      "link": "https://theconversation.com/why-frances-illustrious-history-of-cheesemaking-is-full-of-holes-285426",
+      "image": "https://images.theconversation.com/files/728392/original/file-20260407-57-3k11x.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-09T14:10:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +288,89 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agjy75a",
+      "title": "Les survivants de la peste nous ont laissé des graffitis, de rares archives… et une leçon pour l’après-Covid",
+      "summary": "Après la Peste noire, beaucoup de survivants évitaient d’évoquer la maladie. Pourtant, quelques graffitis, archives et témoignages ont traversé les siècles (sur un mur de l’église Sainte-Marie d’Ashwell, en Angleterre). Jack1956/Wikipédia, CC BY Graffitis gravés sur les murs des églises, quelques chroniques et actes de",
+      "link": "https://theconversation.com/les-survivants-de-la-peste-nous-ont-laisse-des-graffitis-de-rares-archives-et-une-lecon-pour-lapres-covid-287596",
+      "image": "https://images.theconversation.com/files/747988/original/file-20260218-56-uvykjg.png?ixlib=rb-4.1.1&amp;rect=145%2C0%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T11:16:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avx3v5e",
+      "title": "Pourquoi ne parle-t-on pas davantage de la guerre civile dans les classes espagnoles ?",
+      "summary": "Enseigner la guerre civile espagnole (1936-1939) ne consiste pas seulement à raconter un conflit : c’est aussi transmettre les fondements de la démocratie. EF Stock/Shutterstock (no reuse) L’ESSENTIEL La guerre civile espagnole (1936-1939) est peu enseignée de l’autre côté des Pyrénées, malgré son importance historique",
+      "link": "https://theconversation.com/pourquoi-ne-parle-t-on-pas-davantage-de-la-guerre-civile-dans-les-classes-espagnoles-287980",
+      "image": "https://images.theconversation.com/files/749067/original/file-20260709-71-tm06ql.jpeg?ixlib=rb-4.1.1&amp;rect=155%2C231%2C6534%2C4356&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T10:50:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5qs328",
+      "title": "Pourquoi la France a interdit l’absinthe : l’histoire d’un bouc émissaire qualifié de « poison national »",
+      "summary": "Pendant des décennies, l’absinthe fut accusée de rendre fou, de provoquer l’épilepsie et de menacer l’avenir de la nation française. Une nouvelle étude montre comment la « Fée verte » est devenue un bouc émissaire… et pourquoi ce mécanisme reste d’une brûlante actualité. Le puissant breuvage vert émeraude à base d’armo",
+      "link": "https://theconversation.com/pourquoi-la-france-a-interdit-labsinthe-lhistoire-dun-bouc-emissaire-qualifie-de-poison-national-287211",
+      "image": "https://counter.theconversation.com/content/287211/count.gif",
+      "publishedAt": "2026-09-09T10:50:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aeg95yi",
+      "title": "Derrière la tapisserie de Bayeux, les brodeuses effacées de l’Histoire",
+      "summary": "Chef-d’œuvre de l’art médiéval, la tapisserie de Bayeux raconte la bataille d’Hastings en 1066. Mais elle raconte aussi, en creux, une autre histoire : celle des femmes qui l’ont probablement réalisée et dont le rôle a longtemps été relégué au second plan. BL Royal 20 C V, f. 30v, illuminated manuscript/Wiki Commons/Ca",
+      "link": "https://theconversation.com/derriere-la-tapisserie-de-bayeux-les-brodeuses-effacees-de-lhistoire-286875",
+      "image": "https://images.theconversation.com/files/746062/original/file-20260421-85-5fjr3c.jpg?ixlib=rb-4.1.1&amp;rect=399%2C0%2C1377%2C918&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T10:49:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "alnruzb",
+      "title": "Vingt-cinq ans après le 11-Septembre : l’unité des États-Unis à l’épreuve des fractures",
+      "summary": "L’ESSENTIEL Vingt-cinq ans après les attentats du 11-Septembre, l’organisation des cérémonies de commémoration est marquée par plusieurs controverses. L’absence à New York du président des États-Unis et la contestation de la présence du maire Zohran Mamdani, en raison de son appartenance religieuse, cristallisent les t",
+      "link": "https://theconversation.com/vingt-cinq-ans-apres-le-11-septembre-lunite-des-etats-unis-a-lepreuve-des-fractures-290865",
+      "image": "https://images.theconversation.com/files/757329/original/file-20260901-60-mwu1gt.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-09T10:46:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -170,7 +389,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -189,24 +408,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aptye27",
-      "title": "PISA : que dit le ministre Edouard Geffray ?",
-      "summary": "C’est la faute des parents, des réseaux, des écrans ! Suite à la publication des résultats des tests PISA 2025, le ministre de l’Education nationale n’a pas traîné pour réagir. L’article PISA : que dit le ministre Edouard Geffray ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/09/pisa-que-dit-le-ministre-edouard-geffray/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/ministre-Geffray-1-e1782154652555-264x300.jpeg",
-      "publishedAt": "2026-09-09T03:55:14.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8otlim",
@@ -224,8 +427,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayp9ctu",
@@ -242,8 +445,24 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aptye27",
+      "title": "PISA : que dit le ministre Edouard Geffray ?",
+      "summary": "C’est la faute des parents, des réseaux, des écrans ! Suite à la publication des résultats des tests PISA 2025, le ministre de l’Education nationale n’a pas traîné pour réagir. L’article PISA : que dit le ministre Edouard Geffray ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/09/pisa-que-dit-le-ministre-edouard-geffray/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/ministre-Geffray-1-e1782154652555-264x300.jpeg",
+      "publishedAt": "2026-09-09T03:55:14.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aycx834",
@@ -258,8 +477,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3eyuq7",
@@ -274,8 +493,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atqla9",
@@ -290,8 +509,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atw9k7m",
@@ -306,23 +525,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
-      "id": "akygfhp",
-      "title": "En 50 ans, comment ont évolué les positions des médecins sur l’avortement",
-      "summary": "En quelque cinquante ans – de la période qui a précédé l’adoption de la loi Veil jusqu’à aujourd’hui après que l’interruption volontaire de grossesse a été inscrite dans la Constitution –, les positions des médecins ont évolué concernant l’interruption volontaire de grossesse. Si les oppositions des années 1970 se sont",
-      "link": "https://theconversation.com/en-50-ans-comment-ont-evolue-les-positions-des-medecins-sur-lavortement-268461",
-      "image": "https://counter.theconversation.com/content/268461/count.gif",
-      "publishedAt": "2026-09-07T13:48:33.000Z",
+      "id": "aqt4lzz",
+      "title": "« L’évolution de l’électorat rend possible la victoire de Marine Le Pen à la présidentielle »",
+      "summary": "L’ESSENTIEL À huit mois du scrutin, les sondages donnent Marine Le Pen victorieuse en 2027, quel que soit son adversaire au second tour. Pour Jean-Yves Dormagen, politiste et fondateur de l’institut Cluster 17, le front républicain est désactivé. La dynamique des partis d’extrême droite touche tous les pays occidentaux",
+      "link": "https://theconversation.com/levolution-de-lelectorat-rend-possible-la-victoire-de-marine-le-pen-a-la-presidentielle-291401",
+      "image": "https://images.theconversation.com/files/758473/original/file-20260908-50-8b0hs8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-08T15:13:36.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -340,7 +559,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -358,23 +577,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqt4lzz",
-      "title": "« L’évolution de l’électorat rend possible la victoire de Marine Le Pen à la présidentielle »",
-      "summary": "L’ESSENTIEL À huit mois du scrutin, les sondages donnent Marine Le Pen victorieuse en 2027, quel que soit son adversaire au second tour. Pour Jean-Yves Dormagen, politiste et fondateur de l’institut Cluster 17, le front républicain est désactivé. La dynamique des partis d’extrême droite touche tous les pays occidentaux",
-      "link": "https://theconversation.com/levolution-de-lelectorat-rend-possible-la-victoire-de-marine-le-pen-a-la-presidentielle-291401",
-      "image": "https://images.theconversation.com/files/758473/original/file-20260908-50-8b0hs8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-08T15:13:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -390,7 +593,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -406,7 +609,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -422,7 +625,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,7 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -454,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -470,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -504,208 +707,8 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8mr9yr",
-      "title": "Incendies en Algérie : l’exceptionnelle résilience du peuple comme ressource politique du pouvoir",
-      "summary": "L’ESSENTIEL Face à la catastrophe, les dirigeants algériens focalisent l’attention sur leur double réaction : la promesse d’une indemnisation rapide des victimes et la décision de rétablir la peine de mort pour les pyromanes. Les défaillances structurelles de prévention et de gestion des feux sont pourtant largement en",
-      "link": "https://theconversation.com/incendies-en-algerie-lexceptionnelle-resilience-du-peuple-comme-ressource-politique-du-pouvoir-291087",
-      "image": "https://counter.theconversation.com/content/291087/count.gif",
-      "publishedAt": "2026-09-07T13:47:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9vat8t",
-      "title": "Fournitures scolaires : petite mythologie de la liste, de l’Antiquité à Roland Barthes",
-      "summary": "L’ESSENTIEL Cadrée chaque rentrée par des listes, la recherche des fournitures scolaires peut virer au casse-tête. Dans un langage neutre, la liste de fournitures se présente comme un service rendu tout en fixant un carcan. Relire Quintilien, pédagogue romain du Ier siècle de notre ère, et Roland Barthes aide à en ques",
-      "link": "https://theconversation.com/fournitures-scolaires-petite-mythologie-de-la-liste-de-lantiquite-a-roland-barthes-291191",
-      "image": "https://counter.theconversation.com/content/291191/count.gif",
-      "publishedAt": "2026-09-07T13:46:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar7i0oh",
-      "title": "Le bore-out : quand l’ennui au travail devient une souffrance invisible",
-      "summary": "À l’opposé du burn out, le bore-out résulte d’un manque d’activité, de stimulation ou de sens au travail. Pourtant, ses effets psychologiques peuvent être tout aussi importants. Une étude qualitative permet d’analyser les manifestations du bore-out, ses causes organisationnelles et l’invisibilisation persistante de l’e",
-      "link": "https://theconversation.com/le-bore-out-quand-lennui-au-travail-devient-une-souffrance-invisible-283293",
-      "image": "https://counter.theconversation.com/content/283293/count.gif",
-      "publishedAt": "2026-09-07T09:41:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
       "urgency": 50,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3g3j8b",
-      "title": "Grand âge et perte d’audition : le manque de dépistage finit par coûter cher",
-      "summary": "L’ESSENTIEL La perte auditive, qui survient avec l’âge, reste insuffisamment dépistée et prise en charge. Les données montrent pourtant clairement que le fait de porter des appareils auditifs prévient les chutes ainsi que le déclin cognitif. Ne pas suffisamment prendre en charge la question de l’audition dans les polit",
-      "link": "https://theconversation.com/grand-age-et-perte-daudition-le-manque-de-depistage-finit-par-couter-cher-290467",
-      "image": "https://counter.theconversation.com/content/290467/count.gif",
-      "publishedAt": "2026-09-07T15:28:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ao4n34z",
-      "title": "Le RN veut interdire le foulard islamique dans l’espace public : une rupture avec les principes de liberté religieuse et de non-discrimination",
-      "summary": "L’ESSENTIEL Le Rassemblement national souhaite interdire le foulard islamique dans l’espace public, s’il emporte l’élection présidentielle. Le principe invoqué par le RN est la lutte contre l’islamisme. Or, les données de la recherche ne permettent pas de réduire le port du voile à une motivation politique. Cette inter",
-      "link": "https://theconversation.com/le-rn-veut-interdire-le-foulard-islamique-dans-lespace-public-une-rupture-avec-les-principes-de-liberte-religieuse-et-de-non-discrimination-291079",
-      "image": "https://counter.theconversation.com/content/291079/count.gif",
-      "publishedAt": "2026-09-07T13:49:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "discrimination"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aj0egfa",
-      "title": "Assurés, mais pas couverts contre certaines catastrophes naturelles, ce que nous enseignent les leçons tirées des incendies en Gironde",
-      "summary": "L’ESSENTIEL Les incendies de l’été 2026 ne relèvent pas du régime CatNat et font peser un risque sur les particuliers et les assureurs privés. Si l’assurance indemnise les dommages matériels, elle ne couvre pas encore les pertes d’activité pour 15 000 entreprises girondines. Le spectre d’une augmentation des primes, d’",
-      "link": "https://theconversation.com/assures-mais-pas-couverts-contre-certaines-catastrophes-naturelles-ce-que-nous-enseignent-les-lecons-tirees-des-incendies-en-gironde-289257",
-      "image": "https://images.theconversation.com/files/757736/original/file-20260903-60-ok1jeu.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-07T13:45:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "akfpl4m",
-      "title": "Gloria Steinem, l’art de mettre un mouvement en marche",
-      "summary": "Les trajets en taxi permettaient à Gloria Steinem d’accéder, le temps d’un trajet, à des univers sociaux souvent invisibles. apture d’écran/Youtube Icône américaine de la deuxième vague féministe, Gloria Steinem, décédée le 2 septembre 2026 à l’âge de 92 ans, est l’autrice de My Life on the Road (2015). Entre autobiogr",
-      "link": "https://theconversation.com/gloria-steinem-lart-de-mettre-un-mouvement-en-marche-291299",
-      "image": "https://images.theconversation.com/files/758204/original/file-20260907-50-8wx9ll.png?ixlib=rb-4.1.1&amp;rect=250%2C0%2C1299%2C866&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-07T13:51:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aoxguz7",
-      "title": "Fire and floods are usually treated as separate hazards. Portugal’s Pinhal Interior shows why they are part of the same cycle",
-      "summary": "Across southern Europe, increasingly extreme heat, wildfire and intense rainfall are forcing planners to consider how one event can alter the risk of the next. Portugal’s exceptionally wet winter and another summer of wildfire risk are an example of this. As a professor of architecture and climate change adaptation who",
-      "link": "https://theconversation.com/fire-and-floods-are-usually-treated-as-separate-hazards-portugals-pinhal-interior-shows-why-they-are-part-of-the-same-cycle-290857",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-07T13:48:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am92fwp",
-      "title": "Pourquoi les forêts françaises sont-elles si peu assurées ?",
-      "summary": "L’ESSENTIEL Seuls 7,5 % de la forêt privée française sont assurés contre l’incendie et/ou la tempête. Ce faible taux s’explique notamment par la présence d’aides publiques et d’assurances jugées trop chères ou incomplètes. Les modèles d’assurance étrangers pourraient offrir des pistes de réflexion pour faire évoluer le",
-      "link": "https://theconversation.com/pourquoi-les-forets-francaises-sont-elles-si-peu-assurees-291005",
-      "image": "https://images.theconversation.com/files/757288/original/file-20260901-60-vk6p5m.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-07T13:46:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1vn8x9",
-      "title": "États-Unis, Arabie saoudite, Russie : à chacun sa manière de vaciller pour les trois grands du pétrole",
-      "summary": "L’ESSENTIEL C’est un paradoxe : malgré la flambée des prix, les trois principaux producteurs de pétrole sont ébranlés. La crise révèle qu’être un « gros » producteur ne suffit pas pour être puissant, dès lors que les flux sont entravés. Et, si le pétrole reste indispensable, la transition énergétique affaiblit progress",
-      "link": "https://theconversation.com/etats-unis-arabie-saoudite-russie-a-chacun-sa-maniere-de-vaciller-pour-les-trois-grands-du-petrole-291056",
-      "image": "https://counter.theconversation.com/content/291056/count.gif",
-      "publishedAt": "2026-09-07T13:45:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "au46bt0",
-      "title": "Et si ne pas grandir était la meilleure stratégie pour une entreprise ? Éloge du « no-growth »",
-      "summary": "Plutôt que de croître, croître et encore croître, certains entreprises choisissent de ne pas grandir. Et c’est un signe de maturité ! Andrydi/Shutterstock (no reuse) La course effrénée à la croissance ne convainc pas tous les entrepreneurs. Les sceptiques ? Les micro-entreprises, cœur du tissu économique français. Une ",
-      "link": "https://theconversation.com/et-si-ne-pas-grandir-etait-la-meilleure-strategie-pour-une-entreprise-eloge-du-no-growth-279282",
-      "image": "https://images.theconversation.com/files/738305/original/file-20260527-57-d4xm0o.jpg?ixlib=rb-4.1.1&amp;rect=0%2C114%2C2828%2C1886&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-07T09:41:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ad2566w",
-      "title": "Pour les écoles, la mère reste le parent à contacter en priorité : une charge mentale qui renforce les inégalités ?",
-      "summary": "L’ESSENTIEL Les tâches liées à la scolarité des enfants pèsent toujours plus sur les mères que sur les pères. Dans leur manière d’échanger avec les familles, les établissements scolaires contribuent-ils à ce déséquilibre ? Contacter les mères en priorité peut entraîner des inégalités même dans des couples qui se répart",
-      "link": "https://theconversation.com/pour-les-ecoles-la-mere-reste-le-parent-a-contacter-en-priorite-une-charge-mentale-qui-renforce-les-inegalites-289081",
-      "image": "https://counter.theconversation.com/content/289081/count.gif",
-      "publishedAt": "2026-09-06T17:28:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 31,
-      "urgencyLevel": "basse"
     }
   ]
 }
