@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T20:27:02.422Z",
+  "generatedAt": "2026-09-10T03:12:22.556Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,24 @@
   "count": 35,
   "items": [
     {
+      "id": "apbanmd",
+      "title": "Le collège la Durantière à Nantes en grève",
+      "summary": "Mobilisés pour obtenir le classement de leur établissement en REP+, les personnels du collège de la Durantière à Nantes, étaient en grève ce mardi 8 septembre. Depuis 2019, ils alertent, L’article Le collège la Durantière à Nantes en grève est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/09/le-college-la-durantiere-a-nantes-en-greve/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/college-la-durantiere-300x176.png",
+      "publishedAt": "2026-09-09T03:27:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "alak0mz",
       "title": "Peut-on vraiment détecter les textes générés par IA ?",
       "summary": "Il reste difficile, malgré l’apparition de logiciels de détection, de savoir si un texte a été généré par une intelligence artificielle ou par un humain. Shutterstock (no reuse) L’ESSENTIEL Il est très difficile, aujourd’hui, de savoir si un texte est produit par un humain ou par une intelligence artificielle, malgré d",
@@ -133,7 +151,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -151,44 +169,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "apbanmd",
-      "title": "Le collège la Durantière à Nantes en grève",
-      "summary": "Mobilisés pour obtenir le classement de leur établissement en REP+, les personnels du collège de la Durantière à Nantes, étaient en grève ce mardi 8 septembre. Depuis 2019, ils alertent, L’article Le collège la Durantière à Nantes en grève est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/09/le-college-la-durantiere-a-nantes-en-greve/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/college-la-durantiere-300x176.png",
-      "publishedAt": "2026-09-09T03:27:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 83,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a400b7l",
-      "title": "Ces hommes pionniers du féminisme, de Condorcet à Léon Blum",
-      "summary": "Le philosophe Condorcet, l’inventeur et militant Jules Allix, l’économiste Victor Considerant, le médecin et franc-maçon Georges Martin, le chef du gouvernement sous le Front populaire Léon Blum, l’écrivain Victor Margueritte (de gauche à droite et de haut en bas). L’ESSENTIEL Face aux violences sexistes et sexuelles, ",
-      "link": "https://theconversation.com/ces-hommes-pionniers-du-feminisme-de-condorcet-a-leon-blum-288547",
-      "image": "https://images.theconversation.com/files/752040/original/file-20260804-50-bdhel1.jpg?ixlib=rb-4.1.1&amp;rect=0%2C35%2C1365%2C910&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-09T13:59:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "féminisme",
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 73,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -206,8 +187,27 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a400b7l",
+      "title": "Ces hommes pionniers du féminisme, de Condorcet à Léon Blum",
+      "summary": "Le philosophe Condorcet, l’inventeur et militant Jules Allix, l’économiste Victor Considerant, le médecin et franc-maçon Georges Martin, le chef du gouvernement sous le Front populaire Léon Blum, l’écrivain Victor Margueritte (de gauche à droite et de haut en bas). L’ESSENTIEL Face aux violences sexistes et sexuelles, ",
+      "link": "https://theconversation.com/ces-hommes-pionniers-du-feminisme-de-condorcet-a-leon-blum-288547",
+      "image": "https://images.theconversation.com/files/752040/original/file-20260804-50-bdhel1.jpg?ixlib=rb-4.1.1&amp;rect=0%2C35%2C1365%2C910&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T13:59:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "féminisme",
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1mriao",
@@ -224,8 +224,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afyys1x",
@@ -240,8 +240,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atr8gfv",
@@ -256,8 +256,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axfarau",
@@ -272,8 +272,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "at6ityd",
@@ -288,8 +288,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "agjy75a",
+      "title": "Les survivants de la peste nous ont laissé des graffitis, de rares archives… et une leçon pour l’après-Covid",
+      "summary": "Après la Peste noire, beaucoup de survivants évitaient d’évoquer la maladie. Pourtant, quelques graffitis, archives et témoignages ont traversé les siècles (sur un mur de l’église Sainte-Marie d’Ashwell, en Angleterre). Jack1956/Wikipédia, CC BY Graffitis gravés sur les murs des églises, quelques chroniques et actes de",
+      "link": "https://theconversation.com/les-survivants-de-la-peste-nous-ont-laisse-des-graffitis-de-rares-archives-et-une-lecon-pour-lapres-covid-287596",
+      "image": "https://images.theconversation.com/files/747988/original/file-20260218-56-uvykjg.png?ixlib=rb-4.1.1&amp;rect=145%2C0%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T11:16:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avx3v5e",
@@ -306,24 +322,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "agjy75a",
-      "title": "Les survivants de la peste nous ont laissé des graffitis, de rares archives… et une leçon pour l’après-Covid",
-      "summary": "Après la Peste noire, beaucoup de survivants évitaient d’évoquer la maladie. Pourtant, quelques graffitis, archives et témoignages ont traversé les siècles (sur un mur de l’église Sainte-Marie d’Ashwell, en Angleterre). Jack1956/Wikipédia, CC BY Graffitis gravés sur les murs des églises, quelques chroniques et actes de",
-      "link": "https://theconversation.com/les-survivants-de-la-peste-nous-ont-laisse-des-graffitis-de-rares-archives-et-une-lecon-pour-lapres-covid-287596",
-      "image": "https://images.theconversation.com/files/747988/original/file-20260218-56-uvykjg.png?ixlib=rb-4.1.1&amp;rect=145%2C0%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-09T11:16:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5qs328",
@@ -338,8 +338,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aeg95yi",
@@ -354,8 +354,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alnruzb",
@@ -370,8 +370,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asuelx7",
@@ -389,7 +389,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,7 +408,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,7 +427,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -445,71 +445,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aptye27",
-      "title": "PISA : que dit le ministre Edouard Geffray ?",
-      "summary": "C’est la faute des parents, des réseaux, des écrans ! Suite à la publication des résultats des tests PISA 2025, le ministre de l’Education nationale n’a pas traîné pour réagir. L’article PISA : que dit le ministre Edouard Geffray ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/09/pisa-que-dit-le-ministre-edouard-geffray/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/ministre-Geffray-1-e1782154652555-264x300.jpeg",
-      "publishedAt": "2026-09-09T03:55:14.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aycx834",
-      "title": "Des « internats de réinsertion » aux « internats disciplinaires »",
-      "summary": "Septembre 2026 : à droite, rien de nouveau. Episode supplémentaire, avec éclairage historique de l’historien Claude Lelièvre, mémoire du Café pédagogique. Il nous rappelle certains discours d’autorité et de sanction L’article Des « internats de réinsertion » aux « internats disciplinaires » est apparu en premier sur Le",
-      "link": "https://www.cafepedagogique.net/2026/09/09/des-internats-de-reinsertion-aux-internats-disciplinaires/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Claude-Lelievre-cafe-pedagogique-300x300.jpg",
-      "publishedAt": "2026-09-09T03:45:51.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3eyuq7",
-      "title": "Littérature jeunesse : Des livres en carton",
-      "summary": "Pour les tout-petits, deux albums carrés tout cartonnés, pour des petites mains qui auront plaisir à tourner les pages sans les déchirer. Le premier se passe dans la maison, avec L’article Littérature jeunesse : Des livres en carton est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/09/litterature-jeunesse-des-livres-en-carton/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/je-range-avec-papa-petits-chemins-300x225.jpeg",
-      "publishedAt": "2026-09-09T03:29:13.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atqla9",
-      "title": "Cinéma : « La Vie d’une femme » de Charline Bourgeois-Tacquet",
-      "summary": "La Vie d’une femme nous propose le portrait en mouvement d’une femme de tête dans l’exercice dévorant de son métier de chirurgienne, cheffe de service à l’hôpital public, tout en mettant L’article Cinéma : « La Vie d’une femme » de Charline Bourgeois-Tacquet est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/09/cinema-la-vie-dune-femme-de-charline-bourgeois-tacquet/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/laviedunefemmemaq120hd-1-221x300.jpg",
-      "publishedAt": "2026-09-09T03:28:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -525,7 +461,71 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aptye27",
+      "title": "PISA : que dit le ministre Edouard Geffray ?",
+      "summary": "C’est la faute des parents, des réseaux, des écrans ! Suite à la publication des résultats des tests PISA 2025, le ministre de l’Education nationale n’a pas traîné pour réagir. L’article PISA : que dit le ministre Edouard Geffray ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/09/pisa-que-dit-le-ministre-edouard-geffray/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/ministre-Geffray-1-e1782154652555-264x300.jpeg",
+      "publishedAt": "2026-09-09T03:55:14.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aycx834",
+      "title": "Des « internats de réinsertion » aux « internats disciplinaires »",
+      "summary": "Septembre 2026 : à droite, rien de nouveau. Episode supplémentaire, avec éclairage historique de l’historien Claude Lelièvre, mémoire du Café pédagogique. Il nous rappelle certains discours d’autorité et de sanction L’article Des « internats de réinsertion » aux « internats disciplinaires » est apparu en premier sur Le",
+      "link": "https://www.cafepedagogique.net/2026/09/09/des-internats-de-reinsertion-aux-internats-disciplinaires/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Claude-Lelievre-cafe-pedagogique-300x300.jpg",
+      "publishedAt": "2026-09-09T03:45:51.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3eyuq7",
+      "title": "Littérature jeunesse : Des livres en carton",
+      "summary": "Pour les tout-petits, deux albums carrés tout cartonnés, pour des petites mains qui auront plaisir à tourner les pages sans les déchirer. Le premier se passe dans la maison, avec L’article Littérature jeunesse : Des livres en carton est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/09/litterature-jeunesse-des-livres-en-carton/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/je-range-avec-papa-petits-chemins-300x225.jpeg",
+      "publishedAt": "2026-09-09T03:29:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atqla9",
+      "title": "Cinéma : « La Vie d’une femme » de Charline Bourgeois-Tacquet",
+      "summary": "La Vie d’une femme nous propose le portrait en mouvement d’une femme de tête dans l’exercice dévorant de son métier de chirurgienne, cheffe de service à l’hôpital public, tout en mettant L’article Cinéma : « La Vie d’une femme » de Charline Bourgeois-Tacquet est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/09/cinema-la-vie-dune-femme-de-charline-bourgeois-tacquet/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/laviedunefemmemaq120hd-1-221x300.jpg",
+      "publishedAt": "2026-09-09T03:28:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -541,7 +541,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -559,7 +559,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -577,7 +577,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -593,7 +593,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -609,7 +609,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -625,7 +625,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -641,7 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -657,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -673,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -689,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -707,7 +707,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     }
   ]
