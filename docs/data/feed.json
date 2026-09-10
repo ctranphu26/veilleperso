@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:40:05.115Z",
+  "generatedAt": "2026-09-10T15:52:11.055Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,144 @@
   "count": 35,
   "items": [
     {
+      "id": "a3fnw6z",
+      "title": "Pluralisme et journalisme dans l’audiovisuel : la grande confusion",
+      "summary": "L’ESSENTIEL Après l’arrivée d’un chroniqueur de l’hebdomadaire d’extrême droite Valeurs actuelles sur France Inter, les salariés de Radio France se mettent en grève dimanche 13 et lundi 14 septembre. La direction de la radio publique justifie son choix au nom de pluralisme. Mais cette approche du pluralisme, consistant",
+      "link": "https://theconversation.com/pluralisme-et-journalisme-dans-laudiovisuel-la-grande-confusion-291350",
+      "image": "https://counter.theconversation.com/content/291350/count.gif",
+      "publishedAt": "2026-09-10T14:57:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "journalisme"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "al0cfgv",
+      "title": "Élections législatives en Suède : un vote sur la normalisation de l’extrême droite ?",
+      "summary": "L’ESSENTIEL Depuis 2022, les Démocrates de Suède (SD, classés à l’extrême droite) soutiennent le gouvernement de droite en place, exerçant une influence majeure sur la politique migratoire, pénale et climatique du gouvernement de coalition. Le virage à droite n’a toutefois pas produit de dynamique électorale durable : ",
+      "link": "https://theconversation.com/elections-legislatives-en-suede-un-vote-sur-la-normalisation-de-lextreme-droite-291067",
+      "image": "https://images.theconversation.com/files/757482/original/file-20260902-60-bb9s0d.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-10T14:58:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avdbtal",
+      "title": "Quels oiseaux pourrait-on voir figurer sur les billets d’euros ?",
+      "summary": "Certains des différents graphismes proposés pour les prochaines coupures de billets d’euros. BCE L’ESSENTIEL Les Européens sont invités à voter en ligne pour choisir la nouvelle illustration graphique des prochains billets d’euros. Parmi les dix propositions retenues, cinq mettent en scène des oiseaux, sur leur recto. ",
+      "link": "https://theconversation.com/quels-oiseaux-pourrait-on-voir-figurer-sur-les-billets-deuros-291510",
+      "image": "https://images.theconversation.com/files/758546/original/file-20260908-50-vy7f27.jpg?ixlib=rb-4.1.1&amp;rect=1321%2C0%2C3357%2C2238&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-10T10:37:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9m7qqy",
+      "title": "L’intelligence artificielle en quête de récit",
+      "summary": "L’ESSENTIEL Le succès ou le rejet d’une technologie ne dépend pas que de ses qualités intrinsèques. La qualité du récit qui l’accompagne importe. Après l’engouement pour ChatGPT, les récits autour de l’IA commencent à créer des peurs, de l’angoisse, de la défiance. Ces discours, performatifs et quasi exclusivement état",
+      "link": "https://theconversation.com/lintelligence-artificielle-en-quete-de-recit-290957",
+      "image": "https://counter.theconversation.com/content/290957/count.gif",
+      "publishedAt": "2026-09-10T14:59:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "adkf7v2",
+      "title": "Climat : Séparer adaptation et atténuation freine-t-il l’action ?",
+      "summary": "A-t-on eu raison de séparer adaptation et atténuation ? Mohamed_Hassan/Pixabay, CC BY L’ESSENTIEL Depuis les années 1990, on sépare l’atténuation, qui s’attaque aux causes des changements climatiques, et l’adaptation, qui vise à en prévenir les conséquences. Cette opposition demeure source de confusions et peut générer",
+      "link": "https://theconversation.com/climat-separer-adaptation-et-attenuation-freine-t-il-laction-291206",
+      "image": "https://images.theconversation.com/files/757788/original/file-20260903-50-7jnaeu.png?ixlib=rb-4.1.1&amp;rect=0%2C139%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-10T14:59:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "azexjc1",
+      "title": "PISA 2025 : l’IA est-elle responsable de la baisse des résultats ?",
+      "summary": "L’ESSENTIEL Si l’usage de l’IA générative explose, le niveau des élèves a commencé à chuter avant l’apparition de ces outils. Parmi les systèmes éducatifs les plus performants, les modes de recours à l’IA sont très différents. L’enquête PISA incite à distinguer les usages qui se substituent à l’effort cognitif de ceux ",
+      "link": "https://theconversation.com/pisa-2025-lia-est-elle-responsable-de-la-baisse-des-resultats-291580",
+      "image": "https://counter.theconversation.com/content/291580/count.gif",
+      "publishedAt": "2026-09-10T14:58:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajv5r02",
+      "title": "Des organoïdes cérébraux complexes pour mieux comprendre les cancers du cerveau",
+      "summary": "L’ESSENTIEL Les organoïdes sont des ébauches d’organes qui en reproduisent certaines caractéristiques. Une équipe de recherche travaille sur des organoïdes cérébraux pour étudier le comportement de cellules de glioblastome (cancer du cerveau). Améliorer ces modèles cérébraux pose des questions éthiques : pourraient-ils",
+      "link": "https://theconversation.com/des-organo-des-cerebraux-complexes-pour-mieux-comprendre-les-cancers-du-cerveau-286707",
+      "image": "https://counter.theconversation.com/content/286707/count.gif",
+      "publishedAt": "2026-09-10T14:59:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6j05zn",
+      "title": "Comment Céline Dion est devenue une icône",
+      "summary": "L’ESSENTIEL Céline Dion entame, samedi 12 septembre, une série de mégaconcerts à la Plenitude Arena (anciennement Paris La Défense Arena). La Québécoise s’est hissée au rang d’icône internationale, portée par une palette vocale hors norme, une capacité à incarner une figure de star accessible et des spectacles grandios",
+      "link": "https://theconversation.com/comment-celine-dion-est-devenue-une-icone-290948",
+      "image": "https://counter.theconversation.com/content/290948/count.gif",
+      "publishedAt": "2026-09-10T14:57:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "alyejwv",
       "title": "PISA 2025 : il faut substituer l’analyse des faits au catastrophisme",
       "summary": "« Les profs résistent » écrit Pierre Merle au lendemain de l’emballement médiatique post-PISA. « La logique d’action des ministères successifs est caractérisée par un top down contre-productif. Avec cette multitude de réformes L’article PISA 2025 : il faut substituer l’analyse des faits au catastrophisme est apparu en ",
@@ -131,7 +269,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +287,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -165,15 +303,15 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
       "id": "andyhcw",
-      "title": "France: the far right’s proposed headscarf ban in public places breaches religious freedom and anti-discrimination principles",
-      "summary": "KEY TAKEAWAYS France’s far-right Rassemblement National (RN) party wants to ban Muslim headscarves being worn in public spaces if it wins the presidential election. The RN cites the fight against Islamism as its rationale. However, research findings do not support the view that wearing the veil is, in itself, an indica",
+      "title": "France: the far-right’s proposed headscarf ban in public places breaches religious freedom and anti-discrimination principles",
+      "summary": "KEY TAKEAWAYS France’s far-right Rassemblement national (RN) party wants to ban Muslim headscarves being worn in public spaces if it wins the presidential election. The RN cites the fight against Islamism as its rationale. However, research findings do not support the view that wearing the veil is, in itself, an indica",
       "link": "https://theconversation.com/france-the-far-rights-proposed-headscarf-ban-in-public-places-breaches-religious-freedom-and-anti-discrimination-principles-291498",
-      "image": "https://counter.theconversation.com/content/291498/count.gif",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
       "publishedAt": "2026-09-10T09:12:14.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
@@ -183,7 +321,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -202,8 +340,8 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abt17h2",
@@ -221,8 +359,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ag8l7b",
@@ -240,8 +378,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aknrdl6",
@@ -258,8 +396,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a19kpfg",
@@ -276,8 +414,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9uuk4x",
@@ -292,8 +430,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anxoj4g",
@@ -308,8 +446,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alak0mz",
@@ -326,8 +464,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aipp6si",
@@ -344,8 +482,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a400b7l",
@@ -363,7 +501,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,7 +519,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -397,7 +535,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -413,7 +551,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -429,7 +567,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -445,7 +583,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -463,7 +601,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -479,7 +617,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -495,7 +633,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -511,7 +649,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -527,7 +665,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -546,22 +684,6 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atw9k7m",
-      "title": "Les agences privées de garde d’enfants : entre promesses aux parents et réalité du marché",
-      "summary": "L’ESSENTIEL Face à la pénurie de modes de garde, de nombreuses agences privées proposent leurs services aux familles. Ces entreprises mettent en scène leur expertise dans le recrutement de professionnels de la petite enfance. Les conditions d’emploi proposées interrogent les lacunes du service public en matière de gard",
-      "link": "https://theconversation.com/les-agences-privees-de-garde-denfants-entre-promesses-aux-parents-et-realite-du-marche-290801",
-      "image": "https://counter.theconversation.com/content/290801/count.gif",
-      "publishedAt": "2026-09-08T14:10:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
       "urgency": 52,
       "urgencyLevel": "moyenne"
     },
@@ -578,43 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amplynw",
-      "title": "Souveraineté de l’Europe spatiale : des écosystèmes performants pour la transformation numérique des start-up et des PME",
-      "summary": "L’ESSENTIEL L’avenir de l’industrie spatiale passe par les technologies innovantes des start-up et des PME du secteur. La France et l’Italie ont deux approches différentes pour stimuler l’écosystème d’innovation. Chacune possède des points forts. Un rapprochement stimulerait l’ensemble. Une première étape en vue d’une ",
-      "link": "https://theconversation.com/souverainete-de-leurope-spatiale-des-ecosystemes-performants-pour-la-transformation-numerique-des-start-up-et-des-pme-291062",
-      "image": "https://counter.theconversation.com/content/291062/count.gif",
-      "publishedAt": "2026-09-08T14:10:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aclv0s5",
-      "title": "L’intolérance au lactose est en réalité la norme chez l’humain, mais le racisme, le gouvernement des États-Unis et les intérêts commerciaux en ont fait un trouble",
-      "summary": "L’ESSENTIEL Chaque organisme assimile le lait différemment et ne pas le digérer est la situation la plus couramment rencontrée à l’échelle mondiale. La consommation du lait est pourtant promue auprès de populations majoritairement intolérantes au lactose, en Asie par exemple. L’« impérialisme alimentaire » des États-Un",
-      "link": "https://theconversation.com/lintolerance-au-lactose-est-en-realite-la-norme-chez-lhumain-mais-le-racisme-le-gouvernement-des-etats-unis-et-les-interets-commerciaux-en-ont-fait-un-trouble-290654",
-      "image": "https://images.theconversation.com/files/755790/original/file-20260824-50-hp5q4b.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-08T14:09:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "racisme"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 42,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -630,88 +716,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agynf16",
-      "title": "Allemagne : les multiples effets du triomphe de l’AfD en Saxe-Anhalt",
-      "summary": "L’ESSENTIEL Le parti d’extrême droite Alternative für Deutschland est arrivé largement en tête en Saxe-Anhalt, un Land d’Allemagne de l’Est qu’il pourrait gouverner s’il parvient à s’allier au petit parti populiste BSW ou à rallier quelques élus chrétiens-démocrates de la CDU. Ce succès régional reflète une montée en p",
-      "link": "https://theconversation.com/allemagne-les-multiples-effets-du-triomphe-de-lafd-en-saxe-anhalt-291470",
-      "image": "https://counter.theconversation.com/content/291470/count.gif",
-      "publishedAt": "2026-09-08T14:10:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a57or6v",
-      "title": "Qu’est-ce que le « bear market » pour les cryptomonnaies ?",
-      "summary": "L’ESSENTIEL Après un record à plus de 126 000 dollars (environ 108 500 euros) en octobre 2025, le bitcoin a perdu plus de la moitié de sa valeur au premier semestre 2026. Ces périodes prolongées de baisse des prix, ou bear market, sont symptomatiques d’une remise en question des croyances dans les cryptomonnaies. Les b",
-      "link": "https://theconversation.com/quest-ce-que-le-bear-market-pour-les-cryptomonnaies-287122",
-      "image": "https://images.theconversation.com/files/751770/original/file-20260803-50-irlyca.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-08T14:10:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8554uo",
-      "title": "India’s middle-class crisis: the great bifurcation and the Gen Z uprising",
-      "summary": "The student protests we have been witnessing in India can be explained in large part by the crisis facing the Indian middle class, marked in particular by graduate unemployment and a decline in average purchasing power. This is because the upper middle class has grown wealthier, while the lower-middle class has become ",
-      "link": "https://theconversation.com/indias-middle-class-crisis-the-great-bifurcation-and-the-gen-z-uprising-289061",
-      "image": "https://counter.theconversation.com/content/289061/count.gif",
-      "publishedAt": "2026-09-08T14:09:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8uo2ti",
-      "title": "Comment rendre visible le recours à l’IA générative dans l’édition littéraire, ou le rôle du paratexte",
-      "summary": "L’autrice états-unienne Sara A. Noé a choisi de faire certifier son roman *Lab Rat* « sans IA » par l’Authors Guild, et l’affiche sur son blog. Sara A.Noé L’ESSENTIEL Dans le monde littéraire, la question du recours à l’IA se pose de plus en plus. Jusque-là, son usage a été tantôt mis en valeur, tantôt minoré, voire ca",
-      "link": "https://theconversation.com/comment-rendre-visible-le-recours-a-lia-generative-dans-ledition-litteraire-ou-le-role-du-paratexte-288736",
-      "image": "https://images.theconversation.com/files/758405/original/file-20260908-50-9jovtb.png?ixlib=rb-4.1.1&amp;rect=31%2C0%2C1570%2C1046&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-08T14:08:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar9x64k",
-      "title": "Avec Yoda, la France se prépare à défendre ses intérêts en orbite",
-      "summary": "Les satellites Yoda (ici, représenté par une vue d’artiste) seront les premiers dispositifs européens de défense spatiale. CNES, Fourni par l'auteur L’ESSENTIEL L’espace est devenu un nouveau lieu de conflictualité, au vu de l’importance stratégique des satellites civils comme militaires. Le programme Yoda, du Commande",
-      "link": "https://theconversation.com/avec-yoda-la-france-se-prepare-a-defendre-ses-interets-en-orbite-291186",
-      "image": "https://images.theconversation.com/files/757744/original/file-20260903-50-ay37ui.png?ixlib=rb-4.1.1&amp;rect=152%2C0%2C1690%2C1126&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-08T10:38:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     }
   ]
 }
