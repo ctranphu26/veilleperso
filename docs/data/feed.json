@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T15:53:57.427Z",
+  "generatedAt": "2026-09-11T20:29:05.710Z",
   "themes": [
     {
       "id": "education-medias",
@@ -135,7 +135,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 87,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -154,23 +154,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "apwgch0",
-      "title": "Rendre les forêts des Landes moins vulnérables aux incendies : comment faire ?",
-      "summary": "Avec près de 800 000 hectares, le massif des Landes de Gascogne constitue la plus grande forêt de plantation d’Europe. Fourni par l'auteur L’ESSENTIEL Les monocultures de pin maritime sont très vulnérables aux incendies. Diversifier les espèces, la structure et l’âge des peuplements pourrait notamment rendre les forêts",
-      "link": "https://theconversation.com/rendre-les-forets-des-landes-moins-vulnerables-aux-incendies-comment-faire-291207",
-      "image": "https://images.theconversation.com/files/757802/original/file-20260903-50-yr28ng.jpg?ixlib=rb-4.1.1&amp;rect=390%2C0%2C756%2C503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-11T13:43:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -189,7 +173,23 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apwgch0",
+      "title": "Rendre les forêts des Landes moins vulnérables aux incendies : comment faire ?",
+      "summary": "Avec près de 800 000 hectares, le massif des Landes de Gascogne constitue la plus grande forêt de plantation d’Europe. Fourni par l'auteur L’ESSENTIEL Les monocultures de pin maritime sont très vulnérables aux incendies. Diversifier les espèces, la structure et l’âge des peuplements pourrait notamment rendre les forêts",
+      "link": "https://theconversation.com/rendre-les-forets-des-landes-moins-vulnerables-aux-incendies-comment-faire-291207",
+      "image": "https://images.theconversation.com/files/757802/original/file-20260903-50-yr28ng.jpg?ixlib=rb-4.1.1&amp;rect=390%2C0%2C756%2C503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-11T13:43:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -205,7 +205,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -223,8 +223,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajkhln0",
@@ -239,8 +239,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajwi1v5",
@@ -257,8 +257,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3s5cw",
@@ -276,7 +276,7 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +297,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -316,7 +316,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +335,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -353,7 +353,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,7 +369,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -387,7 +387,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -405,7 +405,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,7 +421,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,7 +439,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +457,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +475,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -507,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -525,7 +525,43 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 48,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "alak0mz",
+      "title": "Peut-on vraiment détecter les textes générés par IA ?",
+      "summary": "Il reste difficile, malgré l’apparition de logiciels de détection, de savoir si un texte a été généré par une intelligence artificielle ou par un humain. Shutterstock (no reuse) L’ESSENTIEL Il est très difficile, aujourd’hui, de savoir si un texte est produit par un humain ou par une intelligence artificielle, malgré d",
+      "link": "https://theconversation.com/peut-on-vraiment-detecter-les-textes-generes-par-ia-289673",
+      "image": "https://images.theconversation.com/files/758420/original/file-20260908-60-sbnsr5.jpg?ixlib=rb-4.1.1&amp;rect=7%2C0%2C3597%2C2398&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T13:57:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aipp6si",
+      "title": "L’interdiction de quitter le territoire : le nouvel outil de la Chine dans la compétition internationale ?",
+      "summary": "L’ESSENTIEL La République populaire renforce son contrôle des sorties du territoire, aussi bien pour ses citoyens que pour certains étrangers, notamment issus de la diaspora chinoise. Ces restrictions visent à limiter les risques de fuite de compétences dans les secteurs stratégiques. Pékin cherche ainsi à préserver se",
+      "link": "https://theconversation.com/linterdiction-de-quitter-le-territoire-le-nouvel-outil-de-la-chine-dans-la-competition-internationale-290461",
+      "image": "https://counter.theconversation.com/content/290461/count.gif",
+      "publishedAt": "2026-09-09T14:12:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "compétence"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -544,43 +580,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alak0mz",
-      "title": "Peut-on vraiment détecter les textes générés par IA ?",
-      "summary": "Il reste difficile, malgré l’apparition de logiciels de détection, de savoir si un texte a été généré par une intelligence artificielle ou par un humain. Shutterstock (no reuse) L’ESSENTIEL Il est très difficile, aujourd’hui, de savoir si un texte est produit par un humain ou par une intelligence artificielle, malgré d",
-      "link": "https://theconversation.com/peut-on-vraiment-detecter-les-textes-generes-par-ia-289673",
-      "image": "https://images.theconversation.com/files/758420/original/file-20260908-60-sbnsr5.jpg?ixlib=rb-4.1.1&amp;rect=7%2C0%2C3597%2C2398&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-09T13:57:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aipp6si",
-      "title": "L’interdiction de quitter le territoire : le nouvel outil de la Chine dans la compétition internationale ?",
-      "summary": "L’ESSENTIEL La République populaire renforce son contrôle des sorties du territoire, aussi bien pour ses citoyens que pour certains étrangers, notamment issus de la diaspora chinoise. Ces restrictions visent à limiter les risques de fuite de compétences dans les secteurs stratégiques. Pékin cherche ainsi à préserver se",
-      "link": "https://theconversation.com/linterdiction-de-quitter-le-territoire-le-nouvel-outil-de-la-chine-dans-la-competition-internationale-290461",
-      "image": "https://counter.theconversation.com/content/290461/count.gif",
-      "publishedAt": "2026-09-09T14:12:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "compétence"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -617,7 +617,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -633,7 +633,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -649,7 +649,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -665,7 +665,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -681,23 +681,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agjy75a",
-      "title": "Les survivants de la peste nous ont laissé des graffitis, de rares archives… et une leçon pour l’après-Covid",
-      "summary": "Après la Peste noire, beaucoup de survivants évitaient d’évoquer la maladie. Pourtant, quelques graffitis, archives et témoignages ont traversé les siècles (sur un mur de l’église Sainte-Marie d’Ashwell, en Angleterre). Jack1956/Wikipédia, CC BY Graffitis gravés sur les murs des églises, quelques chroniques et actes de",
-      "link": "https://theconversation.com/les-survivants-de-la-peste-nous-ont-laisse-des-graffitis-de-rares-archives-et-une-lecon-pour-lapres-covid-287596",
-      "image": "https://images.theconversation.com/files/747988/original/file-20260218-56-uvykjg.png?ixlib=rb-4.1.1&amp;rect=145%2C0%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-09T11:16:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -715,7 +699,23 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 35,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agjy75a",
+      "title": "Les survivants de la peste nous ont laissé des graffitis, de rares archives… et une leçon pour l’après-Covid",
+      "summary": "Après la Peste noire, beaucoup de survivants évitaient d’évoquer la maladie. Pourtant, quelques graffitis, archives et témoignages ont traversé les siècles (sur un mur de l’église Sainte-Marie d’Ashwell, en Angleterre). Jack1956/Wikipédia, CC BY Graffitis gravés sur les murs des églises, quelques chroniques et actes de",
+      "link": "https://theconversation.com/les-survivants-de-la-peste-nous-ont-laisse-des-graffitis-de-rares-archives-et-une-lecon-pour-lapres-covid-287596",
+      "image": "https://images.theconversation.com/files/747988/original/file-20260218-56-uvykjg.png?ixlib=rb-4.1.1&amp;rect=145%2C0%2C708%2C472&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-09T11:16:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -731,7 +731,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     }
   ]
