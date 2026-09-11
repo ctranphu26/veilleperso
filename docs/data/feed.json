@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:38:57.861Z",
+  "generatedAt": "2026-09-11T15:53:57.427Z",
   "themes": [
     {
       "id": "education-medias",
@@ -135,7 +135,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 92,
+      "urgency": 87,
       "urgencyLevel": "haute"
     },
     {
@@ -154,7 +154,23 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apwgch0",
+      "title": "Rendre les forêts des Landes moins vulnérables aux incendies : comment faire ?",
+      "summary": "Avec près de 800 000 hectares, le massif des Landes de Gascogne constitue la plus grande forêt de plantation d’Europe. Fourni par l'auteur L’ESSENTIEL Les monocultures de pin maritime sont très vulnérables aux incendies. Diversifier les espèces, la structure et l’âge des peuplements pourrait notamment rendre les forêts",
+      "link": "https://theconversation.com/rendre-les-forets-des-landes-moins-vulnerables-aux-incendies-comment-faire-291207",
+      "image": "https://images.theconversation.com/files/757802/original/file-20260903-50-yr28ng.jpg?ixlib=rb-4.1.1&amp;rect=390%2C0%2C756%2C503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-11T13:43:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -173,7 +189,57 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ad7a07h",
+      "title": "Derrière la victoire de l’AfD, le rejet des éoliennes ?",
+      "summary": "L’ESSENTIEL Le parti d’extrême droite Alternative für Deutschland, arrivé en tête des élections en Saxe-Anhalt, a développé depuis plusieurs années une rhétorique anti-éolienne. L’AfD se donne pour objectif de stopper l’installation d’éoliennes, alors que l’Allemagne est en pleine accélération de sa transition énergéti",
+      "link": "https://theconversation.com/derriere-la-victoire-de-lafd-le-rejet-des-eoliennes-291806",
+      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-11T13:40:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axh3w0k",
+      "title": "Incendies en Espagne : un siècle de transformations qui explique la situation actuelle",
+      "summary": "Un habitant de Los Gallardos (Almería) tente d’éteindre les flammes d’un incendie, le 11 juillet 2026. Ataurrahmanstudio/Shutterstock L’ESSENTIEL En Espagne, les surfaces forestières ont fortement augmenté depuis un siècle. Les politiques de lutte contre les incendies ont permis de réduire de moitié leur nombre et les ",
+      "link": "https://theconversation.com/incendies-en-espagne-un-siecle-de-transformations-qui-explique-la-situation-actuelle-291792",
+      "image": "https://images.theconversation.com/files/759288/original/file-20260806-50-2at09w.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6500%2C4333&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-11T10:03:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajkhln0",
+      "title": "Dans l’est de l’Angola, la guerre a bouleversé des siècles de gestion du feu",
+      "summary": "L’ESSENTIEL Dans l’est de l’Angola, les feux ont diminué de 36 % pendant la guerre civile, contrairement à ce qui est observé dans la plupart des conflits. La guerre a bouleversé les pratiques traditionnelles de brûlage et leur transmission entre générations. Les politiques de gestion doivent reconnaître le feu comme u",
+      "link": "https://theconversation.com/dans-lest-de-langola-la-guerre-a-bouleverse-des-siecles-de-gestion-du-feu-291791",
+      "image": "https://images.theconversation.com/files/742970/original/file-20260619-63-synxu7.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-11T10:24:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -191,46 +257,6 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "amxv7wh",
-      "title": "Menace de décapitation envers une enseignante",
-      "summary": "Une professeure des écoles de 58 ans a été menacée de décapitation par un parent d’élève au Fauga en Haute-Garonne, dans une commune de 2800 habitants. Les faits se sont L’article Menace de décapitation envers une enseignante est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/11/menace-de-decapitation-envers-une-enseignante/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fouga-300x149.png",
-      "publishedAt": "2026-09-11T03:59:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "élève",
-        "enseignant",
-        "professeur"
-      ],
-      "relevance": 88,
-      "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ae4z925",
-      "title": "L’après PISA : s’interroger sur le niveau des élèves, et après ?",
-      "summary": "Dressage vs. Apprentissage. « La crise actuelle est moins celle d’une « baisse de niveau » abstraite que celle du sens que notre système scolaire donne – ou ne donne L’article L’après PISA : s’interroger sur le niveau des élèves, et après ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/11/lapres-pisa-sinterroger-sur-le-niveau-des-eleves-et-apres/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sarah-leleu-280x300.jpeg",
-      "publishedAt": "2026-09-11T03:45:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "apprentissage"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
       "urgency": 73,
       "urgencyLevel": "haute"
     },
@@ -250,8 +276,48 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "amxv7wh",
+      "title": "Menace de décapitation envers une enseignante",
+      "summary": "Une professeure des écoles de 58 ans a été menacée de décapitation par un parent d’élève au Fauga en Haute-Garonne, dans une commune de 2800 habitants. Les faits se sont L’article Menace de décapitation envers une enseignante est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/11/menace-de-decapitation-envers-une-enseignante/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fouga-300x149.png",
+      "publishedAt": "2026-09-11T03:59:58.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "élève",
+        "enseignant",
+        "professeur"
+      ],
+      "relevance": 88,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ae4z925",
+      "title": "L’après PISA : s’interroger sur le niveau des élèves, et après ?",
+      "summary": "Dressage vs. Apprentissage. « La crise actuelle est moins celle d’une « baisse de niveau » abstraite que celle du sens que notre système scolaire donne – ou ne donne L’article L’après PISA : s’interroger sur le niveau des élèves, et après ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/11/lapres-pisa-sinterroger-sur-le-niveau-des-eleves-et-apres/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/sarah-leleu-280x300.jpeg",
+      "publishedAt": "2026-09-11T03:45:32.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "apprentissage"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aayf9j2",
@@ -269,8 +335,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aszjv71",
@@ -287,8 +353,8 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arbqmpo",
@@ -303,8 +369,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3fnw6z",
@@ -321,8 +387,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "al0cfgv",
@@ -339,8 +405,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avdbtal",
@@ -355,7 +421,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -373,7 +439,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -391,7 +457,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +475,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +525,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -478,7 +544,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +562,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -514,7 +580,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,8 +599,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1mriao",
@@ -551,8 +617,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "afyys1x",
@@ -567,8 +633,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "atr8gfv",
@@ -583,8 +649,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "axfarau",
@@ -599,8 +665,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "at6ityd",
@@ -615,8 +681,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "agjy75a",
@@ -631,27 +697,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "asuelx7",
-      "title": "PISA 2025 et classements scolaires : nous posons-nous les bonnes questions ?",
-      "summary": "L’ESSENTIEL En France comme dans les autres pays de l’OCDE, le niveau des élèves décroche en maths et en lecture. La dernière enquête du Programme international pour le suivi des acquis des élèves, ou PISA, montre que cette baisse touche autant les élèves défavorisés que favorisés. Les comparaisons internationales inte",
-      "link": "https://theconversation.com/pisa-2025-et-classements-scolaires-nous-posons-nous-les-bonnes-questions-291492",
-      "image": "https://counter.theconversation.com/content/291492/count.gif",
-      "publishedAt": "2026-09-09T09:52:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "classe"
-      ],
-      "relevance": 87,
-      "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avx3v5e",
@@ -668,8 +715,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5qs328",
@@ -684,55 +731,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aeg95yi",
-      "title": "Derrière la tapisserie de Bayeux, les brodeuses effacées de l’Histoire",
-      "summary": "Chef-d’œuvre de l’art médiéval, la tapisserie de Bayeux raconte la bataille d’Hastings en 1066. Mais elle raconte aussi, en creux, une autre histoire : celle des femmes qui l’ont probablement réalisée et dont le rôle a longtemps été relégué au second plan. BL Royal 20 C V, f. 30v, illuminated manuscript/Wiki Commons/Ca",
-      "link": "https://theconversation.com/derriere-la-tapisserie-de-bayeux-les-brodeuses-effacees-de-lhistoire-286875",
-      "image": "https://images.theconversation.com/files/746062/original/file-20260421-85-5fjr3c.jpg?ixlib=rb-4.1.1&amp;rect=399%2C0%2C1377%2C918&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-09T10:49:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alnruzb",
-      "title": "Vingt-cinq ans après le 11-Septembre : l’unité des États-Unis à l’épreuve des fractures",
-      "summary": "L’ESSENTIEL Vingt-cinq ans après les attentats du 11-Septembre, l’organisation des cérémonies de commémoration est marquée par plusieurs controverses. L’absence à New York du président des États-Unis et la contestation de la présence du maire Zohran Mamdani, en raison de son appartenance religieuse, cristallisent les t",
-      "link": "https://theconversation.com/vingt-cinq-ans-apres-le-11-septembre-lunite-des-etats-unis-a-lepreuve-des-fractures-290865",
-      "image": "https://images.theconversation.com/files/757329/original/file-20260901-60-mwu1gt.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-09T10:46:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqt4lzz",
-      "title": "« L’évolution de l’électorat rend possible la victoire de Marine Le Pen à la présidentielle »",
-      "summary": "L’ESSENTIEL À huit mois du scrutin, les sondages donnent Marine Le Pen victorieuse en 2027, quel que soit son adversaire au second tour. Pour Jean-Yves Dormagen, politiste et fondateur de l’institut Cluster 17, le front républicain est désactivé. La dynamique des partis d’extrême droite touche tous les pays occidentaux",
-      "link": "https://theconversation.com/levolution-de-lelectorat-rend-possible-la-victoire-de-marine-le-pen-a-la-presidentielle-291401",
-      "image": "https://images.theconversation.com/files/758473/original/file-20260908-50-8b0hs8.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-08T15:13:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 37,
       "urgencyLevel": "basse"
     }
   ]
