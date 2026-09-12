@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T20:29:05.710Z",
+  "generatedAt": "2026-09-12T03:14:06.165Z",
   "themes": [
     {
       "id": "education-medias",
@@ -135,7 +135,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -154,8 +154,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alv4kyd",
@@ -173,8 +173,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apwgch0",
@@ -189,8 +189,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ad7a07h",
@@ -205,8 +205,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axh3w0k",
@@ -223,7 +223,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -239,7 +239,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -257,7 +257,43 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3fnw6z",
+      "title": "Pluralisme et journalisme dans l’audiovisuel : la grande confusion",
+      "summary": "L’ESSENTIEL Après l’arrivée d’un chroniqueur de l’hebdomadaire d’extrême droite Valeurs actuelles sur France Inter, les salariés de Radio France se mettent en grève dimanche 13 et lundi 14 septembre. La direction de la radio publique justifie son choix au nom de pluralisme. Mais cette approche du pluralisme, consistant",
+      "link": "https://theconversation.com/pluralisme-et-journalisme-dans-laudiovisuel-la-grande-confusion-291350",
+      "image": "https://counter.theconversation.com/content/291350/count.gif",
+      "publishedAt": "2026-09-10T14:57:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "journalisme"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "al0cfgv",
+      "title": "Élections législatives en Suède : un vote sur la normalisation de l’extrême droite ?",
+      "summary": "L’ESSENTIEL Depuis 2022, les Démocrates de Suède (SD, classés à l’extrême droite) soutiennent le gouvernement de droite en place, exerçant une influence majeure sur la politique migratoire, pénale et climatique du gouvernement de coalition. Le virage à droite n’a toutefois pas produit de dynamique électorale durable : ",
+      "link": "https://theconversation.com/elections-legislatives-en-suede-un-vote-sur-la-normalisation-de-lextreme-droite-291067",
+      "image": "https://images.theconversation.com/files/757482/original/file-20260902-60-bb9s0d.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-10T14:58:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -276,7 +312,7 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +333,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -316,7 +352,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +371,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -353,7 +389,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,43 +405,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3fnw6z",
-      "title": "Pluralisme et journalisme dans l’audiovisuel : la grande confusion",
-      "summary": "L’ESSENTIEL Après l’arrivée d’un chroniqueur de l’hebdomadaire d’extrême droite Valeurs actuelles sur France Inter, les salariés de Radio France se mettent en grève dimanche 13 et lundi 14 septembre. La direction de la radio publique justifie son choix au nom de pluralisme. Mais cette approche du pluralisme, consistant",
-      "link": "https://theconversation.com/pluralisme-et-journalisme-dans-laudiovisuel-la-grande-confusion-291350",
-      "image": "https://counter.theconversation.com/content/291350/count.gif",
-      "publishedAt": "2026-09-10T14:57:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "journalisme"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "al0cfgv",
-      "title": "Élections législatives en Suède : un vote sur la normalisation de l’extrême droite ?",
-      "summary": "L’ESSENTIEL Depuis 2022, les Démocrates de Suède (SD, classés à l’extrême droite) soutiennent le gouvernement de droite en place, exerçant une influence majeure sur la politique migratoire, pénale et climatique du gouvernement de coalition. Le virage à droite n’a toutefois pas produit de dynamique électorale durable : ",
-      "link": "https://theconversation.com/elections-legislatives-en-suede-un-vote-sur-la-normalisation-de-lextreme-droite-291067",
-      "image": "https://images.theconversation.com/files/757482/original/file-20260902-60-bb9s0d.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-10T14:58:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,7 +421,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,7 +439,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +457,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +475,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -507,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -525,7 +525,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -543,7 +543,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -561,7 +561,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -580,7 +580,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -617,7 +617,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -633,7 +633,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -649,7 +649,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -665,7 +665,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -681,7 +681,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -699,7 +699,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -715,7 +715,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -731,7 +731,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     }
   ]
