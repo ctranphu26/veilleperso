@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T03:14:06.165Z",
+  "generatedAt": "2026-09-12T10:08:32.782Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,75 @@
   "count": 35,
   "items": [
     {
+      "id": "aahg7iy",
+      "title": "Coopération, confiance en soi, curiosité… Ce que PISA nous apprend des compétences sociales et émotionnelles des élèves",
+      "summary": "L’ESSENTIEL Si les résultats de la dernière enquête PISA inquiètent, il faut les interpréter avec prudence. Les évolutions de certains pays dans le temps montrent que des réformes éducatives ouvrent des marges de progression. Alors qu’on valorise beaucoup l’acquisition de connaissances, PISA interroge aussi le bien-êtr",
+      "link": "https://theconversation.com/cooperation-confiance-en-soi-curiosite-ce-que-pisa-nous-apprend-des-competences-sociales-et-emotionnelles-des-eleves-291692",
+      "image": "https://counter.theconversation.com/content/291692/count.gif",
+      "publishedAt": "2026-09-12T08:47:48.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "compétence"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ao73e69",
+      "title": "Apple vs Union européenne : quand le DMA fracture une tribu de 1,5 milliard de personnes",
+      "summary": "Les utilisateurs des applis 100 % Apple pourront-ils continuer à communier ensemble simultanément ? Copie d'écran d'un membre Apple Fitness+ fourni par l'auteur L’ESSENTIEL Avant le lancement d’un nouvel iPhone pliant, Apple a dévoilé en juin dernier une nouvelle version de SIRI renforcé à l’IA. Les consommateurs franç",
+      "link": "https://theconversation.com/apple-vs-union-europeenne-quand-le-dma-fracture-une-tribu-de-1-5-milliard-de-personnes-288825",
+      "image": "https://images.theconversation.com/files/752885/original/file-20260808-50-72m87a.jpeg?ixlib=rb-4.1.1&amp;rect=36%2C0%2C1970%2C1313&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-12T08:46:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6ec5aq",
+      "title": "Actualité de l’éducation du 7 au 11 septembre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle, venez la découvrir L’article Actualité de l’éducation du 7 au 11 septembre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/12/actualite-de-leducation-du-7-au-11-septembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-OCDE-300x239.png",
+      "publishedAt": "2026-09-12T07:16:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7cj55e",
+      "title": "16 ressources sélectionnées par le Café pédagogique",
+      "summary": "Retrouvez sur cette page 16 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! « Ce n’est pas le temps que ça L’article 16 ressources sélectionnées par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/12/16-ressources-selectionnees-par-le-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/taille-crayon-300x200.jpg",
+      "publishedAt": "2026-09-12T05:54:34.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "axujlbk",
       "title": "« Information et opinion(s) dans notre démocratie aujourd’hui »",
       "summary": "Le Prix Samuel Paty ouvre les inscriptions pour sa session 2027. Initié par l’Association des Professeurs d’Histoire et de Géographie (APHG), il rend hommage à l’enseignant assassiné en 2020. Cette L’article « Information et opinion(s) dans notre démocratie aujourd’hui » est apparu en premier sur Le Café pédagogique.",
@@ -135,7 +204,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -154,7 +223,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -173,7 +242,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -189,7 +258,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -205,7 +274,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -223,7 +292,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -239,7 +308,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -257,7 +326,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -275,7 +344,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,26 +362,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3s5cw",
-      "title": "« L’école a besoin de moyens pour diminuer les effectifs par classe »",
-      "summary": "Pour SUD éducation, les résultats de PISA 2025 témoignent d’abord d’un manque d’investissement dans le service public d’éducation. Le syndicat pointe la baisse des résultats et surtout le poids persistant L’article « L’école a besoin de moyens pour diminuer les effectifs par classe » est apparu en premier sur Le Café p",
-      "link": "https://www.cafepedagogique.net/2026/09/11/lecole-a-besoin-de-moyens-pour-diminuer-les-effectifs-par-classe/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/sud-solidaires-300x258.png",
-      "publishedAt": "2026-09-11T03:27:15.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "classe"
-      ],
-      "relevance": 91,
-      "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,7 +383,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -352,7 +402,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,7 +421,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -389,7 +439,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -405,7 +455,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,7 +471,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,7 +489,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +507,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +525,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,7 +541,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -507,7 +557,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -525,7 +575,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -543,7 +593,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -561,26 +611,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avsbbw5",
-      "title": "Enseignement privé : près d’un professeur sur deux envisage de se reconvertir",
-      "summary": "Selon une enquête interne du Snec-CFTC, les 2/3 des professeurs du privé sous contrat se disent non reconnus, près d’un 1 sur 2 envisage une reconversion. Plus de 8 professeurs L’article Enseignement privé : près d’un professeur sur deux envisage de se reconvertir est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/10/enseignement-prive-pres-dun-professeur-sur-deux-envisage-de-se-reconvertir/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IMG_3609-e1789016140763-300x148.jpeg",
-      "publishedAt": "2026-09-10T04:59:14.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "professeur"
-      ],
-      "relevance": 96,
-      "relevanceLevel": "haute",
-      "urgency": 41,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -599,7 +630,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -617,7 +648,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -633,7 +664,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -649,7 +680,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -665,7 +696,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -681,25 +712,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avx3v5e",
-      "title": "Pourquoi ne parle-t-on pas davantage de la guerre civile dans les classes espagnoles ?",
-      "summary": "Enseigner la guerre civile espagnole (1936-1939) ne consiste pas seulement à raconter un conflit : c’est aussi transmettre les fondements de la démocratie. EF Stock/Shutterstock (no reuse) L’ESSENTIEL La guerre civile espagnole (1936-1939) est peu enseignée de l’autre côté des Pyrénées, malgré son importance historique",
-      "link": "https://theconversation.com/pourquoi-ne-parle-t-on-pas-davantage-de-la-guerre-civile-dans-les-classes-espagnoles-287980",
-      "image": "https://images.theconversation.com/files/749067/original/file-20260709-71-tm06ql.jpeg?ixlib=rb-4.1.1&amp;rect=155%2C231%2C6534%2C4356&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-09T10:50:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -715,23 +728,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5qs328",
-      "title": "Pourquoi la France a interdit l’absinthe : l’histoire d’un bouc émissaire qualifié de « poison national »",
-      "summary": "Pendant des décennies, l’absinthe fut accusée de rendre fou, de provoquer l’épilepsie et de menacer l’avenir de la nation française. Une nouvelle étude montre comment la « Fée verte » est devenue un bouc émissaire… et pourquoi ce mécanisme reste d’une brûlante actualité. Le puissant breuvage vert émeraude à base d’armo",
-      "link": "https://theconversation.com/pourquoi-la-france-a-interdit-labsinthe-lhistoire-dun-bouc-emissaire-qualifie-de-poison-national-287211",
-      "image": "https://counter.theconversation.com/content/287211/count.gif",
-      "publishedAt": "2026-09-09T10:50:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     }
   ]
