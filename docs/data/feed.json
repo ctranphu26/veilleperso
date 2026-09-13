@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:12:36.318Z",
+  "generatedAt": "2026-09-13T03:17:54.036Z",
   "themes": [
     {
       "id": "education-medias",
@@ -134,7 +134,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -152,8 +152,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2n3cri",
@@ -168,8 +168,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ao73e69",
@@ -184,23 +184,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6ec5aq",
-      "title": "Actualité de l’éducation du 7 au 11 septembre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle, venez la découvrir L’article Actualité de l’éducation du 7 au 11 septembre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/12/actualite-de-leducation-du-7-au-11-septembre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-OCDE-300x239.png",
-      "publishedAt": "2026-09-12T07:16:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -220,7 +204,23 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6ec5aq",
+      "title": "Actualité de l’éducation du 7 au 11 septembre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle, venez la découvrir L’article Actualité de l’éducation du 7 au 11 septembre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/12/actualite-de-leducation-du-7-au-11-septembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-OCDE-300x239.png",
+      "publishedAt": "2026-09-12T07:16:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -238,7 +238,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -257,7 +257,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -276,7 +276,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -292,7 +292,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -308,7 +308,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ajkhln0",
+      "title": "Dans l’est de l’Angola, la guerre a bouleversé des siècles de gestion du feu",
+      "summary": "L’ESSENTIEL Dans l’est de l’Angola, les feux ont diminué de 36 % pendant la guerre civile, contrairement à ce qui est observé dans la plupart des conflits. La guerre a bouleversé les pratiques traditionnelles de brûlage et leur transmission entre générations. Les politiques de gestion doivent reconnaître le feu comme u",
+      "link": "https://theconversation.com/dans-lest-de-langola-la-guerre-a-bouleverse-des-siecles-de-gestion-du-feu-291791",
+      "image": "https://images.theconversation.com/files/742970/original/file-20260619-63-synxu7.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-11T10:24:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -326,41 +342,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajwi1v5",
-      "title": "Après un incendie, les bâtiments historiques peuvent encore être sauvés, à condition d’agir vite",
-      "summary": "L’ESSENTIEL Après un incendie, les monuments historiques peuvent sembler très endommagés alors que la chaleur n’a souvent atteint que leur surface. Il faut alors agir rapidement pour consolider les murs et les protéger des intempéries. La démolition ne devrait intervenir qu’après une évaluation rigoureuse. Pourtant, il",
-      "link": "https://theconversation.com/apres-un-incendie-les-batiments-historiques-peuvent-encore-etre-sauves-a-condition-dagir-vite-291793",
-      "image": "https://images.theconversation.com/files/752935/original/file-20260810-50-ejti7o.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-11T09:27:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "évaluation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajkhln0",
-      "title": "Dans l’est de l’Angola, la guerre a bouleversé des siècles de gestion du feu",
-      "summary": "L’ESSENTIEL Dans l’est de l’Angola, les feux ont diminué de 36 % pendant la guerre civile, contrairement à ce qui est observé dans la plupart des conflits. La guerre a bouleversé les pratiques traditionnelles de brûlage et leur transmission entre générations. Les politiques de gestion doivent reconnaître le feu comme u",
-      "link": "https://theconversation.com/dans-lest-de-langola-la-guerre-a-bouleverse-des-siecles-de-gestion-du-feu-291791",
-      "image": "https://images.theconversation.com/files/742970/original/file-20260619-63-synxu7.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-11T10:24:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -378,7 +360,25 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ajwi1v5",
+      "title": "Après un incendie, les bâtiments historiques peuvent encore être sauvés, à condition d’agir vite",
+      "summary": "L’ESSENTIEL Après un incendie, les monuments historiques peuvent sembler très endommagés alors que la chaleur n’a souvent atteint que leur surface. Il faut alors agir rapidement pour consolider les murs et les protéger des intempéries. La démolition ne devrait intervenir qu’après une évaluation rigoureuse. Pourtant, il",
+      "link": "https://theconversation.com/apres-un-incendie-les-batiments-historiques-peuvent-encore-etre-sauves-a-condition-dagir-vite-291793",
+      "image": "https://images.theconversation.com/files/752935/original/file-20260810-50-ejti7o.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-11T09:27:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "évaluation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -396,7 +396,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avdbtal",
+      "title": "Quels oiseaux pourrait-on voir figurer sur les billets d’euros ?",
+      "summary": "Certains des différents graphismes proposés pour les prochaines coupures de billets d’euros. BCE L’ESSENTIEL Les Européens sont invités à voter en ligne pour choisir la nouvelle illustration graphique des prochains billets d’euros. Parmi les dix propositions retenues, cinq mettent en scène des oiseaux, sur leur recto. ",
+      "link": "https://theconversation.com/quels-oiseaux-pourrait-on-voir-figurer-sur-les-billets-deuros-291510",
+      "image": "https://images.theconversation.com/files/758546/original/file-20260908-50-vy7f27.jpg?ixlib=rb-4.1.1&amp;rect=1321%2C0%2C3357%2C2238&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-10T10:37:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -417,7 +433,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -436,7 +452,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -455,7 +471,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,23 +489,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avdbtal",
-      "title": "Quels oiseaux pourrait-on voir figurer sur les billets d’euros ?",
-      "summary": "Certains des différents graphismes proposés pour les prochaines coupures de billets d’euros. BCE L’ESSENTIEL Les Européens sont invités à voter en ligne pour choisir la nouvelle illustration graphique des prochains billets d’euros. Parmi les dix propositions retenues, cinq mettent en scène des oiseaux, sur leur recto. ",
-      "link": "https://theconversation.com/quels-oiseaux-pourrait-on-voir-figurer-sur-les-billets-deuros-291510",
-      "image": "https://images.theconversation.com/files/758546/original/file-20260908-50-vy7f27.jpg?ixlib=rb-4.1.1&amp;rect=1321%2C0%2C3357%2C2238&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-10T10:37:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -505,7 +505,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -523,7 +523,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -541,7 +541,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -559,39 +559,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajv5r02",
-      "title": "Des organoïdes cérébraux complexes pour mieux comprendre les cancers du cerveau",
-      "summary": "L’ESSENTIEL Les organoïdes sont des ébauches d’organes qui en reproduisent certaines caractéristiques. Une équipe de recherche travaille sur des organoïdes cérébraux pour étudier le comportement de cellules de glioblastome (cancer du cerveau). Améliorer ces modèles cérébraux pose des questions éthiques : pourraient-ils",
-      "link": "https://theconversation.com/des-organo-des-cerebraux-complexes-pour-mieux-comprendre-les-cancers-du-cerveau-286707",
-      "image": "https://counter.theconversation.com/content/286707/count.gif",
-      "publishedAt": "2026-09-10T14:59:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6j05zn",
-      "title": "Comment Céline Dion est devenue une icône",
-      "summary": "L’ESSENTIEL Céline Dion entame, samedi 12 septembre, une série de mégaconcerts à la Plenitude Arena (anciennement Paris La Défense Arena). La Québécoise s’est hissée au rang d’icône internationale, portée par une palette vocale hors norme, une capacité à incarner une figure de star accessible et des spectacles grandios",
-      "link": "https://theconversation.com/comment-celine-dion-est-devenue-une-icone-290948",
-      "image": "https://counter.theconversation.com/content/290948/count.gif",
-      "publishedAt": "2026-09-10T14:57:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -609,7 +577,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ajv5r02",
+      "title": "Des organoïdes cérébraux complexes pour mieux comprendre les cancers du cerveau",
+      "summary": "L’ESSENTIEL Les organoïdes sont des ébauches d’organes qui en reproduisent certaines caractéristiques. Une équipe de recherche travaille sur des organoïdes cérébraux pour étudier le comportement de cellules de glioblastome (cancer du cerveau). Améliorer ces modèles cérébraux pose des questions éthiques : pourraient-ils",
+      "link": "https://theconversation.com/des-organo-des-cerebraux-complexes-pour-mieux-comprendre-les-cancers-du-cerveau-286707",
+      "image": "https://counter.theconversation.com/content/286707/count.gif",
+      "publishedAt": "2026-09-10T14:59:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a6j05zn",
+      "title": "Comment Céline Dion est devenue une icône",
+      "summary": "L’ESSENTIEL Céline Dion entame, samedi 12 septembre, une série de mégaconcerts à la Plenitude Arena (anciennement Paris La Défense Arena). La Québécoise s’est hissée au rang d’icône internationale, portée par une palette vocale hors norme, une capacité à incarner une figure de star accessible et des spectacles grandios",
+      "link": "https://theconversation.com/comment-celine-dion-est-devenue-une-icone-290948",
+      "image": "https://counter.theconversation.com/content/290948/count.gif",
+      "publishedAt": "2026-09-10T14:57:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -627,7 +627,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -664,7 +664,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -680,7 +680,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -696,7 +696,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -712,7 +712,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -728,7 +728,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
