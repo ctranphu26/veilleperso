@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T03:17:54.036Z",
+  "generatedAt": "2026-09-13T11:07:33.317Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,56 @@
   "count": 35,
   "items": [
     {
+      "id": "ayy2fem",
+      "title": "« Pourquoi n’as-tu rien dit ? » : Ce que la recherche nous apprend sur le silence des victimes de violences sexuelles dans l’enfance",
+      "summary": "L’ESSENTIEL Les victimes de violences sexuelles dans l’enfance peuvent mettre de longues années avant de dévoiler ce qu’elles ont vécu, ce qui retarde leur prise en charge et constitue un enjeu de santé publique majeur. Les mécanismes qui empêchent les victimes de s’exprimer sont particulièrement puissants dans les sit",
+      "link": "https://theconversation.com/pourquoi-nas-tu-rien-dit-ce-que-la-recherche-nous-apprend-sur-le-silence-des-victimes-de-violences-sexuelles-dans-lenfance-286995",
+      "image": "https://counter.theconversation.com/content/286995/count.gif",
+      "publishedAt": "2026-09-13T09:53:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ardr9xu",
+      "title": "États-Unis et Europe : deux conceptions irréconciliables de la liberté d’expression ?",
+      "summary": "L’ESSENTIEL Selon l’administration Trump, l’Europe serait devenue un espace de censure et une « menace civilisationnelle » pour la liberté d’expression. Les pressions exercées aux États-Unis sur des journalistes, des universitaires ou des manifestants rendent ce diagnostic quelque peu ironique, voire pure bullshit selo",
+      "link": "https://theconversation.com/etats-unis-et-europe-deux-conceptions-irreconciliables-de-la-liberte-dexpression-282647",
+      "image": "https://counter.theconversation.com/content/282647/count.gif",
+      "publishedAt": "2026-09-13T09:53:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "azfc63o",
+      "title": "Le D-Day économique au Moyen-Orient : gagnants et perdants",
+      "summary": "L’ESSENTIEL Depuis 1979, les sanctions américaines contre l’Iran sont passées de restrictions commerciales à un dispositif financier mondial. Avec l’opération Epic Fury, Washington franchit un nouveau cap : sanctions directes, sanctions secondaires et pression sur le pétrole, le transport maritime, la finance et les ré",
+      "link": "https://theconversation.com/le-d-day-economique-au-moyen-orient-gagnants-et-perdants-290600",
+      "image": "https://counter.theconversation.com/content/290600/count.gif",
+      "publishedAt": "2026-09-13T09:52:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aahg7iy",
       "title": "Coopération, confiance en soi, curiosité… Ce que PISA nous apprend des compétences sociales et émotionnelles des élèves",
       "summary": "L’ESSENTIEL Si les résultats de la dernière enquête PISA inquiètent, il faut les interpréter avec prudence. Les évolutions de certains pays dans le temps montrent que des réformes éducatives ouvrent des marges de progression. Alors qu’on valorise beaucoup l’acquisition de connaissances, PISA interroge aussi le bien-êtr",
@@ -134,8 +184,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aub95tz",
@@ -152,7 +202,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -168,23 +218,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ao73e69",
-      "title": "Apple vs Union européenne : quand le DMA fracture une tribu de 1,5 milliard de personnes",
-      "summary": "Les utilisateurs des applis 100 % Apple pourront-ils continuer à communier ensemble simultanément ? Copie d'écran d'un membre Apple Fitness+ fourni par l'auteur L’ESSENTIEL Avant le lancement d’un nouvel iPhone pliant, Apple a dévoilé en juin dernier une nouvelle version de SIRI renforcé à l’IA. Les consommateurs franç",
-      "link": "https://theconversation.com/apple-vs-union-europeenne-quand-le-dma-fracture-une-tribu-de-1-5-milliard-de-personnes-288825",
-      "image": "https://images.theconversation.com/files/752885/original/file-20260808-50-72m87a.jpeg?ixlib=rb-4.1.1&amp;rect=36%2C0%2C1970%2C1313&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-12T08:46:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -204,7 +238,23 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ao73e69",
+      "title": "Apple vs Union européenne : quand le DMA fracture une tribu de 1,5 milliard de personnes",
+      "summary": "Les utilisateurs des applis 100 % Apple pourront-ils continuer à communier ensemble simultanément ? Copie d'écran d'un membre Apple Fitness+ fourni par l'auteur L’ESSENTIEL Avant le lancement d’un nouvel iPhone pliant, Apple a dévoilé en juin dernier une nouvelle version de SIRI renforcé à l’IA. Les consommateurs franç",
+      "link": "https://theconversation.com/apple-vs-union-europeenne-quand-le-dma-fracture-une-tribu-de-1-5-milliard-de-personnes-288825",
+      "image": "https://images.theconversation.com/files/752885/original/file-20260808-50-72m87a.jpeg?ixlib=rb-4.1.1&amp;rect=36%2C0%2C1970%2C1313&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-12T08:46:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -220,7 +270,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -238,7 +288,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -257,7 +307,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -276,7 +326,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -292,7 +342,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -308,23 +358,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajkhln0",
-      "title": "Dans l’est de l’Angola, la guerre a bouleversé des siècles de gestion du feu",
-      "summary": "L’ESSENTIEL Dans l’est de l’Angola, les feux ont diminué de 36 % pendant la guerre civile, contrairement à ce qui est observé dans la plupart des conflits. La guerre a bouleversé les pratiques traditionnelles de brûlage et leur transmission entre générations. Les politiques de gestion doivent reconnaître le feu comme u",
-      "link": "https://theconversation.com/dans-lest-de-langola-la-guerre-a-bouleverse-des-siecles-de-gestion-du-feu-291791",
-      "image": "https://images.theconversation.com/files/742970/original/file-20260619-63-synxu7.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-11T10:24:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,7 +376,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -360,25 +394,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajwi1v5",
-      "title": "Après un incendie, les bâtiments historiques peuvent encore être sauvés, à condition d’agir vite",
-      "summary": "L’ESSENTIEL Après un incendie, les monuments historiques peuvent sembler très endommagés alors que la chaleur n’a souvent atteint que leur surface. Il faut alors agir rapidement pour consolider les murs et les protéger des intempéries. La démolition ne devrait intervenir qu’après une évaluation rigoureuse. Pourtant, il",
-      "link": "https://theconversation.com/apres-un-incendie-les-batiments-historiques-peuvent-encore-etre-sauves-a-condition-dagir-vite-291793",
-      "image": "https://images.theconversation.com/files/752935/original/file-20260810-50-ejti7o.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-11T09:27:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "évaluation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -396,8 +412,42 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ajkhln0",
+      "title": "Dans l’est de l’Angola, la guerre a bouleversé des siècles de gestion du feu",
+      "summary": "L’ESSENTIEL Dans l’est de l’Angola, les feux ont diminué de 36 % pendant la guerre civile, contrairement à ce qui est observé dans la plupart des conflits. La guerre a bouleversé les pratiques traditionnelles de brûlage et leur transmission entre générations. Les politiques de gestion doivent reconnaître le feu comme u",
+      "link": "https://theconversation.com/dans-lest-de-langola-la-guerre-a-bouleverse-des-siecles-de-gestion-du-feu-291791",
+      "image": "https://images.theconversation.com/files/742970/original/file-20260619-63-synxu7.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-11T10:24:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ajwi1v5",
+      "title": "Après un incendie, les bâtiments historiques peuvent encore être sauvés, à condition d’agir vite",
+      "summary": "L’ESSENTIEL Après un incendie, les monuments historiques peuvent sembler très endommagés alors que la chaleur n’a souvent atteint que leur surface. Il faut alors agir rapidement pour consolider les murs et les protéger des intempéries. La démolition ne devrait intervenir qu’après une évaluation rigoureuse. Pourtant, il",
+      "link": "https://theconversation.com/apres-un-incendie-les-batiments-historiques-peuvent-encore-etre-sauves-a-condition-dagir-vite-291793",
+      "image": "https://images.theconversation.com/files/752935/original/file-20260810-50-ejti7o.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-11T09:27:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "évaluation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avdbtal",
@@ -412,8 +462,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amxv7wh",
@@ -433,8 +483,8 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ae4z925",
@@ -452,8 +502,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aayf9j2",
@@ -471,8 +521,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aszjv71",
@@ -489,8 +539,8 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "arbqmpo",
@@ -505,61 +555,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9m7qqy",
-      "title": "L’intelligence artificielle en quête de récit",
-      "summary": "L’ESSENTIEL Le succès ou le rejet d’une technologie ne dépend pas que de ses qualités intrinsèques. La qualité du récit qui l’accompagne importe. Après l’engouement pour ChatGPT, les récits autour de l’IA commencent à créer des peurs, de l’angoisse, de la défiance. Ces discours, performatifs et quasi exclusivement état",
-      "link": "https://theconversation.com/lintelligence-artificielle-en-quete-de-recit-290957",
-      "image": "https://counter.theconversation.com/content/290957/count.gif",
-      "publishedAt": "2026-09-10T14:59:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "adkf7v2",
-      "title": "Climat : Séparer adaptation et atténuation freine-t-il l’action ?",
-      "summary": "A-t-on eu raison de séparer adaptation et atténuation ? Mohamed_Hassan/Pixabay, CC BY L’ESSENTIEL Depuis les années 1990, on sépare l’atténuation, qui s’attaque aux causes des changements climatiques, et l’adaptation, qui vise à en prévenir les conséquences. Cette opposition demeure source de confusions et peut générer",
-      "link": "https://theconversation.com/climat-separer-adaptation-et-attenuation-freine-t-il-laction-291206",
-      "image": "https://images.theconversation.com/files/757788/original/file-20260903-50-7jnaeu.png?ixlib=rb-4.1.1&amp;rect=0%2C139%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-10T14:59:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "azexjc1",
-      "title": "PISA 2025 : l’IA est-elle responsable de la baisse des résultats ?",
-      "summary": "L’ESSENTIEL Si l’usage de l’IA générative explose, le niveau des élèves a commencé à chuter avant l’apparition de ces outils. Parmi les systèmes éducatifs les plus performants, les modes de recours à l’IA sont très différents. L’enquête PISA incite à distinguer les usages qui se substituent à l’effort cognitif de ceux ",
-      "link": "https://theconversation.com/pisa-2025-lia-est-elle-responsable-de-la-baisse-des-resultats-291580",
-      "image": "https://counter.theconversation.com/content/291580/count.gif",
-      "publishedAt": "2026-09-10T14:58:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -577,7 +573,61 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a9m7qqy",
+      "title": "L’intelligence artificielle en quête de récit",
+      "summary": "L’ESSENTIEL Le succès ou le rejet d’une technologie ne dépend pas que de ses qualités intrinsèques. La qualité du récit qui l’accompagne importe. Après l’engouement pour ChatGPT, les récits autour de l’IA commencent à créer des peurs, de l’angoisse, de la défiance. Ces discours, performatifs et quasi exclusivement état",
+      "link": "https://theconversation.com/lintelligence-artificielle-en-quete-de-recit-290957",
+      "image": "https://counter.theconversation.com/content/290957/count.gif",
+      "publishedAt": "2026-09-10T14:59:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "adkf7v2",
+      "title": "Climat : Séparer adaptation et atténuation freine-t-il l’action ?",
+      "summary": "A-t-on eu raison de séparer adaptation et atténuation ? Mohamed_Hassan/Pixabay, CC BY L’ESSENTIEL Depuis les années 1990, on sépare l’atténuation, qui s’attaque aux causes des changements climatiques, et l’adaptation, qui vise à en prévenir les conséquences. Cette opposition demeure source de confusions et peut générer",
+      "link": "https://theconversation.com/climat-separer-adaptation-et-attenuation-freine-t-il-laction-291206",
+      "image": "https://images.theconversation.com/files/757788/original/file-20260903-50-7jnaeu.png?ixlib=rb-4.1.1&amp;rect=0%2C139%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-10T14:59:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "azexjc1",
+      "title": "PISA 2025 : l’IA est-elle responsable de la baisse des résultats ?",
+      "summary": "L’ESSENTIEL Si l’usage de l’IA générative explose, le niveau des élèves a commencé à chuter avant l’apparition de ces outils. Parmi les systèmes éducatifs les plus performants, les modes de recours à l’IA sont très différents. L’enquête PISA incite à distinguer les usages qui se substituent à l’effort cognitif de ceux ",
+      "link": "https://theconversation.com/pisa-2025-lia-est-elle-responsable-de-la-baisse-des-resultats-291580",
+      "image": "https://counter.theconversation.com/content/291580/count.gif",
+      "publishedAt": "2026-09-10T14:58:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -593,7 +643,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -609,7 +659,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -627,26 +677,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a400b7l",
-      "title": "Ces hommes pionniers du féminisme, de Condorcet à Léon Blum",
-      "summary": "Le philosophe Condorcet, l’inventeur et militant Jules Allix, l’économiste Victor Considerant, le médecin et franc-maçon Georges Martin, le chef du gouvernement sous le Front populaire Léon Blum, l’écrivain Victor Margueritte (de gauche à droite et de haut en bas). L’ESSENTIEL Face aux violences sexistes et sexuelles, ",
-      "link": "https://theconversation.com/ces-hommes-pionniers-du-feminisme-de-condorcet-a-leon-blum-288547",
-      "image": "https://images.theconversation.com/files/752040/original/file-20260804-50-bdhel1.jpg?ixlib=rb-4.1.1&amp;rect=0%2C35%2C1365%2C910&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-09T13:59:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "féminisme",
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 24,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -664,7 +695,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -680,7 +711,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -696,39 +727,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "axfarau",
-      "title": "Comment plus de 11 millions de salariés états-uniens sont devenus actionnaires de leur entreprise sans débourser un centime",
-      "summary": "Publix Super Markets est l’une des plus grandes entreprises américaines majoritairement détenues par ses salariés à travers un ESOP. Wikimédia, CC BY L’ESSENTIEL Près d’un salarié du secteur privé aux États-Unis sur dix est propriétaire d’une part de son entreprise. Et ce, sans apport personnel le plus souvent. Cela ne",
-      "link": "https://theconversation.com/comment-plus-de-11-millions-de-salaries-etats-uniens-sont-devenus-actionnaires-de-leur-entreprise-sans-debourser-un-centime-287248",
-      "image": "https://images.theconversation.com/files/757204/original/file-20260901-50-fgp95o.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5999%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-09T14:10:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "at6ityd",
-      "title": "Why France’s illustrious history of cheesemaking is full of holes",
-      "summary": "The famous words of General de Gaulle – “How can you govern a country where there are 246 varieties of cheese?” – show just how closely regional identities are linked to a country’s cheesemaking heritage that seems to be rooted in ancient history. And yet this is both true and false, as this tradition that the French a",
-      "link": "https://theconversation.com/why-frances-illustrious-history-of-cheesemaking-is-full-of-holes-285426",
-      "image": "https://images.theconversation.com/files/728392/original/file-20260407-57-3k11x.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-09T14:10:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     }
   ]
