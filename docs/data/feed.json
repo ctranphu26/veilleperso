@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T11:52:29.707Z",
+  "generatedAt": "2026-09-14T17:44:54.207Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,54 @@
   "count": 35,
   "items": [
     {
+      "id": "a94nnjp",
+      "title": "Notre cerveau n’aime pas les probabilités, ou pourquoi on joue mal au loto et à la roulette",
+      "summary": "L’ESSENTIEL Au loto, le tirage 1-2-3-4-5-6 est tout aussi (peu) probable que 7-13-21-32-45-7. Cela vous paraît-il contre-intuitif ? Découvrez pourquoi notre cerveau juge très mal le hasard. Les sciences cognitives et les probabilités peuvent nous aider à mieux comprendre les jeux de hasard. On annonce un mégajackpot de",
+      "link": "https://theconversation.com/notre-cerveau-naime-pas-les-probabilites-ou-pourquoi-on-joue-mal-au-loto-et-a-la-roulette-288449",
+      "image": "https://counter.theconversation.com/content/288449/count.gif",
+      "publishedAt": "2026-09-14T14:33:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8wekue",
+      "title": "Les démocraties directes existent-elles vraiment ?",
+      "summary": "L’ESSENTIEL Il existe bien des formes de démocraties directes dans le monde – en Suisse, en Uruguay, dans une douzaine d’États américains ou encore dans le Land de Bavière en Allemagne, par exemple. Les citoyens n’y prennent pas toutes les décisions politiques, mais aucune institution ne peut disposer d’un pouvoir qui ",
+      "link": "https://theconversation.com/les-democraties-directes-existent-elles-vraiment-289660",
+      "image": "https://counter.theconversation.com/content/289660/count.gif",
+      "publishedAt": "2026-09-14T14:32:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aybf4up",
+      "title": "Citoyens, experts et décideurs : qui croit encore aux objectifs climatiques de l’UE pour 2030 ?",
+      "summary": "L’ESSENTIEL L’Union européenne vise une réduction d’au moins 55 % des émissions nettes de gaz à effet de serre d’ici à 2030 par rapport à 1990. Mais qui croit vraiment que la cible sera atteinte ? Ni les citoyens, ni les experts, ni même les responsables politiques qui l’ont inscrite dans la loi. Ce décalage en dit lon",
+      "link": "https://theconversation.com/citoyens-experts-et-decideurs-qui-croit-encore-aux-objectifs-climatiques-de-lue-pour-2030-289517",
+      "image": "https://images.theconversation.com/files/754305/original/file-20260817-50-qfmx1u.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-14T14:24:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a5vamo2",
       "title": "Travailleurs indépendants en situation de handicap : attention au risque d’épuisement professionnel",
       "summary": "L’ESSENTIEL De nombreuses personnes en situation de handicap sont des travailleurs indépendants par nécessité tout autant que par choix. Cette solution est loin d’être idéale, car les impacts négatifs sur la santé mentale et physique sont nombreux. Une politique publique est d’autant plus nécessaire que l’entrepreneuri",
@@ -133,7 +181,27 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 88,
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ausvb5x",
+      "title": "Apprendre à lire : ce que les données de 9 000 enseignants et 130 000 élèves révèlent des méthodes et de leur efficacité",
+      "summary": "L’ESSENTIEL Apprendre les correspondances entre les lettres et les sons, c’est le meilleur point de départ vers la lecture. Si la recherche valide cette méthode phonique, comment la mettre en œuvre efficacement dans les classes ? Alors que le niveau des élèves se dégrade, des études ouvrent des pistes pour améliorer l’",
+      "link": "https://theconversation.com/apprendre-a-lire-ce-que-les-donnees-de-9-000-enseignants-et-130-000-eleves-revelent-des-methodes-et-de-leur-efficacite-291310",
+      "image": "https://counter.theconversation.com/content/291310/count.gif",
+      "publishedAt": "2026-09-14T14:23:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "enseignant",
+        "classe"
+      ],
+      "relevance": 93,
+      "relevanceLevel": "haute",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -152,7 +220,126 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahbqv6",
+      "title": "Les victimes de discrimination choisissent les recommandations basées sur l’IA plutôt que les conseils humains",
+      "summary": "L’ESSENTIEL Une étude souligne que les consommateurs discriminés sont plus enclins à se tourner vers des recommandations basées sur l’IA plutôt que vers des conseils humains. La peur d’être jugé ou de vivre un sentiment de gêne peut conduire à utiliser l’IA. Si les systèmes d’IA sont eux-mêmes biaisés, ils risquent d’a",
+      "link": "https://theconversation.com/les-victimes-de-discrimination-choisissent-les-recommandations-basees-sur-lia-plutot-que-les-conseils-humains-278338",
+      "image": "https://counter.theconversation.com/content/278338/count.gif",
+      "publishedAt": "2026-09-14T14:23:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "discrimination"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aj40mqi",
+      "title": "Pourquoi j’apprends à mes étudiants en littérature ce que l’IA ne sait pas faire",
+      "summary": "Émile Bernard, *Madeleine au Bois d’Amour*, 1888. Art Media/The Print Collector via Getty Images L’ESSENTIEL Tandis que l’usage de l’intelligence artificielle s’est généralisé chez ses étudiants, un professeur de littérature à l’Université de Denver, aux États-Unis, expose son approche pour mieux comprendre les limites",
+      "link": "https://theconversation.com/pourquoi-japprends-a-mes-etudiants-en-litterature-ce-que-lia-ne-sait-pas-faire-291182",
+      "image": "https://images.theconversation.com/files/757727/original/file-20260819-50-terihh.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1720%2C3159%2C2106&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-14T14:17:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle",
+        "image"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5as6lj",
+      "title": "Rassemblement national/Reform UK : mêmes combats ?",
+      "summary": "L’ESSENTIEL Présent lors du dernier congrès de Reform UK, parti donné gagnant aux prochaines législatives au Royaume-Uni, le président du RN Jordan Bardella a souligné les nombreux points d’accord entre les deux formations. Toutes deux dénoncent une immigration assimilée à une invasion, se posent en protectrices de la ",
+      "link": "https://theconversation.com/rassemblement-national-reform-uk-memes-combats-291386",
+      "image": "https://images.theconversation.com/files/759212/original/file-20260910-50-ck7z5j.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-14T14:32:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atd95m",
+      "title": "Europe can’t achieve space sovereignty alone. Here’s why",
+      "summary": "“Europe’s space effort is split across too many national programmes” was the blunt diagnosis Andrius Kubilius, the EU Commissioner for Defence and Space made at the recent International Space Summit in Paris. Sovereignty was the word on everyone’s lips over the two-day event. But look past the rhetoric at what the summ",
+      "link": "https://theconversation.com/europe-cant-achieve-space-sovereignty-alone-heres-why-291786",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-14T14:34:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6fst38",
+      "title": "Les oubliés du soin d’urgence : quand le déni de reconnaissance met le secteur ambulancier en danger",
+      "summary": "L’ESSENTIEL Incendies de l’été 2026, Covid-19… le personnel ambulancier joue un rôle clé dans le soin et les situations d’urgence. Mais ce secteur ne fait jamais la une des médias et pâtit d’un manque de reconnaissance. Le flou de son statut fait courir des risques sur le terrain à cette profession de plus en plus fémi",
+      "link": "https://theconversation.com/les-oublies-du-soin-durgence-quand-le-deni-de-reconnaissance-met-le-secteur-ambulancier-en-danger-289567",
+      "image": "https://counter.theconversation.com/content/289567/count.gif",
+      "publishedAt": "2026-09-14T14:33:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3faxa3",
+      "title": "États-Unis : tout comprendre aux midterms",
+      "summary": "L’ESSENTIEL Le 3 novembre prochain, soit deux ans après la seconde élection de Donald Trump, auront lieu les midterms, les élections de mi-mandat aux États-Unis. La totalité des 435 sièges de la Chambre des représentants et 35 des 100 sièges du Sénat seront renouvelés à cette occasion. Pour l’heure, les républicains di",
+      "link": "https://theconversation.com/etats-unis-tout-comprendre-aux-midterms-284686",
+      "image": "https://counter.theconversation.com/content/284686/count.gif",
+      "publishedAt": "2026-09-14T14:27:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "albd3w8",
+      "title": "« On n’a plus les moyens de financer même des dispositifs obligatoires » : l’alerte du SNPDEN-UNSA",
+      "summary": "« Comment faire avec rien ? » demandent les personnels de direction. Ils alertent sur les moyens manquants. Baisse des enveloppes budgétaires, postes non pourvus, calendrier du nouveau concours, nouvelles L’article « On n’a plus les moyens de financer même des dispositifs obligatoires » : l’alerte du SNPDEN-UNSA est ap",
+      "link": "https://www.cafepedagogique.net/2026/09/14/on-na-plus-les-moyens-de-financer-meme-des-dispositifs-obligatoires-lalerte-du-snpden-unsa/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/nomination-pour-la-rentree.png",
+      "publishedAt": "2026-09-14T04:00:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -170,7 +357,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -189,23 +376,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "albd3w8",
-      "title": "« On n’a plus les moyens de financer même des dispositifs obligatoires » : l’alerte du SNPDEN-UNSA",
-      "summary": "« Comment faire avec rien ? » demandent les personnels de direction. Ils alertent sur les moyens manquants. Baisse des enveloppes budgétaires, postes non pourvus, calendrier du nouveau concours, nouvelles L’article « On n’a plus les moyens de financer même des dispositifs obligatoires » : l’alerte du SNPDEN-UNSA est ap",
-      "link": "https://www.cafepedagogique.net/2026/09/14/on-na-plus-les-moyens-de-financer-meme-des-dispositifs-obligatoires-lalerte-du-snpden-unsa/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/nomination-pour-la-rentree.png",
-      "publishedAt": "2026-09-14T04:00:16.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -224,7 +395,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -240,25 +411,6 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "atv7bko",
-      "title": "Penser la langue à l’Ecole, enfin ?",
-      "summary": "« Indiquez le mode et le temps de ces verbes », « Quelle est la classe grammaticale du mot souligné ? », « Quelle est sa fonction grammaticale ? » Les questions posées en français au L’article Penser la langue à l’Ecole, enfin ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/14/penser-la-langue-a-lecole-enfin/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Penser-la-langue-209x300.png",
-      "publishedAt": "2026-09-14T03:29:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "classe"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
       "urgency": 71,
       "urgencyLevel": "haute"
     },
@@ -277,8 +429,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amwzgga",
@@ -293,8 +445,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atw3hz6",
@@ -309,8 +461,27 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atv7bko",
+      "title": "Penser la langue à l’Ecole, enfin ?",
+      "summary": "« Indiquez le mode et le temps de ces verbes », « Quelle est la classe grammaticale du mot souligné ? », « Quelle est sa fonction grammaticale ? » Les questions posées en français au L’article Penser la langue à l’Ecole, enfin ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/14/penser-la-langue-a-lecole-enfin/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Penser-la-langue-209x300.png",
+      "publishedAt": "2026-09-14T03:29:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "classe"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anpu70b",
@@ -325,8 +496,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a43e1d1",
@@ -341,8 +512,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2wf8nn",
@@ -357,7 +528,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -375,7 +546,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -391,7 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -426,7 +597,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -444,8 +615,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a2n3cri",
@@ -460,8 +631,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ao73e69",
@@ -476,59 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3fnw6z",
-      "title": "Pluralisme et journalisme dans l’audiovisuel : la grande confusion",
-      "summary": "L’ESSENTIEL Après l’arrivée d’un chroniqueur de l’hebdomadaire d’extrême droite Valeurs actuelles sur France Inter, les salariés de Radio France se mettent en grève dimanche 13 et lundi 14 septembre. La direction de la radio publique justifie son choix au nom de pluralisme. Mais cette approche du pluralisme, consistant",
-      "link": "https://theconversation.com/pluralisme-et-journalisme-dans-laudiovisuel-la-grande-confusion-291350",
-      "image": "https://counter.theconversation.com/content/291350/count.gif",
-      "publishedAt": "2026-09-10T14:57:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "journalisme"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "al0cfgv",
-      "title": "Élections législatives en Suède : un vote sur la normalisation de l’extrême droite ?",
-      "summary": "L’ESSENTIEL Depuis 2022, les Démocrates de Suède (SD, classés à l’extrême droite) soutiennent le gouvernement de droite en place, exerçant une influence majeure sur la politique migratoire, pénale et climatique du gouvernement de coalition. Le virage à droite n’a toutefois pas produit de dynamique électorale durable : ",
-      "link": "https://theconversation.com/elections-legislatives-en-suede-un-vote-sur-la-normalisation-de-lextreme-droite-291067",
-      "image": "https://images.theconversation.com/files/757482/original/file-20260902-60-bb9s0d.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-10T14:58:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avdbtal",
-      "title": "Quels oiseaux pourrait-on voir figurer sur les billets d’euros ?",
-      "summary": "Certains des différents graphismes proposés pour les prochaines coupures de billets d’euros. BCE L’ESSENTIEL Les Européens sont invités à voter en ligne pour choisir la nouvelle illustration graphique des prochains billets d’euros. Parmi les dix propositions retenues, cinq mettent en scène des oiseaux, sur leur recto. ",
-      "link": "https://theconversation.com/quels-oiseaux-pourrait-on-voir-figurer-sur-les-billets-deuros-291510",
-      "image": "https://images.theconversation.com/files/758546/original/file-20260908-50-vy7f27.jpg?ixlib=rb-4.1.1&amp;rect=1321%2C0%2C3357%2C2238&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-10T10:37:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -544,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -560,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -578,25 +697,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajwi1v5",
-      "title": "Après un incendie, les bâtiments historiques peuvent encore être sauvés, à condition d’agir vite",
-      "summary": "L’ESSENTIEL Après un incendie, les monuments historiques peuvent sembler très endommagés alors que la chaleur n’a souvent atteint que leur surface. Il faut alors agir rapidement pour consolider les murs et les protéger des intempéries. La démolition ne devrait intervenir qu’après une évaluation rigoureuse. Pourtant, il",
-      "link": "https://theconversation.com/apres-un-incendie-les-batiments-historiques-peuvent-encore-etre-sauves-a-condition-dagir-vite-291793",
-      "image": "https://images.theconversation.com/files/752935/original/file-20260810-50-ejti7o.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-11T09:27:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "évaluation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -612,111 +713,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9m7qqy",
-      "title": "L’intelligence artificielle en quête de récit",
-      "summary": "L’ESSENTIEL Le succès ou le rejet d’une technologie ne dépend pas que de ses qualités intrinsèques. La qualité du récit qui l’accompagne importe. Après l’engouement pour ChatGPT, les récits autour de l’IA commencent à créer des peurs, de l’angoisse, de la défiance. Ces discours, performatifs et quasi exclusivement état",
-      "link": "https://theconversation.com/lintelligence-artificielle-en-quete-de-recit-290957",
-      "image": "https://counter.theconversation.com/content/290957/count.gif",
-      "publishedAt": "2026-09-10T14:59:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "adkf7v2",
-      "title": "Climat : Séparer adaptation et atténuation freine-t-il l’action ?",
-      "summary": "A-t-on eu raison de séparer adaptation et atténuation ? Mohamed_Hassan/Pixabay, CC BY L’ESSENTIEL Depuis les années 1990, on sépare l’atténuation, qui s’attaque aux causes des changements climatiques, et l’adaptation, qui vise à en prévenir les conséquences. Cette opposition demeure source de confusions et peut générer",
-      "link": "https://theconversation.com/climat-separer-adaptation-et-attenuation-freine-t-il-laction-291206",
-      "image": "https://images.theconversation.com/files/757788/original/file-20260903-50-7jnaeu.png?ixlib=rb-4.1.1&amp;rect=0%2C139%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-10T14:59:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "azexjc1",
-      "title": "PISA 2025 : l’IA est-elle responsable de la baisse des résultats ?",
-      "summary": "L’ESSENTIEL Si l’usage de l’IA générative explose, le niveau des élèves a commencé à chuter avant l’apparition de ces outils. Parmi les systèmes éducatifs les plus performants, les modes de recours à l’IA sont très différents. L’enquête PISA incite à distinguer les usages qui se substituent à l’effort cognitif de ceux ",
-      "link": "https://theconversation.com/pisa-2025-lia-est-elle-responsable-de-la-baisse-des-resultats-291580",
-      "image": "https://counter.theconversation.com/content/291580/count.gif",
-      "publishedAt": "2026-09-10T14:58:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajv5r02",
-      "title": "Des organoïdes cérébraux complexes pour mieux comprendre les cancers du cerveau",
-      "summary": "L’ESSENTIEL Les organoïdes sont des ébauches d’organes qui en reproduisent certaines caractéristiques. Une équipe de recherche travaille sur des organoïdes cérébraux pour étudier le comportement de cellules de glioblastome (cancer du cerveau). Améliorer ces modèles cérébraux pose des questions éthiques : pourraient-ils",
-      "link": "https://theconversation.com/des-organo-des-cerebraux-complexes-pour-mieux-comprendre-les-cancers-du-cerveau-286707",
-      "image": "https://counter.theconversation.com/content/286707/count.gif",
-      "publishedAt": "2026-09-10T14:59:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6j05zn",
-      "title": "Comment Céline Dion est devenue une icône",
-      "summary": "L’ESSENTIEL Céline Dion entame, samedi 12 septembre, une série de mégaconcerts à la Plenitude Arena (anciennement Paris La Défense Arena). La Québécoise s’est hissée au rang d’icône internationale, portée par une palette vocale hors norme, une capacité à incarner une figure de star accessible et des spectacles grandios",
-      "link": "https://theconversation.com/comment-celine-dion-est-devenue-une-icone-290948",
-      "image": "https://counter.theconversation.com/content/290948/count.gif",
-      "publishedAt": "2026-09-10T14:57:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "andyhcw",
-      "title": "France: the far-right’s proposed headscarf ban in public places breaches religious freedom and anti-discrimination principles",
-      "summary": "KEY TAKEAWAYS France’s far-right Rassemblement national (RN) party wants to ban Muslim headscarves being worn in public spaces if it wins the presidential election. The RN cites the fight against Islamism as its rationale. However, research findings do not support the view that wearing the veil is, in itself, an indica",
-      "link": "https://theconversation.com/france-the-far-rights-proposed-headscarf-ban-in-public-places-breaches-religious-freedom-and-anti-discrimination-principles-291498",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-10T09:12:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "discrimination"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 20,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
