@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T17:44:54.207Z",
+  "generatedAt": "2026-09-14T21:30:41.171Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -201,7 +201,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -220,7 +220,25 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 76,
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amcbred",
+      "title": "Rentrée scolaire : de nouvelles ressources pédagogiques signées La Poste",
+      "summary": "Article publié dans le cadre d’un partenariat À l’heure où les enseignants recherchent des outils à la fois efficaces, engageants et conformes aux programmes scolaires, La Poste fait une entrée L’article Rentrée scolaire : de nouvelles ressources pédagogiques signées La Poste est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/09/14/rentree-scolaire-de-nouvelles-ressources-pedagogiques-signees-la-poste/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IMG_20250319_153505-R-1-300x181.jpg",
+      "publishedAt": "2026-09-14T03:27:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -238,7 +256,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -257,107 +275,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a5as6lj",
-      "title": "Rassemblement national/Reform UK : mêmes combats ?",
-      "summary": "L’ESSENTIEL Présent lors du dernier congrès de Reform UK, parti donné gagnant aux prochaines législatives au Royaume-Uni, le président du RN Jordan Bardella a souligné les nombreux points d’accord entre les deux formations. Toutes deux dénoncent une immigration assimilée à une invasion, se posent en protectrices de la ",
-      "link": "https://theconversation.com/rassemblement-national-reform-uk-memes-combats-291386",
-      "image": "https://images.theconversation.com/files/759212/original/file-20260910-50-ck7z5j.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-14T14:32:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "atd95m",
-      "title": "Europe can’t achieve space sovereignty alone. Here’s why",
-      "summary": "“Europe’s space effort is split across too many national programmes” was the blunt diagnosis Andrius Kubilius, the EU Commissioner for Defence and Space made at the recent International Space Summit in Paris. Sovereignty was the word on everyone’s lips over the two-day event. But look past the rhetoric at what the summ",
-      "link": "https://theconversation.com/europe-cant-achieve-space-sovereignty-alone-heres-why-291786",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-14T14:34:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a6fst38",
-      "title": "Les oubliés du soin d’urgence : quand le déni de reconnaissance met le secteur ambulancier en danger",
-      "summary": "L’ESSENTIEL Incendies de l’été 2026, Covid-19… le personnel ambulancier joue un rôle clé dans le soin et les situations d’urgence. Mais ce secteur ne fait jamais la une des médias et pâtit d’un manque de reconnaissance. Le flou de son statut fait courir des risques sur le terrain à cette profession de plus en plus fémi",
-      "link": "https://theconversation.com/les-oublies-du-soin-durgence-quand-le-deni-de-reconnaissance-met-le-secteur-ambulancier-en-danger-289567",
-      "image": "https://counter.theconversation.com/content/289567/count.gif",
-      "publishedAt": "2026-09-14T14:33:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a3faxa3",
-      "title": "États-Unis : tout comprendre aux midterms",
-      "summary": "L’ESSENTIEL Le 3 novembre prochain, soit deux ans après la seconde élection de Donald Trump, auront lieu les midterms, les élections de mi-mandat aux États-Unis. La totalité des 435 sièges de la Chambre des représentants et 35 des 100 sièges du Sénat seront renouvelés à cette occasion. Pour l’heure, les républicains di",
-      "link": "https://theconversation.com/etats-unis-tout-comprendre-aux-midterms-284686",
-      "image": "https://counter.theconversation.com/content/284686/count.gif",
-      "publishedAt": "2026-09-14T14:27:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "albd3w8",
-      "title": "« On n’a plus les moyens de financer même des dispositifs obligatoires » : l’alerte du SNPDEN-UNSA",
-      "summary": "« Comment faire avec rien ? » demandent les personnels de direction. Ils alertent sur les moyens manquants. Baisse des enveloppes budgétaires, postes non pourvus, calendrier du nouveau concours, nouvelles L’article « On n’a plus les moyens de financer même des dispositifs obligatoires » : l’alerte du SNPDEN-UNSA est ap",
-      "link": "https://www.cafepedagogique.net/2026/09/14/on-na-plus-les-moyens-de-financer-meme-des-dispositifs-obligatoires-lalerte-du-snpden-unsa/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/nomination-pour-la-rentree.png",
-      "publishedAt": "2026-09-14T04:00:16.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "amcbred",
-      "title": "Rentrée scolaire : de nouvelles ressources pédagogiques signées La Poste",
-      "summary": "Article publié dans le cadre d’un partenariat À l’heure où les enseignants recherchent des outils à la fois efficaces, engageants et conformes aux programmes scolaires, La Poste fait une entrée L’article Rentrée scolaire : de nouvelles ressources pédagogiques signées La Poste est apparu en premier sur Le Café pédagogiq",
-      "link": "https://www.cafepedagogique.net/2026/09/14/rentree-scolaire-de-nouvelles-ressources-pedagogiques-signees-la-poste/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IMG_20250319_153505-R-1-300x181.jpg",
-      "publishedAt": "2026-09-14T03:27:54.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 75,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -376,7 +294,89 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5as6lj",
+      "title": "Rassemblement national/Reform UK : mêmes combats ?",
+      "summary": "L’ESSENTIEL Présent lors du dernier congrès de Reform UK, parti donné gagnant aux prochaines législatives au Royaume-Uni, le président du RN Jordan Bardella a souligné les nombreux points d’accord entre les deux formations. Toutes deux dénoncent une immigration assimilée à une invasion, se posent en protectrices de la ",
+      "link": "https://theconversation.com/rassemblement-national-reform-uk-memes-combats-291386",
+      "image": "https://images.theconversation.com/files/759212/original/file-20260910-50-ck7z5j.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-14T14:32:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atd95m",
+      "title": "Europe can’t achieve space sovereignty alone. Here’s why",
+      "summary": "“Europe’s space effort is split across too many national programmes” was the blunt diagnosis Andrius Kubilius, the EU Commissioner for Defence and Space made at the recent International Space Summit in Paris. Sovereignty was the word on everyone’s lips over the two-day event. But look past the rhetoric at what the summ",
+      "link": "https://theconversation.com/europe-cant-achieve-space-sovereignty-alone-heres-why-291786",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-14T14:34:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6fst38",
+      "title": "Les oubliés du soin d’urgence : quand le déni de reconnaissance met le secteur ambulancier en danger",
+      "summary": "L’ESSENTIEL Incendies de l’été 2026, Covid-19… le personnel ambulancier joue un rôle clé dans le soin et les situations d’urgence. Mais ce secteur ne fait jamais la une des médias et pâtit d’un manque de reconnaissance. Le flou de son statut fait courir des risques sur le terrain à cette profession de plus en plus fémi",
+      "link": "https://theconversation.com/les-oublies-du-soin-durgence-quand-le-deni-de-reconnaissance-met-le-secteur-ambulancier-en-danger-289567",
+      "image": "https://counter.theconversation.com/content/289567/count.gif",
+      "publishedAt": "2026-09-14T14:33:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3faxa3",
+      "title": "États-Unis : tout comprendre aux midterms",
+      "summary": "L’ESSENTIEL Le 3 novembre prochain, soit deux ans après la seconde élection de Donald Trump, auront lieu les midterms, les élections de mi-mandat aux États-Unis. La totalité des 435 sièges de la Chambre des représentants et 35 des 100 sièges du Sénat seront renouvelés à cette occasion. Pour l’heure, les républicains di",
+      "link": "https://theconversation.com/etats-unis-tout-comprendre-aux-midterms-284686",
+      "image": "https://counter.theconversation.com/content/284686/count.gif",
+      "publishedAt": "2026-09-14T14:27:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "albd3w8",
+      "title": "« On n’a plus les moyens de financer même des dispositifs obligatoires » : l’alerte du SNPDEN-UNSA",
+      "summary": "« Comment faire avec rien ? » demandent les personnels de direction. Ils alertent sur les moyens manquants. Baisse des enveloppes budgétaires, postes non pourvus, calendrier du nouveau concours, nouvelles L’article « On n’a plus les moyens de financer même des dispositifs obligatoires » : l’alerte du SNPDEN-UNSA est ap",
+      "link": "https://www.cafepedagogique.net/2026/09/14/on-na-plus-les-moyens-de-financer-meme-des-dispositifs-obligatoires-lalerte-du-snpden-unsa/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/nomination-pour-la-rentree.png",
+      "publishedAt": "2026-09-14T04:00:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -395,8 +395,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar40kbs",
@@ -411,57 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a7i03ip",
-      "title": "PISA : avant de parler de « baisse du niveau », regardons ce qui est évalué",
-      "summary": "« Une analyse fouillée des résultats des élèves dans le PISA sans prise en compte de ce que les épreuves attendent d’eux semble donc restrictive » écrit Daniel Bart dans ce texte. L’article PISA : avant de parler de « baisse du niveau », regardons ce qui est évalué est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/14/pisa-avant-de-parler-de-baisse-du-niveau-regardons-ce-qui-est-evalue/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/12/une-image-contenant-personne-interieur-ordinateu-600x390.jpeg",
-      "publishedAt": "2026-09-14T03:45:09.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amwzgga",
-      "title": "Téléphone portable : « Laissez-nous du temps »",
-      "summary": "Alors que 66 % des personnels de direction se déclarent « favorables » ou « plutôt favorables « à l’interdiction du téléphone portable, le Snpden-UNSA demande du temps pour sa mise en œuvre. L’interdiction L’article Téléphone portable : « Laissez-nous du temps » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/14/telephone-portable-laissez-nous-du-temps/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/illsutration-pochette-telephones-portables-241x300.png",
-      "publishedAt": "2026-09-14T03:58:51.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atw3hz6",
-      "title": "Cyberattaque dans l’Education nationale : quelles conséquences sur le terrain ?",
-      "summary": "Un sujet en chassant un autre, il n’est plus guère question, du côté du ministère de l’Education nationale, de la cyberattaque de juillet 2026 ni de ses conséquences sur la L’article Cyberattaque dans l’Education nationale : quelles conséquences sur le terrain ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/14/cyberattaque-dans-leducation-nationale-quelles-consequences-sur-le-terrain/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/101b9bae-9c5d-46c4-84ca-e34a7fc00751-300x200.png",
-      "publishedAt": "2026-09-14T03:55:54.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 68,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +430,57 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a7i03ip",
+      "title": "PISA : avant de parler de « baisse du niveau », regardons ce qui est évalué",
+      "summary": "« Une analyse fouillée des résultats des élèves dans le PISA sans prise en compte de ce que les épreuves attendent d’eux semble donc restrictive » écrit Daniel Bart dans ce texte. L’article PISA : avant de parler de « baisse du niveau », regardons ce qui est évalué est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/14/pisa-avant-de-parler-de-baisse-du-niveau-regardons-ce-qui-est-evalue/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/12/une-image-contenant-personne-interieur-ordinateu-600x390.jpeg",
+      "publishedAt": "2026-09-14T03:45:09.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "amwzgga",
+      "title": "Téléphone portable : « Laissez-nous du temps »",
+      "summary": "Alors que 66 % des personnels de direction se déclarent « favorables » ou « plutôt favorables « à l’interdiction du téléphone portable, le Snpden-UNSA demande du temps pour sa mise en œuvre. L’interdiction L’article Téléphone portable : « Laissez-nous du temps » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/14/telephone-portable-laissez-nous-du-temps/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/illsutration-pochette-telephones-portables-241x300.png",
+      "publishedAt": "2026-09-14T03:58:51.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atw3hz6",
+      "title": "Cyberattaque dans l’Education nationale : quelles conséquences sur le terrain ?",
+      "summary": "Un sujet en chassant un autre, il n’est plus guère question, du côté du ministère de l’Education nationale, de la cyberattaque de juillet 2026 ni de ses conséquences sur la L’article Cyberattaque dans l’Education nationale : quelles conséquences sur le terrain ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/14/cyberattaque-dans-leducation-nationale-quelles-consequences-sur-le-terrain/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/101b9bae-9c5d-46c4-84ca-e34a7fc00751-300x200.png",
+      "publishedAt": "2026-09-14T03:55:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +496,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -512,7 +512,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -528,7 +528,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -546,7 +546,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -562,7 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -578,7 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -597,7 +597,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -631,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -647,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -663,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -679,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -697,7 +697,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -713,7 +713,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
