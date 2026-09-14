@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:29:50.613Z",
+  "generatedAt": "2026-09-14T11:52:29.707Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,43 @@
   "count": 35,
   "items": [
     {
+      "id": "a5vamo2",
+      "title": "Travailleurs indépendants en situation de handicap : attention au risque d’épuisement professionnel",
+      "summary": "L’ESSENTIEL De nombreuses personnes en situation de handicap sont des travailleurs indépendants par nécessité tout autant que par choix. Cette solution est loin d’être idéale, car les impacts négatifs sur la santé mentale et physique sont nombreux. Une politique publique est d’autant plus nécessaire que l’entrepreneuri",
+      "link": "https://theconversation.com/travailleurs-independants-en-situation-de-handicap-attention-au-risque-depuisement-professionnel-288233",
+      "image": "https://counter.theconversation.com/content/288233/count.gif",
+      "publishedAt": "2026-09-14T09:48:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "handicap"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aby1cgw",
+      "title": "L’après-PISA : Réenchanter le geste pédagogique, la formation, le travail collectif et la réflexivité",
+      "summary": "Si les leviers didactiques et pédagogiques issus de la recherche sont aujourd’hui clairement identifiés, l’obstacle majeur réside encore dans la capacité de l’institution à accompagner l’évolution des pratiques réelles en L’article L’après-PISA : Réenchanter le geste pédagogique, la formation, le travail collectif et l",
+      "link": "https://www.cafepedagogique.net/2026/09/14/lapres-pisa-reenchanter-le-geste-pedagogique-la-formation-le-travail-collectif-et-la-reflexivite/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/saraLeleuMaati-280x300.jpeg",
+      "publishedAt": "2026-09-14T03:46:10.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "didactique",
+        "formation"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "amcbred",
       "title": "Rentrée scolaire : de nouvelles ressources pédagogiques signées La Poste",
       "summary": "Article publié dans le cadre d’un partenariat À l’heure où les enseignants recherchent des outils à la fois efficaces, engageants et conformes aux programmes scolaires, La Poste fait une entrée L’article Rentrée scolaire : de nouvelles ressources pédagogiques signées La Poste est apparu en premier sur Le Café pédagogiq",
@@ -133,25 +170,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 90,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a45612c",
-      "title": "Enseignants : pour vos sorties scolaires, découvrez nos fermes pédagogiques !",
-      "summary": "Article publié dans le cadre d’un partenariat Qu’est-ce qu’une ferme pédagogique « Bienvenue à la ferme » ? Une ferme pédagogique de notre réseau est une exploitation agricole en activité. L’article Enseignants : pour vos sorties scolaires, découvrez nos fermes pédagogiques ! est apparu en premier sur Le Café pédagogiq",
-      "link": "https://www.cafepedagogique.net/2026/09/14/enseignants-pour-vos-sorties-scolaires-decouvrez-nos-fermes-pedagogiques/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/cdq-baf-020925-4-0327-300x200.jpg",
-      "publishedAt": "2026-09-14T03:27:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 90,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -170,44 +189,143 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 90,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
-      "id": "awh0kux",
-      "title": "[Le chiffre du jour] 2 élèves de plus par classe au lycée en 15 ans",
-      "summary": "Le nombre d’élèves par classe est passé de 23.5 en moyenne dans les collèges publics en France en 2010 à 24.7 élèves par classe en 2025. La DEPP (Direction de L’article [Le chiffre du jour] 2 élèves de plus par classe au lycée en 15 ans est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/14/le-chiffre-du-jour-2-eleves-de-plus-par-classe-au-lycee-en-15-ans/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/nombre-deleves-par-classe-en-France.png",
-      "publishedAt": "2026-09-14T03:27:31.000Z",
+      "id": "albd3w8",
+      "title": "« On n’a plus les moyens de financer même des dispositifs obligatoires » : l’alerte du SNPDEN-UNSA",
+      "summary": "« Comment faire avec rien ? » demandent les personnels de direction. Ils alertent sur les moyens manquants. Baisse des enveloppes budgétaires, postes non pourvus, calendrier du nouveau concours, nouvelles L’article « On n’a plus les moyens de financer même des dispositifs obligatoires » : l’alerte du SNPDEN-UNSA est ap",
+      "link": "https://www.cafepedagogique.net/2026/09/14/on-na-plus-les-moyens-de-financer-meme-des-dispositifs-obligatoires-lalerte-du-snpden-unsa/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/nomination-pour-la-rentree.png",
+      "publishedAt": "2026-09-14T04:00:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "albi7ek",
+      "title": "Quand les algorithmes de recrutement renforcent les biais que l’on voulait réduire",
+      "summary": "Alors que l’Union européenne met en œuvre sa législation sur l’intelligence artificielle, l’usage de l’IA dans le processus de recrutement par les entreprises fait l’objet d’une attention croissante. De nouvelles recherches montrent que les biais algorithmiques ne proviennent pas toujours des algorithmes eux-mêmes, mai",
+      "link": "https://theconversation.com/quand-les-algorithmes-de-recrutement-renforcent-les-biais-que-lon-voulait-reduire-285384",
+      "image": "https://counter.theconversation.com/content/285384/count.gif",
+      "publishedAt": "2026-09-14T09:48:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "algorithme",
+        "intelligence artificielle"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ar40kbs",
+      "title": "Les publicités utilisant des visages générés par IA sont contre-productives lorsqu’elles vous ressemblent trop",
+      "summary": "L’ESSENTIEL Les visages générés par IA offrent aux publicitaires un moyen de créer une impression de proximité avec le consommateur. Une étude souligne que, au-delà de 57 % de similarité faciale, de telles publicités seraient contre-productives. Jusqu’où personnaliser la publicité grâce à l’IA ? En apparence, l’intelli",
+      "link": "https://theconversation.com/les-publicites-utilisant-des-visages-generes-par-ia-sont-contre-productives-lorsquelles-vous-ressemblent-trop-282771",
+      "image": "https://images.theconversation.com/files/757535/original/file-20260902-50-j36jn1.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-14T09:49:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atv7bko",
+      "title": "Penser la langue à l’Ecole, enfin ?",
+      "summary": "« Indiquez le mode et le temps de ces verbes », « Quelle est la classe grammaticale du mot souligné ? », « Quelle est sa fonction grammaticale ? » Les questions posées en français au L’article Penser la langue à l’Ecole, enfin ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/14/penser-la-langue-a-lecole-enfin/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Penser-la-langue-209x300.png",
+      "publishedAt": "2026-09-14T03:29:45.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
-        "élève",
+        "école",
         "classe"
       ],
-      "relevance": 100,
+      "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
-      "id": "au1px5v",
-      "title": "Courrier international, l’information sans frontières pour comprendre l’actualité du monde.",
-      "summary": "Article publié dans le cadre d’un partenariat Lire la presse écrite, sur papier ou sur le web, est essentiel aux étudiants pour s’informer, préparer leurs examens et leur avenir professionnel L’article Courrier international, l’information sans frontières pour comprendre l’actualité du monde. est apparu en premier sur ",
-      "link": "https://www.cafepedagogique.net/2026/09/14/courrier-international-linformation-sans-frontieres-pour-comprendre-lactualite-du-monde/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Visuel-pour-article-1-300x202.png",
-      "publishedAt": "2026-09-14T03:27:24.000Z",
+      "id": "a7i03ip",
+      "title": "PISA : avant de parler de « baisse du niveau », regardons ce qui est évalué",
+      "summary": "« Une analyse fouillée des résultats des élèves dans le PISA sans prise en compte de ce que les épreuves attendent d’eux semble donc restrictive » écrit Daniel Bart dans ce texte. L’article PISA : avant de parler de « baisse du niveau », regardons ce qui est évalué est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/14/pisa-avant-de-parler-de-baisse-du-niveau-regardons-ce-qui-est-evalue/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/12/une-image-contenant-personne-interieur-ordinateu-600x390.jpeg",
+      "publishedAt": "2026-09-14T03:45:09.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
-        "formation"
+        "élève"
       ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 80,
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amwzgga",
+      "title": "Téléphone portable : « Laissez-nous du temps »",
+      "summary": "Alors que 66 % des personnels de direction se déclarent « favorables » ou « plutôt favorables « à l’interdiction du téléphone portable, le Snpden-UNSA demande du temps pour sa mise en œuvre. L’interdiction L’article Téléphone portable : « Laissez-nous du temps » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/14/telephone-portable-laissez-nous-du-temps/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/illsutration-pochette-telephones-portables-241x300.png",
+      "publishedAt": "2026-09-14T03:58:51.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atw3hz6",
+      "title": "Cyberattaque dans l’Education nationale : quelles conséquences sur le terrain ?",
+      "summary": "Un sujet en chassant un autre, il n’est plus guère question, du côté du ministère de l’Education nationale, de la cyberattaque de juillet 2026 ni de ses conséquences sur la L’article Cyberattaque dans l’Education nationale : quelles conséquences sur le terrain ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/14/cyberattaque-dans-leducation-nationale-quelles-consequences-sur-le-terrain/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/101b9bae-9c5d-46c4-84ca-e34a7fc00751-300x200.png",
+      "publishedAt": "2026-09-14T03:55:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "anpu70b",
+      "title": "Marine Doinel :  « Les pratiques de lecture des adolescents ne s’effondrent pas, elles se transforment »",
+      "summary": "Les jeunes ne lisent plus ! se lamente la rumeur, encore plus après PISA 2025. « Au début de chaque vacances, on va donner des listes de lectures recommandées », répond le L’article Marine Doinel : « Les pratiques de lecture des adolescents ne s’effondrent pas, elles se transforment » est apparu en premier sur Le Café ",
+      "link": "https://www.cafepedagogique.net/2026/09/14/marine-doinel-les-pratiques-de-lecture-des-adolescents-ne-seffondrent-pas-elles-se-transforment/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Marine-Doinel-200x300.jpg",
+      "publishedAt": "2026-09-14T03:30:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -215,15 +333,15 @@
       "title": "Aventure ludique au Grand Palais",
       "summary": "Ce week-end, au Grand Palais en accès libre, à l’occasion des Journées européennes du Patrimoine, les 19 et 20 septembre, les visiteurs sont invités à découvrir gratuitement le monument restauré. L’article Aventure ludique au Grand Palais est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/09/14/aventure-ludique-au-grand-palais/",
-      "image": null,
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/grand-palais-300x160.png",
       "publishedAt": "2026-09-14T03:28:33.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 40,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -239,23 +357,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a7ybrx6",
-      "title": "Marine Doinel :  « Les pratiques de lecture des adolescents ne s’effondrent pas, elles se transforment »",
-      "summary": "Les jeunes ne lisent plus ! se lamente la rumeur, encore plus après PISA 2025. « Au début de chaque vacances, on va donner des listes de lectures recommandées », répond le L’article Marine Doinel : « Les pratiques de lecture des adolescents ne s’effondrent pas, elles se transforment » est apparu en premier sur Le Café ",
-      "link": "https://www.cafepedagogique.net/2026/09/13/marine-doinel-les-pratiques-de-lecture-des-adolescents-ne-seffondrent-pas-elles-se-transforment/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Marine-Doinel-200x300.jpg",
-      "publishedAt": "2026-09-13T13:00:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -273,7 +375,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -289,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -305,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -324,7 +426,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,7 +444,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -358,7 +460,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -374,59 +476,6 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6ec5aq",
-      "title": "Actualité de l’éducation du 7 au 11 septembre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle, venez la découvrir L’article Actualité de l’éducation du 7 au 11 septembre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/12/actualite-de-leducation-du-7-au-11-septembre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PISA-OCDE-300x239.png",
-      "publishedAt": "2026-09-12T07:16:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a7cj55e",
-      "title": "16 ressources sélectionnées par le Café pédagogique",
-      "summary": "Retrouvez sur cette page 16 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! « Ce n’est pas le temps que ça L’article 16 ressources sélectionnées par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/12/16-ressources-selectionnees-par-le-cafe-pedagogique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/taille-crayon-300x200.jpg",
-      "publishedAt": "2026-09-12T05:54:34.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2gpzpz",
-      "title": "Enseignement catholique et entreprises main dans la main",
-      "summary": "« 80 % d’une génération dans une voie professionnalisante », l’entreprise pour répondre au défi éducatif, voilà la nouvelle ambition de l’Enseignement catholique affichée pour la rentrée 2026. Machines-outils, cybersécurité, apprentissage et L’article Enseignement catholique et entreprises main dans la main est apparu ",
-      "link": "https://www.cafepedagogique.net/2026/09/11/enseignement-catholique-et-entreprises-main-dans-la-main/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/sgec-e1789102352370-300x167.jpg",
-      "publishedAt": "2026-09-11T04:00:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "apprentissage"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
       "urgency": 39,
       "urgencyLevel": "basse"
     },
@@ -445,7 +494,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -463,55 +512,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apwgch0",
-      "title": "Rendre les forêts des Landes moins vulnérables aux incendies : comment faire ?",
-      "summary": "Avec près de 800 000 hectares, le massif des Landes de Gascogne constitue la plus grande forêt de plantation d’Europe. Fourni par l'auteur L’ESSENTIEL Les monocultures de pin maritime sont très vulnérables aux incendies. Diversifier les espèces, la structure et l’âge des peuplements pourrait notamment rendre les forêts",
-      "link": "https://theconversation.com/rendre-les-forets-des-landes-moins-vulnerables-aux-incendies-comment-faire-291207",
-      "image": "https://images.theconversation.com/files/757802/original/file-20260903-50-yr28ng.jpg?ixlib=rb-4.1.1&amp;rect=390%2C0%2C756%2C503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-11T13:43:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ad7a07h",
-      "title": "Derrière la victoire de l’AfD, le rejet des éoliennes ?",
-      "summary": "L’ESSENTIEL Le parti d’extrême droite Alternative für Deutschland, arrivé en tête des élections en Saxe-Anhalt, a développé depuis plusieurs années une rhétorique anti-éolienne. L’AfD se donne pour objectif de stopper l’installation d’éoliennes, alors que l’Allemagne est en pleine accélération de sa transition énergéti",
-      "link": "https://theconversation.com/derriere-la-victoire-de-lafd-le-rejet-des-eoliennes-291806",
-      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-11T13:40:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajkhln0",
-      "title": "Dans l’est de l’Angola, la guerre a bouleversé des siècles de gestion du feu",
-      "summary": "L’ESSENTIEL Dans l’est de l’Angola, les feux ont diminué de 36 % pendant la guerre civile, contrairement à ce qui est observé dans la plupart des conflits. La guerre a bouleversé les pratiques traditionnelles de brûlage et leur transmission entre générations. Les politiques de gestion doivent reconnaître le feu comme u",
-      "link": "https://theconversation.com/dans-lest-de-langola-la-guerre-a-bouleverse-des-siecles-de-gestion-du-feu-291791",
-      "image": "https://images.theconversation.com/files/742970/original/file-20260619-63-synxu7.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-11T10:24:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -527,7 +528,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "apwgch0",
+      "title": "Rendre les forêts des Landes moins vulnérables aux incendies : comment faire ?",
+      "summary": "Avec près de 800 000 hectares, le massif des Landes de Gascogne constitue la plus grande forêt de plantation d’Europe. Fourni par l'auteur L’ESSENTIEL Les monocultures de pin maritime sont très vulnérables aux incendies. Diversifier les espèces, la structure et l’âge des peuplements pourrait notamment rendre les forêts",
+      "link": "https://theconversation.com/rendre-les-forets-des-landes-moins-vulnerables-aux-incendies-comment-faire-291207",
+      "image": "https://images.theconversation.com/files/757802/original/file-20260903-50-yr28ng.jpg?ixlib=rb-4.1.1&amp;rect=390%2C0%2C756%2C503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-11T13:43:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 29,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ad7a07h",
+      "title": "Derrière la victoire de l’AfD, le rejet des éoliennes ?",
+      "summary": "L’ESSENTIEL Le parti d’extrême droite Alternative für Deutschland, arrivé en tête des élections en Saxe-Anhalt, a développé depuis plusieurs années une rhétorique anti-éolienne. L’AfD se donne pour objectif de stopper l’installation d’éoliennes, alors que l’Allemagne est en pleine accélération de sa transition énergéti",
+      "link": "https://theconversation.com/derriere-la-victoire-de-lafd-le-rejet-des-eoliennes-291806",
+      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-11T13:40:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -545,7 +578,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -563,25 +596,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
-      "id": "aipp6si",
-      "title": "L’interdiction de quitter le territoire : le nouvel outil de la Chine dans la compétition internationale ?",
-      "summary": "L’ESSENTIEL La République populaire renforce son contrôle des sorties du territoire, aussi bien pour ses citoyens que pour certains étrangers, notamment issus de la diaspora chinoise. Ces restrictions visent à limiter les risques de fuite de compétences dans les secteurs stratégiques. Pékin cherche ainsi à préserver se",
-      "link": "https://theconversation.com/linterdiction-de-quitter-le-territoire-le-nouvel-outil-de-la-chine-dans-la-competition-internationale-290461",
-      "image": "https://counter.theconversation.com/content/290461/count.gif",
-      "publishedAt": "2026-09-09T14:12:53.000Z",
+      "id": "ajkhln0",
+      "title": "Dans l’est de l’Angola, la guerre a bouleversé des siècles de gestion du feu",
+      "summary": "L’ESSENTIEL Dans l’est de l’Angola, les feux ont diminué de 36 % pendant la guerre civile, contrairement à ce qui est observé dans la plupart des conflits. La guerre a bouleversé les pratiques traditionnelles de brûlage et leur transmission entre générations. Les politiques de gestion doivent reconnaître le feu comme u",
+      "link": "https://theconversation.com/dans-lest-de-langola-la-guerre-a-bouleverse-des-siecles-de-gestion-du-feu-291791",
+      "image": "https://images.theconversation.com/files/742970/original/file-20260619-63-synxu7.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-11T10:24:55.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
-      "keywords": [
-        "compétence"
-      ],
-      "relevance": 56,
+      "keywords": [],
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -599,7 +630,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -617,7 +648,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -635,7 +666,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -651,7 +682,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -667,7 +698,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -685,39 +716,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "afyys1x",
-      "title": "La justice sud-africaine bloque un projet de Shell : une victoire pour la justice climatique",
-      "summary": "L’ESSENTIEL La Cour constitutionnelle sud-africaine vient d’annuler un projet d’exploration pétrolière de Shell, estimant que les autorités n’avaient pas suffisamment consulté les communautés locales ni pris en compte les enjeux environnementaux et climatiques. L’arrêt consacre une conception large de la justice climat",
-      "link": "https://theconversation.com/la-justice-sud-africaine-bloque-un-projet-de-shell-une-victoire-pour-la-justice-climatique-291202",
-      "image": "https://counter.theconversation.com/content/291202/count.gif",
-      "publishedAt": "2026-09-09T14:12:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 17,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atr8gfv",
-      "title": "Risques liés au plomb : À Abidjan, une approche participative pour sensibiliser les familles et mieux protéger les enfants",
-      "summary": "L’ESSENTIEL Les peintures au plomb sont dangereuses, en particulier pour les jeunes enfants. De telles peintures sont encore commercialisées en Côte d’Ivoire, où les dangers du plomb sont mal connus par la population. Une intervention pilote pour sensibiliser les femmes enceintes et les mères de très jeunes enfants s’e",
-      "link": "https://theconversation.com/risques-lies-au-plomb-a-abidjan-une-approche-participative-pour-sensibiliser-les-familles-et-mieux-proteger-les-enfants-261237",
-      "image": "https://images.theconversation.com/files/757574/original/file-20260902-60-spt15r.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-09T14:12:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 20,
       "urgencyLevel": "basse"
     }
   ]
