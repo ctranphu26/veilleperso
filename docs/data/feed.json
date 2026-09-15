@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T16:18:47.870Z",
+  "generatedAt": "2026-09-15T20:53:03.913Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 87,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -204,7 +204,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -240,7 +240,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -256,7 +256,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -272,7 +272,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -288,7 +288,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -304,7 +304,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -322,7 +322,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aum865j",
+      "title": "1% des personnels interrogés sont en accord avec les réformes menées depuis 2017 (UNSA)",
+      "summary": "« Personne ne pourra dire qu’il ne savait pas » prévient Morgane Verviers, la secrétaire générale de l’UNSA éducation. Avec 43 000 réponses, le baromètre 2026 de l’UNSA Éducation dresse L’article 1% des personnels interrogés sont en accord avec les réformes menées depuis 2017 (UNSA) est apparu en premier sur Le Café pé",
+      "link": "https://www.cafepedagogique.net/2026/09/15/1-des-personnels-interroges-sont-en-accord-avec-les-reformes-menees-depuis-2017-unsa/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/UNSA-education-300x185.jpeg",
+      "publishedAt": "2026-09-15T04:00:06.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -340,23 +356,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aum865j",
-      "title": "1% des personnels interrogés sont en accord avec les réformes menées depuis 2017 (UNSA)",
-      "summary": "« Personne ne pourra dire qu’il ne savait pas » prévient Morgane Verviers, la secrétaire générale de l’UNSA éducation. Avec 43 000 réponses, le baromètre 2026 de l’UNSA Éducation dresse L’article 1% des personnels interrogés sont en accord avec les réformes menées depuis 2017 (UNSA) est apparu en premier sur Le Café pé",
-      "link": "https://www.cafepedagogique.net/2026/09/15/1-des-personnels-interroges-sont-en-accord-avec-les-reformes-menees-depuis-2017-unsa/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/UNSA-education-300x185.jpeg",
-      "publishedAt": "2026-09-15T04:00:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -374,7 +374,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -392,8 +392,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3oq1vb",
@@ -410,25 +410,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5cgtab",
-      "title": "Marie Couty et Alexandra Meredith : quand les élèves prennent le micro pour apprendre",
-      "summary": "Et si un exposé ou une activité documentaire devenait un podcast ? Avec cette webradio, les élèves changent de rôle et deviennent tour à tour présentateur, spécialiste scientifique, régisseur son… L’article Marie Couty et Alexandra Meredith : quand les élèves prennent le micro pour apprendre est apparu en premier sur L",
-      "link": "https://www.cafepedagogique.net/2026/09/15/marie-couty-et-alexandra-meredith-quand-les-eleves-prennent-le-micro-pour-apprendre/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/image-237x300.png",
-      "publishedAt": "2026-09-15T03:30:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -446,7 +428,25 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5cgtab",
+      "title": "Marie Couty et Alexandra Meredith : quand les élèves prennent le micro pour apprendre",
+      "summary": "Et si un exposé ou une activité documentaire devenait un podcast ? Avec cette webradio, les élèves changent de rôle et deviennent tour à tour présentateur, spécialiste scientifique, régisseur son… L’article Marie Couty et Alexandra Meredith : quand les élèves prennent le micro pour apprendre est apparu en premier sur L",
+      "link": "https://www.cafepedagogique.net/2026/09/15/marie-couty-et-alexandra-meredith-quand-les-eleves-prennent-le-micro-pour-apprendre/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/image-237x300.png",
+      "publishedAt": "2026-09-15T03:30:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,39 +464,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avb3hgy",
-      "title": "SVT : l’indispensable ouvrage « Avant les fleurs »",
-      "summary": "Les amateurs de botanique seront ravis. L’enquête scientifique aux origines des plantes de Louise Joor et de Yoan Coudert s’avère passionnante. L’ouvrage publié en juin 2026 aux éditions du CNRS L’article SVT : l’indispensable ouvrage « Avant les fleurs » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/15/svt-lindispensable-ouvrage-avant-les-fleurs/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/978271153364.jpg-229x300.webp",
-      "publishedAt": "2026-09-15T03:29:13.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aekyljk",
-      "title": "Au musée de l’outil, le patrimoine se transmet de main en main",
-      "summary": "Au cœur du Vexin, dans la commune de Wy-dit-Joli-Village, le musée de l’outil est un lieu singulier dédié aux arts et traditions populaires. Il abrite le savoir-faire unique de plusieurs L’article Au musée de l’outil, le patrimoine se transmet de main en main est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/15/au-musee-de-loutil-le-patrimoine-se-transmet-de-main-en-main/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/souffle-du-bois-238x300.png",
-      "publishedAt": "2026-09-15T03:28:29.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -512,7 +480,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -528,7 +496,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -544,7 +512,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avb3hgy",
+      "title": "SVT : l’indispensable ouvrage « Avant les fleurs »",
+      "summary": "Les amateurs de botanique seront ravis. L’enquête scientifique aux origines des plantes de Louise Joor et de Yoan Coudert s’avère passionnante. L’ouvrage publié en juin 2026 aux éditions du CNRS L’article SVT : l’indispensable ouvrage « Avant les fleurs » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/15/svt-lindispensable-ouvrage-avant-les-fleurs/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/978271153364.jpg-229x300.webp",
+      "publishedAt": "2026-09-15T03:29:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aekyljk",
+      "title": "Au musée de l’outil, le patrimoine se transmet de main en main",
+      "summary": "Au cœur du Vexin, dans la commune de Wy-dit-Joli-Village, le musée de l’outil est un lieu singulier dédié aux arts et traditions populaires. Il abrite le savoir-faire unique de plusieurs L’article Au musée de l’outil, le patrimoine se transmet de main en main est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/15/au-musee-de-loutil-le-patrimoine-se-transmet-de-main-en-main/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/souffle-du-bois-238x300.png",
+      "publishedAt": "2026-09-15T03:28:29.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -562,7 +562,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -582,7 +582,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -619,7 +619,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -637,7 +637,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -653,7 +653,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -669,7 +669,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -685,7 +685,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -720,7 +720,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     }
   ]
