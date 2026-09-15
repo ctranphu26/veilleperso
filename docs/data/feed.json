@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:07:29.962Z",
+  "generatedAt": "2026-09-15T16:18:47.870Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,58 @@
   "count": 35,
   "items": [
     {
+      "id": "a6umhpz",
+      "title": "Alors que le coût de l’information progresse, il est de plus en plus difficile d’en déterminer le juste prix",
+      "summary": "L’ESSENTIEL Le coût de l’information est loin d’être négligeable. Or, pour de nombreux médias, il est difficile de bien monétiser leur production. L’irruption des usages de l’intelligence artificielle et la fragmentation des audiences rendent le contexte des producteurs d’information encore plus incertain. Au-delà de l",
+      "link": "https://theconversation.com/alors-que-le-cout-de-linformation-progresse-il-est-de-plus-en-plus-difficile-den-determiner-le-juste-prix-291388",
+      "image": "https://counter.theconversation.com/content/291388/count.gif",
+      "publishedAt": "2026-09-15T15:43:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avjcvoz",
+      "title": "À l’heure de l’IA générative, que signifie encore apprendre une langue ?",
+      "summary": "Ces deux jeunes touristes utilisent une application de traduction sur leur téléphone pour communiquer avec la population pendant leur voyage. Billow 926/Unsplash, CC BY L’ESSENTIEL Face aux progrès de l’intelligence artificielle générative, pourquoi apprendre une langue étrangère ? Communiquer, c’est produire des phras",
+      "link": "https://theconversation.com/a-lheure-de-lia-generative-que-signifie-encore-apprendre-une-langue-288545",
+      "image": "https://images.theconversation.com/files/752804/original/file-20260807-50-eatcxi.jpg?ixlib=rb-4.1.1&amp;rect=498%2C428%2C2718%2C1812&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-15T15:45:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a4nva6m",
+      "title": "Beaucoup d’appelés, peu d’élus : quand le Hellfest instaure un rite d’attente numérique",
+      "summary": "Au Hellfest, à Clisson en Loire-Atlantique, édition 2026. Corentin Charbonnier, Fourni par l'auteur L’ESSENTIEL Mis en vente au début de l’été, les passes donnant accès à l’édition 2027 du célèbre festival de musiques extrêmes, qui se tiendra en juin prochain, ont été vendus en moins d’une heure. Le parcours numérique ",
+      "link": "https://theconversation.com/beaucoup-dappeles-peu-delus-quand-le-hellfest-instaure-un-rite-dattente-numerique-288553",
+      "image": "https://images.theconversation.com/files/751255/original/file-20260730-60-f33tgj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5757%2C3838&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-15T15:43:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a6sp5oo",
       "title": "« Le ministère a diminué de 40 millions d’euros le plan d’urgence destiné à l’adaptation climatique des écoles »",
       "summary": "Pourquoi le syndicat SUD Éducation appelle-t-il à manifester partout en France le 26 septembre ? Dans un communiqué diffusé ce lundi 14 septembre, le syndicat alerte sur la multiplication des L’article « Le ministère a diminué de 40 millions d’euros le plan d’urgence destiné à l’adaptation climatique des écoles » est a",
@@ -133,7 +185,126 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 92,
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1x6yzi",
+      "title": "Xenia Fedorova, ou comment la propagande russe retourne notre esprit critique contre nous-mêmes",
+      "summary": "L’ESSENTIEL En juillet 2026, l’ex-patronne russe de la chaîne RT France et chroniqueuse des médias du groupe Bolloré, Xenia Fedorova, a été visée par un arrêté d’expulsion du territoire français. Accusée de colporter la propagande du Kremlin, elle contre-attaque en se présentant comme la victime d’une « pensée unique »",
+      "link": "https://theconversation.com/xenia-fedorova-ou-comment-la-propagande-russe-retourne-notre-esprit-critique-contre-nous-memes-291061",
+      "image": "https://counter.theconversation.com/content/291061/count.gif",
+      "publishedAt": "2026-09-15T15:45:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "esprit critique",
+        "propagande"
+      ],
+      "relevance": 90,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aumxdrj",
+      "title": "Feux de forêt : derrière les flammes et les fumées, des inégalités sociales de santé invisibles que la France ne mesure pas",
+      "summary": "L’ESSENTIEL Les fumées de feux de forêt produisent des effets majeurs sur la santé des populations. Des données internationales montrent que les groupes sociaux les plus vulnérables sont particulièrement concernés. En Californie, on parle d’« injustice environnementale face aux feux ». Des travaux sont en cours pour do",
+      "link": "https://theconversation.com/feux-de-foret-derriere-les-flammes-et-les-fumees-des-inegalites-sociales-de-sante-invisibles-que-la-france-ne-mesure-pas-289670",
+      "image": "https://counter.theconversation.com/content/289670/count.gif",
+      "publishedAt": "2026-09-15T15:31:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "égalité"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akscbjd",
+      "title": "How war and sanctions are reshaping how Russia governs its vast territory",
+      "summary": "As the world’s largest country that spans eleven time zones and shares land borders with fourteen countries, Russia’s geography has always posed a difficult problem for government: how to maintain economic activity, infrastructure and basic services across an enormous territory with a highly uneven population. More tha",
+      "link": "https://theconversation.com/how-war-and-sanctions-are-reshaping-how-russia-governs-its-vast-territory-290987",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-15T15:33:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "alxiowb",
+      "title": "La percée des houthistes au Yémen met les BRICS face à leurs divisions",
+      "summary": "L’ESSENTIEL Le sommet annuel des BRICS s’est tenu les 12 et 13 septembre 2026, à New Delhi, au moment même où, au Yémen, les houthistes s’emparaient du littoral de la mer Rouge et donc du stratégique détroit de Bal el-Mandeb. Le bloc, qui compte désormais 21 membres, est traversé par de nombreuses fractures, notamment ",
+      "link": "https://theconversation.com/la-percee-des-houthistes-au-yemen-met-les-brics-face-a-leurs-divisions-291934",
+      "image": "https://images.theconversation.com/files/759589/original/file-20260914-50-5otbt4.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-15T15:46:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahbkl0q",
+      "title": "Moody’s, S&P, Fitch : pourquoi l’oligopole résiste malgré trente ans de critiques ?",
+      "summary": "L’ESSENTIEL Depuis leur création, Moody’s (1909), Fitch (1913) et Standard and Poor’s (1941) dominent le marché des notations financières. En 2025, en dépit des tentatives pour réduire leur domination, les « Big Three » représentent encore 91,87 % du marché européen. Agence de notation africaine ou nouveaux indicateurs",
+      "link": "https://theconversation.com/moodys-sandp-fitch-pourquoi-loligopole-resiste-malgre-trente-ans-de-critiques-285726",
+      "image": "https://counter.theconversation.com/content/285726/count.gif",
+      "publishedAt": "2026-09-15T15:44:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avf6316",
+      "title": "Alliance ou rupture avec Mélenchon : l’équation insoluble de la gauche",
+      "summary": "L’ESSENTIEL La gauche a besoin des électeurs insoumis pour se qualifier au second tour de la présidentielle. En même temps, Jean-Luc Mélenchon serait le plus mal placé pour affronter Marine Le Pen en cas de duel, selon les sondages. La question des alliances semble donc insoluble : le partenaire indispensable à la qual",
+      "link": "https://theconversation.com/alliance-ou-rupture-avec-melenchon-lequation-insoluble-de-la-gauche-291854",
+      "image": "https://counter.theconversation.com/content/291854/count.gif",
+      "publishedAt": "2026-09-15T15:40:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a4o97sk",
+      "title": "Apocalypse quantique : la fin de la cybersécurité pour demain ?",
+      "summary": "L’ESSENTIEL Une grande partie de la cryptographie moderne repose sur l’existence de problèmes mathématiques difficiles à résoudre. Ces problèmes sont conçus de telle sorte que le calcul qui permettrait de les résoudre n’est pas possible en pratique, soit parce qu’il prendrait des milliards d’années, soit parce qu’il né",
+      "link": "https://theconversation.com/apocalypse-quantique-la-fin-de-la-cybersecurite-pour-demain-286607",
+      "image": "https://counter.theconversation.com/content/286607/count.gif",
+      "publishedAt": "2026-09-15T15:32:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +322,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +340,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +356,25 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avhoeyy",
+      "title": "Dissection chronique de l’aorte : mieux prédire le risque d’anévrysme grâce à un jumeau numérique",
+      "summary": "L’ESSENTIEL La dissection aortique est une affection cardiovasculaire particulièrement grave, entraînant un taux de mortalité élevé. Sa forme chronique évolue souvent vers un anévrysme de l’aorte qui risque d’entraîner sa rupture. Un nouveau projet de recherche ambitionne de créer, pour chaque patient, un « jumeau numé",
+      "link": "https://theconversation.com/dissection-chronique-de-laorte-mieux-predire-le-risque-danevrysme-grace-a-un-jumeau-numerique-291788",
+      "image": "https://counter.theconversation.com/content/291788/count.gif",
+      "publishedAt": "2026-09-15T11:04:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -203,7 +392,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -221,8 +410,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5cgtab",
@@ -239,8 +428,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aa1nk28",
@@ -257,8 +446,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a82w6ow",
@@ -275,8 +464,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avb3hgy",
@@ -291,8 +480,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aekyljk",
@@ -307,8 +496,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a94nnjp",
@@ -323,8 +512,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8wekue",
@@ -339,8 +528,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aybf4up",
@@ -355,7 +544,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -373,73 +562,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5as6lj",
-      "title": "Rassemblement national/Reform UK : mêmes combats ?",
-      "summary": "L’ESSENTIEL Présent lors du dernier congrès de Reform UK, parti donné gagnant aux prochaines législatives au Royaume-Uni, le président du RN Jordan Bardella a souligné les nombreux points d’accord entre les deux formations. Toutes deux dénoncent une immigration assimilée à une invasion, se posent en protectrices de la ",
-      "link": "https://theconversation.com/rassemblement-national-reform-uk-memes-combats-291386",
-      "image": "https://images.theconversation.com/files/759212/original/file-20260910-50-ck7z5j.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-14T14:32:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atd95m",
-      "title": "Europe can’t achieve space sovereignty alone. Here’s why",
-      "summary": "“Europe’s space effort is split across too many national programmes” was the blunt diagnosis Andrius Kubilius, the EU Commissioner for Defence and Space made at the recent International Space Summit in Paris. Sovereignty was the word on everyone’s lips over the two-day event. But look past the rhetoric at what the summ",
-      "link": "https://theconversation.com/europe-cant-achieve-space-sovereignty-alone-heres-why-291786",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-14T14:34:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6fst38",
-      "title": "Les oubliés du soin d’urgence : quand le déni de reconnaissance met le secteur ambulancier en danger",
-      "summary": "L’ESSENTIEL Incendies de l’été 2026, Covid-19… le personnel ambulancier joue un rôle clé dans le soin et les situations d’urgence. Mais ce secteur ne fait jamais la une des médias et pâtit d’un manque de reconnaissance. Le flou de son statut fait courir des risques sur le terrain à cette profession de plus en plus fémi",
-      "link": "https://theconversation.com/les-oublies-du-soin-durgence-quand-le-deni-de-reconnaissance-met-le-secteur-ambulancier-en-danger-289567",
-      "image": "https://counter.theconversation.com/content/289567/count.gif",
-      "publishedAt": "2026-09-14T14:33:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3faxa3",
-      "title": "États-Unis : tout comprendre aux midterms",
-      "summary": "L’ESSENTIEL Le 3 novembre prochain, soit deux ans après la seconde élection de Donald Trump, auront lieu les midterms, les élections de mi-mandat aux États-Unis. La totalité des 435 sièges de la Chambre des représentants et 35 des 100 sièges du Sénat seront renouvelés à cette occasion. Pour l’heure, les républicains di",
-      "link": "https://theconversation.com/etats-unis-tout-comprendre-aux-midterms-284686",
-      "image": "https://counter.theconversation.com/content/284686/count.gif",
-      "publishedAt": "2026-09-14T14:27:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +582,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -477,7 +600,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +619,73 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5as6lj",
+      "title": "Rassemblement national/Reform UK : mêmes combats ?",
+      "summary": "L’ESSENTIEL Présent lors du dernier congrès de Reform UK, parti donné gagnant aux prochaines législatives au Royaume-Uni, le président du RN Jordan Bardella a souligné les nombreux points d’accord entre les deux formations. Toutes deux dénoncent une immigration assimilée à une invasion, se posent en protectrices de la ",
+      "link": "https://theconversation.com/rassemblement-national-reform-uk-memes-combats-291386",
+      "image": "https://images.theconversation.com/files/759212/original/file-20260910-50-ck7z5j.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-14T14:32:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atd95m",
+      "title": "Europe can’t achieve space sovereignty alone. Here’s why",
+      "summary": "“Europe’s space effort is split across too many national programmes” was the blunt diagnosis Andrius Kubilius, the EU Commissioner for Defence and Space made at the recent International Space Summit in Paris. Sovereignty was the word on everyone’s lips over the two-day event. But look past the rhetoric at what the summ",
+      "link": "https://theconversation.com/europe-cant-achieve-space-sovereignty-alone-heres-why-291786",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-14T14:34:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6fst38",
+      "title": "Les oubliés du soin d’urgence : quand le déni de reconnaissance met le secteur ambulancier en danger",
+      "summary": "L’ESSENTIEL Incendies de l’été 2026, Covid-19… le personnel ambulancier joue un rôle clé dans le soin et les situations d’urgence. Mais ce secteur ne fait jamais la une des médias et pâtit d’un manque de reconnaissance. Le flou de son statut fait courir des risques sur le terrain à cette profession de plus en plus fémi",
+      "link": "https://theconversation.com/les-oublies-du-soin-durgence-quand-le-deni-de-reconnaissance-met-le-secteur-ambulancier-en-danger-289567",
+      "image": "https://counter.theconversation.com/content/289567/count.gif",
+      "publishedAt": "2026-09-14T14:33:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3faxa3",
+      "title": "États-Unis : tout comprendre aux midterms",
+      "summary": "L’ESSENTIEL Le 3 novembre prochain, soit deux ans après la seconde élection de Donald Trump, auront lieu les midterms, les élections de mi-mandat aux États-Unis. La totalité des 435 sièges de la Chambre des représentants et 35 des 100 sièges du Sénat seront renouvelés à cette occasion. Pour l’heure, les républicains di",
+      "link": "https://theconversation.com/etats-unis-tout-comprendre-aux-midterms-284686",
+      "image": "https://counter.theconversation.com/content/284686/count.gif",
+      "publishedAt": "2026-09-14T14:27:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -515,7 +704,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -531,191 +720,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2wf8nn",
-      "title": "À quoi sert la Banque de France ?",
-      "summary": "L’ESSENTIEL Créée le 18 janvier 1800 par Napoléon Bonaparte, la Banque de France a pour rôle la stabilité monétaire, macroéconomique, bancaire et financière. Avec la création de l’euro, la Banque de France rejoint l’Eurosystème et siège au Conseil des gouverneurs de la Banque centrale européenne. La nomination d’Emmanu",
-      "link": "https://theconversation.com/a-quoi-sert-la-banque-de-france-279391",
-      "image": "https://counter.theconversation.com/content/279391/count.gif",
-      "publishedAt": "2026-09-13T17:56:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayy2fem",
-      "title": "« Pourquoi n’as-tu rien dit ? » : Ce que la recherche nous apprend sur le silence des victimes de violences sexuelles dans l’enfance",
-      "summary": "L’ESSENTIEL Les victimes de violences sexuelles dans l’enfance peuvent mettre de longues années avant de dévoiler ce qu’elles ont vécu, ce qui retarde leur prise en charge et constitue un enjeu de santé publique majeur. Les mécanismes qui empêchent les victimes de s’exprimer sont particulièrement puissants dans les sit",
-      "link": "https://theconversation.com/pourquoi-nas-tu-rien-dit-ce-que-la-recherche-nous-apprend-sur-le-silence-des-victimes-de-violences-sexuelles-dans-lenfance-286995",
-      "image": "https://counter.theconversation.com/content/286995/count.gif",
-      "publishedAt": "2026-09-13T09:53:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ardr9xu",
-      "title": "États-Unis et Europe : deux conceptions irréconciliables de la liberté d’expression ?",
-      "summary": "L’ESSENTIEL Selon l’administration Trump, l’Europe serait devenue un espace de censure et une « menace civilisationnelle » pour la liberté d’expression. Les pressions exercées aux États-Unis sur des journalistes, des universitaires ou des manifestants rendent ce diagnostic quelque peu ironique, voire pure bullshit selo",
-      "link": "https://theconversation.com/etats-unis-et-europe-deux-conceptions-irreconciliables-de-la-liberte-dexpression-282647",
-      "image": "https://counter.theconversation.com/content/282647/count.gif",
-      "publishedAt": "2026-09-13T09:53:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "azfc63o",
-      "title": "Le D-Day économique au Moyen-Orient : gagnants et perdants",
-      "summary": "L’ESSENTIEL Depuis 1979, les sanctions américaines contre l’Iran sont passées de restrictions commerciales à un dispositif financier mondial. Avec l’opération Epic Fury, Washington franchit un nouveau cap : sanctions directes, sanctions secondaires et pression sur le pétrole, le transport maritime, la finance et les ré",
-      "link": "https://theconversation.com/le-d-day-economique-au-moyen-orient-gagnants-et-perdants-290600",
-      "image": "https://counter.theconversation.com/content/290600/count.gif",
-      "publishedAt": "2026-09-13T09:52:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aahg7iy",
-      "title": "Coopération, confiance en soi, curiosité… Ce que PISA nous apprend des compétences sociales et émotionnelles des élèves",
-      "summary": "L’ESSENTIEL Si les résultats de la dernière enquête PISA inquiètent, il faut les interpréter avec prudence. Les évolutions de certains pays dans le temps montrent que des réformes éducatives ouvrent des marges de progression. Alors qu’on valorise beaucoup l’acquisition de connaissances, PISA interroge aussi le bien-êtr",
-      "link": "https://theconversation.com/cooperation-confiance-en-soi-curiosite-ce-que-pisa-nous-apprend-des-competences-sociales-et-emotionnelles-des-eleves-291692",
-      "image": "https://counter.theconversation.com/content/291692/count.gif",
-      "publishedAt": "2026-09-12T08:47:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "compétence"
-      ],
-      "relevance": 87,
-      "relevanceLevel": "haute",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aub95tz",
-      "title": "Crimes sous l’eau : les robots, une nouvelle compétence pour les enquêteurs subaquatiques",
-      "summary": "Le ROV Victor 300 utilisé lors de l’expérimentation de Saint-Cassien. Gendarmerie nationale, Fourni par l'auteur L’ESSENTIEL Les techniciens en investigations subaquatiques interviennent sur des scènes de crime sous-marines. Les engins téléopérés (ROV), dont l’autonomie sous l’eau est cinq à dix fois supérieure à celle",
-      "link": "https://theconversation.com/crimes-sous-leau-les-robots-une-nouvelle-competence-pour-les-enqueteurs-subaquatiques-286604",
-      "image": "https://images.theconversation.com/files/752285/original/file-20260805-50-re6w2f.png?ixlib=rb-4.1.1&amp;rect=1%2C0%2C1534%2C1022&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-12T13:56:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "compétence"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "afv3rsb",
-      "title": "PISA 2025 rankings: are we asking the right questions about schooling?",
-      "summary": "KEY TAKEAWAYS In France, as in other OECD countries, student performance has seen a steep decline in mathematics and reading. The latest Programme for International Student Assessment (PISA) shows that this decline affects disadvantaged and advantaged students alike. International comparisons are more useful for questi",
-      "link": "https://theconversation.com/pisa-2025-rankings-are-we-asking-the-right-questions-about-schooling-291712",
-      "image": "https://counter.theconversation.com/content/291712/count.gif",
-      "publishedAt": "2026-09-12T13:54:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ao73e69",
-      "title": "Apple vs Union européenne : quand le DMA fracture une tribu de 1,5 milliard de personnes",
-      "summary": "Les utilisateurs des applis 100 % Apple pourront-ils continuer à communier ensemble simultanément ? Copie d'écran d'un membre Apple Fitness+ fourni par l'auteur L’ESSENTIEL Avant le lancement d’un nouvel iPhone pliant, Apple a dévoilé en juin dernier une nouvelle version de SIRI renforcé à l’IA. Les consommateurs franç",
-      "link": "https://theconversation.com/apple-vs-union-europeenne-quand-le-dma-fracture-une-tribu-de-1-5-milliard-de-personnes-288825",
-      "image": "https://images.theconversation.com/files/752885/original/file-20260808-50-72m87a.jpeg?ixlib=rb-4.1.1&amp;rect=36%2C0%2C1970%2C1313&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-12T08:46:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apwgch0",
-      "title": "Rendre les forêts des Landes moins vulnérables aux incendies : comment faire ?",
-      "summary": "Avec près de 800 000 hectares, le massif des Landes de Gascogne constitue la plus grande forêt de plantation d’Europe. Fourni par l'auteur L’ESSENTIEL Les monocultures de pin maritime sont très vulnérables aux incendies. Diversifier les espèces, la structure et l’âge des peuplements pourrait notamment rendre les forêts",
-      "link": "https://theconversation.com/rendre-les-forets-des-landes-moins-vulnerables-aux-incendies-comment-faire-291207",
-      "image": "https://images.theconversation.com/files/757802/original/file-20260903-50-yr28ng.jpg?ixlib=rb-4.1.1&amp;rect=390%2C0%2C756%2C503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-11T13:43:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ad7a07h",
-      "title": "Derrière la victoire de l’AfD, le rejet des éoliennes ?",
-      "summary": "L’ESSENTIEL Le parti d’extrême droite Alternative für Deutschland, arrivé en tête des élections en Saxe-Anhalt, a développé depuis plusieurs années une rhétorique anti-éolienne. L’AfD se donne pour objectif de stopper l’installation d’éoliennes, alors que l’Allemagne est en pleine accélération de sa transition énergéti",
-      "link": "https://theconversation.com/derriere-la-victoire-de-lafd-le-rejet-des-eoliennes-291806",
-      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-11T13:40:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajkhln0",
-      "title": "Dans l’est de l’Angola, la guerre a bouleversé des siècles de gestion du feu",
-      "summary": "L’ESSENTIEL Dans l’est de l’Angola, les feux ont diminué de 36 % pendant la guerre civile, contrairement à ce qui est observé dans la plupart des conflits. La guerre a bouleversé les pratiques traditionnelles de brûlage et leur transmission entre générations. Les politiques de gestion doivent reconnaître le feu comme u",
-      "link": "https://theconversation.com/dans-lest-de-langola-la-guerre-a-bouleverse-des-siecles-de-gestion-du-feu-291791",
-      "image": "https://images.theconversation.com/files/742970/original/file-20260619-63-synxu7.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-11T10:24:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
     }
   ]
 }
