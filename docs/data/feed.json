@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T20:53:03.913Z",
+  "generatedAt": "2026-09-16T03:26:52.149Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 84,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -204,26 +204,8 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aumxdrj",
-      "title": "Feux de forêt : derrière les flammes et les fumées, des inégalités sociales de santé invisibles que la France ne mesure pas",
-      "summary": "L’ESSENTIEL Les fumées de feux de forêt produisent des effets majeurs sur la santé des populations. Des données internationales montrent que les groupes sociaux les plus vulnérables sont particulièrement concernés. En Californie, on parle d’« injustice environnementale face aux feux ». Des travaux sont en cours pour do",
-      "link": "https://theconversation.com/feux-de-foret-derriere-les-flammes-et-les-fumees-des-inegalites-sociales-de-sante-invisibles-que-la-france-ne-mesure-pas-289670",
-      "image": "https://counter.theconversation.com/content/289670/count.gif",
-      "publishedAt": "2026-09-15T15:31:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akscbjd",
@@ -240,8 +222,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alxiowb",
@@ -256,8 +238,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahbkl0q",
@@ -272,8 +254,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avf6316",
@@ -288,24 +270,26 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
-      "id": "a4o97sk",
-      "title": "Apocalypse quantique : la fin de la cybersécurité pour demain ?",
-      "summary": "L’ESSENTIEL Une grande partie de la cryptographie moderne repose sur l’existence de problèmes mathématiques difficiles à résoudre. Ces problèmes sont conçus de telle sorte que le calcul qui permettrait de les résoudre n’est pas possible en pratique, soit parce qu’il prendrait des milliards d’années, soit parce qu’il né",
-      "link": "https://theconversation.com/apocalypse-quantique-la-fin-de-la-cybersecurite-pour-demain-286607",
-      "image": "https://counter.theconversation.com/content/286607/count.gif",
-      "publishedAt": "2026-09-15T15:32:07.000Z",
+      "id": "aumxdrj",
+      "title": "Feux de forêt : derrière les flammes et les fumées, des inégalités sociales de santé invisibles que la France ne mesure pas",
+      "summary": "L’ESSENTIEL Les fumées de feux de forêt produisent des effets majeurs sur la santé des populations. Des données internationales montrent que les groupes sociaux les plus vulnérables sont particulièrement concernés. En Californie, on parle d’« injustice environnementale face aux feux ». Des travaux sont en cours pour do",
+      "link": "https://theconversation.com/feux-de-foret-derriere-les-flammes-et-les-fumees-des-inegalites-sociales-de-sante-invisibles-que-la-france-ne-mesure-pas-289670",
+      "image": "https://counter.theconversation.com/content/289670/count.gif",
+      "publishedAt": "2026-09-15T15:31:46.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "themeId": "inclusion",
+      "keywords": [
+        "égalité"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar1h0e4",
@@ -322,24 +306,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aum865j",
-      "title": "1% des personnels interrogés sont en accord avec les réformes menées depuis 2017 (UNSA)",
-      "summary": "« Personne ne pourra dire qu’il ne savait pas » prévient Morgane Verviers, la secrétaire générale de l’UNSA éducation. Avec 43 000 réponses, le baromètre 2026 de l’UNSA Éducation dresse L’article 1% des personnels interrogés sont en accord avec les réformes menées depuis 2017 (UNSA) est apparu en premier sur Le Café pé",
-      "link": "https://www.cafepedagogique.net/2026/09/15/1-des-personnels-interroges-sont-en-accord-avec-les-reformes-menees-depuis-2017-unsa/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/UNSA-education-300x185.jpeg",
-      "publishedAt": "2026-09-15T04:00:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2rshr1",
@@ -356,8 +324,40 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4o97sk",
+      "title": "Apocalypse quantique : la fin de la cybersécurité pour demain ?",
+      "summary": "L’ESSENTIEL Une grande partie de la cryptographie moderne repose sur l’existence de problèmes mathématiques difficiles à résoudre. Ces problèmes sont conçus de telle sorte que le calcul qui permettrait de les résoudre n’est pas possible en pratique, soit parce qu’il prendrait des milliards d’années, soit parce qu’il né",
+      "link": "https://theconversation.com/apocalypse-quantique-la-fin-de-la-cybersecurite-pour-demain-286607",
+      "image": "https://counter.theconversation.com/content/286607/count.gif",
+      "publishedAt": "2026-09-15T15:32:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aum865j",
+      "title": "1% des personnels interrogés sont en accord avec les réformes menées depuis 2017 (UNSA)",
+      "summary": "« Personne ne pourra dire qu’il ne savait pas » prévient Morgane Verviers, la secrétaire générale de l’UNSA éducation. Avec 43 000 réponses, le baromètre 2026 de l’UNSA Éducation dresse L’article 1% des personnels interrogés sont en accord avec les réformes menées depuis 2017 (UNSA) est apparu en premier sur Le Café pé",
+      "link": "https://www.cafepedagogique.net/2026/09/15/1-des-personnels-interroges-sont-en-accord-avec-les-reformes-menees-depuis-2017-unsa/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/UNSA-education-300x185.jpeg",
+      "publishedAt": "2026-09-15T04:00:06.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avhoeyy",
@@ -374,8 +374,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atir1us",
@@ -392,7 +392,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -410,25 +410,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aa1nk28",
-      "title": "Ce que « l’autonomie des établissements » veut dire",
-      "summary": "Face aux mauvais résultats des élèves en France au Programme international pour le suivi des acquis des élèves (PISA), l’ancien directeur de cabinet de Jean-Michel Blanquer et actuel ministre de L’article Ce que « l’autonomie des établissements » veut dire est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/15/ce-que-lautonomie-des-etablissements-veut-dire/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/cafepedagogique.GabrielPerez-300x278.jpg",
-      "publishedAt": "2026-09-15T03:45:33.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -446,7 +428,25 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aa1nk28",
+      "title": "Ce que « l’autonomie des établissements » veut dire",
+      "summary": "Face aux mauvais résultats des élèves en France au Programme international pour le suivi des acquis des élèves (PISA), l’ancien directeur de cabinet de Jean-Michel Blanquer et actuel ministre de L’article Ce que « l’autonomie des établissements » veut dire est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/15/ce-que-lautonomie-des-etablissements-veut-dire/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/cafepedagogique.GabrielPerez-300x278.jpg",
+      "publishedAt": "2026-09-15T03:45:33.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +464,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +480,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +496,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -512,7 +512,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -528,7 +528,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -544,7 +544,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -562,7 +562,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -582,7 +582,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -619,7 +619,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -637,7 +637,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -653,7 +653,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -669,7 +669,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -685,7 +685,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -720,7 +720,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     }
   ]
