@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T16:11:14.639Z",
+  "generatedAt": "2026-09-16T20:53:49.802Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,38 @@
   "count": 35,
   "items": [
     {
+      "id": "aeaiqqi",
+      "title": "Les agriculteurs de demain seront-ils encore des enfants d’agriculteurs ?",
+      "summary": "L’ESSENTIEL Pendant longtemps, être agriculteur signifiait avant tout être enfant d’agriculteur. Ce n’est plus le cas aujourd’hui et l’arrivée d’investisseurs extérieurs dans le secteur suscite diverses craintes. Mais la fin de l’agriculture familiale est-elle vraiment inéluctable ? Qui nourrira la France demain ? Cett",
+      "link": "https://theconversation.com/les-agriculteurs-de-demain-seront-ils-encore-des-enfants-dagriculteurs-286767",
+      "image": "https://counter.theconversation.com/content/286767/count.gif",
+      "publishedAt": "2026-09-16T15:29:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ays0q2e",
+      "title": "Could victory for the AfD spell the end of wind farms in Germany?",
+      "summary": "KEY TAKEAWAYS The far-right party Alternative für Deutschland (AfD), which came out on top in the elections in Saxony-Anhalt, has been pushing an anti-wind farm narrative for several years. The AfD intends to stop the installation of wind turbines, at a time when Germany is rapidly accelerating its energy transition. H",
+      "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
+      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-16T16:03:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a9vmcpe",
       "title": "Comment l’écriture en miroir reflète la richesse de l’écriture manuscrite",
       "summary": "L’ESSENTIEL Avec le numérique, les claviers s’imposent au quotidien et l’écriture manuscrite se raréfie. Le geste d’écrire suppose un grand travail de motricité fine. La question de l’écriture en miroir souligne la complexité de cet apprentissage. Est-il pertinent d’apprendre à écrire à la main ? La question a connu un",
@@ -133,7 +165,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apor7th",
+      "title": "Il y a beaucoup moins de bombes atomiques qu’en 1990. Alors pourquoi le risque nucléaire augmente-t-il ?",
+      "summary": "L’ESSENTIEL Le nombre d’armes nucléaires dans le monde a chuté de façon spectaculaire depuis la fin de la guerre froide. Mais, depuis, de multiples accords de limitation des armements et de surveillance réciproque ont été annulés, et les puissances modernisent leurs arsenaux, tandis que la Chine accroît les siens. En o",
+      "link": "https://theconversation.com/il-y-a-beaucoup-moins-de-bombes-atomiques-quen-1990-alors-pourquoi-le-risque-nucleaire-augmente-t-il-291060",
+      "image": "https://counter.theconversation.com/content/291060/count.gif",
+      "publishedAt": "2026-09-16T15:31:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ay36e52",
+      "title": "Eisenkot-Nétanyahou : la bataille pour l’avenir d’Israël",
+      "summary": "L’ESSENTIEL Aux législatives israéliennes du 27 octobre prochain, chacun des deux blocs – l’opposition de gauche et du centre d’un côté, les partis pro-gouvernementaux de l’autre – espère atteindre les 61 sièges nécessaires pour gouverner. Les coalitions seront décisives : à droite comme à gauche, le scrutin dépendra d",
+      "link": "https://theconversation.com/eisenkot-netanyahou-la-bataille-pour-lavenir-disrael-291392",
+      "image": "https://counter.theconversation.com/content/291392/count.gif",
+      "publishedAt": "2026-09-16T15:30:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -197,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -213,7 +277,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -229,8 +293,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avvjukt",
@@ -245,8 +309,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "az0dr9z",
@@ -261,8 +325,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahycxz8",
@@ -279,8 +343,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ab582ae",
@@ -298,7 +362,93 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6umhpz",
+      "title": "Alors que le coût de l’information progresse, il est de plus en plus difficile d’en déterminer le juste prix",
+      "summary": "L’ESSENTIEL Le coût de l’information est loin d’être négligeable. Or, pour de nombreux médias, il est difficile de bien monétiser leur production. L’irruption des usages de l’intelligence artificielle et la fragmentation des audiences rendent le contexte des producteurs d’information encore plus incertain. Au-delà de l",
+      "link": "https://theconversation.com/alors-que-le-cout-de-linformation-progresse-il-est-de-plus-en-plus-difficile-den-determiner-le-juste-prix-291388",
+      "image": "https://counter.theconversation.com/content/291388/count.gif",
+      "publishedAt": "2026-09-15T15:43:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3rleoc",
+      "title": "Orientation à l’école : pourquoi l’échec se répète",
+      "summary": "Pourquoi l’éducation à l’orientation échoue-t-elle régulièrement à s’installer dans l’école française ? Dans L’éducation à l’orientation en France. Anatomie d’un échec récurrent (L’Harmattan, 2026), Bernard Desclaux revient sur l’histoire de cette ambition éducative L’article Orientation à l’école : pourquoi l’échec se",
+      "link": "https://www.cafepedagogique.net/2026/09/16/orientation-a-lecole-pourquoi-lechec-se-repete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/JPVeran-cafepedagogique-225x300.jpeg",
+      "publishedAt": "2026-09-16T03:45:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avjcvoz",
+      "title": "À l’heure de l’IA générative, que signifie encore apprendre une langue ?",
+      "summary": "Ces deux jeunes touristes utilisent une application de traduction sur leur téléphone pour communiquer avec la population pendant leur voyage. Billow 926/Unsplash, CC BY L’ESSENTIEL Face aux progrès de l’intelligence artificielle générative, pourquoi apprendre une langue étrangère ? Communiquer, c’est produire des phras",
+      "link": "https://theconversation.com/a-lheure-de-lia-generative-que-signifie-encore-apprendre-une-langue-288545",
+      "image": "https://images.theconversation.com/files/752804/original/file-20260807-50-eatcxi.jpg?ixlib=rb-4.1.1&amp;rect=498%2C428%2C2718%2C1812&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-15T15:45:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4nva6m",
+      "title": "Beaucoup d’appelés, peu d’élus : quand le Hellfest instaure un rite d’attente numérique",
+      "summary": "Au Hellfest, à Clisson en Loire-Atlantique, édition 2026. Corentin Charbonnier, Fourni par l'auteur L’ESSENTIEL Mis en vente au début de l’été, les passes donnant accès à l’édition 2027 du célèbre festival de musiques extrêmes, qui se tiendra en juin prochain, ont été vendus en moins d’une heure. Le parcours numérique ",
+      "link": "https://theconversation.com/beaucoup-dappeles-peu-delus-quand-le-hellfest-instaure-un-rite-dattente-numerique-288553",
+      "image": "https://images.theconversation.com/files/751255/original/file-20260730-60-f33tgj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5757%2C3838&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-15T15:43:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aq8drmu",
+      "title": "PISA : l’étrange exception française des sciences",
+      "summary": "« Pourquoi les multiples raisons invoquées pour expliquer les fortes baisses en mathématiques et en compréhension de lecture n’agiraient que très peu dans le secteur des sciences ? » s’interroge l’historien de l’éducation L’article PISA : l’étrange exception française des sciences est apparu en premier sur Le Café péda",
+      "link": "https://www.cafepedagogique.net/2026/09/16/pisa-letrange-exception-francaise-des-sciences/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Claude-Lelievre-cafe-pedagogique-300x300.jpg",
+      "publishedAt": "2026-09-16T03:50:58.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -318,25 +468,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3rleoc",
-      "title": "Orientation à l’école : pourquoi l’échec se répète",
-      "summary": "Pourquoi l’éducation à l’orientation échoue-t-elle régulièrement à s’installer dans l’école française ? Dans L’éducation à l’orientation en France. Anatomie d’un échec récurrent (L’Harmattan, 2026), Bernard Desclaux revient sur l’histoire de cette ambition éducative L’article Orientation à l’école : pourquoi l’échec se",
-      "link": "https://www.cafepedagogique.net/2026/09/16/orientation-a-lecole-pourquoi-lechec-se-repete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/JPVeran-cafepedagogique-225x300.jpeg",
-      "publishedAt": "2026-09-16T03:45:13.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,23 +486,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq8drmu",
-      "title": "PISA : l’étrange exception française des sciences",
-      "summary": "« Pourquoi les multiples raisons invoquées pour expliquer les fortes baisses en mathématiques et en compréhension de lecture n’agiraient que très peu dans le secteur des sciences ? » s’interroge l’historien de l’éducation L’article PISA : l’étrange exception française des sciences est apparu en premier sur Le Café péda",
-      "link": "https://www.cafepedagogique.net/2026/09/16/pisa-letrange-exception-francaise-des-sciences/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Claude-Lelievre-cafe-pedagogique-300x300.jpg",
-      "publishedAt": "2026-09-16T03:50:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -386,7 +502,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,7 +518,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -418,59 +534,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6umhpz",
-      "title": "Alors que le coût de l’information progresse, il est de plus en plus difficile d’en déterminer le juste prix",
-      "summary": "L’ESSENTIEL Le coût de l’information est loin d’être négligeable. Or, pour de nombreux médias, il est difficile de bien monétiser leur production. L’irruption des usages de l’intelligence artificielle et la fragmentation des audiences rendent le contexte des producteurs d’information encore plus incertain. Au-delà de l",
-      "link": "https://theconversation.com/alors-que-le-cout-de-linformation-progresse-il-est-de-plus-en-plus-difficile-den-determiner-le-juste-prix-291388",
-      "image": "https://counter.theconversation.com/content/291388/count.gif",
-      "publishedAt": "2026-09-15T15:43:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avjcvoz",
-      "title": "À l’heure de l’IA générative, que signifie encore apprendre une langue ?",
-      "summary": "Ces deux jeunes touristes utilisent une application de traduction sur leur téléphone pour communiquer avec la population pendant leur voyage. Billow 926/Unsplash, CC BY L’ESSENTIEL Face aux progrès de l’intelligence artificielle générative, pourquoi apprendre une langue étrangère ? Communiquer, c’est produire des phras",
-      "link": "https://theconversation.com/a-lheure-de-lia-generative-que-signifie-encore-apprendre-une-langue-288545",
-      "image": "https://images.theconversation.com/files/752804/original/file-20260807-50-eatcxi.jpg?ixlib=rb-4.1.1&amp;rect=498%2C428%2C2718%2C1812&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-15T15:45:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4nva6m",
-      "title": "Beaucoup d’appelés, peu d’élus : quand le Hellfest instaure un rite d’attente numérique",
-      "summary": "Au Hellfest, à Clisson en Loire-Atlantique, édition 2026. Corentin Charbonnier, Fourni par l'auteur L’ESSENTIEL Mis en vente au début de l’été, les passes donnant accès à l’édition 2027 du célèbre festival de musiques extrêmes, qui se tiendra en juin prochain, ont été vendus en moins d’une heure. Le parcours numérique ",
-      "link": "https://theconversation.com/beaucoup-dappeles-peu-delus-quand-le-hellfest-instaure-un-rite-dattente-numerique-288553",
-      "image": "https://images.theconversation.com/files/751255/original/file-20260730-60-f33tgj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5757%2C3838&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-15T15:43:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -488,7 +552,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -504,7 +568,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -523,7 +587,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -541,7 +605,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -559,7 +623,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -575,7 +639,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -591,7 +655,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -607,7 +671,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -623,7 +687,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -641,74 +705,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atir1us",
-      "title": "Pourquoi l’ONU soutient-elle une nouvelle carte du monde plus fidèle à la taille de l’Afrique ?",
-      "summary": "L’ESSENTIEL La projection Equal Earth représente plus fidèlement la taille réelle des continents, notamment celle de l’Afrique. La projection de Mercator reste utile pour la navigation, mais déforme fortement les superficies. Le soutien de l’ONU à Equal Earth vise aussi à corriger une représentation du monde héritée de",
-      "link": "https://theconversation.com/pourquoi-lonu-soutient-elle-une-nouvelle-carte-du-monde-plus-fidele-a-la-taille-de-lafrique-291935",
-      "image": "https://counter.theconversation.com/content/291935/count.gif",
-      "publishedAt": "2026-09-15T08:29:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a94nnjp",
-      "title": "Notre cerveau n’aime pas les probabilités, ou pourquoi on joue mal au loto et à la roulette",
-      "summary": "L’ESSENTIEL Au loto, le tirage 1-2-3-4-5-6 est tout aussi (peu) probable que 7-13-21-32-45-7. Cela vous paraît-il contre-intuitif ? Découvrez pourquoi notre cerveau juge très mal le hasard. Les sciences cognitives et les probabilités peuvent nous aider à mieux comprendre les jeux de hasard. On annonce un mégajackpot de",
-      "link": "https://theconversation.com/notre-cerveau-naime-pas-les-probabilites-ou-pourquoi-on-joue-mal-au-loto-et-a-la-roulette-288449",
-      "image": "https://counter.theconversation.com/content/288449/count.gif",
-      "publishedAt": "2026-09-14T14:33:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
       "urgency": 49,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atd95m",
-      "title": "Europe can’t achieve space sovereignty alone. Here’s why",
-      "summary": "“Europe’s space effort is split across too many national programmes” was the blunt diagnosis Andrius Kubilius, the EU Commissioner for Defence and Space made at the recent International Space Summit in Paris. Sovereignty was the word on everyone’s lips over the two-day event. But look past the rhetoric at what the summ",
-      "link": "https://theconversation.com/europe-cant-achieve-space-sovereignty-alone-heres-why-291786",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-14T14:34:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6fst38",
-      "title": "Les oubliés du soin d’urgence : quand le déni de reconnaissance met le secteur ambulancier en danger",
-      "summary": "L’ESSENTIEL Incendies de l’été 2026, Covid-19… le personnel ambulancier joue un rôle clé dans le soin et les situations d’urgence. Mais ce secteur ne fait jamais la une des médias et pâtit d’un manque de reconnaissance. Le flou de son statut fait courir des risques sur le terrain à cette profession de plus en plus fémi",
-      "link": "https://theconversation.com/les-oublies-du-soin-durgence-quand-le-deni-de-reconnaissance-met-le-secteur-ambulancier-en-danger-289567",
-      "image": "https://counter.theconversation.com/content/289567/count.gif",
-      "publishedAt": "2026-09-14T14:33:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
     }
   ]
 }
