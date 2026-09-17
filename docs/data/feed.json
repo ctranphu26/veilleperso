@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T16:17:00.862Z",
+  "generatedAt": "2026-09-17T20:57:46.885Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 99,
+      "urgency": 94,
       "urgencyLevel": "haute"
     },
     {
@@ -150,7 +150,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -166,7 +166,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -182,7 +182,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -198,7 +198,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -214,7 +214,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -232,7 +232,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -248,7 +248,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -264,7 +264,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -280,7 +280,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -296,7 +296,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -312,7 +312,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -328,7 +328,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -344,7 +344,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -360,25 +360,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aemfd8q",
-      "title": "« Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique",
-      "summary": "« Cette école n’a rien de « petit » : elle s’efforce de rendre possible la promesse républicaine de l’école publique. Rien de moins » écrit Geneviève Legal, directrice d’école. L’article « Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique est apparu en premier sur Le Café pédagogiq",
-      "link": "https://www.cafepedagogique.net/2026/09/17/cette-ecole-na-rien-de-petit-le-plaidoyer-de-genevieve-legal-pour-lecole-publique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Genevieve-Legal-242x300.jpg",
-      "publishedAt": "2026-09-17T03:30:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 98,
-      "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 68,
       "urgencyLevel": "moyenne"
     },
     {
@@ -397,7 +379,73 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aeaiqqi",
+      "title": "Les agriculteurs de demain seront-ils encore des enfants d’agriculteurs ?",
+      "summary": "L’ESSENTIEL Pendant longtemps, être agriculteur signifiait avant tout être enfant d’agriculteur. Ce n’est plus le cas aujourd’hui et l’arrivée d’investisseurs extérieurs dans le secteur suscite diverses craintes. Mais la fin de l’agriculture familiale est-elle vraiment inéluctable ? Qui nourrira la France demain ? Cett",
+      "link": "https://theconversation.com/les-agriculteurs-de-demain-seront-ils-encore-des-enfants-dagriculteurs-286767",
+      "image": "https://counter.theconversation.com/content/286767/count.gif",
+      "publishedAt": "2026-09-16T15:29:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6wwvxj",
+      "title": "A l’approche de la présidentielle, l’IFE veut peser dans le débat public",
+      "summary": "L’institut français de l’Éducation (IFE) sort une nouvelle publication, Edudébat, dans l’optique d’aiguiller les professionnels et les décideurs sur des sujets qui font l’actualité éducative. Plus largement, son directeur, Xavier L’article A l’approche de la présidentielle, l’IFE veut peser dans le débat public est app",
+      "link": "https://www.cafepedagogique.net/2026/09/17/a-lapproche-de-la-presidentielle-life-veut-peser-dans-le-debat-public/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IFE-300x108.png",
+      "publishedAt": "2026-09-17T04:00:02.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axmnwy0",
+      "title": "Apprendre à lire dès deux ans ?",
+      "summary": "Méthode de lecture miracle, mirage scientifique, « boniment habile mais menteur » ? Au-delà des « enthousiasmes médiatiques », Paul Devin, président de l’Institut de recherches de la FSU, L’article Apprendre à lire dès deux ans ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/17/apprendre-a-lire-des-deux-ans/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/01/paul-devin-avatar-300x277.jpeg",
+      "publishedAt": "2026-09-17T03:51:24.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aemfd8q",
+      "title": "« Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique",
+      "summary": "« Cette école n’a rien de « petit » : elle s’efforce de rendre possible la promesse républicaine de l’école publique. Rien de moins » écrit Geneviève Legal, directrice d’école. L’article « Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/09/17/cette-ecole-na-rien-de-petit-le-plaidoyer-de-genevieve-legal-pour-lecole-publique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Genevieve-Legal-242x300.jpg",
+      "publishedAt": "2026-09-17T03:30:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 98,
+      "relevanceLevel": "haute",
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,7 +463,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +481,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -451,39 +499,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6wwvxj",
-      "title": "A l’approche de la présidentielle, l’IFE veut peser dans le débat public",
-      "summary": "L’institut français de l’Éducation (IFE) sort une nouvelle publication, Edudébat, dans l’optique d’aiguiller les professionnels et les décideurs sur des sujets qui font l’actualité éducative. Plus largement, son directeur, Xavier L’article A l’approche de la présidentielle, l’IFE veut peser dans le débat public est app",
-      "link": "https://www.cafepedagogique.net/2026/09/17/a-lapproche-de-la-presidentielle-life-veut-peser-dans-le-debat-public/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IFE-300x108.png",
-      "publishedAt": "2026-09-17T04:00:02.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axmnwy0",
-      "title": "Apprendre à lire dès deux ans ?",
-      "summary": "Méthode de lecture miracle, mirage scientifique, « boniment habile mais menteur » ? Au-delà des « enthousiasmes médiatiques », Paul Devin, président de l’Institut de recherches de la FSU, L’article Apprendre à lire dès deux ans ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/17/apprendre-a-lire-des-deux-ans/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/01/paul-devin-avatar-300x277.jpeg",
-      "publishedAt": "2026-09-17T03:51:24.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,39 +517,7 @@
       ],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aeaiqqi",
-      "title": "Les agriculteurs de demain seront-ils encore des enfants d’agriculteurs ?",
-      "summary": "L’ESSENTIEL Pendant longtemps, être agriculteur signifiait avant tout être enfant d’agriculteur. Ce n’est plus le cas aujourd’hui et l’arrivée d’investisseurs extérieurs dans le secteur suscite diverses craintes. Mais la fin de l’agriculture familiale est-elle vraiment inéluctable ? Qui nourrira la France demain ? Cett",
-      "link": "https://theconversation.com/les-agriculteurs-de-demain-seront-ils-encore-des-enfants-dagriculteurs-286767",
-      "image": "https://counter.theconversation.com/content/286767/count.gif",
-      "publishedAt": "2026-09-16T15:29:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ays0q2e",
-      "title": "Could victory for the AfD spell the end of wind farms in Germany?",
-      "summary": "KEY TAKEAWAYS The far-right party Alternative für Deutschland (AfD), which came out on top in the elections in Saxony-Anhalt, has been pushing an anti-wind farm narrative for several years. The AfD intends to stop the installation of wind turbines, at a time when Germany is rapidly accelerating its energy transition. H",
-      "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
-      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-16T16:03:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -551,7 +535,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ays0q2e",
+      "title": "Could victory for the AfD spell the end of wind farms in Germany?",
+      "summary": "KEY TAKEAWAYS The far-right party Alternative für Deutschland (AfD), which came out on top in the elections in Saxony-Anhalt, has been pushing an anti-wind farm narrative for several years. The AfD intends to stop the installation of wind turbines, at a time when Germany is rapidly accelerating its energy transition. H",
+      "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
+      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-16T16:03:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -567,7 +567,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -583,7 +583,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -599,7 +599,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -615,7 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -631,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -647,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -663,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -679,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -695,7 +695,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     }
   ]
