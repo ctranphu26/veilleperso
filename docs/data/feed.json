@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:00:18.497Z",
+  "generatedAt": "2026-09-17T16:17:00.862Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,9 +119,92 @@
   "count": 35,
   "items": [
     {
+      "id": "a63ofnn",
+      "title": "De l’usine au parc d’attractions « Dragon Ball » : quand la puissance change de paysage",
+      "summary": "L’imaginaire du parc d’attractions renvoie à une civilisation de loisirs, loin de la puissance industrielle. Une erreur de perspective ? Thomas Stadler/Unsplash L’ESSENTIEL L’annonce de la création d’un parc d’attractions près de Cergy, dans le Val-d’Oise, a suscité un débat. Ce projet symboliserait le déclin industrie",
+      "link": "https://theconversation.com/de-lusine-au-parc-dattractions-dragon-ball-quand-la-puissance-change-de-paysage-292030",
+      "image": "https://images.theconversation.com/files/760148/original/file-20260916-50-hlsaro.jpg?ixlib=rb-4.1.1&amp;rect=0%2C168%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T15:35:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 99,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agaomve",
+      "title": "« Tu souffres de bouffée de chaleur ? » La ménopause, ce tabou qui creuse les inégalités au travail",
+      "summary": "La ménopause agit comme un révélateur puissant d’inégalités sociales et professionnelles déjà existantes. Une étude menée dans plusieurs pays, sur trois continents, suggère que, loin d’être une simple transition biologique, elle met en lumière la manière dont le genre, la classe sociale, la culture et l’organisation du",
+      "link": "https://theconversation.com/tu-souffres-de-bouffee-de-chaleur-la-menopause-ce-tabou-qui-creuse-les-inegalites-au-travail-281810",
+      "image": "https://counter.theconversation.com/content/281810/count.gif",
+      "publishedAt": "2026-09-17T15:29:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "égalité",
+        "genre"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afmhxke",
+      "title": "Museums on prescription: how cultural activities are becoming crucial to the public health debate",
+      "summary": "\"Museotherapy\" is gaining ground. In Europe, cultural pursuits are connecting communities and improving collective wellbeing, according to the Culture as Care Report. Loic Manegarium/Pexels, CC BY KEY TAKEAWAYS On June 18, European institutions declared culture to be a strategic priority for the European Union. It is n",
+      "link": "https://theconversation.com/museums-on-prescription-how-cultural-activities-are-becoming-crucial-to-the-public-health-debate-291083",
+      "image": "https://images.theconversation.com/files/757533/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T15:34:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atv6f0q",
+      "title": "La reconnaissance du vote blanc pourrait-elle améliorer la démocratie ?",
+      "summary": "L’ESSENTIEL Une véritable reconnaissance du vote blanc pourrait-elle inciter les partis et les candidats à mieux prendre en compte les demandes des citoyens ? En France, le résultat d’un scrutin est uniquement déterminé par l’addition de votes positifs, quels que soient l’abstention et les votes blancs ou nuls. En Colo",
+      "link": "https://theconversation.com/la-reconnaissance-du-vote-blanc-pourrait-elle-ameliorer-la-democratie-284577",
+      "image": "https://counter.theconversation.com/content/284577/count.gif",
+      "publishedAt": "2026-09-17T15:29:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apb2j5o",
+      "title": "Au sein de l’opposition russe, la bataille des idées",
+      "summary": "L’ESSENTIEL Des milliers de Russes, en désaccord avec la politique du Kremlin, vivent aujourd’hui en Occident. Parmi eux, des personnalités politiques et de la société civile tentent d’organiser cette communauté hétéroclite. Entre eux, les débats vont bon train sur la responsabilité des citoyens russes vis-à-vis de la ",
+      "link": "https://theconversation.com/au-sein-de-lopposition-russe-la-bataille-des-idees-290460",
+      "image": "https://images.theconversation.com/files/759082/original/file-20260910-50-aglcxt.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-17T15:28:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "avueycg",
-      "title": "Que valent les solutions low-tech pour rafraîchir nos logements ?",
-      "summary": "L’ESSENTIEL L’été 2026 et ses canicules à répétition a vu se populariser des solutions low-tech contre la chaleur, telles que le blanc de Meudon ou les couvertures de survies aux fenêtres. D’autres solutions low-tech moins connues, tenant par exemple à la façon de ventiler les logements, sont déjà employées de façon tr",
+      "title": "Que valent les solutions low-tech pour rafraîchir nos logements ?",
+      "summary": "L’ESSENTIEL L’été 2026 avec ses canicules à répétition a vu se populariser des solutions low-tech contre la chaleur, telles que le blanc de Meudon ou les couvertures de survie aux fenêtres. D’autres solutions low-tech moins connues, tenant par exemple à la façon de ventiler les logements, sont déjà employées de façon t",
       "link": "https://theconversation.com/que-valent-les-solutions-low-tech-pour-rafraichir-nos-logements-280740",
       "image": "https://images.theconversation.com/files/759937/original/file-20260915-50-nn716c.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
       "publishedAt": "2026-09-17T08:03:17.000Z",
@@ -131,7 +214,121 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arxcnes",
+      "title": "Scream 2027 : Le retour de la langue aux examens !",
+      "summary": "La question de l’évaluation de la langue aux examens avait occupé les écrans au printemps 2026. Les médiatiques injonctions à « l’exigence », portées par le ministre, avaient fait un flop dans L’article Scream 2027 : Le retour de la langue aux examens ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/17/scream-2027-le-retour-de-la-langue-aux-examens/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/La-langue-aux-examens-le-retour-300x169.jpg",
+      "publishedAt": "2026-09-17T15:42:05.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "évaluation"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayneshq",
+      "title": "Miquelon : comment relocalise-t-on un village menacé par les eaux ?",
+      "summary": "Le village de Miquelon est implanté à seulement deux mètres au-dessus du niveau de la mer. Il est donc menacé de submersion. Dominic Smith/Flickr, CC BY L’ESSENTIEL Menacé par la montée des eaux, le village de Miquelon-Langlade, à Saint-Pierre-et-Miquelon, dans l’Atlantique Nord, est en train de déménager. Pourtant, la",
+      "link": "https://theconversation.com/miquelon-comment-relocalise-t-on-un-village-menace-par-les-eaux-292057",
+      "image": "https://images.theconversation.com/files/759984/original/file-20260915-60-juqkon.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3936%2C2624&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T15:35:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axbgzqc",
+      "title": "Qu’est-ce que le « fascisme de la fin des temps » dénoncé par Naomi Klein ?",
+      "summary": "L’ESSENTIEL Naomi Klein et Astra Taylor décrivent dans un nouveau livre un Fascisme de la fin des temps qui considère l’effondrement comme inévitable et mise sur la survie d’une élite. Dans The Nerd Reich, Gil Durán enquête sur les milliardaires de la Silicon Valley qui mettent leur fortune et les technologies au servi",
+      "link": "https://theconversation.com/quest-ce-que-le-fascisme-de-la-fin-des-temps-denonce-par-naomi-klein-292157",
+      "image": "https://images.theconversation.com/files/759797/original/file-20260915-60-a1y02.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-17T15:34:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahplr85",
+      "title": "Ig Nobel de physique 2026 : à la recherche de l’urinoir idéal… sans éclaboussures",
+      "summary": "Quatre formes d’urinoir ont été testées : deux commerciales et deux issues des expériences récompensées par le prix Ig Nobel de physique 2026. Kaveeshan Thurairajah, Xianyu (Mabel) Song, J. D. Zhu, Mia Shi, Ethan A. Barlow, Randy C. Hurd, Zhao Pan, « PNAS Nexus », 4, 4, 2025., CC BY L’ESSENTIEL Les Ig Nobel récompensen",
+      "link": "https://theconversation.com/ig-nobel-de-physique-2026-a-la-recherche-de-lurinoir-ideal-sans-eclaboussures-292043",
+      "image": "https://images.theconversation.com/files/759966/original/file-20260915-50-e06yt9.png?ixlib=rb-4.1.1&amp;rect=152%2C0%2C733%2C489&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T15:33:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5c6l48",
+      "title": "Endométriose au travail : pourquoi le soutien du management compte autant que les aménagements",
+      "summary": "L’ESSENTIEL Douleurs imprévisibles, fatigue, rendez-vous médicaux… quand on souffre d’endométriose, celle-ci s’invite aussi au sein de l’entreprise. Une enquête conduite avec l’association EndoFrance montre que les possibilités d’adapter le poste de travail comptent pour faciliter la vie professionnelle. Mais un élémen",
+      "link": "https://theconversation.com/endometriose-au-travail-pourquoi-le-soutien-du-management-compte-autant-que-les-amenagements-290261",
+      "image": "https://counter.theconversation.com/content/290261/count.gif",
+      "publishedAt": "2026-09-17T15:30:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aeilxpl",
+      "title": "Nigel Farage : la fin de l’état de grâce ?",
+      "summary": "L’ESSENTIEL Il y a peu, Nigel Farage, patron du parti d’extrême droite Reform UK, enchaînait les succès électoraux et les sondages flatteurs. Mais la situation a évolué. Accusé d’avoir reçu des dons illégaux, quelque peu ridiculisé par une élection partielle où son principal adversaire se présentait comme « le comte Tê",
+      "link": "https://theconversation.com/nigel-farage-la-fin-de-letat-de-grace-291887",
+      "image": "https://counter.theconversation.com/content/291887/count.gif",
+      "publishedAt": "2026-09-17T15:29:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aszfa7d",
+      "title": "Présidentielle : qui veut gouverner démocratiquement ?",
+      "summary": "L’ESSENTIEL Le recours au référendum et les appels à la souveraineté populaire s’imposent dans les discours de nombreux candidats et candidates à la présidentielle. Le référendum n’est pas une garantie de renforcement démocratique, il peut, au contraire, être un moyen d’affaiblir l’État de droit et les contre-pouvoirs.",
+      "link": "https://theconversation.com/presidentielle-qui-veut-gouverner-democratiquement-291696",
+      "image": "https://counter.theconversation.com/content/291696/count.gif",
+      "publishedAt": "2026-09-17T15:25:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +344,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +360,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +378,8 @@
       ],
       "relevance": 98,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adojhef",
@@ -200,8 +397,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auzbes6",
@@ -218,8 +415,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ariur1r",
@@ -236,8 +433,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auca7z9",
@@ -254,8 +451,8 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6wwvxj",
@@ -270,8 +467,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axmnwy0",
@@ -286,24 +483,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aoc9s5c",
-      "title": "Le Cnesco se penche sur les adolescents au collège",
-      "summary": "Le Cnesco (Centre national d’étude des systèmes scolaires) organise les 3 et 4 novembre 2026 une conférence de consensus consacrée aux adolescents au collège. Intitulée « Les adolescents au collège L’article Le Cnesco se penche sur les adolescents au collège est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/17/le-cnesco-se-penche-sur-les-adolescents-au-college/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/conference-de-consensus-300x246.png",
-      "publishedAt": "2026-09-17T03:27:27.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avwo6k",
@@ -320,8 +501,8 @@
       ],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aeaiqqi",
@@ -336,8 +517,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ays0q2e",
+      "title": "Could victory for the AfD spell the end of wind farms in Germany?",
+      "summary": "KEY TAKEAWAYS The far-right party Alternative für Deutschland (AfD), which came out on top in the elections in Saxony-Anhalt, has been pushing an anti-wind farm narrative for several years. The AfD intends to stop the installation of wind turbines, at a time when Germany is rapidly accelerating its energy transition. H",
+      "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
+      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-16T16:03:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9vmcpe",
@@ -354,23 +551,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ays0q2e",
-      "title": "Could victory for the AfD spell the end of wind farms in Germany?",
-      "summary": "KEY TAKEAWAYS The far-right party Alternative für Deutschland (AfD), which came out on top in the elections in Saxony-Anhalt, has been pushing an anti-wind farm narrative for several years. The AfD intends to stop the installation of wind turbines, at a time when Germany is rapidly accelerating its energy transition. H",
-      "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
-      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-16T16:03:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -386,7 +567,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,7 +583,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -418,7 +599,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -434,7 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -450,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -466,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -482,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -498,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -514,194 +695,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "az0dr9z",
-      "title": "Comment les bouchons en liège influencent-ils le vieillissement du vin en bouteille ?",
-      "summary": "L’ESSENTIEL Le mariage du vin et de l’oxygène, c’est pour le meilleur… et pour le pire. Au fil du temps, les bouchons sont devenus de véritables objets techniques. Avec la multiplication des types de bouchons, pas facile pour les vignerons de savoir lequel est le plus adapté pour bien faire vieillir un vin. Les premièr",
-      "link": "https://theconversation.com/comment-les-bouchons-en-liege-influencent-ils-le-vieillissement-du-vin-en-bouteille-291474",
-      "image": "https://counter.theconversation.com/content/291474/count.gif",
-      "publishedAt": "2026-09-16T09:17:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahycxz8",
-      "title": "Vers un « bilinguisme de l’IA » : apprendre à faire avec et apprendre à faire sans",
-      "summary": "Comme pour d’autres technologies venues avant l’IA, il s’agit d’apprendre à s’en passer, mais aussi à les maîtriser. Vitaly Gariev/Unsplash, CC BY L’ESSENTIEL L’intelligence artificielle (IA), et tout particulièrement l’intelligence artificielle générative, sa branche la plus visible, est déjà largement utilisée par le",
-      "link": "https://theconversation.com/vers-un-bilinguisme-de-lia-apprendre-a-faire-avec-et-apprendre-a-faire-sans-291895",
-      "image": "https://images.theconversation.com/files/759857/original/file-20260915-50-b6vd50.jpg?ixlib=rb-4.1.1&amp;rect=296%2C0%2C3206%2C2137&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-16T07:57:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6umhpz",
-      "title": "Alors que le coût de l’information progresse, il est de plus en plus difficile d’en déterminer le juste prix",
-      "summary": "L’ESSENTIEL Le coût de l’information est loin d’être négligeable. Or, pour de nombreux médias, il est difficile de bien monétiser leur production. L’irruption des usages de l’intelligence artificielle et la fragmentation des audiences rendent le contexte des producteurs d’information encore plus incertain. Au-delà de l",
-      "link": "https://theconversation.com/alors-que-le-cout-de-linformation-progresse-il-est-de-plus-en-plus-difficile-den-determiner-le-juste-prix-291388",
-      "image": "https://counter.theconversation.com/content/291388/count.gif",
-      "publishedAt": "2026-09-15T15:43:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avjcvoz",
-      "title": "À l’heure de l’IA générative, que signifie encore apprendre une langue ?",
-      "summary": "Ces deux jeunes touristes utilisent une application de traduction sur leur téléphone pour communiquer avec la population pendant leur voyage. Billow 926/Unsplash, CC BY L’ESSENTIEL Face aux progrès de l’intelligence artificielle générative, pourquoi apprendre une langue étrangère ? Communiquer, c’est produire des phras",
-      "link": "https://theconversation.com/a-lheure-de-lia-generative-que-signifie-encore-apprendre-une-langue-288545",
-      "image": "https://images.theconversation.com/files/752804/original/file-20260807-50-eatcxi.jpg?ixlib=rb-4.1.1&amp;rect=498%2C428%2C2718%2C1812&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-15T15:45:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4nva6m",
-      "title": "Beaucoup d’appelés, peu d’élus : quand le Hellfest instaure un rite d’attente numérique",
-      "summary": "Au Hellfest, à Clisson en Loire-Atlantique, édition 2026. Corentin Charbonnier, Fourni par l'auteur L’ESSENTIEL Mis en vente au début de l’été, les passes donnant accès à l’édition 2027 du célèbre festival de musiques extrêmes, qui se tiendra en juin prochain, ont été vendus en moins d’une heure. Le parcours numérique ",
-      "link": "https://theconversation.com/beaucoup-dappeles-peu-delus-quand-le-hellfest-instaure-un-rite-dattente-numerique-288553",
-      "image": "https://images.theconversation.com/files/751255/original/file-20260730-60-f33tgj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5757%2C3838&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-15T15:43:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1x6yzi",
-      "title": "Xenia Fedorova, ou comment la propagande russe retourne notre esprit critique contre nous-mêmes",
-      "summary": "L’ESSENTIEL En juillet 2026, l’ex-patronne russe de la chaîne RT France et chroniqueuse des médias du groupe Bolloré, Xenia Fedorova, a été visée par un arrêté d’expulsion du territoire français. Accusée de colporter la propagande du Kremlin, elle contre-attaque en se présentant comme la victime d’une « pensée unique »",
-      "link": "https://theconversation.com/xenia-fedorova-ou-comment-la-propagande-russe-retourne-notre-esprit-critique-contre-nous-memes-291061",
-      "image": "https://counter.theconversation.com/content/291061/count.gif",
-      "publishedAt": "2026-09-15T15:45:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "esprit critique",
-        "propagande"
-      ],
-      "relevance": 90,
-      "relevanceLevel": "haute",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "akscbjd",
-      "title": "How war and sanctions are reshaping how Russia governs its vast territory",
-      "summary": "As the world’s largest country that spans eleven time zones and shares land borders with fourteen countries, Russia’s geography has always posed a difficult problem for government: how to maintain economic activity, infrastructure and basic services across an enormous territory with a highly uneven population. More tha",
-      "link": "https://theconversation.com/how-war-and-sanctions-are-reshaping-how-russia-governs-its-vast-territory-290987",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-15T15:33:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alxiowb",
-      "title": "La percée des houthistes au Yémen met les BRICS face à leurs divisions",
-      "summary": "L’ESSENTIEL Le sommet annuel des BRICS s’est tenu les 12 et 13 septembre 2026, à New Delhi, au moment même où, au Yémen, les houthistes s’emparaient du littoral de la mer Rouge et donc du stratégique détroit de Bal el-Mandeb. Le bloc, qui compte désormais 21 membres, est traversé par de nombreuses fractures, notamment ",
-      "link": "https://theconversation.com/la-percee-des-houthistes-au-yemen-met-les-brics-face-a-leurs-divisions-291934",
-      "image": "https://images.theconversation.com/files/759589/original/file-20260914-50-5otbt4.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-15T15:46:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahbkl0q",
-      "title": "Moody’s, S&P, Fitch : pourquoi l’oligopole résiste malgré trente ans de critiques ?",
-      "summary": "L’ESSENTIEL Depuis leur création, Moody’s (1909), Fitch (1913) et Standard and Poor’s (1941) dominent le marché des notations financières. En 2025, en dépit des tentatives pour réduire leur domination, les « Big Three » représentent encore 91,87 % du marché européen. Agence de notation africaine ou nouveaux indicateurs",
-      "link": "https://theconversation.com/moodys-sandp-fitch-pourquoi-loligopole-resiste-malgre-trente-ans-de-critiques-285726",
-      "image": "https://counter.theconversation.com/content/285726/count.gif",
-      "publishedAt": "2026-09-15T15:44:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avf6316",
-      "title": "Alliance ou rupture avec Mélenchon : l’équation insoluble de la gauche",
-      "summary": "L’ESSENTIEL La gauche a besoin des électeurs insoumis pour se qualifier au second tour de la présidentielle. En même temps, Jean-Luc Mélenchon serait le plus mal placé pour affronter Marine Le Pen en cas de duel, selon les sondages. La question des alliances semble donc insoluble : le partenaire indispensable à la qual",
-      "link": "https://theconversation.com/alliance-ou-rupture-avec-melenchon-lequation-insoluble-de-la-gauche-291854",
-      "image": "https://counter.theconversation.com/content/291854/count.gif",
-      "publishedAt": "2026-09-15T15:40:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4o97sk",
-      "title": "Apocalypse quantique : la fin de la cybersécurité pour demain ?",
-      "summary": "L’ESSENTIEL Une grande partie de la cryptographie moderne repose sur l’existence de problèmes mathématiques difficiles à résoudre. Ces problèmes sont conçus de telle sorte que le calcul qui permettrait de les résoudre n’est pas possible en pratique, soit parce qu’il prendrait des milliards d’années, soit parce qu’il né",
-      "link": "https://theconversation.com/apocalypse-quantique-la-fin-de-la-cybersecurite-pour-demain-286607",
-      "image": "https://counter.theconversation.com/content/286607/count.gif",
-      "publishedAt": "2026-09-15T15:32:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     }
   ]
