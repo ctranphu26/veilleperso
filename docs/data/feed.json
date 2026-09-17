@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T03:32:39.300Z",
+  "generatedAt": "2026-09-17T11:00:18.497Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,54 @@
   "count": 35,
   "items": [
     {
+      "id": "avueycg",
+      "title": "Que valent les solutions low-tech pour rafraîchir nos logements ?",
+      "summary": "L’ESSENTIEL L’été 2026 et ses canicules à répétition a vu se populariser des solutions low-tech contre la chaleur, telles que le blanc de Meudon ou les couvertures de survies aux fenêtres. D’autres solutions low-tech moins connues, tenant par exemple à la façon de ventiler les logements, sont déjà employées de façon tr",
+      "link": "https://theconversation.com/que-valent-les-solutions-low-tech-pour-rafraichir-nos-logements-280740",
+      "image": "https://images.theconversation.com/files/759937/original/file-20260915-50-nn716c.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-17T08:03:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "asuri9x",
+      "title": "Personnels de direction : « Notre limite, c’est notre santé »",
+      "summary": "« Les choses se font parce que les collègues colmatent les brèches. » Pour la secrétaire générale d’ID-FO, Agnès Andersen, la rentrée 2026 illustre une nouvelle fois les difficultés auxquelles L’article Personnels de direction : « Notre limite, c’est notre santé » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/17/personnels-de-direction-notre-limite-cest-notre-sante/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/idfo-300x210.jpeg",
+      "publishedAt": "2026-09-17T03:55:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayy7kz3",
+      "title": "Comment les « avalanches » sous-marines transportent les plastiques jusqu’aux abysses",
+      "summary": "Déchets plastiques (on aperçoit notamment un ancien casque de vélo) à la surface océanique. Une partie de ces déchets sera charriée vers les fonds marins. The Ocean Cleanup, Fourni par l'auteur L’ESSENTIEL Les continents de plastique qui flottent à la surface des océans ne représentent qu’une infime fraction de la mass",
+      "link": "https://theconversation.com/comment-les-avalanches-sous-marines-transportent-les-plastiques-jusquaux-abysses-289738",
+      "image": "https://images.theconversation.com/files/753906/original/file-20260813-80-eoaox5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1100%2C733&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T09:30:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aemfd8q",
       "title": "« Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique",
       "summary": "« Cette école n’a rien de « petit » : elle s’efforce de rendre possible la promesse républicaine de l’école publique. Rien de moins » écrit Geneviève Legal, directrice d’école. L’article « Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique est apparu en premier sur Le Café pédagogiq",
@@ -133,7 +181,62 @@
       ],
       "relevance": 98,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "adojhef",
+      "title": "L’Autre, menace ou richesse ? Le défi du vivre-ensemble à l’école",
+      "summary": "L’Autre, menace ou richesse ? Un jeudi sur deux, Jacques Marpeau, docteur en sciences de l’éducation et Daniel Gostain, enseignant spécialisé, membre de la FNAREN nous proposent de décortiquer certaines notions L’article L’Autre, menace ou richesse ? Le défi du vivre-ensemble à l’école est apparu en premier sur Le Café",
+      "link": "https://www.cafepedagogique.net/2026/09/17/lautre-menace-ou-richesse-le-defi-du-vivre-ensemble-a-lecole/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/Jacques-Marpeau-et-Daniel-Gostain-300x225.jpg",
+      "publishedAt": "2026-09-17T03:50:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "enseignant"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auzbes6",
+      "title": "Portes ouvertes pour les professeurs au Mémorial de la Shoah",
+      "summary": "Le Mémorial de la Shoah invite les professeurs du premier et du second degré à deux après-midis Portes ouvertes, le mercredi 30 septembre à Paris, et le mercredi 14 octobre L’article Portes ouvertes pour les professeurs au Mémorial de la Shoah est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/17/portes-ouvertes-pour-les-professeurs-au-memorial-de-la-shoah/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Memorial-Shoah-Paris-1-300x225.jpg",
+      "publishedAt": "2026-09-17T03:28:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ariur1r",
+      "title": "Valérie Cabuil nommée à l’Inspection générale",
+      "summary": "Il est question de l’ancienne rectrice de la région académique Normandie au Journal officiel du jour. Valérie Cabuil, professeure des universités, est nommée inspectrice générale de l’éducation, du sport et L’article Valérie Cabuil nommée à l’Inspection générale est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/17/valerie-cabuil-nommee-a-linspection-generale/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/IGESR-1-300x264.png",
+      "publishedAt": "2026-09-17T03:27:39.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +254,73 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6wwvxj",
+      "title": "A l’approche de la présidentielle, l’IFE veut peser dans le débat public",
+      "summary": "L’institut français de l’Éducation (IFE) sort une nouvelle publication, Edudébat, dans l’optique d’aiguiller les professionnels et les décideurs sur des sujets qui font l’actualité éducative. Plus largement, son directeur, Xavier L’article A l’approche de la présidentielle, l’IFE veut peser dans le débat public est app",
+      "link": "https://www.cafepedagogique.net/2026/09/17/a-lapproche-de-la-presidentielle-life-veut-peser-dans-le-debat-public/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IFE-300x108.png",
+      "publishedAt": "2026-09-17T04:00:02.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axmnwy0",
+      "title": "Apprendre à lire dès deux ans ?",
+      "summary": "Méthode de lecture miracle, mirage scientifique, « boniment habile mais menteur » ? Au-delà des « enthousiasmes médiatiques », Paul Devin, président de l’Institut de recherches de la FSU, L’article Apprendre à lire dès deux ans ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/17/apprendre-a-lire-des-deux-ans/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/01/paul-devin-avatar-300x277.jpeg",
+      "publishedAt": "2026-09-17T03:51:24.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoc9s5c",
+      "title": "Le Cnesco se penche sur les adolescents au collège",
+      "summary": "Le Cnesco (Centre national d’étude des systèmes scolaires) organise les 3 et 4 novembre 2026 une conférence de consensus consacrée aux adolescents au collège. Intitulée « Les adolescents au collège L’article Le Cnesco se penche sur les adolescents au collège est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/17/le-cnesco-se-penche-sur-les-adolescents-au-college/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/conference-de-consensus-300x246.png",
+      "publishedAt": "2026-09-17T03:27:27.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avwo6k",
+      "title": "Salomé Vatblé nommée conseillère budget, numérique et IA au ministère",
+      "summary": "Nouveau changement au cabinet du ministre de l’Éducation nationale. Salomé Vatblé est nommée conseillère en charge du budget, du numérique et de l’intelligence artificielle, à compter du 15 septembre 2026. L’article Salomé Vatblé nommée conseillère budget, numérique et IA au ministère est apparu en premier sur Le Café ",
+      "link": "https://www.cafepedagogique.net/2026/09/17/salome-vatble-nommee-conseillere-budget-numerique-et-ia-au-ministere/",
+      "image": null,
+      "publishedAt": "2026-09-17T03:27:33.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -167,24 +336,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
-    },
-    {
-      "id": "ays0q2e",
-      "title": "Could victory for the AfD spell the end of wind farms in Germany?",
-      "summary": "KEY TAKEAWAYS The far-right party Alternative für Deutschland (AfD), which came out on top in the elections in Saxony-Anhalt, has been pushing an anti-wind farm narrative for several years. The AfD intends to stop the installation of wind turbines, at a time when Germany is rapidly accelerating its energy transition. H",
-      "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
-      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-16T16:03:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9vmcpe",
@@ -201,7 +354,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ays0q2e",
+      "title": "Could victory for the AfD spell the end of wind farms in Germany?",
+      "summary": "KEY TAKEAWAYS The far-right party Alternative für Deutschland (AfD), which came out on top in the elections in Saxony-Anhalt, has been pushing an anti-wind farm narrative for several years. The AfD intends to stop the installation of wind turbines, at a time when Germany is rapidly accelerating its energy transition. H",
+      "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
+      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-16T16:03:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +386,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +402,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +418,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +434,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +450,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,13 +466,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
       "id": "aargwil",
       "title": "Quiz - Les tout premiers influenceurs au monde étaient français et sont nés après la Révolution",
-      "summary": "Et si les influenceurs existaient bien avant Internet ? Bien avant Instagram et TikTok, des personnalités orientaient déjà les façons de s’habiller, de manger, de décorer son intérieur… et même de vivre. Apprenez-en plus sur ces influenceurs de l’après-Révolution et découvrez comment leurs recommandations se diffusaien",
+      "summary": "Qui étaient les influenceurs avant Internet ? Bien avant Instagram et TikTok, des personnalités orientaient déjà les façons de s’habiller, de manger, de décorer son intérieur… et même de vivre. Apprenez-en plus sur ces influenceurs de l’après-Révolution et découvrez comment leurs recommandations se diffusaient sans rés",
       "link": "https://theconversation.com/quiz-les-tout-premiers-influenceurs-au-monde-etaient-francais-et-sont-nes-apres-la-revolution-292180",
       "image": "https://counter.theconversation.com/content/292180/count.gif",
       "publishedAt": "2026-09-16T14:19:18.000Z",
@@ -313,7 +482,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,7 +498,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +514,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -361,7 +530,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -379,7 +548,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -397,7 +566,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,7 +584,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -431,146 +600,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ab582ae",
-      "title": "Enseignement privé : 67 % des professeurs pensent à quitter le métier (Fep-CFDT)",
-      "summary": "Sans surprise, selon l’enquête de la Fep-CFDT, 1 % des personnels sont très satisfaits du salaire. Ce sont donc près de 9 personnels sur 10 ( 86 %) insatisfaits par L’article Enseignement privé : 67 % des professeurs pensent à quitter le métier (Fep-CFDT) est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/16/enseignement-prive-67-des-professeurs-pensent-a-quitter-le-metier-fep-cfdt/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Valerie-Ginet-Fep-CFDT-e1789492904405-235x300.jpeg",
-      "publishedAt": "2026-09-16T04:00:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "professeur"
-      ],
-      "relevance": 91,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1qmhar",
-      "title": "AESH : s’assoir à côté de l’élève ou un peu en décalé",
-      "summary": "Mylène et Nadia sont toutes les deux AESH en école élémentaire. Lors d’un entretien croisé, elles regardent une séquence filmée dans la classe où travaille Mylène. Pendant un exercice de L’article AESH : s’assoir à côté de l’élève ou un peu en décalé est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/16/aesh-sassoir-a-cote-de-leleve-ou-un-peu-en-decale/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2022/11/Les-AESH-revalorises.jpg",
-      "publishedAt": "2026-09-16T03:30:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "élève",
-        "classe"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3rleoc",
-      "title": "Orientation à l’école : pourquoi l’échec se répète",
-      "summary": "Pourquoi l’éducation à l’orientation échoue-t-elle régulièrement à s’installer dans l’école française ? Dans L’éducation à l’orientation en France. Anatomie d’un échec récurrent (L’Harmattan, 2026), Bernard Desclaux revient sur l’histoire de cette ambition éducative L’article Orientation à l’école : pourquoi l’échec se",
-      "link": "https://www.cafepedagogique.net/2026/09/16/orientation-a-lecole-pourquoi-lechec-se-repete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/JPVeran-cafepedagogique-225x300.jpeg",
-      "publishedAt": "2026-09-16T03:45:13.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axp0kq0",
-      "title": "Rythmes scolaires à Paris : « Revenir à quatre jours serait une mauvaise réponse »",
-      "summary": "Fin d’une exception française pourtant plébiscitée par les résultats de la recherche au regard des données internationales comme sociales en faveur de la lutte contre les inégalités sociales au cœur L’article Rythmes scolaires à Paris : « Revenir à quatre jours serait une mauvaise réponse » est apparu en premier sur Le",
-      "link": "https://www.cafepedagogique.net/2026/09/16/rythmes-scolaires-a-paris-revenir-a-quatre-jours-serait-une-mauvaise-reponse/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/01/FCPE-300x227.png",
-      "publishedAt": "2026-09-16T03:27:20.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq8drmu",
-      "title": "PISA : l’étrange exception française des sciences",
-      "summary": "« Pourquoi les multiples raisons invoquées pour expliquer les fortes baisses en mathématiques et en compréhension de lecture n’agiraient que très peu dans le secteur des sciences ? » s’interroge l’historien de l’éducation L’article PISA : l’étrange exception française des sciences est apparu en premier sur Le Café péda",
-      "link": "https://www.cafepedagogique.net/2026/09/16/pisa-letrange-exception-francaise-des-sciences/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Claude-Lelievre-cafe-pedagogique-300x300.jpg",
-      "publishedAt": "2026-09-16T03:50:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aewu79",
-      "title": "Les Journées du Patrimoine à la Fondation Pathé",
-      "summary": "La Fondation Jérôme Seydoux-Pathé participe aux Journées européennes du Patrimoine et ouvre à cette occasion, ses portes les 19 et 20 septembre de 10h à 18h30. En accès libre, sans L’article Les Journées du Patrimoine à la Fondation Pathé est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/16/les-journees-du-patrimoine-a-la-fondation-pathe/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Expo-J-J-annaud-300x204.jpg",
-      "publishedAt": "2026-09-16T03:28:59.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amdn601",
-      "title": "Cinéma : « La Vie en relief – Jacques Henri Lartigue » de Denis Gaubert",
-      "summary": "Pour célébrer en beauté le Bicentenaire de la photographie, chaussez les lunettes adaptées et préparez-vous à un éblouissement ! Découvrez sur grand écran les sidérants clichés stéréoscopiques en trois dimensions pris L’article Cinéma : « La Vie en relief – Jacques Henri Lartigue » de Denis Gaubert est apparu en premie",
-      "link": "https://www.cafepedagogique.net/2026/09/16/cinema-la-vie-en-relief-jacques-henri-lartigue-de-denis-gaubert/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/lvr-affiche-web-1-1536x2048-1-225x300.webp",
-      "publishedAt": "2026-09-16T03:28:02.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a91em8t",
-      "title": "Au lit ! Deux albums pour apprivoiser le sommeil",
-      "summary": "Le sommeil, ce n’est pas souvent la priorité des enfants. Et plus ils sont fatigués, plus c’est compliqué de les coucher, voir de les endormir. Et parfois, c’est même un L’article Au lit ! Deux albums pour apprivoiser le sommeil est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/16/au-lit-deux-albums-pour-apprivoiser-le-sommeil/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/ton-petit-sommeil-les-enfants-qui-ne-voulaient-pas-dormir-166x300.jpeg",
-      "publishedAt": "2026-09-16T03:29:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -589,25 +619,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aumxdrj",
-      "title": "Feux de forêt : derrière les flammes et les fumées, des inégalités sociales de santé invisibles que la France ne mesure pas",
-      "summary": "L’ESSENTIEL Les fumées de feux de forêt produisent des effets majeurs sur la santé des populations. Des données internationales montrent que les groupes sociaux les plus vulnérables sont particulièrement concernés. En Californie, on parle d’« injustice environnementale face aux feux ». Des travaux sont en cours pour do",
-      "link": "https://theconversation.com/feux-de-foret-derriere-les-flammes-et-les-fumees-des-inegalites-sociales-de-sante-invisibles-que-la-france-ne-mesure-pas-289670",
-      "image": "https://counter.theconversation.com/content/289670/count.gif",
-      "publishedAt": "2026-09-15T15:31:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -625,7 +637,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -641,7 +653,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -657,7 +669,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -673,7 +685,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -689,25 +701,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avhoeyy",
-      "title": "Dissection chronique de l’aorte : mieux prédire le risque d’anévrysme grâce à un jumeau numérique",
-      "summary": "L’ESSENTIEL La dissection aortique est une affection cardiovasculaire particulièrement grave, entraînant un taux de mortalité élevé. Sa forme chronique évolue souvent vers un anévrysme de l’aorte qui risque d’entraîner sa rupture. Un nouveau projet de recherche ambitionne de créer, pour chaque patient, un « jumeau numé",
-      "link": "https://theconversation.com/dissection-chronique-de-laorte-mieux-predire-le-risque-danevrysme-grace-a-un-jumeau-numerique-291788",
-      "image": "https://counter.theconversation.com/content/291788/count.gif",
-      "publishedAt": "2026-09-15T11:04:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     }
   ]
