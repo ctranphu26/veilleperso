@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T20:53:49.802Z",
+  "generatedAt": "2026-09-17T03:32:39.300Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,42 @@
   "count": 35,
   "items": [
     {
+      "id": "aemfd8q",
+      "title": "« Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique",
+      "summary": "« Cette école n’a rien de « petit » : elle s’efforce de rendre possible la promesse républicaine de l’école publique. Rien de moins » écrit Geneviève Legal, directrice d’école. L’article « Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/09/17/cette-ecole-na-rien-de-petit-le-plaidoyer-de-genevieve-legal-pour-lecole-publique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Genevieve-Legal-242x300.jpg",
+      "publishedAt": "2026-09-17T03:30:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 98,
+      "relevanceLevel": "haute",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auca7z9",
+      "title": "Outils pratiques en ligne pour le primaire",
+      "summary": "Un minuteur visuel géant pour gérer le temps de travail, un sonomètre de classe pour régler le seuil du bruit, des dés que l’on peut personnaliser avec ses propres mots L’article Outils pratiques en ligne pour le primaire est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/17/outils-pratiques-en-ligne-pour-le-primaire/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Outils-pratiques-en-ligne-pour-le-primaire-194x300.jpeg",
+      "publishedAt": "2026-09-17T03:29:29.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aeaiqqi",
       "title": "Les agriculteurs de demain seront-ils encore des enfants d’agriculteurs ?",
       "summary": "L’ESSENTIEL Pendant longtemps, être agriculteur signifiait avant tout être enfant d’agriculteur. Ce n’est plus le cas aujourd’hui et l’arrivée d’investisseurs extérieurs dans le secteur suscite diverses craintes. Mais la fin de l’agriculture familiale est-elle vraiment inéluctable ? Qui nourrira la France demain ? Cett",
@@ -131,7 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +183,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9vmcpe",
@@ -165,8 +201,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apor7th",
@@ -181,8 +217,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ay36e52",
@@ -197,8 +233,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a95a4db",
@@ -213,8 +249,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "argahsn",
@@ -229,8 +265,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "al8aac0",
@@ -245,8 +281,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a16av4u",
@@ -261,8 +297,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aargwil",
@@ -277,8 +313,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6o2bir",
@@ -293,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -309,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -325,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -343,7 +379,59 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6umhpz",
+      "title": "Alors que le coût de l’information progresse, il est de plus en plus difficile d’en déterminer le juste prix",
+      "summary": "L’ESSENTIEL Le coût de l’information est loin d’être négligeable. Or, pour de nombreux médias, il est difficile de bien monétiser leur production. L’irruption des usages de l’intelligence artificielle et la fragmentation des audiences rendent le contexte des producteurs d’information encore plus incertain. Au-delà de l",
+      "link": "https://theconversation.com/alors-que-le-cout-de-linformation-progresse-il-est-de-plus-en-plus-difficile-den-determiner-le-juste-prix-291388",
+      "image": "https://counter.theconversation.com/content/291388/count.gif",
+      "publishedAt": "2026-09-15T15:43:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avjcvoz",
+      "title": "À l’heure de l’IA générative, que signifie encore apprendre une langue ?",
+      "summary": "Ces deux jeunes touristes utilisent une application de traduction sur leur téléphone pour communiquer avec la population pendant leur voyage. Billow 926/Unsplash, CC BY L’ESSENTIEL Face aux progrès de l’intelligence artificielle générative, pourquoi apprendre une langue étrangère ? Communiquer, c’est produire des phras",
+      "link": "https://theconversation.com/a-lheure-de-lia-generative-que-signifie-encore-apprendre-une-langue-288545",
+      "image": "https://images.theconversation.com/files/752804/original/file-20260807-50-eatcxi.jpg?ixlib=rb-4.1.1&amp;rect=498%2C428%2C2718%2C1812&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-15T15:45:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4nva6m",
+      "title": "Beaucoup d’appelés, peu d’élus : quand le Hellfest instaure un rite d’attente numérique",
+      "summary": "Au Hellfest, à Clisson en Loire-Atlantique, édition 2026. Corentin Charbonnier, Fourni par l'auteur L’ESSENTIEL Mis en vente au début de l’été, les passes donnant accès à l’édition 2027 du célèbre festival de musiques extrêmes, qui se tiendra en juin prochain, ont été vendus en moins d’une heure. Le parcours numérique ",
+      "link": "https://theconversation.com/beaucoup-dappeles-peu-delus-quand-le-hellfest-instaure-un-rite-dattente-numerique-288553",
+      "image": "https://images.theconversation.com/files/751255/original/file-20260730-60-f33tgj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5757%2C3838&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-15T15:43:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -362,93 +450,7 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6umhpz",
-      "title": "Alors que le coût de l’information progresse, il est de plus en plus difficile d’en déterminer le juste prix",
-      "summary": "L’ESSENTIEL Le coût de l’information est loin d’être négligeable. Or, pour de nombreux médias, il est difficile de bien monétiser leur production. L’irruption des usages de l’intelligence artificielle et la fragmentation des audiences rendent le contexte des producteurs d’information encore plus incertain. Au-delà de l",
-      "link": "https://theconversation.com/alors-que-le-cout-de-linformation-progresse-il-est-de-plus-en-plus-difficile-den-determiner-le-juste-prix-291388",
-      "image": "https://counter.theconversation.com/content/291388/count.gif",
-      "publishedAt": "2026-09-15T15:43:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3rleoc",
-      "title": "Orientation à l’école : pourquoi l’échec se répète",
-      "summary": "Pourquoi l’éducation à l’orientation échoue-t-elle régulièrement à s’installer dans l’école française ? Dans L’éducation à l’orientation en France. Anatomie d’un échec récurrent (L’Harmattan, 2026), Bernard Desclaux revient sur l’histoire de cette ambition éducative L’article Orientation à l’école : pourquoi l’échec se",
-      "link": "https://www.cafepedagogique.net/2026/09/16/orientation-a-lecole-pourquoi-lechec-se-repete/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/JPVeran-cafepedagogique-225x300.jpeg",
-      "publishedAt": "2026-09-16T03:45:13.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avjcvoz",
-      "title": "À l’heure de l’IA générative, que signifie encore apprendre une langue ?",
-      "summary": "Ces deux jeunes touristes utilisent une application de traduction sur leur téléphone pour communiquer avec la population pendant leur voyage. Billow 926/Unsplash, CC BY L’ESSENTIEL Face aux progrès de l’intelligence artificielle générative, pourquoi apprendre une langue étrangère ? Communiquer, c’est produire des phras",
-      "link": "https://theconversation.com/a-lheure-de-lia-generative-que-signifie-encore-apprendre-une-langue-288545",
-      "image": "https://images.theconversation.com/files/752804/original/file-20260807-50-eatcxi.jpg?ixlib=rb-4.1.1&amp;rect=498%2C428%2C2718%2C1812&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-15T15:45:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4nva6m",
-      "title": "Beaucoup d’appelés, peu d’élus : quand le Hellfest instaure un rite d’attente numérique",
-      "summary": "Au Hellfest, à Clisson en Loire-Atlantique, édition 2026. Corentin Charbonnier, Fourni par l'auteur L’ESSENTIEL Mis en vente au début de l’été, les passes donnant accès à l’édition 2027 du célèbre festival de musiques extrêmes, qui se tiendra en juin prochain, ont été vendus en moins d’une heure. Le parcours numérique ",
-      "link": "https://theconversation.com/beaucoup-dappeles-peu-delus-quand-le-hellfest-instaure-un-rite-dattente-numerique-288553",
-      "image": "https://images.theconversation.com/files/751255/original/file-20260730-60-f33tgj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5757%2C3838&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-15T15:43:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq8drmu",
-      "title": "PISA : l’étrange exception française des sciences",
-      "summary": "« Pourquoi les multiples raisons invoquées pour expliquer les fortes baisses en mathématiques et en compréhension de lecture n’agiraient que très peu dans le secteur des sciences ? » s’interroge l’historien de l’éducation L’article PISA : l’étrange exception française des sciences est apparu en premier sur Le Café péda",
-      "link": "https://www.cafepedagogique.net/2026/09/16/pisa-letrange-exception-francaise-des-sciences/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Claude-Lelievre-cafe-pedagogique-300x300.jpg",
-      "publishedAt": "2026-09-16T03:50:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -468,7 +470,25 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3rleoc",
+      "title": "Orientation à l’école : pourquoi l’échec se répète",
+      "summary": "Pourquoi l’éducation à l’orientation échoue-t-elle régulièrement à s’installer dans l’école française ? Dans L’éducation à l’orientation en France. Anatomie d’un échec récurrent (L’Harmattan, 2026), Bernard Desclaux revient sur l’histoire de cette ambition éducative L’article Orientation à l’école : pourquoi l’échec se",
+      "link": "https://www.cafepedagogique.net/2026/09/16/orientation-a-lecole-pourquoi-lechec-se-repete/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/05/JPVeran-cafepedagogique-225x300.jpeg",
+      "publishedAt": "2026-09-16T03:45:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,7 +506,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aq8drmu",
+      "title": "PISA : l’étrange exception française des sciences",
+      "summary": "« Pourquoi les multiples raisons invoquées pour expliquer les fortes baisses en mathématiques et en compréhension de lecture n’agiraient que très peu dans le secteur des sciences ? » s’interroge l’historien de l’éducation L’article PISA : l’étrange exception française des sciences est apparu en premier sur Le Café péda",
+      "link": "https://www.cafepedagogique.net/2026/09/16/pisa-letrange-exception-francaise-des-sciences/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Claude-Lelievre-cafe-pedagogique-300x300.jpg",
+      "publishedAt": "2026-09-16T03:50:58.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -502,7 +538,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -518,7 +554,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -534,41 +570,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar1h0e4",
-      "title": "« La première réforme à conduire sera celle de la manière de réformer »",
-      "summary": "Réduire les effectifs, investir dans la santé des jeunes, lutter contre les inégalités et la ségrégation scolaire, renforcer le premier degré : ce sont quelques pistes et priorités qui se L’article « La première réforme à conduire sera celle de la manière de réformer » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/15/la-premiere-reforme-a-conduire-sera-celle-de-la-maniere-de-reformer/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Morgane-Verviers-242x300.jpg",
-      "publishedAt": "2026-09-15T03:58:27.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aum865j",
-      "title": "1% des personnels interrogés sont en accord avec les réformes menées depuis 2017 (UNSA)",
-      "summary": "« Personne ne pourra dire qu’il ne savait pas » prévient Morgane Verviers, la secrétaire générale de l’UNSA éducation. Avec 43 000 réponses, le baromètre 2026 de l’UNSA Éducation dresse L’article 1% des personnels interrogés sont en accord avec les réformes menées depuis 2017 (UNSA) est apparu en premier sur Le Café pé",
-      "link": "https://www.cafepedagogique.net/2026/09/15/1-des-personnels-interroges-sont-en-accord-avec-les-reformes-menees-depuis-2017-unsa/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/UNSA-education-300x185.jpeg",
-      "publishedAt": "2026-09-15T04:00:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -587,7 +589,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -605,7 +607,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -623,7 +625,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -639,7 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -655,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -671,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -687,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -705,7 +707,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     }
   ]
