@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:36:55.242Z",
+  "generatedAt": "2026-09-18T15:52:20.179Z",
   "themes": [
     {
       "id": "education-medias",
@@ -134,7 +134,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 93,
+      "urgency": 87,
       "urgencyLevel": "haute"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +169,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -203,25 +203,6 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "avd9h8e",
-      "title": "Pour une approche culturelle de l’Intelligence Artificielle",
-      "summary": "Quoi ? L’Intelligence Artificielle ne commence pas avec ChatGPT ? ne se réduit pas à des algorithmes incompréhensibles ? constitue une création de l’intelligence humaine et non une puissance démiurgique ? … Sans doute L’article Pour une approche culturelle de l’Intelligence Artificielle est apparu en premier sur Le Caf",
-      "link": "https://www.cafepedagogique.net/2026/09/18/pour-une-approche-culturelle-de-lintelligence-artificielle/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Histoire-culturelle-de-lIA-1-218x300.jpeg",
-      "publishedAt": "2026-09-18T03:49:54.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "algorithme",
-        "intelligence artificielle"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
       "urgency": 73,
       "urgencyLevel": "haute"
     },
@@ -240,8 +221,27 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avd9h8e",
+      "title": "Pour une approche culturelle de l’Intelligence Artificielle",
+      "summary": "Quoi ? L’Intelligence Artificielle ne commence pas avec ChatGPT ? ne se réduit pas à des algorithmes incompréhensibles ? constitue une création de l’intelligence humaine et non une puissance démiurgique ? … Sans doute L’article Pour une approche culturelle de l’Intelligence Artificielle est apparu en premier sur Le Caf",
+      "link": "https://www.cafepedagogique.net/2026/09/18/pour-une-approche-culturelle-de-lintelligence-artificielle/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Histoire-culturelle-de-lIA-1-218x300.jpeg",
+      "publishedAt": "2026-09-18T03:49:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "algorithme",
+        "intelligence artificielle"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awpkplf",
@@ -258,8 +258,24 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "afmhxke",
+      "title": "Museums on prescription: how cultural activities are becoming crucial to the public health debate",
+      "summary": "\"Museotherapy\" is gaining ground. In Europe, cultural pursuits are connecting communities and improving collective wellbeing, according to the Culture as Care Report. Loic Manegarium/Pexels, CC BY KEY TAKEAWAYS On June 18, European institutions declared culture to be a strategic priority for the European Union. It is n",
+      "link": "https://theconversation.com/museums-on-prescription-how-cultural-activities-are-becoming-crucial-to-the-public-health-debate-291083",
+      "image": "https://images.theconversation.com/files/757533/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T15:34:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7ppuz8",
@@ -274,8 +290,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awj3wqf",
@@ -290,8 +306,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apn1i0w",
@@ -306,8 +322,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avre9tw",
@@ -322,8 +338,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am94gq5",
@@ -338,8 +354,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atrlhjj",
@@ -357,24 +373,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "afmhxke",
-      "title": "Museums on prescription: how cultural activities are becoming crucial to the public health debate",
-      "summary": "\"Museotherapy\" is gaining ground. In Europe, cultural pursuits are connecting communities and improving collective wellbeing, according to the Culture as Care Report. Loic Manegarium/Pexels, CC BY KEY TAKEAWAYS On June 18, European institutions declared culture to be a strategic priority for the European Union. It is n",
-      "link": "https://theconversation.com/museums-on-prescription-how-cultural-activities-are-becoming-crucial-to-the-public-health-debate-291083",
-      "image": "https://images.theconversation.com/files/757533/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-17T15:34:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atv6f0q",
@@ -389,8 +389,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apb2j5o",
@@ -405,8 +405,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avueycg",
@@ -421,7 +421,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -437,7 +437,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -453,7 +453,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -469,7 +469,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +485,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +517,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,7 +533,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -549,23 +549,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ays0q2e",
-      "title": "Could victory for the AfD spell the end of wind farms in Germany?",
-      "summary": "KEY TAKEAWAYS The far-right party Alternative für Deutschland (AfD), which came out on top in the elections in Saxony-Anhalt, has been pushing an anti-wind farm narrative for several years. The AfD intends to stop the installation of wind turbines, at a time when Germany is rapidly accelerating its energy transition. H",
-      "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
-      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-16T16:03:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -583,7 +567,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ays0q2e",
+      "title": "Could victory for the AfD spell the end of wind farms in Germany?",
+      "summary": "KEY TAKEAWAYS The far-right party Alternative für Deutschland (AfD), which came out on top in the elections in Saxony-Anhalt, has been pushing an anti-wind farm narrative for several years. The AfD intends to stop the installation of wind turbines, at a time when Germany is rapidly accelerating its energy transition. H",
+      "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
+      "image": "https://images.theconversation.com/files/759310/original/file-20260911-50-oy03kh.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-16T16:03:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -599,7 +599,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -615,7 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -631,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -647,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -663,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -679,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -695,8 +695,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     }
   ]
 }
