@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:57:46.885Z",
+  "generatedAt": "2026-09-18T03:18:39.294Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 94,
+      "urgency": 88,
       "urgencyLevel": "haute"
     },
     {
@@ -150,7 +150,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 84,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -166,7 +166,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -182,7 +182,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -198,7 +198,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -214,7 +214,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -232,8 +232,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayneshq",
@@ -248,8 +248,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axbgzqc",
@@ -264,8 +264,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahplr85",
@@ -280,8 +280,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5c6l48",
@@ -296,8 +296,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aeilxpl",
@@ -312,8 +312,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aszfa7d",
@@ -328,8 +328,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asuri9x",
@@ -344,8 +344,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayy7kz3",
@@ -360,7 +360,41 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aeaiqqi",
+      "title": "Les agriculteurs de demain seront-ils encore des enfants d’agriculteurs ?",
+      "summary": "L’ESSENTIEL Pendant longtemps, être agriculteur signifiait avant tout être enfant d’agriculteur. Ce n’est plus le cas aujourd’hui et l’arrivée d’investisseurs extérieurs dans le secteur suscite diverses craintes. Mais la fin de l’agriculture familiale est-elle vraiment inéluctable ? Qui nourrira la France demain ? Cett",
+      "link": "https://theconversation.com/les-agriculteurs-de-demain-seront-ils-encore-des-enfants-dagriculteurs-286767",
+      "image": "https://counter.theconversation.com/content/286767/count.gif",
+      "publishedAt": "2026-09-16T15:29:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aemfd8q",
+      "title": "« Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique",
+      "summary": "« Cette école n’a rien de « petit » : elle s’efforce de rendre possible la promesse républicaine de l’école publique. Rien de moins » écrit Geneviève Legal, directrice d’école. L’article « Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/09/17/cette-ecole-na-rien-de-petit-le-plaidoyer-de-genevieve-legal-pour-lecole-publique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Genevieve-Legal-242x300.jpg",
+      "publishedAt": "2026-09-17T03:30:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 98,
+      "relevanceLevel": "haute",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -379,73 +413,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aeaiqqi",
-      "title": "Les agriculteurs de demain seront-ils encore des enfants d’agriculteurs ?",
-      "summary": "L’ESSENTIEL Pendant longtemps, être agriculteur signifiait avant tout être enfant d’agriculteur. Ce n’est plus le cas aujourd’hui et l’arrivée d’investisseurs extérieurs dans le secteur suscite diverses craintes. Mais la fin de l’agriculture familiale est-elle vraiment inéluctable ? Qui nourrira la France demain ? Cett",
-      "link": "https://theconversation.com/les-agriculteurs-de-demain-seront-ils-encore-des-enfants-dagriculteurs-286767",
-      "image": "https://counter.theconversation.com/content/286767/count.gif",
-      "publishedAt": "2026-09-16T15:29:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6wwvxj",
-      "title": "A l’approche de la présidentielle, l’IFE veut peser dans le débat public",
-      "summary": "L’institut français de l’Éducation (IFE) sort une nouvelle publication, Edudébat, dans l’optique d’aiguiller les professionnels et les décideurs sur des sujets qui font l’actualité éducative. Plus largement, son directeur, Xavier L’article A l’approche de la présidentielle, l’IFE veut peser dans le débat public est app",
-      "link": "https://www.cafepedagogique.net/2026/09/17/a-lapproche-de-la-presidentielle-life-veut-peser-dans-le-debat-public/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IFE-300x108.png",
-      "publishedAt": "2026-09-17T04:00:02.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axmnwy0",
-      "title": "Apprendre à lire dès deux ans ?",
-      "summary": "Méthode de lecture miracle, mirage scientifique, « boniment habile mais menteur » ? Au-delà des « enthousiasmes médiatiques », Paul Devin, président de l’Institut de recherches de la FSU, L’article Apprendre à lire dès deux ans ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/17/apprendre-a-lire-des-deux-ans/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/01/paul-devin-avatar-300x277.jpeg",
-      "publishedAt": "2026-09-17T03:51:24.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aemfd8q",
-      "title": "« Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique",
-      "summary": "« Cette école n’a rien de « petit » : elle s’efforce de rendre possible la promesse républicaine de l’école publique. Rien de moins » écrit Geneviève Legal, directrice d’école. L’article « Cette école n’a rien de petit » : le plaidoyer de Geneviève Legal pour l’école publique est apparu en premier sur Le Café pédagogiq",
-      "link": "https://www.cafepedagogique.net/2026/09/17/cette-ecole-na-rien-de-petit-le-plaidoyer-de-genevieve-legal-pour-lecole-publique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Genevieve-Legal-242x300.jpg",
-      "publishedAt": "2026-09-17T03:30:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 98,
-      "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -463,7 +431,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -481,7 +449,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -499,7 +467,39 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6wwvxj",
+      "title": "A l’approche de la présidentielle, l’IFE veut peser dans le débat public",
+      "summary": "L’institut français de l’Éducation (IFE) sort une nouvelle publication, Edudébat, dans l’optique d’aiguiller les professionnels et les décideurs sur des sujets qui font l’actualité éducative. Plus largement, son directeur, Xavier L’article A l’approche de la présidentielle, l’IFE veut peser dans le débat public est app",
+      "link": "https://www.cafepedagogique.net/2026/09/17/a-lapproche-de-la-presidentielle-life-veut-peser-dans-le-debat-public/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IFE-300x108.png",
+      "publishedAt": "2026-09-17T04:00:02.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axmnwy0",
+      "title": "Apprendre à lire dès deux ans ?",
+      "summary": "Méthode de lecture miracle, mirage scientifique, « boniment habile mais menteur » ? Au-delà des « enthousiasmes médiatiques », Paul Devin, président de l’Institut de recherches de la FSU, L’article Apprendre à lire dès deux ans ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/17/apprendre-a-lire-des-deux-ans/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/01/paul-devin-avatar-300x277.jpeg",
+      "publishedAt": "2026-09-17T03:51:24.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +517,7 @@
       ],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -535,7 +535,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -551,7 +551,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -567,7 +567,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -583,7 +583,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -599,7 +599,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -615,7 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -631,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -647,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -663,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -679,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -695,7 +695,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     }
   ]
