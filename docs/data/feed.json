@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T15:52:20.179Z",
+  "generatedAt": "2026-09-18T20:25:45.836Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "ax5crjb",
+      "title": "Des dollars à l’effigie de Trump ? Une pratique rarissime hors des monarchies",
+      "summary": "L’ESSENTIEL L’administration Trump souhaite faire figurer le visage ou la signature du président sur des pièces et billets américains, malgré une loi interdisant de représenter une personne vivante sur les billets. À l’échelle mondiale, les dirigeants en exercice apparaissent presque uniquement sur la monnaie des monar",
+      "link": "https://theconversation.com/des-dollars-a-leffigie-de-trump-une-pratique-rarissime-hors-des-monarchies-292246",
+      "image": "https://counter.theconversation.com/content/292246/count.gif",
+      "publishedAt": "2026-09-18T16:03:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aes0fek",
       "title": "Numérique, IA, interdictions : l’école française toujours en quête d’un cap",
       "summary": "Rentrée scolaire à l’ère du numérique : et les enseignants ?Accablés par la suite de réformes et autres injonctions venues d’en haut depuis de si nombreuses années, les enseignants s’interrogent. L’article Numérique, IA, interdictions : l’école française toujours en quête d’un cap est apparu en premier sur Le Café péda",
@@ -134,7 +150,71 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 87,
+      "urgency": 83,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7stdg1",
+      "title": "Rapprochement Canada-UE : l’Histoire donne-t-elle raison à Mark Carney ?",
+      "summary": "L’ESSENTIEL Le Canada revendique une identité politique distincte des États-Unis, fondée notamment sur le bilinguisme et une culture du compromis. Du maintien de la paix élaboré par Lester B. Pearson dans les années 1950 à la « Troisième Option » de Mitchell Sharp vingt ans plus tard, Ottawa a historiquement privilégié",
+      "link": "https://theconversation.com/rapprochement-canada-ue-lhistoire-donne-t-elle-raison-a-mark-carney-292339",
+      "image": "https://images.theconversation.com/files/760665/original/file-20260917-50-r93ra5.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-18T16:04:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahs3buk",
+      "title": "Pourquoi le paiement en espèces fait un retour inattendu en Australie",
+      "summary": "Les trois quarts des Australiens gardent de l’argent liquide sur eux, pour un montant médian équivalent à 40 euros. Infomofo/Flickr, CC BY L’ESSENTIEL Après vingt ans de recul, l’usage des espèces repart légèrement à la hausse en Australie. Le liquide reste essentiel pour les personnes âgées, modestes, rurales ou confr",
+      "link": "https://theconversation.com/pourquoi-le-paiement-en-especes-fait-un-retour-inattendu-en-australie-292247",
+      "image": "https://images.theconversation.com/files/760520/original/file-20260917-50-1iz0ha.jpg?ixlib=rb-4.1.1&amp;rect=0%2C33%2C800%2C533&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-18T16:03:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aafjdc5",
+      "title": "Remplacer Churchill par des animaux sauvages, est-ce effacer l’histoire ?",
+      "summary": "Winston Churchill et d’autres grandes figures historiques vont disparaître des prochains billets de banque britanniques, au profit d’animaux sauvages. Janusz Pienkowski/shutterstock L’ESSENTIEL La Banque d’Angleterre va remplacer Churchill et d’autres figures historiques par des animaux sauvages sur ses prochains bille",
+      "link": "https://theconversation.com/remplacer-churchill-par-des-animaux-sauvages-est-ce-effacer-lhistoire-292248",
+      "image": "https://images.theconversation.com/files/760464/original/file-20260318-57-e51evz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3581%2C2387&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-18T16:02:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aw2007d",
+      "title": "Près d’un billet de banque sur six dans le monde représente un animal sauvage – et pas toujours celui auquel on s’attendrait",
+      "summary": "L’ESSENTIEL Près d’un billet sur six dans le monde représente un animal sauvage. Les oiseaux et les mammifères sont les espèces les plus souvent mises à l’honneur. Les espèces menacées pourraient gagner en visibilité grâce aux billets, sans garantie toutefois d’une meilleure protection. Les billets et les pièces de mon",
+      "link": "https://theconversation.com/pres-dun-billet-de-banque-sur-six-dans-le-monde-represente-un-animal-sauvage-et-pas-toujours-celui-auquel-on-sattendrait-292249",
+      "image": "https://images.theconversation.com/files/608422/original/file-20240722-21-jkt8hr.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-18T16:02:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -153,7 +233,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -187,8 +267,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aa5jo3v",
@@ -202,24 +282,6 @@
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "arsqc91",
-      "title": "Scream 2027 : Le retour de la langue aux examens !",
-      "summary": "La question de l’évaluation de la langue aux examens avait occupé les écrans au printemps 2026. Les médiatiques injonctions à « l’exigence », portées par le ministre, avaient fait un flop dans L’article Scream 2027 : Le retour de la langue aux examens ! est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/18/scream-2027-le-retour-de-la-langue-aux-examens/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/La-langue-aux-examens-le-retour-300x169.jpg",
-      "publishedAt": "2026-09-18T04:00:05.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "évaluation"
-      ],
-      "relevance": 55,
       "relevanceLevel": "moyenne",
       "urgency": 68,
       "urgencyLevel": "moyenne"
@@ -240,121 +302,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awpkplf",
-      "title": "Maitrise de la langue : en finir avec les égarements ?",
-      "summary": "Vers une année scolaire belliqueuse et passéiste ? Après l’interdiction des smartphones et des réseaux sociaux, après la promotion du nouveau service militaire national, voici que le ministre Edouard Geffray L’article Maitrise de la langue : en finir avec les égarements ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/18/maitrise-de-la-langue-en-finir-avec-les-egarements/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/Orthographe-nouvelles-problematiques-300x170.png",
-      "publishedAt": "2026-09-18T03:45:15.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afmhxke",
-      "title": "Museums on prescription: how cultural activities are becoming crucial to the public health debate",
-      "summary": "\"Museotherapy\" is gaining ground. In Europe, cultural pursuits are connecting communities and improving collective wellbeing, according to the Culture as Care Report. Loic Manegarium/Pexels, CC BY KEY TAKEAWAYS On June 18, European institutions declared culture to be a strategic priority for the European Union. It is n",
-      "link": "https://theconversation.com/museums-on-prescription-how-cultural-activities-are-becoming-crucial-to-the-public-health-debate-291083",
-      "image": "https://images.theconversation.com/files/757533/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-17T15:34:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a7ppuz8",
-      "title": "Fonction publique : ils veulent bien faire leur travail, mais en sont empêchés",
-      "summary": "Déjà en 2021, le collectif Nos Services Publics nous alertait, en se basant sur une première enquête, de la perte de sens ressentie par 80% des agent·es interrogé·es. Cinq ans L’article Fonction publique : ils veulent bien faire leur travail, mais en sont empêchés est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/18/fonction-publique-ils-veulent-bien-faire-leur-travail-mais-en-sont-empeches/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rapport-1-300x210.png",
-      "publishedAt": "2026-09-18T03:50:55.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awj3wqf",
-      "title": "Les Rendez-vous de l’orientation Onisep : la programmation 2026-2027",
-      "summary": "Chaque mois, l’Onisep accueille un expert ou une experte du monde de la recherche scientifique qui intervient sur une thématique en lien avec l’orientation. Sous un format d’une heure en L’article Les Rendez-vous de l’orientation Onisep : la programmation 2026-2027 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/18/les-rendez-vous-de-lorientation-onisep-la-programmation-2026-2027/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Image_RDVO_Calendrier_2026_2027-300x200.png",
-      "publishedAt": "2026-09-18T03:29:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apn1i0w",
-      "title": "Journées du patrimoine : l’Histoire se découvre en famille",
-      "summary": "Samedi 19 septembre et dimanche 20 septembre, pour leur 43e édition, les journées européennes du patrimoine mettent à l’honneur le patrimoine de la photographie à l’occasion du Bicentenaire de la L’article Journées du patrimoine : l’Histoire se découvre en famille est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/18/journees-du-patrimoine-lhistoire-se-decouvre-en-famille/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/2026-jep-267x300.jpg",
-      "publishedAt": "2026-09-18T03:28:40.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avre9tw",
-      "title": "Maud Chareyron nommée directrice académique adjointe dans le Finistère",
-      "summary": "Maud Chareyron est nommée directrice académique adjointe des services de l’Éducation nationale (DAASEN) du Finistère, selon un arrêté publié au Journal officiel le 15 septembre 2026. Inspectrice d’académie-inspectrice pédagogique régionale L’article Maud Chareyron nommée directrice académique adjointe dans le Finistère",
-      "link": "https://www.cafepedagogique.net/2026/09/18/maud-chareyron-nommee-directrice-academique-adjointe-dans-le-finistere/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/images-261x300.png",
-      "publishedAt": "2026-09-18T03:27:26.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am94gq5",
-      "title": "Prix UNICEF de littérature jeunesse 2027",
-      "summary": "Le Prix UNICEF de littérature jeunesse revient en 2027 avec pour thème « Grandir en sécurité, des mots pour protéger ». Cette nouvelle édition, parrainée par l’autrice et dessinatrice Pénélope L’article Prix UNICEF de littérature jeunesse 2027 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/18/prix-unicef-de-litterature-jeunesse-2027/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/12/decouverte-de-lunicef-et-des-droits-des-enfants-.png",
-      "publishedAt": "2026-09-18T03:27:25.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -373,7 +321,59 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "arsqc91",
+      "title": "Scream 2027 : Le retour de la langue aux examens !",
+      "summary": "La question de l’évaluation de la langue aux examens avait occupé les écrans au printemps 2026. Les médiatiques injonctions à « l’exigence », portées par le ministre, avaient fait un flop dans L’article Scream 2027 : Le retour de la langue aux examens ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/18/scream-2027-le-retour-de-la-langue-aux-examens/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/La-langue-aux-examens-le-retour-300x169.jpg",
+      "publishedAt": "2026-09-18T04:00:05.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "évaluation"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awpkplf",
+      "title": "Maitrise de la langue : en finir avec les égarements ?",
+      "summary": "Vers une année scolaire belliqueuse et passéiste ? Après l’interdiction des smartphones et des réseaux sociaux, après la promotion du nouveau service militaire national, voici que le ministre Edouard Geffray L’article Maitrise de la langue : en finir avec les égarements ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/18/maitrise-de-la-langue-en-finir-avec-les-egarements/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/Orthographe-nouvelles-problematiques-300x170.png",
+      "publishedAt": "2026-09-18T03:45:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "afmhxke",
+      "title": "Museums on prescription: how cultural activities are becoming crucial to the public health debate",
+      "summary": "\"Museotherapy\" is gaining ground. In Europe, cultural pursuits are connecting communities and improving collective wellbeing, according to the Culture as Care Report. Loic Manegarium/Pexels, CC BY KEY TAKEAWAYS On June 18, European institutions declared culture to be a strategic priority for the European Union. It is n",
+      "link": "https://theconversation.com/museums-on-prescription-how-cultural-activities-are-becoming-crucial-to-the-public-health-debate-291083",
+      "image": "https://images.theconversation.com/files/757533/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T15:34:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -389,7 +389,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -405,7 +405,87 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a7ppuz8",
+      "title": "Fonction publique : ils veulent bien faire leur travail, mais en sont empêchés",
+      "summary": "Déjà en 2021, le collectif Nos Services Publics nous alertait, en se basant sur une première enquête, de la perte de sens ressentie par 80% des agent·es interrogé·es. Cinq ans L’article Fonction publique : ils veulent bien faire leur travail, mais en sont empêchés est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/18/fonction-publique-ils-veulent-bien-faire-leur-travail-mais-en-sont-empeches/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/rapport-1-300x210.png",
+      "publishedAt": "2026-09-18T03:50:55.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awj3wqf",
+      "title": "Les Rendez-vous de l’orientation Onisep : la programmation 2026-2027",
+      "summary": "Chaque mois, l’Onisep accueille un expert ou une experte du monde de la recherche scientifique qui intervient sur une thématique en lien avec l’orientation. Sous un format d’une heure en L’article Les Rendez-vous de l’orientation Onisep : la programmation 2026-2027 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/18/les-rendez-vous-de-lorientation-onisep-la-programmation-2026-2027/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Image_RDVO_Calendrier_2026_2027-300x200.png",
+      "publishedAt": "2026-09-18T03:29:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apn1i0w",
+      "title": "Journées du patrimoine : l’Histoire se découvre en famille",
+      "summary": "Samedi 19 septembre et dimanche 20 septembre, pour leur 43e édition, les journées européennes du patrimoine mettent à l’honneur le patrimoine de la photographie à l’occasion du Bicentenaire de la L’article Journées du patrimoine : l’Histoire se découvre en famille est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/18/journees-du-patrimoine-lhistoire-se-decouvre-en-famille/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/2026-jep-267x300.jpg",
+      "publishedAt": "2026-09-18T03:28:40.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avre9tw",
+      "title": "Maud Chareyron nommée directrice académique adjointe dans le Finistère",
+      "summary": "Maud Chareyron est nommée directrice académique adjointe des services de l’Éducation nationale (DAASEN) du Finistère, selon un arrêté publié au Journal officiel le 15 septembre 2026. Inspectrice d’académie-inspectrice pédagogique régionale L’article Maud Chareyron nommée directrice académique adjointe dans le Finistère",
+      "link": "https://www.cafepedagogique.net/2026/09/18/maud-chareyron-nommee-directrice-academique-adjointe-dans-le-finistere/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/images-261x300.png",
+      "publishedAt": "2026-09-18T03:27:26.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "am94gq5",
+      "title": "Prix UNICEF de littérature jeunesse 2027",
+      "summary": "Le Prix UNICEF de littérature jeunesse revient en 2027 avec pour thème « Grandir en sécurité, des mots pour protéger ». Cette nouvelle édition, parrainée par l’autrice et dessinatrice Pénélope L’article Prix UNICEF de littérature jeunesse 2027 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/18/prix-unicef-de-litterature-jeunesse-2027/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/12/decouverte-de-lunicef-et-des-droits-des-enfants-.png",
+      "publishedAt": "2026-09-18T03:27:25.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -437,7 +517,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -453,7 +533,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -469,7 +549,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +565,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +581,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +597,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,7 +613,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -549,7 +629,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -567,8 +647,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ays0q2e",
@@ -583,8 +663,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apor7th",
@@ -599,8 +679,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ay36e52",
@@ -615,87 +695,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a95a4db",
-      "title": "Après les restrictions du commerce avec les colonies israéliennes, l’accord de libre-échange avec l’UE est-il menacé ?",
-      "summary": "L’ESSENTIEL Que l’on considère les importations ou les exportations, l’Union européenne est la principale partenaire commerciale d’Israël, avec 43 milliards d’euros de marchandises échangées en 2025. Ces relations commerciales reposent sur un accord d’association dont le volet de libre-échange mentionne l'exigence d’ét",
-      "link": "https://theconversation.com/apres-les-restrictions-du-commerce-avec-les-colonies-israeliennes-laccord-de-libre-echange-avec-lue-est-il-menace-291884",
-      "image": "https://counter.theconversation.com/content/291884/count.gif",
-      "publishedAt": "2026-09-16T15:27:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "argahsn",
-      "title": "Brève histoire de l’opéra dans les Balkans et en Turquie",
-      "summary": "*Balkanska carica* (*La reine des Balkans*), premier opéra national monténégrin, est inspiré d’un livret de Nicolas Ier Petrovic Njegosh, mis en musique par l’Italien Dionisio de Sarno San Giorgio en 1890. Fourni par l'auteur Des turqueries mozartiennes aux opéras nationaux du XIXᵉ siècle, les scènes lyriques de Turqui",
-      "link": "https://theconversation.com/breve-histoire-de-lopera-dans-les-balkans-et-en-turquie-290883",
-      "image": "https://images.theconversation.com/files/760167/original/file-20260916-50-rsjogj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1801%2C1200&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-16T15:27:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "al8aac0",
-      "title": "Repenser le rôle des médias, des journalistes et de l’Arcom",
-      "summary": "L’exigence de neutralité des médias pourrait concerner bien plus que le seul service public. Nabil Saleh/Unsplash, CC BY L’ESSENTIEL Le débat sur le pluralisme dans l’audiovisuel public pose une question plus large : quelles règles pour les médias ? Trois principes peuvent servir de repères : neutralité, impartialité e",
-      "link": "https://theconversation.com/repenser-le-role-des-medias-des-journalistes-et-de-larcom-286453",
-      "image": "https://images.theconversation.com/files/757603/original/file-20260902-50-swy9z5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5848%2C3898&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-16T15:24:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a16av4u",
-      "title": "Peut-on ignorer les implications sécuritaires de la « starlinkisation » du réseau Internet en Afrique ?",
-      "summary": "L’ESSENTIEL La généralisation de la connexion Internet par voie satellitaire en Afrique s’illustre par l’implantation du fournisseur d’accès à Internet Starlink dans plus de la moitié des 54 États africains. Cette « starlinkisation » de l’accès à Internet en Afrique est perçue comme une aubaine pour lutter contre la fr",
-      "link": "https://theconversation.com/peut-on-ignorer-les-implications-securitaires-de-la-starlinkisation-du-reseau-internet-en-afrique-290198",
-      "image": "https://counter.theconversation.com/content/290198/count.gif",
-      "publishedAt": "2026-09-16T15:22:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aargwil",
-      "title": "Quiz - Les tout premiers influenceurs au monde étaient français et sont nés après la Révolution",
-      "summary": "Qui étaient les influenceurs avant Internet ? Bien avant Instagram et TikTok, des personnalités orientaient déjà les façons de s’habiller, de manger, de décorer son intérieur… et même de vivre. Apprenez-en plus sur ces influenceurs de l’après-1789 et découvrez comment leurs recommandations se diffusaient sans réseaux s",
-      "link": "https://theconversation.com/quiz-les-tout-premiers-influenceurs-au-monde-etaient-francais-et-sont-nes-apres-la-revolution-292180",
-      "image": "https://counter.theconversation.com/content/292180/count.gif",
-      "publishedAt": "2026-09-16T14:19:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 38,
       "urgencyLevel": "basse"
     }
   ]
