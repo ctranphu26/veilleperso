@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T10:21:13.593Z",
+  "generatedAt": "2026-09-19T15:23:57.140Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -179,7 +179,41 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9src5b",
+      "title": "10 ressources sélectionnées par le Café pédagogique",
+      "summary": "Retrouvez sur cette page 10 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Marine Doinel : « Les pratiques de lecture L’article 10 ressources sélectionnées par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/19/10-ressources-selectionnees-par-le-cafe-pedagogique-3/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Marine-Doinel-200x300.jpg",
+      "publishedAt": "2026-09-19T06:26:22.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5866ka",
+      "title": "Actualité de l’éducation du 14 au 18 septembre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 14 au 18 septembre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/19/actualite-de-leducation-du-14-au-18-septembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/101b9bae-9c5d-46c4-84ca-e34a7fc00751-300x200.png",
+      "publishedAt": "2026-09-19T06:00:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -198,8 +232,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ax5crjb",
@@ -214,8 +248,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a63ofnn",
@@ -230,7 +264,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -246,7 +280,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -262,7 +296,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -278,7 +312,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -294,26 +328,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abna62g",
-      "title": "Un stage pour découvrir et approfondir la pédagogie Freinet",
-      "summary": "L’ICEM-Pédagogie Freinet organise du 19 au 23 octobre 2026 à Saint-Herblain (Loire-Atlantique) un stage destiné aux enseignants du premier et du second degré, débutants comme expérimentés. Pendant cinq jours, les L’article Un stage pour découvrir et approfondir la pédagogie Freinet est apparu en premier sur Le Café péd",
-      "link": "https://www.cafepedagogique.net/2026/09/18/un-stage-pour-decouvrir-et-approfondir-la-pedagogie-freinet/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/stage-pedagogie-freinet-octobre-2026-23x19_0.png-300x248.webp",
-      "publishedAt": "2026-09-18T03:26:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "pédagogie",
-        "enseignant"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,7 +346,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -347,7 +362,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -366,7 +381,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -382,7 +397,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,7 +413,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -414,7 +429,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +448,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -451,7 +466,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -469,7 +484,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +500,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +516,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +532,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,23 +548,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am94gq5",
-      "title": "Prix UNICEF de littérature jeunesse 2027",
-      "summary": "Le Prix UNICEF de littérature jeunesse revient en 2027 avec pour thème « Grandir en sécurité, des mots pour protéger ». Cette nouvelle édition, parrainée par l’autrice et dessinatrice Pénélope L’article Prix UNICEF de littérature jeunesse 2027 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/18/prix-unicef-de-litterature-jeunesse-2027/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/12/decouverte-de-lunicef-et-des-droits-des-enfants-.png",
-      "publishedAt": "2026-09-18T03:27:25.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -565,7 +564,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -581,7 +580,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -597,7 +596,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -613,7 +612,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -629,7 +628,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -645,7 +644,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -661,7 +660,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -677,8 +676,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ays0q2e",
@@ -693,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     }
   ]
