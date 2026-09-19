@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T03:14:46.596Z",
+  "generatedAt": "2026-09-19T10:21:13.593Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,19 +119,67 @@
   "count": 35,
   "items": [
     {
-      "id": "ax5crjb",
-      "title": "Des dollars à l’effigie de Trump ? Une pratique rarissime hors des monarchies",
-      "summary": "L’ESSENTIEL L’administration Trump souhaite faire figurer le visage ou la signature du président sur des pièces et billets américains, malgré une loi interdisant de représenter une personne vivante sur les billets. À l’échelle mondiale, les dirigeants en exercice apparaissent presque uniquement sur la monnaie des monar",
-      "link": "https://theconversation.com/des-dollars-a-leffigie-de-trump-une-pratique-rarissime-hors-des-monarchies-292246",
-      "image": "https://counter.theconversation.com/content/292246/count.gif",
-      "publishedAt": "2026-09-18T16:03:39.000Z",
+      "id": "adbzgc8",
+      "title": "Les mots qui voyagent : du rromani aux pratiques langagières françaises",
+      "summary": "L’ESSENTIEL Pour certains, le rromani évoque « la langue des Gitans » ; pour d’autres, elle évoque simplement la Roumanie. Il s’agit en réalité d’une langue indo-aryenne, présente en Europe depuis plusieurs siècles, parlée sous de nombreuses variétés et reconnue parmi les langues de France. Des mots issus du rromani on",
+      "link": "https://theconversation.com/les-mots-qui-voyagent-du-rromani-aux-pratiques-langagieres-francaises-291581",
+      "image": "https://images.theconversation.com/files/760738/original/file-20260918-50-re6k5b.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-19T07:41:18.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ar7bues",
+      "title": "L’énigme du trench Burberry : pourquoi certains produits se démodent-ils quand d’autres deviennent « intemporels » ?",
+      "summary": "Le motif à carreaux Burberry illustre la manière dont certains codes visuels deviennent indissociables de l’identité d’une marque. Victoria and Albert Museum — Détail de l’affiche de l’exposition « The Burberry Trench: Crafting an Icon » L’ESSENTIEL Le Victoria and Albert Museum, une institution londonienne, consacre à",
+      "link": "https://theconversation.com/lenigme-du-trench-burberry-pourquoi-certains-produits-se-demodent-ils-quand-dautres-deviennent-intemporels-291899",
+      "image": "https://images.theconversation.com/files/759862/original/file-20260915-70-piibdv.png?ixlib=rb-4.1.1&amp;rect=609%2C0%2C596%2C397&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-19T07:40:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "af1lzmk",
+      "title": "Repas à un euro : quels autres leviers pour améliorer l’alimentation des étudiants ?",
+      "summary": "L’ESSENTIEL Depuis mai 2026, tous les étudiants peuvent bénéficier du repas à un euro dans les restaurants universitaires. Au-delà de cette mesure répondant à une urgence sociale, quelles solutions permettraient d’améliorer durablement leur alimentation ? Une recherche participative menée à Lyon apporte des éléments de",
+      "link": "https://theconversation.com/repas-a-un-euro-quels-autres-leviers-pour-ameliorer-lalimentation-des-etudiants-284890",
+      "image": "https://counter.theconversation.com/content/284890/count.gif",
+      "publishedAt": "2026-09-19T07:40:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aocm8b8",
+      "title": "Jeanne d’Arc, Clemenceau, les frères Lumière, Colette… l’incroyable galerie des refusés pour figurer sur un billet de banque",
+      "summary": "Un billet de banque à l'effigie de Jeanne d'Arc n'a jamais été produit pour ne pas froisser l'allié britannique. esquisse réalisée par le peintre Lucien Jonas Archives historiques de la banque de France Lucien Jonas L’ESSENTIEL La Banque centrale européenne organise un concours pour les nouveaux billets qu’elle va émet",
+      "link": "https://theconversation.com/jeanne-darc-clemenceau-les-freres-lumiere-colette-lincroyable-galerie-des-refuses-pour-figurer-sur-un-billet-de-banque-289782",
+      "image": "https://images.theconversation.com/files/760458/original/file-20260917-70-6zl5wp.jpg?ixlib=rb-4.1.1&amp;rect=36%2C0%2C884%2C589&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-19T07:26:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -150,8 +198,40 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "ax5crjb",
+      "title": "Des dollars à l’effigie de Trump ? Une pratique rarissime hors des monarchies",
+      "summary": "L’ESSENTIEL L’administration Trump souhaite faire figurer le visage ou la signature du président sur des pièces et billets américains, malgré une loi interdisant de représenter une personne vivante sur les billets. À l’échelle mondiale, les dirigeants en exercice apparaissent presque uniquement sur la monnaie des monar",
+      "link": "https://theconversation.com/des-dollars-a-leffigie-de-trump-une-pratique-rarissime-hors-des-monarchies-292246",
+      "image": "https://counter.theconversation.com/content/292246/count.gif",
+      "publishedAt": "2026-09-18T16:03:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a63ofnn",
+      "title": "De l’usine au parc d’attractions « Dragon Ball » : quand la puissance change de paysage",
+      "summary": "L’imaginaire du parc d’attractions renvoie à une civilisation de loisirs, loin de la puissance industrielle. Une erreur de perspective ? Thomas Stadler/Unsplash L’ESSENTIEL L’annonce de la création d’un parc d’attractions près de Cergy, dans le Val-d’Oise, a suscité un débat. Ce projet symboliserait le déclin industrie",
+      "link": "https://theconversation.com/de-lusine-au-parc-dattractions-dragon-ball-quand-la-puissance-change-de-paysage-292030",
+      "image": "https://images.theconversation.com/files/760148/original/file-20260916-50-hlsaro.jpg?ixlib=rb-4.1.1&amp;rect=0%2C168%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T15:35:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7stdg1",
@@ -166,7 +246,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -182,7 +262,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -198,7 +278,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -214,23 +294,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a63ofnn",
-      "title": "De l’usine au parc d’attractions « Dragon Ball » : quand la puissance change de paysage",
-      "summary": "L’imaginaire du parc d’attractions renvoie à une civilisation de loisirs, loin de la puissance industrielle. Une erreur de perspective ? Thomas Stadler/Unsplash L’ESSENTIEL L’annonce de la création d’un parc d’attractions près de Cergy, dans le Val-d’Oise, a suscité un débat. Ce projet symboliserait le déclin industrie",
-      "link": "https://theconversation.com/de-lusine-au-parc-dattractions-dragon-ball-quand-la-puissance-change-de-paysage-292030",
-      "image": "https://images.theconversation.com/files/760148/original/file-20260916-50-hlsaro.jpg?ixlib=rb-4.1.1&amp;rect=0%2C168%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-17T15:35:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +313,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +331,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +347,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -302,7 +366,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -318,7 +382,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -334,7 +398,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +414,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,7 +433,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -387,7 +451,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -405,7 +469,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,7 +485,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -437,7 +501,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -453,7 +517,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -469,7 +533,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +549,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +565,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +581,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,7 +597,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -549,7 +613,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -565,7 +629,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -581,7 +645,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -597,7 +661,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -613,42 +677,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aeaiqqi",
-      "title": "Les agriculteurs de demain seront-ils encore des enfants d’agriculteurs ?",
-      "summary": "L’ESSENTIEL Pendant longtemps, être agriculteur signifiait avant tout être enfant d’agriculteur. Ce n’est plus le cas aujourd’hui et l’arrivée d’investisseurs extérieurs dans le secteur suscite diverses craintes. Mais la fin de l’agriculture familiale est-elle vraiment inéluctable ? Qui nourrira la France demain ? Cett",
-      "link": "https://theconversation.com/les-agriculteurs-de-demain-seront-ils-encore-des-enfants-dagriculteurs-286767",
-      "image": "https://counter.theconversation.com/content/286767/count.gif",
-      "publishedAt": "2026-09-16T15:29:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9vmcpe",
-      "title": "Comment l’écriture en miroir reflète la richesse de l’écriture manuscrite",
-      "summary": "L’ESSENTIEL Avec le numérique, les claviers s’imposent au quotidien et l’écriture manuscrite se raréfie. Le geste d’écrire suppose un grand travail de motricité fine. La question de l’écriture en miroir souligne la complexité de cet apprentissage. Est-il pertinent d’apprendre à écrire à la main ? La question a connu un",
-      "link": "https://theconversation.com/comment-lecriture-en-miroir-reflete-la-richesse-de-lecriture-manuscrite-287819",
-      "image": "https://images.theconversation.com/files/751705/original/file-20260803-50-9lss65.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-16T15:29:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "apprentissage"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
     },
     {
       "id": "ays0q2e",
@@ -663,39 +693,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apor7th",
-      "title": "Il y a beaucoup moins de bombes atomiques qu’en 1990. Alors pourquoi le risque nucléaire augmente-t-il ?",
-      "summary": "L’ESSENTIEL Le nombre d’armes nucléaires dans le monde a chuté de façon spectaculaire depuis la fin de la guerre froide. Mais, depuis, de multiples accords de limitation des armements et de surveillance réciproque ont été annulés, et les puissances modernisent leurs arsenaux, tandis que la Chine accroît les siens. En o",
-      "link": "https://theconversation.com/il-y-a-beaucoup-moins-de-bombes-atomiques-quen-1990-alors-pourquoi-le-risque-nucleaire-augmente-t-il-291060",
-      "image": "https://counter.theconversation.com/content/291060/count.gif",
-      "publishedAt": "2026-09-16T15:31:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ay36e52",
-      "title": "Eisenkot-Nétanyahou : la bataille pour l’avenir d’Israël",
-      "summary": "L’ESSENTIEL Aux législatives israéliennes du 27 octobre prochain, chacun des deux blocs – l’opposition de gauche et du centre d’un côté, les partis pro-gouvernementaux de l’autre – espère atteindre les 61 sièges nécessaires pour gouverner. Les coalitions seront décisives : à droite comme à gauche, le scrutin dépendra d",
-      "link": "https://theconversation.com/eisenkot-netanyahou-la-bataille-pour-lavenir-disrael-291392",
-      "image": "https://counter.theconversation.com/content/291392/count.gif",
-      "publishedAt": "2026-09-16T15:30:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     }
   ]
