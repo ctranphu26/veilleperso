@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:25:45.836Z",
+  "generatedAt": "2026-09-19T03:14:46.596Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -150,7 +150,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -166,8 +166,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahs3buk",
@@ -182,8 +182,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aafjdc5",
@@ -198,8 +198,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aw2007d",
@@ -214,8 +214,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a63ofnn",
+      "title": "De l’usine au parc d’attractions « Dragon Ball » : quand la puissance change de paysage",
+      "summary": "L’imaginaire du parc d’attractions renvoie à une civilisation de loisirs, loin de la puissance industrielle. Une erreur de perspective ? Thomas Stadler/Unsplash L’ESSENTIEL L’annonce de la création d’un parc d’attractions près de Cergy, dans le Val-d’Oise, a suscité un débat. Ce projet symboliserait le déclin industrie",
+      "link": "https://theconversation.com/de-lusine-au-parc-dattractions-dragon-ball-quand-la-puissance-change-de-paysage-292030",
+      "image": "https://images.theconversation.com/files/760148/original/file-20260916-50-hlsaro.jpg?ixlib=rb-4.1.1&amp;rect=0%2C168%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T15:35:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abna62g",
@@ -233,24 +249,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a63ofnn",
-      "title": "De l’usine au parc d’attractions « Dragon Ball » : quand la puissance change de paysage",
-      "summary": "L’imaginaire du parc d’attractions renvoie à une civilisation de loisirs, loin de la puissance industrielle. Une erreur de perspective ? Thomas Stadler/Unsplash L’ESSENTIEL L’annonce de la création d’un parc d’attractions près de Cergy, dans le Val-d’Oise, a suscité un débat. Ce projet symboliserait le déclin industrie",
-      "link": "https://theconversation.com/de-lusine-au-parc-dattractions-dragon-ball-quand-la-puissance-change-de-paysage-292030",
-      "image": "https://images.theconversation.com/files/760148/original/file-20260916-50-hlsaro.jpg?ixlib=rb-4.1.1&amp;rect=0%2C168%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-17T15:35:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9zatwb",
@@ -267,7 +267,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,26 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avd9h8e",
-      "title": "Pour une approche culturelle de l’Intelligence Artificielle",
-      "summary": "Quoi ? L’Intelligence Artificielle ne commence pas avec ChatGPT ? ne se réduit pas à des algorithmes incompréhensibles ? constitue une création de l’intelligence humaine et non une puissance démiurgique ? … Sans doute L’article Pour une approche culturelle de l’Intelligence Artificielle est apparu en premier sur Le Caf",
-      "link": "https://www.cafepedagogique.net/2026/09/18/pour-une-approche-culturelle-de-lintelligence-artificielle/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Histoire-culturelle-de-lIA-1-218x300.jpeg",
-      "publishedAt": "2026-09-18T03:49:54.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "algorithme",
-        "intelligence artificielle"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -321,7 +302,74 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "afmhxke",
+      "title": "Museums on prescription: how cultural activities are becoming crucial to the public health debate",
+      "summary": "\"Museotherapy\" is gaining ground. In Europe, cultural pursuits are connecting communities and improving collective wellbeing, according to the Culture as Care Report. Loic Manegarium/Pexels, CC BY KEY TAKEAWAYS On June 18, European institutions declared culture to be a strategic priority for the European Union. It is n",
+      "link": "https://theconversation.com/museums-on-prescription-how-cultural-activities-are-becoming-crucial-to-the-public-health-debate-291083",
+      "image": "https://images.theconversation.com/files/757533/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T15:34:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atv6f0q",
+      "title": "La reconnaissance du vote blanc pourrait-elle améliorer la démocratie ?",
+      "summary": "L’ESSENTIEL Une véritable reconnaissance du vote blanc pourrait-elle inciter les partis et les candidats à mieux prendre en compte les demandes des citoyens ? En France, le résultat d’un scrutin est uniquement déterminé par l’addition de votes positifs, quels que soient l’abstention et les votes blancs ou nuls. En Colo",
+      "link": "https://theconversation.com/la-reconnaissance-du-vote-blanc-pourrait-elle-ameliorer-la-democratie-284577",
+      "image": "https://counter.theconversation.com/content/284577/count.gif",
+      "publishedAt": "2026-09-17T15:29:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apb2j5o",
+      "title": "Au sein de l’opposition russe, la bataille des idées",
+      "summary": "L’ESSENTIEL Des milliers de Russes, en désaccord avec la politique du Kremlin, vivent aujourd’hui en Occident. Parmi eux, des personnalités politiques et de la société civile tentent d’organiser cette communauté hétéroclite. Entre eux, les débats vont bon train sur la responsabilité des citoyens russes vis-à-vis de la ",
+      "link": "https://theconversation.com/au-sein-de-lopposition-russe-la-bataille-des-idees-290460",
+      "image": "https://images.theconversation.com/files/759082/original/file-20260910-50-aglcxt.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-17T15:28:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avd9h8e",
+      "title": "Pour une approche culturelle de l’Intelligence Artificielle",
+      "summary": "Quoi ? L’Intelligence Artificielle ne commence pas avec ChatGPT ? ne se réduit pas à des algorithmes incompréhensibles ? constitue une création de l’intelligence humaine et non une puissance démiurgique ? … Sans doute L’article Pour une approche culturelle de l’Intelligence Artificielle est apparu en premier sur Le Caf",
+      "link": "https://www.cafepedagogique.net/2026/09/18/pour-une-approche-culturelle-de-lintelligence-artificielle/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Histoire-culturelle-de-lIA-1-218x300.jpeg",
+      "publishedAt": "2026-09-18T03:49:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "algorithme",
+        "intelligence artificielle"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -339,7 +387,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -357,55 +405,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afmhxke",
-      "title": "Museums on prescription: how cultural activities are becoming crucial to the public health debate",
-      "summary": "\"Museotherapy\" is gaining ground. In Europe, cultural pursuits are connecting communities and improving collective wellbeing, according to the Culture as Care Report. Loic Manegarium/Pexels, CC BY KEY TAKEAWAYS On June 18, European institutions declared culture to be a strategic priority for the European Union. It is n",
-      "link": "https://theconversation.com/museums-on-prescription-how-cultural-activities-are-becoming-crucial-to-the-public-health-debate-291083",
-      "image": "https://images.theconversation.com/files/757533/original/file-20260813-50-2ar7dc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-17T15:34:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atv6f0q",
-      "title": "La reconnaissance du vote blanc pourrait-elle améliorer la démocratie ?",
-      "summary": "L’ESSENTIEL Une véritable reconnaissance du vote blanc pourrait-elle inciter les partis et les candidats à mieux prendre en compte les demandes des citoyens ? En France, le résultat d’un scrutin est uniquement déterminé par l’addition de votes positifs, quels que soient l’abstention et les votes blancs ou nuls. En Colo",
-      "link": "https://theconversation.com/la-reconnaissance-du-vote-blanc-pourrait-elle-ameliorer-la-democratie-284577",
-      "image": "https://counter.theconversation.com/content/284577/count.gif",
-      "publishedAt": "2026-09-17T15:29:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apb2j5o",
-      "title": "Au sein de l’opposition russe, la bataille des idées",
-      "summary": "L’ESSENTIEL Des milliers de Russes, en désaccord avec la politique du Kremlin, vivent aujourd’hui en Occident. Parmi eux, des personnalités politiques et de la société civile tentent d’organiser cette communauté hétéroclite. Entre eux, les débats vont bon train sur la responsabilité des citoyens russes vis-à-vis de la ",
-      "link": "https://theconversation.com/au-sein-de-lopposition-russe-la-bataille-des-idees-290460",
-      "image": "https://images.theconversation.com/files/759082/original/file-20260910-50-aglcxt.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-17T15:28:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,7 +421,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -437,7 +437,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -453,7 +453,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -469,7 +469,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +485,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +517,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,7 +533,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -549,7 +549,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -565,7 +565,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -581,7 +581,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -597,7 +597,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -613,7 +613,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -629,7 +629,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -647,7 +647,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -663,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -679,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -695,7 +695,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     }
   ]
