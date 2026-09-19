@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T15:23:57.140Z",
+  "generatedAt": "2026-09-19T20:04:49.903Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,8 +131,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar7bues",
@@ -147,8 +147,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "af1lzmk",
@@ -163,8 +163,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aocm8b8",
@@ -179,8 +179,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9src5b",
@@ -197,24 +197,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a5866ka",
-      "title": "Actualité de l’éducation du 14 au 18 septembre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 14 au 18 septembre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/19/actualite-de-leducation-du-14-au-18-septembre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/101b9bae-9c5d-46c4-84ca-e34a7fc00751-300x200.png",
-      "publishedAt": "2026-09-19T06:00:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aes0fek",
@@ -232,7 +216,23 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5866ka",
+      "title": "Actualité de l’éducation du 14 au 18 septembre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 14 au 18 septembre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/19/actualite-de-leducation-du-14-au-18-septembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/101b9bae-9c5d-46c4-84ca-e34a7fc00751-300x200.png",
+      "publishedAt": "2026-09-19T06:00:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -248,7 +248,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -264,7 +264,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -280,7 +280,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -296,7 +296,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -312,7 +312,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -328,7 +328,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -346,7 +346,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -362,7 +362,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,7 +381,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -397,7 +397,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -413,7 +413,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -429,7 +429,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -448,7 +448,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -466,7 +466,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -484,7 +484,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -500,7 +500,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -516,7 +516,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -532,7 +532,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -548,7 +548,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -564,7 +564,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -580,8 +580,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "axbgzqc",
@@ -596,8 +596,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ahplr85",
@@ -612,8 +612,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5c6l48",
@@ -628,8 +628,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aeilxpl",
@@ -644,8 +644,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aszfa7d",
@@ -660,8 +660,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ayy7kz3",
@@ -676,7 +676,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 27,
       "urgencyLevel": "basse"
     }
   ]
