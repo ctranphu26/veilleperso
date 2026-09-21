@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:21:26.124Z",
+  "generatedAt": "2026-09-21T03:26:57.314Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,40 @@
   "count": 35,
   "items": [
     {
+      "id": "ahcqorj",
+      "title": "CAPES, CRPE, CAPLP, agrégation… : ce qui change pour les concours en 2027",
+      "summary": "Qui veut en savoir plus sur les modalités des concours 2027 ? Le Journal officiel de ce week-end ne manque pas d’informations à ce sujet. CAPEPS Arrêté du 17 juillet L’article CAPES, CRPE, CAPLP, agrégation… : ce qui change pour les concours en 2027 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/21/capes-crpe-caplp-agregation-ce-qui-change-pour-les-concours-en-2027/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/Journal-Officiel-Cafe-pedagogique-3-300x122.gif",
+      "publishedAt": "2026-09-21T03:26:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auihfz",
+      "title": "CAPES : les épreuves du troisième concours précisées pour 2027",
+      "summary": "Un arrêté publié au Journal officiel du 20 septembre précise les modalités du troisième concours du CAPES à compter de la session 2027. Le texte fixe, discipline par discipline, la L’article CAPES : les épreuves du troisième concours précisées pour 2027 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/21/capes-les-epreuves-du-troisieme-concours-precisees-pour-2027/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/06/examen-300x200.jpg",
+      "publishedAt": "2026-09-21T03:26:47.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a1j7ft0",
       "title": "Qu’est-ce que la saveur umami ?",
       "summary": "Un repas japonais qui pourrait se résumer à la mise en avant de cette saveur umami que l’Occident a ignorée pendant longtemps… bien que la connaissant sans la reconnaître. Loïc Briand, Fourni par l'auteur La saveur umami est la cinquième saveur à avoir été admise dans le cercle très fermé des saveurs primaires. Elle tr",
@@ -131,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +181,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aw9x9pu",
@@ -165,7 +199,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -200,7 +234,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -216,7 +250,87 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a63ofnn",
+      "title": "De l’usine au parc d’attractions « Dragon Ball » : quand la puissance change de paysage",
+      "summary": "L’imaginaire du parc d’attractions renvoie à une civilisation de loisirs, loin de la puissance industrielle. Une erreur de perspective ? Thomas Stadler/Unsplash L’ESSENTIEL L’annonce de la création d’un parc d’attractions près de Cergy, dans le Val-d’Oise, a suscité un débat. Ce projet symboliserait le déclin industrie",
+      "link": "https://theconversation.com/de-lusine-au-parc-dattractions-dragon-ball-quand-la-puissance-change-de-paysage-292030",
+      "image": "https://images.theconversation.com/files/760148/original/file-20260916-50-hlsaro.jpg?ixlib=rb-4.1.1&amp;rect=0%2C168%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-17T15:35:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "adbzgc8",
+      "title": "Les mots qui voyagent : du rromani aux pratiques langagières françaises",
+      "summary": "L’ESSENTIEL Pour certains, le rromani évoque « la langue des Gitans » ; pour d’autres, elle évoque simplement la Roumanie. Il s’agit en réalité d’une langue indo-aryenne, présente en Europe depuis plusieurs siècles, parlée sous de nombreuses variétés et reconnue parmi les langues de France. Des mots issus du rromani on",
+      "link": "https://theconversation.com/les-mots-qui-voyagent-du-rromani-aux-pratiques-langagieres-francaises-291581",
+      "image": "https://images.theconversation.com/files/760738/original/file-20260918-50-re6k5b.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-19T07:41:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 43,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ar7bues",
+      "title": "L’énigme du trench Burberry : pourquoi certains produits se démodent-ils quand d’autres deviennent « intemporels » ?",
+      "summary": "Le motif à carreaux Burberry illustre la manière dont certains codes visuels deviennent indissociables de l’identité d’une marque. Victoria and Albert Museum — Détail de l’affiche de l’exposition « The Burberry Trench: Crafting an Icon » L’ESSENTIEL Le Victoria and Albert Museum, une institution londonienne, consacre à",
+      "link": "https://theconversation.com/lenigme-du-trench-burberry-pourquoi-certains-produits-se-demodent-ils-quand-dautres-deviennent-intemporels-291899",
+      "image": "https://images.theconversation.com/files/759862/original/file-20260915-70-piibdv.png?ixlib=rb-4.1.1&amp;rect=609%2C0%2C596%2C397&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-19T07:40:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 43,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "af1lzmk",
+      "title": "Repas à un euro : quels autres leviers pour améliorer l’alimentation des étudiants ?",
+      "summary": "L’ESSENTIEL Depuis mai 2026, tous les étudiants peuvent bénéficier du repas à un euro dans les restaurants universitaires. Au-delà de cette mesure répondant à une urgence sociale, quelles solutions permettraient d’améliorer durablement leur alimentation ? Une recherche participative menée à Lyon apporte des éléments de",
+      "link": "https://theconversation.com/repas-a-un-euro-quels-autres-leviers-pour-ameliorer-lalimentation-des-etudiants-284890",
+      "image": "https://counter.theconversation.com/content/284890/count.gif",
+      "publishedAt": "2026-09-19T07:40:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 43,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aocm8b8",
+      "title": "Jeanne d’Arc, Clemenceau, les frères Lumière, Colette… l’incroyable galerie des refusés pour figurer sur un billet de banque",
+      "summary": "Un billet de banque à l'effigie de Jeanne d'Arc n'a jamais été produit pour ne pas froisser l'allié britannique. esquisse réalisée par le peintre Lucien Jonas Archives historiques de la banque de France Lucien Jonas L’ESSENTIEL La Banque centrale européenne organise un concours pour les nouveaux billets qu’elle va émet",
+      "link": "https://theconversation.com/jeanne-darc-clemenceau-les-freres-lumiere-colette-lincroyable-galerie-des-refuses-pour-figurer-sur-un-billet-de-banque-289782",
+      "image": "https://images.theconversation.com/files/760458/original/file-20260917-70-6zl5wp.jpg?ixlib=rb-4.1.1&amp;rect=36%2C0%2C884%2C589&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-19T07:26:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -234,87 +348,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adbzgc8",
-      "title": "Les mots qui voyagent : du rromani aux pratiques langagières françaises",
-      "summary": "L’ESSENTIEL Pour certains, le rromani évoque « la langue des Gitans » ; pour d’autres, elle évoque simplement la Roumanie. Il s’agit en réalité d’une langue indo-aryenne, présente en Europe depuis plusieurs siècles, parlée sous de nombreuses variétés et reconnue parmi les langues de France. Des mots issus du rromani on",
-      "link": "https://theconversation.com/les-mots-qui-voyagent-du-rromani-aux-pratiques-langagieres-francaises-291581",
-      "image": "https://images.theconversation.com/files/760738/original/file-20260918-50-re6k5b.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-19T07:41:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar7bues",
-      "title": "L’énigme du trench Burberry : pourquoi certains produits se démodent-ils quand d’autres deviennent « intemporels » ?",
-      "summary": "Le motif à carreaux Burberry illustre la manière dont certains codes visuels deviennent indissociables de l’identité d’une marque. Victoria and Albert Museum — Détail de l’affiche de l’exposition « The Burberry Trench: Crafting an Icon » L’ESSENTIEL Le Victoria and Albert Museum, une institution londonienne, consacre à",
-      "link": "https://theconversation.com/lenigme-du-trench-burberry-pourquoi-certains-produits-se-demodent-ils-quand-dautres-deviennent-intemporels-291899",
-      "image": "https://images.theconversation.com/files/759862/original/file-20260915-70-piibdv.png?ixlib=rb-4.1.1&amp;rect=609%2C0%2C596%2C397&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-19T07:40:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "af1lzmk",
-      "title": "Repas à un euro : quels autres leviers pour améliorer l’alimentation des étudiants ?",
-      "summary": "L’ESSENTIEL Depuis mai 2026, tous les étudiants peuvent bénéficier du repas à un euro dans les restaurants universitaires. Au-delà de cette mesure répondant à une urgence sociale, quelles solutions permettraient d’améliorer durablement leur alimentation ? Une recherche participative menée à Lyon apporte des éléments de",
-      "link": "https://theconversation.com/repas-a-un-euro-quels-autres-leviers-pour-ameliorer-lalimentation-des-etudiants-284890",
-      "image": "https://counter.theconversation.com/content/284890/count.gif",
-      "publishedAt": "2026-09-19T07:40:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aocm8b8",
-      "title": "Jeanne d’Arc, Clemenceau, les frères Lumière, Colette… l’incroyable galerie des refusés pour figurer sur un billet de banque",
-      "summary": "Un billet de banque à l'effigie de Jeanne d'Arc n'a jamais été produit pour ne pas froisser l'allié britannique. esquisse réalisée par le peintre Lucien Jonas Archives historiques de la banque de France Lucien Jonas L’ESSENTIEL La Banque centrale européenne organise un concours pour les nouveaux billets qu’elle va émet",
-      "link": "https://theconversation.com/jeanne-darc-clemenceau-les-freres-lumiere-colette-lincroyable-galerie-des-refuses-pour-figurer-sur-un-billet-de-banque-289782",
-      "image": "https://images.theconversation.com/files/760458/original/file-20260917-70-6zl5wp.jpg?ixlib=rb-4.1.1&amp;rect=36%2C0%2C884%2C589&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-19T07:26:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a63ofnn",
-      "title": "De l’usine au parc d’attractions « Dragon Ball » : quand la puissance change de paysage",
-      "summary": "L’imaginaire du parc d’attractions renvoie à une civilisation de loisirs, loin de la puissance industrielle. Une erreur de perspective ? Thomas Stadler/Unsplash L’ESSENTIEL L’annonce de la création d’un parc d’attractions près de Cergy, dans le Val-d’Oise, a suscité un débat. Ce projet symboliserait le déclin industrie",
-      "link": "https://theconversation.com/de-lusine-au-parc-dattractions-dragon-ball-quand-la-puissance-change-de-paysage-292030",
-      "image": "https://images.theconversation.com/files/760148/original/file-20260916-50-hlsaro.jpg?ixlib=rb-4.1.1&amp;rect=0%2C168%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-17T15:35:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -330,72 +364,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a7stdg1",
-      "title": "Rapprochement Canada-UE : l’Histoire donne-t-elle raison à Mark Carney ?",
-      "summary": "L’ESSENTIEL Le Canada revendique une identité politique distincte des États-Unis, fondée notamment sur le bilinguisme et une culture du compromis. Du maintien de la paix élaboré par Lester B. Pearson dans les années 1950 à la « Troisième Option » de Mitchell Sharp vingt ans plus tard, Ottawa a historiquement privilégié",
-      "link": "https://theconversation.com/rapprochement-canada-ue-lhistoire-donne-t-elle-raison-a-mark-carney-292339",
-      "image": "https://images.theconversation.com/files/760665/original/file-20260917-50-r93ra5.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-18T16:04:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ahs3buk",
-      "title": "Pourquoi le paiement en espèces fait un retour inattendu en Australie",
-      "summary": "Les trois quarts des Australiens gardent de l’argent liquide sur eux, pour un montant médian équivalent à 40 euros. Infomofo/Flickr, CC BY L’ESSENTIEL Après vingt ans de recul, l’usage des espèces repart légèrement à la hausse en Australie. Le liquide reste essentiel pour les personnes âgées, modestes, rurales ou confr",
-      "link": "https://theconversation.com/pourquoi-le-paiement-en-especes-fait-un-retour-inattendu-en-australie-292247",
-      "image": "https://images.theconversation.com/files/760520/original/file-20260917-50-1iz0ha.jpg?ixlib=rb-4.1.1&amp;rect=0%2C33%2C800%2C533&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-18T16:03:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aafjdc5",
-      "title": "Remplacer Churchill par des animaux sauvages, est-ce effacer l’histoire ?",
-      "summary": "Winston Churchill et d’autres grandes figures historiques vont disparaître des prochains billets de banque britanniques, au profit d’animaux sauvages. Janusz Pienkowski/shutterstock L’ESSENTIEL La Banque d’Angleterre va remplacer Churchill et d’autres figures historiques par des animaux sauvages sur ses prochains bille",
-      "link": "https://theconversation.com/remplacer-churchill-par-des-animaux-sauvages-est-ce-effacer-lhistoire-292248",
-      "image": "https://images.theconversation.com/files/760464/original/file-20260318-57-e51evz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3581%2C2387&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-18T16:02:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aw2007d",
-      "title": "Près d’un billet de banque sur six dans le monde représente un animal sauvage – et pas toujours celui auquel on s’attendrait",
-      "summary": "L’ESSENTIEL Près d’un billet sur six dans le monde représente un animal sauvage. Les oiseaux et les mammifères sont les espèces les plus souvent mises à l’honneur. Les espèces menacées pourraient gagner en visibilité grâce aux billets, sans garantie toutefois d’une meilleure protection. Les billets et les pièces de mon",
-      "link": "https://theconversation.com/pres-dun-billet-de-banque-sur-six-dans-le-monde-represente-un-animal-sauvage-et-pas-toujours-celui-auquel-on-sattendrait-292249",
-      "image": "https://images.theconversation.com/files/608422/original/file-20240722-21-jkt8hr.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-18T16:02:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
     },
     {
       "id": "atrlhjj",
@@ -413,7 +383,71 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a7stdg1",
+      "title": "Rapprochement Canada-UE : l’Histoire donne-t-elle raison à Mark Carney ?",
+      "summary": "L’ESSENTIEL Le Canada revendique une identité politique distincte des États-Unis, fondée notamment sur le bilinguisme et une culture du compromis. Du maintien de la paix élaboré par Lester B. Pearson dans les années 1950 à la « Troisième Option » de Mitchell Sharp vingt ans plus tard, Ottawa a historiquement privilégié",
+      "link": "https://theconversation.com/rapprochement-canada-ue-lhistoire-donne-t-elle-raison-a-mark-carney-292339",
+      "image": "https://images.theconversation.com/files/760665/original/file-20260917-50-r93ra5.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-18T16:04:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ahs3buk",
+      "title": "Pourquoi le paiement en espèces fait un retour inattendu en Australie",
+      "summary": "Les trois quarts des Australiens gardent de l’argent liquide sur eux, pour un montant médian équivalent à 40 euros. Infomofo/Flickr, CC BY L’ESSENTIEL Après vingt ans de recul, l’usage des espèces repart légèrement à la hausse en Australie. Le liquide reste essentiel pour les personnes âgées, modestes, rurales ou confr",
+      "link": "https://theconversation.com/pourquoi-le-paiement-en-especes-fait-un-retour-inattendu-en-australie-292247",
+      "image": "https://images.theconversation.com/files/760520/original/file-20260917-50-1iz0ha.jpg?ixlib=rb-4.1.1&amp;rect=0%2C33%2C800%2C533&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-18T16:03:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aafjdc5",
+      "title": "Remplacer Churchill par des animaux sauvages, est-ce effacer l’histoire ?",
+      "summary": "Winston Churchill et d’autres grandes figures historiques vont disparaître des prochains billets de banque britanniques, au profit d’animaux sauvages. Janusz Pienkowski/shutterstock L’ESSENTIEL La Banque d’Angleterre va remplacer Churchill et d’autres figures historiques par des animaux sauvages sur ses prochains bille",
+      "link": "https://theconversation.com/remplacer-churchill-par-des-animaux-sauvages-est-ce-effacer-lhistoire-292248",
+      "image": "https://images.theconversation.com/files/760464/original/file-20260318-57-e51evz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3581%2C2387&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-18T16:02:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aw2007d",
+      "title": "Près d’un billet de banque sur six dans le monde représente un animal sauvage – et pas toujours celui auquel on s’attendrait",
+      "summary": "L’ESSENTIEL Près d’un billet sur six dans le monde représente un animal sauvage. Les oiseaux et les mammifères sont les espèces les plus souvent mises à l’honneur. Les espèces menacées pourraient gagner en visibilité grâce aux billets, sans garantie toutefois d’une meilleure protection. Les billets et les pièces de mon",
+      "link": "https://theconversation.com/pres-dun-billet-de-banque-sur-six-dans-le-monde-represente-un-animal-sauvage-et-pas-toujours-celui-auquel-on-sattendrait-292249",
+      "image": "https://images.theconversation.com/files/608422/original/file-20240722-21-jkt8hr.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-18T16:02:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -429,7 +463,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -445,7 +479,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -461,7 +495,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -479,7 +513,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -495,7 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -514,7 +548,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -532,7 +566,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -550,7 +584,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -566,7 +600,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -582,39 +616,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apn1i0w",
-      "title": "Journées du patrimoine : l’Histoire se découvre en famille",
-      "summary": "Samedi 19 septembre et dimanche 20 septembre, pour leur 43e édition, les journées européennes du patrimoine mettent à l’honneur le patrimoine de la photographie à l’occasion du Bicentenaire de la L’article Journées du patrimoine : l’Histoire se découvre en famille est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/18/journees-du-patrimoine-lhistoire-se-decouvre-en-famille/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/2026-jep-267x300.jpg",
-      "publishedAt": "2026-09-18T03:28:40.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avre9tw",
-      "title": "Maud Chareyron nommée directrice académique adjointe dans le Finistère",
-      "summary": "Maud Chareyron est nommée directrice académique adjointe des services de l’Éducation nationale (DAASEN) du Finistère, selon un arrêté publié au Journal officiel le 15 septembre 2026. Inspectrice d’académie-inspectrice pédagogique régionale L’article Maud Chareyron nommée directrice académique adjointe dans le Finistère",
-      "link": "https://www.cafepedagogique.net/2026/09/18/maud-chareyron-nommee-directrice-academique-adjointe-dans-le-finistere/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/images-261x300.png",
-      "publishedAt": "2026-09-18T03:27:26.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -630,7 +632,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -646,7 +648,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -662,7 +664,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -678,7 +680,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -694,7 +696,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
