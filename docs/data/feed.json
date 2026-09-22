@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:00:16.705Z",
+  "generatedAt": "2026-09-22T16:20:09.099Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -170,7 +170,153 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8nupix",
+      "title": "La santé ne commence pas à l’hôpital : Pourquoi la jeunesse doit être au cœur des politiques de prévention",
+      "summary": "L’ESSENTIEL Les recherches les plus récentes nous ont appris que la santé se construit bien avant l’entrée dans le système de soin. Les comportements favorables à la santé s’acquièrent dans des endroits et des secteurs très divers : dans les familles, à l’école, dans les clubs sportifs, dans les collectivités, etc. Not",
+      "link": "https://theconversation.com/la-sante-ne-commence-pas-a-lhopital-pourquoi-la-jeunesse-doit-etre-au-coeur-des-politiques-de-prevention-286711",
+      "image": "https://counter.theconversation.com/content/286711/count.gif",
+      "publishedAt": "2026-09-22T13:39:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5s93vt",
+      "title": "Yémen, péninsule Arabique, mer Rouge : les houthistes à l’assaut de la région",
+      "summary": "Depuis quelques semaines, la guerre civile yéménite connaît une brutale remontée en intensité. Les houthistes, qui contrôlent déjà la capitale Sanaa et l’essentiel du nord-ouest du pays, ont lancé une offensive vers l’ouest et le sud, s’emparant notamment de la ville porturaire de Mokha et de positions stratégiques aut",
+      "link": "https://theconversation.com/yemen-peninsule-arabique-mer-rouge-les-houthistes-a-lassaut-de-la-region-292538",
+      "image": "https://images.theconversation.com/files/761490/original/file-20260922-50-vhomto.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-22T13:59:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ammh65e",
+      "title": "Why banning AI in the classroom will not be enough to remedy poor reading skills in a post-literary society",
+      "summary": "Policymakers are sounding the alarm about AI and social media in schools, as PISA’s latest report confirmed that student performance in reading continues to decline. French Education minister Édouard Geffray lamented the “cognitive destruction” of a generation, while his Spanish counterpart, Milagros Tolón, recommended",
+      "link": "https://theconversation.com/why-banning-ai-in-the-classroom-will-not-be-enough-to-remedy-poor-reading-skills-in-a-post-literary-society-292326",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-22T12:58:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a4s2mvg",
+      "title": "Quand les archéologues révèlent les habitudes alimentaires d’autrefois",
+      "summary": "Objets découverts lors de fouilles menées sur les épaves corsaires de la Natière, à Saint-Malo (XVIIIᵉ siècle). ARC-Nucléart, Fourni par l'auteur L’ESSENTIEL Les objets en matériaux organiques, comme le bois, le cuir ou les fibres végétales, sont par nature voués à disparaître avec le temps. Si les archéologues ",
+      "link": "https://theconversation.com/quand-les-archeologues-revelent-les-habitudes-alimentaires-dautrefois-290893",
+      "image": "https://images.theconversation.com/files/759110/original/file-20260910-50-rhkjxk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C4%2C4256%2C2837&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-22T12:56:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ay9d7vy",
+      "title": "« Un Pikachu contre un Salamèche ? » : quand Pokémon crée la collection de cartes pour les enfants et les parents",
+      "summary": "Comme ici, en Thaïlande, les cartes de Bulbizarre, Salamèche, Carapuce ou Pikachu, à échanger valent leur pesant d’or. Wachiwit/Shutterstock (no reuse) L’ESSENTIEL « Attrapez-les tous ! » Avec son slogan, Pokémon déchaîne les passions dans les cours de récréation. Une recherche doctorale met en évidence que, au-delà d’",
+      "link": "https://theconversation.com/un-pikachu-contre-un-salameche-quand-pokemon-cree-la-collection-de-cartes-pour-les-enfants-et-les-parents-280932",
+      "image": "https://images.theconversation.com/files/761053/original/file-20260921-50-b68obt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-22T12:55:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a375bph",
+      "title": "Moustique-tigre : le changement climatique étend le risque de dengue à presque toute la France",
+      "summary": "Une femelle _Aedes albopictus_ se nourrissant de sang humain. James Gathany, CC BY L’ESSENTIEL Le moustique-tigre pourrait conquérir jusqu’à 96 % de la France hexagonale d’ici à 2085. Dengue mais aussi Zika et chikungunya pourraient ainsi émerger sur presque tout l’Hexagone, montre une nouvelle étude Les zones rurales ",
+      "link": "https://theconversation.com/moustique-tigre-le-changement-climatique-etend-le-risque-de-dengue-a-presque-toute-la-france-292062",
+      "image": "https://images.theconversation.com/files/759995/original/file-20260915-50-wdw1jk.jpg?ixlib=rb-4.1.1&amp;rect=10%2C0%2C3011%2C2007&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-22T12:53:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auxgzhg",
+      "title": "Ces présidents de la République devenus chanoines d’honneur du Latran",
+      "summary": "L'ESSENTIEL Une tradition remontant à la monarchie confère aux présidents de la République française le titre honorifique de chanoine d’honneur de la basilique Saint-Jean-de-Latran, à Rome. Depuis 1957, la participation à une cérémonie dans cet illustre lieu de culte romain caractérise les présidences ancrées à droite.",
+      "link": "https://theconversation.com/ces-presidents-de-la-republique-devenus-chanoines-dhonneur-du-latran-285200",
+      "image": "https://counter.theconversation.com/content/285200/count.gif",
+      "publishedAt": "2026-09-22T12:51:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3ixlsy",
+      "title": "Derrière le succès du terme de « pervers narcissique », une psychologisation des rapports sociaux",
+      "summary": "Dans le film *l’Amour et les Forêts* (Valérie Donzelli, 2023), Melvil Poupaud incarne un personnage souvent estampillé « pervers narcissique » par le public. Rectangle Porductions/France 2 Cinéma/Les films de Françoise Pourquoi une catégorie absente des classifications psychiatriques officielles est-elle devenue omnipr",
+      "link": "https://theconversation.com/derriere-le-succes-du-terme-de-pervers-narcissique-une-psychologisation-des-rapports-sociaux-281964",
+      "image": "https://images.theconversation.com/files/737637/original/file-20260522-57-7luelr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C22%2C1551%2C1034&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-22T12:39:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awepbyl",
+      "title": "Du rail aux ETF : 130 ans de Dow Jones racontent les métamorphoses du capitalisme financier",
+      "summary": "L’ESSENTIEL Dow Jones SPF 500, Nasdaq, ces termes sont souvent utilisés. Mais savez-vous vraiment ce qu’ils recouvrent ? L’histoire des indices boursiers est riche. Elle raconte en parallèle l’histoire du capitalisme et de la finance aux États-Unis. Ce que l’on choisit de mesurer n’étant jamais innocent, que raconte vr",
+      "link": "https://theconversation.com/du-rail-aux-etf-130-ans-de-dow-jones-racontent-les-metamorphoses-du-capitalisme-financier-286211",
+      "image": "https://counter.theconversation.com/content/286211/count.gif",
+      "publishedAt": "2026-09-22T12:37:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -186,7 +332,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -205,8 +351,8 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "as7t34r",
@@ -223,8 +369,8 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anvtcre",
@@ -241,8 +387,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afhg5xm",
@@ -259,8 +405,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahbbhr3",
@@ -275,8 +421,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apsay3c",
@@ -291,8 +437,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4balgg",
@@ -307,8 +453,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ao3miql",
@@ -325,8 +471,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahl0afp",
@@ -341,8 +487,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aha0546",
@@ -360,7 +506,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -378,7 +524,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -394,7 +540,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -410,7 +556,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -426,7 +572,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -442,7 +588,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -458,7 +604,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -474,7 +620,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -492,7 +638,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -508,7 +654,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -524,7 +670,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -540,7 +686,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -556,154 +702,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "akhmmwr",
-      "title": "Comment le système immunitaire constitue une empreinte unique à chaque être humain – et ce que la décrypter pourrait changer en santé",
-      "summary": "Un virus, en rouge, active les récepteurs d'un lymphocyte T, en vert. David S. Goodsell, RCSB Protein Data Bank, doi: 10.2210/rcsb_pdb/goodsell-gallery-022, CC BY L’ESSENTIEL Notre système immunitaire est prêt à rencontrer de nouveaux agents pathogènes, y compris ceux qui n’existaient pas à notre naissance. Grâce à des",
-      "link": "https://theconversation.com/comment-le-systeme-immunitaire-constitue-une-empreinte-unique-a-chaque-etre-humain-et-ce-que-la-decrypter-pourrait-changer-en-sante-291497",
-      "image": "https://images.theconversation.com/files/759922/original/file-20260915-50-mil77x.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1212%2C3638%2C2425&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-21T07:26:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1j7ft0",
-      "title": "Qu’est-ce que la saveur umami ?",
-      "summary": "Un repas japonais qui pourrait se résumer à la mise en avant de cette saveur umami que l’Occident a ignorée pendant longtemps… bien que la connaissant sans la reconnaître. Loïc Briand, Fourni par l'auteur La saveur umami est la cinquième saveur à avoir été admise dans le cercle très fermé des saveurs primaires. Elle tr",
-      "link": "https://theconversation.com/quest-ce-que-la-saveur-umami-290379",
-      "image": "https://images.theconversation.com/files/756019/original/file-20260825-50-rlf6z0.jpeg?ixlib=rb-4.1.1&amp;rect=94%2C116%2C1102%2C734&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-20T08:06:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aufbyc2",
-      "title": "Mille millions de mille cyborgs ! Pourquoi les pirates informatiques demandent de plus en plus de rançons en cryptomonnaies",
-      "summary": "L’ESSENTIEL Les rançongiciels, ces logiciel bloquant l’accès à un ordinateur en volant ses données en échange d’une rançon, ont rapporté plus de 800 millions de dollars en 2025. Pour partir avec leur butin, les pirates du Web passent de plus en plus par les cryptomonnaies, plus rémunératrices et moins traçables. Les po",
-      "link": "https://theconversation.com/mille-millions-de-mille-cyborgs-pourquoi-les-pirates-informatiques-demandent-de-plus-en-plus-de-rancons-en-cryptomonnaies-264639",
-      "image": "https://images.theconversation.com/files/759295/original/file-20260911-50-in2xxw.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-20T16:59:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aw9x9pu",
-      "title": "Pourquoi Nutri-Score, labels et allégations ne suffisent-ils pas à faire aimer les produits sains ?",
-      "summary": "L’ESSENTIEL Nutri-Score, applications de notation, labels… l’information est censée favoriser les produits de meilleure qualité nutritionnelle. Mais rendre plus visibles les produits les plus sains, notamment par des indices sur les emballages, ne suffit pas toujours à susciter l’adhésion. L’expérience sensorielle (lié",
-      "link": "https://theconversation.com/pourquoi-nutri-score-labels-et-allegations-ne-suffisent-ils-pas-a-faire-aimer-les-produits-sains-291509",
-      "image": "https://counter.theconversation.com/content/291509/count.gif",
-      "publishedAt": "2026-09-20T08:05:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a37o0qd",
-      "title": "Les faucons russes, idéologues du conservatisme modernisateur",
-      "summary": "Depuis les années 1960, des idéologues soviétiques puis russes ont développé une théorie associant traditionalisme et modernisation technologique pour promouvoir un État autoritaire de type stalinien. Leur influence ne résulte pas seulement de la diffusion de leurs idées, mais aussi de leur capacité à s’organiser en ré",
-      "link": "https://theconversation.com/les-faucons-russes-ideologues-du-conservatisme-modernisateur-290015",
-      "image": "https://images.theconversation.com/files/755960/original/file-20260825-50-g1t0nn.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-20T08:06:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "adbzgc8",
-      "title": "Les mots qui voyagent : du rromani aux pratiques langagières françaises",
-      "summary": "L’ESSENTIEL Pour certains, le rromani évoque « la langue des Gitans » ; pour d’autres, elle évoque simplement la Roumanie. Il s’agit en réalité d’une langue indo-aryenne, présente en Europe depuis plusieurs siècles, parlée sous de nombreuses variétés et reconnue parmi les langues de France. Des mots issus du rromani on",
-      "link": "https://theconversation.com/les-mots-qui-voyagent-du-rromani-aux-pratiques-langagieres-francaises-291581",
-      "image": "https://images.theconversation.com/files/760738/original/file-20260918-50-re6k5b.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-19T07:41:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ar7bues",
-      "title": "L’énigme du trench Burberry : pourquoi certains produits se démodent-ils quand d’autres deviennent « intemporels » ?",
-      "summary": "Le motif à carreaux Burberry illustre la manière dont certains codes visuels deviennent indissociables de l’identité d’une marque. Victoria and Albert Museum — Détail de l’affiche de l’exposition « The Burberry Trench: Crafting an Icon » L’ESSENTIEL Le Victoria and Albert Museum, une institution londonienne, consacre à",
-      "link": "https://theconversation.com/lenigme-du-trench-burberry-pourquoi-certains-produits-se-demodent-ils-quand-dautres-deviennent-intemporels-291899",
-      "image": "https://images.theconversation.com/files/759862/original/file-20260915-70-piibdv.png?ixlib=rb-4.1.1&amp;rect=609%2C0%2C596%2C397&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-19T07:40:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "af1lzmk",
-      "title": "Repas à un euro : quels autres leviers pour améliorer l’alimentation des étudiants ?",
-      "summary": "L’ESSENTIEL Depuis mai 2026, tous les étudiants peuvent bénéficier du repas à un euro dans les restaurants universitaires. Au-delà de cette mesure répondant à une urgence sociale, quelles solutions permettraient d’améliorer durablement leur alimentation ? Une recherche participative menée à Lyon apporte des éléments de",
-      "link": "https://theconversation.com/repas-a-un-euro-quels-autres-leviers-pour-ameliorer-lalimentation-des-etudiants-284890",
-      "image": "https://counter.theconversation.com/content/284890/count.gif",
-      "publishedAt": "2026-09-19T07:40:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aocm8b8",
-      "title": "Jeanne d’Arc, Clemenceau, les frères Lumière, Colette… l’incroyable galerie des refusés pour figurer sur un billet de banque",
-      "summary": "Un billet de banque à l'effigie de Jeanne d'Arc n'a jamais été produit pour ne pas froisser l'allié britannique. esquisse réalisée par le peintre Lucien Jonas Archives historiques de la banque de France Lucien Jonas L’ESSENTIEL La Banque centrale européenne organise un concours pour les nouveaux billets qu’elle va émet",
-      "link": "https://theconversation.com/jeanne-darc-clemenceau-les-freres-lumiere-colette-lincroyable-galerie-des-refuses-pour-figurer-sur-un-billet-de-banque-289782",
-      "image": "https://images.theconversation.com/files/760458/original/file-20260917-70-6zl5wp.jpg?ixlib=rb-4.1.1&amp;rect=36%2C0%2C884%2C589&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-19T07:26:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
     }
   ]
 }
