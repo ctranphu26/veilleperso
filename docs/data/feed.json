@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:54:32.340Z",
+  "generatedAt": "2026-09-23T03:26:41.588Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,8 +133,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6u38sk",
@@ -151,8 +151,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aq3wnw",
@@ -170,8 +170,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8nupix",
@@ -188,8 +188,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5s93vt",
@@ -204,8 +204,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ammh65e",
@@ -220,8 +220,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4s2mvg",
@@ -236,8 +236,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ay9d7vy",
@@ -252,8 +252,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a375bph",
@@ -268,8 +268,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auxgzhg",
@@ -284,8 +284,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3ixlsy",
@@ -300,8 +300,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awepbyl",
@@ -316,8 +316,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ak6l397",
@@ -332,7 +332,41 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ao3miql",
+      "title": "Filles ou garçons : le prestige des études n’influence pas leurs choix d’orientation de la même manière",
+      "summary": "Pourquoi choisit-on une filière universitaire plutôt qu’une autre ? Est-ce avant tout une question de débouchés professionnels et d’attentes salariales ? La recherche que nous publions dans la revue Formation et emploi montre qu’un autre facteur joue un rôle central : le prestige social associé aux professions. Mais ce",
+      "link": "https://theconversation.com/filles-ou-garcons-le-prestige-des-etudes-ninfluence-pas-leurs-choix-dorientation-de-la-meme-maniere-275697",
+      "image": "https://counter.theconversation.com/content/275697/count.gif",
+      "publishedAt": "2026-09-21T15:40:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahl0afp",
+      "title": "Pourquoi est-il si difficile de rénover les copropriétés ?",
+      "summary": "L’ESSENTIEL Rénover une copropriété en France ne consiste pas seulement à isoler des façades ou à remplacer une chaudière. Il faut parfois convaincre jusqu’à des dizaines de copropriétaires, organiser la prise de décision, coordonner une multitude d’acteurs et accompagner de nouveaux usages. Derrière chaque rénovation ",
+      "link": "https://theconversation.com/pourquoi-est-il-si-difficile-de-renover-les-coproprietes-287698",
+      "image": "https://images.theconversation.com/files/754556/original/file-20260818-60-5wzfnr.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-21T15:41:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,59 +385,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anvtcre",
-      "title": "Tolérance zéro contre les violences sexistes et sexuelles au travail ? L’épreuve des faits dans les ministères",
-      "summary": "Alors que les ministères de l’Éducation nationale, de l’Enseignement supérieur, de la Recherche et des Sports multiplient les engagements contre les violences sexistes et sexuelles au travail, une enquête menée L’article Tolérance zéro contre les violences sexistes et sexuelles au travail ? L’épreuve des faits dans les",
-      "link": "https://www.cafepedagogique.net/2026/09/22/tolerance-zero-contre-les-violences-sexistes-et-sexuelles-au-travail-lepreuve-des-faits-dans-les-ministeres/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/164-211x300.png",
-      "publishedAt": "2026-09-22T03:45:40.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ao3miql",
-      "title": "Filles ou garçons : le prestige des études n’influence pas leurs choix d’orientation de la même manière",
-      "summary": "Pourquoi choisit-on une filière universitaire plutôt qu’une autre ? Est-ce avant tout une question de débouchés professionnels et d’attentes salariales ? La recherche que nous publions dans la revue Formation et emploi montre qu’un autre facteur joue un rôle central : le prestige social associé aux professions. Mais ce",
-      "link": "https://theconversation.com/filles-ou-garcons-le-prestige-des-etudes-ninfluence-pas-leurs-choix-dorientation-de-la-meme-maniere-275697",
-      "image": "https://counter.theconversation.com/content/275697/count.gif",
-      "publishedAt": "2026-09-21T15:40:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahl0afp",
-      "title": "Pourquoi est-il si difficile de rénover les copropriétés ?",
-      "summary": "L’ESSENTIEL Rénover une copropriété en France ne consiste pas seulement à isoler des façades ou à remplacer une chaudière. Il faut parfois convaincre jusqu’à des dizaines de copropriétaires, organiser la prise de décision, coordonner une multitude d’acteurs et accompagner de nouveaux usages. Derrière chaque rénovation ",
-      "link": "https://theconversation.com/pourquoi-est-il-si-difficile-de-renover-les-coproprietes-287698",
-      "image": "https://images.theconversation.com/files/754556/original/file-20260818-60-5wzfnr.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-21T15:41:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,7 +403,25 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anvtcre",
+      "title": "Tolérance zéro contre les violences sexistes et sexuelles au travail ? L’épreuve des faits dans les ministères",
+      "summary": "Alors que les ministères de l’Éducation nationale, de l’Enseignement supérieur, de la Recherche et des Sports multiplient les engagements contre les violences sexistes et sexuelles au travail, une enquête menée L’article Tolérance zéro contre les violences sexistes et sexuelles au travail ? L’épreuve des faits dans les",
+      "link": "https://www.cafepedagogique.net/2026/09/22/tolerance-zero-contre-les-violences-sexistes-et-sexuelles-au-travail-lepreuve-des-faits-dans-les-ministeres/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/164-211x300.png",
+      "publishedAt": "2026-09-22T03:45:40.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,7 +439,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -455,7 +455,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -471,7 +471,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -487,7 +487,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -506,7 +506,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -524,7 +524,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -540,7 +540,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -556,7 +556,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -572,7 +572,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -588,7 +588,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -604,7 +604,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -620,7 +620,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -638,7 +638,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -654,7 +654,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -670,7 +670,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -686,7 +686,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -702,7 +702,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     }
   ]
