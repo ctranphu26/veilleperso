@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T10:48:45.739Z",
+  "generatedAt": "2026-09-23T16:09:33.433Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,163 @@
   "count": 35,
   "items": [
     {
+      "id": "a3whb8d",
+      "title": "Comment notre espèce a-t-elle conquis toute la planète ?",
+      "summary": "Homo sapiens est aujourd'hui la seule espèce humaine. Pourtant, nous avons croisé d'autres humains au cours de notre évolution et de nos migrations : Néandertal bien sûr, mais aussi les Dénisoviens. Dans Le Grand Entretien, une spécialiste de l'évolution génétique de notre espèce partage avec nous son expertise : Evely",
+      "link": "https://theconversation.com/comment-notre-espece-a-t-elle-conquis-toute-la-planete-292715",
+      "image": "https://counter.theconversation.com/content/292715/count.gif",
+      "publishedAt": "2026-09-23T14:51:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "artume9",
+      "title": "Enseignement privé : les syndicats sauvent la prévoyance de 150 000 enseignant.es",
+      "summary": "Qui a dit que l’union syndicale ne portait pas ses fruits ? Une victoire est à mettre à l’actif des syndicats du privé sous contrat unis sur la durée à L’article Enseignement privé : les syndicats sauvent la prévoyance de 150 000 enseignant.es est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/23/enseignement-prive-les-syndicats-sauvent-la-prevoyance-de-150-000-enseignant-es/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/union-syndicale-300x225.jpeg",
+      "publishedAt": "2026-09-23T15:20:20.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement",
+        "enseignant"
+      ],
+      "relevance": 91,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8pog8f",
+      "title": "Politiques sportives : comment lutter vraiment contre le décrochage des jeunes ?",
+      "summary": "Le principal problème n’est pas d’inciter les jeunes à commencer un sport, mais de les inciter à s’engager durablement. Mart Production/Pexels, CC BY L’ESSENTIEL Si de nombreux jeunes ont déjà pratiqué un sport, beaucoup décrochent à l’adolescence. Les politiques sportives semblent en tenir compte et insistent de plus ",
+      "link": "https://theconversation.com/politiques-sportives-comment-lutter-vraiment-contre-le-decrochage-des-jeunes-291529",
+      "image": "https://images.theconversation.com/files/760550/original/file-20260917-50-98fxiz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-23T13:48:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "décrochage"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a31wxjw",
+      "title": "Les recommandations alimentaires sont utiles… mais ne peuvent-elles pas, dans certains cas, impacter la santé mentale ?",
+      "summary": "L’ESSENTIEL Les recommandations alimentaires, fondées sur l’évaluation des risques et des bénéfices pour la santé, visent à guider les comportements et à protéger la santé publique. Mais l’injonction à « bien manger » peut aussi renforcer le contrôle cognitif de l’alimentation et fragiliser l’écoute des sensations alim",
+      "link": "https://theconversation.com/les-recommandations-alimentaires-sont-utiles-mais-ne-peuvent-elles-pas-dans-certains-cas-impacter-la-sante-mentale-290454",
+      "image": "https://counter.theconversation.com/content/290454/count.gif",
+      "publishedAt": "2026-09-23T13:55:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "évaluation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a4n9qvj",
+      "title": "Fusion IRD-CNRS : les spécificités de l’IRD qui seraient perdues à la suite du projet de réorganisation",
+      "summary": "L’IRD entretient une infrastructure cruciale de partenariats scientifiques équitables internationaux avec, notamment, 35 représentations dans près de 50 pays (sur cette photo, le siège de l’IRD à Marseille, dans les Bouches-du-Rhône). Jean-Baptiste Avril/IRD L’ESSENTIEL En pleine crise climatique, le gouvernement franç",
+      "link": "https://theconversation.com/fusion-ird-cnrs-les-specificites-de-lird-qui-seraient-perdues-a-la-suite-du-projet-de-reorganisation-289436",
+      "image": "https://images.theconversation.com/files/758472/original/file-20260908-60-s4l6o0.jpg?ixlib=rb-4.1.1&amp;rect=417%2C0%2C1073%2C715&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-23T13:49:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "représentation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqvtt4j",
+      "title": "L’e-sport, une activité qui met le corps et l’esprit à rude épreuve",
+      "summary": "Un joueur taïwanais de l’équipe d’e-sport Flash Wolves prend des comprimés lors d’une séance d’entraînement en vue du championnat du monde de *League of Legends*, dans le cadre d’un stage intensif à Shanghai, en Chine. Chandan Khanna/AFP via Getty Images L’ESSENTIEL Pratiqué à haut niveau, l’e-sport peut causer des ble",
+      "link": "https://theconversation.com/le-sport-une-activite-qui-met-le-corps-et-lesprit-a-rude-epreuve-292499",
+      "image": "https://images.theconversation.com/files/761099/original/file-20260825-60-e75dp3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C479%2C4204%2C2803&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-23T13:38:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "acc5mgd",
+      "title": "D’État-tampon à État-charnière : comment la Mongolie réinvente sa diplomatie",
+      "summary": "L’ESSENTIEL La Mongolie cherche à transformer son enclavement entre la Russie et la Chine en atout diplomatique, en s’appuyant notamment sur les enjeux environnementaux et le pastoralisme pour diversifier ses partenariats. La récente COP17 à Oulan-Bator a servi cette stratégie en donnant à la Mongolie une visibilité in",
+      "link": "https://theconversation.com/detat-tampon-a-etat-charniere-comment-la-mongolie-reinvente-sa-diplomatie-291059",
+      "image": "https://images.theconversation.com/files/759934/original/file-20260915-50-gp19q9.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-23T13:54:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apjx85b",
+      "title": "Dieu contre « le bon diable » : retour sur les récents discours théologico-politiques au Cameroun",
+      "summary": "L’ESSENTIEL Au Cameroun, la campagne présidentielle de 2025 s’est jouée en partie dans les églises. La défection d’Issa Tchiroma, ancien fidèle du clan présidentiel, a suscité l’espoir des opposants à Paul Biya. Natif du Nord, région défavorisée du Cameroun, Tchiroma a notamment été affublé du sobriquet de « bon diable",
+      "link": "https://theconversation.com/dieu-contre-le-bon-diable-retour-sur-les-recents-discours-theologico-politiques-au-cameroun-291721",
+      "image": "https://counter.theconversation.com/content/291721/count.gif",
+      "publishedAt": "2026-09-23T13:53:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoi6id5",
+      "title": "Pourquoi Meta, accusée de ne pas protéger les mineurs, transige-t-elle à hauteur de 17 milliards de dollars ?",
+      "summary": "L’ESSENTIEL C’est un peu plus de 16,6 milliards de dollars que Meta, la société mère de Facebook, a accepté de verser selon un accord signé avec 29 États. Le groupe de Mark Zuckerberg a également pris plusieurs engagements pour protéger davantage les mineurs utilisant ses plateformes. Que fera, dans ces conditions, la ",
+      "link": "https://theconversation.com/pourquoi-meta-accusee-de-ne-pas-proteger-les-mineurs-transige-t-elle-a-hauteur-de-17-milliards-de-dollars-291413",
+      "image": "https://counter.theconversation.com/content/291413/count.gif",
+      "publishedAt": "2026-09-23T13:39:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a7mufll",
       "title": "Budget 2027 : 600 millions d’euros d’économies envisagés sur l’allocation de rentrée scolaire",
       "summary": "Il n’y a pas de petites économies ! L’idée est visiblement d’enlever encore aux plus pauvres de France. Le gouvernement envisage de réduire de 600 millions d’euros les dépenses consacrées L’article Budget 2027 : 600 millions d’euros d’économies envisagés sur l’allocation de rentrée scolaire est apparu en premier sur Le",
@@ -131,7 +288,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3lprev",
+      "title": "Which spiritual and political issues will be the focus of Pope Leo XIV’s visit to France?",
+      "summary": "KEY TAKEAWAYS The Catholic Church of France will welcome Pope Leo XIV from September 25 to 28 2026. The Pope will address young people at the Stade de France, thus following in the footsteps of his predecessor John Paul II in 1980. This trip will provide the Pope with an opportunity to speak on artificial intelligence,",
+      "link": "https://theconversation.com/which-spiritual-and-political-issues-will-be-the-focus-of-pope-leo-xivs-visit-to-france-292520",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-23T10:16:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -149,23 +322,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a3lprev",
-      "title": "Which spiritual and political issues will be the focus of Pope Leo XIV’s visit to France?",
-      "summary": "KEY TAKEAWAYS The Catholic Church of France will welcome Pope Leo XIV from September 25 to 28 2026. The Pope will address young people at the Stade de France, thus following in the footsteps of his predecessor John Paul II in 1980. This trip will provide the Pope with an opportunity to speak on artificial intelligence,",
-      "link": "https://theconversation.com/which-spiritual-and-political-issues-will-be-the-focus-of-pope-leo-xivs-visit-to-france-292520",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-23T10:16:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +338,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -197,7 +354,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -213,7 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -234,8 +391,8 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "an8gnbn",
@@ -252,8 +409,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auy5rc2",
@@ -268,8 +425,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aim1mr0",
@@ -284,8 +441,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akfakgg",
@@ -300,8 +457,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3woa19",
@@ -316,8 +473,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6jc40j",
@@ -332,8 +489,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abxypd7",
@@ -350,7 +507,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -368,7 +525,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -384,7 +541,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -400,7 +557,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -416,7 +573,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,7 +589,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -448,7 +605,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +621,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +637,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +653,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -512,97 +669,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ao3miql",
-      "title": "Filles ou garçons : le prestige des études n’influence pas leurs choix d’orientation de la même manière",
-      "summary": "Pourquoi choisit-on une filière universitaire plutôt qu’une autre ? Est-ce avant tout une question de débouchés professionnels et d’attentes salariales ? La recherche que nous publions dans la revue Formation et emploi montre qu’un autre facteur joue un rôle central : le prestige social associé aux professions. Mais ce",
-      "link": "https://theconversation.com/filles-ou-garcons-le-prestige-des-etudes-ninfluence-pas-leurs-choix-dorientation-de-la-meme-maniere-275697",
-      "image": "https://counter.theconversation.com/content/275697/count.gif",
-      "publishedAt": "2026-09-21T15:40:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahl0afp",
-      "title": "Pourquoi est-il si difficile de rénover les copropriétés ?",
-      "summary": "L’ESSENTIEL Rénover une copropriété en France ne consiste pas seulement à isoler des façades ou à remplacer une chaudière. Il faut parfois convaincre jusqu’à des dizaines de copropriétaires, organiser la prise de décision, coordonner une multitude d’acteurs et accompagner de nouveaux usages. Derrière chaque rénovation ",
-      "link": "https://theconversation.com/pourquoi-est-il-si-difficile-de-renover-les-coproprietes-287698",
-      "image": "https://images.theconversation.com/files/754556/original/file-20260818-60-5wzfnr.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-21T15:41:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a50rhaq",
-      "title": "École : le décrochage silencieux des parents",
-      "summary": "PISA 2025 a mis en lumière le recul du soutien parental. Que faire ? « Faire des parents des partenaires plus écoutés de l’école devrait aider à enrayer cette tendance L’article École : le décrochage silencieux des parents est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/22/ecole-le-decrochage-silencieux-des-parents/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/03/P-Rayou-Cafe-pedagogique-e1772640017464-288x300.png",
-      "publishedAt": "2026-09-22T03:50:42.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "décrochage"
-      ],
-      "relevance": 93,
-      "relevanceLevel": "haute",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aha0546",
-      "title": "Mayotte, un territoire de la République, des politiques d’exception",
-      "summary": "L’ESSENTIEL Mayotte cumule fortes inégalités, pression migratoire et retard des services publics. Le droit commun y connaît de nombreuses dérogations, notamment en matière d’immigration. En faisant de l’île une frontière, le débat public risque d’éclipser les causes sociales de la crise. Mayotte est française depuis 18",
-      "link": "https://theconversation.com/mayotte-un-territoire-de-la-republique-des-politiques-dexception-291472",
-      "image": "https://counter.theconversation.com/content/291472/count.gif",
-      "publishedAt": "2026-09-21T15:42:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité",
-        "migration"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "attx1px",
-      "title": "Le changement climatique, un défi narratif de taille pour le cinéma hollywoodien",
-      "summary": "L’ESSENTIEL Les films, produits par les studios d’Hollywood, qui évoquent le changement climatique doivent relever un défi délicat : captiver sans simplifier à outrance, émouvoir sans manipuler. Une équipe de chercheurs en sciences sociales a analysé 35 longs-métrages sortis depuis 1980 pour mieux comprendre leurs ress",
-      "link": "https://theconversation.com/le-changement-climatique-un-defi-narratif-de-taille-pour-le-cinema-hollywoodien-291604",
-      "image": "https://counter.theconversation.com/content/291604/count.gif",
-      "publishedAt": "2026-09-21T15:40:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -618,7 +685,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -634,71 +701,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqcuzfw",
-      "title": "Cancers pédiatriques : Pourquoi les innovations thérapeutiques contre le cancer arrivent-elles si lentement chez l’enfant et l’adolescent ?",
-      "summary": "L’ESSENTIEL En matière de cancers pédiatriques, les innovations thérapeutiques sont peu nombreuses. Les différences entre cancers de l’enfant et cancers de l’adulte expliquent en partie cette situation, mais ce n’est pas la principale raison. Le modèle économique du secteur pharmaceutique et la réglementation actuelle ",
-      "link": "https://theconversation.com/cancers-pediatriques-pourquoi-les-innovations-therapeutiques-contre-le-cancer-arrivent-elles-si-lentement-chez-lenfant-et-ladolescent-290680",
-      "image": "https://counter.theconversation.com/content/290680/count.gif",
-      "publishedAt": "2026-09-21T15:43:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adxmhc4",
-      "title": "La bibliothèque assiégée : Comment l’administration Trump fait des rayonnages un champ de bataille culturelle",
-      "summary": "L’ESSENTIEL Aux États-Unis, les bibliothèques sont prises en étau entre les menaces pesant sur leur financement et une offensive croissante contre des livres jugés « inappropriés » par divers groupes fondamentalistes. Derrière les retraits d’ouvrages, les pressions s’intensifient contre les bibliothécaires eux-mêmes, p",
-      "link": "https://theconversation.com/la-bibliotheque-assiegee-comment-ladministration-trump-fait-des-rayonnages-un-champ-de-bataille-culturelle-291719",
-      "image": "https://counter.theconversation.com/content/291719/count.gif",
-      "publishedAt": "2026-09-21T15:41:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1jsazw",
-      "title": "Et si les débats sur l’héritage rataient l’essentiel : supprimer la réserve héréditaire ?",
-      "summary": "La réserve héréditaire institue-t-elle un « communisme familial », comme l’écrivait Émile Durkheim ? Le débat sur l’héritage ne devrait pas esquiver la question de son maintien. Logan Weaver/Unsplash, CC BY L’ESSENTIEL À l’approche de la présidentielle et sur fond de budget difficile à boucler, la question de la taxati",
-      "link": "https://theconversation.com/et-si-les-debats-sur-lheritage-rataient-lessentiel-supprimer-la-reserve-hereditaire-291880",
-      "image": "https://images.theconversation.com/files/760734/original/file-20260918-50-ess769.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-21T15:40:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ad0coes",
-      "title": "« Souvent il me semble que la nuit est encore plus richement colorée que le jour » : le ciel étoilé selon Vincent van Gogh",
-      "summary": "La nuit étoilée, de Vincent van Gogh, une toile peinte à Saint-Rémy de Provence en 1889. Vincent van Gogh, Museum of Modern Art L’ESSENTIEL Vincent van Gogh, peintre néerlandais (1853-1890), est notamment connu pour son usage des couleurs. Il a peint de nombreuses toiles représentant de façon spectaculaire le ciel étoi",
-      "link": "https://theconversation.com/souvent-il-me-semble-que-la-nuit-est-encore-plus-richement-coloree-que-le-jour-le-ciel-etoile-selon-vincent-van-gogh-291501",
-      "image": "https://images.theconversation.com/files/761127/original/file-20260921-50-h8omzj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-21T13:05:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     }
   ]
