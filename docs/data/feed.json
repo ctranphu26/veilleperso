@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T16:32:37.396Z",
+  "generatedAt": "2026-09-24T21:10:00.978Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -183,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -199,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -215,39 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "anbm4by",
-      "title": "Développons les capacités créatives des universités",
-      "summary": "La créativité des personnes dépend du contexte organisationnel. Guy Parmentier et Bérangère Szostak illustrent les enjeux de développer les capacités créatives des organisations par l’exemple des universités. Lors des résultats donnés par le Conseil européen de la recherche (ou ERC) sur le financement de projets de rec",
-      "link": "https://theconversation.com/developpons-les-capacites-creatives-des-universites-287236",
-      "image": "https://counter.theconversation.com/content/287236/count.gif",
-      "publishedAt": "2026-09-24T14:14:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a7qgb87",
-      "title": "Ose-t-on encore dire « Je ne sais pas » ?",
-      "summary": "Admettre que l’on ne sait pas, c’est plus difficile qu’il n’y paraît. Saydung/Pixabay, CC BY L’ESSENTIEL Il est très fréquent que nous soyons persuadés de savoir quelque chose, en raison d’un biais psychologique appelé l’« aisance cognitive ». Mais si nous sommes réticents à admettre que nous ne savons pas, c’est aussi",
-      "link": "https://theconversation.com/ose-t-on-encore-dire-je-ne-sais-pas-291801",
-      "image": "https://images.theconversation.com/files/761772/original/file-20260923-50-8uu1dt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1492%2C6459%2C4306&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T14:12:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -265,8 +233,56 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "anbm4by",
+      "title": "Développons les capacités créatives des universités",
+      "summary": "La créativité des personnes dépend du contexte organisationnel. Guy Parmentier et Bérangère Szostak illustrent les enjeux de développer les capacités créatives des organisations par l’exemple des universités. Lors des résultats donnés par le Conseil européen de la recherche (ou ERC) sur le financement de projets de rec",
+      "link": "https://theconversation.com/developpons-les-capacites-creatives-des-universites-287236",
+      "image": "https://counter.theconversation.com/content/287236/count.gif",
+      "publishedAt": "2026-09-24T14:14:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7qgb87",
+      "title": "Ose-t-on encore dire « Je ne sais pas » ?",
+      "summary": "Admettre que l’on ne sait pas, c’est plus difficile qu’il n’y paraît. Saydung/Pixabay, CC BY L’ESSENTIEL Il est très fréquent que nous soyons persuadés de savoir quelque chose, en raison d’un biais psychologique appelé l’« aisance cognitive ». Mais si nous sommes réticents à admettre que nous ne savons pas, c’est aussi",
+      "link": "https://theconversation.com/ose-t-on-encore-dire-je-ne-sais-pas-291801",
+      "image": "https://images.theconversation.com/files/761772/original/file-20260923-50-8uu1dt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1492%2C6459%2C4306&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-24T14:12:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ai3vdgi",
+      "title": "Quiz - Comment soignait‑on la gueule de bois autrefois ?",
+      "summary": "La purgation faisait partie des remèdes contre la gueule de bois prescrits au Moyen Âge. Tacuinum sanitatis Alors que la médecine moderne a profondément transformé notre compréhension des effets de l’alcool, a-t-elle pour autant révolutionné la manière de soigner la gueule de bois ? Des croyances de l’Antiquité aux rec",
+      "link": "https://theconversation.com/quiz-comment-soignait-on-la-gueule-de-bois-autrefois-292721",
+      "image": "https://images.theconversation.com/files/761756/original/file-20260923-50-wvsob8.jpg?ixlib=rb-4.1.1&amp;rect=150%2C0%2C1620%2C1080&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-24T10:36:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3hrvtk",
@@ -283,43 +299,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ai3vdgi",
-      "title": "Quiz - Comment soignait‑on la gueule de bois autrefois ?",
-      "summary": "La purgation faisait partie des remèdes contre la gueule de bois prescrits au Moyen Âge. Tacuinum sanitatis Alors que la médecine moderne a profondément transformé notre compréhension des effets de l’alcool, a-t-elle pour autant révolutionné la manière de soigner la gueule de bois ? Des croyances de l’Antiquité aux rec",
-      "link": "https://theconversation.com/quiz-comment-soignait-on-la-gueule-de-bois-autrefois-292721",
-      "image": "https://images.theconversation.com/files/761756/original/file-20260923-50-wvsob8.jpg?ixlib=rb-4.1.1&amp;rect=150%2C0%2C1620%2C1080&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T10:36:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "axl5f3m",
-      "title": "Évaluations nationales : le ministère assure que les données des élèves sont protégées",
-      "summary": "Que dit le ministère sur les évaluations ? Objectifs, calendrier, évaluation des acquis par niveau, questions diverses à destination des familles ou des professeurs : une page éduscol est consacrée L’article Évaluations nationales : le ministère assure que les données des élèves sont protégées est apparu en premier sur",
-      "link": "https://www.cafepedagogique.net/2026/09/24/evaluations-nationales-le-ministere-assure-que-les-donnees-des-eleves-sont-protegees/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/post1-300x300.png",
-      "publishedAt": "2026-09-24T03:50:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "professeur",
-        "évaluation"
-      ],
-      "relevance": 98,
-      "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 68,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,41 +318,27 @@
       ],
       "relevance": 91,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "ahceimv",
-      "title": "Justice restaurative à l’école : pourquoi les académies font-elles machine arrière ?",
-      "summary": "La justice restaurative en milieu scolaire serait-elle dans le collimateur du ministère ? Plusieurs indices laissent à le penser. Jusqu’à récemment, la pratique des cercles restauratifs se répandait dans les établissements L’article Justice restaurative à l’école : pourquoi les académies font-elles machine arrière ? es",
-      "link": "https://www.cafepedagogique.net/2026/09/24/justice-restaurative-a-lecole-pourquoi-les-academies-font-elles-machine-arriere/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/justice-restaurative-300x294.png",
-      "publishedAt": "2026-09-24T03:45:51.000Z",
+      "id": "axl5f3m",
+      "title": "Évaluations nationales : le ministère assure que les données des élèves sont protégées",
+      "summary": "Que dit le ministère sur les évaluations ? Objectifs, calendrier, évaluation des acquis par niveau, questions diverses à destination des familles ou des professeurs : une page éduscol est consacrée L’article Évaluations nationales : le ministère assure que les données des élèves sont protégées est apparu en premier sur",
+      "link": "https://www.cafepedagogique.net/2026/09/24/evaluations-nationales-le-ministere-assure-que-les-donnees-des-eleves-sont-protegees/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/post1-300x300.png",
+      "publishedAt": "2026-09-24T03:50:19.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
-        "école"
+        "élève",
+        "professeur",
+        "évaluation"
       ],
-      "relevance": 77,
+      "relevance": 98,
       "relevanceLevel": "haute",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aoxdd1v",
-      "title": "EMI : comprendre le scrolling pour mieux le maitriser",
-      "summary": "Comment guérir du scrolling ? Fidèle aux principes de la collection – proposer aux 15-25 ans quelques pistes de réflexion sur un sujet d’actualité, tout en s’interdisant d’être surplombant·e – L’article EMI : comprendre le scrolling pour mieux le maitriser est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/24/emi-comprendre-le-scrolling-pour-mieux-le-maitriser/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Pourquoi-notre-cerveau-adore-scroller-couverture_Hres_0-194x300.jpg",
-      "publishedAt": "2026-09-24T03:40:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -391,7 +357,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -410,7 +376,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -429,7 +395,25 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahceimv",
+      "title": "Justice restaurative à l’école : pourquoi les académies font-elles machine arrière ?",
+      "summary": "La justice restaurative en milieu scolaire serait-elle dans le collimateur du ministère ? Plusieurs indices laissent à le penser. Jusqu’à récemment, la pratique des cercles restauratifs se répandait dans les établissements L’article Justice restaurative à l’école : pourquoi les académies font-elles machine arrière ? es",
+      "link": "https://www.cafepedagogique.net/2026/09/24/justice-restaurative-a-lecole-pourquoi-les-academies-font-elles-machine-arriere/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/justice-restaurative-300x294.png",
+      "publishedAt": "2026-09-24T03:45:51.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -447,23 +431,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abp2ql0",
-      "title": "Un festival littéraire à La Porte Dorée",
-      "summary": "Ce week-end, du vendredi 25 septembre, au dimanche 27 septembre, le Palais de la Porte Dorée programme pour la première fois un festival littéraire, Maillage. La littérature sous toutes ses L’article Un festival littéraire à La Porte Dorée est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/24/un-festival-litteraire-a-la-porte-doree/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/festival-litteraire-a-la-Porte-Doree-200x300.jpg",
-      "publishedAt": "2026-09-24T03:28:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -481,7 +449,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aoxdd1v",
+      "title": "EMI : comprendre le scrolling pour mieux le maitriser",
+      "summary": "Comment guérir du scrolling ? Fidèle aux principes de la collection – proposer aux 15-25 ans quelques pistes de réflexion sur un sujet d’actualité, tout en s’interdisant d’être surplombant·e – L’article EMI : comprendre le scrolling pour mieux le maitriser est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/24/emi-comprendre-le-scrolling-pour-mieux-le-maitriser/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Pourquoi-notre-cerveau-adore-scroller-couverture_Hres_0-194x300.jpg",
+      "publishedAt": "2026-09-24T03:40:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abp2ql0",
+      "title": "Un festival littéraire à La Porte Dorée",
+      "summary": "Ce week-end, du vendredi 25 septembre, au dimanche 27 septembre, le Palais de la Porte Dorée programme pour la première fois un festival littéraire, Maillage. La littérature sous toutes ses L’article Un festival littéraire à La Porte Dorée est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/24/un-festival-litteraire-a-la-porte-doree/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/festival-litteraire-a-la-Porte-Doree-200x300.jpg",
+      "publishedAt": "2026-09-24T03:28:32.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -499,7 +499,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +517,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -535,39 +535,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "acc5mgd",
-      "title": "D’État-tampon à État-charnière : comment la Mongolie réinvente sa diplomatie",
-      "summary": "L’ESSENTIEL La Mongolie cherche à transformer son enclavement entre la Russie et la Chine en atout diplomatique, en s’appuyant notamment sur les enjeux environnementaux et le pastoralisme pour diversifier ses partenariats. La récente COP17 à Oulan-Bator a servi cette stratégie en donnant à la Mongolie une visibilité in",
-      "link": "https://theconversation.com/detat-tampon-a-etat-charniere-comment-la-mongolie-reinvente-sa-diplomatie-291059",
-      "image": "https://images.theconversation.com/files/759934/original/file-20260915-50-gp19q9.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-23T13:54:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apjx85b",
-      "title": "Dieu contre « le bon diable » : retour sur les récents discours théologico-politiques au Cameroun",
-      "summary": "L’ESSENTIEL Au Cameroun, la campagne présidentielle de 2025 s’est jouée en partie dans les églises. La défection d’Issa Tchiroma, ancien fidèle du clan présidentiel, a suscité l’espoir des opposants à Paul Biya. Natif du Nord, région défavorisée du Cameroun, Tchiroma a notamment été affublé du sobriquet de « bon diable",
-      "link": "https://theconversation.com/dieu-contre-le-bon-diable-retour-sur-les-recents-discours-theologico-politiques-au-cameroun-291721",
-      "image": "https://counter.theconversation.com/content/291721/count.gif",
-      "publishedAt": "2026-09-23T13:53:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -585,7 +553,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "acc5mgd",
+      "title": "D’État-tampon à État-charnière : comment la Mongolie réinvente sa diplomatie",
+      "summary": "L’ESSENTIEL La Mongolie cherche à transformer son enclavement entre la Russie et la Chine en atout diplomatique, en s’appuyant notamment sur les enjeux environnementaux et le pastoralisme pour diversifier ses partenariats. La récente COP17 à Oulan-Bator a servi cette stratégie en donnant à la Mongolie une visibilité in",
+      "link": "https://theconversation.com/detat-tampon-a-etat-charniere-comment-la-mongolie-reinvente-sa-diplomatie-291059",
+      "image": "https://images.theconversation.com/files/759934/original/file-20260915-50-gp19q9.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-23T13:54:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apjx85b",
+      "title": "Dieu contre « le bon diable » : retour sur les récents discours théologico-politiques au Cameroun",
+      "summary": "L’ESSENTIEL Au Cameroun, la campagne présidentielle de 2025 s’est jouée en partie dans les églises. La défection d’Issa Tchiroma, ancien fidèle du clan présidentiel, a suscité l’espoir des opposants à Paul Biya. Natif du Nord, région défavorisée du Cameroun, Tchiroma a notamment été affublé du sobriquet de « bon diable",
+      "link": "https://theconversation.com/dieu-contre-le-bon-diable-retour-sur-les-recents-discours-theologico-politiques-au-cameroun-291721",
+      "image": "https://counter.theconversation.com/content/291721/count.gif",
+      "publishedAt": "2026-09-23T13:53:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -601,7 +601,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3lprev",
+      "title": "Which spiritual and political issues will be the focus of Pope Leo XIV’s visit to France?",
+      "summary": "KEY TAKEAWAYS The Catholic Church of France will welcome Pope Leo XIV from September 25 to 28 2026. The Pope will address young people at the Stade de France, thus following in the footsteps of his predecessor John Paul II in 1980. This trip will provide the Pope with an opportunity to speak on artificial intelligence,",
+      "link": "https://theconversation.com/which-spiritual-and-political-issues-will-be-the-focus-of-pope-leo-xivs-visit-to-france-292520",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-23T10:16:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -619,23 +635,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3lprev",
-      "title": "Which spiritual and political issues will be the focus of Pope Leo XIV’s visit to France?",
-      "summary": "KEY TAKEAWAYS The Catholic Church of France will welcome Pope Leo XIV from September 25 to 28 2026. The Pope will address young people at the Stade de France, thus following in the footsteps of his predecessor John Paul II in 1980. This trip will provide the Pope with an opportunity to speak on artificial intelligence,",
-      "link": "https://theconversation.com/which-spiritual-and-political-issues-will-be-the-focus-of-pope-leo-xivs-visit-to-france-292520",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-23T10:16:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -651,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -667,7 +667,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -683,7 +683,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -717,7 +717,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     }
   ]
