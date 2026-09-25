@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:10:00.978Z",
+  "generatedAt": "2026-09-25T03:33:40.854Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,72 @@
   "count": 35,
   "items": [
     {
+      "id": "ah515cg",
+      "title": "N° 78 NF d’Après-demain : « Politiques culturelles : du progrès au péril »",
+      "summary": "Fondé en 1957 par Françoise Seligmann avec une section de la LDH, le journal trimestriel Après-demain est aujourd’hui édité par la Fondation Seligmann, reconnue d’utilité publique. Son ambition est de L’article N° 78 NF d’Après-demain : « Politiques culturelles : du progrès au péril » est apparu en premier sur Le Café ",
+      "link": "https://www.cafepedagogique.net/2026/09/25/n-78-nf-dapres-demain-politiques-culturelles-du-progres-au-peril/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/apres-demain-300x242.png",
+      "publishedAt": "2026-09-25T03:27:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ao9pmds",
+      "title": "Orientation : les métiers en cabinet d’expertise comptable",
+      "summary": "Au quotidien, les cabinets d’expertise comptable accompagnent 4 millions d’entreprises. Pour mieux faire connaître la diversité des carrières et des parcours de formation, l’Onisep publie le guide « Zoom sur L’article Orientation : les métiers en cabinet d’expertise comptable est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/09/25/orientation-les-metiers-en-cabinet-dexpertise-comptable/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Image-Zoom-experts-comptables-238x300.png",
+      "publishedAt": "2026-09-25T03:29:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ab63lzr",
+      "title": "HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ?",
+      "summary": "La mort de l’ancien général serbe de Bosnie Ratko Mladic, survenue le 27 août 2026 à l’âge de 84 ans alors qu’il purgeait, en détention à La Haye, une peine L’article HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/hggsp-mort-de-ratko-mladic-que-peut-vraiment-faire-la-justice-internationale/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Serbie-300x200.png",
+      "publishedAt": "2026-09-25T03:30:28.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2f3rc4",
+      "title": "Rencontrez Hassan Hajjaj à la Cité de la musique",
+      "summary": "Le musée de la musique consacre, jusqu’au 25 avril 2027, une exposition au photographe marocain, styliste et plasticien, Hassan Hajjaj. « My Rock Stars » présente une quarantaine de portraits. L’article Rencontrez Hassan Hajjaj à la Cité de la musique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/rencontrez-hassan-hajjaj-a-la-cite-de-la-musique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/1-Hassan-HHajjaj-300x169.jpg",
+      "publishedAt": "2026-09-25T03:28:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a576gcn",
       "title": "Créer du vin sans alcool commence dès la plantation d’une vigne",
       "summary": "On ne transforme pas n’importe quel vin en bon vin sans alcool. La qualité de ces vins ne se décrète pas a posteriori, mais aux premières étapes de la viticulture. Le choix du cépage, de la région de production, dont le climat a une forte influence, et les méthodes de vinification importent beaucoup. Le marché des vins",
@@ -133,89 +199,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a2bhdky",
-      "title": "L’Église face aux violences sexuelles : une lente conversion à la prise en compte des victimes",
-      "summary": "L’ESSENTIEL Longtemps, l’Église catholique a sanctionné les clercs auteurs de violences sexuelles, mais sans transparence et en demandant aux victimes de se taire. Depuis les années 1990, des scandales ont contraint l’Église à changer d’approche. En France, plusieurs dispositifs prennent désormais en charge les victime",
-      "link": "https://theconversation.com/leglise-face-aux-violences-sexuelles-une-lente-conversion-a-la-prise-en-compte-des-victimes-292634",
-      "image": "https://counter.theconversation.com/content/292634/count.gif",
-      "publishedAt": "2026-09-24T14:21:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "awv16t0",
-      "title": "Why volcanic crystals are black boxes for tracking magma’s journey to the Earth’s surface",
-      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. However, beneath the Earth’s surface, a much more complex and fascinating story is unfolding. The magma that is found in the depths of volcanoes is more than just boiling liquid. It is a thick mixture of melted rock and s",
-      "link": "https://theconversation.com/why-volcanic-crystals-are-black-boxes-for-tracking-magmas-journey-to-the-earths-surface-291300",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-24T14:27:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a4rx0z6",
-      "title": "Restriction calorique : Certains nutriments présents dans les aliments peuvent-ils allonger la durée de vie en bonne santé ?",
-      "summary": "Conjuguée à la pratique d’une activité physique régulière, une alimentation variée et équilibrée reste le moyen le plus sûr d’améliorer ses chances de vieillir en bonne santé. Tatjana Baibakova/Shutterstock (no reuse) L’ESSENTIEL Des travaux ont démontré que, chez l’animal, réduire les apports énergétiques en diminuant",
-      "link": "https://theconversation.com/restriction-calorique-certains-nutriments-presents-dans-les-aliments-peuvent-ils-allonger-la-duree-de-vie-en-bonne-sante-292806",
-      "image": "https://images.theconversation.com/files/761976/original/file-20260904-50-8sbgnt.jpg?ixlib=rb-4.1.1&amp;rect=975%2C0%2C4113%2C2742&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T14:25:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aass2n1",
-      "title": "Le scrutin sénatorial favorise-t-il les communes rurales et la droite ?",
-      "summary": "En septembre 2026, juste avant le renouvellement d’un peu plus de la moitié des sièges au Sénat, le groupe Les Républicains (LR) représente à lui seul 37 % de la chambre haute. Si l’on élargit à la majorité de droite et du centre, le pourcentage atteint 65,5 %. Sénat L’ESSENTIEL Le 27 septembre 2026, 178 des 348 sièges",
-      "link": "https://theconversation.com/le-scrutin-senatorial-favorise-t-il-les-communes-rurales-et-la-droite-292145",
-      "image": "https://images.theconversation.com/files/761133/original/file-20260921-50-pa5wmi.JPG?ixlib=rb-4.1.1&amp;rect=255%2C0%2C1089%2C726&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T14:21:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aypkw92",
-      "title": "Différend France-Vanuatu sur les îles Matthew et Hunter : l’option de la cogestion",
-      "summary": "L’ESSENTIEL Le Vanuatu a saisi la Cour internationale de justice pour contester la souveraineté française sur les îles Matthew et Hunter, dans l'océan Pacifique Sud, et demander la fixation d’une frontière maritime entre les deux États. Derrière le contentieux territorial se joue un affrontement plus large autour de la",
-      "link": "https://theconversation.com/differend-france-vanuatu-sur-les-iles-matthew-et-hunter-loption-de-la-cogestion-291790",
-      "image": "https://images.theconversation.com/files/761728/original/file-20260923-60-rhjyc2.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-24T14:18:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -233,8 +217,90 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a2bhdky",
+      "title": "L’Église face aux violences sexuelles : une lente conversion à la prise en compte des victimes",
+      "summary": "L’ESSENTIEL Longtemps, l’Église catholique a sanctionné les clercs auteurs de violences sexuelles, mais sans transparence et en demandant aux victimes de se taire. Depuis les années 1990, des scandales ont contraint l’Église à changer d’approche. En France, plusieurs dispositifs prennent désormais en charge les victime",
+      "link": "https://theconversation.com/leglise-face-aux-violences-sexuelles-une-lente-conversion-a-la-prise-en-compte-des-victimes-292634",
+      "image": "https://counter.theconversation.com/content/292634/count.gif",
+      "publishedAt": "2026-09-24T14:21:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awv16t0",
+      "title": "Why volcanic crystals are black boxes for tracking magma’s journey to the Earth’s surface",
+      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. However, beneath the Earth’s surface, a much more complex and fascinating story is unfolding. The magma that is found in the depths of volcanoes is more than just boiling liquid. It is a thick mixture of melted rock and s",
+      "link": "https://theconversation.com/why-volcanic-crystals-are-black-boxes-for-tracking-magmas-journey-to-the-earths-surface-291300",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-24T14:27:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4rx0z6",
+      "title": "Restriction calorique : Certains nutriments présents dans les aliments peuvent-ils allonger la durée de vie en bonne santé ?",
+      "summary": "Conjuguée à la pratique d’une activité physique régulière, une alimentation variée et équilibrée reste le moyen le plus sûr d’améliorer ses chances de vieillir en bonne santé. Tatjana Baibakova/Shutterstock (no reuse) L’ESSENTIEL Des travaux ont démontré que, chez l’animal, réduire les apports énergétiques en diminuant",
+      "link": "https://theconversation.com/restriction-calorique-certains-nutriments-presents-dans-les-aliments-peuvent-ils-allonger-la-duree-de-vie-en-bonne-sante-292806",
+      "image": "https://images.theconversation.com/files/761976/original/file-20260904-50-8sbgnt.jpg?ixlib=rb-4.1.1&amp;rect=975%2C0%2C4113%2C2742&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-24T14:25:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aass2n1",
+      "title": "Le scrutin sénatorial favorise-t-il les communes rurales et la droite ?",
+      "summary": "En septembre 2026, juste avant le renouvellement d’un peu plus de la moitié des sièges au Sénat, le groupe Les Républicains (LR) représente à lui seul 37 % de la chambre haute. Si l’on élargit à la majorité de droite et du centre, le pourcentage atteint 65,5 %. Sénat L’ESSENTIEL Le 27 septembre 2026, 178 des 348 sièges",
+      "link": "https://theconversation.com/le-scrutin-senatorial-favorise-t-il-les-communes-rurales-et-la-droite-292145",
+      "image": "https://images.theconversation.com/files/761133/original/file-20260921-50-pa5wmi.JPG?ixlib=rb-4.1.1&amp;rect=255%2C0%2C1089%2C726&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-24T14:21:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aypkw92",
+      "title": "Différend France-Vanuatu sur les îles Matthew et Hunter : l’option de la cogestion",
+      "summary": "L’ESSENTIEL Le Vanuatu a saisi la Cour internationale de justice pour contester la souveraineté française sur les îles Matthew et Hunter, dans l'océan Pacifique Sud, et demander la fixation d’une frontière maritime entre les deux États. Derrière le contentieux territorial se joue un affrontement plus large autour de la",
+      "link": "https://theconversation.com/differend-france-vanuatu-sur-les-iles-matthew-et-hunter-loption-de-la-cogestion-291790",
+      "image": "https://images.theconversation.com/files/761728/original/file-20260923-60-rhjyc2.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-24T14:18:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anbm4by",
@@ -249,8 +315,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7qgb87",
@@ -265,8 +331,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ai3vdgi",
@@ -281,7 +347,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,26 +365,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "au8uwhs",
-      "title": "Enseignement privé : les syndicats sauvent la prévoyance de 150 000 enseignant.es",
-      "summary": "Qui a dit que l’union syndicale ne portait pas ses fruits ? Une victoire est pourtant bien à mettre à l’actif des syndicats du privé sous contrat : unis sur L’article Enseignement privé : les syndicats sauvent la prévoyance de 150 000 enseignant.es est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/24/enseignement-prive-les-syndicats-sauvent-la-prevoyance-de-150-000-enseignant-es/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/union-syndicale-300x225.jpeg",
-      "publishedAt": "2026-09-24T04:00:20.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "enseignant"
-      ],
-      "relevance": 91,
-      "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,7 +385,26 @@
       ],
       "relevance": 98,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "au8uwhs",
+      "title": "Enseignement privé : les syndicats sauvent la prévoyance de 150 000 enseignant.es",
+      "summary": "Qui a dit que l’union syndicale ne portait pas ses fruits ? Une victoire est pourtant bien à mettre à l’actif des syndicats du privé sous contrat : unis sur L’article Enseignement privé : les syndicats sauvent la prévoyance de 150 000 enseignant.es est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/24/enseignement-prive-les-syndicats-sauvent-la-prevoyance-de-150-000-enseignant-es/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/union-syndicale-300x225.jpeg",
+      "publishedAt": "2026-09-24T04:00:20.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement",
+        "enseignant"
+      ],
+      "relevance": 91,
+      "relevanceLevel": "haute",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -357,45 +423,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4ltosq",
-      "title": "Concours enseignants à Mayotte : les épreuves du CAPES évoluent",
-      "summary": "Un arrêté publié au Journal officiel du 23 septembre modifie les concours externe et interne de recrutement des professeurs certifiés affectés à Mayotte. À l’externe, la durée de la deuxième L’article Concours enseignants à Mayotte : les épreuves du CAPES évoluent est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/24/concours-enseignants-a-mayotte-les-epreuves-du-capes-evoluent/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Academie_de_Mayotte.svg-300x262.webp",
-      "publishedAt": "2026-09-24T03:26:35.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant",
-        "professeur"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2zdu3r",
-      "title": "Webinaire : faire classe à l’ère de l’IA",
-      "summary": "Alors que tout le monde parle de l’IA, parfois en termes binaires : rejet ou adoption enthousiaste, il est important d’approfondir la réflexion sur les usages possibles à l’école. Sur L’article Webinaire : faire classe à l’ère de l’IA est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/24/webinaire-faire-classe-a-lere-de-lia/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/ere-IA-300x290.png",
-      "publishedAt": "2026-09-24T03:26:08.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "classe"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -413,25 +441,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agg9pip",
-      "title": "École inclusive : pour la CGT Éduc’action, « le compte n’y est pas »",
-      "summary": "La CGT Éduc’action critique le premier bilan des Pôles d’appui à la scolarité (PAS) présenté par le ministère à l’occasion des mesures issues de la Conférence nationale du handicap. Le L’article École inclusive : pour la CGT Éduc’action, « le compte n’y est pas » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/24/ecole-inclusive-pour-la-cgt-educaction-le-compte-ny-est-pas/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/09/cgt-176x300.jpg",
-      "publishedAt": "2026-09-24T03:26:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +459,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -465,23 +475,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abp2ql0",
-      "title": "Un festival littéraire à La Porte Dorée",
-      "summary": "Ce week-end, du vendredi 25 septembre, au dimanche 27 septembre, le Palais de la Porte Dorée programme pour la première fois un festival littéraire, Maillage. La littérature sous toutes ses L’article Un festival littéraire à La Porte Dorée est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/24/un-festival-litteraire-a-la-porte-doree/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/festival-litteraire-a-la-Porte-Doree-200x300.jpg",
-      "publishedAt": "2026-09-24T03:28:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -499,7 +493,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +511,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -535,7 +529,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -553,7 +547,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -569,7 +563,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -585,7 +579,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -601,23 +595,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3lprev",
-      "title": "Which spiritual and political issues will be the focus of Pope Leo XIV’s visit to France?",
-      "summary": "KEY TAKEAWAYS The Catholic Church of France will welcome Pope Leo XIV from September 25 to 28 2026. The Pope will address young people at the Stade de France, thus following in the footsteps of his predecessor John Paul II in 1980. This trip will provide the Pope with an opportunity to speak on artificial intelligence,",
-      "link": "https://theconversation.com/which-spiritual-and-political-issues-will-be-the-focus-of-pope-leo-xivs-visit-to-france-292520",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-23T10:16:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -635,7 +613,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3lprev",
+      "title": "Which spiritual and political issues will be the focus of Pope Leo XIV’s visit to France?",
+      "summary": "KEY TAKEAWAYS The Catholic Church of France will welcome Pope Leo XIV from September 25 to 28 2026. The Pope will address young people at the Stade de France, thus following in the footsteps of his predecessor John Paul II in 1980. This trip will provide the Pope with an opportunity to speak on artificial intelligence,",
+      "link": "https://theconversation.com/which-spiritual-and-political-issues-will-be-the-focus-of-pope-leo-xivs-visit-to-france-292520",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-23T10:16:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -651,7 +645,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -667,7 +661,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -683,7 +677,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -701,7 +695,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -717,7 +711,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     }
   ]
