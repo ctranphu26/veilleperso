@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T03:33:40.854Z",
+  "generatedAt": "2026-09-25T11:12:26.041Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,24 @@
   "count": 35,
   "items": [
     {
+      "id": "amlsgoi",
+      "title": "De Rome aux messes dans les stades : comment la dévotion envers le pape a changé au fil des siècles",
+      "summary": "Le pape Léon XIV devant les fidèles venus l’attendre au Vatican, comme chaque semaine. Marco Iacobucci Epp/Shutterstock L’ESSENTIEL Pendant des siècles, les fidèles se rendaient à Rome pour voir le pape. La radio, la télévision puis les voyages ont rapproché les papes des foules. Les réseaux sociaux prolongent aujourd’",
+      "link": "https://theconversation.com/de-rome-aux-messes-dans-les-stades-comment-la-devotion-envers-le-pape-a-change-au-fil-des-siecles-292793",
+      "image": "https://images.theconversation.com/files/761930/original/file-20260602-57-1rwqrk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4252%2C2834&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-25T06:59:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ah515cg",
       "title": "N° 78 NF d’Après-demain : « Politiques culturelles : du progrès au péril »",
       "summary": "Fondé en 1957 par Françoise Seligmann avec une section de la LDH, le journal trimestriel Après-demain est aujourd’hui édité par la Fondation Seligmann, reconnue d’utilité publique. Son ambition est de L’article N° 78 NF d’Après-demain : « Politiques culturelles : du progrès au péril » est apparu en premier sur Le Café ",
@@ -131,7 +149,164 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 90,
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3re9rs",
+      "title": "Budget 2027 : la FSU appelle à la grève le 29 septembre",
+      "summary": "Comme de nombreuses organisations syndicale, la FSU appelle les agents publics à se mettre « massivement » en grève le 29 septembre contre les orientations du budget 2027. Le syndicat L’article Budget 2027 : la FSU appelle à la grève le 29 septembre est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/budget-2027-la-fsu-appelle-a-la-greve-le-29-septembre/",
+      "image": null,
+      "publishedAt": "2026-09-25T03:27:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 40,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abycv9",
+      "title": "Au Brésil, l’affaire Banco Master fait trembler le monde politique et éclabousse la campagne présidentielle",
+      "summary": "L’ESSENTIEL Le Brésil est secoué par le scandale Banco Master, une vaste affaire de fraude bancaire aux ramifications politiques et judiciaires. L’affaire met en lumière les profondes tensions entre la présidence, le Congrès et la Cour suprême. À quelques semaines de la présidentielle, le scandale pèse sur la campagne ",
+      "link": "https://theconversation.com/au-bresil-laffaire-banco-master-fait-trembler-le-monde-politique-et-eclabousse-la-campagne-presidentielle-292846",
+      "image": "https://counter.theconversation.com/content/292846/count.gif",
+      "publishedAt": "2026-09-25T09:26:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aa8ccwh",
+      "title": "Que révèlent la devise et les armoiries du pape Léon XIV ?",
+      "summary": "Un vitrail du XVIIᵉ siècle représentant saint Augustin. Tobias Müller, 1622. Michel M. Raguin / Princeton University Art Museum, Princeton NJ, U.S. L’ESSENTIEL La devise et les armoiries de Léon XIV rappellent son appartenance à l’ordre de Saint-Augustin. Dans l’art, Augustin est souvent représenté comme un savant cons",
+      "link": "https://theconversation.com/que-revelent-la-devise-et-les-armoiries-du-pape-leon-xiv-292795",
+      "image": "https://images.theconversation.com/files/761932/original/file-20250514-56-lxcxhz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C207%2C1971%2C1313&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-25T07:00:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axrpsh3",
+      "title": "Ce que « Le Semeur », tableau lumineux de Van Gogh, révèle du message de Léon XIV",
+      "summary": "« Le Semeur au soleil couchant », de Vincent van Gogh. Vincent van Gogh/ Kröller-Müller Museum via Wikimedia Commons, CC BY-NC-SA L’ESSENTIEL Lors de sa première audience générale, Léon XIV avait évoqué « Le Semeur au soleil couchant » de Van Gogh pour parler d’espérance, un tableau peint dans le pays qu’il visite cett",
+      "link": "https://theconversation.com/ce-que-le-semeur-tableau-lumineux-de-van-gogh-revele-du-message-de-leon-xiv-292794",
+      "image": "https://images.theconversation.com/files/761931/original/file-20250603-56-hpv08b.jpg?ixlib=rb-4.1.1&amp;rect=0%2C147%2C2560%2C1706&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-25T06:59:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqvmso3",
+      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
+      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
+      "publishedAt": "2026-09-25T04:48:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "alp0joj",
+      "title": "Enseignante menacée : le manque de moyens de l’école inclusive en accusation",
+      "summary": "L’élève qui s’en est pris à une enseignante à Évry-Courcouronnes mi-septembre est atteint d’un « handicap très lourd », a précisé le ministre de l’Éducation nationale jeudi 24 septembre. Il L’article Enseignante menacée : le manque de moyens de l’école inclusive en accusation est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/09/25/enseignante-menacee-le-manque-de-moyens-de-lecole-inclusive-en-accusation/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/sac-cour-300x211.png",
+      "publishedAt": "2026-09-25T04:05:25.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "élève",
+        "enseignant"
+      ],
+      "relevance": 96,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at2j5rd",
+      "title": "École : sanctionner les élèves ne fera pas disparaître les inégalités",
+      "summary": "Sanctionner davantage les copies pour relever le niveau des élèves ? Pour Yannick Trigance, le ministre Édouard Geffray fait fausse route. En imposant à partir de 2027 une pénalisation de L’article École : sanctionner les élèves ne fera pas disparaître les inégalités est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/ecole-sanctionner-les-eleves-ne-fera-pas-disparaitre-les-inegalites/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/01/Yannick-Trigance-Cafe-pedagogique-e1737004858366-268x300.jpeg",
+      "publishedAt": "2026-09-25T03:45:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "élève"
+      ],
+      "relevance": 96,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a107kpn",
+      "title": "« Journée papale » dans l’enseignement catholique : la laïcité en question",
+      "summary": "Une journée banalisée pour accueillir le pape Léon XIV : l’initiative de l’Enseignement catholique fait polémique. Guillaume Prévost demande aux établissements catholiques sous contrat de consacrer le vendredi 25 septembre L’article « Journée papale » dans l’enseignement catholique : la laïcité en question est apparu e",
+      "link": "https://www.cafepedagogique.net/2026/09/25/journee-papale-dans-lenseignement-catholique-la-laicite-en-question/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/ec-pape-300x206.png",
+      "publishedAt": "2026-09-25T04:00:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2618h4",
+      "title": "Cyberattaques : l’École face à une sécurité à plusieurs vitesses",
+      "summary": "Espaces numériques de travail, démarches dématérialisées, outils collaboratifs, intelligence artificielle : le numérique est devenu un rouage essentiel du service public d’éducation. Mais alors que l’Éducation nationale a structuré une L’article Cyberattaques : l’École face à une sécurité à plusieurs vitesses est appar",
+      "link": "https://www.cafepedagogique.net/2026/09/25/cyberattaques-lecole-face-a-une-securite-a-plusieurs-vitesses/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/jackyGalicher-240x300.png",
+      "publishedAt": "2026-09-25T03:50:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +324,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +340,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +356,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -199,25 +374,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aab6lo1",
-      "title": "Cinéma Jeune Public : « Chien Bleu » et autres belles histoires de ‘L’école des loisirs’ de Jean-Christophe Ribot et Dominique Pochat",
-      "summary": "Vous vous demandez comment favoriser dès le plus jeune âge la première expérience de la salle de cinéma ? Voici un programme merveilleux de charme et d’intelligence, destiné aux tout-petits. L’article Cinéma Jeune Public : « Chien Bleu » et autres belles histoires de ‘L’école des loisirs’ de Jean-Christophe Ribot et Do",
-      "link": "https://www.cafepedagogique.net/2026/09/24/cinema-jeune-public-chien-bleu-et-autres-belles-histoires-de-lecole-des-loisirs-de-jean-christophe-ribot-et-dominique-pochat/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/CHIEN-BLEU_AFF_120x160_PART-scaled-1-221x300.jpg",
-      "publishedAt": "2026-09-24T03:28:47.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 69,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,7 +392,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +408,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +424,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +440,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +456,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,7 +472,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,23 +488,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ai3vdgi",
-      "title": "Quiz - Comment soignait‑on la gueule de bois autrefois ?",
-      "summary": "La purgation faisait partie des remèdes contre la gueule de bois prescrits au Moyen Âge. Tacuinum sanitatis Alors que la médecine moderne a profondément transformé notre compréhension des effets de l’alcool, a-t-elle pour autant révolutionné la manière de soigner la gueule de bois ? Des croyances de l’Antiquité aux rec",
-      "link": "https://theconversation.com/quiz-comment-soignait-on-la-gueule-de-bois-autrefois-292721",
-      "image": "https://images.theconversation.com/files/761756/original/file-20260923-50-wvsob8.jpg?ixlib=rb-4.1.1&amp;rect=150%2C0%2C1620%2C1080&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T10:36:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -365,83 +506,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "axl5f3m",
-      "title": "Évaluations nationales : le ministère assure que les données des élèves sont protégées",
-      "summary": "Que dit le ministère sur les évaluations ? Objectifs, calendrier, évaluation des acquis par niveau, questions diverses à destination des familles ou des professeurs : une page éduscol est consacrée L’article Évaluations nationales : le ministère assure que les données des élèves sont protégées est apparu en premier sur",
-      "link": "https://www.cafepedagogique.net/2026/09/24/evaluations-nationales-le-ministere-assure-que-les-donnees-des-eleves-sont-protegees/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/post1-300x300.png",
-      "publishedAt": "2026-09-24T03:50:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "ai3vdgi",
+      "title": "Quiz - Comment soignait‑on la gueule de bois autrefois ?",
+      "summary": "La purgation faisait partie des remèdes contre la gueule de bois prescrits au Moyen Âge. Tacuinum sanitatis Alors que la médecine moderne a profondément transformé notre compréhension des effets de l’alcool, a-t-elle pour autant révolutionné la manière de soigner la gueule de bois ? Des croyances de l’Antiquité aux rec",
+      "link": "https://theconversation.com/quiz-comment-soignait-on-la-gueule-de-bois-autrefois-292721",
+      "image": "https://images.theconversation.com/files/761756/original/file-20260923-50-wvsob8.jpg?ixlib=rb-4.1.1&amp;rect=150%2C0%2C1620%2C1080&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-24T10:36:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "professeur",
-        "évaluation"
-      ],
-      "relevance": 98,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "au8uwhs",
-      "title": "Enseignement privé : les syndicats sauvent la prévoyance de 150 000 enseignant.es",
-      "summary": "Qui a dit que l’union syndicale ne portait pas ses fruits ? Une victoire est pourtant bien à mettre à l’actif des syndicats du privé sous contrat : unis sur L’article Enseignement privé : les syndicats sauvent la prévoyance de 150 000 enseignant.es est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/24/enseignement-prive-les-syndicats-sauvent-la-prevoyance-de-150-000-enseignant-es/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/union-syndicale-300x225.jpeg",
-      "publishedAt": "2026-09-24T04:00:20.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "enseignant"
-      ],
-      "relevance": 91,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alatg2j",
-      "title": "Pauline Roland : l’école pour s’émanciper, pas pour trier",
-      "summary": "Souci de vérité, science émancipatrice, la professeure des écoles Sarah Leleu nous fait (re) découvrir Pauline Roland. « Son projet pédagogique ? Une éducation globale — manuelle, artistique et scientifique L’article Pauline Roland : l’école pour s’émanciper, pas pour trier est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/09/24/pauline-roland-lecole-pour-semanciper-pas-pour-trier/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/vie-ecoleprogramme-deducation-1-218x300.png",
-      "publishedAt": "2026-09-24T03:30:31.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "professeur"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahceimv",
-      "title": "Justice restaurative à l’école : pourquoi les académies font-elles machine arrière ?",
-      "summary": "La justice restaurative en milieu scolaire serait-elle dans le collimateur du ministère ? Plusieurs indices laissent à le penser. Jusqu’à récemment, la pratique des cercles restauratifs se répandait dans les établissements L’article Justice restaurative à l’école : pourquoi les académies font-elles machine arrière ? es",
-      "link": "https://www.cafepedagogique.net/2026/09/24/justice-restaurative-a-lecole-pourquoi-les-academies-font-elles-machine-arriere/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/justice-restaurative-300x294.png",
-      "publishedAt": "2026-09-24T03:45:51.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 57,
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,23 +540,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aoxdd1v",
-      "title": "EMI : comprendre le scrolling pour mieux le maitriser",
-      "summary": "Comment guérir du scrolling ? Fidèle aux principes de la collection – proposer aux 15-25 ans quelques pistes de réflexion sur un sujet d’actualité, tout en s’interdisant d’être surplombant·e – L’article EMI : comprendre le scrolling pour mieux le maitriser est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/24/emi-comprendre-le-scrolling-pour-mieux-le-maitriser/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Pourquoi-notre-cerveau-adore-scroller-couverture_Hres_0-194x300.jpg",
-      "publishedAt": "2026-09-24T03:40:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -493,7 +558,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -511,7 +576,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -529,7 +594,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -547,7 +612,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -563,7 +628,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -579,7 +644,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -595,7 +660,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -613,7 +678,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -629,7 +694,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -645,74 +710,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqi41xm",
-      "title": "France-Togo : la fin d’une relation privilégiée ?",
-      "summary": "L’ESSENTIEL L’arrestation de deux journalistes français au Togo, fin juillet 2026, révèle les difficultés persistantes auxquelles sont confrontés les médias dans un pays dirigé depuis près de soixante ans par la famille Gnassingbé. Des décennies durant, le Togo a été un élément important du « pré carré » français en Af",
-      "link": "https://theconversation.com/france-togo-la-fin-dune-relation-privilegiee-291584",
-      "image": "https://images.theconversation.com/files/760272/original/file-20260916-50-ma8q70.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-23T10:00:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afmciul",
-      "title": "Les 400 ans de la Marine nationale : un anniversaire amnésique ? Du Levant au Ponant, les origines oubliées de la flotte française",
-      "summary": "Visite de Louis XV au Havre, en 1749. Descamps, via Wikimedia Commons L’ESSENTIEL La Marine nationale fête ses 400 ans en 2026. Mais les bases de la Marine que nous connaissons n’ont-elles pas été posées avant la signature de l’édit de Saint-Germain par Richelieu en 1626 ? Pour comprendre son histoire, il faut revenir ",
-      "link": "https://theconversation.com/les-400-ans-de-la-marine-nationale-un-anniversaire-amnesique-du-levant-au-ponant-les-origines-oubliees-de-la-flotte-francaise-290800",
-      "image": "https://images.theconversation.com/files/760236/original/file-20260916-50-n5mt6y.jpg?ixlib=rb-4.1.1&amp;rect=0%2C22%2C1146%2C764&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-23T09:59:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8nupix",
-      "title": "La santé ne commence pas à l’hôpital : Pourquoi la jeunesse doit être au cœur des politiques de prévention",
-      "summary": "L’ESSENTIEL Les recherches les plus récentes nous ont appris que la santé se construit bien avant l’entrée dans le système de soin. Les comportements favorables à la santé s’acquièrent dans des endroits et des secteurs très divers : dans les familles, à l’école, dans les clubs sportifs, dans les collectivités, etc. Not",
-      "link": "https://theconversation.com/la-sante-ne-commence-pas-a-lhopital-pourquoi-la-jeunesse-doit-etre-au-coeur-des-politiques-de-prevention-286711",
-      "image": "https://counter.theconversation.com/content/286711/count.gif",
-      "publishedAt": "2026-09-22T13:39:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5s93vt",
-      "title": "Yémen, péninsule Arabique, mer Rouge : les houthistes à l’assaut de la région",
-      "summary": "Depuis quelques semaines, la guerre civile yéménite connaît une brutale remontée en intensité. Les houthistes, qui contrôlent déjà la capitale Sanaa et l’essentiel du nord-ouest du pays, ont lancé une offensive vers l’ouest et le sud, s’emparant notamment de la ville porturaire de Mokha et de positions stratégiques aut",
-      "link": "https://theconversation.com/yemen-peninsule-arabique-mer-rouge-les-houthistes-a-lassaut-de-la-region-292538",
-      "image": "https://images.theconversation.com/files/761490/original/file-20260922-50-vhomto.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-22T13:59:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
     }
   ]
 }
