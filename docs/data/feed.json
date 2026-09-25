@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T16:35:59.741Z",
+  "generatedAt": "2026-09-25T21:06:48.292Z",
   "themes": [
     {
       "id": "education-medias",
@@ -120,7 +120,7 @@
   "items": [
     {
       "id": "amlsgoi",
-      "title": "De Rome aux messes dans les stades : comment la dévotion envers le pape a changé au fil des siècles",
+      "title": "De Rome aux messes dans les stades : comment la dévotion envers le pape a changé au fil des siècles",
       "summary": "Le pape Léon XIV devant les fidèles venus l’attendre au Vatican, comme chaque semaine. Marco Iacobucci Epp/Shutterstock L’ESSENTIEL Pendant des siècles, les fidèles se rendaient à Rome pour voir le pape. La radio, la télévision puis les voyages ont rapproché les papes des foules. Les réseaux sociaux prolongent aujourd’",
       "link": "https://theconversation.com/de-rome-aux-messes-dans-les-stades-comment-la-devotion-envers-le-pape-a-change-au-fil-des-siecles-292793",
       "image": "https://images.theconversation.com/files/761930/original/file-20260602-57-1rwqrk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4252%2C2834&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
@@ -133,7 +133,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a57y9w2",
+      "title": "Le pape Léon XIV peut contribuer à améliorer les opérations de secours aux naufragés en Méditerranée",
+      "summary": "L’ESSENTIEL En Méditerranée, les secours maritimes se dégradent. Malgré la baisse du nombre de traversées, le nombre de noyés augmente. L’externalisation vers la Libye et la Tunisie des obligations de sauvetage en mer a accru le rôle des ONG dans le repérage et le sauvetage des embarcations en détresse. Or les ONG sont",
+      "link": "https://theconversation.com/le-pape-leon-xiv-peut-contribuer-a-ameliorer-les-operations-de-secours-aux-naufrages-en-mediterranee-292872",
+      "image": "https://counter.theconversation.com/content/292872/count.gif",
+      "publishedAt": "2026-09-25T16:53:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +165,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +181,7 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -197,8 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aa8ccwh",
@@ -213,8 +229,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axrpsh3",
@@ -229,25 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aqvmso3",
-      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
-      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
-      "publishedAt": "2026-09-25T04:48:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +265,61 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a107kpn",
+      "title": "« Journée papale » dans l’enseignement catholique : la laïcité en question",
+      "summary": "Une journée banalisée pour accueillir le pape Léon XIV : l’initiative de l’Enseignement catholique fait polémique. Guillaume Prévost demande aux établissements catholiques sous contrat de consacrer le vendredi 25 septembre L’article « Journée papale » dans l’enseignement catholique : la laïcité en question est apparu e",
+      "link": "https://www.cafepedagogique.net/2026/09/25/journee-papale-dans-lenseignement-catholique-la-laicite-en-question/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/ec-pape-300x206.png",
+      "publishedAt": "2026-09-25T04:00:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a2618h4",
+      "title": "Cyberattaques : l’École face à une sécurité à plusieurs vitesses",
+      "summary": "Espaces numériques de travail, démarches dématérialisées, outils collaboratifs, intelligence artificielle : le numérique est devenu un rouage essentiel du service public d’éducation. Mais alors que l’Éducation nationale a structuré une L’article Cyberattaques : l’École face à une sécurité à plusieurs vitesses est appar",
+      "link": "https://www.cafepedagogique.net/2026/09/25/cyberattaques-lecole-face-a-une-securite-a-plusieurs-vitesses/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/jackyGalicher-240x300.png",
+      "publishedAt": "2026-09-25T03:50:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aqvmso3",
+      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
+      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
+      "publishedAt": "2026-09-25T04:48:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,43 +338,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a107kpn",
-      "title": "« Journée papale » dans l’enseignement catholique : la laïcité en question",
-      "summary": "Une journée banalisée pour accueillir le pape Léon XIV : l’initiative de l’Enseignement catholique fait polémique. Guillaume Prévost demande aux établissements catholiques sous contrat de consacrer le vendredi 25 septembre L’article « Journée papale » dans l’enseignement catholique : la laïcité en question est apparu e",
-      "link": "https://www.cafepedagogique.net/2026/09/25/journee-papale-dans-lenseignement-catholique-la-laicite-en-question/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/ec-pape-300x206.png",
-      "publishedAt": "2026-09-25T04:00:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2618h4",
-      "title": "Cyberattaques : l’École face à une sécurité à plusieurs vitesses",
-      "summary": "Espaces numériques de travail, démarches dématérialisées, outils collaboratifs, intelligence artificielle : le numérique est devenu un rouage essentiel du service public d’éducation. Mais alors que l’Éducation nationale a structuré une L’article Cyberattaques : l’École face à une sécurité à plusieurs vitesses est appar",
-      "link": "https://www.cafepedagogique.net/2026/09/25/cyberattaques-lecole-face-a-une-securite-a-plusieurs-vitesses/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/jackyGalicher-240x300.png",
-      "publishedAt": "2026-09-25T03:50:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -340,7 +356,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -356,7 +372,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -372,7 +388,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -390,7 +406,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,7 +424,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +440,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -440,7 +456,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -456,7 +472,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -472,7 +488,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -488,7 +504,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -504,7 +520,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -520,7 +536,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -538,7 +554,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -556,7 +572,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -574,7 +590,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -592,7 +608,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -610,7 +626,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -628,7 +644,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -644,7 +660,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -660,7 +676,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -692,23 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ap5jia0",
-      "title": "Comment soignait-on la gueule de bois autrefois ? Du chou aux poumons de chèvre",
-      "summary": "La purgation faisait partie des remèdes contre la gueule de bois prescrits au Moyen Âge. Tacuinum sanitatis L’ESSENTIEL Depuis l’Antiquité, l’ivresse oscille entre quête de transcendance et condamnation morale. Les anciens remèdes contre la gueule de bois misaient surtout sur la prévention, la marche et le sommeil. Auc",
-      "link": "https://theconversation.com/comment-soignait-on-la-gueule-de-bois-autrefois-du-chou-aux-poumons-de-chevre-292010",
-      "image": "https://images.theconversation.com/files/759865/original/file-20260814-60-dfi9so.jpg?ixlib=rb-4.1.1&amp;rect=21%2C0%2C578%2C385&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-23T10:01:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     }
   ]
