@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:12:26.041Z",
+  "generatedAt": "2026-09-25T16:35:59.741Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,23 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abbai4b",
+      "title": "Présidentielle 2027 : qui peut rassembler la gauche sociale-écologique ?",
+      "summary": "L’ESSENTIEL Un premier débat télévisé réunissant les candidats à la primaire socialiste a été marqué, mercredi 23 septembre, par des tensions sur la question de l’alliance avec La France insoumise. À l’issue de cette primaire (du 9 au 18 octobre), le candidat désigné devra d’abord rassembler un camp « social écologique",
+      "link": "https://theconversation.com/presidentielle-2027-qui-peut-rassembler-la-gauche-sociale-ecologique-291179",
+      "image": "https://counter.theconversation.com/content/291179/count.gif",
+      "publishedAt": "2026-09-25T11:25:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -197,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -213,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -231,8 +247,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alp0joj",
@@ -251,8 +267,8 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "at2j5rd",
@@ -270,8 +286,8 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a107kpn",
@@ -288,8 +304,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2618h4",
@@ -306,8 +322,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ao9pmds",
@@ -324,8 +340,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ab63lzr",
@@ -340,8 +356,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2f3rc4",
@@ -356,8 +372,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a576gcn",
@@ -374,7 +390,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -392,7 +408,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,7 +424,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +440,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -440,7 +456,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -456,7 +472,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -472,7 +488,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -488,7 +504,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ai3vdgi",
+      "title": "Quiz - Comment soignait‑on la gueule de bois autrefois ?",
+      "summary": "La purgation faisait partie des remèdes contre la gueule de bois prescrits au Moyen Âge. Tacuinum sanitatis Alors que la médecine moderne a profondément transformé notre compréhension des effets de l’alcool, a-t-elle pour autant révolutionné la manière de soigner la gueule de bois ? Des croyances de l’Antiquité aux rec",
+      "link": "https://theconversation.com/quiz-comment-soignait-on-la-gueule-de-bois-autrefois-292721",
+      "image": "https://images.theconversation.com/files/761756/original/file-20260923-50-wvsob8.jpg?ixlib=rb-4.1.1&amp;rect=150%2C0%2C1620%2C1080&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-24T10:36:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -506,23 +538,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ai3vdgi",
-      "title": "Quiz - Comment soignait‑on la gueule de bois autrefois ?",
-      "summary": "La purgation faisait partie des remèdes contre la gueule de bois prescrits au Moyen Âge. Tacuinum sanitatis Alors que la médecine moderne a profondément transformé notre compréhension des effets de l’alcool, a-t-elle pour autant révolutionné la manière de soigner la gueule de bois ? Des croyances de l’Antiquité aux rec",
-      "link": "https://theconversation.com/quiz-comment-soignait-on-la-gueule-de-bois-autrefois-292721",
-      "image": "https://images.theconversation.com/files/761756/original/file-20260923-50-wvsob8.jpg?ixlib=rb-4.1.1&amp;rect=150%2C0%2C1620%2C1080&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T10:36:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -540,7 +556,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -558,8 +574,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a31wxjw",
@@ -576,8 +592,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a4n9qvj",
@@ -594,8 +610,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aqvtt4j",
@@ -612,8 +628,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "acc5mgd",
@@ -628,8 +644,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apjx85b",
@@ -644,8 +660,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aoi6id5",
@@ -660,26 +676,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aksnp97",
-      "title": "Comment une agence immobilière du XIXᵉ siècle proposait des visites en 3D avant l’invention même de la photographie",
-      "summary": "La salle du Cosmorama de l’American Museum de P. T. Barnum, à New York. Tiré du guide officiel du musée L’ESSENTIEL Dès 1838, à Londres, une agence immobilière proposait des visites immersives grâce au cosmorama. Ce dispositif produisait un effet 3D en faisant observer des images à travers une lentille convexe. Très po",
-      "link": "https://theconversation.com/comment-une-agence-immobiliere-du-xix-siecle-proposait-des-visites-en-3d-avant-linvention-meme-de-la-photographie-292282",
-      "image": "https://images.theconversation.com/files/760535/original/file-20260813-50-myep4h.jpg?ixlib=rb-4.1.1&amp;rect=177%2C0%2C909%2C606&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-23T10:01:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a3lprev",
@@ -694,8 +692,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ap5jia0",
@@ -710,8 +708,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     }
   ]
 }
