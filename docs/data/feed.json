@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:51:21.579Z",
+  "generatedAt": "2026-09-26T15:50:03.395Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -183,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -199,23 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "am2ydga",
-      "title": "Actualité de l’éducation du 21 au 25 septembre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 21 au 25 septembre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/26/actualite-de-leducation-du-21-au-25-septembre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
-      "publishedAt": "2026-09-26T05:56:11.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -233,8 +217,24 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "am2ydga",
+      "title": "Actualité de l’éducation du 21 au 25 septembre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 21 au 25 septembre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/26/actualite-de-leducation-du-21-au-25-septembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
+      "publishedAt": "2026-09-26T05:56:11.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amlsgoi",
@@ -251,7 +251,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +267,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +299,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,7 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,7 +331,43 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a576gcn",
+      "title": "Créer du vin sans alcool commence dès la plantation d’une vigne",
+      "summary": "On ne transforme pas n’importe quel vin en bon vin sans alcool. La qualité de ces vins ne se décrète pas a posteriori, mais aux premières étapes de la viticulture. Le choix du cépage, de la région de production, dont le climat a une forte influence, et les méthodes de vinification importent beaucoup. Le marché des vins",
+      "link": "https://theconversation.com/creer-du-vin-sans-alcool-commence-des-la-plantation-dune-vigne-274133",
+      "image": "https://counter.theconversation.com/content/274133/count.gif",
+      "publishedAt": "2026-09-24T14:14:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "décret"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 49,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aqvmso3",
+      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
+      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
+      "publishedAt": "2026-09-25T04:48:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,43 +387,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a576gcn",
-      "title": "Créer du vin sans alcool commence dès la plantation d’une vigne",
-      "summary": "On ne transforme pas n’importe quel vin en bon vin sans alcool. La qualité de ces vins ne se décrète pas a posteriori, mais aux premières étapes de la viticulture. Le choix du cépage, de la région de production, dont le climat a une forte influence, et les méthodes de vinification importent beaucoup. Le marché des vins",
-      "link": "https://theconversation.com/creer-du-vin-sans-alcool-commence-des-la-plantation-dune-vigne-274133",
-      "image": "https://counter.theconversation.com/content/274133/count.gif",
-      "publishedAt": "2026-09-24T14:14:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "décret"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqvmso3",
-      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
-      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
-      "publishedAt": "2026-09-25T04:48:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -406,7 +406,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +424,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -442,7 +442,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -460,7 +460,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -476,7 +476,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -492,7 +492,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awv16t0",
+      "title": "Why volcanic crystals are black boxes for tracking magma’s journey to the Earth’s surface",
+      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. However, beneath the Earth’s surface, a much more complex and fascinating story is unfolding. The magma that is found in the depths of volcanoes is more than just boiling liquid. It is a thick mixture of melted rock and s",
+      "link": "https://theconversation.com/why-volcanic-crystals-are-black-boxes-for-tracking-magmas-journey-to-the-earths-surface-291300",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-24T14:27:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -510,24 +526,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awv16t0",
-      "title": "Why volcanic crystals are black boxes for tracking magma’s journey to the Earth’s surface",
-      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. However, beneath the Earth’s surface, a much more complex and fascinating story is unfolding. The magma that is found in the depths of volcanoes is more than just boiling liquid. It is a thick mixture of melted rock and s",
-      "link": "https://theconversation.com/why-volcanic-crystals-are-black-boxes-for-tracking-magmas-journey-to-the-earths-surface-291300",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-24T14:27:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a4rx0z6",
@@ -542,8 +542,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aass2n1",
@@ -558,8 +558,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aypkw92",
@@ -574,8 +574,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "anbm4by",
@@ -590,8 +590,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a7qgb87",
@@ -606,26 +606,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3hrvtk",
-      "title": "Baleines, mangroves, phytoplancton… captent-ils vraiment notre CO₂ ?",
-      "summary": "L’ESSENTIEL Les écosystèmes marins – des mangroves aux baleines, en passant par le phytoplancton – contiennent du carbone et le font circuler dans l’océan. Certains en concluent, un peu rapidement, que protéger la biodiversité marine permet de limiter le changement climatique. Cet argument est inexact : cela ne permett",
-      "link": "https://theconversation.com/baleines-mangroves-phytoplancton-captent-ils-vraiment-notre-co-286200",
-      "image": "https://images.theconversation.com/files/759687/original/file-20260914-50-pbrcte.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-24T09:39:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a3whb8d",
@@ -642,8 +624,26 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3hrvtk",
+      "title": "Baleines, mangroves, phytoplancton… captent-ils vraiment notre CO₂ ?",
+      "summary": "L’ESSENTIEL Les écosystèmes marins – des mangroves aux baleines, en passant par le phytoplancton – contiennent du carbone et le font circuler dans l’océan. Certains en concluent, un peu rapidement, que protéger la biodiversité marine permet de limiter le changement climatique. Cet argument est inexact : cela ne permett",
+      "link": "https://theconversation.com/baleines-mangroves-phytoplancton-captent-ils-vraiment-notre-co-286200",
+      "image": "https://images.theconversation.com/files/759687/original/file-20260914-50-pbrcte.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-24T09:39:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ai3vdgi",
@@ -658,8 +658,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a31wxjw",
@@ -676,7 +676,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     }
   ]
