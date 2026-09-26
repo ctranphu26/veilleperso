@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T21:06:48.292Z",
+  "generatedAt": "2026-09-26T03:39:12.940Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +149,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ah515cg",
@@ -165,8 +165,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3re9rs",
@@ -181,8 +181,8 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abbai4b",
@@ -197,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abycv9",
@@ -213,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +245,25 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aqvmso3",
+      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
+      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
+      "publishedAt": "2026-09-25T04:48:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,61 +283,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a107kpn",
-      "title": "« Journée papale » dans l’enseignement catholique : la laïcité en question",
-      "summary": "Une journée banalisée pour accueillir le pape Léon XIV : l’initiative de l’Enseignement catholique fait polémique. Guillaume Prévost demande aux établissements catholiques sous contrat de consacrer le vendredi 25 septembre L’article « Journée papale » dans l’enseignement catholique : la laïcité en question est apparu e",
-      "link": "https://www.cafepedagogique.net/2026/09/25/journee-papale-dans-lenseignement-catholique-la-laicite-en-question/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/ec-pape-300x206.png",
-      "publishedAt": "2026-09-25T04:00:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2618h4",
-      "title": "Cyberattaques : l’École face à une sécurité à plusieurs vitesses",
-      "summary": "Espaces numériques de travail, démarches dématérialisées, outils collaboratifs, intelligence artificielle : le numérique est devenu un rouage essentiel du service public d’éducation. Mais alors que l’Éducation nationale a structuré une L’article Cyberattaques : l’École face à une sécurité à plusieurs vitesses est appar",
-      "link": "https://www.cafepedagogique.net/2026/09/25/cyberattaques-lecole-face-a-une-securite-a-plusieurs-vitesses/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/jackyGalicher-240x300.png",
-      "publishedAt": "2026-09-25T03:50:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqvmso3",
-      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
-      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
-      "publishedAt": "2026-09-25T04:48:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,57 +302,43 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "ao9pmds",
-      "title": "Orientation : les métiers en cabinet d’expertise comptable",
-      "summary": "Au quotidien, les cabinets d’expertise comptable accompagnent 4 millions d’entreprises. Pour mieux faire connaître la diversité des carrières et des parcours de formation, l’Onisep publie le guide « Zoom sur L’article Orientation : les métiers en cabinet d’expertise comptable est apparu en premier sur Le Café pédagogiq",
-      "link": "https://www.cafepedagogique.net/2026/09/25/orientation-les-metiers-en-cabinet-dexpertise-comptable/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Image-Zoom-experts-comptables-238x300.png",
-      "publishedAt": "2026-09-25T03:29:38.000Z",
+      "id": "a107kpn",
+      "title": "« Journée papale » dans l’enseignement catholique : la laïcité en question",
+      "summary": "Une journée banalisée pour accueillir le pape Léon XIV : l’initiative de l’Enseignement catholique fait polémique. Guillaume Prévost demande aux établissements catholiques sous contrat de consacrer le vendredi 25 septembre L’article « Journée papale » dans l’enseignement catholique : la laïcité en question est apparu e",
+      "link": "https://www.cafepedagogique.net/2026/09/25/journee-papale-dans-lenseignement-catholique-la-laicite-en-question/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/ec-pape-300x206.png",
+      "publishedAt": "2026-09-25T04:00:19.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
-        "formation"
+        "enseignement"
       ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "ab63lzr",
-      "title": "HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ?",
-      "summary": "La mort de l’ancien général serbe de Bosnie Ratko Mladic, survenue le 27 août 2026 à l’âge de 84 ans alors qu’il purgeait, en détention à La Haye, une peine L’article HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/hggsp-mort-de-ratko-mladic-que-peut-vraiment-faire-la-justice-internationale/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Serbie-300x200.png",
-      "publishedAt": "2026-09-25T03:30:28.000Z",
+      "id": "a2618h4",
+      "title": "Cyberattaques : l’École face à une sécurité à plusieurs vitesses",
+      "summary": "Espaces numériques de travail, démarches dématérialisées, outils collaboratifs, intelligence artificielle : le numérique est devenu un rouage essentiel du service public d’éducation. Mais alors que l’Éducation nationale a structuré une L’article Cyberattaques : l’École face à une sécurité à plusieurs vitesses est appar",
+      "link": "https://www.cafepedagogique.net/2026/09/25/cyberattaques-lecole-face-a-une-securite-a-plusieurs-vitesses/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/jackyGalicher-240x300.png",
+      "publishedAt": "2026-09-25T03:50:19.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2f3rc4",
-      "title": "Rencontrez Hassan Hajjaj à la Cité de la musique",
-      "summary": "Le musée de la musique consacre, jusqu’au 25 avril 2027, une exposition au photographe marocain, styliste et plasticien, Hassan Hajjaj. « My Rock Stars » présente une quarantaine de portraits. L’article Rencontrez Hassan Hajjaj à la Cité de la musique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/rencontrez-hassan-hajjaj-a-la-cite-de-la-musique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/1-Hassan-HHajjaj-300x169.jpg",
-      "publishedAt": "2026-09-25T03:28:23.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -406,7 +356,57 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ao9pmds",
+      "title": "Orientation : les métiers en cabinet d’expertise comptable",
+      "summary": "Au quotidien, les cabinets d’expertise comptable accompagnent 4 millions d’entreprises. Pour mieux faire connaître la diversité des carrières et des parcours de formation, l’Onisep publie le guide « Zoom sur L’article Orientation : les métiers en cabinet d’expertise comptable est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/09/25/orientation-les-metiers-en-cabinet-dexpertise-comptable/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Image-Zoom-experts-comptables-238x300.png",
+      "publishedAt": "2026-09-25T03:29:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ab63lzr",
+      "title": "HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ?",
+      "summary": "La mort de l’ancien général serbe de Bosnie Ratko Mladic, survenue le 27 août 2026 à l’âge de 84 ans alors qu’il purgeait, en détention à La Haye, une peine L’article HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/hggsp-mort-de-ratko-mladic-que-peut-vraiment-faire-la-justice-internationale/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Serbie-300x200.png",
+      "publishedAt": "2026-09-25T03:30:28.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a2f3rc4",
+      "title": "Rencontrez Hassan Hajjaj à la Cité de la musique",
+      "summary": "Le musée de la musique consacre, jusqu’au 25 avril 2027, une exposition au photographe marocain, styliste et plasticien, Hassan Hajjaj. « My Rock Stars » présente une quarantaine de portraits. L’article Rencontrez Hassan Hajjaj à la Cité de la musique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/rencontrez-hassan-hajjaj-a-la-cite-de-la-musique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/1-Hassan-HHajjaj-300x169.jpg",
+      "publishedAt": "2026-09-25T03:28:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +424,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -440,7 +440,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -456,7 +456,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -472,7 +472,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -488,7 +488,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -504,7 +504,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -520,7 +520,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -536,7 +536,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -572,7 +572,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -590,7 +590,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -608,7 +608,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -626,7 +626,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -660,7 +660,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +676,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     }
   ]
