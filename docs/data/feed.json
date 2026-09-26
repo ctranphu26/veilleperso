@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T15:50:03.395Z",
+  "generatedAt": "2026-09-26T20:40:12.128Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -151,8 +151,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3li3jw",
@@ -167,8 +167,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asd844p",
@@ -183,8 +183,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajxdg8y",
@@ -199,8 +199,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "am2ydga",
+      "title": "Actualité de l’éducation du 21 au 25 septembre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 21 au 25 septembre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/26/actualite-de-leducation-du-21-au-25-septembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
+      "publishedAt": "2026-09-26T05:56:11.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqk2vus",
@@ -217,23 +233,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am2ydga",
-      "title": "Actualité de l’éducation du 21 au 25 septembre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 21 au 25 septembre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/26/actualite-de-leducation-du-21-au-25-septembre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
-      "publishedAt": "2026-09-26T05:56:11.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +251,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +267,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,39 +299,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aa8ccwh",
-      "title": "Que révèlent la devise et les armoiries du pape Léon XIV ?",
-      "summary": "Un vitrail du XVIIᵉ siècle représentant saint Augustin. Tobias Müller, 1622. Michel M. Raguin / Princeton University Art Museum, Princeton NJ, U.S. L’ESSENTIEL La devise et les armoiries de Léon XIV rappellent son appartenance à l’ordre de Saint-Augustin. Dans l’art, Augustin est souvent représenté comme un savant cons",
-      "link": "https://theconversation.com/que-revelent-la-devise-et-les-armoiries-du-pape-leon-xiv-292795",
-      "image": "https://images.theconversation.com/files/761932/original/file-20250514-56-lxcxhz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C207%2C1971%2C1313&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-25T07:00:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axrpsh3",
-      "title": "Ce que « Le Semeur », tableau lumineux de Van Gogh, révèle du message de Léon XIV",
-      "summary": "« Le Semeur au soleil couchant », de Vincent van Gogh. Vincent van Gogh/ Kröller-Müller Museum via Wikimedia Commons, CC BY-NC-SA L’ESSENTIEL Lors de sa première audience générale, Léon XIV avait évoqué « Le Semeur au soleil couchant » de Van Gogh pour parler d’espérance, un tableau peint dans le pays qu’il visite cett",
-      "link": "https://theconversation.com/ce-que-le-semeur-tableau-lumineux-de-van-gogh-revele-du-message-de-leon-xiv-292794",
-      "image": "https://images.theconversation.com/files/761931/original/file-20250603-56-hpv08b.jpg?ixlib=rb-4.1.1&amp;rect=0%2C147%2C2560%2C1706&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-25T06:59:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,25 +317,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "aqvmso3",
-      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
-      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
-      "publishedAt": "2026-09-25T04:48:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "aa8ccwh",
+      "title": "Que révèlent la devise et les armoiries du pape Léon XIV ?",
+      "summary": "Un vitrail du XVIIᵉ siècle représentant saint Augustin. Tobias Müller, 1622. Michel M. Raguin / Princeton University Art Museum, Princeton NJ, U.S. L’ESSENTIEL La devise et les armoiries de Léon XIV rappellent son appartenance à l’ordre de Saint-Augustin. Dans l’art, Augustin est souvent représenté comme un savant cons",
+      "link": "https://theconversation.com/que-revelent-la-devise-et-les-armoiries-du-pape-leon-xiv-292795",
+      "image": "https://images.theconversation.com/files/761932/original/file-20250514-56-lxcxhz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C207%2C1971%2C1313&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-25T07:00:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
+      "keywords": [],
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axrpsh3",
+      "title": "Ce que « Le Semeur », tableau lumineux de Van Gogh, révèle du message de Léon XIV",
+      "summary": "« Le Semeur au soleil couchant », de Vincent van Gogh. Vincent van Gogh/ Kröller-Müller Museum via Wikimedia Commons, CC BY-NC-SA L’ESSENTIEL Lors de sa première audience générale, Léon XIV avait évoqué « Le Semeur au soleil couchant » de Van Gogh pour parler d’espérance, un tableau peint dans le pays qu’il visite cett",
+      "link": "https://theconversation.com/ce-que-le-semeur-tableau-lumineux-de-van-gogh-revele-du-message-de-leon-xiv-292794",
+      "image": "https://images.theconversation.com/files/761931/original/file-20250603-56-hpv08b.jpg?ixlib=rb-4.1.1&amp;rect=0%2C147%2C2560%2C1706&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-25T06:59:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -387,7 +369,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -406,7 +388,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +406,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -442,7 +424,25 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aqvmso3",
+      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
+      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
+      "publishedAt": "2026-09-25T04:48:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -460,7 +460,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -476,7 +476,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -492,23 +492,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awv16t0",
-      "title": "Why volcanic crystals are black boxes for tracking magma’s journey to the Earth’s surface",
-      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. However, beneath the Earth’s surface, a much more complex and fascinating story is unfolding. The magma that is found in the depths of volcanoes is more than just boiling liquid. It is a thick mixture of melted rock and s",
-      "link": "https://theconversation.com/why-volcanic-crystals-are-black-boxes-for-tracking-magmas-journey-to-the-earths-surface-291300",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-24T14:27:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -526,7 +510,23 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "awv16t0",
+      "title": "Why volcanic crystals are black boxes for tracking magma’s journey to the Earth’s surface",
+      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. However, beneath the Earth’s surface, a much more complex and fascinating story is unfolding. The magma that is found in the depths of volcanoes is more than just boiling liquid. It is a thick mixture of melted rock and s",
+      "link": "https://theconversation.com/why-volcanic-crystals-are-black-boxes-for-tracking-magmas-journey-to-the-earths-surface-291300",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-24T14:27:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -542,7 +542,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -558,7 +558,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -574,7 +574,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -590,7 +590,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -606,7 +606,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -624,7 +624,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ai3vdgi",
+      "title": "Quiz - Comment soignait‑on la gueule de bois autrefois ?",
+      "summary": "La purgation faisait partie des remèdes contre la gueule de bois prescrits au Moyen Âge. Tacuinum sanitatis Alors que la médecine moderne a profondément transformé notre compréhension des effets de l’alcool, a-t-elle pour autant révolutionné la manière de soigner la gueule de bois ? Des croyances de l’Antiquité aux rec",
+      "link": "https://theconversation.com/quiz-comment-soignait-on-la-gueule-de-bois-autrefois-292721",
+      "image": "https://images.theconversation.com/files/761756/original/file-20260923-50-wvsob8.jpg?ixlib=rb-4.1.1&amp;rect=150%2C0%2C1620%2C1080&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-24T10:36:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -642,23 +658,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ai3vdgi",
-      "title": "Quiz - Comment soignait‑on la gueule de bois autrefois ?",
-      "summary": "La purgation faisait partie des remèdes contre la gueule de bois prescrits au Moyen Âge. Tacuinum sanitatis Alors que la médecine moderne a profondément transformé notre compréhension des effets de l’alcool, a-t-elle pour autant révolutionné la manière de soigner la gueule de bois ? Des croyances de l’Antiquité aux rec",
-      "link": "https://theconversation.com/quiz-comment-soignait-on-la-gueule-de-bois-autrefois-292721",
-      "image": "https://images.theconversation.com/files/761756/original/file-20260923-50-wvsob8.jpg?ixlib=rb-4.1.1&amp;rect=150%2C0%2C1620%2C1080&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T10:36:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
