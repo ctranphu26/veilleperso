@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T20:40:12.128Z",
+  "generatedAt": "2026-09-27T03:48:21.258Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +215,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +251,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +267,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +283,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +299,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -317,7 +317,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,7 +333,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +349,25 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aqvmso3",
+      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
+      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
+      "publishedAt": "2026-09-25T04:48:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,7 +387,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -388,7 +406,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -406,7 +424,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,25 +442,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqvmso3",
-      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
-      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
-      "publishedAt": "2026-09-25T04:48:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -460,7 +460,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -476,7 +476,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -492,122 +492,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2bhdky",
-      "title": "L’Église face aux violences sexuelles : une lente conversion à la prise en compte des victimes",
-      "summary": "L’ESSENTIEL Longtemps, l’Église catholique a sanctionné les clercs auteurs de violences sexuelles, mais sans transparence et en demandant aux victimes de se taire. Depuis les années 1990, des scandales ont contraint l’Église à changer d’approche. En France, plusieurs dispositifs prennent désormais en charge les victime",
-      "link": "https://theconversation.com/leglise-face-aux-violences-sexuelles-une-lente-conversion-a-la-prise-en-compte-des-victimes-292634",
-      "image": "https://counter.theconversation.com/content/292634/count.gif",
-      "publishedAt": "2026-09-24T14:21:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awv16t0",
-      "title": "Why volcanic crystals are black boxes for tracking magma’s journey to the Earth’s surface",
-      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. However, beneath the Earth’s surface, a much more complex and fascinating story is unfolding. The magma that is found in the depths of volcanoes is more than just boiling liquid. It is a thick mixture of melted rock and s",
-      "link": "https://theconversation.com/why-volcanic-crystals-are-black-boxes-for-tracking-magmas-journey-to-the-earths-surface-291300",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-24T14:27:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a4rx0z6",
-      "title": "Restriction calorique : Certains nutriments présents dans les aliments peuvent-ils allonger la durée de vie en bonne santé ?",
-      "summary": "Conjuguée à la pratique d’une activité physique régulière, une alimentation variée et équilibrée reste le moyen le plus sûr d’améliorer ses chances de vieillir en bonne santé. Tatjana Baibakova/Shutterstock (no reuse) L’ESSENTIEL Des travaux ont démontré que, chez l’animal, réduire les apports énergétiques en diminuant",
-      "link": "https://theconversation.com/restriction-calorique-certains-nutriments-presents-dans-les-aliments-peuvent-ils-allonger-la-duree-de-vie-en-bonne-sante-292806",
-      "image": "https://images.theconversation.com/files/761976/original/file-20260904-50-8sbgnt.jpg?ixlib=rb-4.1.1&amp;rect=975%2C0%2C4113%2C2742&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T14:25:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aass2n1",
-      "title": "Le scrutin sénatorial favorise-t-il les communes rurales et la droite ?",
-      "summary": "En septembre 2026, juste avant le renouvellement d’un peu plus de la moitié des sièges au Sénat, le groupe Les Républicains (LR) représente à lui seul 37 % de la chambre haute. Si l’on élargit à la majorité de droite et du centre, le pourcentage atteint 65,5 %. Sénat L’ESSENTIEL Le 27 septembre 2026, 178 des 348 sièges",
-      "link": "https://theconversation.com/le-scrutin-senatorial-favorise-t-il-les-communes-rurales-et-la-droite-292145",
-      "image": "https://images.theconversation.com/files/761133/original/file-20260921-50-pa5wmi.JPG?ixlib=rb-4.1.1&amp;rect=255%2C0%2C1089%2C726&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T14:21:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aypkw92",
-      "title": "Différend France-Vanuatu sur les îles Matthew et Hunter : l’option de la cogestion",
-      "summary": "L’ESSENTIEL Le Vanuatu a saisi la Cour internationale de justice pour contester la souveraineté française sur les îles Matthew et Hunter, dans l'océan Pacifique Sud, et demander la fixation d’une frontière maritime entre les deux États. Derrière le contentieux territorial se joue un affrontement plus large autour de la",
-      "link": "https://theconversation.com/differend-france-vanuatu-sur-les-iles-matthew-et-hunter-loption-de-la-cogestion-291790",
-      "image": "https://images.theconversation.com/files/761728/original/file-20260923-60-rhjyc2.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-24T14:18:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "anbm4by",
-      "title": "Développons les capacités créatives des universités",
-      "summary": "La créativité des personnes dépend du contexte organisationnel. Guy Parmentier et Bérangère Szostak illustrent les enjeux de développer les capacités créatives des organisations par l’exemple des universités. Lors des résultats donnés par le Conseil européen de la recherche (ou ERC) sur le financement de projets de rec",
-      "link": "https://theconversation.com/developpons-les-capacites-creatives-des-universites-287236",
-      "image": "https://counter.theconversation.com/content/287236/count.gif",
-      "publishedAt": "2026-09-24T14:14:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7qgb87",
-      "title": "Ose-t-on encore dire « Je ne sais pas » ?",
-      "summary": "Admettre que l’on ne sait pas, c’est plus difficile qu’il n’y paraît. Saydung/Pixabay, CC BY L’ESSENTIEL Il est très fréquent que nous soyons persuadés de savoir quelque chose, en raison d’un biais psychologique appelé l’« aisance cognitive ». Mais si nous sommes réticents à admettre que nous ne savons pas, c’est aussi",
-      "link": "https://theconversation.com/ose-t-on-encore-dire-je-ne-sais-pas-291801",
-      "image": "https://images.theconversation.com/files/761772/original/file-20260923-50-8uu1dt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1492%2C6459%2C4306&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T14:12:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
     },
     {
       "id": "a3whb8d",
@@ -624,7 +510,121 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a2bhdky",
+      "title": "L’Église face aux violences sexuelles : une lente conversion à la prise en compte des victimes",
+      "summary": "L’ESSENTIEL Longtemps, l’Église catholique a sanctionné les clercs auteurs de violences sexuelles, mais sans transparence et en demandant aux victimes de se taire. Depuis les années 1990, des scandales ont contraint l’Église à changer d’approche. En France, plusieurs dispositifs prennent désormais en charge les victime",
+      "link": "https://theconversation.com/leglise-face-aux-violences-sexuelles-une-lente-conversion-a-la-prise-en-compte-des-victimes-292634",
+      "image": "https://counter.theconversation.com/content/292634/count.gif",
+      "publishedAt": "2026-09-24T14:21:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "awv16t0",
+      "title": "Why volcanic crystals are black boxes for tracking magma’s journey to the Earth’s surface",
+      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. However, beneath the Earth’s surface, a much more complex and fascinating story is unfolding. The magma that is found in the depths of volcanoes is more than just boiling liquid. It is a thick mixture of melted rock and s",
+      "link": "https://theconversation.com/why-volcanic-crystals-are-black-boxes-for-tracking-magmas-journey-to-the-earths-surface-291300",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-24T14:27:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a4rx0z6",
+      "title": "Restriction calorique : Certains nutriments présents dans les aliments peuvent-ils allonger la durée de vie en bonne santé ?",
+      "summary": "Conjuguée à la pratique d’une activité physique régulière, une alimentation variée et équilibrée reste le moyen le plus sûr d’améliorer ses chances de vieillir en bonne santé. Tatjana Baibakova/Shutterstock (no reuse) L’ESSENTIEL Des travaux ont démontré que, chez l’animal, réduire les apports énergétiques en diminuant",
+      "link": "https://theconversation.com/restriction-calorique-certains-nutriments-presents-dans-les-aliments-peuvent-ils-allonger-la-duree-de-vie-en-bonne-sante-292806",
+      "image": "https://images.theconversation.com/files/761976/original/file-20260904-50-8sbgnt.jpg?ixlib=rb-4.1.1&amp;rect=975%2C0%2C4113%2C2742&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-24T14:25:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aass2n1",
+      "title": "Le scrutin sénatorial favorise-t-il les communes rurales et la droite ?",
+      "summary": "En septembre 2026, juste avant le renouvellement d’un peu plus de la moitié des sièges au Sénat, le groupe Les Républicains (LR) représente à lui seul 37 % de la chambre haute. Si l’on élargit à la majorité de droite et du centre, le pourcentage atteint 65,5 %. Sénat L’ESSENTIEL Le 27 septembre 2026, 178 des 348 sièges",
+      "link": "https://theconversation.com/le-scrutin-senatorial-favorise-t-il-les-communes-rurales-et-la-droite-292145",
+      "image": "https://images.theconversation.com/files/761133/original/file-20260921-50-pa5wmi.JPG?ixlib=rb-4.1.1&amp;rect=255%2C0%2C1089%2C726&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-24T14:21:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aypkw92",
+      "title": "Différend France-Vanuatu sur les îles Matthew et Hunter : l’option de la cogestion",
+      "summary": "L’ESSENTIEL Le Vanuatu a saisi la Cour internationale de justice pour contester la souveraineté française sur les îles Matthew et Hunter, dans l'océan Pacifique Sud, et demander la fixation d’une frontière maritime entre les deux États. Derrière le contentieux territorial se joue un affrontement plus large autour de la",
+      "link": "https://theconversation.com/differend-france-vanuatu-sur-les-iles-matthew-et-hunter-loption-de-la-cogestion-291790",
+      "image": "https://images.theconversation.com/files/761728/original/file-20260923-60-rhjyc2.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-24T14:18:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "anbm4by",
+      "title": "Développons les capacités créatives des universités",
+      "summary": "La créativité des personnes dépend du contexte organisationnel. Guy Parmentier et Bérangère Szostak illustrent les enjeux de développer les capacités créatives des organisations par l’exemple des universités. Lors des résultats donnés par le Conseil européen de la recherche (ou ERC) sur le financement de projets de rec",
+      "link": "https://theconversation.com/developpons-les-capacites-creatives-des-universites-287236",
+      "image": "https://counter.theconversation.com/content/287236/count.gif",
+      "publishedAt": "2026-09-24T14:14:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a7qgb87",
+      "title": "Ose-t-on encore dire « Je ne sais pas » ?",
+      "summary": "Admettre que l’on ne sait pas, c’est plus difficile qu’il n’y paraît. Saydung/Pixabay, CC BY L’ESSENTIEL Il est très fréquent que nous soyons persuadés de savoir quelque chose, en raison d’un biais psychologique appelé l’« aisance cognitive ». Mais si nous sommes réticents à admettre que nous ne savons pas, c’est aussi",
+      "link": "https://theconversation.com/ose-t-on-encore-dire-je-ne-sais-pas-291801",
+      "image": "https://images.theconversation.com/files/761772/original/file-20260923-50-8uu1dt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1492%2C6459%2C4306&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-24T14:12:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -640,7 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     }
   ]
