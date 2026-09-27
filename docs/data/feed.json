@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T16:26:28.721Z",
+  "generatedAt": "2026-09-27T20:54:51.353Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,24 +119,6 @@
   "count": 35,
   "items": [
     {
-      "id": "a4pn0sz",
-      "title": "Un questionnaire de l’éducation nationale sur les violences sexuelles : un outil de repérage, mais peut-il vraiment entendre les enfants ?",
-      "summary": "L’ESSENTIEL En novembre, un questionnaire sur les violences sexuelles sera adressé aux élèves de la maternelle à la terminale. Conçu par le ministère de l’éducation comme un outil de repérage, peut-il libérer la parole des victimes ? Le problème se situe souvent au niveau de la réception de cette parole, disent les rec",
-      "link": "https://theconversation.com/un-questionnaire-de-leducation-nationale-sur-les-violences-sexuelles-un-outil-de-reperage-mais-peut-il-vraiment-entendre-les-enfants-292280",
-      "image": "https://counter.theconversation.com/content/292280/count.gif",
-      "publishedAt": "2026-09-27T09:00:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
       "id": "a6vmtho",
       "title": "Xenia Fedorova, or how Russian propaganda turns free thinking on itself",
       "summary": "KEY TAKEAWAYS • On September 24, the European Union sanctioned Xenia Fedorova, the Russian former head of the French arm of Russia Today (RT) and media commentator for the Bolloré group for her role in engaging in foreign information manipulation and interference (FIMI). It follows a French expulsion order against the ",
@@ -151,8 +133,58 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5z6dot",
+      "title": "Cimetières, le grand déménagement",
+      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou l’incinération seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funé",
+      "link": "https://theconversation.com/cimetieres-le-grand-demenagement-278240",
+      "image": "https://images.theconversation.com/files/760615/original/file-20260917-50-ltm8g6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-27T09:06:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aowiblc",
+      "title": "De la survie à la gastronomie : comment l’alimentation spatiale révolutionne l’exploration et la science",
+      "summary": "Une recette de saumon au citron, développée par le Cnes dans le cadre des _Special Event Meal_ (repas pour les événements à bord). Le plat a été placé sur une tortilla et assaisonné avec de la sauce piquante et de la crème à l’ail par un des astronautes de la mission. NASA, Fourni par l'auteur L’ESSENTIEL Le 12 avril 1",
+      "link": "https://theconversation.com/de-la-survie-a-la-gastronomie-comment-lalimentation-spatiale-revolutionne-lexploration-et-la-science-291625",
+      "image": "https://images.theconversation.com/files/761065/original/file-20260921-50-jfruc1.jpg?ixlib=rb-4.1.1&amp;rect=2%2C0%2C4923%2C3280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-27T09:02:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4pn0sz",
+      "title": "Un questionnaire de l’éducation nationale sur les violences sexuelles : un outil de repérage, mais peut-il vraiment entendre les enfants ?",
+      "summary": "L’ESSENTIEL En novembre, un questionnaire sur les violences sexuelles sera adressé aux élèves de la maternelle à la terminale. Conçu par le ministère de l’éducation comme un outil de repérage, peut-il libérer la parole des victimes ? Le problème se situe souvent au niveau de la réception de cette parole, disent les rec",
+      "link": "https://theconversation.com/un-questionnaire-de-leducation-nationale-sur-les-violences-sexuelles-un-outil-de-reperage-mais-peut-il-vraiment-entendre-les-enfants-292280",
+      "image": "https://counter.theconversation.com/content/292280/count.gif",
+      "publishedAt": "2026-09-27T09:00:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6lve0k",
@@ -169,40 +201,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a5z6dot",
-      "title": "Cimetières, le grand déménagement",
-      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou l’incinération seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funé",
-      "link": "https://theconversation.com/cimetieres-le-grand-demenagement-278240",
-      "image": "https://images.theconversation.com/files/760615/original/file-20260917-50-ltm8g6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-27T09:06:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aowiblc",
-      "title": "De la survie à la gastronomie : comment l’alimentation spatiale révolutionne l’exploration et la science",
-      "summary": "Une recette de saumon au citron, développée par le Cnes dans le cadre des _Special Event Meal_ (repas pour les événements à bord). Le plat a été placé sur une tortilla et assaisonné avec de la sauce piquante et de la crème à l’ail par un des astronautes de la mission. NASA, Fourni par l'auteur L’ESSENTIEL Le 12 avril 1",
-      "link": "https://theconversation.com/de-la-survie-a-la-gastronomie-comment-lalimentation-spatiale-revolutionne-lexploration-et-la-science-291625",
-      "image": "https://images.theconversation.com/files/761065/original/file-20260921-50-jfruc1.jpg?ixlib=rb-4.1.1&amp;rect=2%2C0%2C4923%2C3280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-27T09:02:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anvz5dk",
@@ -217,8 +217,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agrj73",
@@ -235,7 +235,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -253,7 +253,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,7 +269,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +285,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +301,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -317,7 +317,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +335,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -353,7 +353,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,8 +369,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a576gcn",
@@ -387,7 +387,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -403,7 +403,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -419,7 +419,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -435,7 +435,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -451,7 +451,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -471,7 +471,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -490,7 +490,7 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -508,7 +508,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -526,7 +526,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -544,23 +544,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ab63lzr",
-      "title": "HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ?",
-      "summary": "La mort de l’ancien général serbe de Bosnie Ratko Mladic, survenue le 27 août 2026 à l’âge de 84 ans alors qu’il purgeait, en détention à La Haye, une peine L’article HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/hggsp-mort-de-ratko-mladic-que-peut-vraiment-faire-la-justice-internationale/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Serbie-300x200.png",
-      "publishedAt": "2026-09-25T03:30:28.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -578,7 +562,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ab63lzr",
+      "title": "HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ?",
+      "summary": "La mort de l’ancien général serbe de Bosnie Ratko Mladic, survenue le 27 août 2026 à l’âge de 84 ans alors qu’il purgeait, en détention à La Haye, une peine L’article HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/25/hggsp-mort-de-ratko-mladic-que-peut-vraiment-faire-la-justice-internationale/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Serbie-300x200.png",
+      "publishedAt": "2026-09-25T03:30:28.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -594,7 +594,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -612,7 +612,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -628,7 +628,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -644,7 +644,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -660,7 +660,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +676,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
