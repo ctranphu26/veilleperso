@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T03:48:21.258Z",
+  "generatedAt": "2026-09-27T11:26:46.732Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,108 @@
   "count": 35,
   "items": [
     {
+      "id": "a4pn0sz",
+      "title": "Un questionnaire de l’éducation nationale sur les violences sexuelles : un outil de repérage, mais peut-il vraiment entendre les enfants ?",
+      "summary": "L’ESSENTIEL En novembre, un questionnaire sur les violences sexuelles sera adressé aux élèves de la maternelle à la terminale. Conçu par le ministère de l’éducation comme un outil de repérage, peut-il libérer la parole des victimes ? Le problème se situe souvent au niveau de la réception de cette parole, disent les rec",
+      "link": "https://theconversation.com/un-questionnaire-de-leducation-nationale-sur-les-violences-sexuelles-un-outil-de-reperage-mais-peut-il-vraiment-entendre-les-enfants-292280",
+      "image": "https://counter.theconversation.com/content/292280/count.gif",
+      "publishedAt": "2026-09-27T09:00:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6vmtho",
+      "title": "Xenia Fedorova, or how Russian propaganda turns free thinking on itself",
+      "summary": "KEY TAKEAWAYS • On September 24, the European Union sanctioned Xenia Fedorova, the Russian former head of the French arm of Russia Today (RT) and media commentator for the Bolloré group for her role in engaging in foreign information manipulation and interference (FIMI). It follows a French expulsion order against the ",
+      "link": "https://theconversation.com/xenia-fedorova-or-how-russian-propaganda-turns-free-thinking-on-itself-292858",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-27T09:03:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "manipulation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6lve0k",
+      "title": "Pourquoi le PIB par habitant en Chine reste-t-il bas ?",
+      "summary": "L’ESSENTIEL La Chine est la première puissance économique en parité de pouvoir d’achat et la deuxième en valeur nominale. Entre démographie, inégalités et dépendance à son secteur industriel, la République populaire de Chine garde un PIB par habitant beaucoup plus faible que la France. Le calcul de son indice de dévelo",
+      "link": "https://theconversation.com/pourquoi-le-pib-par-habitant-en-chine-reste-t-il-bas-288026",
+      "image": "https://images.theconversation.com/files/759416/original/file-20260911-50-giz723.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-27T09:00:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "égalité"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5z6dot",
+      "title": "Cimetières, le grand déménagement",
+      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou l’incinération seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funé",
+      "link": "https://theconversation.com/cimetieres-le-grand-demenagement-278240",
+      "image": "https://images.theconversation.com/files/760615/original/file-20260917-50-ltm8g6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-27T09:06:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aowiblc",
+      "title": "De la survie à la gastronomie : comment l’alimentation spatiale révolutionne l’exploration et la science",
+      "summary": "Une recette de saumon au citron, développée par le Cnes dans le cadre des _Special Event Meal_ (repas pour les événements à bord). Le plat a été placé sur une tortilla et assaisonné avec de la sauce piquante et de la crème à l’ail par un des astronautes de la mission. NASA, Fourni par l'auteur L’ESSENTIEL Le 12 avril 1",
+      "link": "https://theconversation.com/de-la-survie-a-la-gastronomie-comment-lalimentation-spatiale-revolutionne-lexploration-et-la-science-291625",
+      "image": "https://images.theconversation.com/files/761065/original/file-20260921-50-jfruc1.jpg?ixlib=rb-4.1.1&amp;rect=2%2C0%2C4923%2C3280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-27T09:02:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "anvz5dk",
+      "title": "Révisionnisme historique et contre-discours mémoriel au cœur de l’idéologie de l’AfD",
+      "summary": "L’ESSENTIEL L’Alternative für Deutschland (Alternative pour l’Allemagne, AfD) ne diffuse pas un discours négationniste en tant que tel (ce qui est passible de cinq ans d’emprisonnement), mais relativise la période nazie dans ses discours et ses programmes. Le parti remet en cause « la culture de la repentance » alleman",
+      "link": "https://theconversation.com/revisionnisme-historique-et-contre-discours-memoriel-au-coeur-de-lideologie-de-lafd-292013",
+      "image": "https://counter.theconversation.com/content/292013/count.gif",
+      "publishedAt": "2026-09-27T09:01:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "agrj73",
       "title": "Une journée à Lille au Moyen Âge, ou comment passer de l’archive à l’immersion dans le passé",
       "summary": "L’ESSENTIEL Les archives permettent de documenter la fabrication et les usages de la place du marché de Lille à la fin du Moyen Âge, malgré la disparition de presque tous ses vestiges matériels. Le projet INSULA propose une restitution visuelle et sonore du marché lillois du 12 juin 1448, à partir des sources historiqu",
@@ -133,8 +235,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7ebqde",
@@ -151,7 +253,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +269,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +285,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,23 +301,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am2ydga",
-      "title": "Actualité de l’éducation du 21 au 25 septembre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 21 au 25 septembre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/26/actualite-de-leducation-du-21-au-25-septembre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
-      "publishedAt": "2026-09-26T05:56:11.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +319,23 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 52,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "am2ydga",
+      "title": "Actualité de l’éducation du 21 au 25 septembre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 21 au 25 septembre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/26/actualite-de-leducation-du-21-au-25-septembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
+      "publishedAt": "2026-09-26T05:56:11.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +353,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,38 +363,6 @@
       "link": "https://theconversation.com/le-pape-leon-xiv-peut-contribuer-a-ameliorer-les-operations-de-secours-aux-naufrages-en-mediterranee-292872",
       "image": "https://counter.theconversation.com/content/292872/count.gif",
       "publishedAt": "2026-09-25T16:53:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abbai4b",
-      "title": "Présidentielle 2027 : qui peut rassembler la gauche sociale-écologique ?",
-      "summary": "L’ESSENTIEL Un premier débat télévisé réunissant les candidats à la primaire socialiste a été marqué, mercredi 23 septembre, par des tensions sur la question de l’alliance avec La France insoumise. À l’issue de cette primaire (du 9 au 18 octobre), le candidat désigné devra d’abord rassembler un camp « social écologique",
-      "link": "https://theconversation.com/presidentielle-2027-qui-peut-rassembler-la-gauche-sociale-ecologique-291179",
-      "image": "https://counter.theconversation.com/content/291179/count.gif",
-      "publishedAt": "2026-09-25T11:25:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abycv9",
-      "title": "Au Brésil, l’affaire Banco Master fait trembler le monde politique et éclabousse la campagne présidentielle",
-      "summary": "L’ESSENTIEL Le Brésil est secoué par le scandale Banco Master, une vaste affaire de fraude bancaire aux ramifications politiques et judiciaires. L’affaire met en lumière les profondes tensions entre la présidence, le Congrès et la Cour suprême. À quelques semaines de la présidentielle, le scandale pèse sur la campagne ",
-      "link": "https://theconversation.com/au-bresil-laffaire-banco-master-fait-trembler-le-monde-politique-et-eclabousse-la-campagne-presidentielle-292846",
-      "image": "https://counter.theconversation.com/content/292846/count.gif",
-      "publishedAt": "2026-09-25T09:26:51.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
@@ -317,8 +387,40 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abbai4b",
+      "title": "Présidentielle 2027 : qui peut rassembler la gauche sociale-écologique ?",
+      "summary": "L’ESSENTIEL Un premier débat télévisé réunissant les candidats à la primaire socialiste a été marqué, mercredi 23 septembre, par des tensions sur la question de l’alliance avec La France insoumise. À l’issue de cette primaire (du 9 au 18 octobre), le candidat désigné devra d’abord rassembler un camp « social écologique",
+      "link": "https://theconversation.com/presidentielle-2027-qui-peut-rassembler-la-gauche-sociale-ecologique-291179",
+      "image": "https://counter.theconversation.com/content/291179/count.gif",
+      "publishedAt": "2026-09-25T11:25:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abycv9",
+      "title": "Au Brésil, l’affaire Banco Master fait trembler le monde politique et éclabousse la campagne présidentielle",
+      "summary": "L’ESSENTIEL Le Brésil est secoué par le scandale Banco Master, une vaste affaire de fraude bancaire aux ramifications politiques et judiciaires. L’affaire met en lumière les profondes tensions entre la présidence, le Congrès et la Cour suprême. À quelques semaines de la présidentielle, le scandale pèse sur la campagne ",
+      "link": "https://theconversation.com/au-bresil-laffaire-banco-master-fait-trembler-le-monde-politique-et-eclabousse-la-campagne-presidentielle-292846",
+      "image": "https://counter.theconversation.com/content/292846/count.gif",
+      "publishedAt": "2026-09-25T09:26:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aa8ccwh",
@@ -333,8 +435,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "axrpsh3",
@@ -349,8 +451,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aqvmso3",
@@ -367,8 +469,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "alp0joj",
@@ -387,8 +489,8 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "at2j5rd",
@@ -406,8 +508,8 @@
       ],
       "relevance": 96,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a107kpn",
@@ -424,8 +526,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a2618h4",
@@ -442,8 +544,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ao9pmds",
@@ -460,8 +562,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ab63lzr",
@@ -476,8 +578,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a2f3rc4",
@@ -492,25 +594,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3whb8d",
-      "title": "Comment notre espèce a-t-elle conquis toute la planète ?",
-      "summary": "Homo sapiens est aujourd'hui la seule espèce humaine. Pourtant, nous avons croisé d'autres humains au cours de notre évolution et de nos migrations : Néandertal bien sûr, mais aussi les Dénisoviens. Dans Le Grand Entretien, une spécialiste de l'évolution génétique de notre espèce partage avec nous son expertise : Evely",
-      "link": "https://theconversation.com/comment-notre-espece-a-t-elle-conquis-toute-la-planete-292715",
-      "image": "https://counter.theconversation.com/content/292715/count.gif",
-      "publishedAt": "2026-09-23T14:51:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "migration"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -528,7 +612,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -544,7 +628,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -560,7 +644,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -576,7 +660,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -592,7 +676,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -608,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -624,91 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ai3vdgi",
-      "title": "Quiz - Comment soignait‑on la gueule de bois autrefois ?",
-      "summary": "La purgation faisait partie des remèdes contre la gueule de bois prescrits au Moyen Âge. Tacuinum sanitatis Alors que la médecine moderne a profondément transformé notre compréhension des effets de l’alcool, a-t-elle pour autant révolutionné la manière de soigner la gueule de bois ? Des croyances de l’Antiquité aux rec",
-      "link": "https://theconversation.com/quiz-comment-soignait-on-la-gueule-de-bois-autrefois-292721",
-      "image": "https://images.theconversation.com/files/761756/original/file-20260923-50-wvsob8.jpg?ixlib=rb-4.1.1&amp;rect=150%2C0%2C1620%2C1080&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T10:36:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3hrvtk",
-      "title": "Baleines, mangroves, phytoplancton… captent-ils vraiment notre CO₂ ?",
-      "summary": "L’ESSENTIEL Les écosystèmes marins – des mangroves aux baleines, en passant par le phytoplancton – contiennent du carbone et le font circuler dans l’océan. Certains en concluent, un peu rapidement, que protéger la biodiversité marine permet de limiter le changement climatique. Cet argument est inexact : cela ne permett",
-      "link": "https://theconversation.com/baleines-mangroves-phytoplancton-captent-ils-vraiment-notre-co-286200",
-      "image": "https://images.theconversation.com/files/759687/original/file-20260914-50-pbrcte.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-24T09:39:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a31wxjw",
-      "title": "Les recommandations alimentaires sont utiles… mais ne peuvent-elles pas, dans certains cas, impacter la santé mentale ?",
-      "summary": "L’ESSENTIEL Les recommandations alimentaires, fondées sur l’évaluation des risques et des bénéfices pour la santé, visent à guider les comportements et à protéger la santé publique. Mais l’injonction à « bien manger » peut aussi renforcer le contrôle cognitif de l’alimentation et fragiliser l’écoute des sensations alim",
-      "link": "https://theconversation.com/les-recommandations-alimentaires-sont-utiles-mais-ne-peuvent-elles-pas-dans-certains-cas-impacter-la-sante-mentale-290454",
-      "image": "https://counter.theconversation.com/content/290454/count.gif",
-      "publishedAt": "2026-09-23T13:55:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "évaluation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 23,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "acc5mgd",
-      "title": "D’État-tampon à État-charnière : comment la Mongolie réinvente sa diplomatie",
-      "summary": "L’ESSENTIEL La Mongolie cherche à transformer son enclavement entre la Russie et la Chine en atout diplomatique, en s’appuyant notamment sur les enjeux environnementaux et le pastoralisme pour diversifier ses partenariats. La récente COP17 à Oulan-Bator a servi cette stratégie en donnant à la Mongolie une visibilité in",
-      "link": "https://theconversation.com/detat-tampon-a-etat-charniere-comment-la-mongolie-reinvente-sa-diplomatie-291059",
-      "image": "https://images.theconversation.com/files/759934/original/file-20260915-50-gp19q9.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-23T13:54:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 23,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apjx85b",
-      "title": "Dieu contre « le bon diable » : retour sur les récents discours théologico-politiques au Cameroun",
-      "summary": "L’ESSENTIEL Au Cameroun, la campagne présidentielle de 2025 s’est jouée en partie dans les églises. La défection d’Issa Tchiroma, ancien fidèle du clan présidentiel, a suscité l’espoir des opposants à Paul Biya. Natif du Nord, région défavorisée du Cameroun, Tchiroma a notamment été affublé du sobriquet de « bon diable",
-      "link": "https://theconversation.com/dieu-contre-le-bon-diable-retour-sur-les-recents-discours-theologico-politiques-au-cameroun-291721",
-      "image": "https://counter.theconversation.com/content/291721/count.gif",
-      "publishedAt": "2026-09-23T13:53:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 30,
       "urgencyLevel": "basse"
     }
   ]
