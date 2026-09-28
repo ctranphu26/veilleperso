@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:54:51.353Z",
+  "generatedAt": "2026-09-28T03:47:45.789Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,54 +119,126 @@
   "count": 35,
   "items": [
     {
-      "id": "a6vmtho",
-      "title": "Xenia Fedorova, or how Russian propaganda turns free thinking on itself",
-      "summary": "KEY TAKEAWAYS • On September 24, the European Union sanctioned Xenia Fedorova, the Russian former head of the French arm of Russia Today (RT) and media commentator for the Bolloré group for her role in engaging in foreign information manipulation and interference (FIMI). It follows a French expulsion order against the ",
-      "link": "https://theconversation.com/xenia-fedorova-or-how-russian-propaganda-turns-free-thinking-on-itself-292858",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-27T09:03:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
+      "id": "aqrlw8a",
+      "title": "Frederic Grimaud : « Le combat pour l’école inclusive et celui pour défendre le métier enseignant se rejoignent »",
+      "summary": "« L’inclusion est une opportunité pour élaborer ensemble une école plus juste et plus égalitaire » déclare Frédéric Grimaud. Vingt ans après la loi du 11 février 2005, qui a posé le L’article Frederic Grimaud : « Le combat pour l’école inclusive et celui pour défendre le métier enseignant se rejoignent » est apparu en ",
+      "link": "https://www.cafepedagogique.net/2026/09/28/frederic-grimaud-le-combat-pour-lecole-inclusive-et-celui-pour-defendre-le-metier-enseignant-se-rejoignent/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fredericGrimaud-159x300.jpeg",
+      "publishedAt": "2026-09-28T03:35:05.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
       "keywords": [
-        "manipulation"
+        "école",
+        "enseignant"
       ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
+      "relevance": 93,
+      "relevanceLevel": "haute",
+      "urgency": 90,
+      "urgencyLevel": "haute"
     },
     {
-      "id": "a5z6dot",
-      "title": "Cimetières, le grand déménagement",
-      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou l’incinération seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funé",
-      "link": "https://theconversation.com/cimetieres-le-grand-demenagement-278240",
-      "image": "https://images.theconversation.com/files/760615/original/file-20260917-50-ltm8g6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-27T09:06:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "acqe5bf",
+      "title": "EMI : Quand des 5es donnent un visage aux travailleur·ses de l’IA",
+      "summary": "Comment développer chez les élèves la conscience du système d’exploitation, sociale et environnementale, sur lequel repose le développement de l’intelligence artificielle ? Professeur documentaliste au collège les 1000 étangs à Melisey, L’article EMI : Quand des 5es donnent un visage aux travailleur·ses de l’IA est app",
+      "link": "https://www.cafepedagogique.net/2026/09/28/emi-quand-des-5es-donnent-un-visage-aux-travailleur%c2%b7ses-de-lia/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Quand-des-5es-donnent-un-visage-aux-travailleur•ses-de-lIA-300x197.png",
+      "publishedAt": "2026-09-28T03:30:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
+      "keywords": [
+        "élève",
+        "professeur"
+      ],
+      "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
+      "urgency": 90,
+      "urgencyLevel": "haute"
     },
     {
-      "id": "aowiblc",
-      "title": "De la survie à la gastronomie : comment l’alimentation spatiale révolutionne l’exploration et la science",
-      "summary": "Une recette de saumon au citron, développée par le Cnes dans le cadre des _Special Event Meal_ (repas pour les événements à bord). Le plat a été placé sur une tortilla et assaisonné avec de la sauce piquante et de la crème à l’ail par un des astronautes de la mission. NASA, Fourni par l'auteur L’ESSENTIEL Le 12 avril 1",
-      "link": "https://theconversation.com/de-la-survie-a-la-gastronomie-comment-lalimentation-spatiale-revolutionne-lexploration-et-la-science-291625",
-      "image": "https://images.theconversation.com/files/761065/original/file-20260921-50-jfruc1.jpg?ixlib=rb-4.1.1&amp;rect=2%2C0%2C4923%2C3280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-27T09:02:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "aj3nt8",
+      "title": "Le musée Carnavalet fête ses 160 ans",
+      "summary": "Le 18 juillet 1866, le préfet Haussmann signe le décret ordonnant la création d’un musée dédié à l’histoire de Paris. Les 2,3 et 4 octobre 2026, le musée Carnavalet propose L’article Le musée Carnavalet fête ses 160 ans est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/28/le-musee-carnavalet-fete-ses-160-ans/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/paris-a-la-loupe-225x300.png",
+      "publishedAt": "2026-09-28T03:28:47.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "décret"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ab5iz88",
+      "title": "29 septembre : où manifester près de chez vous ?",
+      "summary": "La CGT publie la liste des manifestations prévues partout en France mardi 29 septembre 2026. Les rendez-vous sont recensés département par département, avec les horaires et lieux de départ. Par L’article 29 septembre : où manifester près de chez vous ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/28/29-septembre-ou-manifester-pres-de-chez-vous/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/viuel-mobilisation-29-sept-300x170.png",
+      "publishedAt": "2026-09-28T03:27:50.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ags9ucf",
+      "title": "Florilège 2027 allume dans les classes le feu de l’écriture",
+      "summary": "Le 12e défi d’écriture créative et collaborative Florilège est lancé. Après les « utopies » et les « intelligence(s) », l’édition 2026-2027 a pour thème « Ça va chauffer ! ». Dans la nature, dans L’article Florilège 2027 allume dans les classes le feu de l’écriture est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/28/florilege-2027-allume-dans-les-classes-le-feu-de-lecriture/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Florilege-FIPF-2027-1-300x225.jpg",
+      "publishedAt": "2026-09-28T03:29:11.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5vit4n",
+      "title": "Il était une fois la fée Morgane au collège",
+      "summary": "Dans l’Hérault, au collège Emmanuel Maffre-Baugé de Paulhan, les 5es de Claire Pavy ont mené un beau projet pédagogique autour de la figure de la sorcière. Accompagné par le dessinateur L’article Il était une fois la fée Morgane au collège est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/28/quand-des-5es-menent-laventure-de-lillustration/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Quand-des-5es-menent-laventure-de-lillustration-Couverture-230x300.png",
+      "publishedAt": "2026-09-28T03:30:20.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "am8sy2t",
+      "title": "Manifeste du Café pédagogique : Rencontre avec Philippe Meirieu",
+      "summary": "Le Festival du Livre de Mouans-Sartoux, qui se tiendra les 2, 3 et 4 octobre 2026 sur le thème « Le monde en vaut la peine ! », accueillera le L’article Manifeste du Café pédagogique : Rencontre avec Philippe Meirieu est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/28/manifeste-du-cafe-pedagogique-rencontre-avec-philippe-meirieu/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/ecole-225x300.png",
+      "publishedAt": "2026-09-28T03:27:33.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
     },
     {
       "id": "a4pn0sz",
@@ -183,7 +255,25 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6vmtho",
+      "title": "Xenia Fedorova, or how Russian propaganda turns free thinking on itself",
+      "summary": "KEY TAKEAWAYS • On September 24, the European Union sanctioned Xenia Fedorova, the Russian former head of the French arm of Russia Today (RT) and media commentator for the Bolloré group for her role in engaging in foreign information manipulation and interference (FIMI). It follows a French expulsion order against the ",
+      "link": "https://theconversation.com/xenia-fedorova-or-how-russian-propaganda-turns-free-thinking-on-itself-292858",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-27T09:03:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "manipulation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -201,7 +291,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5z6dot",
+      "title": "Cimetières, le grand déménagement",
+      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou l’incinération seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funé",
+      "link": "https://theconversation.com/cimetieres-le-grand-demenagement-278240",
+      "image": "https://images.theconversation.com/files/760615/original/file-20260917-50-ltm8g6.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-27T09:06:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aowiblc",
+      "title": "De la survie à la gastronomie : comment l’alimentation spatiale révolutionne l’exploration et la science",
+      "summary": "Une recette de saumon au citron, développée par le Cnes dans le cadre des _Special Event Meal_ (repas pour les événements à bord). Le plat a été placé sur une tortilla et assaisonné avec de la sauce piquante et de la crème à l’ail par un des astronautes de la mission. NASA, Fourni par l'auteur L’ESSENTIEL Le 12 avril 1",
+      "link": "https://theconversation.com/de-la-survie-a-la-gastronomie-comment-lalimentation-spatiale-revolutionne-lexploration-et-la-science-291625",
+      "image": "https://images.theconversation.com/files/761065/original/file-20260921-50-jfruc1.jpg?ixlib=rb-4.1.1&amp;rect=2%2C0%2C4923%2C3280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-27T09:02:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +339,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,7 +357,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -253,7 +375,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +423,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -317,7 +439,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +457,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -353,24 +475,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a57y9w2",
-      "title": "Le pape Léon XIV peut contribuer à améliorer les opérations de secours aux naufragés en Méditerranée",
-      "summary": "L’ESSENTIEL En Méditerranée, les secours maritimes se dégradent. Malgré la baisse du nombre de traversées, le nombre de noyés augmente. L’externalisation vers la Libye et la Tunisie des obligations de sauvetage en mer a accru le rôle des ONG dans le repérage et le sauvetage des embarcations en détresse. Or les ONG sont",
-      "link": "https://theconversation.com/le-pape-leon-xiv-peut-contribuer-a-ameliorer-les-operations-de-secours-aux-naufrages-en-mediterranee-292872",
-      "image": "https://counter.theconversation.com/content/292872/count.gif",
-      "publishedAt": "2026-09-25T16:53:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
     },
     {
       "id": "a576gcn",
@@ -387,7 +493,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a57y9w2",
+      "title": "Le pape Léon XIV peut contribuer à améliorer les opérations de secours aux naufragés en Méditerranée",
+      "summary": "L’ESSENTIEL En Méditerranée, les secours maritimes se dégradent. Malgré la baisse du nombre de traversées, le nombre de noyés augmente. L’externalisation vers la Libye et la Tunisie des obligations de sauvetage en mer a accru le rôle des ONG dans le repérage et le sauvetage des embarcations en détresse. Or les ONG sont",
+      "link": "https://theconversation.com/le-pape-leon-xiv-peut-contribuer-a-ameliorer-les-operations-de-secours-aux-naufrages-en-mediterranee-292872",
+      "image": "https://counter.theconversation.com/content/292872/count.gif",
+      "publishedAt": "2026-09-25T16:53:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -403,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -419,7 +541,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -435,7 +557,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -451,82 +573,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "alp0joj",
-      "title": "Enseignante menacée : le manque de moyens de l’école inclusive en accusation",
-      "summary": "L’élève qui s’en est pris à une enseignante à Évry-Courcouronnes mi-septembre est atteint d’un « handicap très lourd », a précisé le ministre de l’Éducation nationale jeudi 24 septembre. Il L’article Enseignante menacée : le manque de moyens de l’école inclusive en accusation est apparu en premier sur Le Café pédagogiq",
-      "link": "https://www.cafepedagogique.net/2026/09/25/enseignante-menacee-le-manque-de-moyens-de-lecole-inclusive-en-accusation/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/sac-cour-300x211.png",
-      "publishedAt": "2026-09-25T04:05:25.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 96,
-      "relevanceLevel": "haute",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "at2j5rd",
-      "title": "École : sanctionner les élèves ne fera pas disparaître les inégalités",
-      "summary": "Sanctionner davantage les copies pour relever le niveau des élèves ? Pour Yannick Trigance, le ministre Édouard Geffray fait fausse route. En imposant à partir de 2027 une pénalisation de L’article École : sanctionner les élèves ne fera pas disparaître les inégalités est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/ecole-sanctionner-les-eleves-ne-fera-pas-disparaitre-les-inegalites/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/01/Yannick-Trigance-Cafe-pedagogique-e1737004858366-268x300.jpeg",
-      "publishedAt": "2026-09-25T03:45:23.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "élève"
-      ],
-      "relevance": 96,
-      "relevanceLevel": "haute",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a107kpn",
-      "title": "« Journée papale » dans l’enseignement catholique : la laïcité en question",
-      "summary": "Une journée banalisée pour accueillir le pape Léon XIV : l’initiative de l’Enseignement catholique fait polémique. Guillaume Prévost demande aux établissements catholiques sous contrat de consacrer le vendredi 25 septembre L’article « Journée papale » dans l’enseignement catholique : la laïcité en question est apparu e",
-      "link": "https://www.cafepedagogique.net/2026/09/25/journee-papale-dans-lenseignement-catholique-la-laicite-en-question/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/ec-pape-300x206.png",
-      "publishedAt": "2026-09-25T04:00:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2618h4",
-      "title": "Cyberattaques : l’École face à une sécurité à plusieurs vitesses",
-      "summary": "Espaces numériques de travail, démarches dématérialisées, outils collaboratifs, intelligence artificielle : le numérique est devenu un rouage essentiel du service public d’éducation. Mais alors que l’Éducation nationale a structuré une L’article Cyberattaques : l’École face à une sécurité à plusieurs vitesses est appar",
-      "link": "https://www.cafepedagogique.net/2026/09/25/cyberattaques-lecole-face-a-une-securite-a-plusieurs-vitesses/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/jackyGalicher-240x300.png",
-      "publishedAt": "2026-09-25T03:50:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -544,57 +591,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ao9pmds",
-      "title": "Orientation : les métiers en cabinet d’expertise comptable",
-      "summary": "Au quotidien, les cabinets d’expertise comptable accompagnent 4 millions d’entreprises. Pour mieux faire connaître la diversité des carrières et des parcours de formation, l’Onisep publie le guide « Zoom sur L’article Orientation : les métiers en cabinet d’expertise comptable est apparu en premier sur Le Café pédagogiq",
-      "link": "https://www.cafepedagogique.net/2026/09/25/orientation-les-metiers-en-cabinet-dexpertise-comptable/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Image-Zoom-experts-comptables-238x300.png",
-      "publishedAt": "2026-09-25T03:29:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ab63lzr",
-      "title": "HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ?",
-      "summary": "La mort de l’ancien général serbe de Bosnie Ratko Mladic, survenue le 27 août 2026 à l’âge de 84 ans alors qu’il purgeait, en détention à La Haye, une peine L’article HGGSP : Mort de Ratko Mladic : que peut vraiment faire la justice internationale ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/hggsp-mort-de-ratko-mladic-que-peut-vraiment-faire-la-justice-internationale/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Serbie-300x200.png",
-      "publishedAt": "2026-09-25T03:30:28.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2f3rc4",
-      "title": "Rencontrez Hassan Hajjaj à la Cité de la musique",
-      "summary": "Le musée de la musique consacre, jusqu’au 25 avril 2027, une exposition au photographe marocain, styliste et plasticien, Hassan Hajjaj. « My Rock Stars » présente une quarantaine de portraits. L’article Rencontrez Hassan Hajjaj à la Cité de la musique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/rencontrez-hassan-hajjaj-a-la-cite-de-la-musique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/1-Hassan-HHajjaj-300x169.jpg",
-      "publishedAt": "2026-09-25T03:28:23.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -612,7 +609,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -628,7 +625,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -644,7 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -660,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +705,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
