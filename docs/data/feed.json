@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:58:31.041Z",
+  "generatedAt": "2026-09-28T22:56:57.138Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,58 @@
   "count": 35,
   "items": [
     {
+      "id": "avnqeqz",
+      "title": "Décarbonation des transports : comment éviter la compétition entre biocarburants et cultures alimentaires ?",
+      "summary": "L’ESSENTIEL Les biocarburants sont essentiels pour réduire la consommation de carburants fossiles dans le secteur des transports en complément d’autres solutions, telles que l’électrification et le recours aux électrocarburants. La première génération de biocarburants utilisée mobilise des ressources agricoles pouvant ",
+      "link": "https://theconversation.com/decarbonation-des-transports-comment-eviter-la-competition-entre-biocarburants-et-cultures-alimentaires-291484",
+      "image": "https://images.theconversation.com/files/759122/original/file-20260910-50-cni5r1.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-28T14:24:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atq5mrs",
+      "title": "Minerais, pêche, tourisme : les trois fronts de l’exploitation en Antarctique en question à l’horizon 2048 ?",
+      "summary": "L’ESSENTIEL Contrairement à une idée reçue, l’interdiction d’exploiter les ressources minérales de l’Antarctique n’expirera pas en 2048 : cette date ouvre seulement une possibilité de réexamen du protocole qui interdit cette exploitation. En revanche, alors que le sous-sol reste largement inexploré, la pêche et le tour",
+      "link": "https://theconversation.com/minerais-peche-tourisme-les-trois-fronts-de-lexploitation-en-antarctique-en-question-a-lhorizon-2048-292751",
+      "image": "https://counter.theconversation.com/content/292751/count.gif",
+      "publishedAt": "2026-09-28T14:23:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ap81thx",
+      "title": "Présidentielle : le moment de vérité pour Les Écologistes ?",
+      "summary": "L’ESSENTIEL Les militants écologistes voteront en décembre pour acter leur stratégie présidentielle. Le parti écologiste est fracturé : certains souhaitent une alliance avec La France insoumise (LFI), d’autres avec le Parti socialiste (PS). Le sénateur Yannick Jadot a été suspendu pour avoir soutenu Raphaël Gluksmann. ",
+      "link": "https://theconversation.com/presidentielle-le-moment-de-verite-pour-les-ecologistes-292307",
+      "image": "https://counter.theconversation.com/content/292307/count.gif",
+      "publishedAt": "2026-09-28T14:23:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aqrlw8a",
       "title": "Frederic Grimaud : « Le combat pour l’école inclusive et celui pour défendre le métier enseignant se rejoignent »",
       "summary": "« L’inclusion est une opportunité pour élaborer ensemble une école plus juste et plus égalitaire » déclare Frédéric Grimaud. Vingt ans après la loi du 11 février 2005, qui a posé le L’article Frederic Grimaud : « Le combat pour l’école inclusive et celui pour défendre le métier enseignant se rejoignent » est apparu en ",
@@ -134,7 +186,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -153,7 +205,25 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aylfy8v",
+      "title": "C’est quoi, réussir sa première année post-bac ?",
+      "summary": "L’ESSENTIEL Les jeunes de 18-19 ans ressentent une forte pression à ne pas « se tromper » dans leur orientation post-bac. Dans l’imaginaire collectif français, une trajectoire non linéaire est perçue comme un échec. Le narratif du « décrochage » peut aussi s’expliquer par la manière dont les pouvoirs publics perçoivent",
+      "link": "https://theconversation.com/cest-quoi-reussir-sa-premiere-annee-post-bac-288549",
+      "image": "https://counter.theconversation.com/content/288549/count.gif",
+      "publishedAt": "2026-09-28T14:24:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "décrochage"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -171,7 +241,71 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahxcq8i",
+      "title": "Du Web à Netflix : les multiples voyages du « Visiteur du futur »",
+      "summary": "Websérie diffusée sur le Net en 2009, *le Visiteur du futur* n’en finit pas de visiter différents supports. Allociné, Fourni par l'auteur –– L’ESSENTIEL Le Visiteur du futur est une comédie de science-fiction, réalisée sous forme de websérie par François Descraques, diffusée sur le Net en 2009. Déjà adapté à la télévis",
+      "link": "https://theconversation.com/du-web-a-netflix-les-multiples-voyages-du-visiteur-du-futur-292380",
+      "image": "https://images.theconversation.com/files/760752/original/file-20260918-60-kedw99.jpg?ixlib=rb-4.1.1&amp;rect=480%2C0%2C959%2C639&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-28T14:29:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aphcn8c",
+      "title": "La BCE subventionne déjà les banques commerciales : pourquoi pas la transition écologique ?",
+      "summary": "L’ESSENTIEL La Banque centrale européenne exerce, sans le nommer tel quel, un pouvoir de subvention, au bénéfice exclusif des banques commerciales. Les intérêts payés aux banques commerciales atteignent 360 milliards d’euros depuis 2022. Techniquement, rien n’empêcherait la BCE de subventionner la bifurcation écologiqu",
+      "link": "https://theconversation.com/la-bce-subventionne-deja-les-banques-commerciales-pourquoi-pas-la-transition-ecologique-288239",
+      "image": "https://counter.theconversation.com/content/288239/count.gif",
+      "publishedAt": "2026-09-28T14:24:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8bpk1",
+      "title": "Comment impliquer les personnes vivant à proximité des installations nucléaires dans la surveillance de la radioactivité ?",
+      "summary": "Une étude participative menée près du site de retraitement de combustibles nucléaires usagés à La Hague, dans la Manche, montre comment impliquer davantage les populations, résidant à proximité, dans la surveillance de la radioactivité. Truzguiladh/WikiCommons, CC BY-SA L’ESSENTIEL Les zones qui jouxtent les installati",
+      "link": "https://theconversation.com/comment-impliquer-les-personnes-vivant-a-proximite-des-installations-nucleaires-dans-la-surveillance-de-la-radioactivite-291389",
+      "image": "https://images.theconversation.com/files/758212/original/file-20260907-50-14gnei.jpg?ixlib=rb-4.1.1&amp;rect=0%2C97%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-28T14:24:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aarc8e2",
+      "title": "Without water, forests lose their ability to absorb CO₂",
+      "summary": "The forest covering the slopes of Mont Ventoux, in France’s Vaucluse area, gripped by drought in 2022. Frédéric Jean, Fourni par l'auteur To survive during periods of drought, trees halt photosynthesis, a highly water-intensive process during which, for every molecule of CO₂ absorbed by a tree leaf, an average of aroun",
+      "link": "https://theconversation.com/without-water-forests-lose-their-ability-to-absorb-co-289072",
+      "image": "https://images.theconversation.com/files/751952/original/file-20260702-64-n9h38e.jpg?ixlib=rb-4.1.1&amp;rect=0%2C29%2C1632%2C1088&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-28T14:22:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -187,7 +321,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -206,8 +340,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a17z2dh",
@@ -222,24 +356,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a1psn2c",
-      "title": "Sophie Vénétitay : « La situation salariale devient insupportable en matière de rémunération »",
-      "summary": "« Nous n’attendrons pas 2027 pour faire entendre notre voix : la revalorisation doit commencer dès le budget 2027 » déclare la secrétaire générale du SNES-FSU à la veille de la mobilisation intersyndicale L’article Sophie Vénétitay : « La situation salariale devient insupportable en matière de rémunération » est apparu",
-      "link": "https://www.cafepedagogique.net/2026/09/28/sophie-venetitay-la-situation-salariale-devient-insupportable-en-matiere-de-remuneration/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Sophie-Venetitay-rotated-e1790525634803-220x300.jpeg",
-      "publishedAt": "2026-09-28T04:10:07.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ags9ucf",
@@ -256,8 +374,24 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a1psn2c",
+      "title": "Sophie Vénétitay : « La situation salariale devient insupportable en matière de rémunération »",
+      "summary": "« Nous n’attendrons pas 2027 pour faire entendre notre voix : la revalorisation doit commencer dès le budget 2027 » déclare la secrétaire générale du SNES-FSU à la veille de la mobilisation intersyndicale L’article Sophie Vénétitay : « La situation salariale devient insupportable en matière de rémunération » est apparu",
+      "link": "https://www.cafepedagogique.net/2026/09/28/sophie-venetitay-la-situation-salariale-devient-insupportable-en-matiere-de-remuneration/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Sophie-Venetitay-rotated-e1790525634803-220x300.jpeg",
+      "publishedAt": "2026-09-28T04:10:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayqshey",
@@ -272,8 +406,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ag88so1",
@@ -288,8 +422,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5vit4n",
@@ -304,8 +438,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am8sy2t",
@@ -320,8 +454,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4pn0sz",
@@ -338,7 +472,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -356,7 +490,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -374,7 +508,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -390,7 +524,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -406,7 +540,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -422,7 +556,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -440,7 +574,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -458,7 +592,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -474,7 +608,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -490,7 +624,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -506,25 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amlsgoi",
-      "title": "De Rome aux messes dans les stades : comment la dévotion envers le pape a changé au fil des siècles",
-      "summary": "Le pape Léon XIV devant les fidèles venus l’attendre au Vatican, comme chaque semaine. Marco Iacobucci Epp/Shutterstock L’ESSENTIEL Pendant des siècles, les fidèles se rendaient à Rome pour voir le pape. La radio, la télévision puis les voyages ont rapproché les papes des foules. Les réseaux sociaux prolongent aujourd’",
-      "link": "https://theconversation.com/de-rome-aux-messes-dans-les-stades-comment-la-devotion-envers-le-pape-a-change-au-fil-des-siecles-292793",
-      "image": "https://images.theconversation.com/files/761930/original/file-20260602-57-1rwqrk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4252%2C2834&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-25T06:59:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -540,7 +656,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -556,7 +672,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -572,7 +688,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -588,121 +704,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "axrpsh3",
-      "title": "Ce que « Le Semeur », tableau lumineux de Van Gogh, révèle du message de Léon XIV",
-      "summary": "« Le Semeur au soleil couchant », de Vincent van Gogh. Vincent van Gogh/ Kröller-Müller Museum via Wikimedia Commons, CC BY-NC-SA L’ESSENTIEL Lors de sa première audience générale, Léon XIV avait évoqué « Le Semeur au soleil couchant » de Van Gogh pour parler d’espérance, un tableau peint dans le pays qu’il visite cett",
-      "link": "https://theconversation.com/ce-que-le-semeur-tableau-lumineux-de-van-gogh-revele-du-message-de-leon-xiv-292794",
-      "image": "https://images.theconversation.com/files/761931/original/file-20250603-56-hpv08b.jpg?ixlib=rb-4.1.1&amp;rect=0%2C147%2C2560%2C1706&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-25T06:59:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 26,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2bhdky",
-      "title": "L’Église face aux violences sexuelles : une lente conversion à la prise en compte des victimes",
-      "summary": "L’ESSENTIEL Longtemps, l’Église catholique a sanctionné les clercs auteurs de violences sexuelles, mais sans transparence et en demandant aux victimes de se taire. Depuis les années 1990, des scandales ont contraint l’Église à changer d’approche. En France, plusieurs dispositifs prennent désormais en charge les victime",
-      "link": "https://theconversation.com/leglise-face-aux-violences-sexuelles-une-lente-conversion-a-la-prise-en-compte-des-victimes-292634",
-      "image": "https://counter.theconversation.com/content/292634/count.gif",
-      "publishedAt": "2026-09-24T14:21:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awv16t0",
-      "title": "Why volcanic crystals are black boxes for tracking magma’s journey to the Earth’s surface",
-      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. However, beneath the Earth’s surface, a much more complex and fascinating story is unfolding. The magma that is found in the depths of volcanoes is more than just boiling liquid. It is a thick mixture of melted rock and s",
-      "link": "https://theconversation.com/why-volcanic-crystals-are-black-boxes-for-tracking-magmas-journey-to-the-earths-surface-291300",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-24T14:27:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a4rx0z6",
-      "title": "Restriction calorique : Certains nutriments présents dans les aliments peuvent-ils allonger la durée de vie en bonne santé ?",
-      "summary": "Conjuguée à la pratique d’une activité physique régulière, une alimentation variée et équilibrée reste le moyen le plus sûr d’améliorer ses chances de vieillir en bonne santé. Tatjana Baibakova/Shutterstock (no reuse) L’ESSENTIEL Des travaux ont démontré que, chez l’animal, réduire les apports énergétiques en diminuant",
-      "link": "https://theconversation.com/restriction-calorique-certains-nutriments-presents-dans-les-aliments-peuvent-ils-allonger-la-duree-de-vie-en-bonne-sante-292806",
-      "image": "https://images.theconversation.com/files/761976/original/file-20260904-50-8sbgnt.jpg?ixlib=rb-4.1.1&amp;rect=975%2C0%2C4113%2C2742&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T14:25:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aass2n1",
-      "title": "Le scrutin sénatorial favorise-t-il les communes rurales et la droite ?",
-      "summary": "En septembre 2026, juste avant le renouvellement d’un peu plus de la moitié des sièges au Sénat, le groupe Les Républicains (LR) représente à lui seul 37 % de la chambre haute. Si l’on élargit à la majorité de droite et du centre, le pourcentage atteint 65,5 %. Sénat L’ESSENTIEL Le 27 septembre 2026, 178 des 348 sièges",
-      "link": "https://theconversation.com/le-scrutin-senatorial-favorise-t-il-les-communes-rurales-et-la-droite-292145",
-      "image": "https://images.theconversation.com/files/761133/original/file-20260921-50-pa5wmi.JPG?ixlib=rb-4.1.1&amp;rect=255%2C0%2C1089%2C726&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T14:21:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aypkw92",
-      "title": "Différend France-Vanuatu sur les îles Matthew et Hunter : l’option de la cogestion",
-      "summary": "L’ESSENTIEL Le Vanuatu a saisi la Cour internationale de justice pour contester la souveraineté française sur les îles Matthew et Hunter, dans l'océan Pacifique Sud, et demander la fixation d’une frontière maritime entre les deux États. Derrière le contentieux territorial se joue un affrontement plus large autour de la",
-      "link": "https://theconversation.com/differend-france-vanuatu-sur-les-iles-matthew-et-hunter-loption-de-la-cogestion-291790",
-      "image": "https://images.theconversation.com/files/761728/original/file-20260923-60-rhjyc2.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-24T14:18:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "anbm4by",
-      "title": "Développons les capacités créatives des universités",
-      "summary": "La créativité des personnes dépend du contexte organisationnel. Guy Parmentier et Bérangère Szostak illustrent les enjeux de développer les capacités créatives des organisations par l’exemple des universités. Lors des résultats donnés par le Conseil européen de la recherche (ou ERC) sur le financement de projets de rec",
-      "link": "https://theconversation.com/developpons-les-capacites-creatives-des-universites-287236",
-      "image": "https://counter.theconversation.com/content/287236/count.gif",
-      "publishedAt": "2026-09-24T14:14:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 23,
       "urgencyLevel": "basse"
     }
   ]
