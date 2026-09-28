@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T03:47:45.789Z",
+  "generatedAt": "2026-09-28T12:58:31.041Z",
   "themes": [
     {
       "id": "education-medias",
@@ -134,7 +134,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 90,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 90,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -171,7 +171,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 90,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -187,7 +187,58 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 90,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ack9ac8",
+      "title": "Faut-il acheter une IA plus fiable, ou payer pour la corriger ?",
+      "summary": "L’ESSENTIEL Pour limiter les erreurs de l’intelligence artificielle (IA), les entreprises peuvent s’offrir un modèle plus fiable ou renforcer leur processus de vérification de ses réponses. Comme le souligne une recherche, cet arbitrage dépend essentiellement de la valeur stratégique de leurs usages. Une traduction mal",
+      "link": "https://theconversation.com/faut-il-acheter-une-ia-plus-fiable-ou-payer-pour-la-corriger-288222",
+      "image": "https://counter.theconversation.com/content/288222/count.gif",
+      "publishedAt": "2026-09-28T10:19:48.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle",
+        "vérification"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a17z2dh",
+      "title": "Repas à un euro dans les restaurants universitaires : il fallait penser à la logistique avant",
+      "summary": "L’ESSENTIEL La généralisation du repas à un euro accroît la fréquentation de restaurants universitaires déjà fortement sollicités. Servir davantage de repas à l’heure du déjeuner suppose d’adapter toute la chaîne logistique des Crous. L’enjeu ne se limite donc pas au financement de la mesure, il réside aussi dans la ca",
+      "link": "https://theconversation.com/repas-a-un-euro-dans-les-restaurants-universitaires-il-fallait-penser-a-la-logistique-avant-292802",
+      "image": "https://counter.theconversation.com/content/292802/count.gif",
+      "publishedAt": "2026-09-28T10:10:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1psn2c",
+      "title": "Sophie Vénétitay : « La situation salariale devient insupportable en matière de rémunération »",
+      "summary": "« Nous n’attendrons pas 2027 pour faire entendre notre voix : la revalorisation doit commencer dès le budget 2027 » déclare la secrétaire générale du SNES-FSU à la veille de la mobilisation intersyndicale L’article Sophie Vénétitay : « La situation salariale devient insupportable en matière de rémunération » est apparu",
+      "link": "https://www.cafepedagogique.net/2026/09/28/sophie-venetitay-la-situation-salariale-devient-insupportable-en-matiere-de-remuneration/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Sophie-Venetitay-rotated-e1790525634803-220x300.jpeg",
+      "publishedAt": "2026-09-28T04:10:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -205,7 +256,39 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayqshey",
+      "title": "La mobilisation lycéenne se propage en Île-de-France",
+      "summary": "Une vague de blocages de lycées agite l’Île-de-France, en particulier la Seine-Saint-Denis et le Val-de-Marne comme à Aubervilliers, Saint-Ouen, Saint-Denis. Une trentaine d’interpellations ont eu lieu depuis le début de L’article La mobilisation lycéenne se propage en Île-de-France est apparu en premier sur Le Café pé",
+      "link": "https://www.cafepedagogique.net/2026/09/28/la-mobilisation-lyceenne-se-propage-en-ile-de-france/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/Manisfestation-18-septembre-2025-Cafe-pedagogique-2-300x225.jpg.webp",
+      "publishedAt": "2026-09-28T04:00:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ag88so1",
+      "title": "Un barrage contre le numérique",
+      "summary": "Souvenons-nous des personnages de Marguerite Duras tentant vainement d’ériger un « barrage contre le Pacifique » : s’agirait-il désormais, au nom de la préservation de la lecture, d’en construire contre le numérique lui-même ? L’article Un barrage contre le numérique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/28/un-barrage-contre-le-numerique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Un-barrage-contre-le-numerique-2-238x300.jpg",
+      "publishedAt": "2026-09-28T03:52:36.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -221,7 +304,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -237,7 +320,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -255,7 +338,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -273,14 +356,14 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "a6lve0k",
-      "title": "Pourquoi le PIB par habitant en Chine reste-t-il bas ?",
+      "id": "acupn93",
+      "title": "Pourquoi le PIB par habitant en Chine reste-t-il bas par rapport à la France ?",
       "summary": "L’ESSENTIEL La Chine est la première puissance économique en parité de pouvoir d’achat et la deuxième en valeur nominale. Entre démographie, inégalités et dépendance à son secteur industriel, la République populaire de Chine garde un PIB par habitant beaucoup plus faible que la France. Le calcul de son indice de dévelo",
-      "link": "https://theconversation.com/pourquoi-le-pib-par-habitant-en-chine-reste-t-il-bas-288026",
+      "link": "https://theconversation.com/pourquoi-le-pib-par-habitant-en-chine-reste-t-il-bas-par-rapport-a-la-france-288026",
       "image": "https://images.theconversation.com/files/759416/original/file-20260911-50-giz723.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
       "publishedAt": "2026-09-27T09:00:11.000Z",
       "source": "The Conversation (FR)",
@@ -291,7 +374,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -307,7 +390,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -323,7 +406,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -339,7 +422,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -357,7 +440,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -375,8 +458,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a3li3jw",
@@ -391,8 +474,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "asd844p",
@@ -407,8 +490,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ajxdg8y",
@@ -423,42 +506,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am2ydga",
-      "title": "Actualité de l’éducation du 21 au 25 septembre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 21 au 25 septembre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/26/actualite-de-leducation-du-21-au-25-septembre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
-      "publishedAt": "2026-09-26T05:56:11.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqk2vus",
-      "title": "12 ressources sélectionnées par le Café pédagogique",
-      "summary": "Retrouvez sur cette page 12 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Comment enseigner en 6e la littérature de jeunesse L’article 12 ressources sélectionnées par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/26/12-ressources-selectionnees-par-le-cafe-pedagogique-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Comment-enseigner-en-6e-la-litterature-de-jeunesse-225x300.jpg",
-      "publishedAt": "2026-09-26T05:20:22.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "amlsgoi",
@@ -475,25 +524,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a576gcn",
-      "title": "Créer du vin sans alcool commence dès la plantation d’une vigne",
-      "summary": "On ne transforme pas n’importe quel vin en bon vin sans alcool. La qualité de ces vins ne se décrète pas a posteriori, mais aux premières étapes de la viticulture. Le choix du cépage, de la région de production, dont le climat a une forte influence, et les méthodes de vinification importent beaucoup. Le marché des vins",
-      "link": "https://theconversation.com/creer-du-vin-sans-alcool-commence-des-la-plantation-dune-vigne-274133",
-      "image": "https://counter.theconversation.com/content/274133/count.gif",
-      "publishedAt": "2026-09-24T14:14:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "décret"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +540,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -525,7 +556,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -541,7 +572,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -557,7 +588,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -573,25 +604,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqvmso3",
-      "title": "Le concours général arrive au collège : excellence ou élitisme ?",
-      "summary": "Jusqu’alors réservé aux lycéens et apprentis, le concours général s’étend aux élèves de troisième à partir de cette année 2026-2027. Edouard Geffray veut « créer une émulation » et valoriser L’article Le concours général arrive au collège : excellence ou élitisme ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/25/le-concours-general-arrive-au-college-excellence-ou-elitisme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/concours-general-300x199.png",
-      "publishedAt": "2026-09-25T04:48:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -609,7 +622,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -625,7 +638,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -641,7 +654,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -657,7 +670,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -673,7 +686,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -689,23 +702,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7qgb87",
-      "title": "Ose-t-on encore dire « Je ne sais pas » ?",
-      "summary": "Admettre que l’on ne sait pas, c’est plus difficile qu’il n’y paraît. Saydung/Pixabay, CC BY L’ESSENTIEL Il est très fréquent que nous soyons persuadés de savoir quelque chose, en raison d’un biais psychologique appelé l’« aisance cognitive ». Mais si nous sommes réticents à admettre que nous ne savons pas, c’est aussi",
-      "link": "https://theconversation.com/ose-t-on-encore-dire-je-ne-sais-pas-291801",
-      "image": "https://images.theconversation.com/files/761772/original/file-20260923-50-8uu1dt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1492%2C6459%2C4306&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-24T14:12:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     }
   ]
