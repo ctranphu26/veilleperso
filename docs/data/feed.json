@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:10:37.518Z",
+  "generatedAt": "2026-09-29T21:53:50.603Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,119 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 91,
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aohah6i",
+      "title": "Où se concentrent les annonces d’investissements industriels en France ?",
+      "summary": "L’ESSENTIEL Avec sa troisième Stratégie nationale bas carbone, la France impose aux entreprises de réduire leurs émissions de gaz à effet de serre de 50 % d’ici à 2030. Une analyse souligne que la géographie de la décarbonation de l’industrie et celle de la réindustrialisation « verte » sont les deux faces d’une même p",
+      "link": "https://theconversation.com/ou-se-concentrent-les-annonces-dinvestissements-industriels-en-france-291592",
+      "image": "https://images.theconversation.com/files/761923/original/file-20260924-60-dbqhed.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-29T14:17:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aq6wtjx",
+      "title": "La réforme du « hukou » chinois pourrait améliorer la situation des migrants internes. Une chance pour la croissance mondiale ?",
+      "summary": "Les migrants internes chinois restent souvent rattachés administrativement à leur province d’origine. Cela les conduit à épargner plus que la moyenne. XF/Unsplash, CC BY L’ESSENTIEL Pour soutenir la consommation intérieure, le gouvernement chinois cherche à agir sur l’épargne des migrants internes. Les migrants intérie",
+      "link": "https://theconversation.com/la-reforme-du-hukou-chinois-pourrait-ameliorer-la-situation-des-migrants-internes-une-chance-pour-la-croissance-mondiale-290376",
+      "image": "https://images.theconversation.com/files/760548/original/file-20260917-60-cjnoxc.jpg?ixlib=rb-4.1.1&amp;rect=611%2C0%2C6604%2C4402&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-29T14:16:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awd56cq",
+      "title": "416 lycées perturbés : la mobilisation prend de l’ampleur",
+      "summary": "« Ne nous regardez pas, rejoignez-nous ! » lance une lycéenne devant le lycée Bergson au Nord Est de Paris, un des 416 établissements perturbés ce mardi 29 septembre à L’article 416 lycées perturbés : la mobilisation prend de l’ampleur est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/29/338-lycees-bloques-la-mobilisation-prend-de-lampleur/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/une-lyceensencolr-300x225.jpeg",
+      "publishedAt": "2026-09-29T17:00:50.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apwyjv1",
+      "title": "« Goût du gras » : l’existence d’une sixième saveur expliquerait l’attirance des personnes obèses pour les aliments gras",
+      "summary": "L’ESSENTIEL – Traditionnellement, on considère qu’il existe cinq modalités gustatives fondamentales : le sucré, le salé, l’acide, l’amer et l’umami. – Des preuves de plus en plus nombreuses suggèrent que les lipides contenus dans les aliments pourraient également être détectés par des mécanismes sensoriels spécialisés.",
+      "link": "https://theconversation.com/gout-du-gras-lexistence-dune-sixieme-saveur-expliquerait-lattirance-des-personnes-obeses-pour-les-aliments-gras-292426",
+      "image": "https://counter.theconversation.com/content/292426/count.gif",
+      "publishedAt": "2026-09-29T15:10:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqie0hv",
+      "title": "How World Trade Organization reform could help address the EU-China trade imbalance",
+      "summary": "The world was closely watching the high-stakes US-China summit in Washington from September 23 – 25, which resulted in the US and China agreeing, among other things, to extend their trade truce by two months. Now, the spotlight has shifted to Beijing, as the EU and China enter the final stretch ahead of a decisive roun",
+      "link": "https://theconversation.com/how-world-trade-organization-reform-could-help-address-the-eu-china-trade-imbalance-292998",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-29T14:18:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ak4sw8",
+      "title": "En agriculture, peut-on utiliser du cuivre sans nuire à la vie des sols ?",
+      "summary": "L’ESSENTIEL Nombreux sont les jardiniers amateurs qui utilisent le cuivre pour protéger des maladies leurs légumes ou leurs arbres fruitiers. Ce métal est également utilisé en agriculture biologique, mais ses usagers n’en soupçonnent pas toujours les effets. Qu’en est-il de ses répercussions sur l’activité biologique d",
+      "link": "https://theconversation.com/en-agriculture-peut-on-utiliser-du-cuivre-sans-nuire-a-la-vie-des-sols-287103",
+      "image": "https://images.theconversation.com/files/754299/original/file-20260817-49-ukxljv.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-29T14:17:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "advu1f5",
+      "title": "Le baptême de l’Amérique à Saint-Dié par des humanistes vosgiens, un épisode historique méconnu",
+      "summary": "*Universalis cosmographia secundum Ptholomaei traditionem et Americi Vespucii aliorumque lustrationes*, Martin Waldseemüller, Strasbourg, 1507. Fourni par l'auteur L’ESSENTIEL Les 2, 3 et 4 octobre prochains se tiendra à Saint-Dié-des-Vosges la 37ᵉ édition du Festival international de géographie. Le festival commémore ",
+      "link": "https://theconversation.com/le-bapteme-de-lamerique-a-saint-die-par-des-humanistes-vosgiens-un-episode-historique-meconnu-292919",
+      "image": "https://images.theconversation.com/files/762723/original/file-20260929-50-r3x44b.jpg?ixlib=rb-4.1.1&amp;rect=251%2C25%2C1830%2C1220&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-29T14:15:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +263,73 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at44cbt",
+      "title": "Qu’est-ce qu’un centre de données ou « data center » ? Pourquoi ces infrastructures soulèvent-elles tant de débats ?",
+      "summary": "L’ESSENTIEL Les centres de calcul et de données sont des infrastructures critiques dans notre monde numérique. Leurs tailles et leurs capacités de calcul explosent, en lien avec l’essor de l’intelligence artificielle générative. De nombreux projets de constructions sont en cours, en France et à l’étranger. Mais à l’heu",
+      "link": "https://theconversation.com/quest-ce-quun-centre-de-donnees-ou-data-center-pourquoi-ces-infrastructures-soulevent-elles-tant-de-debats-292529",
+      "image": "https://counter.theconversation.com/content/292529/count.gif",
+      "publishedAt": "2026-09-29T13:19:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajfm7jq",
+      "title": "L’Europe vue par Léon XIV",
+      "summary": "L’ESSENTIEL Le discours de Léon XIV en matière de politique internationale dessine une vision qui condamne les logiques de puissance et les impérialismes au profit de la diplomatie, du droit et des institutions multilatérales. L’Europe occupe une place centrale dans cette vision : le pape voit l’Union européenne comme ",
+      "link": "https://theconversation.com/leurope-vue-par-leon-xiv-293064",
+      "image": "https://counter.theconversation.com/content/293064/count.gif",
+      "publishedAt": "2026-09-29T13:50:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7qrlis",
+      "title": "Les médicaments antiobésité Wegovy et Mounjaro sont désormais remboursés : quelles sont les premières implications ?",
+      "summary": "L’ESSENTIEL Wegovy et Mounjaro sont les deux grands représentants des nouveaux traitements médicamenteux de l’obésité. Ils sont désormais remboursables sous conditions en médecine de ville. Le traitement nutritionnel et l’activité physique adaptée doivent être maintenus tout au long de la prescription. Wegovy et Mounja",
+      "link": "https://theconversation.com/les-medicaments-antiobesite-wegovy-et-mounjaro-sont-desormais-rembourses-quelles-sont-les-premieres-implications-292265",
+      "image": "https://counter.theconversation.com/content/292265/count.gif",
+      "publishedAt": "2026-09-29T13:20:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7r9y91",
+      "title": "Brebis galeuses, crédibilité économique, ambiguïté sur l’Europe et sur l’Ukraine : ces faiblesses du RN qui perdurent",
+      "summary": "L’ESSENTIEL Après les accusations d’antisémitisme à l’encontre de Jordan Bardella et l’affaire du policier municipal de Carcassonne, le Rassemblement national est à nouveau soupçonné d’accueillir des militants racistes ou antisémites. Le début de campagne du RN a confirmé une stratégie économique « attrape-tout » (retr",
+      "link": "https://theconversation.com/brebis-galeuses-credibilite-economique-ambigu-te-sur-leurope-et-sur-lukraine-ces-faiblesses-du-rn-qui-perdurent-292345",
+      "image": "https://counter.theconversation.com/content/292345/count.gif",
+      "publishedAt": "2026-09-29T12:37:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -167,8 +345,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajwxykc",
@@ -185,8 +363,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajpvsia",
@@ -205,8 +383,42 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "amz1vst",
+      "title": "Physique-chimie : des programmes trop lourds pour « faire des sciences »",
+      "summary": "Avec une spécialité très prisée et un programme très lourd au lycée, l’UDPPC (Union des professeurs de physique et de chimie) tire une nouvelle fois la sonnette d’alarme. Par la L’article Physique-chimie : des programmes trop lourds pour « faire des sciences » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/29/physique-chimie-des-programmes-trop-lourds-pour-faire-des-sciences/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Philippe-Goutverg-211x300.jpg",
+      "publishedAt": "2026-09-29T03:30:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awkpoqp",
+      "title": "Lycées : la contestation monte, les syndicats demandent du dialogue",
+      "summary": "Depuis plusieurs jours, des lycéens se mobilisent en région parisienne et dans plusieurs académies, notamment à Lyon, Lille, Orléans-Tours, Marseille et Nice. Ils dénoncent le manque de personnels, la vétusté L’article Lycées : la contestation monte, les syndicats demandent du dialogue est apparu en premier sur Le Café",
+      "link": "https://www.cafepedagogique.net/2026/09/29/lycees-la-contestation-monte-les-syndicats-demandent-du-dialogue/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/saintouen-287x300.png",
+      "publishedAt": "2026-09-29T03:59:28.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am2qkx6",
@@ -224,94 +436,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "amz1vst",
-      "title": "Physique-chimie : des programmes trop lourds pour « faire des sciences »",
-      "summary": "Avec une spécialité très prisée et un programme très lourd au lycée, l’UDPPC (Union des professeurs de physique et de chimie) tire une nouvelle fois la sonnette d’alarme. Par la L’article Physique-chimie : des programmes trop lourds pour « faire des sciences » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/29/physique-chimie-des-programmes-trop-lourds-pour-faire-des-sciences/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Philippe-Goutverg-211x300.jpg",
-      "publishedAt": "2026-09-29T03:30:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a8e06e9",
-      "title": "Informatique : une machine de Turing à manipuler en ligne",
-      "summary": "Comment fonctionne la machine de Turing ? Cet outil interactif hébergé sur la Forge des communs numériques éducatifs permet aux élèves d’en comprendre le principe en visualisant les états, le L’article Informatique : une machine de Turing à manipuler en ligne est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/29/informatique-une-machine-de-turing-a-manipuler-en-ligne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/turing-300x200.png",
-      "publishedAt": "2026-09-29T03:29:16.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ah5iz9j",
-      "title": "Olympiades de biologie : les lycéens invités à expérimenter",
-      "summary": "Les Olympiades nationales de biologie sont de retour avec pour thème 2026-2027 : « L’énergie, c’est la vie ! ». Ce concours invite des groupes de 2 à 4 élèves L’article Olympiades de biologie : les lycéens invités à expérimenter est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/29/olympiades-de-biologie-les-lyceens-invites-a-experimenter/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/olympiades-300x239.png",
-      "publishedAt": "2026-09-29T03:29:15.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "awkpoqp",
-      "title": "Lycées : la contestation monte, les syndicats demandent du dialogue",
-      "summary": "Depuis plusieurs jours, des lycéens se mobilisent en région parisienne et dans plusieurs académies, notamment à Lyon, Lille, Orléans-Tours, Marseille et Nice. Ils dénoncent le manque de personnels, la vétusté L’article Lycées : la contestation monte, les syndicats demandent du dialogue est apparu en premier sur Le Café",
-      "link": "https://www.cafepedagogique.net/2026/09/29/lycees-la-contestation-monte-les-syndicats-demandent-du-dialogue/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/saintouen-287x300.png",
-      "publishedAt": "2026-09-29T03:59:28.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "awafwgv",
-      "title": "La science se déguste du 2 au 12 octobre 2026",
-      "summary": "Depuis 1991, chaque automne, la Fête de la science est un foisonnement d’animations, d’expositions, de débats, de rencontres, de conférences, d’initiatives scientifiques gratuites, originales et ludiques… près de 7000 événements L’article La science se déguste du 2 au 12 octobre 2026 est apparu en premier sur Le Café p",
-      "link": "https://www.cafepedagogique.net/2026/09/29/la-science-se-deguste-du-2-au-12-octobre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fds2026-230x300.png",
-      "publishedAt": "2026-09-29T03:28:46.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avnqeqz",
@@ -328,7 +454,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -346,7 +472,43 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a8e06e9",
+      "title": "Informatique : une machine de Turing à manipuler en ligne",
+      "summary": "Comment fonctionne la machine de Turing ? Cet outil interactif hébergé sur la Forge des communs numériques éducatifs permet aux élèves d’en comprendre le principe en visualisant les états, le L’article Informatique : une machine de Turing à manipuler en ligne est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/29/informatique-une-machine-de-turing-a-manipuler-en-ligne/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/turing-300x200.png",
+      "publishedAt": "2026-09-29T03:29:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ah5iz9j",
+      "title": "Olympiades de biologie : les lycéens invités à expérimenter",
+      "summary": "Les Olympiades nationales de biologie sont de retour avec pour thème 2026-2027 : « L’énergie, c’est la vie ! ». Ce concours invite des groupes de 2 à 4 élèves L’article Olympiades de biologie : les lycéens invités à expérimenter est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/29/olympiades-de-biologie-les-lyceens-invites-a-experimenter/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/olympiades-300x239.png",
+      "publishedAt": "2026-09-29T03:29:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -362,7 +524,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awafwgv",
+      "title": "La science se déguste du 2 au 12 octobre 2026",
+      "summary": "Depuis 1991, chaque automne, la Fête de la science est un foisonnement d’animations, d’expositions, de débats, de rencontres, de conférences, d’initiatives scientifiques gratuites, originales et ludiques… près de 7000 événements L’article La science se déguste du 2 au 12 octobre 2026 est apparu en premier sur Le Café p",
+      "link": "https://www.cafepedagogique.net/2026/09/29/la-science-se-deguste-du-2-au-12-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fds2026-230x300.png",
+      "publishedAt": "2026-09-29T03:28:46.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -380,7 +558,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -396,7 +574,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -412,7 +590,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -428,7 +606,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -444,7 +622,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -463,7 +641,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -479,42 +657,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1psn2c",
-      "title": "Sophie Vénétitay : « La situation salariale devient insupportable en matière de rémunération »",
-      "summary": "« Nous n’attendrons pas 2027 pour faire entendre notre voix : la revalorisation doit commencer dès le budget 2027 » déclare la secrétaire générale du SNES-FSU à la veille de la mobilisation intersyndicale L’article Sophie Vénétitay : « La situation salariale devient insupportable en matière de rémunération » est apparu",
-      "link": "https://www.cafepedagogique.net/2026/09/28/sophie-venetitay-la-situation-salariale-devient-insupportable-en-matiere-de-remuneration/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Sophie-Venetitay-rotated-e1790525634803-220x300.jpeg",
-      "publishedAt": "2026-09-28T04:10:07.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4pn0sz",
-      "title": "Un questionnaire de l’éducation nationale sur les violences sexuelles : un outil de repérage, mais peut-il vraiment entendre les enfants ?",
-      "summary": "L’ESSENTIEL En novembre, un questionnaire sur les violences sexuelles sera adressé aux élèves de la maternelle à la terminale. Conçu par le ministère de l’éducation comme un outil de repérage, peut-il libérer la parole des victimes ? Le problème se situe souvent au niveau de la réception de cette parole, disent les rec",
-      "link": "https://theconversation.com/un-questionnaire-de-leducation-nationale-sur-les-violences-sexuelles-un-outil-de-reperage-mais-peut-il-vraiment-entendre-les-enfants-292280",
-      "image": "https://counter.theconversation.com/content/292280/count.gif",
-      "publishedAt": "2026-09-27T09:00:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 39,
-      "urgencyLevel": "basse"
     },
     {
       "id": "a6vmtho",
@@ -531,25 +675,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "acupn93",
-      "title": "Pourquoi le PIB par habitant en Chine reste-t-il bas par rapport à la France ?",
-      "summary": "L’ESSENTIEL La Chine est la première puissance économique en parité de pouvoir d’achat et la deuxième en valeur nominale. Entre démographie, inégalités et dépendance à son secteur industriel, la République populaire de Chine garde un PIB par habitant beaucoup plus faible que la France. Le calcul de son indice de dévelo",
-      "link": "https://theconversation.com/pourquoi-le-pib-par-habitant-en-chine-reste-t-il-bas-par-rapport-a-la-france-288026",
-      "image": "https://images.theconversation.com/files/759416/original/file-20260911-50-giz723.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-27T09:00:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -565,7 +691,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -581,139 +707,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "anvz5dk",
-      "title": "Révisionnisme historique et contre-discours mémoriel au cœur de l’idéologie de l’AfD",
-      "summary": "L’ESSENTIEL L’Alternative für Deutschland (Alternative pour l’Allemagne, AfD) ne diffuse pas un discours négationniste en tant que tel (ce qui est passible de cinq ans d’emprisonnement), mais relativise la période nazie dans ses discours et ses programmes. Le parti remet en cause « la culture de la repentance » alleman",
-      "link": "https://theconversation.com/revisionnisme-historique-et-contre-discours-memoriel-au-coeur-de-lideologie-de-lafd-292013",
-      "image": "https://counter.theconversation.com/content/292013/count.gif",
-      "publishedAt": "2026-09-27T09:01:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agrj73",
-      "title": "Une journée à Lille au Moyen Âge, ou comment passer de l’archive à l’immersion dans le passé",
-      "summary": "L’ESSENTIEL Les archives permettent de documenter la fabrication et les usages de la place du marché de Lille à la fin du Moyen Âge, malgré la disparition de presque tous ses vestiges matériels. Le projet INSULA propose une restitution visuelle et sonore du marché lillois du 12 juin 1448, à partir des sources historiqu",
-      "link": "https://theconversation.com/une-journee-a-lille-au-moyen-age-ou-comment-passer-de-larchive-a-limmersion-dans-le-passe-286170",
-      "image": "https://counter.theconversation.com/content/286170/count.gif",
-      "publishedAt": "2026-09-26T07:07:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7ebqde",
-      "title": "La visite du pape, une communion médiatique unique en son genre",
-      "summary": "L’ESSENTIEL La visite du pape en France du 25 au 28 septembre 2026 déplace les foules, et les fidèles souhaitant « voir » Léon XIV sont très nombreux. Mais le séjour papal va surtout rassembler des dizaines de millions de téléspectateurs, qui « communieront » derrière leurs écrans. Cette visite et sa retransmission son",
-      "link": "https://theconversation.com/la-visite-du-pape-une-communion-mediatique-unique-en-son-genre-292906",
-      "image": "https://counter.theconversation.com/content/292906/count.gif",
-      "publishedAt": "2026-09-26T07:14:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "genre"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3li3jw",
-      "title": "Repenser le libre-échange à l’ère des oligopoles",
-      "summary": "L’ESSENTIEL La théorie stratégique du commerce international montre pourquoi des politiques contraires au libre-échange peuvent être rationnelles dans des marchés oligopolistiques. Après la vague de mondialisation des trente dernières années, le changement de contexte géopolitique donne une nouvelle actualité à cette t",
-      "link": "https://theconversation.com/repenser-le-libre-echange-a-lere-des-oligopoles-291883",
-      "image": "https://counter.theconversation.com/content/291883/count.gif",
-      "publishedAt": "2026-09-26T07:06:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "asd844p",
-      "title": "L’évolution des préférences sexuelles peut-elle créer de nouvelles espèces ?",
-      "summary": "Des préférences lors des parades amoureuses peuvent-elles créer de nouvelles espèces ? Badzil/Jatin Sindhu/Emmanuelle Pouivé et Glenn Yannic, Fourni par l'auteur L’ESSENTIEL Les parades amoureuses sont primordiales dans le règne animal. Cependant, au sein d’une même espèce, il peut arriver que les attributs valorisés p",
-      "link": "https://theconversation.com/levolution-des-preferences-sexuelles-peut-elle-creer-de-nouvelles-especes-291932",
-      "image": "https://images.theconversation.com/files/760467/original/file-20260917-60-3phdjy.jpg?ixlib=rb-4.1.1&amp;rect=622%2C74%2C4914%2C3276&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-26T07:05:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajxdg8y",
-      "title": "Des tonnes de plastique s’échouent sur les plages des Seychelles : nous avons retracé leur origine",
-      "summary": "Les déchets plastiques rejetés par les navires polluent de nombreuses plages. Hiromi Ito Ame/Shutterstock (no reuse) L’ESSENTIEL Les plages des Seychelles, dans l’océan Indien, sont envahies par les déchets plastiques et les engins de pêche. La majorité des engins de pêche échoués proviendrait de navires opérant dans l",
-      "link": "https://theconversation.com/des-tonnes-de-plastique-sechouent-sur-les-plages-des-seychelles-nous-avons-retrace-leur-origine-292467",
-      "image": "https://images.theconversation.com/files/761059/original/file-20260903-50-9vjvvj.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5568%2C3711&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-26T07:05:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a57y9w2",
-      "title": "Le pape Léon XIV peut contribuer à améliorer les opérations de secours aux naufragés en Méditerranée",
-      "summary": "L’ESSENTIEL En Méditerranée, les secours maritimes se dégradent. Malgré la baisse du nombre de traversées, le nombre de noyés augmente. L’externalisation vers la Libye et la Tunisie des obligations de sauvetage en mer a accru le rôle des ONG dans le repérage et le sauvetage des embarcations en détresse. Or les ONG sont",
-      "link": "https://theconversation.com/le-pape-leon-xiv-peut-contribuer-a-ameliorer-les-operations-de-secours-aux-naufrages-en-mediterranee-292872",
-      "image": "https://counter.theconversation.com/content/292872/count.gif",
-      "publishedAt": "2026-09-25T16:53:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abbai4b",
-      "title": "Présidentielle 2027 : qui peut rassembler la gauche sociale-écologique ?",
-      "summary": "L’ESSENTIEL Un premier débat télévisé réunissant les candidats à la primaire socialiste a été marqué, mercredi 23 septembre, par des tensions sur la question de l’alliance avec La France insoumise. À l’issue de cette primaire (du 9 au 18 octobre), le candidat désigné devra d’abord rassembler un camp « social écologique",
-      "link": "https://theconversation.com/presidentielle-2027-qui-peut-rassembler-la-gauche-sociale-ecologique-291179",
-      "image": "https://counter.theconversation.com/content/291179/count.gif",
-      "publishedAt": "2026-09-25T11:25:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 34,
       "urgencyLevel": "basse"
     }
   ]
