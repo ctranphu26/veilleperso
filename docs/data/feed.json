@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T22:56:57.138Z",
+  "generatedAt": "2026-09-29T04:22:32.645Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,133 @@
   "count": 35,
   "items": [
     {
+      "id": "aizsgwu",
+      "title": "TEMOIGNAGE sur le manque d’AESH : « Nous passons notre temps à colmater des brèches »",
+      "summary": "À l’école Anatole-France B de Vénissieux, en REP+, les équipes alertent depuis la rentrée sur le manque d’AESH. Sur les sept nécessaires pour accompagner 28 enfants bénéficiant de notifications, trois L’article TEMOIGNAGE sur le manque d’AESH : « Nous passons notre temps à colmater des brèches » est apparu en premier s",
+      "link": "https://www.cafepedagogique.net/2026/09/29/temoignage-sur-le-manque-daesh-nous-passons-notre-temps-a-colmater-des-breches/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/1790422704284-1-e1790623109550-300x190.jpeg",
+      "publishedAt": "2026-09-29T04:00:05.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 100,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajpvsia",
+      "title": "Entretien avec Pierre Périer : « Les attentes à l’égard des enseignants n’ont jamais été aussi élevées »",
+      "summary": "Pénurie de candidats, manque de reconnaissance, conditions de travail dégradées : la crise du métier enseignant touche de nombreux pays. Pierre Périer, sociologue et professeur en sciences de l’éducation, président L’article Entretien avec Pierre Périer : « Les attentes à l’égard des enseignants n’ont jamais été aussi ",
+      "link": "https://www.cafepedagogique.net/2026/09/29/entretien-avec-pierre-perier-les-attentes-a-legard-des-enseignants-nont-jamais-ete-aussi-elevees/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Pierre-Perier-300x179.jpeg",
+      "publishedAt": "2026-09-29T03:45:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "enseignant",
+        "professeur"
+      ],
+      "relevance": 93,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "am2qkx6",
+      "title": "Le Café pédagogique invite les enseignant.es au Forum du Manifeste",
+      "summary": "Et si l’École se pensait d’abord avec celles et ceux qui la font vivre ? Le Café pédagogique vous invite à participer au Forum du Manifeste en présence de Philippe L’article Le Café pédagogique invite les enseignant.es au Forum du Manifeste est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/29/le-cafe-pedagogique-invite-les-enseignant-es-au-forum-du-manifeste/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/invitation10octobre.jpg",
+      "publishedAt": "2026-09-29T03:27:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "enseignant"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amz1vst",
+      "title": "Physique-chimie : des programmes trop lourds pour « faire des sciences »",
+      "summary": "Avec une spécialité très prisée et un programme très lourd au lycée, l’UDPPC (Union des professeurs de physique et de chimie) tire une nouvelle fois la sonnette d’alarme. Par la L’article Physique-chimie : des programmes trop lourds pour « faire des sciences » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/29/physique-chimie-des-programmes-trop-lourds-pour-faire-des-sciences/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Philippe-Goutverg-211x300.jpg",
+      "publishedAt": "2026-09-29T03:30:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8e06e9",
+      "title": "Informatique : une machine de Turing à manipuler en ligne",
+      "summary": "Comment fonctionne la machine de Turing ? Cet outil interactif hébergé sur la Forge des communs numériques éducatifs permet aux élèves d’en comprendre le principe en visualisant les états, le L’article Informatique : une machine de Turing à manipuler en ligne est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/29/informatique-une-machine-de-turing-a-manipuler-en-ligne/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/turing-300x200.png",
+      "publishedAt": "2026-09-29T03:29:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ah5iz9j",
+      "title": "Olympiades de biologie : les lycéens invités à expérimenter",
+      "summary": "Les Olympiades nationales de biologie sont de retour avec pour thème 2026-2027 : « L’énergie, c’est la vie ! ». Ce concours invite des groupes de 2 à 4 élèves L’article Olympiades de biologie : les lycéens invités à expérimenter est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/29/olympiades-de-biologie-les-lyceens-invites-a-experimenter/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/olympiades-300x239.png",
+      "publishedAt": "2026-09-29T03:29:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awafwgv",
+      "title": "La science se déguste du 2 au 12 octobre 2026",
+      "summary": "Depuis 1991, chaque automne, la Fête de la science est un foisonnement d’animations, d’expositions, de débats, de rencontres, de conférences, d’initiatives scientifiques gratuites, originales et ludiques… près de 7000 événements L’article La science se déguste du 2 au 12 octobre 2026 est apparu en premier sur Le Café p",
+      "link": "https://www.cafepedagogique.net/2026/09/29/la-science-se-deguste-du-2-au-12-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fds2026-230x300.png",
+      "publishedAt": "2026-09-29T03:28:46.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "avnqeqz",
       "title": "Décarbonation des transports : comment éviter la compétition entre biocarburants et cultures alimentaires ?",
       "summary": "L’ESSENTIEL Les biocarburants sont essentiels pour réduire la consommation de carburants fossiles dans le secteur des transports en complément d’autres solutions, telles que l’électrification et le recours aux électrocarburants. La première génération de biocarburants utilisée mobilise des ressources agricoles pouvant ",
@@ -133,7 +260,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +278,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -167,45 +294,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aqrlw8a",
-      "title": "Frederic Grimaud : « Le combat pour l’école inclusive et celui pour défendre le métier enseignant se rejoignent »",
-      "summary": "« L’inclusion est une opportunité pour élaborer ensemble une école plus juste et plus égalitaire » déclare Frédéric Grimaud. Vingt ans après la loi du 11 février 2005, qui a posé le L’article Frederic Grimaud : « Le combat pour l’école inclusive et celui pour défendre le métier enseignant se rejoignent » est apparu en ",
-      "link": "https://www.cafepedagogique.net/2026/09/28/frederic-grimaud-le-combat-pour-lecole-inclusive-et-celui-pour-defendre-le-metier-enseignant-se-rejoignent/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fredericGrimaud-159x300.jpeg",
-      "publishedAt": "2026-09-28T03:35:05.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "enseignant"
-      ],
-      "relevance": 93,
-      "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "acqe5bf",
-      "title": "EMI : Quand des 5es donnent un visage aux travailleur·ses de l’IA",
-      "summary": "Comment développer chez les élèves la conscience du système d’exploitation, sociale et environnementale, sur lequel repose le développement de l’intelligence artificielle ? Professeur documentaliste au collège les 1000 étangs à Melisey, L’article EMI : Quand des 5es donnent un visage aux travailleur·ses de l’IA est app",
-      "link": "https://www.cafepedagogique.net/2026/09/28/emi-quand-des-5es-donnent-un-visage-aux-travailleur%c2%b7ses-de-lia/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Quand-des-5es-donnent-un-visage-aux-travailleur•ses-de-lIA-300x197.png",
-      "publishedAt": "2026-09-28T03:30:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "professeur"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -223,26 +312,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aj3nt8",
-      "title": "Le musée Carnavalet fête ses 160 ans",
-      "summary": "Le 18 juillet 1866, le préfet Haussmann signe le décret ordonnant la création d’un musée dédié à l’histoire de Paris. Les 2,3 et 4 octobre 2026, le musée Carnavalet propose L’article Le musée Carnavalet fête ses 160 ans est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/28/le-musee-carnavalet-fete-ses-160-ans/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/paris-a-la-loupe-225x300.png",
-      "publishedAt": "2026-09-28T03:28:47.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "décret"
-      ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahxcq8i",
@@ -257,8 +328,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aphcn8c",
@@ -273,8 +344,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8bpk1",
@@ -289,8 +360,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aarc8e2",
@@ -305,24 +376,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ab5iz88",
-      "title": "29 septembre : où manifester près de chez vous ?",
-      "summary": "La CGT publie la liste des manifestations prévues partout en France mardi 29 septembre 2026. Les rendez-vous sont recensés département par département, avec les horaires et lieux de départ. Par L’article 29 septembre : où manifester près de chez vous ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/28/29-septembre-ou-manifester-pres-de-chez-vous/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/viuel-mobilisation-29-sept-300x170.png",
-      "publishedAt": "2026-09-28T03:27:50.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ack9ac8",
@@ -340,7 +395,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -356,25 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ags9ucf",
-      "title": "Florilège 2027 allume dans les classes le feu de l’écriture",
-      "summary": "Le 12e défi d’écriture créative et collaborative Florilège est lancé. Après les « utopies » et les « intelligence(s) », l’édition 2026-2027 a pour thème « Ça va chauffer ! ». Dans la nature, dans L’article Florilège 2027 allume dans les classes le feu de l’écriture est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/28/florilege-2027-allume-dans-les-classes-le-feu-de-lecriture/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Florilege-FIPF-2027-1-300x225.jpg",
-      "publishedAt": "2026-09-28T03:29:11.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -390,7 +427,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -406,7 +443,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -422,39 +459,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5vit4n",
-      "title": "Il était une fois la fée Morgane au collège",
-      "summary": "Dans l’Hérault, au collège Emmanuel Maffre-Baugé de Paulhan, les 5es de Claire Pavy ont mené un beau projet pédagogique autour de la figure de la sorcière. Accompagné par le dessinateur L’article Il était une fois la fée Morgane au collège est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/28/quand-des-5es-menent-laventure-de-lillustration/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Quand-des-5es-menent-laventure-de-lillustration-Couverture-230x300.png",
-      "publishedAt": "2026-09-28T03:30:20.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am8sy2t",
-      "title": "Manifeste du Café pédagogique : Rencontre avec Philippe Meirieu",
-      "summary": "Le Festival du Livre de Mouans-Sartoux, qui se tiendra les 2, 3 et 4 octobre 2026 sur le thème « Le monde en vaut la peine ! », accueillera le L’article Manifeste du Café pédagogique : Rencontre avec Philippe Meirieu est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/28/manifeste-du-cafe-pedagogique-rencontre-avec-philippe-meirieu/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/ecole-225x300.png",
-      "publishedAt": "2026-09-28T03:27:33.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -472,7 +477,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -490,7 +495,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -508,7 +513,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -524,7 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -540,7 +545,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -556,7 +561,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -574,7 +579,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -592,7 +597,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -608,7 +613,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -624,7 +629,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -640,7 +645,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -656,7 +661,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -672,7 +677,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -688,7 +693,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -704,7 +709,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     }
   ]
