@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T17:50:21.558Z",
+  "generatedAt": "2026-09-30T21:53:41.500Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 86,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 85,
+      "urgency": 81,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -201,7 +201,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -217,7 +217,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -233,7 +233,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -268,7 +268,71 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 75,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axhuauf",
+      "title": "Les insectes sont-ils vraiment une nourriture de pauvre ?",
+      "summary": "*Catzos blancos* (_Platycoelia lutescens_) : scarabées adultes mangés à Quito et dans ses environs (Équateur). Fourni par l'auteur L’ESSENTIEL La consommation d’insectes est souvent perçue comme étant seulement un dernier recours en cas de famine ou de grande pauvreté. Pourtant, dans les pays où ils sont habituellement",
+      "link": "https://theconversation.com/les-insectes-sont-ils-vraiment-une-nourriture-de-pauvre-292720",
+      "image": "https://images.theconversation.com/files/761778/original/file-20260923-50-85128f.jpg?ixlib=rb-4.1.1&amp;rect=108%2C0%2C1172%2C781&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-30T13:29:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8kmnqw",
+      "title": "Pope Leo XIV’s Europe",
+      "summary": "KEY TAKEAWAYS Pope Leo XIV’s views on international politics set out a vision that rejects the logic of power and imperialism in favour of diplomacy, the rule of law and multilateral institutions. Europe occupies a central place in this vision: the Pope sees the European Union as a project that transcends national riva",
+      "link": "https://theconversation.com/pope-leo-xivs-europe-293230",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-30T13:26:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9ryl49",
+      "title": "Fromages, terroir et libre-échange : l’Argentine prise entre l’Europe et les États-Unis",
+      "summary": "L’ESSENTIEL L’Argentine est prise entre deux modèles commerciaux : ses engagements envers l’Union européenne sur les indications géographiques et envers les États-Unis sur les appellations de fromages entrent potentiellement en contradiction, illustrant la « guerre du terroir ». Washington cherche à verrouiller les mar",
+      "link": "https://theconversation.com/fromages-terroir-et-libre-echange-largentine-prise-entre-leurope-et-les-etats-unis-291333",
+      "image": "https://images.theconversation.com/files/759688/original/file-20260914-50-j3i79y.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-30T13:03:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aq8wf38",
+      "title": "Un mariage La Poste–Orange est-il possible après l’acquisition de l’opérateur italien de télécommunication TIM par Poste Italiane ?",
+      "summary": "L’ESSENTIEL L’entreprise publique Poste Italiane a mené une OPA sur TIM, ex Telecom Italia. En France, ce mariage peut donner des idées à La Poste et à Orange, ex-France Télécom. Une tendance émerge de ces fusions : le retour de l’État stratège et l’assouplissement des règles de concentration à Bruxelles. En mars 2026,",
+      "link": "https://theconversation.com/un-mariage-la-poste-orange-est-il-possible-apres-lacquisition-de-loperateur-italien-de-telecommunication-tim-par-poste-italiane-291885",
+      "image": "https://counter.theconversation.com/content/291885/count.gif",
+      "publishedAt": "2026-09-30T13:03:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -286,71 +350,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "axhuauf",
-      "title": "Les insectes sont-ils vraiment une nourriture de pauvre ?",
-      "summary": "*Catzos blancos* (_Platycoelia lutescens_) : scarabées adultes mangés à Quito et dans ses environs (Équateur). Fourni par l'auteur L’ESSENTIEL La consommation d’insectes est souvent perçue comme étant seulement un dernier recours en cas de famine ou de grande pauvreté. Pourtant, dans les pays où ils sont habituellement",
-      "link": "https://theconversation.com/les-insectes-sont-ils-vraiment-une-nourriture-de-pauvre-292720",
-      "image": "https://images.theconversation.com/files/761778/original/file-20260923-50-85128f.jpg?ixlib=rb-4.1.1&amp;rect=108%2C0%2C1172%2C781&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-30T13:29:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a8kmnqw",
-      "title": "Pope Leo XIV’s Europe",
-      "summary": "KEY TAKEAWAYS Pope Leo XIV’s views on international politics set out a vision that rejects the logic of power and imperialism in favour of diplomacy, the rule of law and multilateral institutions. Europe occupies a central place in this vision: the Pope sees the European Union as a project that transcends national riva",
-      "link": "https://theconversation.com/pope-leo-xivs-europe-293230",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-30T13:26:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a9ryl49",
-      "title": "Fromages, terroir et libre-échange : l’Argentine prise entre l’Europe et les États-Unis",
-      "summary": "L’ESSENTIEL L’Argentine est prise entre deux modèles commerciaux : ses engagements envers l’Union européenne sur les indications géographiques et envers les États-Unis sur les appellations de fromages entrent potentiellement en contradiction, illustrant la « guerre du terroir ». Washington cherche à verrouiller les mar",
-      "link": "https://theconversation.com/fromages-terroir-et-libre-echange-largentine-prise-entre-leurope-et-les-etats-unis-291333",
-      "image": "https://images.theconversation.com/files/759688/original/file-20260914-50-j3i79y.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-30T13:03:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aq8wf38",
-      "title": "Un mariage La Poste–Orange est-il possible après l’acquisition de l’opérateur italien de télécommunication TIM par Poste Italiane ?",
-      "summary": "L’ESSENTIEL L’entreprise publique Poste Italiane a mené une OPA sur TIM, ex Telecom Italia. En France, ce mariage peut donner des idées à La Poste et à Orange, ex-France Télécom. Une tendance émerge de ces fusions : le retour de l’État stratège et l’assouplissement des règles de concentration à Bruxelles. En mars 2026,",
-      "link": "https://theconversation.com/un-mariage-la-poste-orange-est-il-possible-apres-lacquisition-de-loperateur-italien-de-telecommunication-tim-par-poste-italiane-291885",
-      "image": "https://counter.theconversation.com/content/291885/count.gif",
-      "publishedAt": "2026-09-30T13:03:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -366,8 +366,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5f6w7i",
@@ -382,8 +382,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "af4ueuw",
@@ -398,8 +398,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a77immu",
@@ -414,8 +414,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ap9vf56",
@@ -433,8 +433,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aq7k86d",
@@ -449,8 +449,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axysil5",
@@ -465,23 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a6tqiwc",
-      "title": "416 lycées perturbés : la mobilisation prend de l’ampleur",
-      "summary": "« Ne nous regardez pas, rejoignez-nous ! » lance une lycéenne devant le lycée Bergson au Nord Est de Paris, un des 416 établissements perturbés ce mardi 29 septembre à L’article 416 lycées perturbés : la mobilisation prend de l’ampleur est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/30/338-lycees-bloques-la-mobilisation-prend-de-lampleur/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/une-lyceensencolr-300x225.jpeg",
-      "publishedAt": "2026-09-30T04:10:50.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 67,
       "urgencyLevel": "moyenne"
     },
     {
@@ -502,7 +486,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -520,7 +504,23 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6tqiwc",
+      "title": "416 lycées perturbés : la mobilisation prend de l’ampleur",
+      "summary": "« Ne nous regardez pas, rejoignez-nous ! » lance une lycéenne devant le lycée Bergson au Nord Est de Paris, un des 416 établissements perturbés ce mardi 29 septembre à L’article 416 lycées perturbés : la mobilisation prend de l’ampleur est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/30/338-lycees-bloques-la-mobilisation-prend-de-lampleur/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/une-lyceensencolr-300x225.jpeg",
+      "publishedAt": "2026-09-30T04:10:50.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -536,55 +536,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alz6juj",
-      "title": "Littérature jeunesse : Rester vivant dans le cœur des autres",
-      "summary": "Deux albums assez différents mais qui se rejoignent sur plusieurs points, même si les situations sont inversées. Tous deux parlent de ce qui se passe après la mort de l’être L’article Littérature jeunesse : Rester vivant dans le cœur des autres est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/30/litterature-jeunesse-rester-vivant-dans-le-coeur-des-autres/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/le-voyage-Martha-et-moi-300x225.jpeg",
-      "publishedAt": "2026-09-30T03:29:04.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajcv697",
-      "title": "Cinéma : « Notre salut » d’Emmanuel Marre",
-      "summary": "Et si vous, spectatrices et spectateurs, attirés par les appréciations laudatives des critiques, l’attribution du Prix du scénario par le Jury du festival de Cannes 2026, l’intérêt manifeste du public L’article Cinéma : « Notre salut » d’Emmanuel Marre est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/30/cinema-notre-salut-demmanuel-marre/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IMG_1919.bmp",
-      "publishedAt": "2026-09-30T03:28:09.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aixku7n",
-      "title": "Gard : transports scolaires suspendus face aux fortes pluies et aux orages",
-      "summary": "Le Gard est placé en vigilance orange pluie-inondation, orages et crues. Face aux conditions météorologiques, la préfète Fabienne Decottignies a ouvert le centre opérationnel départemental mercredi 30 septembre à 5 L’article Gard : transports scolaires suspendus face aux fortes pluies et aux orages est apparu en premie",
-      "link": "https://www.cafepedagogique.net/2026/09/30/gard-transports-scolaires-suspendus-face-aux-fortes-pluies-et-aux-orages/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Vigilance-rouge-PLUIE-INONDATION_large.png",
-      "publishedAt": "2026-09-30T03:27:59.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -600,7 +552,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -616,7 +568,55 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "alz6juj",
+      "title": "Littérature jeunesse : Rester vivant dans le cœur des autres",
+      "summary": "Deux albums assez différents mais qui se rejoignent sur plusieurs points, même si les situations sont inversées. Tous deux parlent de ce qui se passe après la mort de l’être L’article Littérature jeunesse : Rester vivant dans le cœur des autres est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/30/litterature-jeunesse-rester-vivant-dans-le-coeur-des-autres/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/le-voyage-Martha-et-moi-300x225.jpeg",
+      "publishedAt": "2026-09-30T03:29:04.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ajcv697",
+      "title": "Cinéma : « Notre salut » d’Emmanuel Marre",
+      "summary": "Et si vous, spectatrices et spectateurs, attirés par les appréciations laudatives des critiques, l’attribution du Prix du scénario par le Jury du festival de Cannes 2026, l’intérêt manifeste du public L’article Cinéma : « Notre salut » d’Emmanuel Marre est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/30/cinema-notre-salut-demmanuel-marre/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IMG_1919.bmp",
+      "publishedAt": "2026-09-30T03:28:09.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aixku7n",
+      "title": "Gard : transports scolaires suspendus face aux fortes pluies et aux orages",
+      "summary": "Le Gard est placé en vigilance orange pluie-inondation, orages et crues. Face aux conditions météorologiques, la préfète Fabienne Decottignies a ouvert le centre opérationnel départemental mercredi 30 septembre à 5 L’article Gard : transports scolaires suspendus face aux fortes pluies et aux orages est apparu en premie",
+      "link": "https://www.cafepedagogique.net/2026/09/30/gard-transports-scolaires-suspendus-face-aux-fortes-pluies-et-aux-orages/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Vigilance-rouge-PLUIE-INONDATION_large.png",
+      "publishedAt": "2026-09-30T03:27:59.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -632,7 +632,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -648,7 +648,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -664,7 +664,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -680,7 +680,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -696,7 +696,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     }
   ]
