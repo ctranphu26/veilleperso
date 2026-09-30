@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T21:53:50.603Z",
+  "generatedAt": "2026-09-30T04:05:57.500Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,75 @@
   "count": 35,
   "items": [
     {
+      "id": "ackhfis",
+      "title": "Entretien avec Jean-Paul Delahaye : « C’est une colère qui monte que j’ai voulu raconter »",
+      "summary": "Blocus, cours perdus, enseignants non remplacés : les lycéens des quartiers populaires disent leur colère, rejoints par d’autres lycées. L’ancien directeur général de l’enseignement scolaire y voit la suite logique L’article Entretien avec Jean-Paul Delahaye : « C’est une colère qui monte que j’ai voulu raconter » est ",
+      "link": "https://www.cafepedagogique.net/2026/09/30/entretien-avec-jean-paul-delahaye-cest-une-colere-qui-monte-que-jai-voulu-raconter/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/05/jean-paul-delahaye-une-image-contenant-visage-huma-224x300.jpeg",
+      "publishedAt": "2026-09-30T03:45:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement",
+        "enseignant"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aftmn6y",
+      "title": "Mouvements de lycéens en banlieue : une première ?",
+      "summary": "Vers un déblocage d’urgence de moyens pour les lycées ? L’historien de l’éducation Claude Lelièvre rappelle dans sa chronique hebdomadaire qu’en 1990, un mouvement lycéen d’ampleur a obtenu gain de L’article Mouvements de lycéens en banlieue : une première ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/30/mouvements-de-lyceens-en-banlieue-une-premiere/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/marseille-manuf2-300x225.jpeg",
+      "publishedAt": "2026-09-30T03:40:26.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8po5e4",
+      "title": "Mon assiette Ma planète : des ressources pour ouvrir la discussion autour de l’alimentation… et des métiers",
+      "summary": "Article publié dans le cadre d’un partenariat Bien manger, comprendre d’où viennent les aliments, découvrir l’élevage et ses métiers… Autant de sujets qui ont toute leur place dans les programmes, L’article Mon assiette Ma planète : des ressources pour ouvrir la discussion autour de l’alimentation… et des métiers est a",
+      "link": "https://www.cafepedagogique.net/2026/09/30/mon-assiette-ma-planete-des-ressources-pour-ouvrir-la-discussion-autour-de-lalimentation-et-des-metiers/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/Capture-decran-2026-09-29-115133-300x139.jpg",
+      "publishedAt": "2026-09-30T03:26:20.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "alz6juj",
+      "title": "Littérature jeunesse : Rester vivant dans le cœur des autres",
+      "summary": "Deux albums assez différents mais qui se rejoignent sur plusieurs points, même si les situations sont inversées. Tous deux parlent de ce qui se passe après la mort de l’être L’article Littérature jeunesse : Rester vivant dans le cœur des autres est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/09/30/litterature-jeunesse-rester-vivant-dans-le-coeur-des-autres/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/le-voyage-Martha-et-moi-300x225.jpeg",
+      "publishedAt": "2026-09-30T03:29:04.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aizsgwu",
       "title": "TEMOIGNAGE sur le manque d’AESH : « Nous passons notre temps à colmater des brèches »",
       "summary": "À l’école Anatole-France B de Vénissieux, en REP+, les équipes alertent depuis la rentrée sur le manque d’AESH. Sur les sept nécessaires pour accompagner 28 enfants bénéficiant de notifications, trois L’article TEMOIGNAGE sur le manque d’AESH : « Nous passons notre temps à colmater des brèches » est apparu en premier s",
@@ -133,7 +202,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +218,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +234,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +250,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apwyjv1",
@@ -197,8 +266,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqie0hv",
@@ -213,8 +282,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ak4sw8",
@@ -229,8 +298,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "advu1f5",
@@ -245,26 +314,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a9qbe2d",
-      "title": "[Le chiffre du jour] 36% des collégiens en REP ou REP+ dans l’académie deCréteil",
-      "summary": "Les réseaux d’éducation prioritaire sont détaillés dans l’ouvrage repères et références statistiques de la DEPP. En 2025, l’académie de Créteil comptait 9.6% de collégiens en réseau REP+ et 26.4 % L’article [Le chiffre du jour] 36% des collégiens en REP ou REP+ dans l’académie deCréteil est apparu en premier sur Le Caf",
-      "link": "https://www.cafepedagogique.net/2026/09/29/le-chiffre-du-jour-36-des-collegiens-en-rep-ou-rep-a-creteil/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/01/chiffre-du-jour-Cafe-pedagogique-300x300.jpg",
-      "publishedAt": "2026-09-29T03:27:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "décret"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "at44cbt",
@@ -281,8 +332,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajfm7jq",
@@ -297,8 +348,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7qrlis",
@@ -313,8 +364,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7r9y91",
@@ -329,8 +380,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4rird0",
@@ -345,7 +396,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -363,7 +414,75 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avnqeqz",
+      "title": "Décarbonation des transports : comment éviter la compétition entre biocarburants et cultures alimentaires ?",
+      "summary": "L’ESSENTIEL Les biocarburants sont essentiels pour réduire la consommation de carburants fossiles dans le secteur des transports en complément d’autres solutions, telles que l’électrification et le recours aux électrocarburants. La première génération de biocarburants utilisée mobilise des ressources agricoles pouvant ",
+      "link": "https://theconversation.com/decarbonation-des-transports-comment-eviter-la-competition-entre-biocarburants-et-cultures-alimentaires-291484",
+      "image": "https://images.theconversation.com/files/759122/original/file-20260910-50-cni5r1.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-09-28T14:24:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atq5mrs",
+      "title": "Minerais, pêche, tourisme : les trois fronts de l’exploitation en Antarctique en question à l’horizon 2048 ?",
+      "summary": "L’ESSENTIEL Contrairement à une idée reçue, l’interdiction d’exploiter les ressources minérales de l’Antarctique n’expirera pas en 2048 : cette date ouvre seulement une possibilité de réexamen du protocole qui interdit cette exploitation. En revanche, alors que le sous-sol reste largement inexploré, la pêche et le tour",
+      "link": "https://theconversation.com/minerais-peche-tourisme-les-trois-fronts-de-lexploitation-en-antarctique-en-question-a-lhorizon-2048-292751",
+      "image": "https://counter.theconversation.com/content/292751/count.gif",
+      "publishedAt": "2026-09-28T14:23:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ap81thx",
+      "title": "Présidentielle : le moment de vérité pour Les Écologistes ?",
+      "summary": "L’ESSENTIEL Les militants écologistes voteront en décembre pour acter leur stratégie présidentielle. Le parti écologiste est fracturé : certains souhaitent une alliance avec La France insoumise (LFI), d’autres avec le Parti socialiste (PS). Le sénateur Yannick Jadot a été suspendu pour avoir soutenu Raphaël Glucksmann.",
+      "link": "https://theconversation.com/presidentielle-le-moment-de-verite-pour-les-ecologistes-292307",
+      "image": "https://counter.theconversation.com/content/292307/count.gif",
+      "publishedAt": "2026-09-28T14:23:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awkpoqp",
+      "title": "Lycées : la contestation monte, les syndicats demandent du dialogue",
+      "summary": "Depuis plusieurs jours, des lycéens se mobilisent en région parisienne et dans plusieurs académies, notamment à Lyon, Lille, Orléans-Tours, Marseille et Nice. Ils dénoncent le manque de personnels, la vétusté L’article Lycées : la contestation monte, les syndicats demandent du dialogue est apparu en premier sur Le Café",
+      "link": "https://www.cafepedagogique.net/2026/09/29/lycees-la-contestation-monte-les-syndicats-demandent-du-dialogue/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/saintouen-287x300.png",
+      "publishedAt": "2026-09-29T03:59:28.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +502,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -401,78 +520,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awkpoqp",
-      "title": "Lycées : la contestation monte, les syndicats demandent du dialogue",
-      "summary": "Depuis plusieurs jours, des lycéens se mobilisent en région parisienne et dans plusieurs académies, notamment à Lyon, Lille, Orléans-Tours, Marseille et Nice. Ils dénoncent le manque de personnels, la vétusté L’article Lycées : la contestation monte, les syndicats demandent du dialogue est apparu en premier sur Le Café",
-      "link": "https://www.cafepedagogique.net/2026/09/29/lycees-la-contestation-monte-les-syndicats-demandent-du-dialogue/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/saintouen-287x300.png",
-      "publishedAt": "2026-09-29T03:59:28.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "am2qkx6",
-      "title": "Le Café pédagogique invite les enseignant.es au Forum du Manifeste",
-      "summary": "Et si l’École se pensait d’abord avec celles et ceux qui la font vivre ? Le Café pédagogique vous invite à participer au Forum du Manifeste en présence de Philippe L’article Le Café pédagogique invite les enseignant.es au Forum du Manifeste est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/29/le-cafe-pedagogique-invite-les-enseignant-es-au-forum-du-manifeste/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/invitation10octobre.jpg",
-      "publishedAt": "2026-09-29T03:27:42.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avnqeqz",
-      "title": "Décarbonation des transports : comment éviter la compétition entre biocarburants et cultures alimentaires ?",
-      "summary": "L’ESSENTIEL Les biocarburants sont essentiels pour réduire la consommation de carburants fossiles dans le secteur des transports en complément d’autres solutions, telles que l’électrification et le recours aux électrocarburants. La première génération de biocarburants utilisée mobilise des ressources agricoles pouvant ",
-      "link": "https://theconversation.com/decarbonation-des-transports-comment-eviter-la-competition-entre-biocarburants-et-cultures-alimentaires-291484",
-      "image": "https://images.theconversation.com/files/759122/original/file-20260910-50-cni5r1.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-28T14:24:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atq5mrs",
-      "title": "Minerais, pêche, tourisme : les trois fronts de l’exploitation en Antarctique en question à l’horizon 2048 ?",
-      "summary": "L’ESSENTIEL Contrairement à une idée reçue, l’interdiction d’exploiter les ressources minérales de l’Antarctique n’expirera pas en 2048 : cette date ouvre seulement une possibilité de réexamen du protocole qui interdit cette exploitation. En revanche, alors que le sous-sol reste largement inexploré, la pêche et le tour",
-      "link": "https://theconversation.com/minerais-peche-tourisme-les-trois-fronts-de-lexploitation-en-antarctique-en-question-a-lhorizon-2048-292751",
-      "image": "https://counter.theconversation.com/content/292751/count.gif",
-      "publishedAt": "2026-09-28T14:23:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -490,57 +538,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ah5iz9j",
-      "title": "Olympiades de biologie : les lycéens invités à expérimenter",
-      "summary": "Les Olympiades nationales de biologie sont de retour avec pour thème 2026-2027 : « L’énergie, c’est la vie ! ». Ce concours invite des groupes de 2 à 4 élèves L’article Olympiades de biologie : les lycéens invités à expérimenter est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/29/olympiades-de-biologie-les-lyceens-invites-a-experimenter/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/olympiades-300x239.png",
-      "publishedAt": "2026-09-29T03:29:15.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ap81thx",
-      "title": "Présidentielle : le moment de vérité pour Les Écologistes ?",
-      "summary": "L’ESSENTIEL Les militants écologistes voteront en décembre pour acter leur stratégie présidentielle. Le parti écologiste est fracturé : certains souhaitent une alliance avec La France insoumise (LFI), d’autres avec le Parti socialiste (PS). Le sénateur Yannick Jadot a été suspendu pour avoir soutenu Raphaël Glucksmann.",
-      "link": "https://theconversation.com/presidentielle-le-moment-de-verite-pour-les-ecologistes-292307",
-      "image": "https://counter.theconversation.com/content/292307/count.gif",
-      "publishedAt": "2026-09-28T14:23:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awafwgv",
-      "title": "La science se déguste du 2 au 12 octobre 2026",
-      "summary": "Depuis 1991, chaque automne, la Fête de la science est un foisonnement d’animations, d’expositions, de débats, de rencontres, de conférences, d’initiatives scientifiques gratuites, originales et ludiques… près de 7000 événements L’article La science se déguste du 2 au 12 octobre 2026 est apparu en premier sur Le Café p",
-      "link": "https://www.cafepedagogique.net/2026/09/29/la-science-se-deguste-du-2-au-12-octobre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fds2026-230x300.png",
-      "publishedAt": "2026-09-29T03:28:46.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -558,7 +556,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -574,7 +572,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -590,7 +588,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -606,7 +604,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -622,7 +620,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -641,7 +639,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -657,7 +655,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -675,7 +673,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -691,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -707,7 +705,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     }
   ]
