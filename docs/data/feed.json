@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:29:21.048Z",
+  "generatedAt": "2026-10-01T22:21:55.546Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,59 @@
   "count": 35,
   "items": [
     {
+      "id": "a443nlc",
+      "title": "Les volailles au Moyen Âge : de la poularde au pigeonneau, une diversité oubliée et une science du goût à redécouvrir",
+      "summary": "Un paon rôti, paré de ses plumes, servi lors d'un banquet. Miniature tirée d’un manuscrit de *la Romance d’Alexandre le Grand* (Peintre anonyme, XVᵉ siècle).siècle Wikimedia Commons L’ESSENTIEL Le poulet règne aujourd’hui de manière écrasante sur la filière volaille et sur nos tables. Au Moyen Âge, pourtant, les ouvrag",
+      "link": "https://theconversation.com/les-volailles-au-moyen-age-de-la-poularde-au-pigeonneau-une-diversite-oubliee-et-une-science-du-gout-a-redecouvrir-290182",
+      "image": "https://images.theconversation.com/files/760875/original/file-20260918-50-s2dfkf.jpg?ixlib=rb-4.1.1&amp;rect=0%2C41%2C1758%2C1172&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T12:41:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a33tgzj",
+      "title": "Comment la viande de poulet a conquis le monde ?",
+      "summary": "Le poulet est devenu la viande la plus consommée en France, en 2024. Inrae/UE EASM, Fourni par l'auteur L’ESSENTIEL La viande de poulet est aujourd’hui la première viande consommée à travers le monde. Ce succès s’explique par des raisons nutritionnelles, culturelles et économiques. Il a été permis par l’évolution des t",
+      "link": "https://theconversation.com/comment-la-viande-de-poulet-a-conquis-le-monde-292820",
+      "image": "https://images.theconversation.com/files/762494/original/file-20260928-50-jydsp.JPG?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1600%2C1066&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T12:40:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "als2ro6",
+      "title": "Courses poursuites, violences, racisme : comment expliquer la multiplication d’« affaires » liées aux polices municipales ?",
+      "summary": "L’ESSENTIEL Les polices municipales sont souvent présentées dans une logique de proximité avec la population, par opposition à la police nationale. Plusieurs interventions violentes ou scandales récents liés à des policiers municipaux amènent à questionner leurs modes d’action et leur rapport au public. Le recrutement ",
+      "link": "https://theconversation.com/courses-poursuites-violences-racisme-comment-expliquer-la-multiplication-d-affaires-liees-aux-polices-municipales-292822",
+      "image": "https://counter.theconversation.com/content/292822/count.gif",
+      "publishedAt": "2026-10-01T13:33:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "racisme",
+        "violences"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "agdccsy",
       "title": "Game Jam de Blois : quand des professeurs d’Histoire imaginent leurs propres jeux vidéo",
       "summary": "Un chapitre du programme peut-il devenir un jeu vidéo en 48 heures ? C’est le défi lancé à huit enseignants d’histoire-géographie lors de la cinquième Game Jam des Rendez-vous de L’article Game Jam de Blois : quand des professeurs d’Histoire imaginent leurs propres jeux vidéo est apparu en premier sur Le Café pédagogiq",
@@ -134,7 +187,89 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "adxyod",
+      "title": "Made in China AI: new tech, same old story?",
+      "summary": "When Beijing-based AI firm Zhipu released its open-source General Language Model (GLM) and it began competing with Anthropic’s Claude and OpenAI’s ChatGPT at a fraction of the price, a familiar question resurfaced. Are we watching a new kind of intelligence, or a very old story? Solar panels and electric vehicles are a",
+      "link": "https://theconversation.com/made-in-china-ai-new-tech-same-old-story-291703",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-01T13:42:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "adfeuxl",
+      "title": "Nos pratiques funéraires sont-elles gravées dans le marbre ? Ce que l’archéothanatologie nous apprend des funérailles du passé",
+      "summary": "La chambre funéraire de St Lythans, au Royaume-Uni, témoigne de pratiques remontant au milieu du Néolithique, 4000 ans avant notre ère. Chris Andrews / Wikimedia Commons, CC BY Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Dem",
+      "link": "https://theconversation.com/nos-pratiques-funeraires-sont-elles-gravees-dans-le-marbre-ce-que-larcheothanatologie-nous-apprend-des-funerailles-du-passe-278243",
+      "image": "https://images.theconversation.com/files/760555/original/file-20260917-70-fyjpe3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C216%2C2592%2C1728&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T13:49:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajztdem",
+      "title": "Le régime iranien va-t-il perdre son influence sur l’Irak ?",
+      "summary": "L’ESSENTIEL L’escalade iranienne au Moyen-Orient fragilise les milices chiites irakiennes proches de Téhéran. Des figures chiites de premier plan dénoncent l’implication de l’Irak dans la guerre et l’influence iranienne. L’escalade actuelle risque d’affaiblir l’influence iranienne auprès d’une partie de la population c",
+      "link": "https://theconversation.com/le-regime-iranien-va-t-il-perdre-son-influence-sur-lirak-292968",
+      "image": "https://counter.theconversation.com/content/292968/count.gif",
+      "publishedAt": "2026-10-01T13:39:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5n20i",
+      "title": "Tentative de détournement du vol Flydubai   quel impact sur les législatives israéliennes ?",
+      "summary": "Le 30 septembre, à l’aéroport Ben Gourion de Tel-Aviv, Benyamin Nétanyahou s’entretient avec Yaniv Hayoun (l’un des passagers ayant neutralisé le co-pilote qui venait de poignarder le pilote de l’avion) et sa famille. Le vol a finalement pu se poser sur un aéroport saoudien, et un autre vol a permis aux passagers de re",
+      "link": "https://theconversation.com/tentative-de-detournement-du-vol-flydubai-quel-impact-sur-les-legislatives-israeliennes-293366",
+      "image": "https://images.theconversation.com/files/763386/original/file-20261001-50-kp9yew.jpeg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C2557%2C1705&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T13:38:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajzq4pl",
+      "title": "Pourquoi le « coût par utilisation » pourrait révolutionner nos achats de vêtements",
+      "summary": "Le « coût par utilisation » rapporte le prix d’achat au nombre de fois où un vêtement est porté. Rneaw/Shutterstock L’ESSENTIEL Le « coût par utilisation » montre qu’un vêtement de qualité est souvent plus rentable qu’il n’y paraît. Afficher cet indicateur incite les consommateurs à privilégier des vêtements plus durab",
+      "link": "https://theconversation.com/pourquoi-le-cout-par-utilisation-pourrait-revolutionner-nos-achats-de-vetements-288016",
+      "image": "https://images.theconversation.com/files/749156/original/file-20260220-76-ahrysu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3983%2C2656&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T13:38:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -150,8 +285,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ap0w301",
@@ -168,8 +303,40 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aq2h0gs",
+      "title": "Lycéens mobilisés : ce qu’ils disent, ce qu’on leur répond",
+      "summary": "Depuis plusieurs jours, les lycéennes et lycéens se mobilisent et bloquent des établissements aux quatre coins de la France. Leurs revendications sont simples : de bonnes conditions pour apprendre. Face L’article Lycéens mobilisés : ce qu’ils disent, ce qu’on leur répond est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/01/lyceens-mobilises-ce-quils-disent-ce-quon-leur-repond/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PHOTO-2026-09-30-17-07-34-e1790786773177-256x300.jpg",
+      "publishedAt": "2026-10-01T04:10:36.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "acebnfw",
+      "title": "Mobilisation lycéenne : quand Beauvau prend la main",
+      "summary": "Le lieu, la place Beauvau pour répondre aux lycéens, n’a rien d’un détail. 356 établissements perturbés, 625 personnes interpellées. Mercredi 30 septembre en fin d’après-midi, le ministre de l’Intérieur Laurent L’article Mobilisation lycéenne : quand Beauvau prend la main est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/01/mobilisation-lyceenne-quand-beauvau-prend-la-main/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/ministre-300x144.png",
+      "publishedAt": "2026-10-01T04:10:17.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2w3ip8",
@@ -188,58 +355,26 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
-      "id": "apca3rt",
-      "title": "Lycéens : citoyens à Paris, “délinquants” en banlieue ?",
-      "summary": "Mobilisations lycéennes à Paris et répression policière de « violences urbaines » en banlieue : un deux poids deux mesures à Paris ? Un procédé lexical qui « vise à L’article Lycéens : citoyens à Paris, “délinquants” en banlieue ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/01/lyceens-citoyens-a-paris-delinquants-en-banlieue/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/isabelleDumoulin-300x300.jpg",
-      "publishedAt": "2026-10-01T03:50:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "a5irbgv",
+      "title": "Le cercle familial, terrain structurel des violences sexuelles contre les enfants et les adolescents",
+      "summary": "L’ESSENTIEL La loi intégrale contre les violences sexistes et sexuelles, examinée à l’Assemblée nationale à compter du 1er octobre, ambitionne notamment de mieux protéger les mineurs. Plus de la moitié des violences sexuelles déclarées par les femmes et les deux tiers de celles déclarées par les hommes se produisent ou",
+      "link": "https://theconversation.com/le-cercle-familial-terrain-structurel-des-violences-sexuelles-contre-les-enfants-et-les-adolescents-288202",
+      "image": "https://counter.theconversation.com/content/288202/count.gif",
+      "publishedAt": "2026-09-30T14:12:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "inclusion",
       "keywords": [
         "violences"
       ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aq2h0gs",
-      "title": "Lycéens mobilisés : ce qu’ils disent, ce qu’on leur répond",
-      "summary": "Depuis plusieurs jours, les lycéennes et lycéens se mobilisent et bloquent des établissements aux quatre coins de la France. Leurs revendications sont simples : de bonnes conditions pour apprendre. Face L’article Lycéens mobilisés : ce qu’ils disent, ce qu’on leur répond est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/01/lyceens-mobilises-ce-quils-disent-ce-quon-leur-repond/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PHOTO-2026-09-30-17-07-34-e1790786773177-256x300.jpg",
-      "publishedAt": "2026-10-01T04:10:36.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "acebnfw",
-      "title": "Mobilisation lycéenne : quand Beauvau prend la main",
-      "summary": "Le lieu, la place Beauvau pour répondre aux lycéens, n’a rien d’un détail. 356 établissements perturbés, 625 personnes interpellées. Mercredi 30 septembre en fin d’après-midi, le ministre de l’Intérieur Laurent L’article Mobilisation lycéenne : quand Beauvau prend la main est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/01/mobilisation-lyceenne-quand-beauvau-prend-la-main/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/ministre-300x144.png",
-      "publishedAt": "2026-10-01T04:10:17.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a94z4sp",
@@ -257,8 +392,26 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apca3rt",
+      "title": "Lycéens : citoyens à Paris, “délinquants” en banlieue ?",
+      "summary": "Mobilisations lycéennes à Paris et répression policière de « violences urbaines » en banlieue : un deux poids deux mesures à Paris ? Un procédé lexical qui « vise à L’article Lycéens : citoyens à Paris, “délinquants” en banlieue ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/01/lyceens-citoyens-a-paris-delinquants-en-banlieue/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/isabelleDumoulin-300x300.jpg",
+      "publishedAt": "2026-10-01T03:50:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajs3f6b",
@@ -273,8 +426,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ae4xs6n",
@@ -289,8 +442,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adrktsf",
@@ -305,8 +458,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ay6y4ak",
@@ -321,25 +474,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a5irbgv",
-      "title": "Le cercle familial, terrain structurel des violences sexuelles contre les enfants et les adolescents",
-      "summary": "L’ESSENTIEL La loi intégrale contre les violences sexistes et sexuelles, examinée à l’Assemblée nationale à compter du 1er octobre, ambitionne notamment de mieux protéger les mineurs. Plus de la moitié des violences sexuelles déclarées par les femmes et les deux tiers de celles déclarées par les hommes se produisent ou",
-      "link": "https://theconversation.com/le-cercle-familial-terrain-structurel-des-violences-sexuelles-contre-les-enfants-et-les-adolescents-288202",
-      "image": "https://counter.theconversation.com/content/288202/count.gif",
-      "publishedAt": "2026-09-30T14:12:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -357,7 +492,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -375,7 +510,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -391,7 +526,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +542,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -423,39 +558,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axhuauf",
-      "title": "Les insectes sont-ils vraiment une nourriture de pauvre ?",
-      "summary": "*Catzos blancos* (_Platycoelia lutescens_) : scarabées adultes mangés à Quito et dans ses environs (Équateur). Fourni par l'auteur L’ESSENTIEL La consommation d’insectes est souvent perçue comme étant seulement un dernier recours en cas de famine ou de grande pauvreté. Pourtant, dans les pays où ils sont habituellement",
-      "link": "https://theconversation.com/les-insectes-sont-ils-vraiment-une-nourriture-de-pauvre-292720",
-      "image": "https://images.theconversation.com/files/761778/original/file-20260923-50-85128f.jpg?ixlib=rb-4.1.1&amp;rect=108%2C0%2C1172%2C781&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-30T13:29:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8kmnqw",
-      "title": "Pope Leo XIV’s Europe",
-      "summary": "KEY TAKEAWAYS Pope Leo XIV’s views on international politics set out a vision that rejects the logic of power and imperialism in favour of diplomacy, the rule of law and multilateral institutions. Europe occupies a central place in this vision: the Pope sees the European Union as a project that transcends national riva",
-      "link": "https://theconversation.com/pope-leo-xivs-europe-293230",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-30T13:26:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,7 +576,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axhuauf",
+      "title": "Les insectes sont-ils vraiment une nourriture de pauvre ?",
+      "summary": "*Catzos blancos* (_Platycoelia lutescens_) : scarabées adultes mangés à Quito et dans ses environs (Équateur). Fourni par l'auteur L’ESSENTIEL La consommation d’insectes est souvent perçue comme étant seulement un dernier recours en cas de famine ou de grande pauvreté. Pourtant, dans les pays où ils sont habituellement",
+      "link": "https://theconversation.com/les-insectes-sont-ils-vraiment-une-nourriture-de-pauvre-292720",
+      "image": "https://images.theconversation.com/files/761778/original/file-20260923-50-85128f.jpg?ixlib=rb-4.1.1&amp;rect=108%2C0%2C1172%2C781&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-09-30T13:29:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a8kmnqw",
+      "title": "Pope Leo XIV’s Europe",
+      "summary": "KEY TAKEAWAYS Pope Leo XIV’s views on international politics set out a vision that rejects the logic of power and imperialism in favour of diplomacy, the rule of law and multilateral institutions. Europe occupies a central place in this vision: the Pope sees the European Union as a project that transcends national riva",
+      "link": "https://theconversation.com/pope-leo-xivs-europe-293230",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-09-30T13:26:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -489,7 +624,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -505,7 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -521,7 +656,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -537,7 +672,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -553,7 +688,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -569,138 +704,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ap9vf56",
-      "title": "Ce que l’affaire Thélyson Orélien dit de nos représentations de la littérature",
-      "summary": "L’ESSENTIEL L’écrivain Thélyson Orélien, auteur de C’était ça ou mourir, est accusé d’avoir eu recours à l’intelligence artificielle, ce qui suscite une vive polémique. Ce débat révèle les contradictions du monde littéraire, à la fois avide de nouveaux talents et prompt à les vouer aux gémonies. Cette affaire nous invi",
-      "link": "https://theconversation.com/ce-que-laffaire-thelyson-orelien-dit-de-nos-representations-de-la-litterature-292932",
-      "image": "https://counter.theconversation.com/content/292932/count.gif",
-      "publishedAt": "2026-09-30T09:29:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle",
-        "représentation"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq7k86d",
-      "title": "Comment l’odorat nous aide à comprendre l’origine et l’évolution de notre cerveau",
-      "summary": "L’odorat est notre lien le plus direct avec le monde extérieur. Richárd Ecsedi/Unsplash, CC BY L’ESSENTIEL L’odorat est un sens tout à fait particulier du point de vue cérébral : c’est notre lien le plus direct avec le monde extérieur. Les zones cérébrales qui contrôlent l’odorat semblent avoir très peu changé au cours",
-      "link": "https://theconversation.com/comment-lodorat-nous-aide-a-comprendre-lorigine-et-levolution-de-notre-cerveau-290886",
-      "image": "https://images.theconversation.com/files/759117/original/file-20260910-50-owsr78.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-30T09:14:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axysil5",
-      "title": "Comment une odeur devient-elle une madeleine de Proust ?",
-      "summary": "L’ESSENTIEL Certaines odeurs nous renvoient directement au passé, à des souvenirs précis auxquelles elles sont intimement liées. Même si le parcours des signaux liés aux odeurs à travers le bulbe olfactif et jusqu’au cerveau est particulier, l’origine de cet effet « madeleine de Proust » ne peut pas être expliquée excl",
-      "link": "https://theconversation.com/comment-une-odeur-devient-elle-une-madeleine-de-proust-291718",
-      "image": "https://counter.theconversation.com/content/291718/count.gif",
-      "publishedAt": "2026-09-30T09:14:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aohah6i",
-      "title": "Où se concentrent les annonces d’investissements industriels en France ?",
-      "summary": "L’ESSENTIEL Avec sa troisième Stratégie nationale bas carbone, la France impose aux entreprises de réduire leurs émissions de gaz à effet de serre de 50 % d’ici à 2030. Une analyse souligne que la géographie de la décarbonation de l’industrie et celle de la réindustrialisation « verte » sont les deux faces d’une même p",
-      "link": "https://theconversation.com/ou-se-concentrent-les-annonces-dinvestissements-industriels-en-france-291592",
-      "image": "https://images.theconversation.com/files/761923/original/file-20260924-60-dbqhed.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-29T14:17:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq6wtjx",
-      "title": "La réforme du « hukou » chinois pourrait améliorer la situation des migrants internes. Une chance pour la croissance mondiale ?",
-      "summary": "Les migrants internes chinois restent souvent rattachés administrativement à leur province d’origine. Cela les conduit à épargner plus que la moyenne. XF/Unsplash, CC BY L’ESSENTIEL Pour soutenir la consommation intérieure, le gouvernement chinois cherche à agir sur l’épargne des migrants internes. Les migrants intérie",
-      "link": "https://theconversation.com/la-reforme-du-hukou-chinois-pourrait-ameliorer-la-situation-des-migrants-internes-une-chance-pour-la-croissance-mondiale-290376",
-      "image": "https://images.theconversation.com/files/760548/original/file-20260917-60-cjnoxc.jpg?ixlib=rb-4.1.1&amp;rect=611%2C0%2C6604%2C4402&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-29T14:16:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apwyjv1",
-      "title": "« Goût du gras » : l’existence d’une sixième saveur expliquerait l’attirance des personnes obèses pour les aliments gras",
-      "summary": "L’ESSENTIEL Traditionnellement, on considère qu’il existe cinq modalités gustatives fondamentales : le sucré, le salé, l’acide, l’amer et l’umami. Des preuves de plus en plus nombreuses suggèrent que les lipides contenus dans les aliments pourraient également être détectés par des mécanismes sensoriels spécialisés. L’e",
-      "link": "https://theconversation.com/gout-du-gras-lexistence-dune-sixieme-saveur-expliquerait-lattirance-des-personnes-obeses-pour-les-aliments-gras-292426",
-      "image": "https://counter.theconversation.com/content/292426/count.gif",
-      "publishedAt": "2026-09-29T15:10:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqie0hv",
-      "title": "How World Trade Organization reform could help address the EU-China trade imbalance",
-      "summary": "The world was closely watching the high-stakes US-China summit in Washington from September 23 – 25, which resulted in the US and China agreeing, among other things, to extend their trade truce by two months. Now, the spotlight has shifted to Beijing, as the EU and China enter the final stretch ahead of a decisive roun",
-      "link": "https://theconversation.com/how-world-trade-organization-reform-could-help-address-the-eu-china-trade-imbalance-292998",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-29T14:18:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ak4sw8",
-      "title": "En agriculture, peut-on utiliser du cuivre sans nuire à la vie des sols ?",
-      "summary": "L’ESSENTIEL Nombreux sont les jardiniers amateurs qui utilisent le cuivre pour protéger des maladies leurs légumes ou leurs arbres fruitiers. Ce métal est également utilisé en agriculture biologique, mais ses usagers n’en soupçonnent pas toujours les effets. Qu’en est-il de ses répercussions sur l’activité biologique d",
-      "link": "https://theconversation.com/en-agriculture-peut-on-utiliser-du-cuivre-sans-nuire-a-la-vie-des-sols-287103",
-      "image": "https://images.theconversation.com/files/754299/original/file-20260817-49-ukxljv.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-29T14:17:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     }
   ]
