@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T04:17:53.512Z",
+  "generatedAt": "2026-10-01T12:29:21.048Z",
   "themes": [
     {
       "id": "education-medias",
@@ -134,7 +134,41 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 89,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "az1x3v2",
+      "title": "Élections au Brésil : une campagne terne et numérique qui accroît l’incertitude sur l’issue du scrutin",
+      "summary": "L’ESSENTIEL À quelques jours de l’élection présidentielle au Brésil, Lula devance Flávio Bolsonaro, mais près d’un tiers des électeurs restent indécis. La campagne, peu visible dans les rues et largement numérique, peine à mobiliser les électeurs. Les élections au Congrès seront aussi décisives pour la capacité du proc",
+      "link": "https://theconversation.com/elections-au-bresil-une-campagne-terne-et-numerique-qui-accroit-lincertitude-sur-lissue-du-scrutin-293250",
+      "image": "https://counter.theconversation.com/content/293250/count.gif",
+      "publishedAt": "2026-10-01T10:44:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ap0w301",
+      "title": "La biodiversité commune, grande oubliée des politiques de conservation en Europe",
+      "summary": "L’ESSENTIEL Les mesures de protection de la biodiversité ciblent souvent des espèces menacées emblématiques laissant de côté la biodiversité dite « commune ». Une étude inédite réalisée à l’échelle européenne montre que ces espèces communes déclinent dans tous les scénarios envisagés pour protéger la biodiversité. Dans",
+      "link": "https://theconversation.com/la-biodiversite-commune-grande-oubliee-des-politiques-de-conservation-en-europe-292260",
+      "image": "https://images.theconversation.com/files/763119/original/file-20260930-50-eqps6f.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-01T09:10:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -154,7 +188,57 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apca3rt",
+      "title": "Lycéens : citoyens à Paris, “délinquants” en banlieue ?",
+      "summary": "Mobilisations lycéennes à Paris et répression policière de « violences urbaines » en banlieue : un deux poids deux mesures à Paris ? Un procédé lexical qui « vise à L’article Lycéens : citoyens à Paris, “délinquants” en banlieue ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/01/lyceens-citoyens-a-paris-delinquants-en-banlieue/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/isabelleDumoulin-300x300.jpg",
+      "publishedAt": "2026-10-01T03:50:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aq2h0gs",
+      "title": "Lycéens mobilisés : ce qu’ils disent, ce qu’on leur répond",
+      "summary": "Depuis plusieurs jours, les lycéennes et lycéens se mobilisent et bloquent des établissements aux quatre coins de la France. Leurs revendications sont simples : de bonnes conditions pour apprendre. Face L’article Lycéens mobilisés : ce qu’ils disent, ce qu’on leur répond est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/01/lyceens-mobilises-ce-quils-disent-ce-quon-leur-repond/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PHOTO-2026-09-30-17-07-34-e1790786773177-256x300.jpg",
+      "publishedAt": "2026-10-01T04:10:36.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "acebnfw",
+      "title": "Mobilisation lycéenne : quand Beauvau prend la main",
+      "summary": "Le lieu, la place Beauvau pour répondre aux lycéens, n’a rien d’un détail. 356 établissements perturbés, 625 personnes interpellées. Mercredi 30 septembre en fin d’après-midi, le ministre de l’Intérieur Laurent L’article Mobilisation lycéenne : quand Beauvau prend la main est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/01/mobilisation-lyceenne-quand-beauvau-prend-la-main/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/ministre-300x144.png",
+      "publishedAt": "2026-10-01T04:10:17.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -173,43 +257,23 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
-      "id": "ae9xgwi",
-      "title": "De l’apprentissage du geste à l’expression personnelle : faire vivre l’écriture manuscrite du CP à la 3e",
-      "summary": "Article publié dans le cadre d’un partenariat De l’apprentissage du geste graphique au CP à la rédaction dans toutes les disciplines jusqu’en 3e, l’écriture manuscrite accompagne toute la scolarité. Avec L’article De l’apprentissage du geste à l’expression personnelle : faire vivre l’écriture manuscrite du CP à la 3e e",
-      "link": "https://www.cafepedagogique.net/2026/10/01/de-lapprentissage-du-geste-a-lexpression-personnelle-faire-vivre-lecriture-manuscrite-du-cp-a-la-3e/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/image-1-article-Photo-site-semaine-de-lecriture-300x158.jpg",
-      "publishedAt": "2026-10-01T03:26:12.000Z",
+      "id": "ajs3f6b",
+      "title": "Journée Jean Zoro : l’EPS entre santé, bien-être… et « bien-devenir »",
+      "summary": "La dixième Journée Jean Zoro se tiendra le samedi 10 octobre 2026, de 9h à 18h, à l’Université Sorbonne Paris Nord (Bobigny). Face à l’importance croissante de la santé et L’article Journée Jean Zoro : l’EPS entre santé, bien-être… et « bien-devenir » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/01/journee-jean-zoro-leps-entre-sante-bien-etre-et-bien-devenir/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/aeeps-300x211.png",
+      "publishedAt": "2026-10-01T03:29:55.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [
-        "apprentissage"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 79,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "apca3rt",
-      "title": "Lycéens : citoyens à Paris, “délinquants” en banlieue ?",
-      "summary": "Mobilisations lycéennes à Paris et répression policière de « violences urbaines » en banlieue : un deux poids deux mesures à Paris ? Un procédé lexical qui « vise à L’article Lycéens : citoyens à Paris, “délinquants” en banlieue ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/01/lyceens-citoyens-a-paris-delinquants-en-banlieue/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/isabelleDumoulin-300x300.jpg",
-      "publishedAt": "2026-10-01T03:50:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 54,
+      "keywords": [],
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -225,7 +289,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "adrktsf",
+      "title": "Battre tous les records pour les 30 ans de la Course contre la Faim !",
+      "summary": "Article publié dans le cadre d’un partenariat En 2027, la Course contre la Faim d’Action contre la Faim célèbre 30 ans de mobilisation citoyenne dans les établissements scolaires. Depuis trois L’article Battre tous les records pour les 30 ans de la Course contre la Faim ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/01/battre-tous-les-records-pour-les-30-ans-de-la-course-contre-la-faim/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Remi-Portier-pour-Action-contre-la-Faim-8-300x200.jpg",
+      "publishedAt": "2026-10-01T03:27:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -241,7 +321,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -259,8 +339,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aulqmx0",
@@ -277,38 +357,6 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aq3h9u6",
-      "title": "Lycéens mobilisés : ce qu’ils disent, ce qu’on leur répond",
-      "summary": "Depuis plusieurs jours, les lycéennes et lycéens se mobilisent et bloquent des établissements aux quatre coins de la France. Leurs revendications sont simples : de bonnes conditions pour apprendre. Face L’article Lycéens mobilisés : ce qu’ils disent, ce qu’on leur répond est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/30/lyceens-mobilises-ce-quils-disent-ce-quon-leur-repond/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/PHOTO-2026-09-30-17-07-34-e1790786773177-256x300.jpg",
-      "publishedAt": "2026-09-30T17:00:36.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afib5lk",
-      "title": "Grève du 29 septembre : les personnels de l’Éducation nationale mobilisés pour leurs salaires et leurs conditions de travail",
-      "summary": "Près de 40 % des personnels de l’Éducation nationale étaient en grève ce mardi 29 septembre selon les syndicats, 11,5 % selon le ministère. Ils répondaient à l’appel de l’intersyndicale L’article Grève du 29 septembre : les personnels de l’Éducation nationale mobilisés pour leurs salaires et leurs conditions de travail",
-      "link": "https://www.cafepedagogique.net/2026/09/30/greve-du-29-septembre-les-personnels-de-leducation-nationale-mobilises-pour-leurs-salaires-et-leurs-conditions-de-travail/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/lyon-300x200.jpeg",
-      "publishedAt": "2026-09-30T04:05:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
       "urgency": 67,
       "urgencyLevel": "moyenne"
     },
@@ -327,7 +375,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -343,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -375,7 +423,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -391,7 +439,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +455,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +473,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +489,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +505,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,7 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -489,7 +537,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -505,7 +553,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -521,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -540,7 +588,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -556,7 +604,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -572,23 +620,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6tqiwc",
-      "title": "416 lycées perturbés : la mobilisation prend de l’ampleur",
-      "summary": "« Ne nous regardez pas, rejoignez-nous ! » lance une lycéenne devant le lycée Bergson au Nord Est de Paris, un des 416 établissements perturbés ce mardi 29 septembre à L’article 416 lycées perturbés : la mobilisation prend de l’ampleur est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/09/30/338-lycees-bloques-la-mobilisation-prend-de-lampleur/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/une-lyceensencolr-300x225.jpeg",
-      "publishedAt": "2026-09-30T04:10:50.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -604,7 +636,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -620,7 +652,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -636,7 +668,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -652,7 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -668,39 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "advu1f5",
-      "title": "Le baptême de l’Amérique à Saint-Dié par des humanistes vosgiens, un épisode historique méconnu",
-      "summary": "*Universalis cosmographia secundum Ptholomaei traditionem et Americi Vespucii aliorumque lustrationes*, Martin Waldseemüller, Strasbourg, 1507. Fourni par l'auteur L’ESSENTIEL Les 2, 3 et 4 octobre prochains se tiendra à Saint-Dié-des-Vosges la 37ᵉ édition du Festival international de géographie. Le festival commémore ",
-      "link": "https://theconversation.com/le-bapteme-de-lamerique-a-saint-die-par-des-humanistes-vosgiens-un-episode-historique-meconnu-292919",
-      "image": "https://images.theconversation.com/files/762723/original/file-20260929-50-r3x44b.jpg?ixlib=rb-4.1.1&amp;rect=251%2C25%2C1830%2C1220&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-29T14:15:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajfm7jq",
-      "title": "L’Europe vue par Léon XIV",
-      "summary": "L’ESSENTIEL Le discours de Léon XIV en matière de politique internationale dessine une vision qui condamne les logiques de puissance et les impérialismes au profit de la diplomatie, du droit et des institutions multilatérales. L’Europe occupe une place centrale dans cette vision : le pape voit l’Union européenne comme ",
-      "link": "https://theconversation.com/leurope-vue-par-leon-xiv-293064",
-      "image": "https://counter.theconversation.com/content/293064/count.gif",
-      "publishedAt": "2026-09-29T13:50:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     }
   ]
