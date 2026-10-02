@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:55:24.901Z",
+  "generatedAt": "2026-10-02T17:31:10.048Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,41 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 92,
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "asgwoxz",
+      "title": "Un carnet de Mozart retrouvé à la BnF révèle le talent méconnu d’une de ses élèves",
+      "summary": "L’ESSENTIEL Un carnet retrouvé à la BnF conserve les leçons de composition données par Mozart à Marie-Louise de Guînes en 1778. Les exercices révèlent le travail de l’élève et permettent de dépasser le jugement sévère que Mozart portait sur elle. - Le manuscrit éclaire le rôle souvent oublié des femmes et des salons pr",
+      "link": "https://theconversation.com/un-carnet-de-mozart-retrouve-a-la-bnf-revele-le-talent-meconnu-dune-de-ses-eleves-292699",
+      "image": "https://counter.theconversation.com/content/292699/count.gif",
+      "publishedAt": "2026-10-02T11:56:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoiywci",
+      "title": "Dans la coquille d’un bénitier géant, un journal du climat vieux de 200 ans",
+      "summary": "L’ESSENTIEL Les coquilles des bénitiers géants enregistrent jour après jour les variations du climat. Il y a 225 ans, les étés de la Grande Barrière de corail étaient jusqu’à 1,2 °C plus frais qu’aujourd’hui. Ces archives permettent aussi de retracer les variations d’El Niño et de La Niña. Lorsque l’on nage dans les ea",
+      "link": "https://theconversation.com/dans-la-coquille-dun-benitier-geant-un-journal-du-climat-vieux-de-200-ans-293285",
+      "image": "https://images.theconversation.com/files/757143/original/file-20260901-50-2ubv02.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-02T11:59:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -153,7 +187,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +203,39 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apjx0f8",
+      "title": "Nous avons presque tous tendance à tourner à gauche en marchant, et la science ignore pourquoi",
+      "summary": "Ces recherches pourraient aider à mieux concevoir les espaces très fréquentés afin de fluidifier les déplacements des piétons et de limiter les croisements et les encombrements. Goinyk Production/Shutterstock L’ESSENTIEL En groupe, nous avons tendance à tourner dans le sens inverse des aiguilles d’une montre. Ce biais ",
+      "link": "https://theconversation.com/nous-avons-presque-tous-tendance-a-tourner-a-gauche-en-marchant-et-la-science-ignore-pourquoi-293284",
+      "image": "https://images.theconversation.com/files/763146/original/file-20260929-50-h6y16i.jpg?ixlib=rb-4.1.1&amp;rect=300%2C0%2C3240%2C2160&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-02T11:57:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a64eayj",
+      "title": "Des Portugais aux Américains, une bataille de cinq siècles pour le contrôle d’Ormuz et de Bab el-Mandeb",
+      "summary": "L’ESSENTIEL Depuis le XVe siècle, Chinois, Portugais, Néerlandais et Britanniques ont tenté de dominer Ormuz et Bab el-Mandeb. La maîtrise de ces détroits a reposé tour à tour sur la puissance navale, le commerce, les ports et les alliances locales. - L’histoire montre que contrôler ces passages stratégiques ne suffit ",
+      "link": "https://theconversation.com/des-portugais-aux-americains-une-bataille-de-cinq-siecles-pour-le-controle-dormuz-et-de-bab-el-mandeb-293454",
+      "image": "https://images.theconversation.com/files/761947/original/file-20260924-50-v5oovn.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-02T11:55:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -185,8 +251,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "ad9wc15",
+      "title": "FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux »",
+      "summary": "Que pense la FCPE nationale de la mobilisation des lycéennes et lycéens ? « On ne peut pas demander aux jeunes de devenir des citoyens engagés – car cet engagement est valorisé L’article FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux » est apparu en premier sur Le Ca",
+      "link": "https://www.cafepedagogique.net/2026/10/02/fcpe-on-ne-peut-pas-demander-aux-jeunes-de-sengager-tout-en-exigeant-quils-restent-silencieux/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/acRossi-300x217.jpeg",
+      "publishedAt": "2026-10-02T03:45:30.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awa7c2p",
@@ -203,8 +285,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar9doew",
@@ -221,24 +303,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ad9wc15",
-      "title": "FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux »",
-      "summary": "Que pense la FCPE nationale de la mobilisation des lycéennes et lycéens ? « On ne peut pas demander aux jeunes de devenir des citoyens engagés – car cet engagement est valorisé L’article FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux » est apparu en premier sur Le Ca",
-      "link": "https://www.cafepedagogique.net/2026/10/02/fcpe-on-ne-peut-pas-demander-aux-jeunes-de-sengager-tout-en-exigeant-quils-restent-silencieux/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/acRossi-300x217.jpeg",
-      "publishedAt": "2026-10-02T03:45:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aq3wjq",
@@ -253,8 +319,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afvens5",
@@ -269,8 +335,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amp17bj",
@@ -285,8 +351,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ao008hd",
@@ -301,8 +367,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a443nlc",
@@ -319,7 +385,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +401,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +420,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -372,7 +438,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -388,7 +454,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -404,7 +470,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -420,7 +486,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -436,7 +502,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -452,7 +518,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -470,7 +536,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -488,7 +554,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -506,7 +572,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -524,8 +590,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ao1sb01",
@@ -540,8 +606,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a2euz06",
@@ -556,8 +622,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aap9ziw",
@@ -572,26 +638,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar0645f",
-      "title": "Quiz – Le baptême de l’Amérique par des humanistes vosgiens, un épisode historique méconnu",
-      "summary": "*Universalis cosmographia secundum Ptholomaei traditionem et Americi Vespucii aliorumque lustrationes*, Martin Waldseemüller, Strasbourg, 1507. Fourni par l'auteur Au début du XVIᵉ siècle, le monde connu des Européens est en pleine transformation. De nouveaux récits circulent, les cartes évoluent et les connaissances g",
-      "link": "https://theconversation.com/quiz-le-bapteme-de-lamerique-par-des-humanistes-vosgiens-un-episode-historique-meconnu-293263",
-      "image": "https://images.theconversation.com/files/763106/original/file-20260930-50-d2h50p.jpg?ixlib=rb-4.1.1&amp;rect=157%2C0%2C1605%2C1070&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-30T12:57:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "axhuauf",
@@ -606,8 +654,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a8kmnqw",
@@ -622,8 +670,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9ryl49",
@@ -638,8 +686,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aq8wf38",
@@ -654,55 +702,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aksp2e4",
-      "title": "Il y a urgence à surveiller le glacier Wilkes, ce mastodonte de l’Antarctique qui risque de fondre",
-      "summary": "L’ESSENTIEL Le bassin de Wilkes, en Antarctique, est gelé et en partie situé sous le niveau de la mer. Si toute sa glace venait à fondre en raison du changement climatique, le niveau global de la mer monterait de 3 à 4 mètres. C’est déjà arrivé par le passé, à des températures que nous risquons d’atteindre. Il est urge",
-      "link": "https://theconversation.com/il-y-a-urgence-a-surveiller-le-glacier-wilkes-ce-mastodonte-de-lantarctique-qui-risque-de-fondre-292791",
-      "image": "https://images.theconversation.com/files/758119/original/file-20260907-50-mgaelq.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-30T10:28:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5f6w7i",
-      "title": "Comment les arbres ajustent activement leur posture pour rester le plus droits possible",
-      "summary": "Les arbres disposent d’outils pour percevoir leur environnement… et pour y réagir. Inrae – UCA, CC BY-SA L’ESSENTIEL Envers et contre toutes les bourrasques et les tempêtes, certains arbres poussent droit, imperturbables. On sait, depuis les années 1950, que les troncs accueillent un type de bois particulier qui agit c",
-      "link": "https://theconversation.com/comment-les-arbres-ajustent-activement-leur-posture-pour-rester-le-plus-droits-possible-292184",
-      "image": "https://images.theconversation.com/files/761732/original/file-20260923-50-yyplua.png?ixlib=rb-4.1.1&amp;rect=24%2C0%2C876%2C584&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-30T10:07:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "af4ueuw",
-      "title": "Shampoing solide : pourquoi est-il si difficile de changer une formule et nos habitudes ?",
-      "summary": "Entre défis de formulation et habitudes tenaces, le shampoing solide peine à s’imposer durablement. Freestocks/Unsplash, CC BY L’ESSENTIEL Depuis les années 1930, le shampoing liquide a façonné nos attentes de mousse, de démêlage et de douceur. Formuler un shampoing solide performant est un vrai défi technique. Pour ad",
-      "link": "https://theconversation.com/shampoing-solide-pourquoi-est-il-si-difficile-de-changer-une-formule-et-nos-habitudes-291635",
-      "image": "https://images.theconversation.com/files/760860/original/file-20260918-50-o8ug6r.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5917%2C3944&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-30T10:06:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 38,
       "urgencyLevel": "basse"
     }
   ]
