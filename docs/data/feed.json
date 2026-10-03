@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T15:45:05.781Z",
+  "generatedAt": "2026-10-03T20:36:55.566Z",
   "themes": [
     {
       "id": "education-medias",
@@ -134,7 +134,23 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "av41aas",
+      "title": "Actualité de l’éducation du 28 septembre au 2 octobre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 28 septembre au 2 octobre 2026 est apparu en premier sur Le Café pédagog",
+      "link": "https://www.cafepedagogique.net/2026/10/03/actualite-de-leducation-du-28-septembre-au-2-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/violence-300x241.png",
+      "publishedAt": "2026-10-03T16:49:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -152,8 +168,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ap7b1as",
@@ -168,8 +184,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akraiz7",
@@ -184,8 +200,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amw0c6g",
@@ -200,8 +216,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aq3k96t",
@@ -218,7 +234,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -236,7 +252,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 64,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -252,7 +268,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -272,7 +288,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -288,7 +304,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +352,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +370,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,7 +386,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ad9wc15",
+      "title": "FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux »",
+      "summary": "Que pense la FCPE nationale de la mobilisation des lycéennes et lycéens ? « On ne peut pas demander aux jeunes de devenir des citoyens engagés – car cet engagement est valorisé L’article FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux » est apparu en premier sur Le Ca",
+      "link": "https://www.cafepedagogique.net/2026/10/02/fcpe-on-ne-peut-pas-demander-aux-jeunes-de-sengager-tout-en-exigeant-quils-restent-silencieux/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/acRossi-300x217.jpeg",
+      "publishedAt": "2026-10-02T03:45:30.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -388,7 +420,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -406,23 +438,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ad9wc15",
-      "title": "FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux »",
-      "summary": "Que pense la FCPE nationale de la mobilisation des lycéennes et lycéens ? « On ne peut pas demander aux jeunes de devenir des citoyens engagés – car cet engagement est valorisé L’article FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux » est apparu en premier sur Le Ca",
-      "link": "https://www.cafepedagogique.net/2026/10/02/fcpe-on-ne-peut-pas-demander-aux-jeunes-de-sengager-tout-en-exigeant-quils-restent-silencieux/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/acRossi-300x217.jpeg",
-      "publishedAt": "2026-10-02T03:45:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,7 +454,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -454,23 +470,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amp17bj",
-      "title": "SUD éducation appelle à se mobiliser avec les lycéens le 6 octobre",
-      "summary": "SUD éducation appelle les personnels à rejoindre la mobilisation lycéenne et étudiante du 6 octobre. Le syndicat dénonce la « répression » qui accompagne le mouvement dans plusieurs villes. « Leurs L’article SUD éducation appelle à se mobiliser avec les lycéens le 6 octobre est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/10/02/sud-education-appelle-a-se-mobiliser-avec-les-lyceens-le-6-octobre/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/sud-solidaires-300x258.png",
-      "publishedAt": "2026-10-02T03:27:07.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,8 +486,42 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "adxyod",
+      "title": "Made in China AI: new tech, same old story?",
+      "summary": "When Beijing-based AI firm Zhipu released its open-source General Language Model (GLM) and it began competing with Anthropic’s Claude and OpenAI’s ChatGPT at a fraction of the price, a familiar question resurfaced. Are we watching a new kind of intelligence, or a very old story? Solar panels and electric vehicles are a",
+      "link": "https://theconversation.com/made-in-china-ai-new-tech-same-old-story-291703",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-01T13:42:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "adfeuxl",
+      "title": "Nos pratiques funéraires sont-elles gravées dans le marbre ? Ce que l’archéothanatologie nous apprend des funérailles du passé",
+      "summary": "La chambre funéraire de St Lythans, au Royaume-Uni, témoigne de pratiques remontant au milieu du Néolithique, 4000 ans avant notre ère. Chris Andrews / Wikimedia Commons, CC BY Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Dem",
+      "link": "https://theconversation.com/nos-pratiques-funeraires-sont-elles-gravees-dans-le-marbre-ce-que-larcheothanatologie-nous-apprend-des-funerailles-du-passe-278243",
+      "image": "https://images.theconversation.com/files/760555/original/file-20260917-70-fyjpe3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C216%2C2592%2C1728&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T13:49:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "als2ro6",
@@ -505,89 +539,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "adxyod",
-      "title": "Made in China AI: new tech, same old story?",
-      "summary": "When Beijing-based AI firm Zhipu released its open-source General Language Model (GLM) and it began competing with Anthropic’s Claude and OpenAI’s ChatGPT at a fraction of the price, a familiar question resurfaced. Are we watching a new kind of intelligence, or a very old story? Solar panels and electric vehicles are a",
-      "link": "https://theconversation.com/made-in-china-ai-new-tech-same-old-story-291703",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-01T13:42:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "adfeuxl",
-      "title": "Nos pratiques funéraires sont-elles gravées dans le marbre ? Ce que l’archéothanatologie nous apprend des funérailles du passé",
-      "summary": "La chambre funéraire de St Lythans, au Royaume-Uni, témoigne de pratiques remontant au milieu du Néolithique, 4000 ans avant notre ère. Chris Andrews / Wikimedia Commons, CC BY Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Dem",
-      "link": "https://theconversation.com/nos-pratiques-funeraires-sont-elles-gravees-dans-le-marbre-ce-que-larcheothanatologie-nous-apprend-des-funerailles-du-passe-278243",
-      "image": "https://images.theconversation.com/files/760555/original/file-20260917-70-fyjpe3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C216%2C2592%2C1728&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-01T13:49:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajztdem",
-      "title": "Le régime iranien va-t-il perdre son influence sur l’Irak ?",
-      "summary": "L’ESSENTIEL L’escalade iranienne au Moyen-Orient fragilise les milices chiites irakiennes proches de Téhéran. Des figures chiites de premier plan dénoncent l’implication de l’Irak dans la guerre et l’influence iranienne. L’escalade actuelle risque d’affaiblir l’influence iranienne auprès d’une partie de la population c",
-      "link": "https://theconversation.com/le-regime-iranien-va-t-il-perdre-son-influence-sur-lirak-292968",
-      "image": "https://counter.theconversation.com/content/292968/count.gif",
-      "publishedAt": "2026-10-01T13:39:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5n20i",
-      "title": "Tentative de détournement du vol Flydubai   quel impact sur les législatives israéliennes ?",
-      "summary": "Le 30 septembre, à l’aéroport Ben Gourion de Tel-Aviv, Benyamin Nétanyahou s’entretient avec Yaniv Hayoun (l’un des passagers ayant neutralisé le co-pilote qui venait de poignarder le pilote de l’avion) et sa famille. Le vol a finalement pu se poser sur un aéroport saoudien, et un autre vol a permis aux passagers de re",
-      "link": "https://theconversation.com/tentative-de-detournement-du-vol-flydubai-quel-impact-sur-les-legislatives-israeliennes-293366",
-      "image": "https://images.theconversation.com/files/763386/original/file-20261001-50-kp9yew.jpeg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C2557%2C1705&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-01T13:38:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajzq4pl",
-      "title": "Pourquoi le « coût par utilisation » pourrait révolutionner nos achats de vêtements",
-      "summary": "Le « coût par utilisation » rapporte le prix d’achat au nombre de fois où un vêtement est porté. Rneaw/Shutterstock L’ESSENTIEL Le « coût par utilisation » montre qu’un vêtement de qualité est souvent plus rentable qu’il n’y paraît. Afficher cet indicateur incite les consommateurs à privilégier des vêtements plus durab",
-      "link": "https://theconversation.com/pourquoi-le-cout-par-utilisation-pourrait-revolutionner-nos-achats-de-vetements-288016",
-      "image": "https://images.theconversation.com/files/749156/original/file-20260220-76-ahrysu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3983%2C2656&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-01T13:38:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -605,7 +557,55 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 38,
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ajztdem",
+      "title": "Le régime iranien va-t-il perdre son influence sur l’Irak ?",
+      "summary": "L’ESSENTIEL L’escalade iranienne au Moyen-Orient fragilise les milices chiites irakiennes proches de Téhéran. Des figures chiites de premier plan dénoncent l’implication de l’Irak dans la guerre et l’influence iranienne. L’escalade actuelle risque d’affaiblir l’influence iranienne auprès d’une partie de la population c",
+      "link": "https://theconversation.com/le-regime-iranien-va-t-il-perdre-son-influence-sur-lirak-292968",
+      "image": "https://counter.theconversation.com/content/292968/count.gif",
+      "publishedAt": "2026-10-01T13:39:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a5n20i",
+      "title": "Tentative de détournement du vol Flydubai   quel impact sur les législatives israéliennes ?",
+      "summary": "Le 30 septembre, à l’aéroport Ben Gourion de Tel-Aviv, Benyamin Nétanyahou s’entretient avec Yaniv Hayoun (l’un des passagers ayant neutralisé le co-pilote qui venait de poignarder le pilote de l’avion) et sa famille. Le vol a finalement pu se poser sur un aéroport saoudien, et un autre vol a permis aux passagers de re",
+      "link": "https://theconversation.com/tentative-de-detournement-du-vol-flydubai-quel-impact-sur-les-legislatives-israeliennes-293366",
+      "image": "https://images.theconversation.com/files/763386/original/file-20261001-50-kp9yew.jpeg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C2557%2C1705&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T13:38:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ajzq4pl",
+      "title": "Pourquoi le « coût par utilisation » pourrait révolutionner nos achats de vêtements",
+      "summary": "Le « coût par utilisation » rapporte le prix d’achat au nombre de fois où un vêtement est porté. Rneaw/Shutterstock L’ESSENTIEL Le « coût par utilisation » montre qu’un vêtement de qualité est souvent plus rentable qu’il n’y paraît. Afficher cet indicateur incite les consommateurs à privilégier des vêtements plus durab",
+      "link": "https://theconversation.com/pourquoi-le-cout-par-utilisation-pourrait-revolutionner-nos-achats-de-vetements-288016",
+      "image": "https://images.theconversation.com/files/749156/original/file-20260220-76-ahrysu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3983%2C2656&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T13:38:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -621,7 +621,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -639,7 +639,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -657,7 +657,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -673,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -689,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -705,7 +705,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
