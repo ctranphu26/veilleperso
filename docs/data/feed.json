@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T21:50:39.885Z",
+  "generatedAt": "2026-10-03T03:53:47.928Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -187,8 +187,8 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arzg4xd",
@@ -203,8 +203,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apjx0f8",
@@ -219,7 +219,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,7 +235,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +251,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ad9wc15",
+      "title": "FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux »",
+      "summary": "Que pense la FCPE nationale de la mobilisation des lycéennes et lycéens ? « On ne peut pas demander aux jeunes de devenir des citoyens engagés – car cet engagement est valorisé L’article FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux » est apparu en premier sur Le Ca",
+      "link": "https://www.cafepedagogique.net/2026/10/02/fcpe-on-ne-peut-pas-demander-aux-jeunes-de-sengager-tout-en-exigeant-quils-restent-silencieux/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/acRossi-300x217.jpeg",
+      "publishedAt": "2026-10-02T03:45:30.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,105 +285,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar9doew",
-      "title": "SES : « Les savoirs critiques seront une cible en 2027 »",
-      "summary": "Alors que commence une année scolaire dont les enjeux vont être particulièrement cruciaux pour l’Ecole, le Café pédagogique a souhaité mettre en lumière les associations disciplinaires, leur engagement et leurs L’article SES : « Les savoirs critiques seront une cible en 2027 » est apparu en premier sur Le Café pédagogi",
-      "link": "https://www.cafepedagogique.net/2026/10/02/ses-les-savoirs-critiques-seront-une-cible-en-2027/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Le-bureau-de-lAPSES-e1790867962881-300x205.jpeg",
-      "publishedAt": "2026-10-02T03:30:49.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ad9wc15",
-      "title": "FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux »",
-      "summary": "Que pense la FCPE nationale de la mobilisation des lycéennes et lycéens ? « On ne peut pas demander aux jeunes de devenir des citoyens engagés – car cet engagement est valorisé L’article FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux » est apparu en premier sur Le Ca",
-      "link": "https://www.cafepedagogique.net/2026/10/02/fcpe-on-ne-peut-pas-demander-aux-jeunes-de-sengager-tout-en-exigeant-quils-restent-silencieux/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/acRossi-300x217.jpeg",
-      "publishedAt": "2026-10-02T03:45:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq3wjq",
-      "title": "Bachibac : le programme de littérature espagnole pour 2028 et 2029",
-      "summary": "Dans une note de service, le ministère de l’Éducation nationale publie le programme limitatif de l’épreuve écrite de langue et littérature espagnoles du Bachibac pour les sessions 2028 et 2029. L’article Bachibac : le programme de littérature espagnole pour 2028 et 2029 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/02/bachibac-le-programme-de-litterature-espagnole-pour-2028-et-2029/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/bachibac-211x300.jpg",
-      "publishedAt": "2026-10-02T03:29:48.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afvens5",
-      "title": "La FSU « aux côtés » des lycéens et des étudiants mobilisés",
-      "summary": "La FSU apporte son soutien aux mobilisations lycéennes et étudiantes qui se multiplient dans le pays. Le syndicat relaie leurs revendications sur les effectifs, le manque de personnels, les conditions L’article La FSU « aux côtés » des lycéens et des étudiants mobilisés est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/02/la-fsu-aux-cotes-des-lyceens-et-des-etudiants-mobilises/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/fsu-300x166.png",
-      "publishedAt": "2026-10-02T03:27:51.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amp17bj",
-      "title": "SUD éducation appelle à se mobiliser avec les lycéens le 6 octobre",
-      "summary": "SUD éducation appelle les personnels à rejoindre la mobilisation lycéenne et étudiante du 6 octobre. Le syndicat dénonce la « répression » qui accompagne le mouvement dans plusieurs villes. « Leurs L’article SUD éducation appelle à se mobiliser avec les lycéens le 6 octobre est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/10/02/sud-education-appelle-a-se-mobiliser-avec-les-lyceens-le-6-octobre/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/sud-solidaires-300x258.png",
-      "publishedAt": "2026-10-02T03:27:07.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ao008hd",
-      "title": "Comment reconnait-on un artiste ?",
-      "summary": "Avec la création de l’Académie royale de Peinture et de Sculpture au 17e siècle, les artistes s’affranchissent de la condition d’artisan. Au 19e siècle, ils entrent dans un régime de L’article Comment reconnait-on un artiste ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/02/comment-reconnait-on-un-artiste/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/affiche-etoffe-de-lartiste-212x300.jpg",
-      "publishedAt": "2026-10-02T03:28:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -385,7 +303,25 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ar9doew",
+      "title": "SES : « Les savoirs critiques seront une cible en 2027 »",
+      "summary": "Alors que commence une année scolaire dont les enjeux vont être particulièrement cruciaux pour l’Ecole, le Café pédagogique a souhaité mettre en lumière les associations disciplinaires, leur engagement et leurs L’article SES : « Les savoirs critiques seront une cible en 2027 » est apparu en premier sur Le Café pédagogi",
+      "link": "https://www.cafepedagogique.net/2026/10/02/ses-les-savoirs-critiques-seront-une-cible-en-2027/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Le-bureau-de-lAPSES-e1790867962881-300x205.jpeg",
+      "publishedAt": "2026-10-02T03:30:49.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -401,73 +337,71 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "adxyod",
-      "title": "Made in China AI: new tech, same old story?",
-      "summary": "When Beijing-based AI firm Zhipu released its open-source General Language Model (GLM) and it began competing with Anthropic’s Claude and OpenAI’s ChatGPT at a fraction of the price, a familiar question resurfaced. Are we watching a new kind of intelligence, or a very old story? Solar panels and electric vehicles are a",
-      "link": "https://theconversation.com/made-in-china-ai-new-tech-same-old-story-291703",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-01T13:42:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adfeuxl",
-      "title": "Nos pratiques funéraires sont-elles gravées dans le marbre ? Ce que l’archéothanatologie nous apprend des funérailles du passé",
-      "summary": "La chambre funéraire de St Lythans, au Royaume-Uni, témoigne de pratiques remontant au milieu du Néolithique, 4000 ans avant notre ère. Chris Andrews / Wikimedia Commons, CC BY Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Dem",
-      "link": "https://theconversation.com/nos-pratiques-funeraires-sont-elles-gravees-dans-le-marbre-ce-que-larcheothanatologie-nous-apprend-des-funerailles-du-passe-278243",
-      "image": "https://images.theconversation.com/files/760555/original/file-20260917-70-fyjpe3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C216%2C2592%2C1728&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-01T13:49:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "aq3wjq",
+      "title": "Bachibac : le programme de littérature espagnole pour 2028 et 2029",
+      "summary": "Dans une note de service, le ministère de l’Éducation nationale publie le programme limitatif de l’épreuve écrite de langue et littérature espagnoles du Bachibac pour les sessions 2028 et 2029. L’article Bachibac : le programme de littérature espagnole pour 2028 et 2029 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/02/bachibac-le-programme-de-litterature-espagnole-pour-2028-et-2029/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/bachibac-211x300.jpg",
+      "publishedAt": "2026-10-02T03:29:48.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "ajztdem",
-      "title": "Le régime iranien va-t-il perdre son influence sur l’Irak ?",
-      "summary": "L’ESSENTIEL L’escalade iranienne au Moyen-Orient fragilise les milices chiites irakiennes proches de Téhéran. Des figures chiites de premier plan dénoncent l’implication de l’Irak dans la guerre et l’influence iranienne. L’escalade actuelle risque d’affaiblir l’influence iranienne auprès d’une partie de la population c",
-      "link": "https://theconversation.com/le-regime-iranien-va-t-il-perdre-son-influence-sur-lirak-292968",
-      "image": "https://counter.theconversation.com/content/292968/count.gif",
-      "publishedAt": "2026-10-01T13:39:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "afvens5",
+      "title": "La FSU « aux côtés » des lycéens et des étudiants mobilisés",
+      "summary": "La FSU apporte son soutien aux mobilisations lycéennes et étudiantes qui se multiplient dans le pays. Le syndicat relaie leurs revendications sur les effectifs, le manque de personnels, les conditions L’article La FSU « aux côtés » des lycéens et des étudiants mobilisés est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/02/la-fsu-aux-cotes-des-lyceens-et-des-etudiants-mobilises/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/fsu-300x166.png",
+      "publishedAt": "2026-10-02T03:27:51.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "a5n20i",
-      "title": "Tentative de détournement du vol Flydubai   quel impact sur les législatives israéliennes ?",
-      "summary": "Le 30 septembre, à l’aéroport Ben Gourion de Tel-Aviv, Benyamin Nétanyahou s’entretient avec Yaniv Hayoun (l’un des passagers ayant neutralisé le co-pilote qui venait de poignarder le pilote de l’avion) et sa famille. Le vol a finalement pu se poser sur un aéroport saoudien, et un autre vol a permis aux passagers de re",
-      "link": "https://theconversation.com/tentative-de-detournement-du-vol-flydubai-quel-impact-sur-les-legislatives-israeliennes-293366",
-      "image": "https://images.theconversation.com/files/763386/original/file-20261001-50-kp9yew.jpeg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C2557%2C1705&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-01T13:38:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "amp17bj",
+      "title": "SUD éducation appelle à se mobiliser avec les lycéens le 6 octobre",
+      "summary": "SUD éducation appelle les personnels à rejoindre la mobilisation lycéenne et étudiante du 6 octobre. Le syndicat dénonce la « répression » qui accompagne le mouvement dans plusieurs villes. « Leurs L’article SUD éducation appelle à se mobiliser avec les lycéens le 6 octobre est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/10/02/sud-education-appelle-a-se-mobiliser-avec-les-lyceens-le-6-octobre/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/sud-solidaires-300x258.png",
+      "publishedAt": "2026-10-02T03:27:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ao008hd",
+      "title": "Comment reconnait-on un artiste ?",
+      "summary": "Avec la création de l’Académie royale de Peinture et de Sculpture au 17e siècle, les artistes s’affranchissent de la condition d’artisan. Au 19e siècle, ils entrent dans un régime de L’article Comment reconnait-on un artiste ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/02/comment-reconnait-on-un-artiste/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/affiche-etoffe-de-lartiste-212x300.jpg",
+      "publishedAt": "2026-10-02T03:28:58.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,7 +420,73 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "adxyod",
+      "title": "Made in China AI: new tech, same old story?",
+      "summary": "When Beijing-based AI firm Zhipu released its open-source General Language Model (GLM) and it began competing with Anthropic’s Claude and OpenAI’s ChatGPT at a fraction of the price, a familiar question resurfaced. Are we watching a new kind of intelligence, or a very old story? Solar panels and electric vehicles are a",
+      "link": "https://theconversation.com/made-in-china-ai-new-tech-same-old-story-291703",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-01T13:42:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "adfeuxl",
+      "title": "Nos pratiques funéraires sont-elles gravées dans le marbre ? Ce que l’archéothanatologie nous apprend des funérailles du passé",
+      "summary": "La chambre funéraire de St Lythans, au Royaume-Uni, témoigne de pratiques remontant au milieu du Néolithique, 4000 ans avant notre ère. Chris Andrews / Wikimedia Commons, CC BY Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Dem",
+      "link": "https://theconversation.com/nos-pratiques-funeraires-sont-elles-gravees-dans-le-marbre-ce-que-larcheothanatologie-nous-apprend-des-funerailles-du-passe-278243",
+      "image": "https://images.theconversation.com/files/760555/original/file-20260917-70-fyjpe3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C216%2C2592%2C1728&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T13:49:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ajztdem",
+      "title": "Le régime iranien va-t-il perdre son influence sur l’Irak ?",
+      "summary": "L’ESSENTIEL L’escalade iranienne au Moyen-Orient fragilise les milices chiites irakiennes proches de Téhéran. Des figures chiites de premier plan dénoncent l’implication de l’Irak dans la guerre et l’influence iranienne. L’escalade actuelle risque d’affaiblir l’influence iranienne auprès d’une partie de la population c",
+      "link": "https://theconversation.com/le-regime-iranien-va-t-il-perdre-son-influence-sur-lirak-292968",
+      "image": "https://counter.theconversation.com/content/292968/count.gif",
+      "publishedAt": "2026-10-01T13:39:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5n20i",
+      "title": "Tentative de détournement du vol Flydubai   quel impact sur les législatives israéliennes ?",
+      "summary": "Le 30 septembre, à l’aéroport Ben Gourion de Tel-Aviv, Benyamin Nétanyahou s’entretient avec Yaniv Hayoun (l’un des passagers ayant neutralisé le co-pilote qui venait de poignarder le pilote de l’avion) et sa famille. Le vol a finalement pu se poser sur un aéroport saoudien, et un autre vol a permis aux passagers de re",
+      "link": "https://theconversation.com/tentative-de-detournement-du-vol-flydubai-quel-impact-sur-les-legislatives-israeliennes-293366",
+      "image": "https://images.theconversation.com/files/763386/original/file-20261001-50-kp9yew.jpeg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C2557%2C1705&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T13:38:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -502,7 +502,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -518,7 +518,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -536,7 +536,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -572,7 +572,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -590,7 +590,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -606,7 +606,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -622,7 +622,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -638,7 +638,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -654,7 +654,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -670,7 +670,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -686,7 +686,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -702,7 +702,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     }
   ]
