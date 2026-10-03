@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T11:08:36.342Z",
+  "generatedAt": "2026-10-03T15:45:05.781Z",
   "themes": [
     {
       "id": "education-medias",
@@ -134,7 +134,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 87,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -168,7 +168,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -184,7 +184,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -200,7 +200,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -218,8 +218,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asgwoxz",
@@ -236,7 +236,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -252,7 +252,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -272,7 +272,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -288,7 +288,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +304,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,24 +336,6 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awa7c2p",
-      "title": "Mon orientation en ligne : une ressource ONISEP pour accompagner la réflexion des élèves",
-      "summary": "Mon orientation en ligne, service gratuit de l’Onisep, prolonge et complète l’accompagnement proposé par les équipes éducatives aux élèves de collège et de lycée en matière d’orientation scolaire et professionnelle. L’article Mon orientation en ligne : une ressource ONISEP pour accompagner la réflexion des élèves est a",
-      "link": "https://www.cafepedagogique.net/2026/10/02/mon-orientation-en-ligne-une-ressource-onisep-pour-accompagner-la-reflexion-des-eleves/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Image-MOEL-e1790868366393-285x300.png",
-      "publishedAt": "2026-10-02T03:28:59.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
       "urgency": 51,
       "urgencyLevel": "moyenne"
     },
@@ -372,7 +354,41 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 49,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a33tgzj",
+      "title": "Comment la viande de poulet a conquis le monde ?",
+      "summary": "Le poulet est devenu la viande la plus consommée en France, en 2024. Inrae/UE EASM, Fourni par l'auteur L’ESSENTIEL La viande de poulet est aujourd’hui la première viande consommée à travers le monde. Ce succès s’explique par des raisons nutritionnelles, culturelles et économiques. Il a été permis par l’évolution des t",
+      "link": "https://theconversation.com/comment-la-viande-de-poulet-a-conquis-le-monde-292820",
+      "image": "https://images.theconversation.com/files/762494/original/file-20260928-50-jydsp.JPG?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1600%2C1066&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-01T12:40:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 49,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awa7c2p",
+      "title": "Mon orientation en ligne : une ressource ONISEP pour accompagner la réflexion des élèves",
+      "summary": "Mon orientation en ligne, service gratuit de l’Onisep, prolonge et complète l’accompagnement proposé par les équipes éducatives aux élèves de collège et de lycée en matière d’orientation scolaire et professionnelle. L’article Mon orientation en ligne : une ressource ONISEP pour accompagner la réflexion des élèves est a",
+      "link": "https://www.cafepedagogique.net/2026/10/02/mon-orientation-en-ligne-une-ressource-onisep-pour-accompagner-la-reflexion-des-eleves/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Image-MOEL-e1790868366393-285x300.png",
+      "publishedAt": "2026-10-02T03:28:59.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -390,23 +406,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a33tgzj",
-      "title": "Comment la viande de poulet a conquis le monde ?",
-      "summary": "Le poulet est devenu la viande la plus consommée en France, en 2024. Inrae/UE EASM, Fourni par l'auteur L’ESSENTIEL La viande de poulet est aujourd’hui la première viande consommée à travers le monde. Ce succès s’explique par des raisons nutritionnelles, culturelles et économiques. Il a été permis par l’évolution des t",
-      "link": "https://theconversation.com/comment-la-viande-de-poulet-a-conquis-le-monde-292820",
-      "image": "https://images.theconversation.com/files/762494/original/file-20260928-50-jydsp.JPG?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1600%2C1066&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-01T12:40:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -422,7 +422,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,7 +438,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -454,7 +454,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -470,7 +470,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,7 +486,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -505,8 +505,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "adxyod",
@@ -523,8 +523,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "adfeuxl",
@@ -539,8 +539,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ajztdem",
@@ -555,8 +555,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5n20i",
@@ -571,8 +571,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ajzq4pl",
@@ -587,8 +587,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5irbgv",
@@ -605,8 +605,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "az1x3v2",
@@ -621,8 +621,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ap0w301",
@@ -639,7 +639,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -657,7 +657,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -673,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -689,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -705,7 +705,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     }
   ]
