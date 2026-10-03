@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T03:53:47.928Z",
+  "generatedAt": "2026-10-03T11:08:36.342Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,91 @@
   "count": 35,
   "items": [
     {
+      "id": "a8igos6",
+      "title": "Manger à l’ère des algorithmes : quelles vulnérabilités pour les jeunes ?",
+      "summary": "L’ESSENTIEL Les données se multiplient quant aux risques que les réseaux sociaux font courir aux adolescent·es concernant leur rapport au corps et à l’alimentation. Une recherche étudie comment, loin d’être passives, certaines jeunes personnes développent des stratégies pour tenter d’échapper aux contenus problématique",
+      "link": "https://theconversation.com/manger-a-lere-des-algorithmes-quelles-vulnerabilites-pour-les-jeunes-288962",
+      "image": "https://counter.theconversation.com/content/288962/count.gif",
+      "publishedAt": "2026-10-03T08:50:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux",
+        "algorithme"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arn8i8b",
+      "title": "Ce que les vidéos de placards bien rangés révèlent de l’évolution des réseaux sociaux",
+      "summary": "Entre esthétique soignée, sons ASMR et incitation à consommer, la tendance « restock » transforme les tâches domestiques en spectacle et redéfinit l’authenticité sur les réseaux sociaux. Faithie/Shutterstock L’ESSENTIEL Les vidéos de « réapprovisionnement », regroupées sous le hashtag RestockTok, transforment le rangem",
+      "link": "https://theconversation.com/ce-que-les-videos-de-placards-bien-ranges-revelent-de-levolution-des-reseaux-sociaux-293372",
+      "image": "https://images.theconversation.com/files/763384/original/file-20260617-71-8spu7e.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6694%2C4462&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-03T08:49:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ap7b1as",
+      "title": "Apprendre à bien manger : comment penser l’éducation à l’alimentation ?",
+      "summary": "L’ESSENTIEL L’éducation à l’alimentation est un enjeu essentiel à tous les âges de la vie. Pour bien manger, il faut un minimum de connaissances en santé. Mais il s’agit aussi de comprendre comment les aliments arrivent dans notre assiette. S’il y a un certain nombre de paramètres à respecter, y a-t-il pour autant une ",
+      "link": "https://theconversation.com/apprendre-a-bien-manger-comment-penser-leducation-a-lalimentation-288550",
+      "image": "https://counter.theconversation.com/content/288550/count.gif",
+      "publishedAt": "2026-10-03T08:50:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akraiz7",
+      "title": "Goût, santé, lien social, créativité… À la recherche de la recette du bonheur gastronomique",
+      "summary": "Bien manger ne se résume pas à ce qu’il y a dans l’assiette. Ici à Saint-Sébastien en Espagne. MikeDotta/Shutterstock L’ESSENTIEL Le plaisir de manger dépend du goût, mais aussi des sens, des émotions, du partage et du contexte. La « gastronomie du bonheur » cherche à intégrer nutrition, créativité, durabilité et bien-",
+      "link": "https://theconversation.com/gout-sante-lien-social-creativite-a-la-recherche-de-la-recette-du-bonheur-gastronomique-293392",
+      "image": "https://images.theconversation.com/files/763418/original/file-20260904-50-4r3nvp.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5472%2C3648&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-03T08:49:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amw0c6g",
+      "title": "Le simple nom d’un aliment influence la perception que l’on a de son poids",
+      "summary": "Nous avons tendance à associer certains sons, comme « i » ou « t », à de petites tailles, et d’autres, comme « o » ou « b », à de grandes tailles. Une nouvelle étude montre que ces associations influencent aussi notre perception des en-cas. (Unsplash) L’ESSENTIEL La sonorité du nom d’un aliment influence la perception ",
+      "link": "https://theconversation.com/le-simple-nom-dun-aliment-influence-la-perception-que-lon-a-de-son-poids-293391",
+      "image": "https://images.theconversation.com/files/763417/original/file-20260921-50-nr4g69.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C2400%2C1600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-03T08:48:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aq3k96t",
       "title": "Budget de l’éducation 2027 : 1 588 suppressions de postes",
       "summary": "Alors que les lycéens se mobilisent depuis plusieurs jours pour des moyens d’apprentissage dignes, le gouvernement a présenté jeudi 1ᵉʳ octobre le projet de loi de finances pour 2027. Qu’annonce L’article Budget de l’éducation 2027 : 1 588 suppressions de postes est apparu en premier sur Le Café pédagogique.",
@@ -133,7 +218,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -151,8 +236,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aoiywci",
@@ -167,8 +252,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auly3sx",
@@ -187,7 +272,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -203,7 +288,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -219,7 +304,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,7 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,23 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ad9wc15",
-      "title": "FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux »",
-      "summary": "Que pense la FCPE nationale de la mobilisation des lycéennes et lycéens ? « On ne peut pas demander aux jeunes de devenir des citoyens engagés – car cet engagement est valorisé L’article FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux » est apparu en premier sur Le Ca",
-      "link": "https://www.cafepedagogique.net/2026/10/02/fcpe-on-ne-peut-pas-demander-aux-jeunes-de-sengager-tout-en-exigeant-quils-restent-silencieux/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/acRossi-300x217.jpeg",
-      "publishedAt": "2026-10-02T03:45:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +354,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -303,7 +372,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -321,7 +390,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -337,7 +406,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ad9wc15",
+      "title": "FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux »",
+      "summary": "Que pense la FCPE nationale de la mobilisation des lycéennes et lycéens ? « On ne peut pas demander aux jeunes de devenir des citoyens engagés – car cet engagement est valorisé L’article FCPE : « On ne peut pas demander aux jeunes de s’engager tout en exigeant qu’ils restent silencieux » est apparu en premier sur Le Ca",
+      "link": "https://www.cafepedagogique.net/2026/10/02/fcpe-on-ne-peut-pas-demander-aux-jeunes-de-sengager-tout-en-exigeant-quils-restent-silencieux/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/acRossi-300x217.jpeg",
+      "publishedAt": "2026-10-02T03:45:30.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -353,7 +438,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,7 +454,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -385,7 +470,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -401,7 +486,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -420,7 +505,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,7 +523,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -454,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -470,7 +555,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,7 +571,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -502,41 +587,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "az1x3v2",
-      "title": "Élections au Brésil : une campagne terne et numérique qui accroît l’incertitude sur l’issue du scrutin",
-      "summary": "L’ESSENTIEL À quelques jours de l’élection présidentielle au Brésil, Lula devance Flávio Bolsonaro, mais près d’un tiers des électeurs restent indécis. La campagne, peu visible dans les rues et largement numérique, peine à mobiliser les électeurs. Les élections au Congrès seront aussi décisives pour la capacité du proc",
-      "link": "https://theconversation.com/elections-au-bresil-une-campagne-terne-et-numerique-qui-accroit-lincertitude-sur-lissue-du-scrutin-293250",
-      "image": "https://counter.theconversation.com/content/293250/count.gif",
-      "publishedAt": "2026-10-01T10:44:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ap0w301",
-      "title": "La biodiversité commune, grande oubliée des politiques de conservation en Europe",
-      "summary": "L’ESSENTIEL Les mesures de protection de la biodiversité ciblent souvent des espèces menacées emblématiques laissant de côté la biodiversité dite « commune ». Une étude inédite réalisée à l’échelle européenne montre que ces espèces communes déclinent dans tous les scénarios envisagés pour protéger la biodiversité. Dans",
-      "link": "https://theconversation.com/la-biodiversite-commune-grande-oubliee-des-politiques-de-conservation-en-europe-292260",
-      "image": "https://images.theconversation.com/files/763119/original/file-20260930-50-eqps6f.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-01T09:10:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 87,
-      "relevanceLevel": "haute",
-      "urgency": 43,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -554,26 +605,42 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "aulqmx0",
-      "title": "Loi intégrale contre les violences sexistes et sexuelles : des moyens enfin suffisants ?",
-      "summary": "L’ESSENTIEL L’Assemblée nationale examine une proposition de loi intégrale contre les violences sexistes et sexuelles à partir du jeudi 1er octobre. Elle prévoit notamment la création d’unités spécialisées au sein de la police judiciaire et de juges aux violences sexuelles et intrafamiliales, sur le modèle espagnol. La",
-      "link": "https://theconversation.com/loi-integrale-contre-les-violences-sexistes-et-sexuelles-des-moyens-enfin-suffisants-292626",
-      "image": "https://counter.theconversation.com/content/292626/count.gif",
-      "publishedAt": "2026-09-30T13:04:07.000Z",
+      "id": "az1x3v2",
+      "title": "Élections au Brésil : une campagne terne et numérique qui accroît l’incertitude sur l’issue du scrutin",
+      "summary": "L’ESSENTIEL À quelques jours de l’élection présidentielle au Brésil, Lula devance Flávio Bolsonaro, mais près d’un tiers des électeurs restent indécis. La campagne, peu visible dans les rues et largement numérique, peine à mobiliser les électeurs. Les élections au Congrès seront aussi décisives pour la capacité du proc",
+      "link": "https://theconversation.com/elections-au-bresil-une-campagne-terne-et-numerique-qui-accroit-lincertitude-sur-lissue-du-scrutin-293250",
+      "image": "https://counter.theconversation.com/content/293250/count.gif",
+      "publishedAt": "2026-10-01T10:44:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ap0w301",
+      "title": "La biodiversité commune, grande oubliée des politiques de conservation en Europe",
+      "summary": "L’ESSENTIEL Les mesures de protection de la biodiversité ciblent souvent des espèces menacées emblématiques laissant de côté la biodiversité dite « commune ». Une étude inédite réalisée à l’échelle européenne montre que ces espèces communes déclinent dans tous les scénarios envisagés pour protéger la biodiversité. Dans",
+      "link": "https://theconversation.com/la-biodiversite-commune-grande-oubliee-des-politiques-de-conservation-en-europe-292260",
+      "image": "https://images.theconversation.com/files/763119/original/file-20260930-50-eqps6f.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-01T09:10:00.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "inclusion",
       "keywords": [
-        "violences"
+        "diversité"
       ],
-      "relevance": 83,
+      "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apvwig6",
@@ -590,7 +657,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -606,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -622,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -638,71 +705,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "axhuauf",
-      "title": "Les insectes sont-ils vraiment une nourriture de pauvre ?",
-      "summary": "*Catzos blancos* (_Platycoelia lutescens_) : scarabées adultes mangés à Quito et dans ses environs (Équateur). Fourni par l'auteur L’ESSENTIEL La consommation d’insectes est souvent perçue comme étant seulement un dernier recours en cas de famine ou de grande pauvreté. Pourtant, dans les pays où ils sont habituellement",
-      "link": "https://theconversation.com/les-insectes-sont-ils-vraiment-une-nourriture-de-pauvre-292720",
-      "image": "https://images.theconversation.com/files/761778/original/file-20260923-50-85128f.jpg?ixlib=rb-4.1.1&amp;rect=108%2C0%2C1172%2C781&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-09-30T13:29:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8kmnqw",
-      "title": "Pope Leo XIV’s Europe",
-      "summary": "KEY TAKEAWAYS Pope Leo XIV’s views on international politics set out a vision that rejects the logic of power and imperialism in favour of diplomacy, the rule of law and multilateral institutions. Europe occupies a central place in this vision: the Pope sees the European Union as a project that transcends national riva",
-      "link": "https://theconversation.com/pope-leo-xivs-europe-293230",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-09-30T13:26:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9ryl49",
-      "title": "Fromages, terroir et libre-échange : l’Argentine prise entre l’Europe et les États-Unis",
-      "summary": "L’ESSENTIEL L’Argentine est prise entre deux modèles commerciaux : ses engagements envers l’Union européenne sur les indications géographiques et envers les États-Unis sur les appellations de fromages entrent potentiellement en contradiction, illustrant la « guerre du terroir ». Washington cherche à verrouiller les mar",
-      "link": "https://theconversation.com/fromages-terroir-et-libre-echange-largentine-prise-entre-leurope-et-les-etats-unis-291333",
-      "image": "https://images.theconversation.com/files/759688/original/file-20260914-50-j3i79y.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-09-30T13:03:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aq8wf38",
-      "title": "Un mariage La Poste–Orange est-il possible après l’acquisition de l’opérateur italien de télécommunication TIM par Poste Italiane ?",
-      "summary": "L’ESSENTIEL L’entreprise publique Poste Italiane a mené une OPA sur TIM, ex Telecom Italia. En France, ce mariage peut donner des idées à La Poste et à Orange, ex-France Télécom. Une tendance émerge de ces fusions : le retour de l’État stratège et l’assouplissement des règles de concentration à Bruxelles. En mars 2026,",
-      "link": "https://theconversation.com/un-mariage-la-poste-orange-est-il-possible-apres-lacquisition-de-loperateur-italien-de-telecommunication-tim-par-poste-italiane-291885",
-      "image": "https://counter.theconversation.com/content/291885/count.gif",
-      "publishedAt": "2026-09-30T13:03:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     }
   ]
