@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:40:22.756Z",
+  "generatedAt": "2026-10-05T23:46:01.096Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -163,23 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ag0ncbh",
-      "title": "Brest : le Tribunal Administratif suspend l’interdiction préfectorale de rassemblement devant cinq établissements scolaires",
-      "summary": "« Une victoire pour les libertés » : saisi en référé par plusieurs syndicats et associations, le juge des référés de Rennes a suspendu, samedi 3 octobre, l’arrêté du préfet L’article Brest : le Tribunal Administratif suspend l’interdiction préfectorale de rassemblement devant cinq établissements scolaires est apparu en",
-      "link": "https://www.cafepedagogique.net/2026/10/05/brest-le-tribunal-administratif-suspend-linterdiction-prefectorale-de-rassemblement-devant-cinq-etablissements-scolaires/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/telechargement.png",
-      "publishedAt": "2026-10-05T03:55:57.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -198,7 +182,23 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ag0ncbh",
+      "title": "Brest : le Tribunal Administratif suspend l’interdiction préfectorale de rassemblement devant cinq établissements scolaires",
+      "summary": "« Une victoire pour les libertés » : saisi en référé par plusieurs syndicats et associations, le juge des référés de Rennes a suspendu, samedi 3 octobre, l’arrêté du préfet L’article Brest : le Tribunal Administratif suspend l’interdiction préfectorale de rassemblement devant cinq établissements scolaires est apparu en",
+      "link": "https://www.cafepedagogique.net/2026/10/05/brest-le-tribunal-administratif-suspend-linterdiction-prefectorale-de-rassemblement-devant-cinq-etablissements-scolaires/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/telechargement.png",
+      "publishedAt": "2026-10-05T03:55:57.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -214,8 +214,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8zi7dj",
@@ -230,8 +230,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5cd6sc",
@@ -246,8 +246,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apvdoci",
@@ -262,8 +262,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahvqeqe",
@@ -278,8 +278,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apjabpg",
@@ -294,8 +294,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arh5y1b",
@@ -313,8 +313,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apuh5f4",
@@ -329,8 +329,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a438m7d",
@@ -345,8 +345,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6dr2vo",
@@ -363,42 +363,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ashxtit",
-      "title": "Mobilisations lycéennes : quand les lycées deviennent des « périmètres de sécurité »",
-      "summary": "« Petites gens, petits droits ? » Depuis le 1er octobre, les préfets interdisent les rassemblements autour de plusieurs centaines de lycées. Pour Noé Wagener, professeur de droit public, c’est une première : L’article Mobilisations lycéennes : quand les lycées deviennent des « périmètres de sécurité » est apparu en pre",
-      "link": "https://www.cafepedagogique.net/2026/10/05/mobilisations-lyceennes-quand-les-lycees-deviennent-des-perimetres-de-securite/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/noeWagener-e1791132614325-258x300.jpeg",
-      "publishedAt": "2026-10-05T03:50:16.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a425t3d",
-      "title": "Mobilisation lycéenne : une répression policière disproportionnée pour « humilier, faire peur, dissuader »",
-      "summary": "Mobilisation lycéenne : de quel côté se situe la violence ? Gardes à vue en série, interpellations d’un collégien de 12 ans, commissariats saturés : selon l’avocat Raphaël Kempf, la L’article Mobilisation lycéenne : une répression policière disproportionnée pour « humilier, faire peur, dissuader » est apparu en premier",
-      "link": "https://www.cafepedagogique.net/2026/10/05/mobilisation-lyceenne-une-repression-policiere-disproportionnee-pour-humilier-faire-peur-dissuader/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/repression-cafe-pedagogique-300x225.jpg",
-      "publishedAt": "2026-10-05T04:00:22.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aohzb50",
@@ -416,7 +382,25 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ashxtit",
+      "title": "Mobilisations lycéennes : quand les lycées deviennent des « périmètres de sécurité »",
+      "summary": "« Petites gens, petits droits ? » Depuis le 1er octobre, les préfets interdisent les rassemblements autour de plusieurs centaines de lycées. Pour Noé Wagener, professeur de droit public, c’est une première : L’article Mobilisations lycéennes : quand les lycées deviennent des « périmètres de sécurité » est apparu en pre",
+      "link": "https://www.cafepedagogique.net/2026/10/05/mobilisations-lyceennes-quand-les-lycees-deviennent-des-perimetres-de-securite/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/noeWagener-e1791132614325-258x300.jpeg",
+      "publishedAt": "2026-10-05T03:50:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -434,7 +418,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a425t3d",
+      "title": "Mobilisation lycéenne : une répression policière disproportionnée pour « humilier, faire peur, dissuader »",
+      "summary": "Mobilisation lycéenne : de quel côté se situe la violence ? Gardes à vue en série, interpellations d’un collégien de 12 ans, commissariats saturés : selon l’avocat Raphaël Kempf, la L’article Mobilisation lycéenne : une répression policière disproportionnée pour « humilier, faire peur, dissuader » est apparu en premier",
+      "link": "https://www.cafepedagogique.net/2026/10/05/mobilisation-lyceenne-une-repression-policiere-disproportionnee-pour-humilier-faire-peur-dissuader/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/IMG_5113-183x300.jpg",
+      "publishedAt": "2026-10-05T04:00:22.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -450,7 +450,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -466,7 +466,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -484,7 +484,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -500,7 +500,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -518,7 +518,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -536,7 +536,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -552,7 +552,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -568,7 +568,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -584,7 +584,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -600,7 +600,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -616,7 +616,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -635,7 +635,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -653,7 +653,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 38,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -669,7 +669,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -685,7 +685,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -701,7 +701,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 33,
       "urgencyLevel": "basse"
     }
   ]
