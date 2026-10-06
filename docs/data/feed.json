@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T04:59:53.398Z",
+  "generatedAt": "2026-10-06T12:47:14.571Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,19 +119,21 @@
   "count": 35,
   "items": [
     {
-      "id": "ahrrh7z",
-      "title": "Blocus lycéens et étudiants : chronique d’une explosion annoncée",
-      "summary": "« Que sait du désert celui qui ne regarde qu’un grain de sable ? » (Orsenna). Derrière l’explosivité sociale du mouvement des lycéens, les raisons de la colère sont à L’article Blocus lycéens et étudiants : chronique d’une explosion annoncée est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/06/blocus-lyceens-et-etudiants-chronique-dune-explosion-annoncee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/cafepedagogique.GabrielPerez-300x278.jpg",
-      "publishedAt": "2026-10-06T03:45:32.000Z",
+      "id": "ams6t7a",
+      "title": "« L’école n’est pas un champ de bataille » : ces organisations dénoncent la répression des jeunes",
+      "summary": "Dans un communiqué commun, la LDH, la CGT, la FCPE, la Fage, l’Unef, Solidaires et plusieurs organisations de jeunesse dénoncent la réponse policière aux mobilisations lycéennes et étudiantes. Elles font L’article « L’école n’est pas un champ de bataille » : ces organisations dénoncent la répression des jeunes est appa",
+      "link": "https://www.cafepedagogique.net/2026/10/06/lecole-nest-pas-un-champ-de-bataille-ces-organisations-denoncent-la-repression-des-jeunes/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/droits-300x127.png",
+      "publishedAt": "2026-10-06T03:27:29.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +151,126 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahrrh7z",
+      "title": "Blocus lycéens et étudiants : chronique d’une explosion annoncée",
+      "summary": "« Que sait du désert celui qui ne regarde qu’un grain de sable ? » (Orsenna). Derrière l’explosivité sociale du mouvement des lycéens, les raisons de la colère sont à L’article Blocus lycéens et étudiants : chronique d’une explosion annoncée est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/06/blocus-lyceens-et-etudiants-chronique-dune-explosion-annoncee/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/cafepedagogique.GabrielPerez-300x278.jpg",
+      "publishedAt": "2026-10-06T03:45:32.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ak0a3d5",
+      "title": "L’optogénétique récompensée par le Nobel : un siècle d’innovations pour cartographier et contrôler le cerveau",
+      "summary": "L’optogénétique, l'une des découvertes majeures qui permet de mieux comprendre le cerveau. akinbostanci/iStock via Getty Images Plus L’ESSENTIEL Le Nobel de médecine 2026 récompense les travaux à l’origine de l’optogénétique, qui permet de contrôler l’activité des neurones grâce à la lumière. Cette avancée s’inscrit da",
+      "link": "https://theconversation.com/loptogenetique-recompensee-par-le-nobel-un-siecle-dinnovations-pour-cartographier-et-controler-le-cerveau-293722",
+      "image": "https://images.theconversation.com/files/764150/original/file-20261005-60-gxnx1q.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2121%2C1414&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-06T11:53:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ame4ymo",
+      "title": "Endurance des collégiens : ce que les tests scolaires disent de leur santé",
+      "summary": "L’ESSENTIEL Les premières évaluations nationales en France signalent une faible endurance physique chez les élèves de sixième. Le test Navette estime la capacité aérobie, mais son résultat dépend aussi de la maturation, de la motivation et des conditions de passation. Les comparaisons internationales exigent donc de la",
+      "link": "https://theconversation.com/endurance-des-collegiens-ce-que-les-tests-scolaires-disent-de-leur-sante-292941",
+      "image": "https://images.theconversation.com/files/762352/original/file-20260925-50-tacep3.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-06T11:00:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "évaluation"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avzguwe",
+      "title": "D’une algue au cerveau : l’étonnante histoire du Nobel de médecine 2026",
+      "summary": "L’ESSENTIEL Le prix Nobel de médecine 2026 récompense la découverte de protéines permettant de contrôler des cellules nerveuses grâce à la lumière. Cette technique, l’optogénétique, permet d’étudier très précisément le fonctionnement du cerveau. Déjà testée pour restaurer partiellement la vision, elle pourrait ouvrir d",
+      "link": "https://theconversation.com/dune-algue-au-cerveau-letonnante-histoire-du-nobel-de-medecine-2026-293723",
+      "image": "https://images.theconversation.com/files/763831/original/file-20261005-50-86fenl.jpg?ixlib=rb-4.1.1&amp;rect=0%2C79%2C3000%2C1687&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-06T11:00:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aaymd9v",
+      "title": "Alliés potentiels, non convaincus, détracteurs… comment dépasser les clivages créés par les ZFE ?",
+      "summary": "L’ESSENTIEL En France, les zones à faibles émissions (ZFE) se trouvent au cœur d’une saga politique et réglementaire ; accusées d’être socialement injustes, elles alimentent la défiance d’une partie de la population. Des travaux de recherche ont identifié six profils types de réaction face aux ZFE, qui permettent de mi",
+      "link": "https://theconversation.com/allies-potentiels-non-convaincus-detracteurs-comment-depasser-les-clivages-crees-par-les-zfe-292801",
+      "image": "https://images.theconversation.com/files/761956/original/file-20260924-60-ax4xh4.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-06T10:12:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6kd8fp",
+      "title": "L’histoire d’Argos, le fidèle chien d’Ulysse, éclaire la place des animaux dans la Grèce antique",
+      "summary": "Dans l’« Odyssée », Argos (ici peint par Briton Rivière en 1873) n’est pas qu’un chien : il incarne les liens entre humains et animaux dans la Grèce antique. Universal Pictures/Granger Historical Picture Archive L’ESSENTIEL Dans l’Odyssée, le chien Argos incarne la fidélité et les ravages du temps qui passe. Les animau",
+      "link": "https://theconversation.com/lhistoire-dargos-le-fidele-chien-dulysse-eclaire-la-place-des-animaux-dans-la-grece-antique-288398",
+      "image": "https://images.theconversation.com/files/750193/original/file-20260723-63-6w8uuw.jpg?ixlib=rb-4.1.1&amp;rect=377%2C0%2C1245%2C830&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-06T07:53:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "an2c6ck",
+      "title": "Le long voyage du riz, de la préhistoire aux rizières du monde entier",
+      "summary": "Au VIIIᵉ siècle, les Maures venus d'Afrique du Nord ont introduit le riz dans la péninsule Ibérique, où sa culture s'est progressivement implantée. Matheus Bertelli/Pexels L’ESSENTIEL Né en Chine, en Inde et en Afrique, le riz possède plusieurs foyers de domestication. Migrations, guerres, commerce et esclavage ont per",
+      "link": "https://theconversation.com/le-long-voyage-du-riz-de-la-prehistoire-aux-rizieres-du-monde-entier-288943",
+      "image": "https://images.theconversation.com/files/751657/original/file-20260604-57-pue5dz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C630%2C3024%2C2015&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-06T07:38:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -167,26 +288,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "atv9bqc",
-      "title": "De la salle de classe aux gaz lacrymogènes : la colère des lycéens de Sevran",
-      "summary": "Le Café pédagogique donne la parole aux lycéennes et lycéens du lycée Blaise Cendrars de Sevran. « Nous ne demandons aucun privilège. Nous demandons des professeurs, du matériel, des personnels de L’article De la salle de classe aux gaz lacrymogènes : la colère des lycéens de Sevran est apparu en premier sur Le Café pé",
-      "link": "https://www.cafepedagogique.net/2026/10/06/de-la-salle-de-classe-aux-gaz-lacrymogenes-la-colere-des-lyceens-de-sevran/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-6.56.55-PM-e1791219720856-300x273.jpeg",
-      "publishedAt": "2026-10-06T03:55:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur",
-        "classe"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -202,7 +304,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -222,7 +324,26 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atv9bqc",
+      "title": "De la salle de classe aux gaz lacrymogènes : la colère des lycéens de Sevran",
+      "summary": "Le Café pédagogique donne la parole aux lycéennes et lycéens du lycée Blaise Cendrars de Sevran. « Nous ne demandons aucun privilège. Nous demandons des professeurs, du matériel, des personnels de L’article De la salle de classe aux gaz lacrymogènes : la colère des lycéens de Sevran est apparu en premier sur Le Café pé",
+      "link": "https://www.cafepedagogique.net/2026/10/06/de-la-salle-de-classe-aux-gaz-lacrymogenes-la-colere-des-lyceens-de-sevran/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-6.56.55-PM-e1791219720856-300x273.jpeg",
+      "publishedAt": "2026-10-06T03:55:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur",
+        "classe"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -240,7 +361,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -258,7 +379,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -274,7 +395,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -290,8 +411,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adxzeeh",
@@ -306,8 +427,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "albj0ps",
@@ -322,8 +443,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aifl830",
@@ -338,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -386,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -418,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -437,7 +558,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -453,23 +574,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a438m7d",
-      "title": "[édito] Regard sur la jeunesse : en garde à vue, au garde à vous ou aux avant-gardes ?",
-      "summary": "Une société qui a peur de ses enfants ? Périmètres d’interdiction par des arrêtés préfectoraux, fermetures d’établissements : face à la mobilisation des lycéennes et lycéens, la réponse est répressive plutôt L’article [édito] Regard sur la jeunesse : en garde à vue, au garde à vous ou aux avant-gardes ? est apparu en p",
-      "link": "https://www.cafepedagogique.net/2026/10/05/edito-regard-sur-la-jeunesse-en-garde-a-vue-au-garde-a-vous-ou-aux-avant-gardes/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/Djehanne-Gani-Cafe-pedagogique-225x300.jpeg",
-      "publishedAt": "2026-10-05T04:51:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -487,7 +592,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -503,7 +608,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -521,26 +626,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8fpqq9",
-      "title": "Non, le stoïcisme n'est pas ce « truc de mecs » revendiqué par les masculinistes",
-      "summary": "L’ESSENTIEL Le stoïcisme est une philosophie de l’éthique personnelle de la Grèce antique, qui enseigne la maîtrise de soi et l’acceptation sereine du destin. Sénèque, Épictète et Marc Aurèle comptent parmi les philosophes stoïciens les plus connus. Ces dernières années, sur les réseaux sociaux, la « manosphère » se re",
-      "link": "https://theconversation.com/non-le-sto-cisme-nest-pas-ce-truc-de-mecs-revendique-par-les-masculinistes-293412",
-      "image": "https://counter.theconversation.com/content/293412/count.gif",
-      "publishedAt": "2026-10-04T07:12:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ajw5cs2",
@@ -555,8 +642,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aat6buj",
@@ -571,8 +658,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "auvtb40",
@@ -587,8 +674,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a7ucik9",
@@ -603,8 +690,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "afy7ufk",
@@ -619,92 +706,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8igos6",
-      "title": "Manger à l’ère des algorithmes : quelles vulnérabilités pour les jeunes ?",
-      "summary": "L’ESSENTIEL Les données se multiplient quant aux risques que les réseaux sociaux font courir aux adolescent·es concernant leur rapport au corps et à l’alimentation. Une recherche étudie comment, loin d’être passives, certaines jeunes personnes développent des stratégies pour tenter d’échapper aux contenus problématique",
-      "link": "https://theconversation.com/manger-a-lere-des-algorithmes-quelles-vulnerabilites-pour-les-jeunes-288962",
-      "image": "https://counter.theconversation.com/content/288962/count.gif",
-      "publishedAt": "2026-10-03T08:50:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux",
-        "algorithme"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arn8i8b",
-      "title": "Ce que les vidéos de placards bien rangés révèlent de l’évolution des réseaux sociaux",
-      "summary": "Entre esthétique soignée, sons ASMR et incitation à consommer, la tendance « restock » transforme les tâches domestiques en spectacle et redéfinit l’authenticité sur les réseaux sociaux. Faithie/Shutterstock L’ESSENTIEL Les vidéos de « réapprovisionnement », regroupées sous le hashtag RestockTok, transforment le rangem",
-      "link": "https://theconversation.com/ce-que-les-videos-de-placards-bien-ranges-revelent-de-levolution-des-reseaux-sociaux-293372",
-      "image": "https://images.theconversation.com/files/763384/original/file-20260617-71-8spu7e.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6694%2C4462&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-03T08:49:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ap7b1as",
-      "title": "Apprendre à bien manger : comment penser l’éducation à l’alimentation ?",
-      "summary": "L’ESSENTIEL L’éducation à l’alimentation est un enjeu essentiel à tous les âges de la vie. Pour bien manger, il faut un minimum de connaissances en santé. Mais il s’agit aussi de comprendre comment les aliments arrivent dans notre assiette. S’il y a un certain nombre de paramètres à respecter, y a-t-il pour autant une ",
-      "link": "https://theconversation.com/apprendre-a-bien-manger-comment-penser-leducation-a-lalimentation-288550",
-      "image": "https://counter.theconversation.com/content/288550/count.gif",
-      "publishedAt": "2026-10-03T08:50:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "akraiz7",
-      "title": "Goût, santé, lien social, créativité… À la recherche de la recette du bonheur gastronomique",
-      "summary": "Bien manger ne se résume pas à ce qu’il y a dans l’assiette. Ici à Saint-Sébastien en Espagne. MikeDotta/Shutterstock L’ESSENTIEL Le plaisir de manger dépend du goût, mais aussi des sens, des émotions, du partage et du contexte. La « gastronomie du bonheur » cherche à intégrer nutrition, créativité, durabilité et bien-",
-      "link": "https://theconversation.com/gout-sante-lien-social-creativite-a-la-recherche-de-la-recette-du-bonheur-gastronomique-293392",
-      "image": "https://images.theconversation.com/files/763418/original/file-20260904-50-4r3nvp.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5472%2C3648&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-03T08:49:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amw0c6g",
-      "title": "Le simple nom d’un aliment influence la perception que l’on a de son poids",
-      "summary": "Nous avons tendance à associer certains sons, comme « i » ou « t », à de petites tailles, et d’autres, comme « o » ou « b », à de grandes tailles. Une nouvelle étude montre que ces associations influencent aussi notre perception des en-cas. (Unsplash) L’ESSENTIEL La sonorité du nom d’un aliment influence la perception ",
-      "link": "https://theconversation.com/le-simple-nom-dun-aliment-influence-la-perception-que-lon-a-de-son-poids-293391",
-      "image": "https://images.theconversation.com/files/763417/original/file-20260921-50-nr4g69.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C2400%2C1600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-03T08:48:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 37,
       "urgencyLevel": "basse"
     }
   ]
