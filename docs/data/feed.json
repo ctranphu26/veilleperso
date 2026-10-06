@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:47:14.571Z",
+  "generatedAt": "2026-10-06T22:21:55.053Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,61 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agzah5f",
+      "title": "Poivres et piments : un nouvel engouement pour les plus vieilles des épices",
+      "summary": "L’ESSENTIEL La popularité du poivre (originaire d’Asie) et du piment (originaire d’Amérique) s’est installée en Europe depuis des siècles. Nous disposons de récepteurs spécifiques pour détecter leur piquant et leur chaleur, mais c’est un apprentissage socioculturel qui nous les fait apprécier. Expositions, concours tél",
+      "link": "https://theconversation.com/poivres-et-piments-un-nouvel-engouement-pour-les-plus-vieilles-des-epices-293037",
+      "image": "https://counter.theconversation.com/content/293037/count.gif",
+      "publishedAt": "2026-10-06T13:57:16.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "apprentissage"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac60yno",
+      "title": "Les amendes forfaitaires pour consommation de stupéfiants se multiplient : quels effets, et quel bilan ?",
+      "summary": "L’ESSENTIEL Depuis 2020, les forces de l’ordre ont la possibilité de sanctionner les consommateurs de stupéfiants d’une amende forfaitaire délictuelle. Cette procédure a entraîné une forte hausse des délits enregistrés. Elle est critiquée pour les irrégularités et les inégalités sociales dans son application. Elle illu",
+      "link": "https://theconversation.com/les-amendes-forfaitaires-pour-consommation-de-stupefiants-se-multiplient-quels-effets-et-quel-bilan-291434",
+      "image": "https://images.theconversation.com/files/760530/original/file-20260917-60-inqmli.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-06T13:56:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "égalité"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7r3q0b",
+      "title": "Les sociétés militaires privées en Amérique latine : de la fin de la guerre froide à Vectus Global",
+      "summary": "L’ESSENTIEL Les sociétés militaires privées (SMP) états-uniennes disposent d’un ancrage ancien en Amérique latine, où elles sont notamment impliquées dans la lutte contre le narcotrafic, dans la protection d’infrastructures et dans la formation des forces locales. Le rôle central d’Erik Prince, ancien patron de la tris",
+      "link": "https://theconversation.com/les-societes-militaires-privees-en-amerique-latine-de-la-fin-de-la-guerre-froide-a-vectus-global-291844",
+      "image": "https://counter.theconversation.com/content/291844/count.gif",
+      "publishedAt": "2026-10-06T13:53:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +205,87 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1fse2",
+      "title": "What Europe’s EU Inc. framework for boosting competitiveness can and should learn from startup fraud in the US",
+      "summary": "The European Parliament and the Council of the European Union are currently debating EU Inc, draft legislation seeking to establish a single set of rules for starting, operating, and growing a business across EU member states. The proposed framework is designed to make business registration and operation within the EU ",
+      "link": "https://theconversation.com/what-europes-eu-inc-framework-for-boosting-competitiveness-can-and-should-learn-from-startup-fraud-in-the-us-293380",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-06T14:19:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awvcw3s",
+      "title": "Surveiller, se reproduire, récupérer : comment les chimpanzés organisent leurs nuits",
+      "summary": "L’ESSENTIEL En Ouganda, une étude récente chez les chimpanzés dans leur milieu naturel est parvenue pour la première fois à les filmer endormis. Les mâles dominants réduisent leur temps de sommeil en présence d’autres mâles, probablement pour surveiller de potentiels rivaux, mais également en présence de femelles en ac",
+      "link": "https://theconversation.com/surveiller-se-reproduire-recuperer-comment-les-chimpanzes-organisent-leurs-nuits-290888",
+      "image": "https://images.theconversation.com/files/763888/original/file-20261005-50-uw39on.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-06T13:58:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axrzjzx",
+      "title": "Brésil : le monde ancien est mort, et le nouveau ne peut pas naître",
+      "summary": "L’ESSENTIEL Flavio Bolsonaro a devancé Lula à l’issue du premier tour de la présidentielle brésilienne. Le leader de la gauche aura du mal à inverser la tendance au second tour. Une défaite de Lula planterait le dernier clou dans le cercueil de la Nouvelle République, ce système instauré au milieu des années 1980 après",
+      "link": "https://theconversation.com/bresil-le-monde-ancien-est-mort-et-le-nouveau-ne-peut-pas-naitre-293717",
+      "image": "https://images.theconversation.com/files/764246/original/file-20261006-50-dav5ue.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-06T13:54:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7r5av7",
+      "title": "Comprendre la crise de la « valeur travail » à travers les yeux de policiers, des informaticiens et des ouvriers",
+      "summary": "L’ESSENTIEL La crise de la « valeur travail » traduit une individualisation du sens donné au travail depuis les années 1950. Pour comprendre ces évolutions, trois groupes professionnels ont été examinés à la loupe : ouvriers, policiers et informaticiens. La financiarisation et la managérisation de l’économie française ",
+      "link": "https://theconversation.com/comprendre-la-crise-de-la-valeur-travail-a-travers-les-yeux-de-policiers-des-informaticiens-et-des-ouvriers-285989",
+      "image": "https://counter.theconversation.com/content/285989/count.gif",
+      "publishedAt": "2026-10-06T13:52:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqsmnwq",
+      "title": "Mechanical Turk, la plateforme qui cachait des humains, tire sa révérence",
+      "summary": "La coupe du Turc mécanique de Joseph Friedrich von Racknitz est une explication technique de la supercherie de l’automate joueur d’échecs de Wolfgang von Kempelen. Wikipédia, CC BY L’ESSENTIEL La plateforme de microtâches Amazon Mechanical Turk a fermé dans une relative discrétion. Elle était utilisée notamment par les",
+      "link": "https://theconversation.com/mechanical-turk-la-plateforme-qui-cachait-des-humains-tire-sa-reverence-292008",
+      "image": "https://images.theconversation.com/files/759878/original/file-20260915-50-cr1tyf.jpg?ixlib=rb-4.1.1&amp;rect=0%2C116%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-06T13:51:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +301,41 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a58cqwi",
+      "title": "Petite histoire sensorielle de la truffe à l’époque moderne",
+      "summary": "L’ESSENTIEL La truffe nourrit de nombreux discours et alimente nombre de controverses depuis l’Antiquité. C’est à l’époque moderne, aux XVIᵉ et XVIIᵉ siècles, qu’elle est mise en valeur par les naturalistes, les artistes et les gastronomes. À travers les sources littéraires et visuelles, il est possible de retracer une",
+      "link": "https://theconversation.com/petite-histoire-sensorielle-de-la-truffe-a-lepoque-moderne-291384",
+      "image": "https://counter.theconversation.com/content/291384/count.gif",
+      "publishedAt": "2026-10-06T13:15:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7yxgdy",
+      "title": "A camera combined with AI could help further diagnosis of movement disorders like spinal muscular atrophy in newborns",
+      "summary": "Detecting impaired motor function as early as possible after birth with the help of a standard camera linked to intelligent systems can help in diagnosing infantile conditions characterised by hypotonia: reduction or loss of active muscle movement. A research team is investigating this approach based on the work carrie",
+      "link": "https://theconversation.com/a-camera-combined-with-ai-could-help-further-diagnosis-of-movement-disorders-like-spinal-muscular-atrophy-in-newborns-293152",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-06T13:14:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -185,8 +353,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ame4ymo",
@@ -204,8 +372,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avzguwe",
@@ -220,13 +388,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aaymd9v",
-      "title": "Alliés potentiels, non convaincus, détracteurs… comment dépasser les clivages créés par les ZFE ?",
-      "summary": "L’ESSENTIEL En France, les zones à faibles émissions (ZFE) se trouvent au cœur d’une saga politique et réglementaire ; accusées d’être socialement injustes, elles alimentent la défiance d’une partie de la population. Des travaux de recherche ont identifié six profils types de réaction face aux ZFE, qui permettent de mi",
+      "title": "Alliés potentiels, non-convaincus, détracteurs… comment dépasser les clivages créés par les ZFE ?",
+      "summary": "L’ESSENTIEL En France, les zones à faibles émissions (ZFE) se trouvent au cœur d’une saga politique et réglementaire ; accusées d’être socialement injustes, elles alimentent la défiance d’une partie de la population. Des travaux de recherche ont identifié six profils types de réactions face aux ZFE, qui permettent de m",
       "link": "https://theconversation.com/allies-potentiels-non-convaincus-detracteurs-comment-depasser-les-clivages-crees-par-les-zfe-292801",
       "image": "https://images.theconversation.com/files/761956/original/file-20260924-60-ax4xh4.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
       "publishedAt": "2026-10-06T10:12:43.000Z",
@@ -236,24 +404,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a6kd8fp",
-      "title": "L’histoire d’Argos, le fidèle chien d’Ulysse, éclaire la place des animaux dans la Grèce antique",
-      "summary": "Dans l’« Odyssée », Argos (ici peint par Briton Rivière en 1873) n’est pas qu’un chien : il incarne les liens entre humains et animaux dans la Grèce antique. Universal Pictures/Granger Historical Picture Archive L’ESSENTIEL Dans l’Odyssée, le chien Argos incarne la fidélité et les ravages du temps qui passe. Les animau",
-      "link": "https://theconversation.com/lhistoire-dargos-le-fidele-chien-dulysse-eclaire-la-place-des-animaux-dans-la-grece-antique-288398",
-      "image": "https://images.theconversation.com/files/750193/original/file-20260723-63-6w8uuw.jpg?ixlib=rb-4.1.1&amp;rect=377%2C0%2C1245%2C830&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-06T07:53:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "an2c6ck",
@@ -270,8 +422,24 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6kd8fp",
+      "title": "L’histoire d’Argos, le fidèle chien d’Ulysse, éclaire la place des animaux dans la Grèce antique",
+      "summary": "Dans l’« Odyssée », Argos (ici peint par Briton Rivière en 1873) n’est pas qu’un chien : il incarne les liens entre humains et animaux dans la Grèce antique. Universal Pictures/Granger Historical Picture Archive L’ESSENTIEL Dans l’Odyssée, le chien Argos incarne la fidélité et les ravages du temps qui passe. Les animau",
+      "link": "https://theconversation.com/lhistoire-dargos-le-fidele-chien-dulysse-eclaire-la-place-des-animaux-dans-la-grece-antique-288398",
+      "image": "https://images.theconversation.com/files/750193/original/file-20260723-63-6w8uuw.jpg?ixlib=rb-4.1.1&amp;rect=377%2C0%2C1245%2C830&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-06T07:53:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ak9ml6d",
@@ -288,8 +456,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arqu9fu",
@@ -304,8 +472,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aumergb",
@@ -324,8 +492,8 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atv9bqc",
@@ -343,8 +511,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amxe2l8",
@@ -361,8 +529,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auyvyvh",
@@ -379,8 +547,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apmj03b",
@@ -395,8 +563,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auignt4",
@@ -411,7 +579,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -427,23 +595,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "albj0ps",
-      "title": "Utiliser l’IA au travail… mais en secret : pourquoi tant de salariés se taisent-ils ?",
-      "summary": "L’ESSENTIEL Beaucoup d’utilisateurs de l’IA en entreprise préfèrent ne rien dire à leur hiérarchie ni à leurs collègues. Crainte de perdre son emploi, de travailler trois fois plus, peur du syndrome de l’imposteur, les raisons de ce silence sont légion. Ce silence reste un révélateur de la santé des entreprises ; ces d",
-      "link": "https://theconversation.com/utiliser-lia-au-travail-mais-en-secret-pourquoi-tant-de-salaries-se-taisent-ils-285733",
-      "image": "https://counter.theconversation.com/content/285733/count.gif",
-      "publishedAt": "2026-10-05T09:16:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +611,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +627,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,7 +643,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -507,7 +659,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -523,7 +675,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -539,26 +691,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arh5y1b",
-      "title": "Féminisation des conseils d’administration : une bonne nouvelle qui complique l’équité salariale",
-      "summary": "La diversité de genre dans les conseils d’administration est souvent associée à une quête d’équité salariale. Pourtant, notre étude des entreprises chinoises cotées, publiée dans l’International Journal of Finance Economics, révèle un paradoxe : les entreprises dont le conseil compte plus de femmes affichent des écarts",
-      "link": "https://theconversation.com/feminisation-des-conseils-dadministration-une-bonne-nouvelle-qui-complique-lequite-salariale-287234",
-      "image": "https://counter.theconversation.com/content/287234/count.gif",
-      "publishedAt": "2026-10-05T09:15:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité",
-        "genre"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -574,140 +707,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adw5ljs",
-      "title": "Les nouveaux besoins (géopolitiques) de l’entreprise",
-      "summary": "Les entreprises, à commencer bien sûr par les plus grandes et les mieux intégrées dans les divers mécanismes de la mondialisation, doivent évoluer en permanence pour que leurs responsables, à tous les niveaux, puissent prendre les décisions les plus appropriées et les mieux informées. Ces informations ne peuvent être s",
-      "link": "https://theconversation.com/les-nouveaux-besoins-geopolitiques-de-lentreprise-291889",
-      "image": "https://images.theconversation.com/files/760152/original/file-20260916-50-hjfui4.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-04T07:14:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
       "urgency": 47,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5qkv1s",
-      "title": "Quel est l’impact des décisions de la Banque centrale européenne sur les ménages modestes ?",
-      "summary": "L’ESSENTIEL La nouvelle hausse de l’inflation a poussé la Banque centrale européenne (BCE) à augmenter ses taux directeurs – 2,5 % pour le taux de dépôt. Entre lutte contre l’inflation, baisse des crédits et réduction de l’activité, les hausses de ces taux ont des conséquences pour les ménages modestes. En luttant cont",
-      "link": "https://theconversation.com/quel-est-limpact-des-decisions-de-la-banque-centrale-europeenne-sur-les-menages-modestes-284478",
-      "image": "https://counter.theconversation.com/content/284478/count.gif",
-      "publishedAt": "2026-10-04T07:13:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9lqepr",
-      "title": "À l’école, les arts peuvent-ils libérer la parole des enfants sur les violences ?",
-      "summary": "La médiation artistique peut aider à représenter ce qui n’arrive pas à se dire. Vladimir Srajber/Pexels, CC BY L’ESSENTIEL La pratique artistique permettrait aux enfants de réguler leurs émotions. Mais est-elle pour autant un outil pertinent pour prévenir les violences et libérer la parole des enfants ? Une revue de li",
-      "link": "https://theconversation.com/a-lecole-les-arts-peuvent-ils-liberer-la-parole-des-enfants-sur-les-violences-291525",
-      "image": "https://images.theconversation.com/files/762887/original/file-20260929-50-h0oczp.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-04T07:14:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajw5cs2",
-      "title": "Misophonia: when everyday sounds become unbearable",
-      "summary": "KEY TAKEAWAYS For people with misophonia, certain sounds trigger default reactions of aversion and anger. Although it can be debilitating in everyday life, this condition is not simply a matter of heightened sensitivity to sounds. Misophonia manifests as a wide range of symptoms and disorders affecting several areas, b",
-      "link": "https://theconversation.com/misophonia-when-everyday-sounds-become-unbearable-291506",
-      "image": "https://counter.theconversation.com/content/291506/count.gif",
-      "publishedAt": "2026-10-04T07:16:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aat6buj",
-      "title": "Paradoxe d’abondance : l’Amazonie française manque d’eau potable",
-      "summary": "Dépôt sédimentaire au nord de Grand-Santi en 2021. L’eau chargée de matière organique prend cette couleur de cola et lessive le sable. Adrien Selles, Fourni par l'auteur L’ESSENTIEL L’Amazonie est un des territoires les plus arrosés de la planète, mais le nombre de jours de sécheresse y augmente et l’accès à l’eau pota",
-      "link": "https://theconversation.com/paradoxe-dabondance-lamazonie-francaise-manque-deau-potable-292622",
-      "image": "https://images.theconversation.com/files/763089/original/file-20260930-50-wz5x2c.jpg?ixlib=rb-4.1.1&amp;rect=0%2C192%2C4618%2C3078&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-04T07:16:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "auvtb40",
-      "title": "TDAH et alimentation : pourquoi certains cerveaux peinent à s’arrêter de manger",
-      "summary": "L’ESSENTIEL Des liens se font jour entre le trouble du déficit de l’attention avec ou sans hyperactivité (TDAH) et l’alimentation. Le fait de présenter un TDAH pourrait accroître la vulnérabilité à certains troubles de la conduite alimentaire, comme la boulimie. Des travaux sont menés pour identifier les mécanismes à l",
-      "link": "https://theconversation.com/tdah-et-alimentation-pourquoi-certains-cerveaux-peinent-a-sarreter-de-manger-292036",
-      "image": "https://counter.theconversation.com/content/292036/count.gif",
-      "publishedAt": "2026-10-04T07:15:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7ucik9",
-      "title": "Qui décide du menu dans nos assiettes ? Enquête sur l’influence discrète des lobbys agroalimentaires",
-      "summary": "Est-ce vraiment de votre faute si vous avez fini le paquet de chips ? Bermix Studio/Unsplash, CC BY L’ESSENTIEL L’industrie agroalimentaire mène une action politique organisée et largement invisible pour peser sur notre alimentation. Une enquête reconstitue les coulisses de cette influence, de la recherche scientifique",
-      "link": "https://theconversation.com/qui-decide-du-menu-dans-nos-assiettes-enquete-sur-linfluence-discrete-des-lobbys-agroalimentaires-291634",
-      "image": "https://images.theconversation.com/files/760014/original/file-20260915-50-bqtq4f.jpg?ixlib=rb-4.1.1&amp;rect=0%2C11%2C2400%2C1600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-04T07:15:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "afy7ufk",
-      "title": "Face à l’imprévu permanent, une autre logique d’entreprise émerge",
-      "summary": "L’ESSENTIEL La crise est devenue permanente. Les situations critiques s’enchaînent quand elles ne se superposent pas. Dans ce contexte, les logiques pour diriger l’entreprise ne peuvent plus être les mêmes. Certaines entreprises ont déjà commencé à en changer avec des résultats positifs. Avoir une boussole et être robu",
-      "link": "https://theconversation.com/face-a-limprevu-permanent-une-autre-logique-dentreprise-emerge-292484",
-      "image": "https://counter.theconversation.com/content/292484/count.gif",
-      "publishedAt": "2026-10-04T07:12:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
     }
   ]
 }
