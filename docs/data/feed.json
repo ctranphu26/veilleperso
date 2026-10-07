@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:41:32.192Z",
+  "generatedAt": "2026-10-07T22:44:55.279Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,40 @@
   "count": 35,
   "items": [
     {
+      "id": "awab4m3",
+      "title": "Conserver les aliments périssables sans emballages plastiques : où en est-on ?",
+      "summary": "L’ESSENTIEL Les emballages plastiques représentent plus de 40 % de nos déchets plastiques au niveau mondial. Pour mettre un terme à la pollution plastique et décarboner l’économie, il va falloir apprendre à s’en passer. Leur remplacement par des alternatives biosourcées et biodégradables se heurte toutefois à plusieurs",
+      "link": "https://theconversation.com/conserver-les-aliments-perissables-sans-emballages-plastiques-ou-en-est-on-292712",
+      "image": "https://images.theconversation.com/files/762511/original/file-20260928-50-jkeos7.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-07T14:53:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5fxqvi",
+      "title": "Des variétés résistantes pour sauver la vigne : les consommateurs sont-ils prêts à changer de goûts et les vignerons à les adopter ?",
+      "summary": "L’ESSENTIEL De nouvelles variétés de vigne résistantes aux principales maladies fongiques sont aujourd’hui disponibles à la plantation. Malgré leur intérêt pour réduire jusqu’à 80 % de traitements phytosanitaires, leur adoption progresse lentement et l’offre commerciale reste limitée. Des travaux menés en Occitanie dan",
+      "link": "https://theconversation.com/des-varietes-resistantes-pour-sauver-la-vigne-les-consommateurs-sont-ils-prets-a-changer-de-gouts-et-les-vignerons-a-les-adopter-285505",
+      "image": "https://images.theconversation.com/files/744859/original/file-20260629-71-fenmc0.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-07T14:54:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "awacm0x",
       "title": "Des violences lors des mouvements lycéens d’hier et d’aujourd’hui",
       "summary": "« Aussi loin que l’on remonte et aussi sélectionnés qu’ont pu être les lycéens, les risques de débordements violents ont régulièrement été présents dans leurs mouvements collectifs » rappelle Claude Lelièvre. L’historien de L’article Des violences lors des mouvements lycéens d’hier et d’aujourd’hui est apparu en premie",
@@ -133,7 +167,143 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 90,
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "au6h8av",
+      "title": "Le droit, levier de l’Europe face à Pékin",
+      "summary": "L’ESSENTIEL Des salariés chinois utilisent le droit européen pour défendre leurs conditions de travail : après leur licenciement par l’équipementier Xingyu, 107 jeunes diplômés ont alerté Mercedes-Benz et Volkswagen, ses clients européens. L’Union européenne étend son pouvoir juridique au-delà de ses frontières : avec ",
+      "link": "https://theconversation.com/le-droit-levier-de-leurope-face-a-pekin-291888",
+      "image": "https://counter.theconversation.com/content/291888/count.gif",
+      "publishedAt": "2026-10-07T14:52:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a37sylx",
+      "title": "Manifestations lycéennes, réponse du gouvernement : pourquoi la situation est inédite – et imprévisible",
+      "summary": "L’ESSENTIEL Le mouvement lycéen, rejoint par des parents, des enseignants et des syndicats, a réuni 450 000 manifestants, le 6 octobre dans toute la France (250 000 manifestants, selon le gouvernement). Si les revendications sur les moyens sont récurrentes, le contexte global et la forme du mouvement – né dans les banl",
+      "link": "https://theconversation.com/manifestations-lyceennes-reponse-du-gouvernement-pourquoi-la-situation-est-inedite-et-imprevisible-293772",
+      "image": "https://counter.theconversation.com/content/293772/count.gif",
+      "publishedAt": "2026-10-07T12:53:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoqko00",
+      "title": "Quiz – De la grossesse à l’accouchement, les pères s’impliquaient déjà dans la naissance des enfants aux XVIIIᵉ et XIXᵉ siècles",
+      "summary": "*La Visite à la nourrice* (vers 1775), par Jean-Honoré Fragonard. Wikimedia Commons Grossesse, naissance, paternité… Au XVIIIᵉ et au XIXᵉ siècles, ces moments de la vie familiale étaient entourés de pratiques et de représentations bien différentes des nôtres. Mais que savons-nous vraiment de la manière dont on vivait u",
+      "link": "https://theconversation.com/quiz-de-la-grossesse-a-laccouchement-les-peres-simpliquaient-deja-dans-la-naissance-des-enfants-aux-xviii-et-xix-siecles-293891",
+      "image": "https://images.theconversation.com/files/764653/original/file-20261007-50-2vtre4.jpg?ixlib=rb-4.1.1&amp;rect=0%2C119%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-07T15:33:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "représentation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ard323g",
+      "title": "Why the student protests in France and the government’s response are unprecedented and unpredictable",
+      "summary": "KEY TAKEAWAYS The mass nationwide movement led by high school students, joined by their parents, teachers and trade unions, brought together 450,000 protesters on October 6 (250,000, according to the French government). French lycée students’ demands for better resources and conditions in schools are recurrent, but wha",
+      "link": "https://theconversation.com/why-the-student-protests-in-france-and-the-governments-response-are-unprecedented-and-unpredictable-293863",
+      "image": "https://counter.theconversation.com/content/293863/count.gif",
+      "publishedAt": "2026-10-07T15:11:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aaa2iru",
+      "title": "De la lettre à Internet : communiquons-nous désormais en temps réel ?",
+      "summary": "L’ESSENTIEL Dans la Présence à distance. Des lettres de l’Antiquité aux réseaux sociaux, paru en septembre 2026 aux éditions Flammarion, Jérôme Bourdon explore notre rêve très ancien de communication (quasi) immédiate. On pourrait croire que le numérique a mis fin à l'attente du message tant espéré. Pour l’auteur, ce n",
+      "link": "https://theconversation.com/de-la-lettre-a-internet-communiquons-nous-desormais-en-temps-reel-293129",
+      "image": "https://images.theconversation.com/files/764355/original/file-20261006-60-zxap3i.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-07T14:54:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7254m5",
+      "title": "Silver économie : le « bien vieillir », un marché comme les autres ?",
+      "summary": "Les seniors ne voient pas toujours l’utilité des produits que la silver économie cherche à leur vendre. Pexels, CC BY L’ESSENTIEL Le vieillissement de la population crée des besoins en matière de technologies de santé et d’aménagement des espaces. Initialement focalisée sur la lutte contre la perte d’autonomie, la « si",
+      "link": "https://theconversation.com/silver-economie-le-bien-vieillir-un-marche-comme-les-autres-292545",
+      "image": "https://images.theconversation.com/files/762014/original/file-20260924-60-q4elp.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-07T14:51:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awgfvke",
+      "title": "Quand la nicotine est promue comme produit bien-être sur les réseaux, alors qu’elle reste une substance addictive",
+      "summary": "L’ESSENTIEL La nicotine est parfois présentée comme un moyen d’améliorer la concentration et de réduire le stress, mais les preuves manquent. Les études chez l’être humain ne montrent pas qu’elle prévient le déclin cognitif ou favorise la longévité. Les substituts nicotiniques aident à arrêter de fumer ; consommer de l",
+      "link": "https://theconversation.com/quand-la-nicotine-est-promue-comme-produit-bien-etre-sur-les-reseaux-alors-quelle-reste-une-substance-addictive-292711",
+      "image": "https://counter.theconversation.com/content/292711/count.gif",
+      "publishedAt": "2026-10-07T14:51:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "adsvmq6",
+      "title": "Sur les friches industrielles, des bactéries ont appris à se nourrir de la pollution",
+      "summary": "Les bactéries des friches industrielles peuvent dégrader des polluants dont nous ne savons pas comment nous débarrasser. Kevin Lorenzi/Mellon College of Science via Carnegie Mellon University, Fourni par l'auteur L’ESSENTIEL Les sols sous nos pieds sont vivants : un seul gramme de sol peut contenir des milliards de bac",
+      "link": "https://theconversation.com/sur-les-friches-industrielles-des-bacteries-ont-appris-a-se-nourrir-de-la-pollution-293040",
+      "image": "https://images.theconversation.com/files/762537/original/file-20260902-60-j7pkeg.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C8256%2C5503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-07T14:50:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +319,24 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "amoek0e",
+      "title": "Des scientifiques avaient prédit la fin du monde pour le vendredi 13 novembre 2026. Faut-il s’inquiéter ?",
+      "summary": "Un article publié dans Science en 1960 prédisait qu’avec une croissance démographique toujours plus rapide, la population humaine tendrait vers l’infini en 2026. (Unsplash) L’ESSENTIEL En 1960, des chercheurs prédisaient une croissance démographique infinie et la fin du monde pour le 13 novembre 2026. Leurs projections",
+      "link": "https://theconversation.com/des-scientifiques-avaient-predit-la-fin-du-monde-pour-le-vendredi-13-novembre-2026-faut-il-sinquieter-293842",
+      "image": "https://images.theconversation.com/files/764471/original/file-20260901-50-u96wjd.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6454%2C4302&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-07T10:19:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aoszmhc",
@@ -167,24 +353,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "amoek0e",
-      "title": "Des scientifiques avaient prédit la fin du monde pour le vendredi 13 novembre 2026. Faut-il s’inquiéter ?",
-      "summary": "Un article publié dans Science en 1960 prédisait qu’avec une croissance démographique toujours plus rapide, la population humaine tendrait vers l’infini en 2026. (Unsplash) L’ESSENTIEL En 1960, des chercheurs prédisaient une croissance démographique infinie et la fin du monde pour le 13 novembre 2026. Leurs projections",
-      "link": "https://theconversation.com/des-scientifiques-avaient-predit-la-fin-du-monde-pour-le-vendredi-13-novembre-2026-faut-il-sinquieter-293842",
-      "image": "https://images.theconversation.com/files/764471/original/file-20260901-50-u96wjd.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6454%2C4302&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-07T10:19:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2xrzsf",
@@ -201,42 +371,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "auu0dws",
-      "title": "Une mobilisation qui se construit, des convergences qui s’affirment",
-      "summary": "À Marseille ce mardi 6 octobre, entre 10 et 15000 personnes (selon les sources syndicales) ont manifesté dans le cadre d’une journée nationale de mobilisations. En majorité des lycéen.nes de L’article Une mobilisation qui se construit, des convergences qui s’affirment est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/07/une-mobilisation-qui-se-construit-des-convergences-qui-saffirment/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/261005-manif-lyc-1-1-300x225.jpeg",
-      "publishedAt": "2026-10-07T03:55:15.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ayr8324",
-      "title": "De la mobilisation lycéenne à la mobilisation citoyenne",
-      "summary": "« Profs, lycéens, même combat ». Toutes générations confondues, c’est une colère historique comme déterminée qui s’exprime dans les cortèges et les établissements scolaires. Le 6 octobre, des cortèges se sont L’article De la mobilisation lycéenne à la mobilisation citoyenne est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/10/07/de-la-mobilisation-lyceenne-a-la-mobilisation-citoyenne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg",
-      "publishedAt": "2026-10-07T04:00:13.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adnrbd3",
@@ -255,8 +391,8 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aljxdfo",
@@ -273,8 +409,26 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "auu0dws",
+      "title": "Une mobilisation qui se construit, des convergences qui s’affirment",
+      "summary": "À Marseille ce mardi 6 octobre, entre 10 et 15000 personnes (selon les sources syndicales) ont manifesté dans le cadre d’une journée nationale de mobilisations. En majorité des lycéen.nes de L’article Une mobilisation qui se construit, des convergences qui s’affirment est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/07/une-mobilisation-qui-se-construit-des-convergences-qui-saffirment/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/261005-manif-lyc-1-1-300x225.jpeg",
+      "publishedAt": "2026-10-07T03:55:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ab5dpnu",
@@ -291,8 +445,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a35o3oy",
@@ -309,8 +463,24 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ayr8324",
+      "title": "De la mobilisation lycéenne à la mobilisation citoyenne",
+      "summary": "« Profs, lycéens, même combat ». Toutes générations confondues, c’est une colère historique comme déterminée qui s’exprime dans les cortèges et les établissements scolaires. Le 6 octobre, des cortèges se sont L’article De la mobilisation lycéenne à la mobilisation citoyenne est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/10/07/de-la-mobilisation-lyceenne-a-la-mobilisation-citoyenne/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg",
+      "publishedAt": "2026-10-07T04:00:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am9kd14",
@@ -325,8 +495,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agzah5f",
@@ -343,7 +513,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -361,7 +531,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -379,87 +549,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1fse2",
-      "title": "What Europe’s EU Inc. framework for boosting competitiveness can and should learn from startup fraud in the US",
-      "summary": "The European Parliament and the Council of the European Union are currently debating EU Inc, draft legislation seeking to establish a single set of rules for starting, operating, and growing a business across EU member states. The proposed framework is designed to make business registration and operation within the EU ",
-      "link": "https://theconversation.com/what-europes-eu-inc-framework-for-boosting-competitiveness-can-and-should-learn-from-startup-fraud-in-the-us-293380",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-06T14:19:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awvcw3s",
-      "title": "Surveiller, se reproduire, récupérer : comment les chimpanzés organisent leurs nuits",
-      "summary": "L’ESSENTIEL En Ouganda, une étude récente chez les chimpanzés dans leur milieu naturel est parvenue pour la première fois à les filmer endormis. Les mâles dominants réduisent leur temps de sommeil en présence d’autres mâles, probablement pour surveiller de potentiels rivaux, mais également en présence de femelles en ac",
-      "link": "https://theconversation.com/surveiller-se-reproduire-recuperer-comment-les-chimpanzes-organisent-leurs-nuits-290888",
-      "image": "https://images.theconversation.com/files/763888/original/file-20261005-50-uw39on.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-06T13:58:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axrzjzx",
-      "title": "Brésil : le monde ancien est mort, et le nouveau ne peut pas naître",
-      "summary": "L’ESSENTIEL Flavio Bolsonaro a devancé Lula à l’issue du premier tour de la présidentielle brésilienne. Le leader de la gauche aura du mal à inverser la tendance au second tour. Une défaite de Lula planterait le dernier clou dans le cercueil de la Nouvelle République, ce système instauré au milieu des années 1980 après",
-      "link": "https://theconversation.com/bresil-le-monde-ancien-est-mort-et-le-nouveau-ne-peut-pas-naitre-293717",
-      "image": "https://images.theconversation.com/files/764246/original/file-20261006-50-dav5ue.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-06T13:54:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a7r5av7",
-      "title": "Comprendre la crise de la « valeur travail » à travers les yeux de policiers, des informaticiens et des ouvriers",
-      "summary": "L’ESSENTIEL La crise de la « valeur travail » traduit une individualisation du sens donné au travail depuis les années 1950. Pour comprendre ces évolutions, trois groupes professionnels ont été examinés à la loupe : ouvriers, policiers et informaticiens. La financiarisation et la managérisation de l’économie française ",
-      "link": "https://theconversation.com/comprendre-la-crise-de-la-valeur-travail-a-travers-les-yeux-de-policiers-des-informaticiens-et-des-ouvriers-285989",
-      "image": "https://counter.theconversation.com/content/285989/count.gif",
-      "publishedAt": "2026-10-06T13:52:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqsmnwq",
-      "title": "Mechanical Turk, la plateforme qui cachait des humains, tire sa révérence",
-      "summary": "La coupe du Turc mécanique de Joseph Friedrich von Racknitz est une explication technique de la supercherie de l’automate joueur d’échecs de Wolfgang von Kempelen. Wikipédia, CC BY L’ESSENTIEL La plateforme de microtâches Amazon Mechanical Turk a fermé dans une relative discrétion. Elle était utilisée notamment par les",
-      "link": "https://theconversation.com/mechanical-turk-la-plateforme-qui-cachait-des-humains-tire-sa-reverence-292008",
-      "image": "https://images.theconversation.com/files/759878/original/file-20260915-50-cr1tyf.jpg?ixlib=rb-4.1.1&amp;rect=0%2C116%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-06T13:51:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -477,7 +567,87 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a1fse2",
+      "title": "What Europe’s EU Inc. framework for boosting competitiveness can and should learn from startup fraud in the US",
+      "summary": "The European Parliament and the Council of the European Union are currently debating EU Inc, draft legislation seeking to establish a single set of rules for starting, operating, and growing a business across EU member states. The proposed framework is designed to make business registration and operation within the EU ",
+      "link": "https://theconversation.com/what-europes-eu-inc-framework-for-boosting-competitiveness-can-and-should-learn-from-startup-fraud-in-the-us-293380",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-06T14:19:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awvcw3s",
+      "title": "Surveiller, se reproduire, récupérer : comment les chimpanzés organisent leurs nuits",
+      "summary": "L’ESSENTIEL En Ouganda, une étude récente chez les chimpanzés dans leur milieu naturel est parvenue pour la première fois à les filmer endormis. Les mâles dominants réduisent leur temps de sommeil en présence d’autres mâles, probablement pour surveiller de potentiels rivaux, mais également en présence de femelles en ac",
+      "link": "https://theconversation.com/surveiller-se-reproduire-recuperer-comment-les-chimpanzes-organisent-leurs-nuits-290888",
+      "image": "https://images.theconversation.com/files/763888/original/file-20261005-50-uw39on.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-06T13:58:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axrzjzx",
+      "title": "Brésil : le monde ancien est mort, et le nouveau ne peut pas naître",
+      "summary": "L’ESSENTIEL Flavio Bolsonaro a devancé Lula à l’issue du premier tour de la présidentielle brésilienne. Le leader de la gauche aura du mal à inverser la tendance au second tour. Une défaite de Lula planterait le dernier clou dans le cercueil de la Nouvelle République, ce système instauré au milieu des années 1980 après",
+      "link": "https://theconversation.com/bresil-le-monde-ancien-est-mort-et-le-nouveau-ne-peut-pas-naitre-293717",
+      "image": "https://images.theconversation.com/files/764246/original/file-20261006-50-dav5ue.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-06T13:54:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a7r5av7",
+      "title": "Comprendre la crise de la « valeur travail » à travers les yeux de policiers, des informaticiens et des ouvriers",
+      "summary": "L’ESSENTIEL La crise de la « valeur travail » traduit une individualisation du sens donné au travail depuis les années 1950. Pour comprendre ces évolutions, trois groupes professionnels ont été examinés à la loupe : ouvriers, policiers et informaticiens. La financiarisation et la managérisation de l’économie française ",
+      "link": "https://theconversation.com/comprendre-la-crise-de-la-valeur-travail-a-travers-les-yeux-de-policiers-des-informaticiens-et-des-ouvriers-285989",
+      "image": "https://counter.theconversation.com/content/285989/count.gif",
+      "publishedAt": "2026-10-06T13:52:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aqsmnwq",
+      "title": "Mechanical Turk, la plateforme qui cachait des humains, tire sa révérence",
+      "summary": "La coupe du Turc mécanique de Joseph Friedrich von Racknitz est une explication technique de la supercherie de l’automate joueur d’échecs de Wolfgang von Kempelen. Wikipédia, CC BY L’ESSENTIEL La plateforme de microtâches Amazon Mechanical Turk a fermé dans une relative discrétion. Elle était utilisée notamment par les",
+      "link": "https://theconversation.com/mechanical-turk-la-plateforme-qui-cachait-des-humains-tire-sa-reverence-292008",
+      "image": "https://images.theconversation.com/files/759878/original/file-20260915-50-cr1tyf.jpg?ixlib=rb-4.1.1&amp;rect=0%2C116%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-06T13:51:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -493,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -511,7 +681,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -530,7 +700,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -546,169 +716,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aaymd9v",
-      "title": "Alliés potentiels, non-convaincus, détracteurs… comment dépasser les clivages créés par les ZFE ?",
-      "summary": "L’ESSENTIEL En France, les zones à faibles émissions (ZFE) se trouvent au cœur d’une saga politique et réglementaire ; accusées d’être socialement injustes, elles alimentent la défiance d’une partie de la population. Des travaux de recherche ont identifié six profils types de réactions face aux ZFE, qui permettent de m",
-      "link": "https://theconversation.com/allies-potentiels-non-convaincus-detracteurs-comment-depasser-les-clivages-crees-par-les-zfe-292801",
-      "image": "https://images.theconversation.com/files/761956/original/file-20260924-60-ax4xh4.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-06T10:12:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "an2c6ck",
-      "title": "Le long voyage du riz, de la préhistoire aux rizières du monde entier",
-      "summary": "Au VIIIᵉ siècle, les Maures venus d'Afrique du Nord ont introduit le riz dans la péninsule Ibérique, où sa culture s'est progressivement implantée. Matheus Bertelli/Pexels L’ESSENTIEL Né en Chine, en Inde et en Afrique, le riz possède plusieurs foyers de domestication. Migrations, guerres, commerce et esclavage ont per",
-      "link": "https://theconversation.com/le-long-voyage-du-riz-de-la-prehistoire-aux-rizieres-du-monde-entier-288943",
-      "image": "https://images.theconversation.com/files/751657/original/file-20260604-57-pue5dz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C630%2C3024%2C2015&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-06T07:38:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "migration"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6kd8fp",
-      "title": "L’histoire d’Argos, le fidèle chien d’Ulysse, éclaire la place des animaux dans la Grèce antique",
-      "summary": "Dans l’« Odyssée », Argos (ici peint par Briton Rivière en 1873) n’est pas qu’un chien : il incarne les liens entre humains et animaux dans la Grèce antique. Universal Pictures/Granger Historical Picture Archive L’ESSENTIEL Dans l’Odyssée, le chien Argos incarne la fidélité et les ravages du temps qui passe. Les animau",
-      "link": "https://theconversation.com/lhistoire-dargos-le-fidele-chien-dulysse-eclaire-la-place-des-animaux-dans-la-grece-antique-288398",
-      "image": "https://images.theconversation.com/files/750193/original/file-20260723-63-6w8uuw.jpg?ixlib=rb-4.1.1&amp;rect=377%2C0%2C1245%2C830&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-06T07:53:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "auignt4",
-      "title": "Ce que les critiques numériques de Marc Levy disent de notre rapport ambivalent aux best-sellers",
-      "summary": "Marc Levy en tête de gondole, dans un supermarché d’Angoulême, en Charente, en septembre 2026. Auchan Hypermarché Angoulême/Page Facebook L’ESSENTIEL Sur les plateformes littéraires en ligne, la parole est aux lectrices et lecteurs « ordinaires », loin des mondanités du monde de l’édition. Marc Levy, fort de 27 romans ",
-      "link": "https://theconversation.com/ce-que-les-critiques-numeriques-de-marc-levy-disent-de-notre-rapport-ambivalent-aux-best-sellers-292690",
-      "image": "https://images.theconversation.com/files/763488/original/file-20261001-50-gfoeac.png?ixlib=rb-4.1.1&amp;rect=0%2C110%2C1636%2C1090&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-05T12:19:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adxzeeh",
-      "title": "Trois idées reçues sur l’adaptation au changement climatique",
-      "summary": "Des cultures irriguées devant des feux de forêts, en Utah, aux États-Unis. Mike Newbry/Unsplash, CC BY L’ESSENTIEL En parallèle de l’atténuation des gaz à effet de serre, l’adaptation au changement climatique devient plus urgente que jamais. Cette notion reste cependant mal comprise. On peut, par exemple, penser qu’ell",
-      "link": "https://theconversation.com/trois-idees-recues-sur-ladaptation-au-changement-climatique-293481",
-      "image": "https://images.theconversation.com/files/763667/original/file-20261002-60-qh8fm3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4041%2C2694&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-05T12:18:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aifl830",
-      "title": "Pourquoi le goût est une expérience sensorielle au cœur de notre santé physique, de notre bien-être et de notre vie sociale",
-      "summary": "L’ESSENTIEL On parle de goût pour évoquer la flaveur, qui correspond à l’ensemble des sensations que nous ressentons quand nous mangeons. Des recherches sont menées dans des situations où le goût est altéré pour évaluer son impact sur la qualité de vie. Ces études mettent au jour des liens inattendus entre flaveur, san",
-      "link": "https://theconversation.com/pourquoi-le-gout-est-une-experience-sensorielle-au-coeur-de-notre-sante-physique-de-notre-bien-etre-et-de-notre-vie-sociale-293036",
-      "image": "https://counter.theconversation.com/content/293036/count.gif",
-      "publishedAt": "2026-10-05T12:22:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8zi7dj",
-      "title": "La retraite des personnes âgées immigrées : un droit menacé ?",
-      "summary": "L’ESSENTIEL Une enquête auprès d’anciens travailleurs et travailleuses migrantes, désormais à la retraite, montre que leur accès aux droits sociaux se dégrade. La dématérialisation des démarches administratives a accentué leur exclusion et les contrôles administratifs se multiplient. Le conditionnement de prestations a",
-      "link": "https://theconversation.com/la-retraite-des-personnes-agees-immigrees-un-droit-menace-289315",
-      "image": "https://counter.theconversation.com/content/289315/count.gif",
-      "publishedAt": "2026-10-05T12:21:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5cd6sc",
-      "title": "Au Kenya, choisir son poisson devient un véritable dilemme sanitaire",
-      "summary": "L’ESSENTIEL Le poisson apporte des nutriments essentiels, mais peut aussi contenir des contaminants liés à la pollution. Les consommateurs doivent donc arbitrer entre ces deux dimensions. Les consommateurs accordent davantage d’importance aux risques qu’aux bénéfices : une étude menée autour du lac Victoria, en Afrique",
-      "link": "https://theconversation.com/au-kenya-choisir-son-poisson-devient-un-veritable-dilemme-sanitaire-292614",
-      "image": "https://counter.theconversation.com/content/292614/count.gif",
-      "publishedAt": "2026-10-05T12:20:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apvdoci",
-      "title": "Comment des crottes de brebis ou du crottin de chevaux sauvages peuvent modifier un paysage",
-      "summary": "Un bousier *Geotrupes ssp.*, un cheval de Przewalski, un panorama du Causse Méjean. Clémentine Mutillod/Claudia Feh/Juan Sanchez, Fourni par l'auteur L’ESSENTIEL En Europe, les troupeaux d’élevage ont en grande partie remplacé les herbivores sauvages. Ce changement impacte l’ensemble des écosystèmes pâturés. Pour le me",
-      "link": "https://theconversation.com/comment-des-crottes-de-brebis-ou-du-crottin-de-chevaux-sauvages-peuvent-modifier-un-paysage-290388",
-      "image": "https://images.theconversation.com/files/760469/original/file-20260917-50-1ro4wb.jpg?ixlib=rb-4.1.1&amp;rect=331%2C0%2C4718%2C3144&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-05T12:17:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahvqeqe",
-      "title": "Protection de l’enfance : quels modèles d’alimentation ?",
-      "summary": "L’ESSENTIEL Dans les foyers de l’aide sociale à l’enfance, l’organisation des repas, très cadrée, peut revêtir un aspect familial. Certains jeunes s’adaptent facilement aux horaires et aux menus, d’autres adoptent des attitudes défensives. Leur rapport à l’alimentation est très lié à ce qu’ils pensent de leur mesure de",
-      "link": "https://theconversation.com/protection-de-lenfance-quels-modeles-dalimentation-290798",
-      "image": "https://images.theconversation.com/files/759679/original/file-20260914-50-64w9af.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-05T12:16:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     }
   ]
