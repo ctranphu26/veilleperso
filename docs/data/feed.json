@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:26:52.631Z",
+  "generatedAt": "2026-10-07T12:41:32.192Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 99,
+      "urgency": 90,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,93 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoszmhc",
+      "title": "La peste a-t-elle tué une chercheuse russe ? Ce que l’on peut dire à ce stade",
+      "summary": "L’ESSENTIEL Une employée d’un laboratoire russe est morte en Sibérie : la peste est suspectée, mais n’a pas été confirmée. La peste pulmonaire peut se transmettre entre humains et se soigne par antibiotiques si elle est traitée rapidement. Le risque pour la population semble faible, mais des informations transparentes ",
+      "link": "https://theconversation.com/la-peste-a-t-elle-tue-une-chercheuse-russe-ce-que-lon-peut-dire-a-ce-stade-293846",
+      "image": "https://counter.theconversation.com/content/293846/count.gif",
+      "publishedAt": "2026-10-07T09:42:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amoek0e",
+      "title": "Des scientifiques avaient prédit la fin du monde pour le vendredi 13 novembre 2026. Faut-il s’inquiéter ?",
+      "summary": "Un article publié dans Science en 1960 prédisait qu’avec une croissance démographique toujours plus rapide, la population humaine tendrait vers l’infini en 2026. (Unsplash) L’ESSENTIEL En 1960, des chercheurs prédisaient une croissance démographique infinie et la fin du monde pour le 13 novembre 2026. Leurs projections",
+      "link": "https://theconversation.com/des-scientifiques-avaient-predit-la-fin-du-monde-pour-le-vendredi-13-novembre-2026-faut-il-sinquieter-293842",
+      "image": "https://images.theconversation.com/files/764471/original/file-20260901-50-u96wjd.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6454%2C4302&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-07T10:19:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2xrzsf",
+      "title": "Retour du grand débat pour un retour espéré en classe…",
+      "summary": "Après plusieurs jours de mobilisation et de perturbations dans les lycées, le ministère veut organiser le retour en classe et ouvrir un temps de dialogue. Dans les établissements les plus L’article Retour du grand débat pour un retour espéré en classe… est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/07/retour-du-grand-debat-pour-un-retour-espere-en-classe/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/IMG_4433-rotated-e1787700011142-249x300.jpeg",
+      "publishedAt": "2026-10-07T05:08:59.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auu0dws",
+      "title": "Une mobilisation qui se construit, des convergences qui s’affirment",
+      "summary": "À Marseille ce mardi 6 octobre, entre 10 et 15000 personnes (selon les sources syndicales) ont manifesté dans le cadre d’une journée nationale de mobilisations. En majorité des lycéen.nes de L’article Une mobilisation qui se construit, des convergences qui s’affirment est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/07/une-mobilisation-qui-se-construit-des-convergences-qui-saffirment/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/261005-manif-lyc-1-1-300x225.jpeg",
+      "publishedAt": "2026-10-07T03:55:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayr8324",
+      "title": "De la mobilisation lycéenne à la mobilisation citoyenne",
+      "summary": "« Profs, lycéens, même combat ». Toutes générations confondues, c’est une colère historique comme déterminée qui s’exprime dans les cortèges et les établissements scolaires. Le 6 octobre, des cortèges se sont L’article De la mobilisation lycéenne à la mobilisation citoyenne est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/10/07/de-la-mobilisation-lyceenne-a-la-mobilisation-citoyenne/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg",
+      "publishedAt": "2026-10-07T04:00:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +255,7 @@
       ],
       "relevance": 93,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -187,25 +273,25 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
-      "id": "auu0dws",
-      "title": "Une mobilisation qui se construit, des convergences qui s’affirment",
-      "summary": "À Marseille ce mardi 6 octobre, entre 10 et 15000 personnes (selon les sources syndicales) ont manifesté dans le cadre d’une journée nationale de mobilisations. En majorité des lycéen.nes de L’article Une mobilisation qui se construit, des convergences qui s’affirment est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/07/une-mobilisation-qui-se-construit-des-convergences-qui-saffirment/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/261005-manif-lyc-1-1-300x225.jpeg",
-      "publishedAt": "2026-10-07T03:55:15.000Z",
+      "id": "ab5dpnu",
+      "title": "Pouria Amirshahi : « On ne devrait pas avoir à protéger nos enfants »",
+      "summary": "Face à l’ampleur des violences policières contre les lycéens mobilisés, des parents et des élus de gauche ont défilé en casques et brassards blancs, en première ligne des cortèges. À L’article Pouria Amirshahi : « On ne devrait pas avoir à protéger nos enfants » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/07/pouria-amirshahi-on-ne-devrait-pas-avoir-a-proteger-nos-enfants/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/IMG_5203-e1791349926624-191x300.jpeg",
+      "publishedAt": "2026-10-07T03:40:26.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
+      "themeId": "inclusion",
       "keywords": [
-        "source"
+        "violences"
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -223,23 +309,23 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
-      "id": "ayr8324",
-      "title": "De la mobilisation lycéenne à la mobilisation citoyenne",
-      "summary": "« Profs, lycéens, même combat ». Toutes générations confondues, c’est une colère historique comme déterminée qui s’exprime dans les cortèges et les établissements scolaires. Le 6 octobre, des cortèges se sont L’article De la mobilisation lycéenne à la mobilisation citoyenne est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/10/07/de-la-mobilisation-lyceenne-a-la-mobilisation-citoyenne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg",
-      "publishedAt": "2026-10-07T04:00:13.000Z",
+      "id": "am9kd14",
+      "title": "Save the date – Samedi 10 octobre : Forum du Manifeste du Café pédagogique",
+      "summary": "C’est samedi ! Le Café pédagogique vous invite au Forum du Manifeste en présence de Philippe Meirieu un après-midi pour faire vivre ses propositions et décider ensemble de ce que nous L’article Save the date – Samedi 10 octobre : Forum du Manifeste du Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/07/save-the-date-samedi-10-octobre-forum-du-manifeste-du-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/invitation10octobre-300x300.jpg",
+      "publishedAt": "2026-10-07T03:40:09.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -257,7 +343,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -275,7 +361,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -293,7 +379,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -309,7 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -325,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -341,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -357,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -373,7 +459,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -391,7 +477,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +511,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -444,7 +530,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -460,7 +546,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -476,23 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6kd8fp",
-      "title": "L’histoire d’Argos, le fidèle chien d’Ulysse, éclaire la place des animaux dans la Grèce antique",
-      "summary": "Dans l’« Odyssée », Argos (ici peint par Briton Rivière en 1873) n’est pas qu’un chien : il incarne les liens entre humains et animaux dans la Grèce antique. Universal Pictures/Granger Historical Picture Archive L’ESSENTIEL Dans l’Odyssée, le chien Argos incarne la fidélité et les ravages du temps qui passe. Les animau",
-      "link": "https://theconversation.com/lhistoire-dargos-le-fidele-chien-dulysse-eclaire-la-place-des-animaux-dans-la-grece-antique-288398",
-      "image": "https://images.theconversation.com/files/750193/original/file-20260723-63-6w8uuw.jpg?ixlib=rb-4.1.1&amp;rect=377%2C0%2C1245%2C830&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-06T07:53:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -510,60 +580,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "ak9ml6d",
-      "title": "Mobilisation lycéenne : un appel à la mobilisation générale et à la protection des jeunes",
-      "summary": "Que s’est-il passé lundi, à la veille de la journée de mobilisation du mardi 6 octobre ? Blocus et fermetures d’établissements, gardes-à-vue d’élèves, revendications soutenues par les organisations syndicales et L’article Mobilisation lycéenne : un appel à la mobilisation générale et à la protection des jeunes est appa",
-      "link": "https://www.cafepedagogique.net/2026/10/06/mobilisation-lyceenne-un-appel-a-la-mobilisation-generale-et-a-la-protection-des-jeunes/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/IMG_7427-265x300.jpg",
-      "publishedAt": "2026-10-06T04:57:02.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atv9bqc",
-      "title": "De la salle de classe aux gaz lacrymogènes : la colère des lycéens de Sevran",
-      "summary": "Le Café pédagogique donne la parole aux lycéennes et lycéens du lycée Blaise Cendrars de Sevran. « Nous ne demandons aucun privilège. Nous demandons des professeurs, du matériel, des personnels de L’article De la salle de classe aux gaz lacrymogènes : la colère des lycéens de Sevran est apparu en premier sur Le Café pé",
-      "link": "https://www.cafepedagogique.net/2026/10/06/de-la-salle-de-classe-aux-gaz-lacrymogenes-la-colere-des-lyceens-de-sevran/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-6.56.55-PM-e1791219720856-300x273.jpeg",
-      "publishedAt": "2026-10-06T03:55:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur",
-        "classe"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arqu9fu",
-      "title": "« Renouveau lycéen » : le spectre d’« Avenir lycéen » ressurgit",
-      "summary": "Les organisations lycéennes ont été reçues vendredi 2 octobre au ministère de l’Éducation nationale. Parmi les porte-voix des lycéens, les profils des responsables de « Renouveau lycéen », proches de L’article « Renouveau lycéen » : le spectre d’« Avenir lycéen » ressurgit est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/06/renouveau-lyceen-le-spectre-d-avenir-lyceen-ressurgit/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Renouveau-lyceen-syndicat-300x300.png",
-      "publishedAt": "2026-10-06T04:00:10.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "a6kd8fp",
+      "title": "L’histoire d’Argos, le fidèle chien d’Ulysse, éclaire la place des animaux dans la Grèce antique",
+      "summary": "Dans l’« Odyssée », Argos (ici peint par Briton Rivière en 1873) n’est pas qu’un chien : il incarne les liens entre humains et animaux dans la Grèce antique. Universal Pictures/Granger Historical Picture Archive L’ESSENTIEL Dans l’Odyssée, le chien Argos incarne la fidélité et les ravages du temps qui passe. Les animau",
+      "link": "https://theconversation.com/lhistoire-dargos-le-fidele-chien-dulysse-eclaire-la-place-des-animaux-dans-la-grece-antique-288398",
+      "image": "https://images.theconversation.com/files/750193/original/file-20260723-63-6w8uuw.jpg?ixlib=rb-4.1.1&amp;rect=377%2C0%2C1245%2C830&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-06T07:53:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 48,
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -579,7 +612,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -595,7 +628,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -611,7 +644,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -627,7 +660,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -643,7 +676,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -659,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -675,39 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apjabpg",
-      "title": "Pourquoi le bonheur des enfants doit être une priorité politique",
-      "summary": "L’ESSENTIEL Le bien-être des enfants devrait être au cœur des politiques publiques. La collectivité y gagnerait financièrement, mais pas seulement. Malgré les déclarations, la France ne dispose pas d’indicateurs spécifiques ni d’un organisme consacré à cette question. À la différence d’autres pays. Pourtant des solutio",
-      "link": "https://theconversation.com/pourquoi-le-bonheur-des-enfants-doit-etre-une-priorite-politique-287108",
-      "image": "https://counter.theconversation.com/content/287108/count.gif",
-      "publishedAt": "2026-10-05T12:11:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apuh5f4",
-      "title": "Entreprises familiales : les salariés actionnaires, un levier sous-estimé",
-      "summary": "Les entreprises familiales sont moins enclines que d’autres à ouvrir leur capital à leurs salariés. Pourtant, cette pratique pourrait être positive à plus d’un titre. Outre l’intérêt financier, cela peut être un moyen de prouver certains des atouts mis en avant dans le recrutement. Les entreprises familiales cultivent ",
-      "link": "https://theconversation.com/entreprises-familiales-les-salaries-actionnaires-un-levier-sous-estime-282086",
-      "image": "https://counter.theconversation.com/content/282086/count.gif",
-      "publishedAt": "2026-10-05T09:16:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     }
   ]
