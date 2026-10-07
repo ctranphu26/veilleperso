@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:21:55.053Z",
+  "generatedAt": "2026-10-07T04:26:52.631Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,21 +119,127 @@
   "count": 35,
   "items": [
     {
-      "id": "ams6t7a",
-      "title": "« L’école n’est pas un champ de bataille » : ces organisations dénoncent la répression des jeunes",
-      "summary": "Dans un communiqué commun, la LDH, la CGT, la FCPE, la Fage, l’Unef, Solidaires et plusieurs organisations de jeunesse dénoncent la réponse policière aux mobilisations lycéennes et étudiantes. Elles font L’article « L’école n’est pas un champ de bataille » : ces organisations dénoncent la répression des jeunes est appa",
-      "link": "https://www.cafepedagogique.net/2026/10/06/lecole-nest-pas-un-champ-de-bataille-ces-organisations-denoncent-la-repression-des-jeunes/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/droits-300x127.png",
-      "publishedAt": "2026-10-06T03:27:29.000Z",
+      "id": "awacm0x",
+      "title": "Des violences lors des mouvements lycéens d’hier et d’aujourd’hui",
+      "summary": "« Aussi loin que l’on remonte et aussi sélectionnés qu’ont pu être les lycéens, les risques de débordements violents ont régulièrement été présents dans leurs mouvements collectifs » rappelle Claude Lelièvre. L’historien de L’article Des violences lors des mouvements lycéens d’hier et d’aujourd’hui est apparu en premie",
+      "link": "https://www.cafepedagogique.net/2026/10/07/des-violences-lors-des-mouvements-lyceens-dhier-et-daujourdhui/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/claude-lelievre_historien-300x200.jpg",
+      "publishedAt": "2026-10-07T03:50:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 99,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3pnz9v",
+      "title": "Littérature jeunesse : Cherche et trouve",
+      "summary": "Loin des troubles de la semaine et même si on aimerait offrir aux lycéens des solutions joyeuses et un brin magiques, deux albums « Cherche et trouve » pour les plus petits L’article Littérature jeunesse : Cherche et trouve est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/07/litterature-jeunesse-cherche-et-trouve/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/magic-Billy-Caches-dans-lautomne-300x214.jpeg",
+      "publishedAt": "2026-10-07T03:29:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "adnrbd3",
+      "title": "Faut-il gommer à la place d’un élève ? Le dilemme ordinaire des enseignants",
+      "summary": "Émilie et Romane enseignent toutes les deux en CE1. Lors d’un entretien croisé, elles regardent une vidéo tournée pendant un temps de travail individuel dans la classe d’Émilie. Celle-ci circule L’article Faut-il gommer à la place d’un élève ? Le dilemme ordinaire des enseignants est apparu en premier sur Le Café pédag",
+      "link": "https://www.cafepedagogique.net/2026/10/07/faut-il-gommer-a-la-place-dun-eleve-le-dilemme-ordinaire-des-enseignants/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/gomme-300x132.png",
+      "publishedAt": "2026-10-07T03:30:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "enseignant",
+        "classe"
+      ],
+      "relevance": 93,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aljxdfo",
+      "title": "« Les adultes ne doivent pas laisser les jeunes seuls » : l’appel d’une enseignante aux collègues",
+      "summary": "Dans une tribune adressée à ses collègues, Barbara Romagnan, enseignante de français à l’Inspe de Franche-Comté, appelle les personnels de l’éducation à soutenir les lycéens en lutte. Face à une L’article « Les adultes ne doivent pas laisser les jeunes seuls » : l’appel d’une enseignante aux collègues est apparu en pre",
+      "link": "https://www.cafepedagogique.net/2026/10/07/les-adultes-ne-doivent-pas-laisser-les-jeunes-seuls-lappel-dune-enseignante-aux-collegues/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/barbaraRomagnan-300x225.jpg",
+      "publishedAt": "2026-10-07T03:45:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auu0dws",
+      "title": "Une mobilisation qui se construit, des convergences qui s’affirment",
+      "summary": "À Marseille ce mardi 6 octobre, entre 10 et 15000 personnes (selon les sources syndicales) ont manifesté dans le cadre d’une journée nationale de mobilisations. En majorité des lycéen.nes de L’article Une mobilisation qui se construit, des convergences qui s’affirment est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/07/une-mobilisation-qui-se-construit-des-convergences-qui-saffirment/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/261005-manif-lyc-1-1-300x225.jpeg",
+      "publishedAt": "2026-10-07T03:55:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a35o3oy",
+      "title": "Cinéma & dossier pédagogique : « Retour au collège »",
+      "summary": "Voici un film sur l’école qui tombe vraiment à point nommé ! Après A nous de jouer !, le réalisateur Antoine Fromental fait un Retour au collège, au plus près L’article Cinéma & dossier pédagogique : « Retour au collège » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/07/cinema-dossier-pedagogique-retour-au-college/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/affiche-film-hd-225x300.jpg",
+      "publishedAt": "2026-10-07T03:28:27.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
         "école"
       ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 71,
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayr8324",
+      "title": "De la mobilisation lycéenne à la mobilisation citoyenne",
+      "summary": "« Profs, lycéens, même combat ». Toutes générations confondues, c’est une colère historique comme déterminée qui s’exprime dans les cortèges et les établissements scolaires. Le 6 octobre, des cortèges se sont L’article De la mobilisation lycéenne à la mobilisation citoyenne est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/10/07/de-la-mobilisation-lyceenne-a-la-mobilisation-citoyenne/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg",
+      "publishedAt": "2026-10-07T04:00:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -151,8 +257,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ac60yno",
@@ -169,8 +275,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7r3q0b",
@@ -187,26 +293,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ae7nuhh",
-      "title": "L’APSES mobilisée aux côtés des lycéen·nes",
-      "summary": "Dans un communiqué de presse en date du 5 octobre l’APSES (Association des professeur·es de sciences économiques et sociales) déclare se joindre à « l’appel de l’intersyndicale à se mobiliser aux L’article L’APSES mobilisée aux côtés des lycéen·nes est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/06/lapses-mobilisee-aux-cotes-des-lyceen%c2%b7nes/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/APSES-logo_carre-300x300.jpg",
-      "publishedAt": "2026-10-06T03:27:54.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1fse2",
@@ -221,8 +309,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awvcw3s",
@@ -237,8 +325,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axrzjzx",
@@ -253,8 +341,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7r5av7",
@@ -269,8 +357,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqsmnwq",
@@ -285,24 +373,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ahrrh7z",
-      "title": "Blocus lycéens et étudiants : chronique d’une explosion annoncée",
-      "summary": "« Que sait du désert celui qui ne regarde qu’un grain de sable ? » (Orsenna). Derrière l’explosivité sociale du mouvement des lycéens, les raisons de la colère sont à L’article Blocus lycéens et étudiants : chronique d’une explosion annoncée est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/06/blocus-lyceens-et-etudiants-chronique-dune-explosion-annoncee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/cafepedagogique.GabrielPerez-300x278.jpg",
-      "publishedAt": "2026-10-06T03:45:32.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a58cqwi",
@@ -319,8 +391,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7yxgdy",
@@ -335,8 +407,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ak0a3d5",
@@ -353,7 +425,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -372,7 +444,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -388,7 +460,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -404,7 +476,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6kd8fp",
+      "title": "L’histoire d’Argos, le fidèle chien d’Ulysse, éclaire la place des animaux dans la Grèce antique",
+      "summary": "Dans l’« Odyssée », Argos (ici peint par Briton Rivière en 1873) n’est pas qu’un chien : il incarne les liens entre humains et animaux dans la Grèce antique. Universal Pictures/Granger Historical Picture Archive L’ESSENTIEL Dans l’Odyssée, le chien Argos incarne la fidélité et les ravages du temps qui passe. Les animau",
+      "link": "https://theconversation.com/lhistoire-dargos-le-fidele-chien-dulysse-eclaire-la-place-des-animaux-dans-la-grece-antique-288398",
+      "image": "https://images.theconversation.com/files/750193/original/file-20260723-63-6w8uuw.jpg?ixlib=rb-4.1.1&amp;rect=377%2C0%2C1245%2C830&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-06T07:53:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -422,23 +510,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6kd8fp",
-      "title": "L’histoire d’Argos, le fidèle chien d’Ulysse, éclaire la place des animaux dans la Grèce antique",
-      "summary": "Dans l’« Odyssée », Argos (ici peint par Briton Rivière en 1873) n’est pas qu’un chien : il incarne les liens entre humains et animaux dans la Grèce antique. Universal Pictures/Granger Historical Picture Archive L’ESSENTIEL Dans l’Odyssée, le chien Argos incarne la fidélité et les ravages du temps qui passe. Les animau",
-      "link": "https://theconversation.com/lhistoire-dargos-le-fidele-chien-dulysse-eclaire-la-place-des-animaux-dans-la-grece-antique-288398",
-      "image": "https://images.theconversation.com/files/750193/original/file-20260723-63-6w8uuw.jpg?ixlib=rb-4.1.1&amp;rect=377%2C0%2C1245%2C830&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-06T07:53:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -456,43 +528,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arqu9fu",
-      "title": "« Renouveau lycéen » : le spectre d’« Avenir lycéen » ressurgit",
-      "summary": "Les organisations lycéennes ont été reçues vendredi 2 octobre au ministère de l’Éducation nationale. Parmi les porte-voix des lycéens, les profils des responsables de « Renouveau lycéen », proches de L’article « Renouveau lycéen » : le spectre d’« Avenir lycéen » ressurgit est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/06/renouveau-lyceen-le-spectre-d-avenir-lyceen-ressurgit/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Renouveau-lyceen-syndicat-300x300.png",
-      "publishedAt": "2026-10-06T04:00:10.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aumergb",
-      "title": "Technologie : « L’élève doit être en activité en permanence »",
-      "summary": "Après trente ans d’enseignement de la technologie, l’enseignant Éric Losfeld raconte comment il a progressivement transformé ses cours pour placer les élèves davantage en activité. Supports numériques, manipulations, travail en L’article Technologie : « L’élève doit être en activité en permanence » est apparu en premie",
-      "link": "https://www.cafepedagogique.net/2026/10/06/technologie-leleve-doit-etre-en-activite-en-permanence/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/eric-losfeld-214x300.jpg",
-      "publishedAt": "2026-10-06T03:30:20.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 88,
-      "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -511,59 +547,23 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "amxe2l8",
-      "title": "Castor Informatique : initier les élèves à l’informatique en jouant",
-      "summary": "Le concours Castor Informatique propose aux élèves de découvrir l’informatique et la pensée algorithmique à travers une série de défis ludiques. Accessible dès le CM1 et jusqu’au lycée, il ne L’article Castor Informatique : initier les élèves à l’informatique en jouant est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/06/castor-informatique-initier-les-eleves-a-linformatique-en-jouant/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/12/Concours_Castor_Informatique_Mascotte-300x300.jpg",
-      "publishedAt": "2026-10-06T03:29:23.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "auyvyvh",
-      "title": "Maths : mon drone est coincé, appelez Pythagore !",
-      "summary": "Comment travailler le théorème de Pythagore de façon ludique ? Pythou et l’échelle, proposé par Arnaud Durand sur Mathix, place les élèves face à plusieurs situations concrètes. Atteindre un bateau, L’article Maths : mon drone est coincé, appelez Pythagore ! est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/06/maths-mon-drone-est-coince-appelez-pythagore/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/maths-drone-300x184.png",
-      "publishedAt": "2026-10-06T03:29:17.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apmj03b",
-      "title": "Art et science se rencontrent au Muséum national d’Histoire naturelle",
-      "summary": "Créé en 1626, le Muséum national d’Histoire naturelle fête ses 400 ans et à cette occasion invite à redécouvrir l’histoire d’un dialogue fécond et ininterrompu entre art et science. Depuis L’article Art et science se rencontrent au Muséum national d’Histoire naturelle est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/06/art-et-science-se-rencontrent-au-museum-national-dhistoire-naturelle/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/EXPO-DU-MNHN-300x169.jpg",
-      "publishedAt": "2026-10-06T03:28:27.000Z",
+      "id": "arqu9fu",
+      "title": "« Renouveau lycéen » : le spectre d’« Avenir lycéen » ressurgit",
+      "summary": "Les organisations lycéennes ont été reçues vendredi 2 octobre au ministère de l’Éducation nationale. Parmi les porte-voix des lycéens, les profils des responsables de « Renouveau lycéen », proches de L’article « Renouveau lycéen » : le spectre d’« Avenir lycéen » ressurgit est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/06/renouveau-lyceen-le-spectre-d-avenir-lyceen-ressurgit/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Renouveau-lyceen-syndicat-300x300.png",
+      "publishedAt": "2026-10-06T04:00:10.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -579,7 +579,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -595,7 +595,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -611,7 +611,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -627,7 +627,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -643,7 +643,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -659,7 +659,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -675,7 +675,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -691,7 +691,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -707,7 +707,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     }
   ]
