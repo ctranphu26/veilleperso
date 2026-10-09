@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:36:47.285Z",
+  "generatedAt": "2026-10-09T22:17:20.119Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,24 @@
   "count": 35,
   "items": [
     {
+      "id": "amlb8g",
+      "title": "En Nouvelle-Zélande, la réforme de l’éducation risque-t-elle de creuser les écarts entre élèves ?",
+      "summary": "En Nouvelle-Zélande, le défi des réformes scolaires est d’améliorer les résultats tout en répondant aux besoins des élèves les plus vulnérables. Herryssnt/Shutterstock.com L’ESSENTIEL La Nouvelle-Zélande réforme son système scolaire, au risque de creuser les difficultés des élèves les plus vulnérables. Le recours à l’e",
+      "link": "https://theconversation.com/en-nouvelle-zelande-la-reforme-de-leducation-risque-t-elle-de-creuser-les-ecarts-entre-eleves-293961",
+      "image": "https://images.theconversation.com/files/764837/original/file-20261008-50-1lsini.jpg?ixlib=rb-4.1.1&amp;rect=0%2C351%2C8159%2C5440&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-09T14:29:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "adpqkcz",
       "title": "TZR, contractuels et pacte pour colmater les brèches",
       "summary": "Invité à la toute fin du 20h de TF1, le ministre Édouard Geffray a annoncé le déploiement de 3 000 professeurs remplaçants entre ce vendredi et mardi prochain. « Il L’article TZR, contractuels et pacte pour colmater les brèches est apparu en premier sur Le Café pédagogique.",
@@ -133,7 +151,96 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 91,
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ad4dhtv",
+      "title": "Navi Pillay, prix Nobel de la paix 2026 : le droit international contre la loi du plus fort",
+      "summary": "L’ESSENTIEL En récompensant Navi Pillay, ancienne Haut-Commissaire des Nations unies aux droits de l’homme et figure majeure de la justice pénale internationale, le comité Nobel place la défense des victimes et la responsabilité des États au cœur de la conception de la paix. Ce choix est particulièrement significatif à",
+      "link": "https://theconversation.com/navi-pillay-prix-nobel-de-la-paix-2026-le-droit-international-contre-la-loi-du-plus-fort-294072",
+      "image": "https://counter.theconversation.com/content/294072/count.gif",
+      "publishedAt": "2026-10-09T15:07:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aeks45q",
+      "title": "L’Angleterre fait de l’inclusion une priorité scolaire, mais que signifie-t-elle vraiment ?",
+      "summary": "L’inclusion scolaire se mesure aussi au sentiment d’appartenance des élèves et à leur possibilité de participer pleinement à la vie de la classe. Rawpixel.com/Shutterstock L’ESSENTIEL Scolariser un enfant dans une école ordinaire ne suffit pas à garantir son inclusion. L’inclusion repose aussi sur le sentiment d’appart",
+      "link": "https://theconversation.com/langleterre-fait-de-linclusion-une-priorite-scolaire-mais-que-signifie-t-elle-vraiment-293959",
+      "image": "https://images.theconversation.com/files/764834/original/file-20260917-60-765y2c.jpg?ixlib=rb-4.1.1&amp;rect=0%2C190%2C6646%2C4430&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-09T14:28:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "inclusion"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3ucr6v",
+      "title": "À quoi pourrait ressembler une journée à l’école en 2035 ?",
+      "summary": "La réalité virtuelle pourrait transformer l’école de demain en permettant aux élèves d’explorer des environnements immersifs et d’apprendre par l’expérimentation. wavebreakmedia/Shutterstock L’ESSENTIEL En 2035, l’intelligence artificielle et les technologies immersives pourraient transformer profondément les façons d’",
+      "link": "https://theconversation.com/a-quoi-pourrait-ressembler-une-journee-a-lecole-en-2035-294062",
+      "image": "https://images.theconversation.com/files/765178/original/file-20250703-56-67n0uc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7872%2C5248&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-09T14:30:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "élève"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a4htx6v",
+      "title": "Quel rôle le collège et le lycée jouent-ils dans la santé mentale des élèves ? Une étude australienne lève un coin du voile",
+      "summary": "L’ESSENTIEL Une étude australienne a suivi plus de 1 500 élèves de 35 établissements secondaires. Le sentiment d’appartenance du collégien à la communauté scolaire est associé à un meilleur bien-être psychologique deux ans plus tard. Les relations avec les camarades et les personnels scolaires semblent compter davantag",
+      "link": "https://theconversation.com/quel-role-le-college-et-le-lycee-jouent-ils-dans-la-sante-mentale-des-eleves-une-etude-australienne-leve-un-coin-du-voile-294060",
+      "image": "https://counter.theconversation.com/content/294060/count.gif",
+      "publishedAt": "2026-10-09T14:29:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayzmgrl",
+      "title": "Pourquoi les universités américaines remettent en question leur examen d’entrée historique",
+      "summary": "Plus de deux millions d’élèves ont passé le SAT en 2025. zimmytws/iStock/Getty Images Plus L’ESSENTIEL Créé en 1926, le SAT, un examen standardisé, a révolutionné l’accès aux universités américaines en uniformisant les examens d’entrée. Ses résultats restent très liés à l’origine sociale des élèves, ce qui alimente les",
+      "link": "https://theconversation.com/pourquoi-les-universites-americaines-remettent-en-question-leur-examen-dentree-historique-294061",
+      "image": "https://images.theconversation.com/files/765177/original/file-20260918-50-urj9x7.jpg?ixlib=rb-4.1.1&amp;rect=0%2C5%2C4688%2C3125&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-09T14:30:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +258,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +276,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +292,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -201,8 +308,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avlsu2t",
@@ -219,8 +326,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "azbdt1y",
@@ -238,8 +345,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8hgynt",
@@ -256,8 +363,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajb1e8p",
@@ -274,8 +381,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apuvtmn",
@@ -292,24 +399,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aw548se",
-      "title": "« La petite reine », star au musée d’Art et d’Industrie de Saint-Étienne",
-      "summary": "Vous pensiez tout savoir sur le vélo ? Et bien non ! Laissez-vous embarquer dans un voyage innovant au cœur de l’aventure du cycle. Le musée d’art et d’industrie de L’article « La petite reine », star au musée d’Art et d’Industrie de Saint-Étienne est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/09/la-petite-reine-star-au-musee-dart-et-dindustrie-de-saint-etienne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/velos-recents-300x169.jpg",
-      "publishedAt": "2026-10-09T03:28:13.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aq93tsr",
@@ -324,7 +415,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aw548se",
+      "title": "« La petite reine », star au musée d’Art et d’Industrie de Saint-Étienne",
+      "summary": "Vous pensiez tout savoir sur le vélo ? Et bien non ! Laissez-vous embarquer dans un voyage innovant au cœur de l’aventure du cycle. Le musée d’art et d’industrie de L’article « La petite reine », star au musée d’Art et d’Industrie de Saint-Étienne est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/09/la-petite-reine-star-au-musee-dart-et-dindustrie-de-saint-etienne/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/velos-recents-300x169.jpg",
+      "publishedAt": "2026-10-09T03:28:13.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,55 +449,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3cmzyh",
-      "title": "Les jeux vidéo « triple i », évolution ou trahison de l’idéal d’indépendance ?",
-      "summary": "*Clair Obscur : Expédition 33*, jeu vidéo de rôle de fantasy développé par le studio français Sandfall Interactive, dont il est la première création, et publié par l’éditeur Kepler Interactive en 2025. L’ESSENTIEL L’expression « triple i » fait référence aux jeux vidéo dits « indépendants » et renvoie aux jeux « triple",
-      "link": "https://theconversation.com/les-jeux-video-triple-i-evolution-ou-trahison-de-lideal-dindependance-285829",
-      "image": "https://images.theconversation.com/files/764390/original/file-20261006-50-w2go72.png?ixlib=rb-4.1.1&amp;rect=270%2C0%2C1550%2C1033&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T14:45:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1k4iyw",
-      "title": "Guess who’s back ! Le Royaume-Uni va-t-il revenir au sein de l’Union européenne ?",
-      "summary": "L’ESSENTIEL Le débat sur l’Union européenne revient au premier plan au Royaume-Uni, sous l’impulsion du nouveau premier ministre Andy Burnham, favorable à un rapprochement avec l’UE, voire à un retour en bonne et due forme. Le contexte semble favorable : popularité en baisse de Reform UK, principal parti anti-UE, évolu",
-      "link": "https://theconversation.com/guess-whos-back-le-royaume-uni-va-t-il-revenir-au-sein-de-lunion-europeenne-293622",
-      "image": "https://counter.theconversation.com/content/293622/count.gif",
-      "publishedAt": "2026-10-08T14:44:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "auom1dw",
-      "title": "Le four tahitien, un laboratoire scientifique sous nos pieds",
-      "summary": "Four circulaire familial-Pū atiti’a. L. Rochette, Fourni par l'auteur L’ESSENTIEL L’ahimā’a, le four tahitien traditionnel, est bien plus qu’une technique culinaire : il constitue une véritable technologie thermique, fondée sur des savoirs empiriques. Son étude permet de croiser alimentation, environnement, archéologi",
-      "link": "https://theconversation.com/le-four-tahitien-un-laboratoire-scientifique-sous-nos-pieds-292869",
-      "image": "https://images.theconversation.com/files/764714/original/file-20261007-72-wq36po.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T14:44:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -408,7 +467,87 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3cmzyh",
+      "title": "Les jeux vidéo « triple i », évolution ou trahison de l’idéal d’indépendance ?",
+      "summary": "*Clair Obscur : Expédition 33*, jeu vidéo de rôle de fantasy développé par le studio français Sandfall Interactive, dont il est la première création, et publié par l’éditeur Kepler Interactive en 2025. L’ESSENTIEL L’expression « triple i » fait référence aux jeux vidéo dits « indépendants » et renvoie aux jeux « triple",
+      "link": "https://theconversation.com/les-jeux-video-triple-i-evolution-ou-trahison-de-lideal-dindependance-285829",
+      "image": "https://images.theconversation.com/files/764390/original/file-20261006-50-w2go72.png?ixlib=rb-4.1.1&amp;rect=270%2C0%2C1550%2C1033&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-08T14:45:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a1k4iyw",
+      "title": "Guess who’s back ! Le Royaume-Uni va-t-il revenir au sein de l’Union européenne ?",
+      "summary": "L’ESSENTIEL Le débat sur l’Union européenne revient au premier plan au Royaume-Uni, sous l’impulsion du nouveau premier ministre Andy Burnham, favorable à un rapprochement avec l’UE, voire à un retour en bonne et due forme. Le contexte semble favorable : popularité en baisse de Reform UK, principal parti anti-UE, évolu",
+      "link": "https://theconversation.com/guess-whos-back-le-royaume-uni-va-t-il-revenir-au-sein-de-lunion-europeenne-293622",
+      "image": "https://counter.theconversation.com/content/293622/count.gif",
+      "publishedAt": "2026-10-08T14:44:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "auom1dw",
+      "title": "Le four tahitien, un laboratoire scientifique sous nos pieds",
+      "summary": "Four circulaire familial-Pū atiti’a. L. Rochette, Fourni par l'auteur L’ESSENTIEL L’ahimā’a, le four tahitien traditionnel, est bien plus qu’une technique culinaire : il constitue une véritable technologie thermique, fondée sur des savoirs empiriques. Son étude permet de croiser alimentation, environnement, archéologi",
+      "link": "https://theconversation.com/le-four-tahitien-un-laboratoire-scientifique-sous-nos-pieds-292869",
+      "image": "https://images.theconversation.com/files/764714/original/file-20261007-72-wq36po.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-08T14:44:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aemmjj6",
+      "title": "Pourquoi ça pue ? Ce que les odeurs de nos déchets disent de nous",
+      "summary": "L’ESSENTIEL Pourquoi un doudou qui « sent mauvais » pour un adulte reste-t-il un trésor pour l’enfant qui l’aime ? Pourquoi le camembert ouvre-t-il l’appétit, tandis que l’odeur d’un aliment moisi nous fait reculer ? L’atelier « Pourquoi ça pue ? » s’inscrit dans la programmation de la Fête de la science 2026 en propos",
+      "link": "https://theconversation.com/pourquoi-ca-pue-ce-que-les-odeurs-de-nos-dechets-disent-de-nous-293599",
+      "image": "https://images.theconversation.com/files/764292/original/file-20261006-71-jgi7cg.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-08T14:41:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awylkw2",
+      "title": "Un prix Nobel pour les neutrinos, ces messagers invisibles qui nous viennent du cosmos",
+      "summary": "L’ESSENTIEL Le prix Nobel de physique 2026 a été décerné au chercheur belge Francis Halzen pour ses travaux sur les neutrinos, les particules les plus énigmatiques et les plus furtives de la physique. Certains de ces neutrinos ont une énergie folle et, pourtant, ils traversent la planète – et chacun d’entre nous – très",
+      "link": "https://theconversation.com/un-prix-nobel-pour-les-neutrinos-ces-messagers-invisibles-qui-nous-viennent-du-cosmos-293986",
+      "image": "https://counter.theconversation.com/content/293986/count.gif",
+      "publishedAt": "2026-10-08T14:26:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -426,39 +565,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aemmjj6",
-      "title": "Pourquoi ça pue ? Ce que les odeurs de nos déchets disent de nous",
-      "summary": "L’ESSENTIEL Pourquoi un doudou qui « sent mauvais » pour un adulte reste-t-il un trésor pour l’enfant qui l’aime ? Pourquoi le camembert ouvre-t-il l’appétit, tandis que l’odeur d’un aliment moisi nous fait reculer ? L’atelier « Pourquoi ça pue ? » s’inscrit dans la programmation de la Fête de la science 2026 en propos",
-      "link": "https://theconversation.com/pourquoi-ca-pue-ce-que-les-odeurs-de-nos-dechets-disent-de-nous-293599",
-      "image": "https://images.theconversation.com/files/764292/original/file-20261006-71-jgi7cg.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-08T14:41:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awylkw2",
-      "title": "Un prix Nobel pour les neutrinos, ces messagers invisibles qui nous viennent du cosmos",
-      "summary": "L’ESSENTIEL Le prix Nobel de physique 2026 a été décerné au chercheur belge Francis Halzen pour ses travaux sur les neutrinos, les particules les plus énigmatiques et les plus furtives de la physique. Certains de ces neutrinos ont une énergie folle et, pourtant, ils traversent la planète – et chacun d’entre nous – très",
-      "link": "https://theconversation.com/un-prix-nobel-pour-les-neutrinos-ces-messagers-invisibles-qui-nous-viennent-du-cosmos-293986",
-      "image": "https://counter.theconversation.com/content/293986/count.gif",
-      "publishedAt": "2026-10-08T14:26:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -474,7 +581,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -490,7 +597,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -506,7 +613,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -524,7 +631,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -540,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -556,25 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a37sylx",
-      "title": "Manifestations lycéennes, réponse du gouvernement : pourquoi la situation est inédite – et imprévisible",
-      "summary": "L’ESSENTIEL Le mouvement lycéen, rejoint par des parents, des enseignants et des syndicats, a réuni 450 000 manifestants, le 6 octobre dans toute la France (250 000 manifestants, selon le gouvernement). Si les revendications sur les moyens sont récurrentes, le contexte global et la forme du mouvement – né dans les banl",
-      "link": "https://theconversation.com/manifestations-lyceennes-reponse-du-gouvernement-pourquoi-la-situation-est-inedite-et-imprevisible-293772",
-      "image": "https://counter.theconversation.com/content/293772/count.gif",
-      "publishedAt": "2026-10-07T12:53:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -592,8 +681,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ard323g",
@@ -610,8 +699,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aaa2iru",
@@ -628,89 +717,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a7254m5",
-      "title": "Silver économie : le « bien vieillir », un marché comme les autres ?",
-      "summary": "Les seniors ne voient pas toujours l’utilité des produits que la silver économie cherche à leur vendre. Pexels, CC BY L’ESSENTIEL Le vieillissement de la population crée des besoins en matière de technologies de santé et d’aménagement des espaces. Initialement focalisée sur la lutte contre la perte d’autonomie, la « si",
-      "link": "https://theconversation.com/silver-economie-le-bien-vieillir-un-marche-comme-les-autres-292545",
-      "image": "https://images.theconversation.com/files/762014/original/file-20260924-60-q4elp.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-07T14:51:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awgfvke",
-      "title": "Quand la nicotine est promue comme produit bien-être sur les réseaux, alors qu’elle reste une substance addictive",
-      "summary": "L’ESSENTIEL La nicotine est parfois présentée comme un moyen d’améliorer la concentration et de réduire le stress, mais les preuves manquent. Les études chez l’être humain ne montrent pas qu’elle prévient le déclin cognitif ou favorise la longévité. Les substituts nicotiniques aident à arrêter de fumer ; consommer de l",
-      "link": "https://theconversation.com/quand-la-nicotine-est-promue-comme-produit-bien-etre-sur-les-reseaux-alors-quelle-reste-une-substance-addictive-292711",
-      "image": "https://counter.theconversation.com/content/292711/count.gif",
-      "publishedAt": "2026-10-07T14:51:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adsvmq6",
-      "title": "Sur les friches industrielles, des bactéries ont appris à se nourrir de la pollution",
-      "summary": "Les bactéries des friches industrielles peuvent dégrader des polluants dont nous ne savons pas comment nous débarrasser. Kevin Lorenzi/Mellon College of Science via Carnegie Mellon University, Fourni par l'auteur L’ESSENTIEL Les sols sous nos pieds sont vivants : un seul gramme de sol peut contenir des milliards de bac",
-      "link": "https://theconversation.com/sur-les-friches-industrielles-des-bacteries-ont-appris-a-se-nourrir-de-la-pollution-293040",
-      "image": "https://images.theconversation.com/files/762537/original/file-20260902-60-j7pkeg.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C8256%2C5503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-07T14:50:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aoszmhc",
-      "title": "La peste a-t-elle tué une chercheuse russe ? Ce que l’on peut dire à ce stade",
-      "summary": "L’ESSENTIEL Une employée d’un laboratoire russe est morte en Sibérie : la peste est suspectée, mais n’a pas été confirmée. La peste pulmonaire peut se transmettre entre humains et se soigne par antibiotiques si elle est traitée rapidement. Le risque pour la population semble faible, mais des informations transparentes ",
-      "link": "https://theconversation.com/la-peste-a-t-elle-tue-une-chercheuse-russe-ce-que-lon-peut-dire-a-ce-stade-293846",
-      "image": "https://counter.theconversation.com/content/293846/count.gif",
-      "publishedAt": "2026-10-07T09:42:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amoek0e",
-      "title": "Des scientifiques avaient prédit la fin du monde pour le vendredi 13 novembre 2026. Faut-il s’inquiéter ?",
-      "summary": "Un article publié dans Science en 1960 prédisait qu’avec une croissance démographique toujours plus rapide, la population humaine tendrait vers l’infini en 2026. (Unsplash) L’ESSENTIEL En 1960, des chercheurs prédisaient une croissance démographique infinie et la fin du monde pour le 13 novembre 2026. Leurs projections",
-      "link": "https://theconversation.com/des-scientifiques-avaient-predit-la-fin-du-monde-pour-le-vendredi-13-novembre-2026-faut-il-sinquieter-293842",
-      "image": "https://images.theconversation.com/files/764471/original/file-20260901-50-u96wjd.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6454%2C4302&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-07T10:19:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     }
   ]
