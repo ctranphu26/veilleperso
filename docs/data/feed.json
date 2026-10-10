@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:17:20.119Z",
+  "generatedAt": "2026-10-10T04:26:46.991Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -167,80 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aeks45q",
-      "title": "L’Angleterre fait de l’inclusion une priorité scolaire, mais que signifie-t-elle vraiment ?",
-      "summary": "L’inclusion scolaire se mesure aussi au sentiment d’appartenance des élèves et à leur possibilité de participer pleinement à la vie de la classe. Rawpixel.com/Shutterstock L’ESSENTIEL Scolariser un enfant dans une école ordinaire ne suffit pas à garantir son inclusion. L’inclusion repose aussi sur le sentiment d’appart",
-      "link": "https://theconversation.com/langleterre-fait-de-linclusion-une-priorite-scolaire-mais-que-signifie-t-elle-vraiment-293959",
-      "image": "https://images.theconversation.com/files/764834/original/file-20260917-60-765y2c.jpg?ixlib=rb-4.1.1&amp;rect=0%2C190%2C6646%2C4430&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-09T14:28:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "inclusion"
-      ],
-      "relevance": 87,
-      "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a3ucr6v",
-      "title": "À quoi pourrait ressembler une journée à l’école en 2035 ?",
-      "summary": "La réalité virtuelle pourrait transformer l’école de demain en permettant aux élèves d’explorer des environnements immersifs et d’apprendre par l’expérimentation. wavebreakmedia/Shutterstock L’ESSENTIEL En 2035, l’intelligence artificielle et les technologies immersives pourraient transformer profondément les façons d’",
-      "link": "https://theconversation.com/a-quoi-pourrait-ressembler-une-journee-a-lecole-en-2035-294062",
-      "image": "https://images.theconversation.com/files/765178/original/file-20250703-56-67n0uc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7872%2C5248&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-09T14:30:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "élève"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a4htx6v",
-      "title": "Quel rôle le collège et le lycée jouent-ils dans la santé mentale des élèves ? Une étude australienne lève un coin du voile",
-      "summary": "L’ESSENTIEL Une étude australienne a suivi plus de 1 500 élèves de 35 établissements secondaires. Le sentiment d’appartenance du collégien à la communauté scolaire est associé à un meilleur bien-être psychologique deux ans plus tard. Les relations avec les camarades et les personnels scolaires semblent compter davantag",
-      "link": "https://theconversation.com/quel-role-le-college-et-le-lycee-jouent-ils-dans-la-sante-mentale-des-eleves-une-etude-australienne-leve-un-coin-du-voile-294060",
-      "image": "https://counter.theconversation.com/content/294060/count.gif",
-      "publishedAt": "2026-10-09T14:29:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ayzmgrl",
-      "title": "Pourquoi les universités américaines remettent en question leur examen d’entrée historique",
-      "summary": "Plus de deux millions d’élèves ont passé le SAT en 2025. zimmytws/iStock/Getty Images Plus L’ESSENTIEL Créé en 1926, le SAT, un examen standardisé, a révolutionné l’accès aux universités américaines en uniformisant les examens d’entrée. Ses résultats restent très liés à l’origine sociale des élèves, ce qui alimente les",
-      "link": "https://theconversation.com/pourquoi-les-universites-americaines-remettent-en-question-leur-examen-dentree-historique-294061",
-      "image": "https://images.theconversation.com/files/765177/original/file-20260918-50-urj9x7.jpg?ixlib=rb-4.1.1&amp;rect=0%2C5%2C4688%2C3125&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-09T14:30:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -258,8 +185,81 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aeks45q",
+      "title": "L’Angleterre fait de l’inclusion une priorité scolaire, mais que signifie-t-elle vraiment ?",
+      "summary": "L’inclusion scolaire se mesure aussi au sentiment d’appartenance des élèves et à leur possibilité de participer pleinement à la vie de la classe. Rawpixel.com/Shutterstock L’ESSENTIEL Scolariser un enfant dans une école ordinaire ne suffit pas à garantir son inclusion. L’inclusion repose aussi sur le sentiment d’appart",
+      "link": "https://theconversation.com/langleterre-fait-de-linclusion-une-priorite-scolaire-mais-que-signifie-t-elle-vraiment-293959",
+      "image": "https://images.theconversation.com/files/764834/original/file-20260917-60-765y2c.jpg?ixlib=rb-4.1.1&amp;rect=0%2C190%2C6646%2C4430&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-09T14:28:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "inclusion"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3ucr6v",
+      "title": "À quoi pourrait ressembler une journée à l’école en 2035 ?",
+      "summary": "La réalité virtuelle pourrait transformer l’école de demain en permettant aux élèves d’explorer des environnements immersifs et d’apprendre par l’expérimentation. wavebreakmedia/Shutterstock L’ESSENTIEL En 2035, l’intelligence artificielle et les technologies immersives pourraient transformer profondément les façons d’",
+      "link": "https://theconversation.com/a-quoi-pourrait-ressembler-une-journee-a-lecole-en-2035-294062",
+      "image": "https://images.theconversation.com/files/765178/original/file-20250703-56-67n0uc.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7872%2C5248&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-09T14:30:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "élève"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4htx6v",
+      "title": "Quel rôle le collège et le lycée jouent-ils dans la santé mentale des élèves ? Une étude australienne lève un coin du voile",
+      "summary": "L’ESSENTIEL Une étude australienne a suivi plus de 1 500 élèves de 35 établissements secondaires. Le sentiment d’appartenance du collégien à la communauté scolaire est associé à un meilleur bien-être psychologique deux ans plus tard. Les relations avec les camarades et les personnels scolaires semblent compter davantag",
+      "link": "https://theconversation.com/quel-role-le-college-et-le-lycee-jouent-ils-dans-la-sante-mentale-des-eleves-une-etude-australienne-leve-un-coin-du-voile-294060",
+      "image": "https://counter.theconversation.com/content/294060/count.gif",
+      "publishedAt": "2026-10-09T14:29:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ayzmgrl",
+      "title": "Pourquoi les universités américaines remettent en question leur examen d’entrée historique",
+      "summary": "Plus de deux millions d’élèves ont passé le SAT en 2025. zimmytws/iStock/Getty Images Plus L’ESSENTIEL Créé en 1926, le SAT, un examen standardisé, a révolutionné l’accès aux universités américaines en uniformisant les examens d’entrée. Ses résultats restent très liés à l’origine sociale des élèves, ce qui alimente les",
+      "link": "https://theconversation.com/pourquoi-les-universites-americaines-remettent-en-question-leur-examen-dentree-historique-294061",
+      "image": "https://images.theconversation.com/files/765177/original/file-20260918-50-urj9x7.jpg?ixlib=rb-4.1.1&amp;rect=0%2C5%2C4688%2C3125&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-09T14:30:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aw6x9g5",
@@ -276,8 +276,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a30hq8q",
@@ -292,8 +292,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axu55yl",
@@ -308,7 +308,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aq93tsr",
+      "title": "Pourquoi et comment célèbre-t-on les morts aujourd’hui ?",
+      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
+      "link": "https://theconversation.com/pourquoi-et-comment-celebre-t-on-les-morts-aujourdhui-278244",
+      "image": "https://counter.theconversation.com/content/278244/count.gif",
+      "publishedAt": "2026-10-08T14:42:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -326,7 +342,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +361,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -363,7 +379,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,7 +397,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,23 +415,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq93tsr",
-      "title": "Pourquoi et comment célèbre-t-on les morts aujourd’hui ?",
-      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
-      "link": "https://theconversation.com/pourquoi-et-comment-celebre-t-on-les-morts-aujourdhui-278244",
-      "image": "https://counter.theconversation.com/content/278244/count.gif",
-      "publishedAt": "2026-10-08T14:42:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -431,7 +431,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +449,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -467,7 +467,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -483,7 +483,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -499,7 +499,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -515,7 +515,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -531,23 +531,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awylkw2",
-      "title": "Un prix Nobel pour les neutrinos, ces messagers invisibles qui nous viennent du cosmos",
-      "summary": "L’ESSENTIEL Le prix Nobel de physique 2026 a été décerné au chercheur belge Francis Halzen pour ses travaux sur les neutrinos, les particules les plus énigmatiques et les plus furtives de la physique. Certains de ces neutrinos ont une énergie folle et, pourtant, ils traversent la planète – et chacun d’entre nous – très",
-      "link": "https://theconversation.com/un-prix-nobel-pour-les-neutrinos-ces-messagers-invisibles-qui-nous-viennent-du-cosmos-293986",
-      "image": "https://counter.theconversation.com/content/293986/count.gif",
-      "publishedAt": "2026-10-08T14:26:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -565,7 +549,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awylkw2",
+      "title": "Un prix Nobel pour les neutrinos, ces messagers invisibles qui nous viennent du cosmos",
+      "summary": "L’ESSENTIEL Le prix Nobel de physique 2026 a été décerné au chercheur belge Francis Halzen pour ses travaux sur les neutrinos, les particules les plus énigmatiques et les plus furtives de la physique. Certains de ces neutrinos ont une énergie folle et, pourtant, ils traversent la planète – et chacun d’entre nous – très",
+      "link": "https://theconversation.com/un-prix-nobel-pour-les-neutrinos-ces-messagers-invisibles-qui-nous-viennent-du-cosmos-293986",
+      "image": "https://counter.theconversation.com/content/293986/count.gif",
+      "publishedAt": "2026-10-08T14:26:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -581,39 +581,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4baj0c",
-      "title": "De la grossesse à l’accouchement, les pères s’impliquaient déjà dans la naissance des enfants aux XVIIIᵉ et XIXᵉ siècles",
-      "summary": "*La Visite à la nourrice* (vers 1775), par Jean-Honoré Fragonard. Wikimedia Commons L’ESSENTIEL L’investissement dans la paternité n’est pas une invention contemporaine. Déjà, aux XVIIIᵉ et au XIXᵉ siècles, des hommes s’engageaient avec leurs épouses dans les préparatifs de naissance. Cette expérience intime peut s’ass",
-      "link": "https://theconversation.com/de-la-grossesse-a-laccouchement-les-peres-simpliquaient-deja-dans-la-naissance-des-enfants-aux-xviii-et-xix-siecles-291741",
-      "image": "https://images.theconversation.com/files/761946/original/file-20260924-50-dntsk6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C238%2C3840%2C2560&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T08:56:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anj8hr0",
-      "title": "Quand le régime de Mussolini faisait espionner un opposant par son propre frère",
-      "summary": "Attilio De Feo (1894-1982), peintre et photographe italien, antifasciste exilé en France. L’ESSENTIEL En accueillant son frère et son neveu chez lui, Attilio De Feo, antifasciste exilé à Paris, ignorait qu’il abritait deux mouchards à la solde de la police politique fasciste. De Feo n’a cessé de dénoncer le nationalism",
-      "link": "https://theconversation.com/quand-le-regime-de-mussolini-faisait-espionner-un-opposant-par-son-propre-frere-292259",
-      "image": "https://images.theconversation.com/files/763126/original/file-20260930-70-82wux4.png?ixlib=rb-4.1.1&amp;rect=0%2C78%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T08:56:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -631,7 +599,39 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4baj0c",
+      "title": "De la grossesse à l’accouchement, les pères s’impliquaient déjà dans la naissance des enfants aux XVIIIᵉ et XIXᵉ siècles",
+      "summary": "*La Visite à la nourrice* (vers 1775), par Jean-Honoré Fragonard. Wikimedia Commons L’ESSENTIEL L’investissement dans la paternité n’est pas une invention contemporaine. Déjà, aux XVIIIᵉ et au XIXᵉ siècles, des hommes s’engageaient avec leurs épouses dans les préparatifs de naissance. Cette expérience intime peut s’ass",
+      "link": "https://theconversation.com/de-la-grossesse-a-laccouchement-les-peres-simpliquaient-deja-dans-la-naissance-des-enfants-aux-xviii-et-xix-siecles-291741",
+      "image": "https://images.theconversation.com/files/761946/original/file-20260924-50-dntsk6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C238%2C3840%2C2560&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-08T08:56:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 43,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anj8hr0",
+      "title": "Quand le régime de Mussolini faisait espionner un opposant par son propre frère",
+      "summary": "Attilio De Feo (1894-1982), peintre et photographe italien, antifasciste exilé en France. L’ESSENTIEL En accueillant son frère et son neveu chez lui, Attilio De Feo, antifasciste exilé à Paris, ignorait qu’il abritait deux mouchards à la solde de la police politique fasciste. De Feo n’a cessé de dénoncer le nationalism",
+      "link": "https://theconversation.com/quand-le-regime-de-mussolini-faisait-espionner-un-opposant-par-son-propre-frere-292259",
+      "image": "https://images.theconversation.com/files/763126/original/file-20260930-70-82wux4.png?ixlib=rb-4.1.1&amp;rect=0%2C78%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-08T08:56:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -647,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -663,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -681,7 +681,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -699,7 +699,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     }
   ]
