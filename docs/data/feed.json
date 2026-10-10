@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T17:07:35.446Z",
+  "generatedAt": "2026-10-10T21:11:30.100Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 65,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,25 +167,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aw6x9g5",
-      "title": "Orientation : la plateforme Avenir(s) au service des collèges et des lycées",
-      "summary": "Accompagnant le plan Avenir pour l’orientation des élèves, la plateforme Avenir(s), développée par l’Onisep, poursuit son déploiement dans les collèges et les lycées. Elle a pour objectif d’aider les élèves L’article Orientation : la plateforme Avenir(s) au service des collèges et des lycées est apparu en premier sur L",
-      "link": "https://www.cafepedagogique.net/2026/10/09/orientation-la-plateforme-avenirs-au-service-des-colleges-et-des-lycees/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Logo_AVENIRS_rvb_2026-300x75.jpeg",
-      "publishedAt": "2026-10-09T03:29:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -203,7 +185,25 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aw6x9g5",
+      "title": "Orientation : la plateforme Avenir(s) au service des collèges et des lycées",
+      "summary": "Accompagnant le plan Avenir pour l’orientation des élèves, la plateforme Avenir(s), développée par l’Onisep, poursuit son déploiement dans les collèges et les lycées. Elle a pour objectif d’aider les élèves L’article Orientation : la plateforme Avenir(s) au service des collèges et des lycées est apparu en premier sur L",
+      "link": "https://www.cafepedagogique.net/2026/10/09/orientation-la-plateforme-avenirs-au-service-des-colleges-et-des-lycees/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Logo_AVENIRS_rvb_2026-300x75.jpeg",
+      "publishedAt": "2026-10-09T03:29:58.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -219,7 +219,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -237,7 +237,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -256,7 +256,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -274,7 +274,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -292,7 +292,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -308,7 +308,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -324,7 +324,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,7 +342,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -361,7 +361,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -379,7 +379,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -397,7 +397,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,7 +415,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -431,7 +431,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +449,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -467,7 +467,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -483,7 +483,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -499,7 +499,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -515,7 +515,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -531,7 +531,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -547,7 +547,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -565,7 +565,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -599,7 +599,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -615,7 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -631,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -647,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -663,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -681,7 +681,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -699,7 +699,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
