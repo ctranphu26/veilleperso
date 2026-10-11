@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:08:54.616Z",
+  "generatedAt": "2026-10-11T21:30:31.250Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,24 @@
   "count": 35,
   "items": [
     {
+      "id": "a5hebu8",
+      "title": "« Ce qu’on veut, c’est une école républicaine qui tienne ses promesses » : un front commun pour l’École",
+      "summary": "Au Forum du Manifeste du Café pédagogique, le lycéen Ryad Rani (Union Syndicale Lycéenne), a appelé à poursuivre la mobilisation face à un gouvernement qui répond par « des effets d’annonce L’article « Ce qu’on veut, c’est une école républicaine qui tienne ses promesses » : un front commun pour l’École est apparu en pr",
+      "link": "https://www.cafepedagogique.net/2026/10/11/ce-quon-veut-cest-une-ecole-republicaine-qui-tienne-ses-promesses-un-front-commun-pour-lecole/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-2-300x225.jpg",
+      "publishedAt": "2026-10-11T15:10:33.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 91,
+      "relevanceLevel": "haute",
+      "urgency": 83,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a2nwxk8",
       "title": "What is umami?",
       "summary": "A Japanese meal promotes the umami flavour that the West has long ignored... and all along it was on the tip of our tongue! Loïc Briand, Fourni par l'auteur Characterised at the beginning of the 20th century in Japan, umami literally means “delicious taste” or “tasty taste”. Umami flavour was accepted as one of the fiv",
@@ -131,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +167,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqk2kf2",
@@ -167,8 +185,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avx9t3y",
@@ -185,8 +203,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aigl922",
@@ -203,8 +221,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9gc7en",
@@ -219,8 +237,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aitv47z",
@@ -235,8 +253,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aw6ahes",
@@ -251,8 +269,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arg7dza",
@@ -267,8 +285,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7633yf",
@@ -283,25 +301,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "az8fsfl",
-      "title": "14 ressources mises en avant par le Café pédagogique",
-      "summary": "Français, maths, SVT, EPS, technologie, maternelle … Retrouvez sur cette page 14 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Ecrire L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/10/14-ressources-mises-en-avant-par-le-cafe-pedagogique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Anne-Lise-Orengo-1-267x300.jpeg",
-      "publishedAt": "2026-10-10T13:09:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +319,41 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "az8fsfl",
+      "title": "14 ressources mises en avant par le Café pédagogique",
+      "summary": "Français, maths, SVT, EPS, technologie, maternelle … Retrouvez sur cette page 14 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Ecrire L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/10/14-ressources-mises-en-avant-par-le-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Anne-Lise-Orengo-1-267x300.jpeg",
+      "publishedAt": "2026-10-10T13:09:06.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 50,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ad4dhtv",
+      "title": "Navi Pillay, prix Nobel de la paix 2026 : le droit international contre la loi du plus fort",
+      "summary": "L’ESSENTIEL En récompensant Navi Pillay, ancienne Haut-Commissaire des Nations unies aux droits de l’homme et figure majeure de la justice pénale internationale, le comité Nobel place la défense des victimes et la responsabilité des États au cœur de la conception de la paix. Ce choix est particulièrement significatif à",
+      "link": "https://theconversation.com/navi-pillay-prix-nobel-de-la-paix-2026-le-droit-international-contre-la-loi-du-plus-fort-294072",
+      "image": "https://counter.theconversation.com/content/294072/count.gif",
+      "publishedAt": "2026-10-09T15:07:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -337,40 +371,6 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ad4dhtv",
-      "title": "Navi Pillay, prix Nobel de la paix 2026 : le droit international contre la loi du plus fort",
-      "summary": "L’ESSENTIEL En récompensant Navi Pillay, ancienne Haut-Commissaire des Nations unies aux droits de l’homme et figure majeure de la justice pénale internationale, le comité Nobel place la défense des victimes et la responsabilité des États au cœur de la conception de la paix. Ce choix est particulièrement significatif à",
-      "link": "https://theconversation.com/navi-pillay-prix-nobel-de-la-paix-2026-le-droit-international-contre-la-loi-du-plus-fort-294072",
-      "image": "https://counter.theconversation.com/content/294072/count.gif",
-      "publishedAt": "2026-10-09T15:07:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aw6x9g5",
-      "title": "Orientation : la plateforme Avenir(s) au service des collèges et des lycées",
-      "summary": "Accompagnant le plan Avenir pour l’orientation des élèves, la plateforme Avenir(s), développée par l’Onisep, poursuit son déploiement dans les collèges et les lycées. Elle a pour objectif d’aider les élèves L’article Orientation : la plateforme Avenir(s) au service des collèges et des lycées est apparu en premier sur L",
-      "link": "https://www.cafepedagogique.net/2026/10/09/orientation-la-plateforme-avenirs-au-service-des-colleges-et-des-lycees/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Logo_AVENIRS_rvb_2026-300x75.jpeg",
-      "publishedAt": "2026-10-09T03:29:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
       "urgency": 46,
       "urgencyLevel": "moyenne"
     },
@@ -389,7 +389,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,8 +407,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a3ucr6v",
@@ -426,8 +426,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a4htx6v",
@@ -444,8 +444,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ayzmgrl",
@@ -462,8 +462,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aq93tsr",
@@ -478,8 +478,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "axu55yl",
@@ -494,7 +494,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -512,7 +512,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -531,7 +531,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -549,7 +549,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -567,7 +567,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -585,7 +585,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -603,7 +603,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -621,87 +621,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3cmzyh",
-      "title": "Les jeux vidéo « triple i », évolution ou trahison de l’idéal d’indépendance ?",
-      "summary": "*Clair Obscur : Expédition 33*, jeu vidéo de rôle de fantasy développé par le studio français Sandfall Interactive, dont il est la première création, et publié par l’éditeur Kepler Interactive en 2025. L’ESSENTIEL L’expression « triple i » fait référence aux jeux vidéo dits « indépendants » et renvoie aux jeux « triple",
-      "link": "https://theconversation.com/les-jeux-video-triple-i-evolution-ou-trahison-de-lideal-dindependance-285829",
-      "image": "https://images.theconversation.com/files/764390/original/file-20261006-50-w2go72.png?ixlib=rb-4.1.1&amp;rect=270%2C0%2C1550%2C1033&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T14:45:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1k4iyw",
-      "title": "Guess who’s back ! Le Royaume-Uni va-t-il revenir au sein de l’Union européenne ?",
-      "summary": "L’ESSENTIEL Le débat sur l’Union européenne revient au premier plan au Royaume-Uni, sous l’impulsion du nouveau premier ministre Andy Burnham, favorable à un rapprochement avec l’UE, voire à un retour en bonne et due forme. Le contexte semble favorable : popularité en baisse de Reform UK, principal parti anti-UE, évolu",
-      "link": "https://theconversation.com/guess-whos-back-le-royaume-uni-va-t-il-revenir-au-sein-de-lunion-europeenne-293622",
-      "image": "https://counter.theconversation.com/content/293622/count.gif",
-      "publishedAt": "2026-10-08T14:44:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "auom1dw",
-      "title": "Le four tahitien, un laboratoire scientifique sous nos pieds",
-      "summary": "Four circulaire familial-Pū atiti’a. L. Rochette, Fourni par l'auteur L’ESSENTIEL L’ahimā’a, le four tahitien traditionnel, est bien plus qu’une technique culinaire : il constitue une véritable technologie thermique, fondée sur des savoirs empiriques. Son étude permet de croiser alimentation, environnement, archéologi",
-      "link": "https://theconversation.com/le-four-tahitien-un-laboratoire-scientifique-sous-nos-pieds-292869",
-      "image": "https://images.theconversation.com/files/764714/original/file-20261007-72-wq36po.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T14:44:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aemmjj6",
-      "title": "Pourquoi ça pue ? Ce que les odeurs de nos déchets disent de nous",
-      "summary": "L’ESSENTIEL Pourquoi un doudou qui « sent mauvais » pour un adulte reste-t-il un trésor pour l’enfant qui l’aime ? Pourquoi le camembert ouvre-t-il l’appétit, tandis que l’odeur d’un aliment moisi nous fait reculer ? L’atelier « Pourquoi ça pue ? » s’inscrit dans la programmation de la Fête de la science 2026 en propos",
-      "link": "https://theconversation.com/pourquoi-ca-pue-ce-que-les-odeurs-de-nos-dechets-disent-de-nous-293599",
-      "image": "https://images.theconversation.com/files/764292/original/file-20261006-71-jgi7cg.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-08T14:41:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awylkw2",
-      "title": "Un prix Nobel pour les neutrinos, ces messagers invisibles qui nous viennent du cosmos",
-      "summary": "L’ESSENTIEL Le prix Nobel de physique 2026 a été décerné au chercheur belge Francis Halzen pour ses travaux sur les neutrinos, les particules les plus énigmatiques et les plus furtives de la physique. Certains de ces neutrinos ont une énergie folle et, pourtant, ils traversent la planète – et chacun d’entre nous – très",
-      "link": "https://theconversation.com/un-prix-nobel-pour-les-neutrinos-ces-messagers-invisibles-qui-nous-viennent-du-cosmos-293986",
-      "image": "https://counter.theconversation.com/content/293986/count.gif",
-      "publishedAt": "2026-10-08T14:26:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -719,7 +639,87 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3cmzyh",
+      "title": "Les jeux vidéo « triple i », évolution ou trahison de l’idéal d’indépendance ?",
+      "summary": "*Clair Obscur : Expédition 33*, jeu vidéo de rôle de fantasy développé par le studio français Sandfall Interactive, dont il est la première création, et publié par l’éditeur Kepler Interactive en 2025. L’ESSENTIEL L’expression « triple i » fait référence aux jeux vidéo dits « indépendants » et renvoie aux jeux « triple",
+      "link": "https://theconversation.com/les-jeux-video-triple-i-evolution-ou-trahison-de-lideal-dindependance-285829",
+      "image": "https://images.theconversation.com/files/764390/original/file-20261006-50-w2go72.png?ixlib=rb-4.1.1&amp;rect=270%2C0%2C1550%2C1033&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-08T14:45:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 26,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a1k4iyw",
+      "title": "Guess who’s back ! Le Royaume-Uni va-t-il revenir au sein de l’Union européenne ?",
+      "summary": "L’ESSENTIEL Le débat sur l’Union européenne revient au premier plan au Royaume-Uni, sous l’impulsion du nouveau premier ministre Andy Burnham, favorable à un rapprochement avec l’UE, voire à un retour en bonne et due forme. Le contexte semble favorable : popularité en baisse de Reform UK, principal parti anti-UE, évolu",
+      "link": "https://theconversation.com/guess-whos-back-le-royaume-uni-va-t-il-revenir-au-sein-de-lunion-europeenne-293622",
+      "image": "https://counter.theconversation.com/content/293622/count.gif",
+      "publishedAt": "2026-10-08T14:44:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 26,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "auom1dw",
+      "title": "Le four tahitien, un laboratoire scientifique sous nos pieds",
+      "summary": "Four circulaire familial-Pū atiti’a. L. Rochette, Fourni par l'auteur L’ESSENTIEL L’ahimā’a, le four tahitien traditionnel, est bien plus qu’une technique culinaire : il constitue une véritable technologie thermique, fondée sur des savoirs empiriques. Son étude permet de croiser alimentation, environnement, archéologi",
+      "link": "https://theconversation.com/le-four-tahitien-un-laboratoire-scientifique-sous-nos-pieds-292869",
+      "image": "https://images.theconversation.com/files/764714/original/file-20261007-72-wq36po.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-08T14:44:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 26,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aemmjj6",
+      "title": "Pourquoi ça pue ? Ce que les odeurs de nos déchets disent de nous",
+      "summary": "L’ESSENTIEL Pourquoi un doudou qui « sent mauvais » pour un adulte reste-t-il un trésor pour l’enfant qui l’aime ? Pourquoi le camembert ouvre-t-il l’appétit, tandis que l’odeur d’un aliment moisi nous fait reculer ? L’atelier « Pourquoi ça pue ? » s’inscrit dans la programmation de la Fête de la science 2026 en propos",
+      "link": "https://theconversation.com/pourquoi-ca-pue-ce-que-les-odeurs-de-nos-dechets-disent-de-nous-293599",
+      "image": "https://images.theconversation.com/files/764292/original/file-20261006-71-jgi7cg.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-08T14:41:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 26,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "awylkw2",
+      "title": "Un prix Nobel pour les neutrinos, ces messagers invisibles qui nous viennent du cosmos",
+      "summary": "L’ESSENTIEL Le prix Nobel de physique 2026 a été décerné au chercheur belge Francis Halzen pour ses travaux sur les neutrinos, les particules les plus énigmatiques et les plus furtives de la physique. Certains de ces neutrinos ont une énergie folle et, pourtant, ils traversent la planète – et chacun d’entre nous – très",
+      "link": "https://theconversation.com/un-prix-nobel-pour-les-neutrinos-ces-messagers-invisibles-qui-nous-viennent-du-cosmos-293986",
+      "image": "https://counter.theconversation.com/content/293986/count.gif",
+      "publishedAt": "2026-10-08T14:26:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
