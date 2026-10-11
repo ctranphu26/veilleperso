@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T04:09:03.178Z",
+  "generatedAt": "2026-10-11T12:08:54.616Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,192 @@
   "count": 35,
   "items": [
     {
+      "id": "a2nwxk8",
+      "title": "What is umami?",
+      "summary": "A Japanese meal promotes the umami flavour that the West has long ignored... and all along it was on the tip of our tongue! Loïc Briand, Fourni par l'auteur Characterised at the beginning of the 20th century in Japan, umami literally means “delicious taste” or “tasty taste”. Umami flavour was accepted as one of the fiv",
+      "link": "https://theconversation.com/what-is-umami-293748",
+      "image": "https://images.theconversation.com/files/764277/original/file-20260825-50-rlf6z0.jpeg?ixlib=rb-4.1.1&amp;rect=94%2C116%2C1102%2C734&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-11T06:54:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ausjgq6",
+      "title": "La perte du « goût » est en réalité souvent une perte d’odorat",
+      "summary": "L’ESSENTIEL Notre système gustatif ne perçoit que cinq saveurs : le sucré, le salé, l’acide, l’amer et l’umami. Les goûts que nous percevons résultent de l’intégration de ces informations avec celles issues de la détection de molécules odorantes par le nez, et de sensations « chimiques » provoquées par diverses molécul",
+      "link": "https://theconversation.com/la-perte-du-gout-est-en-realite-souvent-une-perte-dodorat-291502",
+      "image": "https://counter.theconversation.com/content/291502/count.gif",
+      "publishedAt": "2026-10-11T06:53:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqk2kf2",
+      "title": "Trump peut-il acheter les midterms ?",
+      "summary": "L’ESSENTIEL Donald Trump a promis 5 000 dollars à chaque citoyen des États-Unis si les républicains conservent la majorité au Congrès à l’issue des élections de mi-mandat du 3 novembre. Cette approche relève d’une « politique-business » propre au magnat new-yorkais : l’État est présenté comme une entreprise dont les ci",
+      "link": "https://theconversation.com/trump-peut-il-acheter-les-midterms-293621",
+      "image": "https://counter.theconversation.com/content/293621/count.gif",
+      "publishedAt": "2026-10-11T06:52:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avx9t3y",
+      "title": "Pourquoi le prix du bois chute-t-il après un incendie ou une tempête ?",
+      "summary": "Coupes massives après l’incendie de La Teste-de-Buch (Gironde), en 2022. Source : Marielle Brunette. , Fourni par l'auteur L’ESSENTIEL Après une tempête ou un incendie, de nombreux arbres endommagés peuvent être vendus si on agit rapidement. Un afflux de bois à écouler dans les plus brefs délais sur le marché fait alor",
+      "link": "https://theconversation.com/pourquoi-le-prix-du-bois-chute-t-il-apres-un-incendie-ou-une-tempete-292838",
+      "image": "https://images.theconversation.com/files/762275/original/file-20260925-50-w1b3ib.jpg?ixlib=rb-4.1.1&amp;rect=684%2C497%2C3347%2C2231&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-11T06:51:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aigl922",
+      "title": "Près de 2,7 € de retombées économiques pour chaque euro investi : les universités, moteurs de croissance des territoires",
+      "summary": "En étoffant les compétences des étudiants, les universités investissent dans le capital humain. Jessica Olivella/Pexels, CC BY L’ESSENTIEL Par leurs dépenses et les publics qu’elles attirent, les universités irriguent le tissu économique. Si ces retombées se repèrent vite, leurs effets sur la compétitivité sont plus di",
+      "link": "https://theconversation.com/pres-de-2-7-de-retombees-economiques-pour-chaque-euro-investi-les-universites-moteurs-de-croissance-des-territoires-293061",
+      "image": "https://images.theconversation.com/files/763642/original/file-20261002-50-u39s4b.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-11T06:51:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "compétence"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9gc7en",
+      "title": "Grand âge : comment les Ehpad repensent leurs liens avec la vie locale",
+      "summary": "L’ESSENTIEL Longtemps conçus comme des lieux autonomes de vie et de soins, les Ehpad cherchent à mieux s’ancrer dans leurs territoires. Tiers-lieux et services ouverts aux habitants transforment progressivement leur relation à l’extérieur. Cette ouverture oblige aussi à repenser l’architecture et les usages des établis",
+      "link": "https://theconversation.com/grand-age-comment-les-ehpad-repensent-leurs-liens-avec-la-vie-locale-285955",
+      "image": "https://counter.theconversation.com/content/285955/count.gif",
+      "publishedAt": "2026-10-11T06:52:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aitv47z",
+      "title": "Programmes déclarés « sérieux » ou « intenables » : rendre les hypothèses économiques discutables est un enjeu démocratique pour 2027",
+      "summary": "L’ESSENTIEL En 2027, les programmes économiques des candidates et candidats à la présidentielle seront chiffrés et comparés à l’aide de modèles macroéconomiques. Ces modèles peuvent aboutir à des conclusions très différentes, sans que leurs hypothèses soient discutées publiquement. L’enjeu est démocratique : avant même",
+      "link": "https://theconversation.com/programmes-declares-serieux-ou-intenables-rendre-les-hypotheses-economiques-discutables-est-un-enjeu-democratique-pour-2027-285978",
+      "image": "https://counter.theconversation.com/content/285978/count.gif",
+      "publishedAt": "2026-10-11T06:50:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aw6ahes",
+      "title": "« Dark kitchens » : comment les cuisines fantômes transforment nos villes et notre manière de manger",
+      "summary": "L’ESSENTIEL Cuisines sans salle ni vitrine, les « dark kitchens » prospèrent dans les grandes villes avec l’essor des plateformes de livraison. Ces établissements suivent d’autres logiques d’implantation que les commerces traditionnels. La proximité des zones à livrer compte plus que la visibilité de la façade. Ce basc",
+      "link": "https://theconversation.com/dark-kitchens-comment-les-cuisines-fantomes-transforment-nos-villes-et-notre-maniere-de-manger-291912",
+      "image": "https://counter.theconversation.com/content/291912/count.gif",
+      "publishedAt": "2026-10-11T06:50:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arg7dza",
+      "title": "Les animes du studio Ghibli et la culture du riz au Japon",
+      "summary": "Chihiro est émue par de simples *onigiris*, boulettes de riz traditionnelles, qui lui rappellent son paysage natal (*Le Voyage de Chihiro, Hayao Miyazaki, 2001). Studio Ghibli L’ESSENTIEL Motif récurrent du quotidien nippon, le riz s’impose comme un marqueur culturel par excellence de la société japonaise. Princesse Mo",
+      "link": "https://theconversation.com/les-animes-du-studio-ghibli-et-la-culture-du-riz-au-japon-288741",
+      "image": "https://images.theconversation.com/files/762497/original/file-20260928-50-ex84ta.png?ixlib=rb-4.1.1&amp;rect=107%2C0%2C877%2C584&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-11T06:49:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7633yf",
+      "title": "Actualité de l’éducation du 5 au 9 octobre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 5 au 9 octobre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/11/actualite-de-leducation-du-5-au-9-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/reforme-du-bac-parcourup-300x169.png",
+      "publishedAt": "2026-10-11T06:57:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "az8fsfl",
+      "title": "14 ressources mises en avant par le Café pédagogique",
+      "summary": "Français, maths, SVT, EPS, technologie, maternelle … Retrouvez sur cette page 14 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Ecrire L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/10/14-ressources-mises-en-avant-par-le-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Anne-Lise-Orengo-1-267x300.jpeg",
+      "publishedAt": "2026-10-10T13:09:06.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
       "id": "adpqkcz",
       "title": "TZR, contractuels et pacte pour colmater les brèches",
       "summary": "Invité à la toute fin du 20h de TF1, le ministre Édouard Geffray a annoncé le déploiement de 3 000 professeurs remplaçants entre ce vendredi et mardi prochain. « Il L’article TZR, contractuels et pacte pour colmater les brèches est apparu en premier sur Le Café pédagogique.",
@@ -133,7 +319,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -151,7 +337,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +353,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -185,7 +371,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -203,23 +389,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a30hq8q",
-      "title": "Lycéens en colère : Blanquer persiste et signe",
-      "summary": "Retour en 2018-2019, avec le premier ministre de l’Éducation nationale d’Emmanuel Macron : à l’époque « Il n’y a pas eu de mouvements de lycéens contre la réforme du lycée L’article Lycéens en colère : Blanquer persiste et signe est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/09/lyceens-en-colere-blanquer-persiste-et-signe/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Blanquer-francetv-300x175.png",
-      "publishedAt": "2026-10-09T03:27:36.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -237,7 +407,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -256,7 +426,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -274,7 +444,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -292,7 +462,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -308,7 +478,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -324,8 +494,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avlsu2t",
@@ -342,8 +512,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "azbdt1y",
@@ -361,8 +531,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a8hgynt",
@@ -379,8 +549,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ajb1e8p",
@@ -397,8 +567,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apuvtmn",
@@ -415,73 +585,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aw548se",
-      "title": "« La petite reine », star au musée d’Art et d’Industrie de Saint-Étienne",
-      "summary": "Vous pensiez tout savoir sur le vélo ? Et bien non ! Laissez-vous embarquer dans un voyage innovant au cœur de l’aventure du cycle. Le musée d’art et d’industrie de L’article « La petite reine », star au musée d’Art et d’Industrie de Saint-Étienne est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/09/la-petite-reine-star-au-musee-dart-et-dindustrie-de-saint-etienne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/velos-recents-300x169.jpg",
-      "publishedAt": "2026-10-09T03:28:13.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awab4m3",
-      "title": "Conserver les aliments périssables sans emballages plastiques : où en est-on ?",
-      "summary": "L’ESSENTIEL Les emballages plastiques représentent plus de 40 % de nos déchets plastiques au niveau mondial. Pour mettre un terme à la pollution plastique et décarboner l’économie, il va falloir apprendre à s’en passer. Leur remplacement par des alternatives biosourcées et biodégradables se heurte toutefois à plusieurs",
-      "link": "https://theconversation.com/conserver-les-aliments-perissables-sans-emballages-plastiques-ou-en-est-on-292712",
-      "image": "https://images.theconversation.com/files/762511/original/file-20260928-50-jkeos7.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-07T14:53:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5fxqvi",
-      "title": "Des variétés résistantes pour sauver la vigne : les consommateurs sont-ils prêts à changer de goûts et les vignerons à les adopter ?",
-      "summary": "L’ESSENTIEL De nouvelles variétés de vigne résistantes aux principales maladies fongiques sont aujourd’hui disponibles à la plantation. Malgré leur intérêt pour réduire jusqu’à 80 % de traitements phytosanitaires, leur adoption progresse lentement et l’offre commerciale reste limitée. Des travaux menés en Occitanie dan",
-      "link": "https://theconversation.com/des-varietes-resistantes-pour-sauver-la-vigne-les-consommateurs-sont-ils-prets-a-changer-de-gouts-et-les-vignerons-a-les-adopter-285505",
-      "image": "https://images.theconversation.com/files/744859/original/file-20260629-71-fenmc0.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-07T14:54:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "au6h8av",
-      "title": "Le droit, levier de l’Europe face à Pékin",
-      "summary": "L’ESSENTIEL Des salariés chinois utilisent le droit européen pour défendre leurs conditions de travail : après leur licenciement par l’équipementier Xingyu, 107 jeunes diplômés ont alerté Mercedes-Benz et Volkswagen, ses clients européens. L’Union européenne étend son pouvoir juridique au-delà de ses frontières : avec ",
-      "link": "https://theconversation.com/le-droit-levier-de-leurope-face-a-pekin-291888",
-      "image": "https://counter.theconversation.com/content/291888/count.gif",
-      "publishedAt": "2026-10-07T14:52:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -499,7 +603,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -517,7 +621,87 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3cmzyh",
+      "title": "Les jeux vidéo « triple i », évolution ou trahison de l’idéal d’indépendance ?",
+      "summary": "*Clair Obscur : Expédition 33*, jeu vidéo de rôle de fantasy développé par le studio français Sandfall Interactive, dont il est la première création, et publié par l’éditeur Kepler Interactive en 2025. L’ESSENTIEL L’expression « triple i » fait référence aux jeux vidéo dits « indépendants » et renvoie aux jeux « triple",
+      "link": "https://theconversation.com/les-jeux-video-triple-i-evolution-ou-trahison-de-lideal-dindependance-285829",
+      "image": "https://images.theconversation.com/files/764390/original/file-20261006-50-w2go72.png?ixlib=rb-4.1.1&amp;rect=270%2C0%2C1550%2C1033&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-08T14:45:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a1k4iyw",
+      "title": "Guess who’s back ! Le Royaume-Uni va-t-il revenir au sein de l’Union européenne ?",
+      "summary": "L’ESSENTIEL Le débat sur l’Union européenne revient au premier plan au Royaume-Uni, sous l’impulsion du nouveau premier ministre Andy Burnham, favorable à un rapprochement avec l’UE, voire à un retour en bonne et due forme. Le contexte semble favorable : popularité en baisse de Reform UK, principal parti anti-UE, évolu",
+      "link": "https://theconversation.com/guess-whos-back-le-royaume-uni-va-t-il-revenir-au-sein-de-lunion-europeenne-293622",
+      "image": "https://counter.theconversation.com/content/293622/count.gif",
+      "publishedAt": "2026-10-08T14:44:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "auom1dw",
+      "title": "Le four tahitien, un laboratoire scientifique sous nos pieds",
+      "summary": "Four circulaire familial-Pū atiti’a. L. Rochette, Fourni par l'auteur L’ESSENTIEL L’ahimā’a, le four tahitien traditionnel, est bien plus qu’une technique culinaire : il constitue une véritable technologie thermique, fondée sur des savoirs empiriques. Son étude permet de croiser alimentation, environnement, archéologi",
+      "link": "https://theconversation.com/le-four-tahitien-un-laboratoire-scientifique-sous-nos-pieds-292869",
+      "image": "https://images.theconversation.com/files/764714/original/file-20261007-72-wq36po.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-08T14:44:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aemmjj6",
+      "title": "Pourquoi ça pue ? Ce que les odeurs de nos déchets disent de nous",
+      "summary": "L’ESSENTIEL Pourquoi un doudou qui « sent mauvais » pour un adulte reste-t-il un trésor pour l’enfant qui l’aime ? Pourquoi le camembert ouvre-t-il l’appétit, tandis que l’odeur d’un aliment moisi nous fait reculer ? L’atelier « Pourquoi ça pue ? » s’inscrit dans la programmation de la Fête de la science 2026 en propos",
+      "link": "https://theconversation.com/pourquoi-ca-pue-ce-que-les-odeurs-de-nos-dechets-disent-de-nous-293599",
+      "image": "https://images.theconversation.com/files/764292/original/file-20261006-71-jgi7cg.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-08T14:41:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "awylkw2",
+      "title": "Un prix Nobel pour les neutrinos, ces messagers invisibles qui nous viennent du cosmos",
+      "summary": "L’ESSENTIEL Le prix Nobel de physique 2026 a été décerné au chercheur belge Francis Halzen pour ses travaux sur les neutrinos, les particules les plus énigmatiques et les plus furtives de la physique. Certains de ces neutrinos ont une énergie folle et, pourtant, ils traversent la planète – et chacun d’entre nous – très",
+      "link": "https://theconversation.com/un-prix-nobel-pour-les-neutrinos-ces-messagers-invisibles-qui-nous-viennent-du-cosmos-293986",
+      "image": "https://counter.theconversation.com/content/293986/count.gif",
+      "publishedAt": "2026-10-08T14:26:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -535,189 +719,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3cmzyh",
-      "title": "Les jeux vidéo « triple i », évolution ou trahison de l’idéal d’indépendance ?",
-      "summary": "*Clair Obscur : Expédition 33*, jeu vidéo de rôle de fantasy développé par le studio français Sandfall Interactive, dont il est la première création, et publié par l’éditeur Kepler Interactive en 2025. L’ESSENTIEL L’expression « triple i » fait référence aux jeux vidéo dits « indépendants » et renvoie aux jeux « triple",
-      "link": "https://theconversation.com/les-jeux-video-triple-i-evolution-ou-trahison-de-lideal-dindependance-285829",
-      "image": "https://images.theconversation.com/files/764390/original/file-20261006-50-w2go72.png?ixlib=rb-4.1.1&amp;rect=270%2C0%2C1550%2C1033&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T14:45:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1k4iyw",
-      "title": "Guess who’s back ! Le Royaume-Uni va-t-il revenir au sein de l’Union européenne ?",
-      "summary": "L’ESSENTIEL Le débat sur l’Union européenne revient au premier plan au Royaume-Uni, sous l’impulsion du nouveau premier ministre Andy Burnham, favorable à un rapprochement avec l’UE, voire à un retour en bonne et due forme. Le contexte semble favorable : popularité en baisse de Reform UK, principal parti anti-UE, évolu",
-      "link": "https://theconversation.com/guess-whos-back-le-royaume-uni-va-t-il-revenir-au-sein-de-lunion-europeenne-293622",
-      "image": "https://counter.theconversation.com/content/293622/count.gif",
-      "publishedAt": "2026-10-08T14:44:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "auom1dw",
-      "title": "Le four tahitien, un laboratoire scientifique sous nos pieds",
-      "summary": "Four circulaire familial-Pū atiti’a. L. Rochette, Fourni par l'auteur L’ESSENTIEL L’ahimā’a, le four tahitien traditionnel, est bien plus qu’une technique culinaire : il constitue une véritable technologie thermique, fondée sur des savoirs empiriques. Son étude permet de croiser alimentation, environnement, archéologi",
-      "link": "https://theconversation.com/le-four-tahitien-un-laboratoire-scientifique-sous-nos-pieds-292869",
-      "image": "https://images.theconversation.com/files/764714/original/file-20261007-72-wq36po.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T14:44:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aemmjj6",
-      "title": "Pourquoi ça pue ? Ce que les odeurs de nos déchets disent de nous",
-      "summary": "L’ESSENTIEL Pourquoi un doudou qui « sent mauvais » pour un adulte reste-t-il un trésor pour l’enfant qui l’aime ? Pourquoi le camembert ouvre-t-il l’appétit, tandis que l’odeur d’un aliment moisi nous fait reculer ? L’atelier « Pourquoi ça pue ? » s’inscrit dans la programmation de la Fête de la science 2026 en propos",
-      "link": "https://theconversation.com/pourquoi-ca-pue-ce-que-les-odeurs-de-nos-dechets-disent-de-nous-293599",
-      "image": "https://images.theconversation.com/files/764292/original/file-20261006-71-jgi7cg.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-08T14:41:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awylkw2",
-      "title": "Un prix Nobel pour les neutrinos, ces messagers invisibles qui nous viennent du cosmos",
-      "summary": "L’ESSENTIEL Le prix Nobel de physique 2026 a été décerné au chercheur belge Francis Halzen pour ses travaux sur les neutrinos, les particules les plus énigmatiques et les plus furtives de la physique. Certains de ces neutrinos ont une énergie folle et, pourtant, ils traversent la planète – et chacun d’entre nous – très",
-      "link": "https://theconversation.com/un-prix-nobel-pour-les-neutrinos-ces-messagers-invisibles-qui-nous-viennent-du-cosmos-293986",
-      "image": "https://counter.theconversation.com/content/293986/count.gif",
-      "publishedAt": "2026-10-08T14:26:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7h28ly",
-      "title": "Vaut-il mieux manger de petits poissons ou de grands poissons ?",
-      "summary": "Parmi les centaines d’espèces consommées dans le monde, les petits poissons pélagiques (sardines, maquereaux, anchois, harengs) sont ceux qui procurent le plus d’avantages nutritifs et qui renforcent de cette manière la sécurité nutritionnelle. Sue Winston/Unsplash, Fourni par l'auteur L’ESSENTIEL On a tendance à mange",
-      "link": "https://theconversation.com/vaut-il-mieux-manger-de-petits-poissons-ou-de-grands-poissons-291616",
-      "image": "https://images.theconversation.com/files/758822/original/file-20260909-50-tr1mto.jpg?ixlib=rb-4.1.1&amp;rect=139%2C0%2C5942%2C3961&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T10:22:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a4baj0c",
-      "title": "De la grossesse à l’accouchement, les pères s’impliquaient déjà dans la naissance des enfants aux XVIIIᵉ et XIXᵉ siècles",
-      "summary": "*La Visite à la nourrice* (vers 1775), par Jean-Honoré Fragonard. Wikimedia Commons L’ESSENTIEL L’investissement dans la paternité n’est pas une invention contemporaine. Déjà, aux XVIIIᵉ et au XIXᵉ siècles, des hommes s’engageaient avec leurs épouses dans les préparatifs de naissance. Cette expérience intime peut s’ass",
-      "link": "https://theconversation.com/de-la-grossesse-a-laccouchement-les-peres-simpliquaient-deja-dans-la-naissance-des-enfants-aux-xviii-et-xix-siecles-291741",
-      "image": "https://images.theconversation.com/files/761946/original/file-20260924-50-dntsk6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C238%2C3840%2C2560&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T08:56:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "anj8hr0",
-      "title": "Quand le régime de Mussolini faisait espionner un opposant par son propre frère",
-      "summary": "Attilio De Feo (1894-1982), peintre et photographe italien, antifasciste exilé en France. L’ESSENTIEL En accueillant son frère et son neveu chez lui, Attilio De Feo, antifasciste exilé à Paris, ignorait qu’il abritait deux mouchards à la solde de la police politique fasciste. De Feo n’a cessé de dénoncer le nationalism",
-      "link": "https://theconversation.com/quand-le-regime-de-mussolini-faisait-espionner-un-opposant-par-son-propre-frere-292259",
-      "image": "https://images.theconversation.com/files/763126/original/file-20260930-70-82wux4.png?ixlib=rb-4.1.1&amp;rect=0%2C78%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-08T08:56:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aoqko00",
-      "title": "Quiz – De la grossesse à l’accouchement, les pères s’impliquaient déjà dans la naissance des enfants aux XVIIIᵉ et XIXᵉ siècles",
-      "summary": "*La Visite à la nourrice* (vers 1775), par Jean-Honoré Fragonard. Wikimedia Commons Grossesse, naissance, paternité… Aux XVIIIᵉ et XIXᵉ siècles, ces moments de la vie familiale étaient entourés de pratiques et de représentations bien différentes des nôtres. Mais que savons-nous vraiment de la manière dont on vivait une",
-      "link": "https://theconversation.com/quiz-de-la-grossesse-a-laccouchement-les-peres-simpliquaient-deja-dans-la-naissance-des-enfants-aux-xviii-et-xix-siecles-293891",
-      "image": "https://images.theconversation.com/files/764653/original/file-20261007-50-2vtre4.jpg?ixlib=rb-4.1.1&amp;rect=0%2C119%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-07T15:33:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ard323g",
-      "title": "Why the student protests in France and the government’s response are unprecedented and unpredictable",
-      "summary": "KEY TAKEAWAYS The mass nationwide movement led by high school students, joined by their parents, teachers and trade unions, brought together 450,000 protesters on October 6 (250,000, according to the French government). French lycée students’ demands for better resources and conditions in schools are recurrent, but wha",
-      "link": "https://theconversation.com/why-the-student-protests-in-france-and-the-governments-response-are-unprecedented-and-unpredictable-293863",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-07T15:11:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aaa2iru",
-      "title": "De la lettre à Internet : communiquons-nous désormais en temps réel ?",
-      "summary": "L’ESSENTIEL Dans la Présence à distance. Des lettres de l’Antiquité aux réseaux sociaux, paru en septembre 2026 aux éditions Flammarion, Jérôme Bourdon explore notre rêve très ancien de communication (quasi) immédiate. On pourrait croire que le numérique a mis fin à l'attente du message tant espéré. Pour l’auteur, ce n",
-      "link": "https://theconversation.com/de-la-lettre-a-internet-communiquons-nous-desormais-en-temps-reel-293129",
-      "image": "https://images.theconversation.com/files/764355/original/file-20261006-60-zxap3i.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-07T14:54:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 29,
       "urgencyLevel": "basse"
     }
   ]
