@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:18:04.985Z",
+  "generatedAt": "2026-10-14T03:38:19.446Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,72 @@
   "count": 35,
   "items": [
     {
+      "id": "ayb824r",
+      "title": "Maternelle : quand les manteaux révèlent les coulisses du métier",
+      "summary": "Judith et Marielle enseignent toutes les deux en maternelle. Lors d’un entretien croisé, elles regardent une vidéo tournée dans la classe de Judith juste avant la récréation. Les enfants terminent L’article Maternelle : quand les manteaux révèlent les coulisses du métier est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/14/maternelle-quand-les-manteaux-revelent-les-coulisses-du-metier/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/backpacks-jackets-hanging-hooks-scaled-e1791915827350-300x176.jpg",
+      "publishedAt": "2026-10-14T03:30:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avdzgvj",
+      "title": "Français cycle 3 : visualiser pour apprendre",
+      "summary": "« Finis les tableaux rébarbatifs et les leçons théoriques » ? Les notions de langue au programme de CM1-CM2-6e sont explorées de façon originale dans un nouvel ouvrage qui sera sans doute fort L’article Français cycle 3 : visualiser pour apprendre est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/14/francais-cycle-3-visualiser-pour-apprendre/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Francais-cycle-3-Visualiser-pour-apprendre-Ex-219x300.png",
+      "publishedAt": "2026-10-14T03:29:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a15pzm0",
+      "title": "Littérature jeunesse : Voyages voyages… vers les glaces",
+      "summary": "Ce qui relie ces deux livres, c’est l’aventure et la découverte, et même le monde polaire ! Le premier est une fiction bien connue, réécrite ici pour les plus jeunes dans L’article Littérature jeunesse : Voyages voyages… vers les glaces est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/14/litterature-jeunesse-voyages-voyages-vers-les-glaces/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/vingt-mille-lieues-sous-les-mers-direction-lantarctique-300x204.jpeg",
+      "publishedAt": "2026-10-14T03:29:27.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aj9hd6u",
+      "title": "Cinéma & dossier pédagogique : « Les Misérables »  de Fred Cavayé",
+      "summary": "Contrairement aux idées reçues, l’œuvre illustre de Victor Hugo, parue en 1862 (et ses 1 800 pages) demeure jusqu’à ce jour un texte peu transposé sur grand écran alors que les L’article Cinéma & dossier pédagogique : « Les Misérables » de Fred Cavayé est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/14/cinema-dossier-pedagogique-les-miserables-de-fred-cavaye/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/dossier-peda-222x300.png",
+      "publishedAt": "2026-10-14T03:28:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a1cu4id",
       "title": "Une chasse à l’homme contraire au droit et très lucrative pour Trump et ses amis",
       "summary": "L’ESSENTIEL Les opérations de la police fédérale de l’immigration (ICE) se caractérisent, depuis le retour de Donald Trump à la Maison-Blanche en janvier 2025, par de nombreuses arrestations brutales, qui ont causé plusieurs morts, et par de multiples atteintes aux droits des migrants. L’administration Trump s’emploie ",
@@ -133,7 +199,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -183,8 +249,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adr2tzu",
@@ -201,8 +267,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajvdddl",
@@ -219,8 +285,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar2r1d6",
@@ -237,8 +303,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asa00fg",
@@ -253,8 +319,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awa1of0",
@@ -269,8 +335,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahpqiw",
@@ -285,8 +351,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adevom3",
@@ -301,8 +367,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aob474s",
@@ -317,8 +383,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a95ttua",
@@ -333,8 +399,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a98ug72",
@@ -349,8 +415,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3kl72t",
@@ -365,7 +431,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -382,24 +448,6 @@
         "réseaux sociaux"
       ],
       "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abfj2pc",
-      "title": "Questionnaire VSS : la concertation rattrape la précipitation du ministère",
-      "summary": "La concertation autour du projet de questionnaire relatif aux violences sexistes et sexuelles auquel devront répondre les élèves a porté ses fruits. Contrebalançant la précipitation dans laquelle s’était lancé le L’article Questionnaire VSS : la concertation rattrape la précipitation du ministère est apparu en premier ",
-      "link": "https://www.cafepedagogique.net/2026/10/13/questionnaire-vss-la-concertation-rattrape-la-precipitation-du-ministere/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/vss-300x152.png",
-      "publishedAt": "2026-10-13T03:55:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
       "relevanceLevel": "moyenne",
       "urgency": 62,
       "urgencyLevel": "moyenne"
@@ -421,26 +469,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ai5c0qt",
-      "title": "SVT : « Les Journées nationales de formation continue de l’APBG »",
-      "summary": "Les Journées nationales de l’APBG (Association des Professeurs de Biologie et Géologie) ont lieu à Paris les 20, 21 et 22 novembre 2026 sur le thème « SVT : Recherche L’article SVT : « Les Journées nationales de formation continue de l’APBG » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/13/svt-les-journees-nationales-de-formation-continue-de-lapbg/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/11/apbg-jn-300x225.jpg",
-      "publishedAt": "2026-10-13T03:29:26.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur",
-        "formation"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -458,76 +487,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aelvmpz",
-      "title": "SVT : ses lycéens créent une IA capable de détecter une infection",
-      "summary": "Et si les lycéens entraînaient eux-mêmes une intelligence artificielle à détecter une infection dans un frottis sanguin ? C’est le défi que propose l’enseignant Sylvain Tissier à ses élèves de L’article SVT : ses lycéens créent une IA capable de détecter une infection est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/13/svt-les-lyceens-creent-une-ia-capable-de-detecter-une-infection-par-sylvain-tissier/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/photo-tissier-212x300.png",
-      "publishedAt": "2026-10-13T03:30:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alsmucd",
-      "title": "Quand les lycéens revendiquent un temps pour soi",
-      "summary": "Trop d’heures de cours ? « le temps pour soi n’est pas le temps qui commence lorsque l’éducation s’arrête. Il est l’un des temps où elle continue » écrit Maxime Travert, professeur L’article Quand les lycéens revendiquent un temps pour soi est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/13/quand-les-lyceens-revendiquent-un-temps-pour-soi/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Maxime-Travert-Cafe-pedagogique-273x300.jpg",
-      "publishedAt": "2026-10-13T03:50:05.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajk0xtb",
-      "title": "NSI : les modalités de l’épreuve pratique du BAC 2027",
-      "summary": "Le ministère précise les modalités d’organisation de l’épreuve pratique de spécialité numérique et sciences informatiques (NSI) pour le baccalauréat 2027. Une banque nationale de sujets sera disponible au plus tard L’article NSI : les modalités de l’épreuve pratique du BAC 2027 est apparu en premier sur Le Café pédagog",
-      "link": "https://www.cafepedagogique.net/2026/10/13/nsi-les-modalites-de-lepreuve-pratique-du-bac-2027/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/NSI-300x300.jpg",
-      "publishedAt": "2026-10-13T03:29:17.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arfmvw",
-      "title": "Un weekend festif dans les monuments nationaux",
-      "summary": "Les 17 et 18 octobre 2026, 57 monuments emblématiques dans toute la France invitent les familles à vivre un weekend d’activités ludiques et pédagogiques. Palais, châteaux, abbayes, sites archéologiques proposent L’article Un weekend festif dans les monuments nationaux est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/13/un-week-end-festif-dans-les-monuments-nationaux/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/monuments-jeux-denfants-2026-300x300.webp",
-      "publishedAt": "2026-10-13T03:28:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -545,7 +505,75 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abfj2pc",
+      "title": "Questionnaire VSS : la concertation rattrape la précipitation du ministère",
+      "summary": "La concertation autour du projet de questionnaire relatif aux violences sexistes et sexuelles auquel devront répondre les élèves a porté ses fruits. Contrebalançant la précipitation dans laquelle s’était lancé le L’article Questionnaire VSS : la concertation rattrape la précipitation du ministère est apparu en premier ",
+      "link": "https://www.cafepedagogique.net/2026/10/13/questionnaire-vss-la-concertation-rattrape-la-precipitation-du-ministere/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/vss-300x152.png",
+      "publishedAt": "2026-10-13T03:55:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "alsmucd",
+      "title": "Quand les lycéens revendiquent un temps pour soi",
+      "summary": "Trop d’heures de cours ? « le temps pour soi n’est pas le temps qui commence lorsque l’éducation s’arrête. Il est l’un des temps où elle continue » écrit Maxime Travert, professeur L’article Quand les lycéens revendiquent un temps pour soi est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/13/quand-les-lyceens-revendiquent-un-temps-pour-soi/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Maxime-Travert-Cafe-pedagogique-273x300.jpg",
+      "publishedAt": "2026-10-13T03:50:05.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a69exme",
+      "title": "Exilés en Géorgie, les artistes russes anti-guerre doivent réinventer leur art et leur engagement",
+      "summary": "Un tableau de la peintre russe Alisa Yoffe est brandi lors d’une manifestation pro-ukrainienne à Tbilissi, le 3 avril 2022. Jenia Filatova L’ESSENTIEL Depuis 2022, la Géorgie a accueilli plusieurs vagues d’artistes russes fuyant les persécutions, la guerre ou la mobilisation. L’exil transforme leurs pratiques artistiqu",
+      "link": "https://theconversation.com/exiles-en-georgie-les-artistes-russes-anti-guerre-doivent-reinventer-leur-art-et-leur-engagement-293232",
+      "image": "https://images.theconversation.com/files/764880/original/file-20261008-50-mn1oxx.jpg?ixlib=rb-4.1.1&amp;rect=1423%2C0%2C2997%2C1998&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-12T13:54:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abxmzsc",
+      "title": "Additifs alimentaires dangereux dans nos assiettes : quand les industriels contournent les règles (du XIXᵉ siècle à nos jours)",
+      "summary": "L’ESSENTIEL L’emploi d’additifs alimentaires est mentionné dès l’Antiquité, mais les progrès de la chimie au XIXᵉ siècle ont permis de banaliser leur utilisation. Les dangers de ces additifs sont rapidement connus et des vagues de régulation se succèdent à partir de 1905 avec la loi sur l’alimentation. Ces dernières dé",
+      "link": "https://theconversation.com/additifs-alimentaires-dangereux-dans-nos-assiettes-quand-les-industriels-contournent-les-regles-du-xix-siecle-a-nos-jours-293572",
+      "image": "https://counter.theconversation.com/content/293572/count.gif",
+      "publishedAt": "2026-10-12T13:53:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -564,39 +592,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a69exme",
-      "title": "Exilés en Géorgie, les artistes russes anti-guerre doivent réinventer leur art et leur engagement",
-      "summary": "Un tableau de la peintre russe Alisa Yoffe est brandi lors d’une manifestation pro-ukrainienne à Tbilissi, le 3 avril 2022. Jenia Filatova L’ESSENTIEL Depuis 2022, la Géorgie a accueilli plusieurs vagues d’artistes russes fuyant les persécutions, la guerre ou la mobilisation. L’exil transforme leurs pratiques artistiqu",
-      "link": "https://theconversation.com/exiles-en-georgie-les-artistes-russes-anti-guerre-doivent-reinventer-leur-art-et-leur-engagement-293232",
-      "image": "https://images.theconversation.com/files/764880/original/file-20261008-50-mn1oxx.jpg?ixlib=rb-4.1.1&amp;rect=1423%2C0%2C2997%2C1998&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-12T13:54:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abxmzsc",
-      "title": "Additifs alimentaires dangereux dans nos assiettes : quand les industriels contournent les règles (du XIXᵉ siècle à nos jours)",
-      "summary": "L’ESSENTIEL L’emploi d’additifs alimentaires est mentionné dès l’Antiquité, mais les progrès de la chimie au XIXᵉ siècle ont permis de banaliser leur utilisation. Les dangers de ces additifs sont rapidement connus et des vagues de régulation se succèdent à partir de 1905 avec la loi sur l’alimentation. Ces dernières dé",
-      "link": "https://theconversation.com/additifs-alimentaires-dangereux-dans-nos-assiettes-quand-les-industriels-contournent-les-regles-du-xix-siecle-a-nos-jours-293572",
-      "image": "https://counter.theconversation.com/content/293572/count.gif",
-      "publishedAt": "2026-10-12T13:53:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -615,7 +611,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -631,7 +627,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -647,7 +643,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -663,7 +659,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -679,7 +675,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -695,7 +691,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -711,7 +707,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     }
   ]
