@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:14:03.862Z",
+  "generatedAt": "2026-10-14T16:35:10.344Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,89 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 92,
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2u65s4",
+      "title": "Projets éoliens et vote d’extrême droite : ce que révèle une étude inédite",
+      "summary": "L’ESSENTIEL Une étude inédite montre que l’implantation d’éoliennes est associée à une hausse locale du vote d’extrême droite dès le dépôt du permis, avant même la construction. Cet effet est notable dans les communes où les éoliennes sont planifiées, mais il s’étend aussi sur les communes voisines. Cette étude montre ",
+      "link": "https://theconversation.com/projets-eoliens-et-vote-dextreme-droite-ce-que-revele-une-etude-inedite-293774",
+      "image": "https://counter.theconversation.com/content/293774/count.gif",
+      "publishedAt": "2026-10-14T14:20:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5z3kov",
+      "title": "Comment les travaux des Nobel d’économie 2026 ont transformé notre façon de lutter contre les crises",
+      "summary": "L’ESSENTIEL Le prix Nobel d’économie 2026 récompense Robert Hall et Michael Woodford pour leurs travaux sur la stabilisation des économies. Leurs modèles montrent comment les anticipations des ménages et des entreprises influencent la consommation et l’inflation. Leurs recherches ont transformé la communication des ban",
+      "link": "https://theconversation.com/comment-les-travaux-des-nobel-deconomie-2026-ont-transforme-notre-facon-de-lutter-contre-les-crises-294398",
+      "image": "https://images.theconversation.com/files/765676/original/file-20261012-60-di3d9d.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-14T15:28:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aljgg30",
+      "title": "Greenwashing de type II : quand les entreprises exagèrent l’impact écologique de leurs actions",
+      "summary": "L’ESSENTIEL Une entreprise peut dire vrai sur les actions qu’elle mène en faveur de l’environnement… et pourtant pratiquer le greenwashing. Un greenwashing de type II existe. Il est moins immédiatement identifiable, car il joue d’une confusion sur le sens des mots. Le greenwashing de type II, omniprésent dans le market",
+      "link": "https://theconversation.com/greenwashing-de-type-ii-quand-les-entreprises-exagerent-limpact-ecologique-de-leurs-actions-290446",
+      "image": "https://counter.theconversation.com/content/290446/count.gif",
+      "publishedAt": "2026-10-14T14:23:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afz9fqj",
+      "title": "À Vendeuvre-du-Poitou, les féconds étés de Michel Foucault",
+      "summary": "Jusqu’à la fin de sa vie, le philosophe Michel Foucault aimait travailler au « Piroir », sa maison familiale dans le Poitou. Thierry Ehrmann, La Demeure du Chaos/Flisck, CC BY L’ESSENTIEL À Vendeuvre-du-Poitou, dans la Vienne, la maison familiale de Michel Foucault a joué un rôle particulier dans sa vie et son œuvre. L",
+      "link": "https://theconversation.com/a-vendeuvre-du-poitou-les-feconds-etes-de-michel-foucault-293858",
+      "image": "https://images.theconversation.com/files/766117/original/file-20261014-50-1th923.jpg?ixlib=rb-4.1.1&amp;rect=0%2C2%2C800%2C533&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-14T14:21:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avtwli6",
+      "title": "Can AI feel safer than human advice for consumers who face discrimination?",
+      "summary": "KEY TAKEAWAYS A study highlights that consumers who have experienced discrimination are more likely to turn to AI-based recommendations rather than human advice. The fear of being judged or feeling embarrassed can lead people to use AI. If AI systems are themselves biased, they risk exacerbating the very discrimination",
+      "link": "https://theconversation.com/can-ai-feel-safer-than-human-advice-for-consumers-who-face-discrimination-293761",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-14T14:17:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "discrimination"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +233,55 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ao09aul",
+      "title": "Face à Donald Trump et Peter Thiel, la contre-offensive des jésuites américains aux côtés de Léon XIV",
+      "summary": "Le pape Léon XIV avec les supérieurs majeurs des jésuites à Rome le 24 octobre 2025. Il est entouré d'Arturo Sosa, supérieur général de la Compagnie de Jésus, et d'Antoine Kerhuel, secrétaire de la Compagnie de Jésus à Rome. Curie jésuite L’ESSENTIEL Les réseaux jésuites américains ont joué un rôle majeur dans la diffu",
+      "link": "https://theconversation.com/face-a-donald-trump-et-peter-thiel-la-contre-offensive-des-jesuites-americains-aux-cotes-de-leon-xiv-293750",
+      "image": "https://images.theconversation.com/files/765794/original/file-20261013-70-mr63kz.jpg?ixlib=rb-4.1.1&amp;rect=138%2C0%2C973%2C649&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-14T14:19:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "azbjidm",
+      "title": "Michel Foucault, penseur de l’actualité",
+      "summary": "L’ESSENTIEL Michel Foucault est né il y a cent ans, le 15 octobre 1926. Il est l’auteur de sciences humaines et sociales le plus cité dans le monde. Son œuvre a ouvert des champs d’analyse inédits – invention de la prison, de la psychiatrie, « gouvernement » des individus et des corps par les institutions (religion, ju",
+      "link": "https://theconversation.com/michel-foucault-penseur-de-lactualite-294133",
+      "image": "https://counter.theconversation.com/content/294133/count.gif",
+      "publishedAt": "2026-10-14T14:19:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aut0dxs",
+      "title": "Santé mentale des adolescents et mobilisations lycéennes, des causes communes ?",
+      "summary": "L’ESSENTIEL À l’heure des mobilisations lycéennes, on peut s’interroger sur les liens entre les conditions de scolarité et la santé mentale des jeunes. Des études objectivent les difficultés psychologiques que connaissent nombre de jeunes, dès le collège, les filles davantage que les garçons. Ces données peuvent être m",
+      "link": "https://theconversation.com/sante-mentale-des-adolescents-et-mobilisations-lyceennes-des-causes-communes-294221",
+      "image": "https://counter.theconversation.com/content/294221/count.gif",
+      "publishedAt": "2026-10-14T14:19:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -183,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -199,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -215,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -231,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -249,26 +379,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ayb824r",
-      "title": "Maternelle : quand les manteaux révèlent les coulisses du métier",
-      "summary": "Judith et Marielle enseignent toutes les deux en maternelle. Lors d’un entretien croisé, elles regardent une vidéo tournée dans la classe de Judith juste avant la récréation. Les enfants terminent L’article Maternelle : quand les manteaux révèlent les coulisses du métier est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/maternelle-quand-les-manteaux-revelent-les-coulisses-du-metier/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/backpacks-jackets-hanging-hooks-scaled-e1791915827350-300x176.jpg",
-      "publishedAt": "2026-10-14T03:30:07.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ailt2ni",
@@ -283,8 +395,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9eoi64",
@@ -299,8 +411,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a87jzdf",
@@ -315,8 +427,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9z6dx9",
@@ -331,40 +443,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "avdzgvj",
-      "title": "Français cycle 3 : visualiser pour apprendre",
-      "summary": "« Finis les tableaux rébarbatifs et les leçons théoriques » ? Les notions de langue au programme de CM1-CM2-6e sont explorées de façon originale dans un nouvel ouvrage qui sera sans doute fort L’article Français cycle 3 : visualiser pour apprendre est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/francais-cycle-3-visualiser-pour-apprendre/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Francais-cycle-3-Visualiser-pour-apprendre-Ex-219x300.png",
-      "publishedAt": "2026-10-14T03:29:54.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a15pzm0",
-      "title": "Littérature jeunesse : Voyages voyages… vers les glaces",
-      "summary": "Ce qui relie ces deux livres, c’est l’aventure et la découverte, et même le monde polaire ! Le premier est une fiction bien connue, réécrite ici pour les plus jeunes dans L’article Littérature jeunesse : Voyages voyages… vers les glaces est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/litterature-jeunesse-voyages-voyages-vers-les-glaces/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/vingt-mille-lieues-sous-les-mers-direction-lantarctique-300x204.jpeg",
-      "publishedAt": "2026-10-14T03:29:27.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avuach9",
@@ -381,8 +461,26 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ayb824r",
+      "title": "Maternelle : quand les manteaux révèlent les coulisses du métier",
+      "summary": "Judith et Marielle enseignent toutes les deux en maternelle. Lors d’un entretien croisé, elles regardent une vidéo tournée dans la classe de Judith juste avant la récréation. Les enfants terminent L’article Maternelle : quand les manteaux révèlent les coulisses du métier est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/14/maternelle-quand-les-manteaux-revelent-les-coulisses-du-metier/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/backpacks-jackets-hanging-hooks-scaled-e1791915827350-300x176.jpg",
+      "publishedAt": "2026-10-14T03:30:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adu5l9i",
@@ -397,8 +495,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akr7lj6",
@@ -413,8 +511,40 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "avdzgvj",
+      "title": "Français cycle 3 : visualiser pour apprendre",
+      "summary": "« Finis les tableaux rébarbatifs et les leçons théoriques » ? Les notions de langue au programme de CM1-CM2-6e sont explorées de façon originale dans un nouvel ouvrage qui sera sans doute fort L’article Français cycle 3 : visualiser pour apprendre est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/14/francais-cycle-3-visualiser-pour-apprendre/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Francais-cycle-3-Visualiser-pour-apprendre-Ex-219x300.png",
+      "publishedAt": "2026-10-14T03:29:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a15pzm0",
+      "title": "Littérature jeunesse : Voyages voyages… vers les glaces",
+      "summary": "Ce qui relie ces deux livres, c’est l’aventure et la découverte, et même le monde polaire ! Le premier est une fiction bien connue, réécrite ici pour les plus jeunes dans L’article Littérature jeunesse : Voyages voyages… vers les glaces est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/14/litterature-jeunesse-voyages-voyages-vers-les-glaces/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/vingt-mille-lieues-sous-les-mers-direction-lantarctique-300x204.jpeg",
+      "publishedAt": "2026-10-14T03:29:27.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aowqigm",
@@ -431,7 +561,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +579,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -467,7 +597,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +615,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -549,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -565,139 +695,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3kl72t",
-      "title": "Les secondes intercalaires synchronisent nos horloges avec la rotation de la Terre depuis des décennies, mais elles pourraient disparaître",
-      "summary": "Les secondes intercalaires permettent de maintenir nos horloges en phase avec la rotation de la Terre, mais leur ajout perturbe certains systèmes informatiques. Agê Barros/Unsplash, CC BY L’ESSENTIEL Nos horloges atomiques sont plus régulières que la rotation de la Terre : depuis 1972, il a fallu leur ajouter 27 second",
-      "link": "https://theconversation.com/les-secondes-intercalaires-synchronisent-nos-horloges-avec-la-rotation-de-la-terre-depuis-des-decennies-mais-elles-pourraient-disparaitre-294266",
-      "image": "https://images.theconversation.com/files/765801/original/file-20261013-50-xljis8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3368%2C2245&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-13T12:12:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayjn8c9",
-      "title": "La ménopause est une transition physiologique, elle devient aussi un marché lucratif",
-      "summary": "L’ESSENTIEL La médiatisation croissante de la ménopause aide à lever les tabous et à favoriser l’accompagnement des femmes concernées. Compléments alimentaires, livres, coachings… la ménopause devient aussi un marché lucratif porté par des acteurs qui influencent le regard sur cette transition. Les réseaux sociaux, au ",
-      "link": "https://theconversation.com/la-menopause-est-une-transition-physiologique-elle-devient-aussi-un-marche-lucratif-294009",
-      "image": "https://counter.theconversation.com/content/294009/count.gif",
-      "publishedAt": "2026-10-13T10:01:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a22vuw3",
-      "title": "Quand la loi d’urgence agricole cherche à réserver la ressource en eau plutôt que d’adapter les besoins",
-      "summary": "L’ESSENTIEL La loi d’urgence pour la protection et la souveraineté agricoles (Upsa) érige l’accès à l’eau en condition existentielle de l’agriculture française. Malgré cette nouvelle orientation, le nouveau texte ne remet pas fondamentalement en cause le principe de gestion équilibrée et durable de l’eau inscrit dans l",
-      "link": "https://theconversation.com/quand-la-loi-durgence-agricole-cherche-a-reserver-la-ressource-en-eau-plutot-que-dadapter-les-besoins-293464",
-      "image": "https://counter.theconversation.com/content/293464/count.gif",
-      "publishedAt": "2026-10-12T14:00:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a69exme",
-      "title": "Exilés en Géorgie, les artistes russes anti-guerre doivent réinventer leur art et leur engagement",
-      "summary": "Un tableau de la peintre russe Alisa Yoffe est brandi lors d’une manifestation pro-ukrainienne à Tbilissi, le 3 avril 2022. Jenia Filatova L’ESSENTIEL Depuis 2022, la Géorgie a accueilli plusieurs vagues d’artistes russes fuyant les persécutions, la guerre ou la mobilisation. L’exil transforme leurs pratiques artistiqu",
-      "link": "https://theconversation.com/exiles-en-georgie-les-artistes-russes-anti-guerre-doivent-reinventer-leur-art-et-leur-engagement-293232",
-      "image": "https://images.theconversation.com/files/764880/original/file-20261008-50-mn1oxx.jpg?ixlib=rb-4.1.1&amp;rect=1423%2C0%2C2997%2C1998&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-12T13:54:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abxmzsc",
-      "title": "Additifs alimentaires dangereux dans nos assiettes : quand les industriels contournent les règles (du XIXᵉ siècle à nos jours)",
-      "summary": "L’ESSENTIEL L’emploi d’additifs alimentaires est mentionné dès l’Antiquité, mais les progrès de la chimie au XIXᵉ siècle ont permis de banaliser leur utilisation. Les dangers de ces additifs sont rapidement connus et des vagues de régulation se succèdent à partir de 1905 avec la loi sur l’alimentation. Ces dernières dé",
-      "link": "https://theconversation.com/additifs-alimentaires-dangereux-dans-nos-assiettes-quand-les-industriels-contournent-les-regles-du-xix-siecle-a-nos-jours-293572",
-      "image": "https://counter.theconversation.com/content/293572/count.gif",
-      "publishedAt": "2026-10-12T13:53:12.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a73x500",
-      "title": "« Marie-Antoinette » : vingt ans après sa sortie, le film subversif de Sofia Coppola célébré à Versailles",
-      "summary": "L’ESSENTIEL Le château de Versailles célèbre les vingt ans du film Marie-Antoinette, de Sofia Coppola, à travers une exposition présentée au Petit Trianon, conçue en collaboration avec la réalisatrice. L’exposition explore la genèse de l’œuvre, ses choix esthétiques et son impact culturel. Il s’agit d’une reconnaissanc",
-      "link": "https://theconversation.com/marie-antoinette-vingt-ans-apres-sa-sortie-le-film-subversif-de-sofia-coppola-celebre-a-versailles-293977",
-      "image": "https://counter.theconversation.com/content/293977/count.gif",
-      "publishedAt": "2026-10-12T14:01:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a58lbem",
-      "title": "« Ça vient direct du marché de producteurs » : Quand le greenwashing personnel conduit à agir concrètement",
-      "summary": "L’ESSENTIEL Si les Français s’inquiètent pour l’environnement, ils sont peu nombreux à faire des actions concrètes. C’est ce qu’on appelle le green gap. La théorie du comportement planifié aide à en comprendre les mécanismes. Elle met aussi en avant un levier pour le réduire. Si les comportements ostentatoires recherch",
-      "link": "https://theconversation.com/ca-vient-direct-du-marche-de-producteurs-quand-le-greenwashing-personnel-conduit-a-agir-concretement-291882",
-      "image": "https://counter.theconversation.com/content/291882/count.gif",
-      "publishedAt": "2026-10-12T14:01:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "az68ecl",
-      "title": "Cueillettes de plantes et de champignons : gare aux parasites, voici comment les éviter",
-      "summary": "L’ESSENTIEL Les plantes cueillies dans la nature ou dans les jardins peuvent être contaminées par des parasites. Bien que le lavage aide à éliminer certains parasites, il n’est pas toujours efficace. Seule la cuisson à une température suffisante permet de s’assurer que le risque est totalement levé. Fraises des bois, m",
-      "link": "https://theconversation.com/cueillettes-de-plantes-et-de-champignons-gare-aux-parasites-voici-comment-les-eviter-291408",
-      "image": "https://counter.theconversation.com/content/291408/count.gif",
-      "publishedAt": "2026-10-12T13:51:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     }
   ]
