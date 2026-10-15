@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T03:19:04.269Z",
+  "generatedAt": "2026-10-15T10:53:34.687Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,21 +119,224 @@
   "count": 35,
   "items": [
     {
-      "id": "ax7zvpj",
-      "title": "Après la manifestation du 13 octobre, les lycéens espèrent la « convergence des luttes »",
-      "summary": "La cinquième grande manifestation lycéenne depuis le début du mouvement, ce mardi 13 octobre, a vu des étudiants, fonctionnaires et salariés se joindre aux élèves. Insatisfaits des mesures annoncées par L’article Après la manifestation du 13 octobre, les lycéens espèrent la « convergence des luttes » est apparu en prem",
-      "link": "https://www.cafepedagogique.net/2026/10/14/apres-la-manifestation-du-13-octobre-les-lyceens-esperent-la-convergence-des-luttes/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-LYON-13-octobre-2026-Cafe-pedagogique-9-300x200.jpeg",
-      "publishedAt": "2026-10-14T03:55:06.000Z",
+      "id": "ajsjum8",
+      "title": "Une autre école est-elle possible ?",
+      "summary": "« Qu’avons-nous fait, nous adultes d’aujourd’hui qui à l’époque étions au premier rang de la contestation ? » demande Bruno Devauchelle dans ce texte. « Avons-nous été irresponsables, nous aussi ? » L’article Une autre école est-elle possible ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/15/une-autre-ecole-est-elle-possible/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-10-15T03:50:12.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
-        "élève"
+        "école"
       ],
-      "relevance": 55,
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac2ijf5",
+      "title": "France’s student uprising and young people’s mental health – what are the common causes?",
+      "summary": "KEY TAKEAWAYS Links between conditions in schools and higher education institutions in France and young people’s mental health are up for debate amid the student protest movement. Studies objectify the psychological difficulties experienced by many young people, from middle school onwards, more frequent among girls tha",
+      "link": "https://theconversation.com/frances-student-uprising-and-young-peoples-mental-health-what-are-the-common-causes-294392",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-15T09:38:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akpzth4",
+      "title": "Entre lumière et ténèbres, comment la profondeur et l’alternance jour nuit organisent la vie dans l’océan",
+      "summary": "L’ESSENTIEL La profondeur façonne les conditions de vie dans l’océan. De la surface aux abysses, il existe plusieurs étages, auxquels se sont adaptées toutes sortes d’espèces. Mais la profondeur influence aussi les relations entre prédateurs et proies : ces dernières reviennent en surface la nuit pour se nourrir de pla",
+      "link": "https://theconversation.com/entre-lumiere-et-tenebres-comment-la-profondeur-et-lalternance-jour-nuit-organisent-la-vie-dans-locean-293958",
+      "image": "https://images.theconversation.com/files/764854/original/file-20261008-60-oqte25.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-15T08:56:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "azdakpi",
+      "title": "Menopause is a biological transition that’s become a lucrative consumer business",
+      "summary": "KEY TAKEAWAYS Increasing media attention on menopause is helping to mitigate taboos and promote support for women going through the change. Food supplements, books, coaching… menopause is also becoming a lucrative market driven by actors who are influencing the way the menopausal transition is perceived. Social media, ",
+      "link": "https://theconversation.com/menopause-is-a-biological-transition-thats-become-a-lucrative-consumer-business-294220",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-15T06:12:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aap0s82",
+      "title": "Parcoursup : quelles pistes pour améliorer la mixité sociale ?",
+      "summary": "Abroger Parcoursup ou l’améliorer ? Le système actuel ne garantit pas l’atteinte des quotas minimaux de boursiers et peut accorder une priorité excessive à certains candidats : voilà le constat L’article Parcoursup : quelles pistes pour améliorer la mixité sociale ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/15/parcoursup-quelles-pistes-pour-ameliorer-la-mixite-sociale/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/03/mesri_logo_parcoursup-e1741892576720-300x177.jpg",
+      "publishedAt": "2026-10-15T04:00:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "au1zu6m",
+      "title": "Dominique Bucheton : J’ai lu « L’Ecole face à l’IA »",
+      "summary": "Les professeur·es enseignent et les élèves apprennent : l’Intelligence Artificielle Générative, ce distributeur automatique du savoir, menacerait-elle notre traditionnel « pacte » éducatif ? ou nous inviterait-elle à revitaliser nos L’article Dominique Bucheton : J’ai lu « L’Ecole face à l’IA » est apparu en premier su",
+      "link": "https://www.cafepedagogique.net/2026/10/15/dominique-bucheton-jai-lu-lecole-face-a-lia/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Dominique-Bucheton-300x225.jpeg",
+      "publishedAt": "2026-10-15T03:45:55.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "élève",
+        "professeur"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apgg4sz",
+      "title": "À Lyon et Villerbanne, la répression policière s’abat sur les cortèges : parents et enseignants matraqués, lycéen interpellé",
+      "summary": "« Il avait déplacé une poubelle qui brûlait » : c’est ce que reprochent les policiers à un lycéen de terminale de Villeurbanne, menotté puis embarqué au commissariat. La veille, L’article À Lyon et Villerbanne, la répression policière s’abat sur les cortèges : parents et enseignants matraqués, lycéen interpellé est app",
+      "link": "https://www.cafepedagogique.net/2026/10/15/a-lyon-et-villerbanne-la-repression-policiere-sabat-sur-les-corteges-parents-et-enseignants-matraques-lyceen-interpelle/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/gaz-227x300.png",
+      "publishedAt": "2026-10-15T03:55:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqjcm25",
+      "title": "Et vous, quel est votre profil andragogique ?",
+      "summary": "Former des enseignants, est-ce simplement enseigner à des adultes ? À partir d’une réflexion engagée lors d’un séminaire, Claire Lommé interroge sa posture professionnelle. Entre pédagogie et andragogie, elle revient L’article Et vous, quel est votre profil andragogique ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/15/et-vous-quel-est-votre-profil-andragogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IMG_8953-1-e1788969892289-255x300.jpeg",
+      "publishedAt": "2026-10-15T03:30:11.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "pédagogie",
+        "enseignant"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1oyzsb",
+      "title": "EPSiliades 2.0 : trois jours pour faire bouger l’EPS !",
+      "summary": "Les 19, 20 et 21 novembre 2026, les EPSiliades 2.0 réuniront les enseignantes et enseignants d’EPS partout en France. Organisé par le SNEP-FSU, cet événement propose trois jours de rencontres, L’article EPSiliades 2.0 : trois jours pour faire bouger l’EPS ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/15/epsiliades-2-0-trois-jours-pour-faire-bouger-leps/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/LOGO-EPSILIADES-2026-snep-couleur-fd-blanc-1-300x102.png",
+      "publishedAt": "2026-10-15T03:29:49.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ay7xglk",
+      "title": "« On nous traite comme des enfants que l’on ne veut pas écouter » : la colère des lycéens marseillais",
+      "summary": "Le mouvement lycéen que nous vivons laissera pour longtemps des traces dans la vie politique française. Il n’a rien à voir avec un mouvement d’humeur d’une soi-disant « adolescence dorée L’article « On nous traite comme des enfants que l’on ne veut pas écouter » : la colère des lycéens marseillais est apparu en premier",
+      "link": "https://www.cafepedagogique.net/2026/10/15/on-nous-traite-comme-des-enfants-que-lon-ne-veut-pas-ecouter-la-colere-des-lyceens-marseillais/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/lyceens-1-300x225.jpeg",
+      "publishedAt": "2026-10-15T03:55:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aliv532",
+      "title": "Orientation : un DICO pour faire découvrir les métiers aux collégien.nes",
+      "summary": "Comment faire découvrir le monde professionnel aux collégien.nes sans les enfermer trop tôt dans des choix d’orientation ? L’Onisep publie un nouveau DICO de la découverte des métiers, destiné aux L’article Orientation : un DICO pour faire découvrir les métiers aux collégien.nes est apparu en premier sur Le Café pédago",
+      "link": "https://www.cafepedagogique.net/2026/10/15/orientation-un-dico-pour-faire-decouvrir-les-metiers-aux-collegiens/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/COUV_DDM_College_Fiches_10CM-de-haut_300DPI_RVB-247x300.jpeg",
+      "publishedAt": "2026-10-15T03:29:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1x3wmv",
+      "title": "Une aventure hors du commun à découvrir aux Archives nationales",
+      "summary": "Chef d’œuvre cartographique du 18e siècle, la carte de France de Cassini est la première levée géométriquement à l’échelle d’un pays entier. Document historique majeur, composé de 181 feuilles, c L’article Une aventure hors du commun à découvrir aux Archives nationales est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/15/une-aventure-hors-du-commun-a-decouvrir-aux-archives-nationales/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Cassini_Affiche_40x60cm_Vecto-1-200x300.jpg",
+      "publishedAt": "2026-10-15T03:28:36.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atclo6l",
+      "title": "Georges Kars : une exposition à hauteur d’enfant",
+      "summary": "Pendant les vacances d’automne, le musée d’art et d’histoire du Judaïsme à Paris propose aux familles et aux jeunes des activités créatives et ludiques. C’est l’occasion de découvrir la nouvelle L’article Georges Kars : une exposition à hauteur d’enfant est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/15/georges-kars-une-exposition-a-hauteur-denfant/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Affiche_Kars_horizontale-300x227.jpg",
+      "publishedAt": "2026-10-15T03:28:34.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +352,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -165,41 +368,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aobwu66",
-      "title": "Remplacement des profs : 20 ans de réformes, toujours les mêmes échecs ?",
-      "summary": "Abracadabra, en pleine crise, 3000 TZR pour pallier les absences et manques de professeurs ! Remplacer les absences courtes des professeur.es en interne, une tentative en 2005, une autre en L’article Remplacement des profs : 20 ans de réformes, toujours les mêmes échecs ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/remplacement-des-profs-20-ans-de-reformes-toujours-les-memes-echecs/",
-      "image": null,
-      "publishedAt": "2026-10-14T03:45:40.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aljgg30",
-      "title": "Greenwashing de type II : quand les entreprises exagèrent l’impact écologique de leurs actions",
-      "summary": "L’ESSENTIEL Une entreprise peut dire vrai sur les actions qu’elle mène en faveur de l’environnement… et pourtant pratiquer le greenwashing. Un greenwashing de type II existe. Il est moins immédiatement identifiable, car il joue d’une confusion sur le sens des mots. Le greenwashing de type II, omniprésent dans le market",
-      "link": "https://theconversation.com/greenwashing-de-type-ii-quand-les-entreprises-exagerent-limpact-ecologique-de-leurs-actions-290446",
-      "image": "https://counter.theconversation.com/content/290446/count.gif",
-      "publishedAt": "2026-10-14T14:23:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +386,23 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aljgg30",
+      "title": "Greenwashing de type II : quand les entreprises exagèrent l’impact écologique de leurs actions",
+      "summary": "L’ESSENTIEL Une entreprise peut dire vrai sur les actions qu’elle mène en faveur de l’environnement… et pourtant pratiquer le greenwashing. Un greenwashing de type II existe. Il est moins immédiatement identifiable, car il joue d’une confusion sur le sens des mots. Le greenwashing de type II, omniprésent dans le market",
+      "link": "https://theconversation.com/greenwashing-de-type-ii-quand-les-entreprises-exagerent-limpact-ecologique-de-leurs-actions-290446",
+      "image": "https://counter.theconversation.com/content/290446/count.gif",
+      "publishedAt": "2026-10-14T14:23:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +418,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +434,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +450,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +466,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +482,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +498,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,7 +514,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +530,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -361,7 +546,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -379,7 +564,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -395,155 +580,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "akr7lj6",
-      "title": "Au château de Chambord, cinq siècles de plaisirs gastronomiques",
-      "summary": "L’ESSENTIEL Retracer l’histoire du boire et du manger au château de Chambord, dans le Loir-et-Cher, c’est croiser François Ier, Louis XIV, le maréchal de Saxe et Lady Diana. L’exposition « Les festins de Chambord », qui se tient jusqu’au 24 janvier 2027, restitue l’histoire gourmande du château, de la Renaissance à nos",
-      "link": "https://theconversation.com/au-chateau-de-chambord-cinq-siecles-de-plaisirs-gastronomiques-293857",
-      "image": "https://images.theconversation.com/files/764581/original/file-20261007-50-gfcygs.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-13T15:59:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alti8qo",
-      "title": "Seine-Saint-Denis : 6 % des jeunes ont accès à un lycée favorisé, contre 100 % à Paris",
-      "summary": "Des inégalités et encore des inégalités : sociales, scolaires, territoriales, de mobilité et d’orientation ! La colère lycéenne est forte dans le 93, et ce n’est pas un hasard géographique. L’article Seine-Saint-Denis : 6 % des jeunes ont accès à un lycée favorisé, contre 100 % à Paris est apparu en premier sur Le Café",
-      "link": "https://www.cafepedagogique.net/2026/10/14/seine-saint-denis-6-des-jeunes-ont-acces-a-un-lycee-favorise-contre-100-a-paris/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/ipp-209x300.png",
-      "publishedAt": "2026-10-14T04:10:59.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayb824r",
-      "title": "Maternelle : quand les manteaux révèlent les coulisses du métier",
-      "summary": "Judith et Marielle enseignent toutes les deux en maternelle. Lors d’un entretien croisé, elles regardent une vidéo tournée dans la classe de Judith juste avant la récréation. Les enfants terminent L’article Maternelle : quand les manteaux révèlent les coulisses du métier est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/maternelle-quand-les-manteaux-revelent-les-coulisses-du-metier/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/backpacks-jackets-hanging-hooks-scaled-e1791915827350-300x176.jpg",
-      "publishedAt": "2026-10-14T03:30:07.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ailt2ni",
-      "title": "« Je reviendrai après les vacances » : à Rennes, la mobilisation s’installe",
-      "summary": "Dès 12 h, des groupes de lycéen·nes ont commencé à converger vers l’esplanade Charles-de-Gaulle à Rennes, ce mardi 13 octobre. « Je viens pour la 4e fois », indique Léna, L’article « Je reviendrai après les vacances » : à Rennes, la mobilisation s’installe est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/je-reviendrai-apres-les-vacances-a-rennes-la-mobilisation-sinstalle/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-13-octobre-Rennes-Cafe-pedagogique-2-300x225.jpg",
-      "publishedAt": "2026-10-14T03:51:27.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9eoi64",
-      "title": "Marseille : une jeunesse en colère, une communauté éducative mobilisée",
-      "summary": "C’est sous un soleil quasi printanier que 15 à 20000 manifestants ont défilé dans les rues de Marseille pour cet Acte V d’une mobilisation sans précédent depuis la révolte de L’article Marseille : une jeunesse en colère, une communauté éducative mobilisée est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/marseille-une-jeunesse-en-colere-une-communaute-educative-mobilisee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-Marseille-Cafe-pedagogique-13-octobre-2026-5-300x225.jpeg",
-      "publishedAt": "2026-10-14T03:50:24.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a87jzdf",
-      "title": "« Elle nous rappelle qu’elle est la France » : Sarah Leleu salue une jeunesse debout",
-      "summary": "Des Marseillaises dans les rues. Des jeunes drapés de bleu, de blanc, de rouge. Des devises scandées en choeur. Des enfants, de toutes les couleurs, des mots écrits en gros L’article « Elle nous rappelle qu’elle est la France » : Sarah Leleu salue une jeunesse debout est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/elle-nous-rappelle-quelle-est-la-france-sarah-leleu-salue-une-jeunesse-debout/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/saraLeleuMaati-280x300.jpeg",
-      "publishedAt": "2026-10-14T03:49:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9z6dx9",
-      "title": "Parcoursup : « Un archaïsme des années Macron »",
-      "summary": "La députée d’Ille-et-Vilaine Marie Mesmeur (LFI) interpelle le gouvernement à propos des mobilisations lycéennes.. « Parcoursup est un archaïsme des années Macron, il est né avec lui, il doit s’éteindre L’article Parcoursup : « Un archaïsme des années Macron » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/parcoursup-un-archaisme-des-annees-macron/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Parcoursup-A-N-300x169.png",
-      "publishedAt": "2026-10-14T03:44:12.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avdzgvj",
-      "title": "Français cycle 3 : visualiser pour apprendre",
-      "summary": "« Finis les tableaux rébarbatifs et les leçons théoriques » ? Les notions de langue au programme de CM1-CM2-6e sont explorées de façon originale dans un nouvel ouvrage qui sera sans doute fort L’article Français cycle 3 : visualiser pour apprendre est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/francais-cycle-3-visualiser-pour-apprendre/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Francais-cycle-3-Visualiser-pour-apprendre-Ex-219x300.png",
-      "publishedAt": "2026-10-14T03:29:54.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a15pzm0",
-      "title": "Littérature jeunesse : Voyages voyages… vers les glaces",
-      "summary": "Ce qui relie ces deux livres, c’est l’aventure et la découverte, et même le monde polaire ! Le premier est une fiction bien connue, réécrite ici pour les plus jeunes dans L’article Littérature jeunesse : Voyages voyages… vers les glaces est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/14/litterature-jeunesse-voyages-voyages-vers-les-glaces/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/vingt-mille-lieues-sous-les-mers-direction-lantarctique-300x204.jpeg",
-      "publishedAt": "2026-10-14T03:29:27.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -561,7 +598,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -579,7 +616,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -597,7 +634,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -615,7 +652,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -631,7 +668,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -647,7 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -663,39 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adevom3",
-      "title": "Quiz – Connaissez-vous vraiment l’histoire du riz ?",
-      "summary": "Au VIIIᵉ siècle, les Maures venus d'Afrique du Nord ont introduit le riz dans la péninsule Ibérique, où sa culture s'est progressivement implantée. Matheus Bertelli/Pexels Le riz accompagne l’humanité depuis des milliers d’années. De ses origines préhistoriques à sa diffusion sur tous les continents, cette céréale a fa",
-      "link": "https://theconversation.com/quiz-connaissez-vous-vraiment-lhistoire-du-riz-294314",
-      "image": "https://images.theconversation.com/files/765911/original/file-20261013-50-ggejm7.jpg?ixlib=rb-4.1.1&amp;rect=0%2C444%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-13T15:25:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aob474s",
-      "title": "Navi Pillay’s Nobel Peace Prize is an example of how international law trumps the law of the jungle",
-      "summary": "KEY TAKEAWAYS In awarding the honour to Navi Pillay, a former UN High Commissioner for Human Rights and a leading figure in international criminal justice, the Nobel Committee places defending victims and the responsibility of states at the heart of building peace. The choice is particularly significant at a time when ",
-      "link": "https://theconversation.com/navi-pillays-nobel-peace-prize-is-an-example-of-how-international-law-trumps-the-law-of-the-jungle-294179",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-13T14:57:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     }
   ]
