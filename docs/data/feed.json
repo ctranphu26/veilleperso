@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:57:25.461Z",
+  "generatedAt": "2026-10-16T03:14:38.066Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -151,8 +151,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6dbpqx",
@@ -167,8 +167,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ari7c4h",
@@ -183,8 +183,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adwfz8j",
@@ -199,8 +199,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aadx673",
@@ -215,8 +215,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aa228je",
@@ -231,8 +231,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajq3xq1",
@@ -247,8 +247,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "advwc8b",
@@ -263,8 +263,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auzfbz2",
@@ -279,8 +279,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ac2ijf5",
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +327,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -347,7 +347,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -365,39 +365,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aap0s82",
-      "title": "Parcoursup : quelles pistes pour améliorer la mixité sociale ?",
-      "summary": "Abroger Parcoursup ou l’améliorer ? Le système actuel ne garantit pas l’atteinte des quotas minimaux de boursiers et peut accorder une priorité excessive à certains candidats : voilà le constat L’article Parcoursup : quelles pistes pour améliorer la mixité sociale ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/15/parcoursup-quelles-pistes-pour-ameliorer-la-mixite-sociale/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/03/mesri_logo_parcoursup-e1741892576720-300x177.jpg",
-      "publishedAt": "2026-10-15T04:00:16.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ay7xglk",
-      "title": "« On nous traite comme des enfants que l’on ne veut pas écouter » : la colère des lycéens marseillais",
-      "summary": "Le mouvement lycéen que nous vivons laissera pour longtemps des traces dans la vie politique française. Il n’a rien à voir avec un mouvement d’humeur d’une soi-disant « adolescence dorée L’article « On nous traite comme des enfants que l’on ne veut pas écouter » : la colère des lycéens marseillais est apparu en premier",
-      "link": "https://www.cafepedagogique.net/2026/10/15/on-nous-traite-comme-des-enfants-que-lon-ne-veut-pas-ecouter-la-colere-des-lyceens-marseillais/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/lyceens-1-300x225.jpeg",
-      "publishedAt": "2026-10-15T03:55:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -416,7 +384,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -434,7 +402,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -450,7 +418,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aap0s82",
+      "title": "Parcoursup : quelles pistes pour améliorer la mixité sociale ?",
+      "summary": "Abroger Parcoursup ou l’améliorer ? Le système actuel ne garantit pas l’atteinte des quotas minimaux de boursiers et peut accorder une priorité excessive à certains candidats : voilà le constat L’article Parcoursup : quelles pistes pour améliorer la mixité sociale ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/15/parcoursup-quelles-pistes-pour-ameliorer-la-mixite-sociale/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/03/mesri_logo_parcoursup-e1741892576720-300x177.jpg",
+      "publishedAt": "2026-10-15T04:00:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ay7xglk",
+      "title": "« On nous traite comme des enfants que l’on ne veut pas écouter » : la colère des lycéens marseillais",
+      "summary": "Le mouvement lycéen que nous vivons laissera pour longtemps des traces dans la vie politique française. Il n’a rien à voir avec un mouvement d’humeur d’une soi-disant « adolescence dorée L’article « On nous traite comme des enfants que l’on ne veut pas écouter » : la colère des lycéens marseillais est apparu en premier",
+      "link": "https://www.cafepedagogique.net/2026/10/15/on-nous-traite-comme-des-enfants-que-lon-ne-veut-pas-ecouter-la-colere-des-lyceens-marseillais/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/lyceens-1-300x225.jpeg",
+      "publishedAt": "2026-10-15T03:55:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -466,7 +466,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -482,7 +482,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -498,7 +498,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5z3kov",
+      "title": "Comment les travaux des Nobel d’économie 2026 ont transformé notre façon de lutter contre les crises",
+      "summary": "L’ESSENTIEL Le prix Nobel d’économie 2026 récompense Robert Hall et Michael Woodford pour leurs travaux sur la stabilisation des économies. Leurs modèles montrent comment les anticipations des ménages et des entreprises influencent la consommation et l’inflation. Leurs recherches ont transformé la communication des ban",
+      "link": "https://theconversation.com/comment-les-travaux-des-nobel-deconomie-2026-ont-transforme-notre-facon-de-lutter-contre-les-crises-294398",
+      "image": "https://images.theconversation.com/files/765676/original/file-20261012-60-di3d9d.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-14T15:28:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -516,23 +532,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5z3kov",
-      "title": "Comment les travaux des Nobel d’économie 2026 ont transformé notre façon de lutter contre les crises",
-      "summary": "L’ESSENTIEL Le prix Nobel d’économie 2026 récompense Robert Hall et Michael Woodford pour leurs travaux sur la stabilisation des économies. Leurs modèles montrent comment les anticipations des ménages et des entreprises influencent la consommation et l’inflation. Leurs recherches ont transformé la communication des ban",
-      "link": "https://theconversation.com/comment-les-travaux-des-nobel-deconomie-2026-ont-transforme-notre-facon-de-lutter-contre-les-crises-294398",
-      "image": "https://images.theconversation.com/files/765676/original/file-20261012-60-di3d9d.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-14T15:28:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -548,7 +548,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -564,7 +564,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -580,7 +580,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -596,7 +596,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -612,7 +612,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -628,7 +628,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -644,7 +644,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -660,7 +660,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -676,7 +676,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -692,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     }
   ]
