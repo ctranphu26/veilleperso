@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:44:59.463Z",
+  "generatedAt": "2026-10-16T16:07:27.171Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,24 @@
   "count": 35,
   "items": [
     {
+      "id": "a4htu7h",
+      "title": "Ménopause : une pause au milieu de la vie, non une date de péremption",
+      "summary": "L’ESSENTIEL La Journée mondiale de la ménopause, le 18 octobre, est l’occasion d’un retour sur une expérience longtemps passée sous silence. La philosophe Gloria Origgi (ENS-PSL) invite à la penser comme une transformation plutôt que comme un déclin. Dans Philosophie de la ménopause (éditions Flammarion, 2026), elle en",
+      "link": "https://theconversation.com/menopause-une-pause-au-milieu-de-la-vie-non-une-date-de-peremption-294380",
+      "image": "https://counter.theconversation.com/content/294380/count.gif",
+      "publishedAt": "2026-10-16T14:31:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a4yd0td",
       "title": "Eric Charbonnier : « Il faut vraiment investir de façon ciblée pour agir sur les difficultés des élèves »",
       "summary": "Le nombre d’enfants âgés de 5 à 14 ans pourrait diminuer de 7 % en France entre 2024 et 2033 selon l’OCDE. Alors que l’école fait aujourd’hui face à des L’article Eric Charbonnier : « Il faut vraiment investir de façon ciblée pour agir sur les difficultés des élèves » est apparu en premier sur Le Café pédagogique.",
@@ -134,7 +152,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -153,7 +171,39 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apqt5in",
+      "title": "Comment fonctionne le Veoza, un médicament contre les symptômes de la ménopause ? Et en quoi est-il différent du traitement hormonal ?",
+      "summary": "L’ESSENTIEL Le Veoza est un nouveau médicament qui a montré une certaine efficacité contre les bouffées de chaleur liées à la ménopause. Parce qu'il agit au niveau du cerveau, sans recourir aux hormones, il pourrait constituer une alternative, ou un complément, au traitement hormonal de la ménopause. Mais en France, Ve",
+      "link": "https://theconversation.com/comment-fonctionne-le-veoza-un-medicament-contre-les-symptomes-de-la-menopause-et-en-quoi-est-il-different-du-traitement-hormonal-294504",
+      "image": "https://counter.theconversation.com/content/294504/count.gif",
+      "publishedAt": "2026-10-16T12:09:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atpcub8",
+      "title": "Haro sur le « gouvernement des juges » : ces menaces que les politiques font peser sur le Conseil constitutionnel",
+      "summary": "Le Conseil constitutionnel est composé de neuf membres et présidé par Richard Ferrand (au premier rang, au centre). Conseil constitutionnel L’ESSENTIEL Le Conseil constitutionnel est attaqué par des responsables politiques. Marine Le Pen va jusqu’à demander la démission de son président Richard Ferrand. Le contrôle des",
+      "link": "https://theconversation.com/haro-sur-le-gouvernement-des-juges-ces-menaces-que-les-politiques-font-peser-sur-le-conseil-constitutionnel-291829",
+      "image": "https://images.theconversation.com/files/765254/original/file-20261009-50-vbvdrk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7742%2C5161&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-16T12:07:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +219,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -187,7 +237,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -203,7 +253,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -219,43 +269,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ahrlyf6",
-      "title": "Salaires enseignants : la France décroche, l’OCDE confirme",
-      "summary": "Voilà un rapport qui tombe à pic avec l’actualité et la mobilisation nationale pour la revalorisation salariale. Salaires jugés insuffisants par près de 3 enseignants sur 4, et en deçà L’article Salaires enseignants : la France décroche, l’OCDE confirme est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/16/salaires-enseignants-la-france-decroche-locde-confirme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/12/Salaire-des-profs-cafe-pedagogique-300x203.jpg",
-      "publishedAt": "2026-10-16T04:00:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a12r85k",
-      "title": "Qui a voulu la peau du CLEPT de grenoble ? Chronique d’une destruction programmée",
-      "summary": "« À quand une Institution capable de mettre en œuvre une politique éducative « par le bas » et de s’en nourrir ? » demandent Alain Kerlan, Professeur des universités honoraire, Université Lumière Lyon, et Éric L’article Qui a voulu la peau du CLEPT de grenoble ? Chronique d’une destruction programmée est apparu en prem",
-      "link": "https://www.cafepedagogique.net/2026/10/16/qui-a-voulu-la-peau-du-clept-de-grenoble-chronique-dune-destruction-programmee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Alain-Kerlan-Eric-Favey-cafe-pedagogique-300x203.png",
-      "publishedAt": "2026-10-16T03:52:15.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -274,8 +288,26 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahrlyf6",
+      "title": "Salaires enseignants : la France décroche, l’OCDE confirme",
+      "summary": "Voilà un rapport qui tombe à pic avec l’actualité et la mobilisation nationale pour la revalorisation salariale. Salaires jugés insuffisants par près de 3 enseignants sur 4, et en deçà L’article Salaires enseignants : la France décroche, l’OCDE confirme est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/16/salaires-enseignants-la-france-decroche-locde-confirme/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/12/Salaire-des-profs-cafe-pedagogique-300x203.jpg",
+      "publishedAt": "2026-10-16T04:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5ydxw0",
@@ -293,8 +325,26 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a12r85k",
+      "title": "Qui a voulu la peau du CLEPT de grenoble ? Chronique d’une destruction programmée",
+      "summary": "« À quand une Institution capable de mettre en œuvre une politique éducative « par le bas » et de s’en nourrir ? » demandent Alain Kerlan, Professeur des universités honoraire, Université Lumière Lyon, et Éric L’article Qui a voulu la peau du CLEPT de grenoble ? Chronique d’une destruction programmée est apparu en prem",
+      "link": "https://www.cafepedagogique.net/2026/10/16/qui-a-voulu-la-peau-du-clept-de-grenoble-chronique-dune-destruction-programmee/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Alain-Kerlan-Eric-Favey-cafe-pedagogique-300x203.png",
+      "publishedAt": "2026-10-16T03:52:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abvo6km",
@@ -309,8 +359,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9bxuux",
@@ -325,8 +375,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abjisqw",
@@ -341,8 +391,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4c26hg",
@@ -357,8 +407,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atr63h0",
@@ -375,8 +425,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6dbpqx",
@@ -391,7 +441,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +457,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -423,7 +473,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,7 +489,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -455,7 +505,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -471,7 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -487,7 +537,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -503,7 +553,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -519,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -535,7 +585,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -551,7 +601,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -567,7 +617,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -583,25 +633,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avtwli6",
-      "title": "Can AI feel safer than human advice for consumers who face discrimination?",
-      "summary": "KEY TAKEAWAYS A study highlights that consumers who have experienced discrimination are more likely to turn to AI-based recommendations rather than human advice. The fear of being judged or feeling embarrassed can lead people to use AI. If AI systems are themselves biased, they risk exacerbating the very discrimination",
-      "link": "https://theconversation.com/can-ai-feel-safer-than-human-advice-for-consumers-who-face-discrimination-293761",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-14T14:17:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "discrimination"
-      ],
-      "relevance": 83,
-      "relevanceLevel": "haute",
-      "urgency": 42,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -617,8 +649,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "afz9fqj",
@@ -633,8 +665,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ao09aul",
@@ -649,8 +681,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "azbjidm",
@@ -665,40 +697,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aut0dxs",
-      "title": "Santé mentale des adolescents et mobilisations lycéennes, des causes communes ?",
-      "summary": "L’ESSENTIEL À l’heure des mobilisations lycéennes, on peut s’interroger sur les liens entre les conditions de scolarité et la santé mentale des jeunes. Des études objectivent les difficultés psychologiques que connaissent nombre de jeunes, dès le collège, les filles davantage que les garçons. Ces données peuvent être m",
-      "link": "https://theconversation.com/sante-mentale-des-adolescents-et-mobilisations-lyceennes-des-causes-communes-294221",
-      "image": "https://counter.theconversation.com/content/294221/count.gif",
-      "publishedAt": "2026-10-14T14:19:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adcym99",
-      "title": "Replay : les défis de la recherche en zone de conflit",
-      "summary": "Unsplash, CC BY Dans ce webinaire organisé par Normandie pour la Paix et The Conversation France, trois spécialistes partagent leur expérience du terrain, de l’Afghanistan à l’Ukraine, en passant par le Haut-Karabakh. Comment mener des recherches dans ces contextes ? Comment faire face aux difficultés rencontrées sur p",
-      "link": "https://theconversation.com/replay-les-defis-de-la-recherche-en-zone-de-conflit-294379",
-      "image": "https://images.theconversation.com/files/766136/original/file-20261014-50-xfw5ia.jpg?ixlib=rb-4.1.1&amp;rect=0%2C100%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-14T10:17:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     }
   ]
 }
