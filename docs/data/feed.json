@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T16:07:27.171Z",
+  "generatedAt": "2026-10-16T20:31:55.624Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,24 +119,6 @@
   "count": 35,
   "items": [
     {
-      "id": "a4htu7h",
-      "title": "Ménopause : une pause au milieu de la vie, non une date de péremption",
-      "summary": "L’ESSENTIEL La Journée mondiale de la ménopause, le 18 octobre, est l’occasion d’un retour sur une expérience longtemps passée sous silence. La philosophe Gloria Origgi (ENS-PSL) invite à la penser comme une transformation plutôt que comme un déclin. Dans Philosophie de la ménopause (éditions Flammarion, 2026), elle en",
-      "link": "https://theconversation.com/menopause-une-pause-au-milieu-de-la-vie-non-une-date-de-peremption-294380",
-      "image": "https://counter.theconversation.com/content/294380/count.gif",
-      "publishedAt": "2026-10-16T14:31:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
       "id": "a4yd0td",
       "title": "Eric Charbonnier : « Il faut vraiment investir de façon ciblée pour agir sur les difficultés des élèves »",
       "summary": "Le nombre d’enfants âgés de 5 à 14 ans pourrait diminuer de 7 % en France entre 2024 et 2033 selon l’OCDE. Alors que l’école fait aujourd’hui face à des L’article Eric Charbonnier : « Il faut vraiment investir de façon ciblée pour agir sur les difficultés des élèves » est apparu en premier sur Le Café pédagogique.",
@@ -152,7 +134,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -171,7 +153,25 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a4htu7h",
+      "title": "Ménopause : une pause au milieu de la vie, non une date de péremption",
+      "summary": "L’ESSENTIEL La Journée mondiale de la ménopause, le 18 octobre, est l’occasion d’un retour sur une expérience longtemps passée sous silence. La philosophe Gloria Origgi (ENS-PSL) invite à la penser comme une transformation plutôt que comme un déclin. Dans Philosophie de la ménopause (éditions Flammarion, 2026), elle en",
+      "link": "https://theconversation.com/menopause-une-pause-au-milieu-de-la-vie-non-une-date-de-peremption-294380",
+      "image": "https://counter.theconversation.com/content/294380/count.gif",
+      "publishedAt": "2026-10-16T14:31:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -187,7 +187,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -203,7 +203,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -219,8 +219,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9bo5k8",
@@ -237,8 +237,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a559ht2",
@@ -253,12 +253,12 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amdmqwy",
-      "title": "Comment se décomposent nos cadavres ?",
+      "title": "Comment se décomposent nos cadavres ?",
       "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
       "link": "https://theconversation.com/comment-se-decomposent-nos-cadavres-278242",
       "image": "https://counter.theconversation.com/content/278242/count.gif",
@@ -269,8 +269,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1ul50l",
@@ -288,7 +288,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -306,7 +306,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -325,7 +325,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -343,7 +343,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,7 +359,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -375,7 +375,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -391,7 +391,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +407,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +425,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +441,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +457,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,7 +473,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -489,7 +489,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -505,7 +505,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -521,7 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -537,7 +537,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -553,7 +553,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -569,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -585,23 +585,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "azdakpi",
-      "title": "Menopause is a biological transition that’s become a lucrative consumer business",
-      "summary": "KEY TAKEAWAYS Increasing media attention on menopause is helping to mitigate taboos and promote support for women going through the change. Food supplements, books, coaching… menopause is also becoming a lucrative market driven by actors who are influencing the way the menopausal transition is perceived. Social media, ",
-      "link": "https://theconversation.com/menopause-is-a-biological-transition-thats-become-a-lucrative-consumer-business-294220",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-15T06:12:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -617,7 +601,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "azdakpi",
+      "title": "Menopause is a biological transition that’s become a lucrative consumer business",
+      "summary": "KEY TAKEAWAYS Increasing media attention on menopause is helping to mitigate taboos and promote support for women going through the change. Food supplements, books, coaching… menopause is also becoming a lucrative market driven by actors who are influencing the way the menopausal transition is perceived. Social media, ",
+      "link": "https://theconversation.com/menopause-is-a-biological-transition-thats-become-a-lucrative-consumer-business-294220",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-15T06:12:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -633,8 +633,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aljgg30",
@@ -649,7 +649,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -665,7 +665,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -681,7 +681,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -697,7 +697,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     }
   ]
