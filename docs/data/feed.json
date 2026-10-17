@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T20:31:55.624Z",
+  "generatedAt": "2026-10-17T03:05:27.105Z",
   "themes": [
     {
       "id": "education-medias",
@@ -134,8 +134,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ai7ctwf",
@@ -153,8 +153,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4htu7h",
@@ -171,8 +171,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apqt5in",
@@ -187,8 +187,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atpcub8",
@@ -203,23 +203,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "abekvlt",
-      "title": "Plus de 80 % des femmes ressentent les symptômes de la ménopause, mais le monde du travail les ignore",
-      "summary": "Les symptômes de la ménopause peuvent affecter les conditions de travail et freiner la carrière des femmes, faute d’une prise en compte suffisante par les employeurs. Roman Samborskyi/Shutterstock L’ESSENTIEL Plus de 80 % des femmes connaissent des symptômes de la ménopause, qui peuvent perturber leur vie professionnel",
-      "link": "https://theconversation.com/plus-de-80-des-femmes-ressentent-les-symptomes-de-la-menopause-mais-le-monde-du-travail-les-ignore-294505",
-      "image": "https://images.theconversation.com/files/766444/original/file-20260415-71-amoxn0.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C8256%2C5504&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-16T09:43:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -237,7 +221,23 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abekvlt",
+      "title": "Plus de 80 % des femmes ressentent les symptômes de la ménopause, mais le monde du travail les ignore",
+      "summary": "Les symptômes de la ménopause peuvent affecter les conditions de travail et freiner la carrière des femmes, faute d’une prise en compte suffisante par les employeurs. Roman Samborskyi/Shutterstock L’ESSENTIEL Plus de 80 % des femmes connaissent des symptômes de la ménopause, qui peuvent perturber leur vie professionnel",
+      "link": "https://theconversation.com/plus-de-80-des-femmes-ressentent-les-symptomes-de-la-menopause-mais-le-monde-du-travail-les-ignore-294505",
+      "image": "https://images.theconversation.com/files/766444/original/file-20260415-71-amoxn0.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C8256%2C5504&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-16T09:43:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -253,7 +253,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,7 +269,43 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahrlyf6",
+      "title": "Salaires enseignants : la France décroche, l’OCDE confirme",
+      "summary": "Voilà un rapport qui tombe à pic avec l’actualité et la mobilisation nationale pour la revalorisation salariale. Salaires jugés insuffisants par près de 3 enseignants sur 4, et en deçà L’article Salaires enseignants : la France décroche, l’OCDE confirme est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/16/salaires-enseignants-la-france-decroche-locde-confirme/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/12/Salaire-des-profs-cafe-pedagogique-300x203.jpg",
+      "publishedAt": "2026-10-16T04:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 58,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "atr63h0",
+      "title": "Transplantation cardiaque : Comment augmenter le nombre de greffons disponibles ?",
+      "summary": "L’ESSENTIEL Chaque année, des patients en attente de greffe cardiaque meurent faute d’avoir pu recevoir un greffon. Plusieurs pistes permettraient d’améliorer la situation : modifier les modalités de prélèvement, mieux évaluer les cœurs disponibles, améliorer le repérage des donneurs potentiels… L’emploi de l’IA ou de ",
+      "link": "https://theconversation.com/transplantation-cardiaque-comment-augmenter-le-nombre-de-greffons-disponibles-294420",
+      "image": "https://counter.theconversation.com/content/294420/count.gif",
+      "publishedAt": "2026-10-15T14:41:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -288,25 +324,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahrlyf6",
-      "title": "Salaires enseignants : la France décroche, l’OCDE confirme",
-      "summary": "Voilà un rapport qui tombe à pic avec l’actualité et la mobilisation nationale pour la revalorisation salariale. Salaires jugés insuffisants par près de 3 enseignants sur 4, et en deçà L’article Salaires enseignants : la France décroche, l’OCDE confirme est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/16/salaires-enseignants-la-france-decroche-locde-confirme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/12/Salaire-des-profs-cafe-pedagogique-300x203.jpg",
-      "publishedAt": "2026-10-16T04:00:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -325,7 +343,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -343,7 +361,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,7 +377,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -375,7 +393,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -391,7 +409,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,25 +425,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atr63h0",
-      "title": "Transplantation cardiaque : Comment augmenter le nombre de greffons disponibles ?",
-      "summary": "L’ESSENTIEL Chaque année, des patients en attente de greffe cardiaque meurent faute d’avoir pu recevoir un greffon. Plusieurs pistes permettraient d’améliorer la situation : modifier les modalités de prélèvement, mieux évaluer les cœurs disponibles, améliorer le repérage des donneurs potentiels… L’emploi de l’IA ou de ",
-      "link": "https://theconversation.com/transplantation-cardiaque-comment-augmenter-le-nombre-de-greffons-disponibles-294420",
-      "image": "https://counter.theconversation.com/content/294420/count.gif",
-      "publishedAt": "2026-10-15T14:41:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +441,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +457,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,7 +473,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -489,7 +489,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -505,7 +505,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -521,7 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -537,7 +537,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -553,7 +553,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -569,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -585,7 +585,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -601,7 +601,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -617,7 +617,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -633,7 +633,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -649,7 +649,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -665,7 +665,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -681,7 +681,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -697,7 +697,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     }
   ]
