@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:26:14.126Z",
+  "generatedAt": "2026-10-18T15:24:50.301Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -183,7 +183,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -199,7 +199,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -215,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -234,7 +234,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -252,7 +252,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,7 +270,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +286,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -305,7 +305,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -324,7 +324,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,39 +342,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apqt5in",
-      "title": "Comment fonctionne le Veoza, un médicament contre les symptômes de la ménopause ? Et en quoi est-il différent du traitement hormonal ?",
-      "summary": "L’ESSENTIEL Le Veoza est un nouveau médicament qui a montré une certaine efficacité contre les bouffées de chaleur liées à la ménopause. Parce qu'il agit au niveau du cerveau, sans recourir aux hormones, il pourrait constituer une alternative, ou un complément, au traitement hormonal de la ménopause. Mais en France, Ve",
-      "link": "https://theconversation.com/comment-fonctionne-le-veoza-un-medicament-contre-les-symptomes-de-la-menopause-et-en-quoi-est-il-different-du-traitement-hormonal-294504",
-      "image": "https://counter.theconversation.com/content/294504/count.gif",
-      "publishedAt": "2026-10-16T12:09:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atpcub8",
-      "title": "Haro sur le « gouvernement des juges » : ces menaces que les politiques font peser sur le Conseil constitutionnel",
-      "summary": "Le Conseil constitutionnel est composé de neuf membres et présidé par Richard Ferrand (au premier rang, au centre). Conseil constitutionnel L’ESSENTIEL Le Conseil constitutionnel est attaqué par des responsables politiques. Marine Le Pen va jusqu’à demander la démission de son président Richard Ferrand. Le contrôle des",
-      "link": "https://theconversation.com/haro-sur-le-gouvernement-des-juges-ces-menaces-que-les-politiques-font-peser-sur-le-conseil-constitutionnel-291829",
-      "image": "https://images.theconversation.com/files/765254/original/file-20261009-50-vbvdrk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7742%2C5161&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-16T12:07:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -392,40 +360,40 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
-      "id": "abekvlt",
-      "title": "Plus de 80 % des femmes ressentent les symptômes de la ménopause, mais le monde du travail les ignore",
-      "summary": "Les symptômes de la ménopause peuvent affecter les conditions de travail et freiner la carrière des femmes, faute d’une prise en compte suffisante par les employeurs. Roman Samborskyi/Shutterstock L’ESSENTIEL Plus de 80 % des femmes connaissent des symptômes de la ménopause, qui peuvent perturber leur vie professionnel",
-      "link": "https://theconversation.com/plus-de-80-des-femmes-ressentent-les-symptomes-de-la-menopause-mais-le-monde-du-travail-les-ignore-294505",
-      "image": "https://images.theconversation.com/files/766444/original/file-20260415-71-amoxn0.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C8256%2C5504&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-16T09:43:24.000Z",
+      "id": "apqt5in",
+      "title": "Comment fonctionne le Veoza, un médicament contre les symptômes de la ménopause ? Et en quoi est-il différent du traitement hormonal ?",
+      "summary": "L’ESSENTIEL Le Veoza est un nouveau médicament qui a montré une certaine efficacité contre les bouffées de chaleur liées à la ménopause. Parce qu'il agit au niveau du cerveau, sans recourir aux hormones, il pourrait constituer une alternative, ou un complément, au traitement hormonal de la ménopause. Mais en France, Ve",
+      "link": "https://theconversation.com/comment-fonctionne-le-veoza-un-medicament-contre-les-symptomes-de-la-menopause-et-en-quoi-est-il-different-du-traitement-hormonal-294504",
+      "image": "https://counter.theconversation.com/content/294504/count.gif",
+      "publishedAt": "2026-10-16T12:09:59.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
-      "id": "a559ht2",
-      "title": "Aux États-Unis, la ménopause reste largement absente des dossiers médicaux (et c’est un problème)",
-      "summary": "L’ESSENTIEL Sur près de 240 000 dossiers médicaux de femmes états-uniennes, seuls 12 % mentionnent la ménopause. Ce manque de données freine la recherche sur ses conséquences pour la santé. Un simple questionnaire en consultation pourrait améliorer le suivi des patientes. Toute personne ayant des ovaires connaîtra la m",
-      "link": "https://theconversation.com/aux-etats-unis-la-menopause-reste-largement-absente-des-dossiers-medicaux-et-cest-un-probleme-294503",
-      "image": "https://counter.theconversation.com/content/294503/count.gif",
-      "publishedAt": "2026-10-16T09:07:30.000Z",
+      "id": "atpcub8",
+      "title": "Haro sur le « gouvernement des juges » : ces menaces que les politiques font peser sur le Conseil constitutionnel",
+      "summary": "Le Conseil constitutionnel est composé de neuf membres et présidé par Richard Ferrand (au premier rang, au centre). Conseil constitutionnel L’ESSENTIEL Le Conseil constitutionnel est attaqué par des responsables politiques. Marine Le Pen va jusqu’à demander la démission de son président Richard Ferrand. Le contrôle des",
+      "link": "https://theconversation.com/haro-sur-le-gouvernement-des-juges-ces-menaces-que-les-politiques-font-peser-sur-le-conseil-constitutionnel-291829",
+      "image": "https://images.theconversation.com/files/765254/original/file-20261009-50-vbvdrk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C7742%2C5161&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-16T12:07:26.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9bo5k8",
@@ -442,7 +410,39 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "abekvlt",
+      "title": "Plus de 80 % des femmes ressentent les symptômes de la ménopause, mais le monde du travail les ignore",
+      "summary": "Les symptômes de la ménopause peuvent affecter les conditions de travail et freiner la carrière des femmes, faute d’une prise en compte suffisante par les employeurs. Roman Samborskyi/Shutterstock L’ESSENTIEL Plus de 80 % des femmes connaissent des symptômes de la ménopause, qui peuvent perturber leur vie professionnel",
+      "link": "https://theconversation.com/plus-de-80-des-femmes-ressentent-les-symptomes-de-la-menopause-mais-le-monde-du-travail-les-ignore-294505",
+      "image": "https://images.theconversation.com/files/766444/original/file-20260415-71-amoxn0.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C8256%2C5504&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-16T09:43:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a559ht2",
+      "title": "Aux États-Unis, la ménopause reste largement absente des dossiers médicaux (et c’est un problème)",
+      "summary": "L’ESSENTIEL Sur près de 240 000 dossiers médicaux de femmes états-uniennes, seuls 12 % mentionnent la ménopause. Ce manque de données freine la recherche sur ses conséquences pour la santé. Un simple questionnaire en consultation pourrait améliorer le suivi des patientes. Toute personne ayant des ovaires connaîtra la m",
+      "link": "https://theconversation.com/aux-etats-unis-la-menopause-reste-largement-absente-des-dossiers-medicaux-et-cest-un-probleme-294503",
+      "image": "https://counter.theconversation.com/content/294503/count.gif",
+      "publishedAt": "2026-10-16T09:07:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -458,7 +458,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -477,7 +477,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -495,41 +495,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a12r85k",
-      "title": "Qui a voulu la peau du CLEPT de grenoble ? Chronique d’une destruction programmée",
-      "summary": "« À quand une Institution capable de mettre en œuvre une politique éducative « par le bas » et de s’en nourrir ? » demandent Alain Kerlan, Professeur des universités honoraire, Université Lumière Lyon, et Éric L’article Qui a voulu la peau du CLEPT de grenoble ? Chronique d’une destruction programmée est apparu en prem",
-      "link": "https://www.cafepedagogique.net/2026/10/16/qui-a-voulu-la-peau-du-clept-de-grenoble-chronique-dune-destruction-programmee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Alain-Kerlan-Eric-Favey-cafe-pedagogique-300x203.png",
-      "publishedAt": "2026-10-16T03:52:15.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abvo6km",
-      "title": "Perméabilité, influence, distance, quelle autonomie du jeune à l’ère de l’IA ?",
-      "summary": "Comment un jeune se fabrique-t-il son opinion, ses connaissances, ses convictions ? Quel effet cela a-t-il sur ses manières de vivre au quotidien ? demande Bruno Devauchelle dans sa chronique. L’article Perméabilité, influence, distance, quelle autonomie du jeune à l’ère de l’IA ? est apparu en premier sur Le Café péda",
-      "link": "https://www.cafepedagogique.net/2026/10/16/permeabilite-influence-distance-quelle-autonomie-du-jeune-a-lere-de-lia/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
-      "publishedAt": "2026-10-16T03:45:17.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -548,7 +514,41 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a12r85k",
+      "title": "Qui a voulu la peau du CLEPT de grenoble ? Chronique d’une destruction programmée",
+      "summary": "« À quand une Institution capable de mettre en œuvre une politique éducative « par le bas » et de s’en nourrir ? » demandent Alain Kerlan, Professeur des universités honoraire, Université Lumière Lyon, et Éric L’article Qui a voulu la peau du CLEPT de grenoble ? Chronique d’une destruction programmée est apparu en prem",
+      "link": "https://www.cafepedagogique.net/2026/10/16/qui-a-voulu-la-peau-du-clept-de-grenoble-chronique-dune-destruction-programmee/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Alain-Kerlan-Eric-Favey-cafe-pedagogique-300x203.png",
+      "publishedAt": "2026-10-16T03:52:15.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "abvo6km",
+      "title": "Perméabilité, influence, distance, quelle autonomie du jeune à l’ère de l’IA ?",
+      "summary": "Comment un jeune se fabrique-t-il son opinion, ses connaissances, ses convictions ? Quel effet cela a-t-il sur ses manières de vivre au quotidien ? demande Bruno Devauchelle dans sa chronique. L’article Perméabilité, influence, distance, quelle autonomie du jeune à l’ère de l’IA ? est apparu en premier sur Le Café péda",
+      "link": "https://www.cafepedagogique.net/2026/10/16/permeabilite-influence-distance-quelle-autonomie-du-jeune-a-lere-de-lia/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/Bruno-Devauchelle-Cafe-pedagogique-247x300.jpg",
+      "publishedAt": "2026-10-16T03:45:17.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -564,7 +564,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -580,7 +580,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -596,7 +596,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -612,7 +612,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -628,7 +628,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -644,7 +644,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -660,7 +660,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +676,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
