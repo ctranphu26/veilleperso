@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:12:12.737Z",
+  "generatedAt": "2026-10-19T22:00:23.089Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,56 @@
   "count": 35,
   "items": [
     {
+      "id": "af4ufme",
+      "title": "Une loi suffira-t-elle contre les violences sexistes et sexuelles ?",
+      "summary": "L’ESSENTIEL Le 13 octobre, l’Assemblée nationale a voté une loi « intégrale » pour lutter contre les violences sexuelles et sexistes (VSS) faites aux femmes et aux enfants. La loi, essentiellement répressive, propose des pistes intéressantes pour la prévention des violences et l’accompagnement des victimes. Mais la cré",
+      "link": "https://theconversation.com/une-loi-suffira-t-elle-contre-les-violences-sexistes-et-sexuelles-294548",
+      "image": "https://counter.theconversation.com/content/294548/count.gif",
+      "publishedAt": "2026-10-19T14:07:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 91,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ap4c8p1",
+      "title": "Le pouvoir sans contre-pouvoirs est vulnérable aux insurrections : ce que Montesquieu nous apprend sur l’érosion démocratique",
+      "summary": "L’ESSENTIEL L’érosion démocratique ne commence pas par la suppression des élections, mais par la fragilisation des institutions qui limitent le pouvoir politique. Cette intuition, formulée par Montesquieu au XVIIIᵉ siècle, permet de mieux cerner les mécanismes à l’œuvre aujourd’hui. Pour Montesquieu, sans corps intermé",
+      "link": "https://theconversation.com/le-pouvoir-sans-contre-pouvoirs-est-vulnerable-aux-insurrections-ce-que-montesquieu-nous-apprend-sur-lerosion-democratique-294025",
+      "image": "https://counter.theconversation.com/content/294025/count.gif",
+      "publishedAt": "2026-10-19T14:08:31.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqlfxp3",
+      "title": "Pourra-t-on vraiment surveiller les impacts des néonicotinoïdes réautorisés par la loi d’urgence agricole ?",
+      "summary": "L’ESSENTIEL La loi d’urgence agricole, promulguée le 18 août 2026, réautorise certains néonicotinoïdes de façon dérogatoire. Le texte législatif prévoit également qu’un conseil de surveillance examine les conséquences environnementales de ces dérogations. Mais nous ne sommes pas encore outillés pour pouvoir surveiller ",
+      "link": "https://theconversation.com/pourra-t-on-vraiment-surveiller-les-impacts-des-neonicotino-des-reautorises-par-la-loi-durgence-agricole-294186",
+      "image": "https://counter.theconversation.com/content/294186/count.gif",
+      "publishedAt": "2026-10-19T14:04:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a7a8u0h",
       "title": "« J’ai entendu dire… », ou quand les bruits de couloir deviennent un outil de management",
       "summary": "L’ESSENTIEL Qu’on les appelle « bruits de couloir » ou « radio moquette », les rumeurs font partie de la vie des organisations. Elles deviennent problématiques quand elles sont opposées à un salarié, par exemple lors d’un entretien annuel d’évaluation. Gare à ne pas transformer une rumeur en fait. Pour éviter les abus,",
@@ -133,13 +183,13 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
       "id": "ah8f6zh",
       "title": "Cinéma : « Une femme aujourd’hui »  de Robert Guédiguian",
-      "summary": "Robert Guédiguian, citoyen révolté et cinéaste combattant, n’est pas du genre à succomber au chant des sirènes néolibérales. Pour son 25ème long métrage, « Une femme aujourd’hui », le réalisateur demeure attaché L’article Cinéma : « Une femme aujourd’hui » de Robert Guédiguian est apparu en premier sur Le Café pédagogi",
+      "summary": "Robert Guédiguian, citoyen révolté et cinéaste combattant, n’est pas du genre à succomber au chant des sirènes néolibérales. Pour son 25e long métrage, Une femme aujourd’hui, le réalisateur demeure attaché L’article Cinéma : « Une femme aujourd’hui » de Robert Guédiguian est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/10/19/cinema-une-femme-aujourdhui-de-robert-guediguian/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/unefemmeaujourdhui_web-600x815-1-221x300.jpg",
       "publishedAt": "2026-10-19T06:06:31.000Z",
@@ -151,7 +201,126 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 83,
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awkcs41",
+      "title": "Why Europe’s new defence agenda depends not only on armies, but also on citizens",
+      "summary": "KEY TAKEAWAYS Europe faces growing hybrid threats beyond conventional warfare. Alongside the conflict in Ukraine, European countries are experiencing suspected sabotage, cyberattacks, drone incidents, espionage and disinformation campaigns. Citizens and communities are essential to Europe’s security alongside governmen",
+      "link": "https://theconversation.com/why-europes-new-defence-agenda-depends-not-only-on-armies-but-also-on-citizens-293357",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-19T14:21:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5x4unn",
+      "title": "Perdre ses mots, mais non son intelligence : la souffrance des personnes aphasiques",
+      "summary": "L’ESSENTIEL En France, on estime que plus de 300 000 personnes sont atteintes d’aphasie, un trouble du langage qui se traduit par de graves difficultés de communication. Il s’agit d’un handicap qui a des répercussions majeures sur la vie quotidienne et la santé mentale des patients. Peu connue et mal comprise, l’aphasi",
+      "link": "https://theconversation.com/perdre-ses-mots-mais-non-son-intelligence-la-souffrance-des-personnes-aphasiques-293558",
+      "image": "https://counter.theconversation.com/content/293558/count.gif",
+      "publishedAt": "2026-10-19T14:09:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "handicap"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arusxjw",
+      "title": "L’école à l’ère de l’individualisme compétitif ? Derrière les discours sur l’excellence, l’illusion méritocratique",
+      "summary": "L’ESSENTIEL Il y a cinquante ans déjà, les sociologues Pierre Bourdieu et Jean-Claude Passeron dénonçaient l’illusion méritocratique de l’école. Ces inégalités sociales et de réussite persistent, comme le soulignent les évaluations scolaires. Derrière la promotion de l’excellence, on continue de transformer des compéte",
+      "link": "https://theconversation.com/lecole-a-lere-de-lindividualisme-competitif-derriere-les-discours-sur-lexcellence-lillusion-meritocratique-293231",
+      "image": "https://counter.theconversation.com/content/293231/count.gif",
+      "publishedAt": "2026-10-19T14:03:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "évaluation"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "azcoztl",
+      "title": "À Okinawa, deux quotidiens locaux au cœur de la contestation de la présence des bases américaines",
+      "summary": "L’ESSENTIEL À Okinawa, au Japon, les deux grands quotidiens locaux se distinguent des médias nationaux par leur couverture critique de la présence militaire états-unienne. La presse locale contribue aux mobilisations contre les bases militaires, en fédérant des revendications diverses et en faisant émerger une conscien",
+      "link": "https://theconversation.com/a-okinawa-deux-quotidiens-locaux-au-coeur-de-la-contestation-de-la-presence-des-bases-americaines-294583",
+      "image": "https://images.theconversation.com/files/766840/original/file-20261017-50-is0hk1.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-19T14:06:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aruj6lo",
+      "title": "L’Andorre, le Vatican, Monaco et Saint-Marin : pourquoi ces micro-États si riches utilisent l’euro",
+      "summary": "L’ESSENTIEL L’Andorre, le Vatican, Monaco et Saint-Marin utilisent l’euro sans être formellement membres de la zone euro. L’euro des micro-États ne sert pas qu’aux collectionneurs. Il permet à ces pays de profiter des avantages économiques de l’Union européenne tout en gardant leurs symboles nationaux. En échange, ces ",
+      "link": "https://theconversation.com/landorre-le-vatican-monaco-et-saint-marin-pourquoi-ces-micro-etats-si-riches-utilisent-leuro-291789",
+      "image": "https://images.theconversation.com/files/764500/original/file-20261007-60-kwf2ar.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-19T14:02:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajo0drr",
+      "title": "Pourquoi le diesel coûte-t-il si cher ? Et comment en sortir ?",
+      "summary": "L’ESSENTIEL Le diesel se vend plus cher que l’essence et plus cher qu’au printemps, alors que le prix du baril a reflué. L’explication tient moins au prix du pétrole brut qu’au modèle économique du raffinage. Le tour du monde des réponses publiques montre que ni l’abondance d’hydrocarbures ni les baisses de taxes ne pr",
+      "link": "https://theconversation.com/pourquoi-le-diesel-coute-t-il-si-cher-et-comment-en-sortir-294494",
+      "image": "https://images.theconversation.com/files/766425/original/file-20261015-50-zjgl40.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-19T14:02:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a60ms7r",
+      "title": "« Bismillah, c’est les ténèbres » : quand une possible infiltration policière devient un mème à succès",
+      "summary": "L’ESSENTIEL La mobilisation lycéenne de grande ampleur en cours depuis septembre a fait sienne un slogan mystérieux, mêlant langue arabe et française, « Bismillah, c’est les ténèbres ». Derrière cette phrase se cachent des messages Snapchat qui, selon les lycéens, émanent de policiers qui tentaient de se faire passer p",
+      "link": "https://theconversation.com/bismillah-cest-les-tenebres-quand-une-possible-infiltration-policiere-devient-un-meme-a-succes-294652",
+      "image": "https://images.theconversation.com/files/766842/original/file-20261017-50-ybpkhn.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-19T14:01:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -169,8 +338,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amyugyz",
@@ -185,8 +354,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a63vck8",
@@ -201,8 +370,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4a54qd",
@@ -217,8 +386,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3x1yt2",
@@ -233,8 +402,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agy806g",
@@ -249,13 +418,13 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a11awfe",
-      "title": "SVT: quelle biodiversité pour Halloween ?",
-      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT: quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
+      "title": "SVT : quelle biodiversité pour Halloween ?",
+      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
       "publishedAt": "2026-10-19T02:00:44.000Z",
@@ -267,7 +436,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +452,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +470,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +488,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +504,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +520,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +536,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -386,7 +555,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -404,7 +573,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -422,7 +591,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -438,25 +607,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atr63h0",
-      "title": "Transplantation cardiaque : Comment augmenter le nombre de greffons disponibles ?",
-      "summary": "L’ESSENTIEL Chaque année, des patients en attente de greffe cardiaque meurent faute d’avoir pu recevoir un greffon. Plusieurs pistes permettraient d’améliorer la situation : modifier les modalités de prélèvement, mieux évaluer les cœurs disponibles, améliorer le repérage des donneurs potentiels… L’emploi de l’IA ou de ",
-      "link": "https://theconversation.com/transplantation-cardiaque-comment-augmenter-le-nombre-de-greffons-disponibles-294420",
-      "image": "https://counter.theconversation.com/content/294420/count.gif",
-      "publishedAt": "2026-10-15T14:41:49.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -474,7 +625,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -490,7 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -506,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -522,25 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9bo5k8",
-      "title": "Mieux vivre la ménopause au travail : s’appuyer sur les compétences des femmes pour répondre à leurs besoins",
-      "summary": "L’ESSENTIEL Au travail, les femmes qui souffrent de symptômes de la ménopause doivent développer des stratégies pour y faire face en toute discrétion. Stress, horaires rigides, installations insuffisantes, encadrants peu soutenants… l’organisation des entreprises compliquent l’expérience de la ménopause. Une approche c",
-      "link": "https://theconversation.com/mieux-vivre-la-menopause-au-travail-sappuyer-sur-les-competences-des-femmes-pour-repondre-a-leurs-besoins-294219",
-      "image": "https://counter.theconversation.com/content/294219/count.gif",
-      "publishedAt": "2026-10-16T08:46:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "compétence"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -556,23 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amdmqwy",
-      "title": "Comment se décomposent nos cadavres ?",
-      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
-      "link": "https://theconversation.com/comment-se-decomposent-nos-cadavres-278242",
-      "image": "https://counter.theconversation.com/content/278242/count.gif",
-      "publishedAt": "2026-10-16T07:44:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -590,119 +707,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6dbpqx",
-      "title": "Mouvement lycéen : au-delà des revendications matérielles et de Parcoursup, un appel à rompre avec le « monde d’hier »",
-      "summary": "Le mouvement lycéen frappe par son ampleur, touchant des établissements jusqu’ici peu mobilisés. Au-delà d’un manque de moyens dans l’éducation, les manifestants dénoncent la pression d’un système toujours plus compétitif. Ce désir de « renverser la table » révèle l’urgence de repenser le dialogue démocratique, soulign",
-      "link": "https://theconversation.com/mouvement-lyceen-au-dela-des-revendications-materielles-et-de-parcoursup-un-appel-a-rompre-avec-le-monde-dhier-294327",
-      "image": "https://counter.theconversation.com/content/294327/count.gif",
-      "publishedAt": "2026-10-15T14:56:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ari7c4h",
-      "title": "Lecture : où sont les hommes ?",
-      "summary": "L’ESSENTIEL Dans les discours de déploration sur la lecture, les jeunes font figure de cibles privilégiées. Pourtant, il est une autre catégorie qui se distingue par des pratiques de lecture en berne : les hommes. Comment expliquer ce désinvestissement ? Et pourquoi les femmes s’intéressent-elles bien davantage à la le",
-      "link": "https://theconversation.com/lecture-ou-sont-les-hommes-293354",
-      "image": "https://images.theconversation.com/files/764618/original/file-20261007-50-4fsl7v.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-15T14:55:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ao2z6dj",
-      "title": "Pour mieux taxer les plus riches, il est nécessaire de mieux définir le revenu",
-      "summary": "L’ESSENTIEL Tous les revenus devraient être imposés de la même façon. Derrière l’évidence se cache un problème épineux : la définition de ce qu’est un revenu. Un revenu tend à être oublié, par le débat public et par le système fiscal qui les exonère ou les efface : les plus-values. Des solutions existent qui, en tenant",
-      "link": "https://theconversation.com/pour-mieux-taxer-les-plus-riches-il-est-necessaire-de-mieux-definir-le-revenu-294390",
-      "image": "https://counter.theconversation.com/content/294390/count.gif",
-      "publishedAt": "2026-10-15T14:55:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aadx673",
-      "title": "« Notre salut » : quand le management et la gestion s’invitent à Vichy",
-      "summary": "L’ESSENTIEL Le deuxième film d’Emmanuel Marre décrit l’ascension d’un ingénieur ambitieux, son propre arrière-grand-père Henri, au sein du régime de Vichy. En 1940, Henri Marre met en pratique sa vision de la gestion, exposée dans son livre Notre salut, publié la même année, celle d’un monde rationalisé fondé sur l’aut",
-      "link": "https://theconversation.com/notre-salut-quand-le-management-et-la-gestion-sinvitent-a-vichy-294250",
-      "image": "https://images.theconversation.com/files/766231/original/file-20261014-50-jvuiz8.png?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1080&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-15T14:54:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aa228je",
-      "title": "Protestations lycéennes, gilets jaunes, ces mouvements qui défient l’ordre politique",
-      "summary": "L’ESSENTIEL Le mouvement lycéen et celui des gilets jaunes se caractérisent par des actions directes (blocages, occupations des ronds-points) et une organisation horizontale. Ces mouvements peuvent être qualifiés de « féraux » au sens de non domestiqués – la féralité faisant référence aux plantes et aux animaux domesti",
-      "link": "https://theconversation.com/protestations-lyceennes-gilets-jaunes-ces-mouvements-qui-defient-lordre-politique-294023",
-      "image": "https://counter.theconversation.com/content/294023/count.gif",
-      "publishedAt": "2026-10-15T14:54:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajq3xq1",
-      "title": "Rhinocéros de Sumatra et de Java, une course contre la montre pour éviter leur extinction",
-      "summary": "Le rhinocéros de Sumatra (*Dicerorhinus sumatrensis*) est en voie critique d’extinction. Izullkifli/Shutterstock (no reuse) L’ESSENTIEL Il ne reste que quelques dizaines de rhinocéros de Sumatra en vie et environ 50 rhinocéros de Java, tous en Indonésie. Le braconnage et la fragmentation des populations menacent leur s",
-      "link": "https://theconversation.com/rhinoceros-de-sumatra-et-de-java-une-course-contre-la-montre-pour-eviter-leur-extinction-294006",
-      "image": "https://images.theconversation.com/files/765611/original/file-20261012-50-epfn4t.jpg?ixlib=rb-4.1.1&amp;rect=133%2C0%2C3732%2C2488&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-15T14:46:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "advwc8b",
-      "title": "La refondation de Democratic Socialists of America",
-      "summary": "À l’approche des élections de mi-mandat, le Parti républicain concentre ses attaques sur l’aile gauche du Parti démocrate, dont les figures de proue sont aussi bien des politiciens chevronnés présents sur la scène publique depuis des décennies, comme Bernie Sanders ou Elizabeth Warren, que des personnalités plus jeunes",
-      "link": "https://theconversation.com/la-refondation-de-democratic-socialists-of-america-294085",
-      "image": "https://counter.theconversation.com/content/294085/count.gif",
-      "publishedAt": "2026-10-15T14:43:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 22,
       "urgencyLevel": "basse"
     }
   ]
