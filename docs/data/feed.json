@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:30:41.664Z",
+  "generatedAt": "2026-10-20T10:57:13.077Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,23 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 86,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahma4bz",
+      "title": "Religieuses possédées et déviances sexuelles : l’histoire des « Diables », le film censuré puis restauré de Ken Russell",
+      "summary": "Vanessa Redgrave incarne sœur Jeanne des Anges dans Les Diables, le drame historique controversé réalisé par Ken Russell en 1971. KEN RUSSELL’S THE DEVILS © Warner Bros. Clockwork L’ESSENTIEL Sorti en 1971, Les Diables de Ken Russell ressort dans une version restaurée intégrant des scènes longtemps censurées. Le film a",
+      "link": "https://theconversation.com/religieuses-possedees-et-deviances-sexuelles-lhistoire-des-diables-le-film-censure-puis-restaure-de-ken-russell-294264",
+      "image": "https://images.theconversation.com/files/765786/original/file-20261012-50-hhd4c0.jpg?ixlib=rb-4.1.1&amp;rect=233%2C45%2C1711%2C1140&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-20T08:32:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +165,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqlfxp3",
@@ -165,8 +181,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7a8u0h",
@@ -183,8 +199,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ah8f6zh",
@@ -201,7 +217,25 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awkcs41",
+      "title": "Why Europe’s new defence agenda depends not only on armies, but also on citizens",
+      "summary": "KEY TAKEAWAYS Europe faces growing hybrid threats beyond conventional warfare. Alongside the conflict in Ukraine, European countries are experiencing suspected sabotage, cyberattacks, drone incidents, espionage and disinformation campaigns. Citizens and communities are essential to Europe’s security alongside governmen",
+      "link": "https://theconversation.com/why-europes-new-defence-agenda-depends-not-only-on-armies-but-also-on-citizens-293357",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-19T14:21:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -220,25 +254,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awkcs41",
-      "title": "Why Europe’s new defence agenda depends not only on armies, but also on citizens",
-      "summary": "KEY TAKEAWAYS Europe faces growing hybrid threats beyond conventional warfare. Alongside the conflict in Ukraine, European countries are experiencing suspected sabotage, cyberattacks, drone incidents, espionage and disinformation campaigns. Citizens and communities are essential to Europe’s security alongside governmen",
-      "link": "https://theconversation.com/why-europes-new-defence-agenda-depends-not-only-on-armies-but-also-on-citizens-293357",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-19T14:21:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -256,7 +272,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -272,7 +288,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -288,7 +304,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +320,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,7 +354,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +370,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,7 +386,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -386,7 +402,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,7 +418,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 53,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "agy806g",
+      "title": "Votre Expresso est en vacances",
+      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
+      "publishedAt": "2026-10-19T03:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -420,23 +452,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agy806g",
-      "title": "Votre Expresso est en vacances",
-      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
-      "publishedAt": "2026-10-19T03:00:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -452,8 +468,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aawym8l",
@@ -470,8 +486,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aio5uv3",
@@ -488,8 +504,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aimla5q",
@@ -504,8 +520,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akdzia7",
@@ -520,8 +536,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ar8fhlq",
@@ -536,8 +552,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9r13xv",
@@ -555,7 +571,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -573,7 +589,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +607,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -607,7 +623,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -625,7 +641,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -641,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -657,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -673,23 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a559ht2",
-      "title": "Aux États-Unis, la ménopause reste largement absente des dossiers médicaux (et c’est un problème)",
-      "summary": "L’ESSENTIEL Sur près de 240 000 dossiers médicaux de femmes états-uniennes, seuls 12 % mentionnent la ménopause. Ce manque de données freine la recherche sur ses conséquences pour la santé. Un simple questionnaire en consultation pourrait améliorer le suivi des patientes. Toute personne ayant des ovaires connaîtra la m",
-      "link": "https://theconversation.com/aux-etats-unis-la-menopause-reste-largement-absente-des-dossiers-medicaux-et-cest-un-probleme-294503",
-      "image": "https://counter.theconversation.com/content/294503/count.gif",
-      "publishedAt": "2026-10-16T09:07:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -707,7 +707,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 20,
+      "urgency": 18,
       "urgencyLevel": "basse"
     }
   ]
