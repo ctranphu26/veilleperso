@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:00:23.089Z",
+  "generatedAt": "2026-10-20T03:30:41.664Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 91,
+      "urgency": 86,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -183,7 +183,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -201,44 +201,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "awkcs41",
-      "title": "Why Europe’s new defence agenda depends not only on armies, but also on citizens",
-      "summary": "KEY TAKEAWAYS Europe faces growing hybrid threats beyond conventional warfare. Alongside the conflict in Ukraine, European countries are experiencing suspected sabotage, cyberattacks, drone incidents, espionage and disinformation campaigns. Citizens and communities are essential to Europe’s security alongside governmen",
-      "link": "https://theconversation.com/why-europes-new-defence-agenda-depends-not-only-on-armies-but-also-on-citizens-293357",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-19T14:21:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a5x4unn",
-      "title": "Perdre ses mots, mais non son intelligence : la souffrance des personnes aphasiques",
-      "summary": "L’ESSENTIEL En France, on estime que plus de 300 000 personnes sont atteintes d’aphasie, un trouble du langage qui se traduit par de graves difficultés de communication. Il s’agit d’un handicap qui a des répercussions majeures sur la vie quotidienne et la santé mentale des patients. Peu connue et mal comprise, l’aphasi",
-      "link": "https://theconversation.com/perdre-ses-mots-mais-non-son-intelligence-la-souffrance-des-personnes-aphasiques-293558",
-      "image": "https://counter.theconversation.com/content/293558/count.gif",
-      "publishedAt": "2026-10-19T14:09:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "handicap"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arusxjw",
@@ -256,8 +220,44 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awkcs41",
+      "title": "Why Europe’s new defence agenda depends not only on armies, but also on citizens",
+      "summary": "KEY TAKEAWAYS Europe faces growing hybrid threats beyond conventional warfare. Alongside the conflict in Ukraine, European countries are experiencing suspected sabotage, cyberattacks, drone incidents, espionage and disinformation campaigns. Citizens and communities are essential to Europe’s security alongside governmen",
+      "link": "https://theconversation.com/why-europes-new-defence-agenda-depends-not-only-on-armies-but-also-on-citizens-293357",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-19T14:21:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5x4unn",
+      "title": "Perdre ses mots, mais non son intelligence : la souffrance des personnes aphasiques",
+      "summary": "L’ESSENTIEL En France, on estime que plus de 300 000 personnes sont atteintes d’aphasie, un trouble du langage qui se traduit par de graves difficultés de communication. Il s’agit d’un handicap qui a des répercussions majeures sur la vie quotidienne et la santé mentale des patients. Peu connue et mal comprise, l’aphasi",
+      "link": "https://theconversation.com/perdre-ses-mots-mais-non-son-intelligence-la-souffrance-des-personnes-aphasiques-293558",
+      "image": "https://counter.theconversation.com/content/293558/count.gif",
+      "publishedAt": "2026-10-19T14:09:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "handicap"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "azcoztl",
@@ -272,8 +272,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aruj6lo",
@@ -288,8 +288,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajo0drr",
@@ -304,8 +304,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a60ms7r",
@@ -320,8 +320,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ameugrw",
@@ -338,7 +338,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +354,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,7 +370,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -386,7 +386,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,23 +402,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agy806g",
-      "title": "Votre Expresso est en vacances",
-      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
-      "publishedAt": "2026-10-19T03:00:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -436,7 +420,23 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 56,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "agy806g",
+      "title": "Votre Expresso est en vacances",
+      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
+      "publishedAt": "2026-10-19T03:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -452,7 +452,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -470,7 +470,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -488,7 +488,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -504,7 +504,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -520,7 +520,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -536,7 +536,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -555,7 +555,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -573,7 +573,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +591,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -607,7 +607,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -641,7 +641,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -657,7 +657,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -673,7 +673,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -689,7 +689,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -707,7 +707,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     }
   ]
