@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:16:23.085Z",
+  "generatedAt": "2026-10-21T03:24:43.119Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 92,
+      "urgency": 86,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -181,151 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ahw86ko",
-      "title": "Political power without balance leads to the erosion of democracy, what Montesquieu can teach modern-day France",
-      "summary": "KEY TAKEAWAYS Democratic erosion does not start by doing away with elections; it starts with the weakening of institutions that limit political power. Montesquieu’s intuition back in the 18th century helps us to to gain a sounder understanding of the mechanisms at work in France today. For the French philosopher, witho",
-      "link": "https://theconversation.com/political-power-without-balance-leads-to-the-erosion-of-democracy-what-montesquieu-can-teach-modern-day-france-294737",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-20T14:10:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a9aqcb1",
-      "title": "Les plus modestes sont plus sensibles aux incitations écologiques, même si cela leur coûte plus cher",
-      "summary": "L’ESSENTIEL Pour favoriser les comportements écologiques, les « nudges » sont largement utilisés par les décideurs publics à travers le monde. Contrairement à une taxe ou à une interdiction, le nudge est un outil qui vise à influencer un choix sans contraindre qui que ce soit. Sa mise en place ne coûte pas grand chose,",
-      "link": "https://theconversation.com/les-plus-modestes-sont-plus-sensibles-aux-incitations-ecologiques-meme-si-cela-leur-coute-plus-cher-293965",
-      "image": "https://counter.theconversation.com/content/293965/count.gif",
-      "publishedAt": "2026-10-20T14:00:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "apod29l",
-      "title": "Cyberattaques : faut-il mettre en place un « contrôle technique cyber » pour les entreprises ?",
-      "summary": "L’ESSENTIEL Une cyberattaque a visé, mi-octobre, des frigos de supermarchés qui ont dû jeter tous leurs produits surgelés, mettant en lumière le fait que les risques des cyberattaques affectent aussi le monde physique. Si les attaquants sont évidemment les premiers responsables de ces attaques et des préjudices causés,",
-      "link": "https://theconversation.com/cyberattaques-faut-il-mettre-en-place-un-controle-technique-cyber-pour-les-entreprises-294500",
-      "image": "https://counter.theconversation.com/content/294500/count.gif",
-      "publishedAt": "2026-10-20T13:59:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ad6k9vm",
-      "title": "Les séries de Monet, méditations sur le temps",
-      "summary": "L’ESSENTIEL Pour célébrer le centenaire de la mort de Claude Monet (1840-1926), le Musée de l’Orangerie, à Paris, propose l’exposition « Claude Monet, peindre le temps ». Les grandes séries de Monet – par exemple, ses 250 tableaux de nymphéas – témoignent d’une enquête au long cours sur le temps. Temps de l’horloge, te",
-      "link": "https://theconversation.com/les-series-de-monet-meditations-sur-le-temps-293564",
-      "image": "https://images.theconversation.com/files/767002/original/file-20261019-50-gknu82.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-20T13:58:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aui9aq5",
-      "title": "Dans le monde, un cancer sur huit serait dû à une infection, selon une nouvelle étude",
-      "summary": "Chaque année, plusieurs millions de cancers dans le monde seraient dus à des microorganismes pathogènes. DBenitostock/Getty L’ESSENTIEL En 2024, 2,3 millions de nouveaux cas de cancers dans le monde, soit 12 % de l’ensemble des nouveaux cas de cancers cette année-là, auraient été dus à des infections par des microorgan",
-      "link": "https://theconversation.com/dans-le-monde-un-cancer-sur-huit-serait-du-a-une-infection-selon-une-nouvelle-etude-293718",
-      "image": "https://images.theconversation.com/files/764142/original/file-20260929-50-grq191.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6275%2C4183&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-20T13:58:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a5hjl1g",
-      "title": "Pourquoi il est erroné de ne voir les houthistes que comme des supplétifs de l’Iran",
-      "summary": "L’ESSENTIEL Les houthistes ont développé leur capacité militaire et visent directement l’Arabie saoudite, y compris ses infrastructures civiles. Désireux de ne pas apparaître comme des pantins de Téhéran, ils ont attendu le moment propice pour passer à l’action, plusieurs mois après le début de l’offensive israélo-amér",
-      "link": "https://theconversation.com/pourquoi-il-est-errone-de-ne-voir-les-houthistes-que-comme-des-suppletifs-de-liran-294610",
-      "image": "https://counter.theconversation.com/content/294610/count.gif",
-      "publishedAt": "2026-10-20T13:57:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a251z6q",
-      "title": "De l’Italie à la Grèce, quand la corruption d’un arbitre de football ruine tout un championnat",
-      "summary": "L’ESSENTIEL Le dopage financier du club de Manchester City réveille les vieux démons du football. Un cas d’espèce pour examiner la triche sous toutes ses coutures. La théorie des jeux montre comment la corruption d’arbitre affaiblit les championnats, en particulier les plus modestes. Bien que l’assistance vidéo à l’arb",
-      "link": "https://theconversation.com/de-litalie-a-la-grece-quand-la-corruption-dun-arbitre-de-football-ruine-tout-un-championnat-293610",
-      "image": "https://counter.theconversation.com/content/293610/count.gif",
-      "publishedAt": "2026-10-20T13:57:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "abxzvjs",
-      "title": "Notre paie s’appelle un « salaire », mais est-ce vraiment parce que les soldats romains étaient payés en sel ?",
-      "summary": "Un bas-relief en pierre représentant des soldats romains sur la colonne Trajane, à Rome. Rabax63, CC BY L’ESSENTIEL Contrairement à une idée reçue, rien ne prouve que les soldats romains aient été payés en sel. Ils recevaient une solde en pièces de monnaie, complétée par des primes et divers avantages. Le mot « salaire",
-      "link": "https://theconversation.com/notre-paie-sappelle-un-salaire-mais-est-ce-vraiment-parce-que-les-soldats-romains-etaient-payes-en-sel-292155",
-      "image": "https://images.theconversation.com/files/760159/original/file-20260831-50-qyaqxx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5760%2C3840&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-20T13:44:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "awzp8ke",
-      "title": "L’histoire de l’enfance : une clé pour comprendre comment change la société française, entre infantisme et nouveaux droits",
-      "summary": "Longtemps, dans les manuels d’histoire, ils sont restés dans l’ombre des adultes. Pourtant les enfants sont des acteurs à part entière de leur époque et les derniers travaux de recherche soulignent combien leur place, la reconnaissance de leurs droits mais aussi les maltraitances dont ils sont victimes racontent notre ",
-      "link": "https://theconversation.com/lhistoire-de-lenfance-une-cle-pour-comprendre-comment-change-la-societe-francaise-entre-infantisme-et-nouveaux-droits-294522",
-      "image": "https://images.theconversation.com/files/766578/original/file-20261015-50-7ouh56.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-20T13:34:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -343,8 +199,152 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahw86ko",
+      "title": "Political power without balance leads to the erosion of democracy, what Montesquieu can teach modern-day France",
+      "summary": "KEY TAKEAWAYS Democratic erosion does not start by doing away with elections; it starts with the weakening of institutions that limit political power. Montesquieu’s intuition back in the 18th century helps us to to gain a sounder understanding of the mechanisms at work in France today. For the French philosopher, witho",
+      "link": "https://theconversation.com/political-power-without-balance-leads-to-the-erosion-of-democracy-what-montesquieu-can-teach-modern-day-france-294737",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-20T14:10:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a9aqcb1",
+      "title": "Les plus modestes sont plus sensibles aux incitations écologiques, même si cela leur coûte plus cher",
+      "summary": "L’ESSENTIEL Pour favoriser les comportements écologiques, les « nudges » sont largement utilisés par les décideurs publics à travers le monde. Contrairement à une taxe ou à une interdiction, le nudge est un outil qui vise à influencer un choix sans contraindre qui que ce soit. Sa mise en place ne coûte pas grand chose,",
+      "link": "https://theconversation.com/les-plus-modestes-sont-plus-sensibles-aux-incitations-ecologiques-meme-si-cela-leur-coute-plus-cher-293965",
+      "image": "https://counter.theconversation.com/content/293965/count.gif",
+      "publishedAt": "2026-10-20T14:00:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apod29l",
+      "title": "Cyberattaques : faut-il mettre en place un « contrôle technique cyber » pour les entreprises ?",
+      "summary": "L’ESSENTIEL Une cyberattaque a visé, mi-octobre, des frigos de supermarchés qui ont dû jeter tous leurs produits surgelés, mettant en lumière le fait que les risques des cyberattaques affectent aussi le monde physique. Si les attaquants sont évidemment les premiers responsables de ces attaques et des préjudices causés,",
+      "link": "https://theconversation.com/cyberattaques-faut-il-mettre-en-place-un-controle-technique-cyber-pour-les-entreprises-294500",
+      "image": "https://counter.theconversation.com/content/294500/count.gif",
+      "publishedAt": "2026-10-20T13:59:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ad6k9vm",
+      "title": "Les séries de Monet, méditations sur le temps",
+      "summary": "L’ESSENTIEL Pour célébrer le centenaire de la mort de Claude Monet (1840-1926), le Musée de l’Orangerie, à Paris, propose l’exposition « Claude Monet, peindre le temps ». Les grandes séries de Monet – par exemple, ses 250 tableaux de nymphéas – témoignent d’une enquête au long cours sur le temps. Temps de l’horloge, te",
+      "link": "https://theconversation.com/les-series-de-monet-meditations-sur-le-temps-293564",
+      "image": "https://images.theconversation.com/files/767002/original/file-20261019-50-gknu82.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-20T13:58:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aui9aq5",
+      "title": "Dans le monde, un cancer sur huit serait dû à une infection, selon une nouvelle étude",
+      "summary": "Chaque année, plusieurs millions de cancers dans le monde seraient dus à des microorganismes pathogènes. DBenitostock/Getty L’ESSENTIEL En 2024, 2,3 millions de nouveaux cas de cancers dans le monde, soit 12 % de l’ensemble des nouveaux cas de cancers cette année-là, auraient été dus à des infections par des microorgan",
+      "link": "https://theconversation.com/dans-le-monde-un-cancer-sur-huit-serait-du-a-une-infection-selon-une-nouvelle-etude-293718",
+      "image": "https://images.theconversation.com/files/764142/original/file-20260929-50-grq191.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6275%2C4183&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-20T13:58:06.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5hjl1g",
+      "title": "Pourquoi il est erroné de ne voir les houthistes que comme des supplétifs de l’Iran",
+      "summary": "L’ESSENTIEL Les houthistes ont développé leur capacité militaire et visent directement l’Arabie saoudite, y compris ses infrastructures civiles. Désireux de ne pas apparaître comme des pantins de Téhéran, ils ont attendu le moment propice pour passer à l’action, plusieurs mois après le début de l’offensive israélo-amér",
+      "link": "https://theconversation.com/pourquoi-il-est-errone-de-ne-voir-les-houthistes-que-comme-des-suppletifs-de-liran-294610",
+      "image": "https://counter.theconversation.com/content/294610/count.gif",
+      "publishedAt": "2026-10-20T13:57:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a251z6q",
+      "title": "De l’Italie à la Grèce, quand la corruption d’un arbitre de football ruine tout un championnat",
+      "summary": "L’ESSENTIEL Le dopage financier du club de Manchester City réveille les vieux démons du football. Un cas d’espèce pour examiner la triche sous toutes ses coutures. La théorie des jeux montre comment la corruption d’arbitre affaiblit les championnats, en particulier les plus modestes. Bien que l’assistance vidéo à l’arb",
+      "link": "https://theconversation.com/de-litalie-a-la-grece-quand-la-corruption-dun-arbitre-de-football-ruine-tout-un-championnat-293610",
+      "image": "https://counter.theconversation.com/content/293610/count.gif",
+      "publishedAt": "2026-10-20T13:57:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abxzvjs",
+      "title": "Notre paie s’appelle un « salaire », mais est-ce vraiment parce que les soldats romains étaient payés en sel ?",
+      "summary": "Un bas-relief en pierre représentant des soldats romains sur la colonne Trajane, à Rome. Rabax63, CC BY L’ESSENTIEL Contrairement à une idée reçue, rien ne prouve que les soldats romains aient été payés en sel. Ils recevaient une solde en pièces de monnaie, complétée par des primes et divers avantages. Le mot « salaire",
+      "link": "https://theconversation.com/notre-paie-sappelle-un-salaire-mais-est-ce-vraiment-parce-que-les-soldats-romains-etaient-payes-en-sel-292155",
+      "image": "https://images.theconversation.com/files/760159/original/file-20260831-50-qyaqxx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5760%2C3840&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-20T13:44:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "awzp8ke",
+      "title": "L’histoire de l’enfance : une clé pour comprendre comment change la société française, entre infantisme et nouveaux droits",
+      "summary": "Longtemps, dans les manuels d’histoire, ils sont restés dans l’ombre des adultes. Pourtant les enfants sont des acteurs à part entière de leur époque et les derniers travaux de recherche soulignent combien leur place, la reconnaissance de leurs droits mais aussi les maltraitances dont ils sont victimes racontent notre ",
+      "link": "https://theconversation.com/lhistoire-de-lenfance-une-cle-pour-comprendre-comment-change-la-societe-francaise-entre-infantisme-et-nouveaux-droits-294522",
+      "image": "https://images.theconversation.com/files/766578/original/file-20261015-50-7ouh56.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-20T13:34:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aoi5z6q",
@@ -359,8 +359,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aw6hcty",
@@ -375,8 +375,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ass8avu",
@@ -391,8 +391,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahma4bz",
@@ -407,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -423,7 +423,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,7 +439,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +457,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -476,7 +476,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -494,7 +494,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -512,7 +512,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -528,7 +528,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -544,7 +544,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -560,7 +560,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -576,7 +576,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -592,7 +592,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -608,23 +608,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agy806g",
-      "title": "Votre Expresso est en vacances",
-      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
-      "publishedAt": "2026-10-19T03:00:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -642,7 +626,23 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 43,
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "agy806g",
+      "title": "Votre Expresso est en vacances",
+      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
+      "publishedAt": "2026-10-19T03:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -658,7 +658,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -694,7 +694,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 16,
+      "urgency": 15,
       "urgencyLevel": "basse"
     }
   ]
