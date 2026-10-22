@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:11:44.359Z",
+  "generatedAt": "2026-10-22T16:40:01.687Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,120 @@
   "count": 35,
   "items": [
     {
+      "id": "annj96v",
+      "title": "Colère sociale et vote de rupture : pourquoi la présidentielle de 2027 s’annonce explosive",
+      "summary": "L’ESSENTIEL Les difficultés à boucler les fins de mois, le sentiment de déclassement ou d’insécurité alimentent la colère. Elle s’exprime par des manifestations pacifiques ou par des violences urbaines, comme le 17 octobre. Plusieurs partis, aux orientations opposées, savent mobiliser ce ressentiment pour transformer l",
+      "link": "https://theconversation.com/colere-sociale-et-vote-de-rupture-pourquoi-la-presidentielle-de-2027-sannonce-explosive-293903",
+      "image": "https://images.theconversation.com/files/766191/original/file-20261014-50-92hpj9.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-22T13:42:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 100,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ae6s9er",
+      "title": "La révocation du procureur de la CPI : quand permanence ne rime pas avec prévoyance",
+      "summary": "Karim Khan lors de sa prestation de serment en tant que Procureur de la Cour pénale internationale le 16 juin 2021. Élu pour neuf ans, il a été révoqué au bout d’un peu plus de cinq ans. Site officiel de la Cour pénale Internationale L’ESSENTIEL Le 24 juillet 2026, l’Assemblée des États parties a révoqué le procureur d",
+      "link": "https://theconversation.com/la-revocation-du-procureur-de-la-cpi-quand-permanence-ne-rime-pas-avec-prevoyance-293894",
+      "image": "https://images.theconversation.com/files/766876/original/file-20261018-50-lo0bmv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-22T14:48:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "anz2ey6",
+      "title": "Pourquoi un matériau est-il beaucoup plus « costaud » à petite qu’à grande échelle ?",
+      "summary": "L’ESSENTIEL Chaque matériau a un seuil de résistance mécanique maximal qui lui est propre. Au-delà d’une certaine pression, il va se déformer. De manière surprenante, ces seuils changent radicalement lorsque l’on passe de notre échelle macroscopique à des tailles nanométriques. Comment expliquer, physiquement, ce chang",
+      "link": "https://theconversation.com/pourquoi-un-materiau-est-il-beaucoup-plus-costaud-a-petite-qua-grande-echelle-289268",
+      "image": "https://images.theconversation.com/files/767527/original/file-20261021-50-majnk0.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-22T13:47:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aaw23bd",
+      "title": "Organoïdes humains : des objets biologiques nouveaux, un statut à définir",
+      "summary": "Dans ce flacon, des organoïdes cérébraux humains. NIAID, CC BY-NC-ND L’ESSENTIEL Les organoïdes sont des mini-structures tridimensionnelles conçues à partir de cellules souches humaines et cultivées en laboratoire. Ils suscitent beaucoup d’espoir pour modéliser des organes et étudier certaines pathologies. Les organoïd",
+      "link": "https://theconversation.com/organo-des-humains-des-objets-biologiques-nouveaux-un-statut-a-definir-289079",
+      "image": "https://images.theconversation.com/files/753652/original/file-20260812-50-fpuu6c.jpg?ixlib=rb-4.1.1&amp;rect=583%2C0%2C2864%2C1908&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-22T13:46:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahn38c6",
+      "title": "Parler de religion quand on est un démocrate dans un État républicain : le pari de James Talarico pour remporter l’élection sénatoriale au Texas",
+      "summary": "L’ESSENTIEL James Talarico, 37 ans, siège depuis déjà huit ans au sénat du Texas. Il vise cette fois l’un des deux sièges de sénateur de l’État au Congrès fédéral. Sa particularité : il fait de sa foi un élément central de ses discours de campagne alors que, généralement, ce sont les candidats républicains qui affichen",
+      "link": "https://theconversation.com/parler-de-religion-quand-on-est-un-democrate-dans-un-etat-republicain-le-pari-de-james-talarico-pour-remporter-lelection-senatoriale-au-texas-294618",
+      "image": "https://images.theconversation.com/files/766864/original/file-20261018-50-18ekot.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-22T13:46:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1i4cn2",
+      "title": "Pourquoi nous avons de plus en plus de mal à lire des textes longs – et comment entretenir cette capacité",
+      "summary": "L’ESSENTIEL La dernière enquête internationale PISA a révélé une baisse du niveau en lecture, en particulier des textes longs. Outre des capacités d’attention, la lecture dite « profonde » dépend de l’écho que le texte suscite en chacun. Quelles conditions préserver pour que la lecture reste un moyen de se construire e",
+      "link": "https://theconversation.com/pourquoi-nous-avons-de-plus-en-plus-de-mal-a-lire-des-textes-longs-et-comment-entretenir-cette-capacite-293870",
+      "image": "https://counter.theconversation.com/content/293870/count.gif",
+      "publishedAt": "2026-10-22T13:44:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ar6qapn",
+      "title": "Ultimatum de Trump à la Cour pénale internationale : un catalyseur de la souveraineté européenne ?",
+      "summary": "L’ESSENTIEL L’attribution du prix Nobel de la paix à Navanethem Pillay, ex-magistrate de la CPI, a relancé le courroux trumpien à l’égard de cette institution internationale. La CPI a reçu jeudi 22 octobre le prix Sakharov. L’Union européenne dispose de moyens pour répondre, notamment le « règlement de blocage ». Dans ",
+      "link": "https://theconversation.com/ultimatum-de-trump-a-la-cour-penale-internationale-un-catalyseur-de-la-souverainete-europeenne-294377",
+      "image": "https://counter.theconversation.com/content/294377/count.gif",
+      "publishedAt": "2026-10-22T13:43:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a5iiufb",
       "title": "« Si les démocrates gagnent, l’Amérique brûlera comme la France » : comment Trump instrumentalise la crise française",
       "summary": "L’ESSENTIEL Donald Trump instrumentalise les violences en marge de la journée de manifestation du 17 octobre en France dans l’espoir de mobiliser l’électorat républicain aux élections de mi-mandat du 3 novembre prochain. Au-delà de cette échéance électorale immédiate, le camp trumpiste présente depuis longtemps l’immig",
@@ -133,7 +247,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -181,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,27 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aalbpv1",
-      "title": "Comment changer l’école ?",
-      "summary": "« Liberté, Égalité, Fraternité » : la devise républicaine s’affiche sur les façades de toutes les écoles. Mais sa promesse est-elle encore tenue ? Malgré la massification de l’enseignement, les inégalités scolaires persistent et le niveau des élèves en mathématiques et en français inquiète. Dans Le Grand Entretien, une",
-      "link": "https://theconversation.com/comment-changer-lecole-294919",
-      "image": "https://counter.theconversation.com/content/294919/count.gif",
-      "publishedAt": "2026-10-21T13:20:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "école",
-        "élève"
-      ],
-      "relevance": 87,
-      "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 65,
       "urgencyLevel": "moyenne"
     },
     {
@@ -236,7 +330,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -255,7 +349,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -273,7 +367,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -289,7 +383,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -305,7 +399,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -321,7 +415,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -337,7 +431,27 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aalbpv1",
+      "title": "Comment changer l’école ?",
+      "summary": "« Liberté, Égalité, Fraternité » : la devise républicaine s’affiche sur les façades de toutes les écoles. Mais sa promesse est-elle encore tenue ? Malgré la massification de l’enseignement, les inégalités scolaires persistent et le niveau des élèves en mathématiques et en français inquiète. Dans « Le Grand Entretien »,",
+      "link": "https://theconversation.com/comment-changer-lecole-294919",
+      "image": "https://counter.theconversation.com/content/294919/count.gif",
+      "publishedAt": "2026-10-21T13:20:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement",
+        "école",
+        "élève"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -353,7 +467,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,38 +485,6 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adxirlq",
-      "title": "De la dénonciation du soviétisme à une série glorifiant Staline : l’itinéraire emblématique de Vladimir Bortko en Russie",
-      "summary": "Une scène de la série *Staline* (2026) de Vladimir Bortko. Kinopoisk.ru L’ESSENTIEL Pendant la perestroïka, le réalisateur Vladimir Bortko a adapté Cœur de chien de Boulgakov, une satire féroce des premières années de l’URSS. À 80 ans aujourd’hui, ce fils d’une Ukrainienne présente fièrement aux Russes une série à la g",
-      "link": "https://theconversation.com/de-la-denonciation-du-sovietisme-a-une-serie-glorifiant-staline-litineraire-emblematique-de-vladimir-bortko-en-russie-293630",
-      "image": "https://images.theconversation.com/files/766867/original/file-20261018-50-4uezwr.png?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2814%2C1876&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-20T13:52:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aee099e",
-      "title": "Comment les déjections d’oiseaux ont façonné l’agriculture moderne et contribué à l’expansion de l’empire américain",
-      "summary": "Cette publicité pour le guano destiné à servir d'engrais représente non seulement des oiseaux marins, mais aussi une île à guano. Bradley Fertilizer Company/Garden History L’ESSENTIEL Le guano a révolutionné l’agriculture mondiale bien avant les engrais de synthèse. Son exploitation a reposé sur le travail forcé et les",
-      "link": "https://theconversation.com/comment-les-dejections-doiseaux-ont-faconne-lagriculture-moderne-et-contribue-a-lexpansion-de-lempire-americain-288944",
-      "image": "https://images.theconversation.com/files/751658/original/file-20260721-69-uqqpkh.jpg?ixlib=rb-4.1.1&amp;rect=0%2C65%2C835%2C556&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-20T13:39:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
       "urgency": 52,
       "urgencyLevel": "moyenne"
     },
@@ -419,8 +501,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9aqcb1",
@@ -435,8 +517,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apod29l",
@@ -451,88 +533,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ad6k9vm",
-      "title": "Les séries de Monet, méditations sur le temps",
-      "summary": "L’ESSENTIEL Pour célébrer le centenaire de la mort de Claude Monet (1840-1926), le Musée de l’Orangerie, à Paris, propose l’exposition « Claude Monet, peindre le temps ». Les grandes séries de Monet – par exemple, ses 250 tableaux de nymphéas – témoignent d’une enquête au long cours sur le temps. Temps de l’horloge, te",
-      "link": "https://theconversation.com/les-series-de-monet-meditations-sur-le-temps-293564",
-      "image": "https://images.theconversation.com/files/767002/original/file-20261019-50-gknu82.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-20T13:58:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aui9aq5",
-      "title": "Dans le monde, un cancer sur huit serait dû à une infection, selon une nouvelle étude",
-      "summary": "Chaque année, plusieurs millions de cancers dans le monde seraient dus à des microorganismes pathogènes. DBenitostock/Getty L’ESSENTIEL En 2024, 2,3 millions de nouveaux cas de cancers dans le monde, soit 12 % de l’ensemble des nouveaux cas de cancers cette année-là, auraient été dus à des infections par des microorgan",
-      "link": "https://theconversation.com/dans-le-monde-un-cancer-sur-huit-serait-du-a-une-infection-selon-une-nouvelle-etude-293718",
-      "image": "https://images.theconversation.com/files/764142/original/file-20260929-50-grq191.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6275%2C4183&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-20T13:58:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5hjl1g",
-      "title": "Pourquoi il est erroné de ne voir les houthistes que comme des supplétifs de l’Iran",
-      "summary": "L’ESSENTIEL Les houthistes ont développé leur capacité militaire et visent directement l’Arabie saoudite, y compris ses infrastructures civiles. Désireux de ne pas apparaître comme des pantins de Téhéran, ils ont attendu le moment propice pour passer à l’action, plusieurs mois après le début de l’offensive israélo-amér",
-      "link": "https://theconversation.com/pourquoi-il-est-errone-de-ne-voir-les-houthistes-que-comme-des-suppletifs-de-liran-294610",
-      "image": "https://counter.theconversation.com/content/294610/count.gif",
-      "publishedAt": "2026-10-20T13:57:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a251z6q",
-      "title": "De l’Italie à la Grèce, quand la corruption d’un arbitre de football ruine tout un championnat",
-      "summary": "L’ESSENTIEL Le dopage financier du club de Manchester City réveille les vieux démons du football. Un cas d’espèce pour examiner la triche sous toutes ses coutures. La théorie des jeux montre comment la corruption d’arbitre affaiblit les championnats, en particulier les plus modestes. Bien que l’assistance vidéo à l’arb",
-      "link": "https://theconversation.com/de-litalie-a-la-grece-quand-la-corruption-dun-arbitre-de-football-ruine-tout-un-championnat-293610",
-      "image": "https://counter.theconversation.com/content/293610/count.gif",
-      "publishedAt": "2026-10-20T13:57:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abxzvjs",
-      "title": "Notre paie s’appelle un « salaire », mais est-ce vraiment parce que les soldats romains étaient payés en sel ?",
-      "summary": "Un bas-relief en pierre représentant des soldats romains sur la colonne Trajane, à Rome. Rabax63, CC BY L’ESSENTIEL Contrairement à une idée reçue, rien ne prouve que les soldats romains aient été payés en sel. Ils recevaient une solde en pièces de monnaie, complétée par des primes et divers avantages. Le mot « salaire",
-      "link": "https://theconversation.com/notre-paie-sappelle-un-salaire-mais-est-ce-vraiment-parce-que-les-soldats-romains-etaient-payes-en-sel-292155",
-      "image": "https://images.theconversation.com/files/760159/original/file-20260831-50-qyaqxx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5760%2C3840&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-20T13:44:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ah8f6zh",
@@ -549,7 +551,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -565,7 +567,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -581,7 +583,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -597,7 +599,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -613,7 +615,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agy806g",
+      "title": "Votre Expresso est en vacances",
+      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
+      "publishedAt": "2026-10-19T03:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -631,39 +649,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agy806g",
-      "title": "Votre Expresso est en vacances",
-      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
-      "publishedAt": "2026-10-19T03:00:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqm4f5y",
-      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
-      "publishedAt": "2026-10-18T08:38:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -681,7 +667,23 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 19,
+      "urgency": 18,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aqm4f5y",
+      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
+      "publishedAt": "2026-10-18T08:38:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 18,
       "urgencyLevel": "basse"
     },
     {
