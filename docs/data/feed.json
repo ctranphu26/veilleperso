@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:40:01.687Z",
+  "generatedAt": "2026-10-22T21:13:01.716Z",
   "themes": [
     {
       "id": "education-medias",
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -181,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -197,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -213,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -229,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -247,7 +247,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -263,8 +263,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asv8cn7",
@@ -279,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,127 +311,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aj7w9nh",
-      "title": "Combien coûte un élève en France ?",
-      "summary": "L’ESSENTIEL L’éducation, longtemps le premier poste de dépense publique en France, a été dépassée par la charge de la dette. Les écarts entre les dépenses pour un écolier, un collégien, un lycéen et un étudiant sont toutefois très importants. Par rapport aux pays de l’OCDE, le classement de la France n’est pas mauvais,",
-      "link": "https://theconversation.com/combien-coute-un-eleve-en-france-293993",
-      "image": "https://counter.theconversation.com/content/293993/count.gif",
-      "publishedAt": "2026-10-21T13:53:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "classe"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ab2rwmr",
-      "title": "Les affiches générées par IA : vers une nouvelle norme graphique ?",
-      "summary": "Quelques affiches du dernier Festival « Off&nbsp,» d’Avignon (2026). L’ESSENTIEL Vous avez sûrement remarqué ces affiches et affichettes aux motifs et couleurs standardisés, générés par intelligence artificielle, qui fleurissent un peu partout sur Internet ou dans nos rues. Ces images privilégient systématiquement cert",
-      "link": "https://theconversation.com/les-affiches-generees-par-ia-vers-une-nouvelle-norme-graphique-292480",
-      "image": "https://images.theconversation.com/files/767457/original/file-20261021-50-m5fwi0.png?ixlib=rb-4.1.1&amp;rect=303%2C0%2C1398%2C932&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-21T13:53:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle",
-        "image"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6s5uu8",
-      "title": "Demain, pourra-t-on améliorer le dépistage des cardiopathies congénitales de l’enfant sans examen invasif ?",
-      "summary": "L’ESSENTIEL Les cardiopathies congénitales correspondent à des malformations du cœur présentes chez le nourrisson dès sa naissance. Parce que les signes de la maladie sont parfois discrets et l’examen de référence complexe, dépister ces pathologies reste un défi. La recherche s’intéresse à la sismocardiographie, une te",
-      "link": "https://theconversation.com/demain-pourra-t-on-ameliorer-le-depistage-des-cardiopathies-congenitales-de-lenfant-sans-examen-invasif-290259",
-      "image": "https://counter.theconversation.com/content/290259/count.gif",
-      "publishedAt": "2026-10-21T13:57:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anz4ihc",
-      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
-      "summary": "Following widespread looting sprees and acts of violence occurring on the sidelines of the October 17 student protests, so-called “casseurs” seem to be the centre of attention. But the term, which comes from the French verb casser or “to break”, poses more questions than answers. The sociologist Paolo Stuppia examines ",
-      "link": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-21T13:58:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a76qwhf",
-      "title": "Perdre face à une femme : une défaite qui ne laisse pas indifférent",
-      "summary": "L’ESSENTIEL Une étude réalisée avec 290 personnes compare les réactions des hommes et des femmes en cas de victoire ou de défaite. Pour les hommes les plus confiants, une défaite face à une femme semble susciter le besoin de « prendre sa revanche ». Après une victoire face à une femme, en revanche, beaucoup d’hommes pr",
-      "link": "https://theconversation.com/perdre-face-a-une-femme-une-defaite-qui-ne-laisse-pas-indifferent-289325",
-      "image": "https://images.theconversation.com/files/755206/original/file-20260820-50-hngezr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C7008%2C3942&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-21T13:56:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3if5gd",
-      "title": "Iran : l’échec stratégique de Donald Trump",
-      "summary": "L’ESSENTIEL L’échec des négociations entre Washington et Téhéran révèle les limites de la stratégie de Donald Trump, désormais contraint de subordonner ses objectifs militaires à son calendrier électoral. L’effacement des contre-pouvoirs institutionnels aux États-Unis a favorisé une escalade dont Washington peine à maî",
-      "link": "https://theconversation.com/iran-lechec-strategique-de-donald-trump-294376",
-      "image": "https://counter.theconversation.com/content/294376/count.gif",
-      "publishedAt": "2026-10-21T13:55:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adp7n1i",
-      "title": "Face à l’autisme, les grands-parents, des soutiens précieux pour les familles",
-      "summary": "Encore peu reconnus par les institutions et les soignants, les grand-parents jouent souvent un rôle clé auprès de leurs petits-enfants autistes. Ekaterina Shakharova/Unsplash, CC BY L’ESSENTIEL En France, les grands-parents sont fortement impliqués dans la vie des enfants autistes. Ils accompagnent leurs petits-enfants",
-      "link": "https://theconversation.com/face-a-lautisme-les-grands-parents-des-soutiens-precieux-pour-les-familles-292286",
-      "image": "https://images.theconversation.com/files/764268/original/file-20261006-71-4cysqt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C4%2C3872%2C2581&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-21T13:54:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -451,7 +331,127 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aj7w9nh",
+      "title": "Combien coûte un élève en France ?",
+      "summary": "L’ESSENTIEL L’éducation, longtemps le premier poste de dépense publique en France, a été dépassée par la charge de la dette. Les écarts entre les dépenses pour un écolier, un collégien, un lycéen et un étudiant sont toutefois très importants. Par rapport aux pays de l’OCDE, le classement de la France n’est pas mauvais,",
+      "link": "https://theconversation.com/combien-coute-un-eleve-en-france-293993",
+      "image": "https://counter.theconversation.com/content/293993/count.gif",
+      "publishedAt": "2026-10-21T13:53:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "classe"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ab2rwmr",
+      "title": "Les affiches générées par IA : vers une nouvelle norme graphique ?",
+      "summary": "Quelques affiches du dernier Festival « Off&nbsp,» d’Avignon (2026). L’ESSENTIEL Vous avez sûrement remarqué ces affiches et affichettes aux motifs et couleurs standardisés, générés par intelligence artificielle, qui fleurissent un peu partout sur Internet ou dans nos rues. Ces images privilégient systématiquement cert",
+      "link": "https://theconversation.com/les-affiches-generees-par-ia-vers-une-nouvelle-norme-graphique-292480",
+      "image": "https://images.theconversation.com/files/767457/original/file-20261021-50-m5fwi0.png?ixlib=rb-4.1.1&amp;rect=303%2C0%2C1398%2C932&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-21T13:53:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle",
+        "image"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6s5uu8",
+      "title": "Demain, pourra-t-on améliorer le dépistage des cardiopathies congénitales de l’enfant sans examen invasif ?",
+      "summary": "L’ESSENTIEL Les cardiopathies congénitales correspondent à des malformations du cœur présentes chez le nourrisson dès sa naissance. Parce que les signes de la maladie sont parfois discrets et l’examen de référence complexe, dépister ces pathologies reste un défi. La recherche s’intéresse à la sismocardiographie, une te",
+      "link": "https://theconversation.com/demain-pourra-t-on-ameliorer-le-depistage-des-cardiopathies-congenitales-de-lenfant-sans-examen-invasif-290259",
+      "image": "https://counter.theconversation.com/content/290259/count.gif",
+      "publishedAt": "2026-10-21T13:57:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anz4ihc",
+      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
+      "summary": "Following widespread looting sprees and acts of violence occurring on the sidelines of the October 17 student protests, so-called “casseurs” seem to be the centre of attention. But the term, which comes from the French verb casser or “to break”, poses more questions than answers. The sociologist Paolo Stuppia examines ",
+      "link": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-21T13:58:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a76qwhf",
+      "title": "Perdre face à une femme : une défaite qui ne laisse pas indifférent",
+      "summary": "L’ESSENTIEL Une étude réalisée avec 290 personnes compare les réactions des hommes et des femmes en cas de victoire ou de défaite. Pour les hommes les plus confiants, une défaite face à une femme semble susciter le besoin de « prendre sa revanche ». Après une victoire face à une femme, en revanche, beaucoup d’hommes pr",
+      "link": "https://theconversation.com/perdre-face-a-une-femme-une-defaite-qui-ne-laisse-pas-indifferent-289325",
+      "image": "https://images.theconversation.com/files/755206/original/file-20260820-50-hngezr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C7008%2C3942&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-21T13:56:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3if5gd",
+      "title": "Iran : l’échec stratégique de Donald Trump",
+      "summary": "L’ESSENTIEL L’échec des négociations entre Washington et Téhéran révèle les limites de la stratégie de Donald Trump, désormais contraint de subordonner ses objectifs militaires à son calendrier électoral. L’effacement des contre-pouvoirs institutionnels aux États-Unis a favorisé une escalade dont Washington peine à maî",
+      "link": "https://theconversation.com/iran-lechec-strategique-de-donald-trump-294376",
+      "image": "https://counter.theconversation.com/content/294376/count.gif",
+      "publishedAt": "2026-10-21T13:55:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "adp7n1i",
+      "title": "Face à l’autisme, les grands-parents, des soutiens précieux pour les familles",
+      "summary": "Encore peu reconnus par les institutions et les soignants, les grand-parents jouent souvent un rôle clé auprès de leurs petits-enfants autistes. Ekaterina Shakharova/Unsplash, CC BY L’ESSENTIEL En France, les grands-parents sont fortement impliqués dans la vie des enfants autistes. Ils accompagnent leurs petits-enfants",
+      "link": "https://theconversation.com/face-a-lautisme-les-grands-parents-des-soutiens-precieux-pour-les-familles-292286",
+      "image": "https://images.theconversation.com/files/764268/original/file-20261006-71-4cysqt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C4%2C3872%2C2581&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-21T13:54:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -467,7 +467,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +485,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -517,7 +517,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -533,7 +533,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -551,7 +551,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -567,7 +567,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -583,7 +583,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -599,7 +599,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -615,23 +615,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agy806g",
-      "title": "Votre Expresso est en vacances",
-      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
-      "publishedAt": "2026-10-19T03:00:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -649,7 +633,23 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 23,
+      "urgency": 22,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agy806g",
+      "title": "Votre Expresso est en vacances",
+      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
+      "publishedAt": "2026-10-19T03:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -667,7 +667,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 18,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +683,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 18,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 9,
+      "urgency": 8,
       "urgencyLevel": "basse"
     }
   ]
