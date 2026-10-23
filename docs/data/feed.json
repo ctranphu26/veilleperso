@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:28:58.645Z",
+  "generatedAt": "2026-10-23T11:03:03.389Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,41 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 96,
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abmqrok",
+      "title": "Les sondages sont des instantanés, pas des prédictions : ce que montre la campagne électorale néo-zélandaise",
+      "summary": "Le Beehive, l’aile du Parlement néo-zélandais qui abrite les bureaux du gouvernement, à Wellington, en mai 2015. Les Néo-Zélandais renouvelleront leur Parlement le 7 novembre 2026. Michal Klajban/Wikimedia Commons, CC BY L’ESSENTIEL Chaque sondage n’est qu’une estimation : un écart d’un ou deux points entre deux enquêt",
+      "link": "https://theconversation.com/les-sondages-sont-des-instantanes-pas-des-predictions-ce-que-montre-la-campagne-electorale-neo-zelandaise-294960",
+      "image": "https://images.theconversation.com/files/767926/original/file-20261023-50-sjlwp5.jpg?ixlib=rb-4.1.1&amp;rect=19%2C0%2C1881%2C1254&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-23T10:05:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avykqeh",
+      "title": "Pourquoi la multiplication des sondages nuit à l’information des électeurs : les leçons du cas australien",
+      "summary": "Le Parlement australien, à Canberra. Depuis les élections fédérales de 2025, quelque 140 sondages ont été publiés, soit environ deux par semaine. Thennicke/Wikimedia Commons, CC BY L’ESSENTIEL Quelque 140 sondages ont été publiés en Australie depuis les élections fédérales de 2025, soit environ deux par semaine. Selon ",
+      "link": "https://theconversation.com/pourquoi-la-multiplication-des-sondages-nuit-a-linformation-des-electeurs-les-lecons-du-cas-australien-294961",
+      "image": "https://images.theconversation.com/files/767915/original/file-20261023-50-ugm349.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5505%2C3670&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-23T08:43:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +185,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -167,7 +201,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -183,7 +217,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +233,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -231,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -263,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,127 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aj7w9nh",
-      "title": "Combien coûte un élève en France ?",
-      "summary": "L’ESSENTIEL L’éducation, longtemps le premier poste de dépense publique en France, a été dépassée par la charge de la dette. Les écarts entre les dépenses pour un écolier, un collégien, un lycéen et un étudiant sont toutefois très importants. Par rapport aux pays de l’OCDE, le classement de la France n’est pas mauvais,",
-      "link": "https://theconversation.com/combien-coute-un-eleve-en-france-293993",
-      "image": "https://counter.theconversation.com/content/293993/count.gif",
-      "publishedAt": "2026-10-21T13:53:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "classe"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ab2rwmr",
-      "title": "Les affiches générées par IA : vers une nouvelle norme graphique ?",
-      "summary": "Quelques affiches du dernier Festival « Off&nbsp,» d’Avignon (2026). L’ESSENTIEL Vous avez sûrement remarqué ces affiches et affichettes aux motifs et couleurs standardisés, générés par intelligence artificielle, qui fleurissent un peu partout sur Internet ou dans nos rues. Ces images privilégient systématiquement cert",
-      "link": "https://theconversation.com/les-affiches-generees-par-ia-vers-une-nouvelle-norme-graphique-292480",
-      "image": "https://images.theconversation.com/files/767457/original/file-20261021-50-m5fwi0.png?ixlib=rb-4.1.1&amp;rect=303%2C0%2C1398%2C932&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-21T13:53:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle",
-        "image"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6s5uu8",
-      "title": "Demain, pourra-t-on améliorer le dépistage des cardiopathies congénitales de l’enfant sans examen invasif ?",
-      "summary": "L’ESSENTIEL Les cardiopathies congénitales correspondent à des malformations du cœur présentes chez le nourrisson dès sa naissance. Parce que les signes de la maladie sont parfois discrets et l’examen de référence complexe, dépister ces pathologies reste un défi. La recherche s’intéresse à la sismocardiographie, une te",
-      "link": "https://theconversation.com/demain-pourra-t-on-ameliorer-le-depistage-des-cardiopathies-congenitales-de-lenfant-sans-examen-invasif-290259",
-      "image": "https://counter.theconversation.com/content/290259/count.gif",
-      "publishedAt": "2026-10-21T13:57:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anz4ihc",
-      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
-      "summary": "Following widespread looting sprees and acts of violence occurring on the sidelines of the October 17 student protests, so-called “casseurs” seem to be the centre of attention. But the term, which comes from the French verb casser or “to break”, poses more questions than answers. The sociologist Paolo Stuppia examines ",
-      "link": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-21T13:58:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a76qwhf",
-      "title": "Perdre face à une femme : une défaite qui ne laisse pas indifférent",
-      "summary": "L’ESSENTIEL Une étude réalisée avec 290 personnes compare les réactions des hommes et des femmes en cas de victoire ou de défaite. Pour les hommes les plus confiants, une défaite face à une femme semble susciter le besoin de « prendre sa revanche ». Après une victoire face à une femme, en revanche, beaucoup d’hommes pr",
-      "link": "https://theconversation.com/perdre-face-a-une-femme-une-defaite-qui-ne-laisse-pas-indifferent-289325",
-      "image": "https://images.theconversation.com/files/755206/original/file-20260820-50-hngezr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C7008%2C3942&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-21T13:56:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3if5gd",
-      "title": "Iran : l’échec stratégique de Donald Trump",
-      "summary": "L’ESSENTIEL L’échec des négociations entre Washington et Téhéran révèle les limites de la stratégie de Donald Trump, désormais contraint de subordonner ses objectifs militaires à son calendrier électoral. L’effacement des contre-pouvoirs institutionnels aux États-Unis a favorisé une escalade dont Washington peine à maî",
-      "link": "https://theconversation.com/iran-lechec-strategique-de-donald-trump-294376",
-      "image": "https://counter.theconversation.com/content/294376/count.gif",
-      "publishedAt": "2026-10-21T13:55:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adp7n1i",
-      "title": "Face à l’autisme, les grands-parents, des soutiens précieux pour les familles",
-      "summary": "Encore peu reconnus par les institutions et les soignants, les grand-parents jouent souvent un rôle clé auprès de leurs petits-enfants autistes. Ekaterina Shakharova/Unsplash, CC BY L’ESSENTIEL En France, les grands-parents sont fortement impliqués dans la vie des enfants autistes. Ils accompagnent leurs petits-enfants",
-      "link": "https://theconversation.com/face-a-lautisme-les-grands-parents-des-soutiens-precieux-pour-les-familles-292286",
-      "image": "https://images.theconversation.com/files/764268/original/file-20261006-71-4cysqt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C4%2C3872%2C2581&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-21T13:54:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -451,7 +365,127 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aj7w9nh",
+      "title": "Combien coûte un élève en France ?",
+      "summary": "L’ESSENTIEL L’éducation, longtemps le premier poste de dépense publique en France, a été dépassée par la charge de la dette. Les écarts entre les dépenses pour un écolier, un collégien, un lycéen et un étudiant sont toutefois très importants. Par rapport aux pays de l’OCDE, le classement de la France n’est pas mauvais,",
+      "link": "https://theconversation.com/combien-coute-un-eleve-en-france-293993",
+      "image": "https://counter.theconversation.com/content/293993/count.gif",
+      "publishedAt": "2026-10-21T13:53:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "classe"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ab2rwmr",
+      "title": "Les affiches générées par IA : vers une nouvelle norme graphique ?",
+      "summary": "Quelques affiches du dernier Festival « Off&nbsp,» d’Avignon (2026). L’ESSENTIEL Vous avez sûrement remarqué ces affiches et affichettes aux motifs et couleurs standardisés, générés par intelligence artificielle, qui fleurissent un peu partout sur Internet ou dans nos rues. Ces images privilégient systématiquement cert",
+      "link": "https://theconversation.com/les-affiches-generees-par-ia-vers-une-nouvelle-norme-graphique-292480",
+      "image": "https://images.theconversation.com/files/767457/original/file-20261021-50-m5fwi0.png?ixlib=rb-4.1.1&amp;rect=303%2C0%2C1398%2C932&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-21T13:53:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle",
+        "image"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6s5uu8",
+      "title": "Demain, pourra-t-on améliorer le dépistage des cardiopathies congénitales de l’enfant sans examen invasif ?",
+      "summary": "L’ESSENTIEL Les cardiopathies congénitales correspondent à des malformations du cœur présentes chez le nourrisson dès sa naissance. Parce que les signes de la maladie sont parfois discrets et l’examen de référence complexe, dépister ces pathologies reste un défi. La recherche s’intéresse à la sismocardiographie, une te",
+      "link": "https://theconversation.com/demain-pourra-t-on-ameliorer-le-depistage-des-cardiopathies-congenitales-de-lenfant-sans-examen-invasif-290259",
+      "image": "https://counter.theconversation.com/content/290259/count.gif",
+      "publishedAt": "2026-10-21T13:57:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anz4ihc",
+      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
+      "summary": "Following widespread looting sprees and acts of violence occurring on the sidelines of the October 17 student protests, so-called “casseurs” seem to be the centre of attention. But the term, which comes from the French verb casser or “to break”, poses more questions than answers. The sociologist Paolo Stuppia examines ",
+      "link": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-21T13:58:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a76qwhf",
+      "title": "Perdre face à une femme : une défaite qui ne laisse pas indifférent",
+      "summary": "L’ESSENTIEL Une étude réalisée avec 290 personnes compare les réactions des hommes et des femmes en cas de victoire ou de défaite. Pour les hommes les plus confiants, une défaite face à une femme semble susciter le besoin de « prendre sa revanche ». Après une victoire face à une femme, en revanche, beaucoup d’hommes pr",
+      "link": "https://theconversation.com/perdre-face-a-une-femme-une-defaite-qui-ne-laisse-pas-indifferent-289325",
+      "image": "https://images.theconversation.com/files/755206/original/file-20260820-50-hngezr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C7008%2C3942&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-21T13:56:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3if5gd",
+      "title": "Iran : l’échec stratégique de Donald Trump",
+      "summary": "L’ESSENTIEL L’échec des négociations entre Washington et Téhéran révèle les limites de la stratégie de Donald Trump, désormais contraint de subordonner ses objectifs militaires à son calendrier électoral. L’effacement des contre-pouvoirs institutionnels aux États-Unis a favorisé une escalade dont Washington peine à maî",
+      "link": "https://theconversation.com/iran-lechec-strategique-de-donald-trump-294376",
+      "image": "https://counter.theconversation.com/content/294376/count.gif",
+      "publishedAt": "2026-10-21T13:55:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "adp7n1i",
+      "title": "Face à l’autisme, les grands-parents, des soutiens précieux pour les familles",
+      "summary": "Encore peu reconnus par les institutions et les soignants, les grand-parents jouent souvent un rôle clé auprès de leurs petits-enfants autistes. Ekaterina Shakharova/Unsplash, CC BY L’ESSENTIEL En France, les grands-parents sont fortement impliqués dans la vie des enfants autistes. Ils accompagnent leurs petits-enfants",
+      "link": "https://theconversation.com/face-a-lautisme-les-grands-parents-des-soutiens-precieux-pour-les-familles-292286",
+      "image": "https://images.theconversation.com/files/764268/original/file-20261006-71-4cysqt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C4%2C3872%2C2581&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-21T13:54:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -467,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +519,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,39 +535,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9aqcb1",
-      "title": "Les plus modestes sont plus sensibles aux incitations écologiques, même si cela leur coûte plus cher",
-      "summary": "L’ESSENTIEL Pour favoriser les comportements écologiques, les « nudges » sont largement utilisés par les décideurs publics à travers le monde. Contrairement à une taxe ou à une interdiction, le nudge est un outil qui vise à influencer un choix sans contraindre qui que ce soit. Sa mise en place ne coûte pas grand chose,",
-      "link": "https://theconversation.com/les-plus-modestes-sont-plus-sensibles-aux-incitations-ecologiques-meme-si-cela-leur-coute-plus-cher-293965",
-      "image": "https://counter.theconversation.com/content/293965/count.gif",
-      "publishedAt": "2026-10-20T14:00:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apod29l",
-      "title": "Cyberattaques : faut-il mettre en place un « contrôle technique cyber » pour les entreprises ?",
-      "summary": "L’ESSENTIEL Une cyberattaque a visé, mi-octobre, des frigos de supermarchés qui ont dû jeter tous leurs produits surgelés, mettant en lumière le fait que les risques des cyberattaques affectent aussi le monde physique. Si les attaquants sont évidemment les premiers responsables de ces attaques et des préjudices causés,",
-      "link": "https://theconversation.com/cyberattaques-faut-il-mettre-en-place-un-controle-technique-cyber-pour-les-entreprises-294500",
-      "image": "https://counter.theconversation.com/content/294500/count.gif",
-      "publishedAt": "2026-10-20T13:59:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -551,7 +553,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -567,7 +569,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -583,7 +585,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -599,7 +601,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -615,7 +617,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -633,7 +635,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 20,
+      "urgency": 18,
       "urgencyLevel": "basse"
     },
     {
@@ -649,23 +651,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqm4f5y",
-      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
-      "publishedAt": "2026-10-18T08:38:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 18,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +669,23 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 15,
+      "urgency": 14,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aqm4f5y",
+      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
+      "publishedAt": "2026-10-18T08:38:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
