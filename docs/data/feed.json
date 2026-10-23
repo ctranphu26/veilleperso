@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:13:01.716Z",
+  "generatedAt": "2026-10-23T03:28:58.645Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,103 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 100,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ae6s9er",
-      "title": "La révocation du procureur de la CPI : quand permanence ne rime pas avec prévoyance",
-      "summary": "Karim Khan lors de sa prestation de serment en tant que Procureur de la Cour pénale internationale le 16 juin 2021. Élu pour neuf ans, il a été révoqué au bout d’un peu plus de cinq ans. Site officiel de la Cour pénale Internationale L’ESSENTIEL Le 24 juillet 2026, l’Assemblée des États parties a révoqué le procureur d",
-      "link": "https://theconversation.com/la-revocation-du-procureur-de-la-cpi-quand-permanence-ne-rime-pas-avec-prevoyance-293894",
-      "image": "https://images.theconversation.com/files/766876/original/file-20261018-50-lo0bmv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-22T14:48:02.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "anz2ey6",
-      "title": "Pourquoi un matériau est-il beaucoup plus « costaud » à petite qu’à grande échelle ?",
-      "summary": "L’ESSENTIEL Chaque matériau a un seuil de résistance mécanique maximal qui lui est propre. Au-delà d’une certaine pression, il va se déformer. De manière surprenante, ces seuils changent radicalement lorsque l’on passe de notre échelle macroscopique à des tailles nanométriques. Comment expliquer, physiquement, ce chang",
-      "link": "https://theconversation.com/pourquoi-un-materiau-est-il-beaucoup-plus-costaud-a-petite-qua-grande-echelle-289268",
-      "image": "https://images.theconversation.com/files/767527/original/file-20261021-50-majnk0.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-22T13:47:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aaw23bd",
-      "title": "Organoïdes humains : des objets biologiques nouveaux, un statut à définir",
-      "summary": "Dans ce flacon, des organoïdes cérébraux humains. NIAID, CC BY-NC-ND L’ESSENTIEL Les organoïdes sont des mini-structures tridimensionnelles conçues à partir de cellules souches humaines et cultivées en laboratoire. Ils suscitent beaucoup d’espoir pour modéliser des organes et étudier certaines pathologies. Les organoïd",
-      "link": "https://theconversation.com/organo-des-humains-des-objets-biologiques-nouveaux-un-statut-a-definir-289079",
-      "image": "https://images.theconversation.com/files/753652/original/file-20260812-50-fpuu6c.jpg?ixlib=rb-4.1.1&amp;rect=583%2C0%2C2864%2C1908&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-22T13:46:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ahn38c6",
-      "title": "Parler de religion quand on est un démocrate dans un État républicain : le pari de James Talarico pour remporter l’élection sénatoriale au Texas",
-      "summary": "L’ESSENTIEL James Talarico, 37 ans, siège depuis déjà huit ans au sénat du Texas. Il vise cette fois l’un des deux sièges de sénateur de l’État au Congrès fédéral. Sa particularité : il fait de sa foi un élément central de ses discours de campagne alors que, généralement, ce sont les candidats républicains qui affichen",
-      "link": "https://theconversation.com/parler-de-religion-quand-on-est-un-democrate-dans-un-etat-republicain-le-pari-de-james-talarico-pour-remporter-lelection-senatoriale-au-texas-294618",
-      "image": "https://images.theconversation.com/files/766864/original/file-20261018-50-18ekot.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-22T13:46:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a1i4cn2",
-      "title": "Pourquoi nous avons de plus en plus de mal à lire des textes longs – et comment entretenir cette capacité",
-      "summary": "L’ESSENTIEL La dernière enquête internationale PISA a révélé une baisse du niveau en lecture, en particulier des textes longs. Outre des capacités d’attention, la lecture dite « profonde » dépend de l’écho que le texte suscite en chacun. Quelles conditions préserver pour que la lecture reste un moyen de se construire e",
-      "link": "https://theconversation.com/pourquoi-nous-avons-de-plus-en-plus-de-mal-a-lire-des-textes-longs-et-comment-entretenir-cette-capacite-293870",
-      "image": "https://counter.theconversation.com/content/293870/count.gif",
-      "publishedAt": "2026-10-22T13:44:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ar6qapn",
-      "title": "Ultimatum de Trump à la Cour pénale internationale : un catalyseur de la souveraineté européenne ?",
-      "summary": "L’ESSENTIEL L’attribution du prix Nobel de la paix à Navanethem Pillay, ex-magistrate de la CPI, a relancé le courroux trumpien à l’égard de cette institution internationale. La CPI a reçu jeudi 22 octobre le prix Sakharov. L’Union européenne dispose de moyens pour répondre, notamment le « règlement de blocage ». Dans ",
-      "link": "https://theconversation.com/ultimatum-de-trump-a-la-cour-penale-internationale-un-catalyseur-de-la-souverainete-europeenne-294377",
-      "image": "https://counter.theconversation.com/content/294377/count.gif",
-      "publishedAt": "2026-10-22T13:43:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
+      "urgency": 96,
       "urgencyLevel": "haute"
     },
     {
@@ -247,8 +151,104 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ae6s9er",
+      "title": "La révocation du procureur de la CPI : quand permanence ne rime pas avec prévoyance",
+      "summary": "Karim Khan lors de sa prestation de serment en tant que Procureur de la Cour pénale internationale le 16 juin 2021. Élu pour neuf ans, il a été révoqué au bout d’un peu plus de cinq ans. Site officiel de la Cour pénale Internationale L’ESSENTIEL Le 24 juillet 2026, l’Assemblée des États parties a révoqué le procureur d",
+      "link": "https://theconversation.com/la-revocation-du-procureur-de-la-cpi-quand-permanence-ne-rime-pas-avec-prevoyance-293894",
+      "image": "https://images.theconversation.com/files/766876/original/file-20261018-50-lo0bmv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-22T14:48:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anz2ey6",
+      "title": "Pourquoi un matériau est-il beaucoup plus « costaud » à petite qu’à grande échelle ?",
+      "summary": "L’ESSENTIEL Chaque matériau a un seuil de résistance mécanique maximal qui lui est propre. Au-delà d’une certaine pression, il va se déformer. De manière surprenante, ces seuils changent radicalement lorsque l’on passe de notre échelle macroscopique à des tailles nanométriques. Comment expliquer, physiquement, ce chang",
+      "link": "https://theconversation.com/pourquoi-un-materiau-est-il-beaucoup-plus-costaud-a-petite-qua-grande-echelle-289268",
+      "image": "https://images.theconversation.com/files/767527/original/file-20261021-50-majnk0.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-22T13:47:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aaw23bd",
+      "title": "Organoïdes humains : des objets biologiques nouveaux, un statut à définir",
+      "summary": "Dans ce flacon, des organoïdes cérébraux humains. NIAID, CC BY-NC-ND L’ESSENTIEL Les organoïdes sont des mini-structures tridimensionnelles conçues à partir de cellules souches humaines et cultivées en laboratoire. Ils suscitent beaucoup d’espoir pour modéliser des organes et étudier certaines pathologies. Les organoïd",
+      "link": "https://theconversation.com/organo-des-humains-des-objets-biologiques-nouveaux-un-statut-a-definir-289079",
+      "image": "https://images.theconversation.com/files/753652/original/file-20260812-50-fpuu6c.jpg?ixlib=rb-4.1.1&amp;rect=583%2C0%2C2864%2C1908&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-22T13:46:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahn38c6",
+      "title": "Parler de religion quand on est un démocrate dans un État républicain : le pari de James Talarico pour remporter l’élection sénatoriale au Texas",
+      "summary": "L’ESSENTIEL James Talarico, 37 ans, siège depuis déjà huit ans au sénat du Texas. Il vise cette fois l’un des deux sièges de sénateur de l’État au Congrès fédéral. Sa particularité : il fait de sa foi un élément central de ses discours de campagne alors que, généralement, ce sont les candidats républicains qui affichen",
+      "link": "https://theconversation.com/parler-de-religion-quand-on-est-un-democrate-dans-un-etat-republicain-le-pari-de-james-talarico-pour-remporter-lelection-senatoriale-au-texas-294618",
+      "image": "https://images.theconversation.com/files/766864/original/file-20261018-50-18ekot.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-22T13:46:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a1i4cn2",
+      "title": "Pourquoi nous avons de plus en plus de mal à lire des textes longs – et comment entretenir cette capacité",
+      "summary": "L’ESSENTIEL La dernière enquête internationale PISA a révélé une baisse du niveau en lecture, en particulier des textes longs. Outre des capacités d’attention, la lecture dite « profonde » dépend de l’écho que le texte suscite en chacun. Quelles conditions préserver pour que la lecture reste un moyen de se construire e",
+      "link": "https://theconversation.com/pourquoi-nous-avons-de-plus-en-plus-de-mal-a-lire-des-textes-longs-et-comment-entretenir-cette-capacite-293870",
+      "image": "https://counter.theconversation.com/content/293870/count.gif",
+      "publishedAt": "2026-10-22T13:44:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ar6qapn",
+      "title": "Ultimatum de Trump à la Cour pénale internationale : un catalyseur de la souveraineté européenne ?",
+      "summary": "L’ESSENTIEL L’attribution du prix Nobel de la paix à Navanethem Pillay, ex-magistrate de la CPI, a relancé le courroux trumpien à l’égard de cette institution internationale. La CPI a reçu jeudi 22 octobre le prix Sakharov. L’Union européenne dispose de moyens pour répondre, notamment le « règlement de blocage ». Dans ",
+      "link": "https://theconversation.com/ultimatum-de-trump-a-la-cour-penale-internationale-un-catalyseur-de-la-souverainete-europeenne-294377",
+      "image": "https://counter.theconversation.com/content/294377/count.gif",
+      "publishedAt": "2026-10-22T13:43:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arway2q",
@@ -263,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -279,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -295,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -311,7 +311,127 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aj7w9nh",
+      "title": "Combien coûte un élève en France ?",
+      "summary": "L’ESSENTIEL L’éducation, longtemps le premier poste de dépense publique en France, a été dépassée par la charge de la dette. Les écarts entre les dépenses pour un écolier, un collégien, un lycéen et un étudiant sont toutefois très importants. Par rapport aux pays de l’OCDE, le classement de la France n’est pas mauvais,",
+      "link": "https://theconversation.com/combien-coute-un-eleve-en-france-293993",
+      "image": "https://counter.theconversation.com/content/293993/count.gif",
+      "publishedAt": "2026-10-21T13:53:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "classe"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ab2rwmr",
+      "title": "Les affiches générées par IA : vers une nouvelle norme graphique ?",
+      "summary": "Quelques affiches du dernier Festival « Off&nbsp,» d’Avignon (2026). L’ESSENTIEL Vous avez sûrement remarqué ces affiches et affichettes aux motifs et couleurs standardisés, générés par intelligence artificielle, qui fleurissent un peu partout sur Internet ou dans nos rues. Ces images privilégient systématiquement cert",
+      "link": "https://theconversation.com/les-affiches-generees-par-ia-vers-une-nouvelle-norme-graphique-292480",
+      "image": "https://images.theconversation.com/files/767457/original/file-20261021-50-m5fwi0.png?ixlib=rb-4.1.1&amp;rect=303%2C0%2C1398%2C932&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-21T13:53:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle",
+        "image"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6s5uu8",
+      "title": "Demain, pourra-t-on améliorer le dépistage des cardiopathies congénitales de l’enfant sans examen invasif ?",
+      "summary": "L’ESSENTIEL Les cardiopathies congénitales correspondent à des malformations du cœur présentes chez le nourrisson dès sa naissance. Parce que les signes de la maladie sont parfois discrets et l’examen de référence complexe, dépister ces pathologies reste un défi. La recherche s’intéresse à la sismocardiographie, une te",
+      "link": "https://theconversation.com/demain-pourra-t-on-ameliorer-le-depistage-des-cardiopathies-congenitales-de-lenfant-sans-examen-invasif-290259",
+      "image": "https://counter.theconversation.com/content/290259/count.gif",
+      "publishedAt": "2026-10-21T13:57:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anz4ihc",
+      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
+      "summary": "Following widespread looting sprees and acts of violence occurring on the sidelines of the October 17 student protests, so-called “casseurs” seem to be the centre of attention. But the term, which comes from the French verb casser or “to break”, poses more questions than answers. The sociologist Paolo Stuppia examines ",
+      "link": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-21T13:58:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a76qwhf",
+      "title": "Perdre face à une femme : une défaite qui ne laisse pas indifférent",
+      "summary": "L’ESSENTIEL Une étude réalisée avec 290 personnes compare les réactions des hommes et des femmes en cas de victoire ou de défaite. Pour les hommes les plus confiants, une défaite face à une femme semble susciter le besoin de « prendre sa revanche ». Après une victoire face à une femme, en revanche, beaucoup d’hommes pr",
+      "link": "https://theconversation.com/perdre-face-a-une-femme-une-defaite-qui-ne-laisse-pas-indifferent-289325",
+      "image": "https://images.theconversation.com/files/755206/original/file-20260820-50-hngezr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C7008%2C3942&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-21T13:56:57.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3if5gd",
+      "title": "Iran : l’échec stratégique de Donald Trump",
+      "summary": "L’ESSENTIEL L’échec des négociations entre Washington et Téhéran révèle les limites de la stratégie de Donald Trump, désormais contraint de subordonner ses objectifs militaires à son calendrier électoral. L’effacement des contre-pouvoirs institutionnels aux États-Unis a favorisé une escalade dont Washington peine à maî",
+      "link": "https://theconversation.com/iran-lechec-strategique-de-donald-trump-294376",
+      "image": "https://counter.theconversation.com/content/294376/count.gif",
+      "publishedAt": "2026-10-21T13:55:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "adp7n1i",
+      "title": "Face à l’autisme, les grands-parents, des soutiens précieux pour les familles",
+      "summary": "Encore peu reconnus par les institutions et les soignants, les grand-parents jouent souvent un rôle clé auprès de leurs petits-enfants autistes. Ekaterina Shakharova/Unsplash, CC BY L’ESSENTIEL En France, les grands-parents sont fortement impliqués dans la vie des enfants autistes. Ils accompagnent leurs petits-enfants",
+      "link": "https://theconversation.com/face-a-lautisme-les-grands-parents-des-soutiens-precieux-pour-les-familles-292286",
+      "image": "https://images.theconversation.com/files/764268/original/file-20261006-71-4cysqt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C4%2C3872%2C2581&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-21T13:54:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,127 +451,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aj7w9nh",
-      "title": "Combien coûte un élève en France ?",
-      "summary": "L’ESSENTIEL L’éducation, longtemps le premier poste de dépense publique en France, a été dépassée par la charge de la dette. Les écarts entre les dépenses pour un écolier, un collégien, un lycéen et un étudiant sont toutefois très importants. Par rapport aux pays de l’OCDE, le classement de la France n’est pas mauvais,",
-      "link": "https://theconversation.com/combien-coute-un-eleve-en-france-293993",
-      "image": "https://counter.theconversation.com/content/293993/count.gif",
-      "publishedAt": "2026-10-21T13:53:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "classe"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ab2rwmr",
-      "title": "Les affiches générées par IA : vers une nouvelle norme graphique ?",
-      "summary": "Quelques affiches du dernier Festival « Off&nbsp,» d’Avignon (2026). L’ESSENTIEL Vous avez sûrement remarqué ces affiches et affichettes aux motifs et couleurs standardisés, générés par intelligence artificielle, qui fleurissent un peu partout sur Internet ou dans nos rues. Ces images privilégient systématiquement cert",
-      "link": "https://theconversation.com/les-affiches-generees-par-ia-vers-une-nouvelle-norme-graphique-292480",
-      "image": "https://images.theconversation.com/files/767457/original/file-20261021-50-m5fwi0.png?ixlib=rb-4.1.1&amp;rect=303%2C0%2C1398%2C932&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-21T13:53:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle",
-        "image"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6s5uu8",
-      "title": "Demain, pourra-t-on améliorer le dépistage des cardiopathies congénitales de l’enfant sans examen invasif ?",
-      "summary": "L’ESSENTIEL Les cardiopathies congénitales correspondent à des malformations du cœur présentes chez le nourrisson dès sa naissance. Parce que les signes de la maladie sont parfois discrets et l’examen de référence complexe, dépister ces pathologies reste un défi. La recherche s’intéresse à la sismocardiographie, une te",
-      "link": "https://theconversation.com/demain-pourra-t-on-ameliorer-le-depistage-des-cardiopathies-congenitales-de-lenfant-sans-examen-invasif-290259",
-      "image": "https://counter.theconversation.com/content/290259/count.gif",
-      "publishedAt": "2026-10-21T13:57:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anz4ihc",
-      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
-      "summary": "Following widespread looting sprees and acts of violence occurring on the sidelines of the October 17 student protests, so-called “casseurs” seem to be the centre of attention. But the term, which comes from the French verb casser or “to break”, poses more questions than answers. The sociologist Paolo Stuppia examines ",
-      "link": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-21T13:58:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a76qwhf",
-      "title": "Perdre face à une femme : une défaite qui ne laisse pas indifférent",
-      "summary": "L’ESSENTIEL Une étude réalisée avec 290 personnes compare les réactions des hommes et des femmes en cas de victoire ou de défaite. Pour les hommes les plus confiants, une défaite face à une femme semble susciter le besoin de « prendre sa revanche ». Après une victoire face à une femme, en revanche, beaucoup d’hommes pr",
-      "link": "https://theconversation.com/perdre-face-a-une-femme-une-defaite-qui-ne-laisse-pas-indifferent-289325",
-      "image": "https://images.theconversation.com/files/755206/original/file-20260820-50-hngezr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C7008%2C3942&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-21T13:56:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3if5gd",
-      "title": "Iran : l’échec stratégique de Donald Trump",
-      "summary": "L’ESSENTIEL L’échec des négociations entre Washington et Téhéran révèle les limites de la stratégie de Donald Trump, désormais contraint de subordonner ses objectifs militaires à son calendrier électoral. L’effacement des contre-pouvoirs institutionnels aux États-Unis a favorisé une escalade dont Washington peine à maî",
-      "link": "https://theconversation.com/iran-lechec-strategique-de-donald-trump-294376",
-      "image": "https://counter.theconversation.com/content/294376/count.gif",
-      "publishedAt": "2026-10-21T13:55:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adp7n1i",
-      "title": "Face à l’autisme, les grands-parents, des soutiens précieux pour les familles",
-      "summary": "Encore peu reconnus par les institutions et les soignants, les grand-parents jouent souvent un rôle clé auprès de leurs petits-enfants autistes. Ekaterina Shakharova/Unsplash, CC BY L’ESSENTIEL En France, les grands-parents sont fortement impliqués dans la vie des enfants autistes. Ils accompagnent leurs petits-enfants",
-      "link": "https://theconversation.com/face-a-lautisme-les-grands-parents-des-soutiens-precieux-pour-les-familles-292286",
-      "image": "https://images.theconversation.com/files/764268/original/file-20261006-71-4cysqt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C4%2C3872%2C2581&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-21T13:54:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -467,7 +467,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +485,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -517,7 +517,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -533,7 +533,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -551,7 +551,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -567,7 +567,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -583,7 +583,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -599,7 +599,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -615,7 +615,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -633,7 +633,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -649,7 +649,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aqm4f5y",
+      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
+      "publishedAt": "2026-10-18T08:38:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -667,23 +683,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 17,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqm4f5y",
-      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
-      "publishedAt": "2026-10-18T08:38:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 8,
+      "urgency": 7,
       "urgencyLevel": "basse"
     }
   ]
