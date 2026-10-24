@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:00:55.551Z",
+  "generatedAt": "2026-10-24T03:23:26.475Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 81,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -165,8 +165,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a695vm0",
@@ -181,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,7 +215,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -329,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -361,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -377,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -393,7 +393,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -413,7 +413,7 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -432,7 +432,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -451,7 +451,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -469,7 +469,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -485,7 +485,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -501,7 +501,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -517,7 +517,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -533,7 +533,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -551,7 +551,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -567,7 +567,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -583,7 +583,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -599,7 +599,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -615,23 +615,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 16,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agy806g",
-      "title": "Votre Expresso est en vacances",
-      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
-      "publishedAt": "2026-10-19T03:00:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 16,
+      "urgency": 15,
       "urgencyLevel": "basse"
     },
     {
@@ -649,7 +633,23 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 15,
+      "urgency": 14,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agy806g",
+      "title": "Votre Expresso est en vacances",
+      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
+      "publishedAt": "2026-10-19T03:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 14,
       "urgencyLevel": "basse"
     },
     {
@@ -667,7 +667,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -683,7 +683,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 6,
+      "urgency": 5,
       "urgencyLevel": "basse"
     }
   ]
