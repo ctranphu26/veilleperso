@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:25:09.824Z",
+  "generatedAt": "2026-10-24T20:15:38.646Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -183,8 +183,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayvqon3",
@@ -199,8 +199,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "annj96v",
@@ -217,7 +217,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 67,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +233,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +299,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 52,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,8 +315,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "anz2ey6",
@@ -331,7 +331,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -347,7 +347,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -363,7 +363,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -379,7 +379,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -395,23 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arway2q",
-      "title": "Qu’est-ce qu’une forêt ? Pourquoi cette question est bien plus complexe qu’il n’y paraît",
-      "summary": "Forêt d’_Abies pinsapo_ et de pins d’Alep, Sierra de Los Nieves, Andalousie (Espagne). Thierry Gauquelin, Fourni par l'auteur L’ESSENTIEL Il existe au moins 1 000 définitions du mot « forêt ». Définir ce qu’est une forêt demeure très important. Cela permet de savoir ce que l’on promeut exactement sur le plan économique",
-      "link": "https://theconversation.com/quest-ce-quune-foret-pourquoi-cette-question-est-bien-plus-complexe-quil-ny-parait-294311",
-      "image": "https://images.theconversation.com/files/765899/original/file-20261013-50-8ub2op.png?ixlib=rb-4.1.1&amp;rect=0%2C5%2C908%2C605&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-22T10:23:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +427,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "arway2q",
+      "title": "Qu’est-ce qu’une forêt ? Pourquoi cette question est bien plus complexe qu’il n’y paraît",
+      "summary": "Forêt d’_Abies pinsapo_ et de pins d’Alep, Sierra de Los Nieves, Andalousie (Espagne). Thierry Gauquelin, Fourni par l'auteur L’ESSENTIEL Il existe au moins 1 000 définitions du mot « forêt ». Définir ce qu’est une forêt demeure très important. Cela permet de savoir ce que l’on promeut exactement sur le plan économique",
+      "link": "https://theconversation.com/quest-ce-quune-foret-pourquoi-cette-question-est-bien-plus-complexe-quil-ny-parait-294311",
+      "image": "https://images.theconversation.com/files/765899/original/file-20261013-50-8ub2op.png?ixlib=rb-4.1.1&amp;rect=0%2C5%2C908%2C605&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-22T10:23:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -461,7 +461,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -477,7 +477,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -493,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -525,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -543,7 +543,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -559,7 +559,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -575,7 +575,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +591,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -607,7 +607,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -641,7 +641,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
+      "urgency": 11,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aqm4f5y",
+      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
+      "publishedAt": "2026-10-18T08:38:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 9,
       "urgencyLevel": "basse"
     },
     {
@@ -659,23 +675,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 9,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqm4f5y",
-      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
-      "publishedAt": "2026-10-18T08:38:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 9,
+      "urgency": 8,
       "urgencyLevel": "basse"
     },
     {
