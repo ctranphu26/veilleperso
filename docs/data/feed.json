@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T15:35:20.796Z",
+  "generatedAt": "2026-10-25T20:23:55.199Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,8 +133,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "azgt2ys",
@@ -151,8 +151,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a61r7l2",
@@ -169,8 +169,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awyildb",
@@ -185,8 +185,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agajc1v",
@@ -201,8 +201,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abm9hgr",
@@ -217,8 +217,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahrwm5k",
@@ -235,7 +235,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +251,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +267,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +285,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -303,7 +303,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +319,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +335,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,24 +351,6 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avykqeh",
-      "title": "Pourquoi la multiplication des sondages nuit à l’information des électeurs : les leçons du cas australien",
-      "summary": "Le Parlement australien, à Canberra. Depuis les élections fédérales de 2025, quelque 140 sondages ont été publiés, soit environ deux par semaine. Thennicke/Wikimedia Commons, CC BY L’ESSENTIEL Quelque 140 sondages ont été publiés en Australie depuis les élections fédérales de 2025, soit environ deux par semaine. Selon ",
-      "link": "https://theconversation.com/pourquoi-la-multiplication-des-sondages-nuit-a-linformation-des-electeurs-les-lecons-du-cas-australien-294961",
-      "image": "https://images.theconversation.com/files/767915/original/file-20261023-50-ugm349.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5505%2C3670&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-23T08:43:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
       "urgency": 37,
       "urgencyLevel": "basse"
     },
@@ -385,7 +367,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -401,7 +383,25 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "avykqeh",
+      "title": "Pourquoi la multiplication des sondages nuit à l’information des électeurs : les leçons du cas australien",
+      "summary": "Le Parlement australien, à Canberra. Depuis les élections fédérales de 2025, quelque 140 sondages ont été publiés, soit environ deux par semaine. Thennicke/Wikimedia Commons, CC BY L’ESSENTIEL Quelque 140 sondages ont été publiés en Australie depuis les élections fédérales de 2025, soit environ deux par semaine. Selon ",
+      "link": "https://theconversation.com/pourquoi-la-multiplication-des-sondages-nuit-a-linformation-des-electeurs-les-lecons-du-cas-australien-294961",
+      "image": "https://images.theconversation.com/files/767915/original/file-20261023-50-ugm349.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5505%2C3670&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-23T08:43:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -417,7 +417,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -433,7 +433,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -449,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -465,7 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -481,7 +481,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -497,7 +497,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -513,7 +513,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 25,
       "urgencyLevel": "basse"
     },
     {
@@ -529,7 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 20,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -547,7 +547,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 18,
       "urgencyLevel": "basse"
     },
     {
@@ -557,70 +557,6 @@
       "link": "https://www.cafepedagogique.net/2026/10/19/mobilisation-lyceenne-le-dossier-du-cafe-pedagogique/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg.webp",
       "publishedAt": "2026-10-19T09:22:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 9,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a63vck8",
-      "title": "Les 5 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/les-5-films-a-voir-durant-ces-vacances-5/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/affiche-film-hd-225x300.jpg.webp",
-      "publishedAt": "2026-10-19T07:22:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 9,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a4a54qd",
-      "title": "Nos 6 conseils lectures pour ces vacances",
-      "summary": "Retrouvez à cette page 6 conseils lectures pour cette pause automnale. Pour nous soutenir et permettre de poursuivre l’aventure du Café pédagogique, cliquez ici. Merci ! Jennifer Tamas : L’article Nos 6 conseils lectures pour ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/nos-6-conseils-lectures-pour-ces-vacances/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/La-Barbe-bleue-contre-enquete-198x300.jpg.webp",
-      "publishedAt": "2026-10-19T06:19:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 9,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3x1yt2",
-      "title": "5 expos à voir pendant ces vacances d’automne",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’automne. « À la découverte du biomimétisme » aux Abattoirs de Toulouse, jusqu’au 1er novembre 2026. Les différentes vies L’article 5 expos à voir pendant ces vacances d’automne est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/5-expos-a-voir-pendant-les-vacances-dautomne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/affiche-200x300.jpg.webp",
-      "publishedAt": "2026-10-19T06:09:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 9,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agy806g",
-      "title": "Votre Expresso est en vacances",
-      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
-      "publishedAt": "2026-10-19T03:00:21.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
@@ -649,19 +585,67 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "aqm4f5y",
-      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
-      "publishedAt": "2026-10-18T08:38:43.000Z",
+      "id": "a63vck8",
+      "title": "Les 5 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/les-5-films-a-voir-durant-ces-vacances-5/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/affiche-film-hd-225x300.jpg.webp",
+      "publishedAt": "2026-10-19T07:22:30.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 7,
+      "urgency": 8,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a4a54qd",
+      "title": "Nos 6 conseils lectures pour ces vacances",
+      "summary": "Retrouvez à cette page 6 conseils lectures pour cette pause automnale. Pour nous soutenir et permettre de poursuivre l’aventure du Café pédagogique, cliquez ici. Merci ! Jennifer Tamas : L’article Nos 6 conseils lectures pour ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/nos-6-conseils-lectures-pour-ces-vacances/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/La-Barbe-bleue-contre-enquete-198x300.jpg.webp",
+      "publishedAt": "2026-10-19T06:19:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 8,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3x1yt2",
+      "title": "5 expos à voir pendant ces vacances d’automne",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’automne. « À la découverte du biomimétisme » aux Abattoirs de Toulouse, jusqu’au 1er novembre 2026. Les différentes vies L’article 5 expos à voir pendant ces vacances d’automne est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/5-expos-a-voir-pendant-les-vacances-dautomne/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/affiche-200x300.jpg.webp",
+      "publishedAt": "2026-10-19T06:09:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 8,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agy806g",
+      "title": "Votre Expresso est en vacances",
+      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
+      "publishedAt": "2026-10-19T03:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 8,
       "urgencyLevel": "basse"
     },
     {
@@ -679,6 +663,22 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
+      "urgency": 6,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aqm4f5y",
+      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
+      "publishedAt": "2026-10-18T08:38:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
       "urgency": 6,
       "urgencyLevel": "basse"
     },
