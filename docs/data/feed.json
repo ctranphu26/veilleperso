@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:15:38.646Z",
+  "generatedAt": "2026-10-25T03:18:39.018Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -165,42 +165,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 71,
       "urgencyLevel": "haute"
-    },
-    {
-      "id": "aivk7is",
-      "title": "Après une guerre, quelle éducation pour construire la paix ?",
-      "summary": "En 2002, la fin de la guerre civile au Sierra Leone a marqué le début d’une refonte des manuels scolaires, transformant l’école en un outil de réconciliation nationale. Annie Spratt/Unsplash, CC BY L’ESSENTIEL Dans les sociétés sorties de guerre, l’école doit composer avec des mémoires et des appartenances parfois anta",
-      "link": "https://theconversation.com/apres-une-guerre-quelle-education-pour-construire-la-paix-290799",
-      "image": "https://images.theconversation.com/files/766705/original/file-20261016-50-v2jtvd.jpg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C3995%2C2662&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-24T08:33:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayvqon3",
-      "title": "« Pour que vous l’aimiez encore » : les concerts de Céline Dion illustrent le marketing de la nostalgie",
-      "summary": "La ferveur des fans de Céline Dion s’explique en grande partie par la force de la nostalgie (photo d’illustration). Anthony Delanoix/Unsplash, Fourni par l'auteur L’ESSENTIEL Samedi 17 octobre, Céline Dion donnait son dernier concert à la Plenitude Arena (Paris-Nanterre), avant un retour prévu en mai 2027. Comme espéré",
-      "link": "https://theconversation.com/pour-que-vous-laimiez-encore-les-concerts-de-celine-dion-illustrent-le-marketing-de-la-nostalgie-294955",
-      "image": "https://images.theconversation.com/files/767634/original/file-20261022-50-gaq61q.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5616%2C3744&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-24T08:32:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
     },
     {
       "id": "annj96v",
@@ -217,7 +183,41 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aivk7is",
+      "title": "Après une guerre, quelle éducation pour construire la paix ?",
+      "summary": "En 2002, la fin de la guerre civile au Sierra Leone a marqué le début d’une refonte des manuels scolaires, transformant l’école en un outil de réconciliation nationale. Annie Spratt/Unsplash, CC BY L’ESSENTIEL Dans les sociétés sorties de guerre, l’école doit composer avec des mémoires et des appartenances parfois anta",
+      "link": "https://theconversation.com/apres-une-guerre-quelle-education-pour-construire-la-paix-290799",
+      "image": "https://images.theconversation.com/files/766705/original/file-20261016-50-v2jtvd.jpg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C3995%2C2662&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-24T08:33:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ayvqon3",
+      "title": "« Pour que vous l’aimiez encore » : les concerts de Céline Dion illustrent le marketing de la nostalgie",
+      "summary": "La ferveur des fans de Céline Dion s’explique en grande partie par la force de la nostalgie (photo d’illustration). Anthony Delanoix/Unsplash, Fourni par l'auteur L’ESSENTIEL Samedi 17 octobre, Céline Dion donnait son dernier concert à la Plenitude Arena (Paris-Nanterre), avant un retour prévu en mai 2027. Comme espéré",
+      "link": "https://theconversation.com/pour-que-vous-laimiez-encore-les-concerts-de-celine-dion-illustrent-le-marketing-de-la-nostalgie-294955",
+      "image": "https://images.theconversation.com/files/767634/original/file-20261022-50-gaq61q.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5616%2C3744&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-24T08:32:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +233,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,23 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abmqrok",
-      "title": "Les sondages sont des instantanés, pas des prédictions : ce que montre la campagne électorale néo-zélandaise",
-      "summary": "Le Beehive, l’aile du Parlement néo-zélandais qui abrite les bureaux du gouvernement, à Wellington, en mai 2015. Les Néo-Zélandais renouvelleront leur Parlement le 7 novembre 2026. Michal Klajban/Wikimedia Commons, CC BY L’ESSENTIEL Chaque sondage n’est qu’une estimation : un écart d’un ou deux points entre deux enquêt",
-      "link": "https://theconversation.com/les-sondages-sont-des-instantanes-pas-des-predictions-ce-que-montre-la-campagne-electorale-neo-zelandaise-294960",
-      "image": "https://images.theconversation.com/files/767926/original/file-20261023-50-sjlwp5.jpg?ixlib=rb-4.1.1&amp;rect=19%2C0%2C1881%2C1254&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-23T10:05:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +283,23 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abmqrok",
+      "title": "Les sondages sont des instantanés, pas des prédictions : ce que montre la campagne électorale néo-zélandaise",
+      "summary": "Le Beehive, l’aile du Parlement néo-zélandais qui abrite les bureaux du gouvernement, à Wellington, en mai 2015. Les Néo-Zélandais renouvelleront leur Parlement le 7 novembre 2026. Michal Klajban/Wikimedia Commons, CC BY L’ESSENTIEL Chaque sondage n’est qu’une estimation : un écart d’un ou deux points entre deux enquêt",
+      "link": "https://theconversation.com/les-sondages-sont-des-instantanes-pas-des-predictions-ce-que-montre-la-campagne-electorale-neo-zelandaise-294960",
+      "image": "https://images.theconversation.com/files/767926/original/file-20261023-50-sjlwp5.jpg?ixlib=rb-4.1.1&amp;rect=19%2C0%2C1881%2C1254&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-23T10:05:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,87 +315,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "anz2ey6",
-      "title": "Pourquoi un matériau est-il beaucoup plus « costaud » à petite qu’à grande échelle ?",
-      "summary": "L’ESSENTIEL Chaque matériau a un seuil de résistance mécanique maximal qui lui est propre. Au-delà d’une certaine pression, il va se déformer. De manière surprenante, ces seuils changent radicalement lorsque l’on passe de notre échelle macroscopique à des tailles nanométriques. Comment expliquer, physiquement, ce chang",
-      "link": "https://theconversation.com/pourquoi-un-materiau-est-il-beaucoup-plus-costaud-a-petite-qua-grande-echelle-289268",
-      "image": "https://images.theconversation.com/files/767527/original/file-20261021-50-majnk0.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-22T13:47:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aaw23bd",
-      "title": "Organoïdes humains : des objets biologiques nouveaux, un statut à définir",
-      "summary": "Dans ce flacon, des organoïdes cérébraux humains. NIAID, CC BY-NC-ND L’ESSENTIEL Les organoïdes sont des mini-structures tridimensionnelles conçues à partir de cellules souches humaines et cultivées en laboratoire. Ils suscitent beaucoup d’espoir pour modéliser des organes et étudier certaines pathologies. Les organoïd",
-      "link": "https://theconversation.com/organo-des-humains-des-objets-biologiques-nouveaux-un-statut-a-definir-289079",
-      "image": "https://images.theconversation.com/files/753652/original/file-20260812-50-fpuu6c.jpg?ixlib=rb-4.1.1&amp;rect=583%2C0%2C2864%2C1908&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-22T13:46:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ahn38c6",
-      "title": "Parler de religion quand on est un démocrate dans un État républicain : le pari de James Talarico pour remporter l’élection sénatoriale au Texas",
-      "summary": "L’ESSENTIEL James Talarico, 37 ans, siège depuis déjà huit ans au sénat du Texas. Il vise cette fois l’un des deux sièges de sénateur de l’État au Congrès fédéral. Sa particularité : il fait de sa foi un élément central de ses discours de campagne alors que, généralement, ce sont les candidats républicains qui affichen",
-      "link": "https://theconversation.com/parler-de-religion-quand-on-est-un-democrate-dans-un-etat-republicain-le-pari-de-james-talarico-pour-remporter-lelection-senatoriale-au-texas-294618",
-      "image": "https://images.theconversation.com/files/766864/original/file-20261018-50-18ekot.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-22T13:46:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1i4cn2",
-      "title": "Pourquoi nous avons de plus en plus de mal à lire des textes longs – et comment entretenir cette capacité",
-      "summary": "L’ESSENTIEL La dernière enquête internationale PISA a révélé une baisse du niveau en lecture, en particulier des textes longs. Outre des capacités d’attention, la lecture dite « profonde » dépend de l’écho que le texte suscite en chacun. Quelles conditions préserver pour que la lecture reste un moyen de se construire e",
-      "link": "https://theconversation.com/pourquoi-nous-avons-de-plus-en-plus-de-mal-a-lire-des-textes-longs-et-comment-entretenir-cette-capacite-293870",
-      "image": "https://counter.theconversation.com/content/293870/count.gif",
-      "publishedAt": "2026-10-22T13:44:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ar6qapn",
-      "title": "Ultimatum de Trump à la Cour pénale internationale : un catalyseur de la souveraineté européenne ?",
-      "summary": "L’ESSENTIEL L’attribution du prix Nobel de la paix à Navanethem Pillay, ex-magistrate de la CPI, a relancé le courroux trumpien à l’égard de cette institution internationale. La CPI a reçu jeudi 22 octobre le prix Sakharov. L’Union européenne dispose de moyens pour répondre, notamment le « règlement de blocage ». Dans ",
-      "link": "https://theconversation.com/ultimatum-de-trump-a-la-cour-penale-internationale-un-catalyseur-de-la-souverainete-europeenne-294377",
-      "image": "https://counter.theconversation.com/content/294377/count.gif",
-      "publishedAt": "2026-10-22T13:43:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +331,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +347,87 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "anz2ey6",
+      "title": "Pourquoi un matériau est-il beaucoup plus « costaud » à petite qu’à grande échelle ?",
+      "summary": "L’ESSENTIEL Chaque matériau a un seuil de résistance mécanique maximal qui lui est propre. Au-delà d’une certaine pression, il va se déformer. De manière surprenante, ces seuils changent radicalement lorsque l’on passe de notre échelle macroscopique à des tailles nanométriques. Comment expliquer, physiquement, ce chang",
+      "link": "https://theconversation.com/pourquoi-un-materiau-est-il-beaucoup-plus-costaud-a-petite-qua-grande-echelle-289268",
+      "image": "https://images.theconversation.com/files/767527/original/file-20261021-50-majnk0.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-22T13:47:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aaw23bd",
+      "title": "Organoïdes humains : des objets biologiques nouveaux, un statut à définir",
+      "summary": "Dans ce flacon, des organoïdes cérébraux humains. NIAID, CC BY-NC-ND L’ESSENTIEL Les organoïdes sont des mini-structures tridimensionnelles conçues à partir de cellules souches humaines et cultivées en laboratoire. Ils suscitent beaucoup d’espoir pour modéliser des organes et étudier certaines pathologies. Les organoïd",
+      "link": "https://theconversation.com/organo-des-humains-des-objets-biologiques-nouveaux-un-statut-a-definir-289079",
+      "image": "https://images.theconversation.com/files/753652/original/file-20260812-50-fpuu6c.jpg?ixlib=rb-4.1.1&amp;rect=583%2C0%2C2864%2C1908&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-22T13:46:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ahn38c6",
+      "title": "Parler de religion quand on est un démocrate dans un État républicain : le pari de James Talarico pour remporter l’élection sénatoriale au Texas",
+      "summary": "L’ESSENTIEL James Talarico, 37 ans, siège depuis déjà huit ans au sénat du Texas. Il vise cette fois l’un des deux sièges de sénateur de l’État au Congrès fédéral. Sa particularité : il fait de sa foi un élément central de ses discours de campagne alors que, généralement, ce sont les candidats républicains qui affichen",
+      "link": "https://theconversation.com/parler-de-religion-quand-on-est-un-democrate-dans-un-etat-republicain-le-pari-de-james-talarico-pour-remporter-lelection-senatoriale-au-texas-294618",
+      "image": "https://images.theconversation.com/files/766864/original/file-20261018-50-18ekot.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-22T13:46:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a1i4cn2",
+      "title": "Pourquoi nous avons de plus en plus de mal à lire des textes longs – et comment entretenir cette capacité",
+      "summary": "L’ESSENTIEL La dernière enquête internationale PISA a révélé une baisse du niveau en lecture, en particulier des textes longs. Outre des capacités d’attention, la lecture dite « profonde » dépend de l’écho que le texte suscite en chacun. Quelles conditions préserver pour que la lecture reste un moyen de se construire e",
+      "link": "https://theconversation.com/pourquoi-nous-avons-de-plus-en-plus-de-mal-a-lire-des-textes-longs-et-comment-entretenir-cette-capacite-293870",
+      "image": "https://counter.theconversation.com/content/293870/count.gif",
+      "publishedAt": "2026-10-22T13:44:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "ar6qapn",
+      "title": "Ultimatum de Trump à la Cour pénale internationale : un catalyseur de la souveraineté européenne ?",
+      "summary": "L’ESSENTIEL L’attribution du prix Nobel de la paix à Navanethem Pillay, ex-magistrate de la CPI, a relancé le courroux trumpien à l’égard de cette institution internationale. La CPI a reçu jeudi 22 octobre le prix Sakharov. L’Union européenne dispose de moyens pour répondre, notamment le « règlement de blocage ». Dans ",
+      "link": "https://theconversation.com/ultimatum-de-trump-a-la-cour-penale-internationale-un-catalyseur-de-la-souverainete-europeenne-294377",
+      "image": "https://counter.theconversation.com/content/294377/count.gif",
+      "publishedAt": "2026-10-22T13:43:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -461,7 +461,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -477,7 +477,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -493,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -525,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -543,7 +543,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -559,7 +559,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -575,7 +575,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +591,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -607,7 +607,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 11,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
@@ -641,23 +641,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 11,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqm4f5y",
-      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
-      "publishedAt": "2026-10-18T08:38:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 9,
+      "urgency": 10,
       "urgencyLevel": "basse"
     },
     {
@@ -675,6 +659,22 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
+      "urgency": 8,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aqm4f5y",
+      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
+      "publishedAt": "2026-10-18T08:38:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
       "urgency": 8,
       "urgencyLevel": "basse"
     },
