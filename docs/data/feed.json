@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:23:55.199Z",
+  "generatedAt": "2026-10-26T03:20:22.687Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -185,7 +185,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -201,7 +201,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,57 +217,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahrwm5k",
-      "title": "Pourquoi penser qu’un texte a été écrit par une IA change notre manière de le lire",
-      "summary": "L’ESSENTIEL L’affaire Thélyson Orélien, dont l’éditeur canadien a annoncé qu’il avait utilisé l’intelligence artificielle générative pour son roman C’était ça ou mourir, révèle un changement profond dans notre façon de produire et de lire des textes de fiction. Mais pourquoi l’origine supposée d’un texte modifie-t-elle",
-      "link": "https://theconversation.com/pourquoi-penser-quun-texte-a-ete-ecrit-par-une-ia-change-notre-maniere-de-le-lire-293979",
-      "image": "https://counter.theconversation.com/content/293979/count.gif",
-      "publishedAt": "2026-10-24T08:30:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayjgwnm",
-      "title": "Malaise dans la génération : une convergence des inquiétudes",
-      "summary": "L’ESSENTIEL Le mouvement des lycéens français n’est pas le signe d’une guerre entre les générations qui opposerait les plus jeunes aux boomers. Il est le révélateur d’un malaise qui témoigne de trois inquiétudes concernant la qualité du système scolaire, l’environnement et l’emploi à l’ère de l’IA. Loin de demander une",
-      "link": "https://theconversation.com/malaise-dans-la-generation-une-convergence-des-inquietudes-294891",
-      "image": "https://counter.theconversation.com/content/294891/count.gif",
-      "publishedAt": "2026-10-24T08:31:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ak3mjue",
-      "title": "Les sondages d’opinion, chance ou problème pour les démocraties ?",
-      "summary": "L’ESSENTIEL À l’approche de la présidentielle 2027, les sondages préélectoraux se multiplient en France. Les sondages éclairent les rapports de force, mais peuvent aussi influencer électorat et responsables politiques. Leur fiabilité est bien meilleure pour le second tour que pour le premier. Leurs effets sur le vote r",
-      "link": "https://theconversation.com/les-sondages-dopinion-chance-ou-probleme-pour-les-democraties-291716",
-      "image": "https://images.theconversation.com/files/760163/original/file-20260916-50-46l1wr.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-24T08:27:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +235,57 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 54,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ahrwm5k",
+      "title": "Pourquoi penser qu’un texte a été écrit par une IA change notre manière de le lire",
+      "summary": "L’ESSENTIEL L’affaire Thélyson Orélien, dont l’éditeur canadien a annoncé qu’il avait utilisé l’intelligence artificielle générative pour son roman C’était ça ou mourir, révèle un changement profond dans notre façon de produire et de lire des textes de fiction. Mais pourquoi l’origine supposée d’un texte modifie-t-elle",
+      "link": "https://theconversation.com/pourquoi-penser-quun-texte-a-ete-ecrit-par-une-ia-change-notre-maniere-de-le-lire-293979",
+      "image": "https://counter.theconversation.com/content/293979/count.gif",
+      "publishedAt": "2026-10-24T08:30:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 53,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ayjgwnm",
+      "title": "Malaise dans la génération : une convergence des inquiétudes",
+      "summary": "L’ESSENTIEL Le mouvement des lycéens français n’est pas le signe d’une guerre entre les générations qui opposerait les plus jeunes aux boomers. Il est le révélateur d’un malaise qui témoigne de trois inquiétudes concernant la qualité du système scolaire, l’environnement et l’emploi à l’ère de l’IA. Loin de demander une",
+      "link": "https://theconversation.com/malaise-dans-la-generation-une-convergence-des-inquietudes-294891",
+      "image": "https://counter.theconversation.com/content/294891/count.gif",
+      "publishedAt": "2026-10-24T08:31:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 53,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ak3mjue",
+      "title": "Les sondages d’opinion, chance ou problème pour les démocraties ?",
+      "summary": "L’ESSENTIEL À l’approche de la présidentielle 2027, les sondages préélectoraux se multiplient en France. Les sondages éclairent les rapports de force, mais peuvent aussi influencer électorat et responsables politiques. Leur fiabilité est bien meilleure pour le second tour que pour le premier. Leurs effets sur le vote r",
+      "link": "https://theconversation.com/les-sondages-dopinion-chance-ou-probleme-pour-les-democraties-291716",
+      "image": "https://images.theconversation.com/files/760163/original/file-20260916-50-46l1wr.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-24T08:27:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -303,7 +303,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +319,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +335,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +351,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -367,23 +367,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abmqrok",
-      "title": "Les sondages sont des instantanés, pas des prédictions : ce que montre la campagne électorale néo-zélandaise",
-      "summary": "Le Beehive, l’aile du Parlement néo-zélandais qui abrite les bureaux du gouvernement, à Wellington, en mai 2015. Les Néo-Zélandais renouvelleront leur Parlement le 7 novembre 2026. Michal Klajban/Wikimedia Commons, CC BY L’ESSENTIEL Chaque sondage n’est qu’une estimation : un écart d’un ou deux points entre deux enquêt",
-      "link": "https://theconversation.com/les-sondages-sont-des-instantanes-pas-des-predictions-ce-que-montre-la-campagne-electorale-neo-zelandaise-294960",
-      "image": "https://images.theconversation.com/files/767926/original/file-20261023-50-sjlwp5.jpg?ixlib=rb-4.1.1&amp;rect=19%2C0%2C1881%2C1254&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-23T10:05:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -401,7 +385,23 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 31,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "abmqrok",
+      "title": "Les sondages sont des instantanés, pas des prédictions : ce que montre la campagne électorale néo-zélandaise",
+      "summary": "Le Beehive, l’aile du Parlement néo-zélandais qui abrite les bureaux du gouvernement, à Wellington, en mai 2015. Les Néo-Zélandais renouvelleront leur Parlement le 7 novembre 2026. Michal Klajban/Wikimedia Commons, CC BY L’ESSENTIEL Chaque sondage n’est qu’une estimation : un écart d’un ou deux points entre deux enquêt",
+      "link": "https://theconversation.com/les-sondages-sont-des-instantanes-pas-des-predictions-ce-que-montre-la-campagne-electorale-neo-zelandaise-294960",
+      "image": "https://images.theconversation.com/files/767926/original/file-20261023-50-sjlwp5.jpg?ixlib=rb-4.1.1&amp;rect=19%2C0%2C1881%2C1254&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-23T10:05:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -417,7 +417,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -433,7 +433,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -449,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -465,7 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -481,7 +481,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -497,7 +497,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -513,23 +513,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "anz4ihc",
-      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
-      "summary": "Following widespread looting sprees and acts of violence occurring on the sidelines of the October 17 student protests, so-called “casseurs” seem to be the centre of attention. But the term, which comes from the French verb casser or “to break”, poses more questions than answers. The sociologist Paolo Stuppia examines ",
-      "link": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-21T13:58:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -551,6 +535,22 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "anz4ihc",
+      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
+      "summary": "Following widespread looting sprees and acts of violence occurring on the sidelines of the October 17 student protests, so-called “casseurs” seem to be the centre of attention. But the term, which comes from the French verb casser or “to break”, poses more questions than answers. The sociologist Paolo Stuppia examines ",
+      "link": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-21T13:58:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 17,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "amyugyz",
       "title": "Mobilisation lycéenne : le dossier du Café pédagogique",
       "summary": "Retrouvez à cette page tous nos articles consacrés à la mobilisation lycéenne. De la mobilisation lycéenne à la mobilisation citoyenne « Profs, lycéens, même combat » : le 6 L’article Mobilisation lycéenne : le dossier du Café pédagogique est apparu en premier sur Le Café pédagogique.",
@@ -563,24 +563,6 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 9,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a11awfe",
-      "title": "SVT : quelle biodiversité pour Halloween ?",
-      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
-      "publishedAt": "2026-10-19T02:00:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
       "urgency": 8,
       "urgencyLevel": "basse"
     },
@@ -633,6 +615,24 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "a11awfe",
+      "title": "SVT : quelle biodiversité pour Halloween ?",
+      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
+      "publishedAt": "2026-10-19T02:00:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 7,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "agy806g",
       "title": "Votre Expresso est en vacances",
       "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
@@ -645,7 +645,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 8,
+      "urgency": 7,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aqm4f5y",
+      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
+      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
+      "publishedAt": "2026-10-18T08:38:43.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 6,
       "urgencyLevel": "basse"
     },
     {
@@ -663,23 +679,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 6,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqm4f5y",
-      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
-      "publishedAt": "2026-10-18T08:38:43.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 6,
+      "urgency": 5,
       "urgencyLevel": "basse"
     },
     {
