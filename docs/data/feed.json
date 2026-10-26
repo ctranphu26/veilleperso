@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:17:50.882Z",
+  "generatedAt": "2026-10-26T22:18:48.932Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,13 +133,97 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 88,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axd3cs5",
+      "title": "Frances Power Cobbe : Défendre les femmes, défendre les animaux, un même engagement",
+      "summary": "Frances Power Cobbe et Hajjin, son compagnon canin. Couverture de l’essai _The Pursuits of Women_ paru en 1863. Welsh Portrait Collection , CC BY L’ESSENTIEL Journaliste et militante, Frances Power Cobbe (1822-1904) a dénoncé, outre-Manche, les violences que subissaient les femmes mariées et qu’elle appelait « tortures",
+      "link": "https://theconversation.com/frances-power-cobbe-defendre-les-femmes-defendre-les-animaux-un-meme-engagement-294410",
+      "image": "https://images.theconversation.com/files/766234/original/file-20261014-60-2pv0jw.jpg?ixlib=rb-4.1.1&amp;rect=132%2C598%2C3948%2C2632&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-26T15:06:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aemtyy8",
+      "title": "Quand l’IA vient à nous par l’intermédiaire d’« agents », jusqu’où peut-on lui faire confiance ?",
+      "summary": "L’ESSENTIEL Dans les services du quotidien, l’intelligence artificielle peut nous aider à chercher et à choisir. Avec les agents d’IA, cette aide s’étend à des tâches que nous pouvons leur déléguer. Mais comment faire confiance à ces nouvelles boîtes noires, dont on ne connaît pas les modes d’action ? La meilleure solu",
+      "link": "https://theconversation.com/quand-lia-vient-a-nous-par-lintermediaire-d-agents-jusquou-peut-on-lui-faire-confiance-294391",
+      "image": "https://counter.theconversation.com/content/294391/count.gif",
+      "publishedAt": "2026-10-26T15:03:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awoeus3",
+      "title": "Micropesanteur et réactivation virale : ce que les séjours dans l’espace révèlent de notre immunité",
+      "summary": "L’ESSENTIEL Dans l’espace, le système immunitaire des astronautes subit des perturbations, dues notamment à la micropesanteur. Une des conséquences est la réactivation de certains virus, tels que les Herpesvirus, qui persistent à l’état latent dans les organismes. Ce problème, qui s’ajoute aux autres effets sur la sant",
+      "link": "https://theconversation.com/micropesanteur-et-reactivation-virale-ce-que-les-sejours-dans-lespace-revelent-de-notre-immunite-294286",
+      "image": "https://counter.theconversation.com/content/294286/count.gif",
+      "publishedAt": "2026-10-26T15:08:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aemg5zf",
+      "title": "Les gestes individuels peuvent-ils quelque chose pour lutter contre la pollution plastique ?",
+      "summary": "Dans un café de Hongkong. Fourni par l'auteur L’ESSENTIEL Les petits gestes individuels ont peu d’effets contre la pollution plastique. Les incitations financières également semble-t-il, comme le montrent des expériences réalisées dans divers endroits du monde. Seules des législations paraissent efficaces, à l’instar d",
+      "link": "https://theconversation.com/les-gestes-individuels-peuvent-ils-quelque-chose-pour-lutter-contre-la-pollution-plastique-292314",
+      "image": "https://images.theconversation.com/files/762466/original/file-20260928-50-3640l7.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C170%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-26T15:06:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akk2b82",
+      "title": "À quoi servent les prix littéraires ?",
+      "summary": "L’ESSENTIEL Pierre-Guillaume Méon a dirigé, avec Géraldine David, l’ouvrage collectif Avons-nous besoin des prix littéraires ?, paru aux Éditions de l’Université de Bruxelles (octobre 2026). Nous avons tellement l’habitude de voir se succéder les prix littéraires, l’automne venu, que nous en oublions de questionner leu",
+      "link": "https://theconversation.com/a-quoi-servent-les-prix-litteraires-294968",
+      "image": "https://counter.theconversation.com/content/294968/count.gif",
+      "publishedAt": "2026-10-26T15:03:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
       "id": "a8730o",
-      "title": "Au Brésil, Lula réélu grâce à une mobilisation qui a déjoué les pronostics",
-      "summary": "L’ESSENTIEL La mobilisation sur les réseaux sociaux et dans la rue a contribué au retournement électoral en faveur de Lula, réélu président au Brésil le 26 octobre. Face à une droite majoritaire au Parlement et dans les États, le président devra négocier pour gouverner. Sa victoire pourrait freiner la poussée de l’extr",
+      "title": "Au Brésil, Lula réélu grâce à une mobilisation qui a déjoué les pronostics",
+      "summary": "L’ESSENTIEL Au Brésil, la mobilisation sur les réseaux sociaux et dans la rue a contribué au retournement électoral en faveur de Lula, réélu président ce 25 octobre. Face à une droite majoritaire au Parlement et dans les États, le président devra négocier pour gouverner. Sa victoire pourrait freiner la poussée de l’ext",
       "link": "https://theconversation.com/au-bresil-lula-reelu-grace-a-une-mobilisation-qui-a-dejoue-les-pronostics-295195",
       "image": "https://counter.theconversation.com/content/295195/count.gif",
       "publishedAt": "2026-10-26T11:16:10.000Z",
@@ -151,8 +235,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ah1497t",
@@ -167,8 +251,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awvpvb4",
@@ -183,8 +267,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aluq4m0",
@@ -201,7 +285,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -219,7 +303,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -237,7 +321,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -253,7 +337,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,7 +353,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +369,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -303,7 +387,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +403,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,8 +419,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "acu42ij",
+      "title": "Could lawfare become warfare between Brussels and Beijing?",
+      "summary": "KEY TAKEAWAYS Chinese employees are using European law to defend their working conditions: after being fired by the equipment manufacturer Xingyu, 107 young graduates alerted Mercedes-Benz and Volkswagen, its European clients. The European Union extends its legal power beyond its borders. With the regulation on foreign",
+      "link": "https://theconversation.com/could-lawfare-become-warfare-between-brussels-and-beijing-294290",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-10-23T10:29:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 34,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aivk7is",
@@ -353,7 +453,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -369,23 +469,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "acu42ij",
-      "title": "Could lawfare become warfare between Brussels and Beijing?",
-      "summary": "KEY TAKEAWAYS Chinese employees are using European law to defend their working conditions: after being fired by the equipment manufacturer Xingyu, 107 young graduates alerted Mercedes-Benz and Volkswagen, its European clients. The European Union extends its legal power beyond its borders. With the regulation on foreign",
-      "link": "https://theconversation.com/could-lawfare-become-warfare-between-brussels-and-beijing-294290",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-23T10:29:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -401,39 +485,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a695vm0",
-      "title": "Ratés, faux sondages, marchés prédictifs : la mauvaise passe des sondeurs américains avant les midterms",
-      "summary": "La maire de Los Angeles, Karen Bass, lors de la parade de la Nisei Week, en août 2025. Un faux sondage la donnant largement en tête pour sa réélection a été relayé par son équipe de campagne en août 2026. 399scout/Wikimedia Commons, CC BY-SA, CC BY L’ESSENTIEL Aux États-Unis, les sondages ont sous-estimé Donald Trump à",
-      "link": "https://theconversation.com/rates-faux-sondages-marches-predictifs-la-mauvaise-passe-des-sondeurs-americains-avant-les-midterms-294959",
-      "image": "https://images.theconversation.com/files/767940/original/file-20261023-50-t5qlos.jpg?ixlib=rb-4.1.1&amp;rect=99%2C0%2C1081%2C721&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-23T10:30:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abmqrok",
-      "title": "Les sondages sont des instantanés, pas des prédictions : ce que montre la campagne électorale néo-zélandaise",
-      "summary": "Le Beehive, l’aile du Parlement néo-zélandais qui abrite les bureaux du gouvernement, à Wellington, en mai 2015. Les Néo-Zélandais renouvelleront leur Parlement le 7 novembre 2026. Michal Klajban/Wikimedia Commons, CC BY L’ESSENTIEL Chaque sondage n’est qu’une estimation : un écart d’un ou deux points entre deux enquêt",
-      "link": "https://theconversation.com/les-sondages-sont-des-instantanes-pas-des-predictions-ce-que-montre-la-campagne-electorale-neo-zelandaise-294960",
-      "image": "https://images.theconversation.com/files/767926/original/file-20261023-50-sjlwp5.jpg?ixlib=rb-4.1.1&amp;rect=19%2C0%2C1881%2C1254&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-23T10:05:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -451,87 +503,39 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
-      "id": "ae6s9er",
-      "title": "La révocation du procureur de la CPI : quand permanence ne rime pas avec prévoyance",
-      "summary": "Karim Khan lors de sa prestation de serment en tant que Procureur de la Cour pénale internationale le 16 juin 2021. Élu pour neuf ans, il a été révoqué au bout d’un peu plus de cinq ans. Site officiel de la Cour pénale Internationale L’ESSENTIEL Le 24 juillet 2026, l’Assemblée des États parties a révoqué le procureur d",
-      "link": "https://theconversation.com/la-revocation-du-procureur-de-la-cpi-quand-permanence-ne-rime-pas-avec-prevoyance-293894",
-      "image": "https://images.theconversation.com/files/766876/original/file-20261018-50-lo0bmv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C1200%2C800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-22T14:48:02.000Z",
+      "id": "a695vm0",
+      "title": "Ratés, faux sondages, marchés prédictifs : la mauvaise passe des sondeurs américains avant les midterms",
+      "summary": "La maire de Los Angeles, Karen Bass, lors de la parade de la Nisei Week, en août 2025. Un faux sondage la donnant largement en tête pour sa réélection a été relayé par son équipe de campagne en août 2026. 399scout/Wikimedia Commons, CC BY-SA, CC BY L’ESSENTIEL Aux États-Unis, les sondages ont sous-estimé Donald Trump à",
+      "link": "https://theconversation.com/rates-faux-sondages-marches-predictifs-la-mauvaise-passe-des-sondeurs-americains-avant-les-midterms-294959",
+      "image": "https://images.theconversation.com/files/767940/original/file-20261023-50-t5qlos.jpg?ixlib=rb-4.1.1&amp;rect=99%2C0%2C1081%2C721&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-23T10:30:31.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
-      "id": "anz2ey6",
-      "title": "Pourquoi un matériau est-il beaucoup plus « costaud » à petite qu’à grande échelle ?",
-      "summary": "L’ESSENTIEL Chaque matériau a un seuil de résistance mécanique maximal qui lui est propre. Au-delà d’une certaine pression, il va se déformer. De manière surprenante, ces seuils changent radicalement lorsque l’on passe de notre échelle macroscopique à des tailles nanométriques. Comment expliquer, physiquement, ce chang",
-      "link": "https://theconversation.com/pourquoi-un-materiau-est-il-beaucoup-plus-costaud-a-petite-qua-grande-echelle-289268",
-      "image": "https://images.theconversation.com/files/767527/original/file-20261021-50-majnk0.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-22T13:47:00.000Z",
+      "id": "abmqrok",
+      "title": "Les sondages sont des instantanés, pas des prédictions : ce que montre la campagne électorale néo-zélandaise",
+      "summary": "Le Beehive, l’aile du Parlement néo-zélandais qui abrite les bureaux du gouvernement, à Wellington, en mai 2015. Les Néo-Zélandais renouvelleront leur Parlement le 7 novembre 2026. Michal Klajban/Wikimedia Commons, CC BY L’ESSENTIEL Chaque sondage n’est qu’une estimation : un écart d’un ou deux points entre deux enquêt",
+      "link": "https://theconversation.com/les-sondages-sont-des-instantanes-pas-des-predictions-ce-que-montre-la-campagne-electorale-neo-zelandaise-294960",
+      "image": "https://images.theconversation.com/files/767926/original/file-20261023-50-sjlwp5.jpg?ixlib=rb-4.1.1&amp;rect=19%2C0%2C1881%2C1254&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-23T10:05:00.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aaw23bd",
-      "title": "Organoïdes humains : des objets biologiques nouveaux, un statut à définir",
-      "summary": "Dans ce flacon, des organoïdes cérébraux humains. NIAID, CC BY-NC-ND L’ESSENTIEL Les organoïdes sont des mini-structures tridimensionnelles conçues à partir de cellules souches humaines et cultivées en laboratoire. Ils suscitent beaucoup d’espoir pour modéliser des organes et étudier certaines pathologies. Les organoïd",
-      "link": "https://theconversation.com/organo-des-humains-des-objets-biologiques-nouveaux-un-statut-a-definir-289079",
-      "image": "https://images.theconversation.com/files/753652/original/file-20260812-50-fpuu6c.jpg?ixlib=rb-4.1.1&amp;rect=583%2C0%2C2864%2C1908&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-22T13:46:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ahn38c6",
-      "title": "Parler de religion quand on est un démocrate dans un État républicain : le pari de James Talarico pour remporter l’élection sénatoriale au Texas",
-      "summary": "L’ESSENTIEL James Talarico, 37 ans, siège depuis déjà huit ans au sénat du Texas. Il vise cette fois l’un des deux sièges de sénateur de l’État au Congrès fédéral. Sa particularité : il fait de sa foi un élément central de ses discours de campagne alors que, généralement, ce sont les candidats républicains qui affichen",
-      "link": "https://theconversation.com/parler-de-religion-quand-on-est-un-democrate-dans-un-etat-republicain-le-pari-de-james-talarico-pour-remporter-lelection-senatoriale-au-texas-294618",
-      "image": "https://images.theconversation.com/files/766864/original/file-20261018-50-18ekot.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-22T13:46:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1i4cn2",
-      "title": "Pourquoi nous avons de plus en plus de mal à lire des textes longs – et comment entretenir cette capacité",
-      "summary": "L’ESSENTIEL La dernière enquête internationale PISA a révélé une baisse du niveau en lecture, en particulier des textes longs. Outre des capacités d’attention, la lecture dite « profonde » dépend de l’écho que le texte suscite en chacun. Quelles conditions préserver pour que la lecture reste un moyen de se construire e",
-      "link": "https://theconversation.com/pourquoi-nous-avons-de-plus-en-plus-de-mal-a-lire-des-textes-longs-et-comment-entretenir-cette-capacite-293870",
-      "image": "https://counter.theconversation.com/content/293870/count.gif",
-      "publishedAt": "2026-10-22T13:44:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -549,7 +553,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 17,
+      "urgency": 16,
       "urgencyLevel": "basse"
     },
     {
@@ -565,7 +569,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 7,
+      "urgency": 6,
       "urgencyLevel": "basse"
     },
     {
@@ -581,7 +585,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 7,
+      "urgency": 6,
       "urgencyLevel": "basse"
     },
     {
@@ -597,7 +601,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 7,
+      "urgency": 6,
       "urgencyLevel": "basse"
     },
     {
@@ -613,24 +617,6 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 7,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a11awfe",
-      "title": "SVT : quelle biodiversité pour Halloween ?",
-      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
-      "publishedAt": "2026-10-19T02:00:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
       "urgency": 6,
       "urgencyLevel": "basse"
     },
@@ -651,6 +637,24 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "a11awfe",
+      "title": "SVT : quelle biodiversité pour Halloween ?",
+      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
+      "publishedAt": "2026-10-19T02:00:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 5,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "aawym8l",
       "title": "16 ressources mises en avant par le Café pédagogique",
       "summary": "Retrouvez sur cette page 16 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Innover en lycée professionnel : un dispositif inventé L’article 16 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
@@ -665,7 +669,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 5,
+      "urgency": 4,
       "urgencyLevel": "basse"
     },
     {
@@ -681,7 +685,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 5,
+      "urgency": 4,
       "urgencyLevel": "basse"
     },
     {
