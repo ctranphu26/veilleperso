@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T17:29:52.647Z",
+  "generatedAt": "2026-10-27T21:50:06.023Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 97,
+      "urgency": 93,
       "urgencyLevel": "haute"
     },
     {
@@ -151,23 +151,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 87,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aylycsd",
-      "title": "Qui doit payer les morts ? Une histoire politique du prix des obsèques",
-      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
-      "link": "https://theconversation.com/qui-doit-payer-les-morts-une-histoire-politique-du-prix-des-obseques-278246",
-      "image": "https://counter.theconversation.com/content/278246/count.gif",
-      "publishedAt": "2026-10-27T15:19:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +169,23 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 77,
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aylycsd",
+      "title": "Qui doit payer les morts ? Une histoire politique du prix des obsèques",
+      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
+      "link": "https://theconversation.com/qui-doit-payer-les-morts-une-histoire-politique-du-prix-des-obseques-278246",
+      "image": "https://counter.theconversation.com/content/278246/count.gif",
+      "publishedAt": "2026-10-27T15:19:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -201,7 +201,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -217,7 +217,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -233,7 +233,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -249,7 +249,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -265,8 +265,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9df2d9",
@@ -281,8 +281,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqmbpnf",
@@ -297,8 +297,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayyscbp",
@@ -313,8 +313,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5sv20n",
@@ -331,7 +331,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +349,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +367,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +383,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,7 +399,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,7 +415,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +433,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -465,7 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -483,7 +483,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -499,7 +499,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -515,7 +515,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -531,7 +531,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -553,22 +553,6 @@
       "urgencyLevel": "basse"
     },
     {
-      "id": "amyugyz",
-      "title": "Mobilisation lycéenne : le dossier du Café pédagogique",
-      "summary": "Retrouvez à cette page tous nos articles consacrés à la mobilisation lycéenne. De la mobilisation lycéenne à la mobilisation citoyenne « Profs, lycéens, même combat » : le 6 L’article Mobilisation lycéenne : le dossier du Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/mobilisation-lyceenne-le-dossier-du-cafe-pedagogique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg.webp",
-      "publishedAt": "2026-10-19T09:22:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 5,
-      "urgencyLevel": "basse"
-    },
-    {
       "id": "a11awfe",
       "title": "SVT : quelle biodiversité pour Halloween ?",
       "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
@@ -583,6 +567,22 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
+      "urgency": 4,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "amyugyz",
+      "title": "Mobilisation lycéenne : le dossier du Café pédagogique",
+      "summary": "Retrouvez à cette page tous nos articles consacrés à la mobilisation lycéenne. De la mobilisation lycéenne à la mobilisation citoyenne « Profs, lycéens, même combat » : le 6 L’article Mobilisation lycéenne : le dossier du Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/mobilisation-lyceenne-le-dossier-du-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg.webp",
+      "publishedAt": "2026-10-19T09:22:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
       "urgency": 4,
       "urgencyLevel": "basse"
     },
@@ -699,7 +699,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 2,
+      "urgency": 1,
       "urgencyLevel": "basse"
     }
   ]
