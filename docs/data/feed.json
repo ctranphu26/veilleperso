@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T21:50:06.023Z",
+  "generatedAt": "2026-10-28T04:06:51.986Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 93,
+      "urgency": 87,
       "urgencyLevel": "haute"
     },
     {
@@ -151,8 +151,88 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 83,
+      "urgency": 77,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "aylycsd",
+      "title": "Qui doit payer les morts ? Une histoire politique du prix des obsèques",
+      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
+      "link": "https://theconversation.com/qui-doit-payer-les-morts-une-histoire-politique-du-prix-des-obseques-278246",
+      "image": "https://counter.theconversation.com/content/278246/count.gif",
+      "publishedAt": "2026-10-27T15:19:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "afd0wo8",
+      "title": "Pourquoi le narcotrafic résiste si bien à la répression policière ? Ce que l’expérience brésilienne peut enseigner à la France",
+      "summary": "L’ESSENTIEL Le durcissement de la réponse pénale pour contrer la montée du narcotrafic est-il vraiment efficace ? Étude de cas au Brésil et en France. Engager les forces de police dans une logique d’affrontement peut couper celles-ci d’une partie de la population, pourtant indispensable pour démanteler les réseaux. Les",
+      "link": "https://theconversation.com/pourquoi-le-narcotrafic-resiste-si-bien-a-la-repression-policiere-ce-que-lexperience-bresilienne-peut-enseigner-a-la-france-291853",
+      "image": "https://counter.theconversation.com/content/291853/count.gif",
+      "publishedAt": "2026-10-27T15:14:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ak6h77a",
+      "title": "Couper l’aide au développement au nom de l’intérêt national : le paradoxe des pays donateurs",
+      "summary": "L’ESSENTIEL Les crédits consacrés à l’aide publique au développement (APD) ne cessent de baisser, sur fond d’accusations d’inefficacité et de gaspillage d’argent public. Pourtant, les recherches montrent que l’APD sert aussi les intérêts économiques et géopolitiques des donateurs, parfois au détriment de l’objectif ini",
+      "link": "https://theconversation.com/couper-laide-au-developpement-au-nom-de-linteret-national-le-paradoxe-des-pays-donateurs-293771",
+      "image": "https://counter.theconversation.com/content/293771/count.gif",
+      "publishedAt": "2026-10-27T15:13:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6hlpz4",
+      "title": "Comment Moody’s, S&P et Fitch, les Big Three, ont-ils construit leur légitimité ?",
+      "summary": "L’ESSENTIEL L’histoire des Big Three, Moody’s, Standard and Poor’s (S&P) et Fitch, est moins celle d’une conquête du pouvoir que celle de la construction progressive de leur légitimité auprès des investisseurs et des régulateurs. Le succès initial des agences de notation repose sur une innovation majeure : transformer ",
+      "link": "https://theconversation.com/comment-moodys-sandp-et-fitch-les-big-three-ont-ils-construit-leur-legitimite-285724",
+      "image": "https://counter.theconversation.com/content/285724/count.gif",
+      "publishedAt": "2026-10-27T15:11:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aagk9er",
+      "title": "Annuler la dette détenue par la Banque centrale européenne, c’est changer la nature de l’euro",
+      "summary": "L’ESSENTIEL En France, des responsables politiques appellent à annuler une partie de la dette détenue par l’Eurosystème, l’autorité monétaire de la zone euro. Il ne faut pas oublier que la monnaie de l’Eurosystème, l’euro, est une dette. L’Eurosystème ne peut absorber de la dette française sans compromettre la confianc",
+      "link": "https://theconversation.com/annuler-la-dette-detenue-par-la-banque-centrale-europeenne-cest-changer-la-nature-de-leuro-293882",
+      "image": "https://counter.theconversation.com/content/293882/count.gif",
+      "publishedAt": "2026-10-27T15:11:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "asd2vt1",
@@ -169,88 +249,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aylycsd",
-      "title": "Qui doit payer les morts ? Une histoire politique du prix des obsèques",
-      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
-      "link": "https://theconversation.com/qui-doit-payer-les-morts-une-histoire-politique-du-prix-des-obseques-278246",
-      "image": "https://counter.theconversation.com/content/278246/count.gif",
-      "publishedAt": "2026-10-27T15:19:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "afd0wo8",
-      "title": "Pourquoi le narcotrafic résiste si bien à la répression policière ? Ce que l’expérience brésilienne peut enseigner à la France",
-      "summary": "L’ESSENTIEL Le durcissement de la réponse pénale pour contrer la montée du narcotrafic est-il vraiment efficace ? Étude de cas au Brésil et en France. Engager les forces de police dans une logique d’affrontement peut couper celles-ci d’une partie de la population, pourtant indispensable pour démanteler les réseaux. Les",
-      "link": "https://theconversation.com/pourquoi-le-narcotrafic-resiste-si-bien-a-la-repression-policiere-ce-que-lexperience-bresilienne-peut-enseigner-a-la-france-291853",
-      "image": "https://counter.theconversation.com/content/291853/count.gif",
-      "publishedAt": "2026-10-27T15:14:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ak6h77a",
-      "title": "Couper l’aide au développement au nom de l’intérêt national : le paradoxe des pays donateurs",
-      "summary": "L’ESSENTIEL Les crédits consacrés à l’aide publique au développement (APD) ne cessent de baisser, sur fond d’accusations d’inefficacité et de gaspillage d’argent public. Pourtant, les recherches montrent que l’APD sert aussi les intérêts économiques et géopolitiques des donateurs, parfois au détriment de l’objectif ini",
-      "link": "https://theconversation.com/couper-laide-au-developpement-au-nom-de-linteret-national-le-paradoxe-des-pays-donateurs-293771",
-      "image": "https://counter.theconversation.com/content/293771/count.gif",
-      "publishedAt": "2026-10-27T15:13:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a6hlpz4",
-      "title": "Comment Moody’s, S&P et Fitch, les Big Three, ont-ils construit leur légitimité ?",
-      "summary": "L’ESSENTIEL L’histoire des Big Three, Moody’s, Standard and Poor’s (S&P) et Fitch, est moins celle d’une conquête du pouvoir que celle de la construction progressive de leur légitimité auprès des investisseurs et des régulateurs. Le succès initial des agences de notation repose sur une innovation majeure : transformer ",
-      "link": "https://theconversation.com/comment-moodys-sandp-et-fitch-les-big-three-ont-ils-construit-leur-legitimite-285724",
-      "image": "https://counter.theconversation.com/content/285724/count.gif",
-      "publishedAt": "2026-10-27T15:11:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aagk9er",
-      "title": "Annuler la dette détenue par la Banque centrale européenne, c’est changer la nature de l’euro",
-      "summary": "L’ESSENTIEL En France, des responsables politiques appellent à annuler une partie de la dette détenue par l’Eurosystème, l’autorité monétaire de la zone euro. Il ne faut pas oublier que la monnaie de l’Eurosystème, l’euro, est une dette. L’Eurosystème ne peut absorber de la dette française sans compromettre la confianc",
-      "link": "https://theconversation.com/annuler-la-dette-detenue-par-la-banque-centrale-europeenne-cest-changer-la-nature-de-leuro-293882",
-      "image": "https://counter.theconversation.com/content/293882/count.gif",
-      "publishedAt": "2026-10-27T15:11:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ab98bgm",
@@ -265,7 +265,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +281,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +297,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +313,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,7 +331,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +349,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +367,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +383,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,7 +399,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,7 +415,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +433,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -465,7 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -483,7 +483,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -499,7 +499,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -515,7 +515,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -531,7 +531,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
