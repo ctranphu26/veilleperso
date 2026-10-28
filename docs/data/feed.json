@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T04:06:51.986Z",
+  "generatedAt": "2026-10-28T12:09:18.806Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,71 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayoz0ar",
+      "title": "Comment le libre accès aux publications scientifiques nourrit l’innovation industrielle : ce que révèle l’analyse de 500 000 brevets",
+      "summary": "Dans quelle mesure la recheche nourrit-elle l’innovation ? Dennis Scherdt/Unsplash, CC BY L’ESSENTIEL Une étude sur près de 500 000 brevets examine la façon dont les publications scientifiques alimentent l’innovation. Les publications en libre accès sont, en moyenne, surreprésentées de 38 % dans les références des brev",
+      "link": "https://theconversation.com/comment-le-libre-acces-aux-publications-scientifiques-nourrit-linnovation-industrielle-ce-que-revele-lanalyse-de-500-000-brevets-294166",
+      "image": "https://images.theconversation.com/files/767498/original/file-20261021-50-g3xyy5.jpg?ixlib=rb-4.1.1&amp;rect=211%2C274%2C2188%2C1459&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-28T10:42:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atp9ogo",
+      "title": "Route du rhum : et si l’on s’inspirait de la F1 pour améliorer la sécurité des skippers et celle des cétacés ?",
+      "summary": "L’ESSENTIEL Les vitesses atteintes par les bateaux engagés sur la Route du rhum peuvent atteindre des valeurs proches des 100 km/h. À ces allures, un choc avec un animal, comme une tortue ou un cétacé, peut avoir des conséquences dramatiques. Faut-il réduire la vitesse de ces navires en s’inspirant des mesures mises en",
+      "link": "https://theconversation.com/route-du-rhum-et-si-lon-sinspirait-de-la-f1-pour-ameliorer-la-securite-des-skippers-et-celle-des-cetaces-294289",
+      "image": "https://counter.theconversation.com/content/294289/count.gif",
+      "publishedAt": "2026-10-28T10:42:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ah69q0u",
+      "title": "Passe-muraille quantique : une nouvelle expérience sur l’effet tunnel relance le débat sur l’interprétation de la physique quantique",
+      "summary": "L’ESSENTIEL La mécanique quantique est née il y a une centaine d’années. Elle a, depuis, permis de nombreux progrès technologiques, dont les LED, les IRM, les lasers. Mais son interprétation reste surprenante pour les novices et un sujet de débat pour les spécialistes, notamment les philosophes. À l’époque, Louis de Br",
+      "link": "https://theconversation.com/passe-muraille-quantique-une-nouvelle-experience-sur-leffet-tunnel-relance-le-debat-sur-linterpretation-de-la-physique-quantique-293030",
+      "image": "https://counter.theconversation.com/content/293030/count.gif",
+      "publishedAt": "2026-10-28T10:41:48.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apzjkhj",
+      "title": "La France pourrait perdre l’un de ses plus beaux dinosaures lors d’une vente aux enchères",
+      "summary": "Une reconstitution en chair réalisée par Michel Fontaine du dinosaure *Dubreuillosaurus*. Michel Fontaine, Fourni par l'auteur L’ESSENTIEL Un squelette de dinosaure vieux de 167 millions d’années va être vendu aux enchères, le 18 novembre 2026. Ce fossile a une importance capitale pour les paléontologues et pour la sci",
+      "link": "https://theconversation.com/la-france-pourrait-perdre-lun-de-ses-plus-beaux-dinosaures-lors-dune-vente-aux-encheres-293344",
+      "image": "https://images.theconversation.com/files/768482/original/file-20261027-52-r6uv3t.jpg?ixlib=rb-4.1.1&amp;rect=115%2C0%2C1417%2C944&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-28T10:41:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -151,87 +215,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aylycsd",
-      "title": "Qui doit payer les morts ? Une histoire politique du prix des obsèques",
-      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
-      "link": "https://theconversation.com/qui-doit-payer-les-morts-une-histoire-politique-du-prix-des-obseques-278246",
-      "image": "https://counter.theconversation.com/content/278246/count.gif",
-      "publishedAt": "2026-10-27T15:19:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afd0wo8",
-      "title": "Pourquoi le narcotrafic résiste si bien à la répression policière ? Ce que l’expérience brésilienne peut enseigner à la France",
-      "summary": "L’ESSENTIEL Le durcissement de la réponse pénale pour contrer la montée du narcotrafic est-il vraiment efficace ? Étude de cas au Brésil et en France. Engager les forces de police dans une logique d’affrontement peut couper celles-ci d’une partie de la population, pourtant indispensable pour démanteler les réseaux. Les",
-      "link": "https://theconversation.com/pourquoi-le-narcotrafic-resiste-si-bien-a-la-repression-policiere-ce-que-lexperience-bresilienne-peut-enseigner-a-la-france-291853",
-      "image": "https://counter.theconversation.com/content/291853/count.gif",
-      "publishedAt": "2026-10-27T15:14:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ak6h77a",
-      "title": "Couper l’aide au développement au nom de l’intérêt national : le paradoxe des pays donateurs",
-      "summary": "L’ESSENTIEL Les crédits consacrés à l’aide publique au développement (APD) ne cessent de baisser, sur fond d’accusations d’inefficacité et de gaspillage d’argent public. Pourtant, les recherches montrent que l’APD sert aussi les intérêts économiques et géopolitiques des donateurs, parfois au détriment de l’objectif ini",
-      "link": "https://theconversation.com/couper-laide-au-developpement-au-nom-de-linteret-national-le-paradoxe-des-pays-donateurs-293771",
-      "image": "https://counter.theconversation.com/content/293771/count.gif",
-      "publishedAt": "2026-10-27T15:13:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6hlpz4",
-      "title": "Comment Moody’s, S&P et Fitch, les Big Three, ont-ils construit leur légitimité ?",
-      "summary": "L’ESSENTIEL L’histoire des Big Three, Moody’s, Standard and Poor’s (S&P) et Fitch, est moins celle d’une conquête du pouvoir que celle de la construction progressive de leur légitimité auprès des investisseurs et des régulateurs. Le succès initial des agences de notation repose sur une innovation majeure : transformer ",
-      "link": "https://theconversation.com/comment-moodys-sandp-et-fitch-les-big-three-ont-ils-construit-leur-legitimite-285724",
-      "image": "https://counter.theconversation.com/content/285724/count.gif",
-      "publishedAt": "2026-10-27T15:11:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aagk9er",
-      "title": "Annuler la dette détenue par la Banque centrale européenne, c’est changer la nature de l’euro",
-      "summary": "L’ESSENTIEL En France, des responsables politiques appellent à annuler une partie de la dette détenue par l’Eurosystème, l’autorité monétaire de la zone euro. Il ne faut pas oublier que la monnaie de l’Eurosystème, l’euro, est une dette. L’Eurosystème ne peut absorber de la dette française sans compromettre la confianc",
-      "link": "https://theconversation.com/annuler-la-dette-detenue-par-la-banque-centrale-europeenne-cest-changer-la-nature-de-leuro-293882",
-      "image": "https://counter.theconversation.com/content/293882/count.gif",
-      "publishedAt": "2026-10-27T15:11:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 69,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +233,87 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aylycsd",
+      "title": "Qui doit payer les morts ? Une histoire politique du prix des obsèques",
+      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
+      "link": "https://theconversation.com/qui-doit-payer-les-morts-une-histoire-politique-du-prix-des-obseques-278246",
+      "image": "https://counter.theconversation.com/content/278246/count.gif",
+      "publishedAt": "2026-10-27T15:19:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "afd0wo8",
+      "title": "Pourquoi le narcotrafic résiste si bien à la répression policière ? Ce que l’expérience brésilienne peut enseigner à la France",
+      "summary": "L’ESSENTIEL Le durcissement de la réponse pénale pour contrer la montée du narcotrafic est-il vraiment efficace ? Étude de cas au Brésil et en France. Engager les forces de police dans une logique d’affrontement peut couper celles-ci d’une partie de la population, pourtant indispensable pour démanteler les réseaux. Les",
+      "link": "https://theconversation.com/pourquoi-le-narcotrafic-resiste-si-bien-a-la-repression-policiere-ce-que-lexperience-bresilienne-peut-enseigner-a-la-france-291853",
+      "image": "https://counter.theconversation.com/content/291853/count.gif",
+      "publishedAt": "2026-10-27T15:14:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ak6h77a",
+      "title": "Couper l’aide au développement au nom de l’intérêt national : le paradoxe des pays donateurs",
+      "summary": "L’ESSENTIEL Les crédits consacrés à l’aide publique au développement (APD) ne cessent de baisser, sur fond d’accusations d’inefficacité et de gaspillage d’argent public. Pourtant, les recherches montrent que l’APD sert aussi les intérêts économiques et géopolitiques des donateurs, parfois au détriment de l’objectif ini",
+      "link": "https://theconversation.com/couper-laide-au-developpement-au-nom-de-linteret-national-le-paradoxe-des-pays-donateurs-293771",
+      "image": "https://counter.theconversation.com/content/293771/count.gif",
+      "publishedAt": "2026-10-27T15:13:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6hlpz4",
+      "title": "Comment Moody’s, S&P et Fitch, les Big Three, ont-ils construit leur légitimité ?",
+      "summary": "L’ESSENTIEL L’histoire des Big Three, Moody’s, Standard and Poor’s (S&P) et Fitch, est moins celle d’une conquête du pouvoir que celle de la construction progressive de leur légitimité auprès des investisseurs et des régulateurs. Le succès initial des agences de notation repose sur une innovation majeure : transformer ",
+      "link": "https://theconversation.com/comment-moodys-sandp-et-fitch-les-big-three-ont-ils-construit-leur-legitimite-285724",
+      "image": "https://counter.theconversation.com/content/285724/count.gif",
+      "publishedAt": "2026-10-27T15:11:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aagk9er",
+      "title": "Annuler la dette détenue par la Banque centrale européenne, c’est changer la nature de l’euro",
+      "summary": "L’ESSENTIEL En France, des responsables politiques appellent à annuler une partie de la dette détenue par l’Eurosystème, l’autorité monétaire de la zone euro. Il ne faut pas oublier que la monnaie de l’Eurosystème, l’euro, est une dette. L’Eurosystème ne peut absorber de la dette française sans compromettre la confianc",
+      "link": "https://theconversation.com/annuler-la-dette-detenue-par-la-banque-centrale-europeenne-cest-changer-la-nature-de-leuro-293882",
+      "image": "https://counter.theconversation.com/content/293882/count.gif",
+      "publishedAt": "2026-10-27T15:11:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +329,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -281,7 +345,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -297,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -313,7 +377,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,7 +395,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +413,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -367,7 +431,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -383,7 +447,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -399,7 +463,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -415,7 +479,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +497,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,8 +513,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "awvpvb4",
@@ -465,73 +529,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aluq4m0",
-      "title": "Pour mieux anticiper les séismes en France, garder la mémoire des précédents",
-      "summary": "L’ESSENTIEL En France, où les séismes sont rares, nous avons tendance à oublier ceux du passé. L’expérience acquise lors de ces événements est donc perdue plutôt que valorisée. Analyser les réponses à ces séismes ou à ceux ayant eu lieu dans d’autres pays permet de tirer des enseignements. « Là où la Terre a déjà tremb",
-      "link": "https://theconversation.com/pour-mieux-anticiper-les-seismes-en-france-garder-la-memoire-des-precedents-294528",
-      "image": "https://counter.theconversation.com/content/294528/count.gif",
-      "publishedAt": "2026-10-25T07:06:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awyildb",
-      "title": "Modifier le génome des embryons humains : entre espoir et inquiétude, les questions soulevées par les avancées scientifiques récentes",
-      "summary": "L’ESSENTIEL Les nouvelles techniques de biologie moléculaire permettent de modifier de plus en plus précisément certaines lettres de l’ADN dans des embryons humains. Ces techniques d’« édition du génome » présentent des risques encore mal maîtrisés, et les situations médicales qui justifieraient de les employer sont pa",
-      "link": "https://theconversation.com/modifier-le-genome-des-embryons-humains-entre-espoir-et-inquietude-les-questions-soulevees-par-les-avancees-scientifiques-recentes-291694",
-      "image": "https://images.theconversation.com/files/767344/original/file-20261020-50-vz3mki.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-25T07:06:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agajc1v",
-      "title": "Le Pen, Mélenchon : qui gagne le match populiste ?",
-      "summary": "L’ESSENTIEL À quelques mois de la présidentielle, les attitudes populistes sont prédominantes dans l’opinion publique française. Face à Jean-Luc Mélenchon, Marine Le Pen mobilise mieux les électrices et électeurs populistes. L’avantage populiste de la candidate RN opère en particulier à droite et chez les non-affiliés ",
-      "link": "https://theconversation.com/le-pen-melenchon-qui-gagne-le-match-populiste-294530",
-      "image": "https://counter.theconversation.com/content/294530/count.gif",
-      "publishedAt": "2026-10-25T07:05:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "abm9hgr",
-      "title": "Qui peut protéger le royaume saoudien ?",
-      "summary": "L’ESSENTIEL Très réticent à s’engager aux côtés de l’Arabie saoudite face aux houthistes du Yémen, Donald Trump semble laisser à d’autres acteurs le rôle de protecteurs de Riyad. Une alliance avec Israël serait politiquement trop coûteuse pour les dirigeants saoudiens, et le pacte passé avec le Pakistan et la Turquie e",
-      "link": "https://theconversation.com/qui-peut-proteger-le-royaume-saoudien-294696",
-      "image": "https://counter.theconversation.com/content/294696/count.gif",
-      "publishedAt": "2026-10-25T07:05:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 39,
       "urgencyLevel": "basse"
     },
     {
@@ -549,25 +547,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 14,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a11awfe",
-      "title": "SVT : quelle biodiversité pour Halloween ?",
-      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
-      "publishedAt": "2026-10-19T02:00:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 4,
+      "urgency": 13,
       "urgencyLevel": "basse"
     },
     {
@@ -587,6 +567,24 @@
       "urgencyLevel": "basse"
     },
     {
+      "id": "a11awfe",
+      "title": "SVT : quelle biodiversité pour Halloween ?",
+      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
+      "publishedAt": "2026-10-19T02:00:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 3,
+      "urgencyLevel": "basse"
+    },
+    {
       "id": "a63vck8",
       "title": "Les 5 films à voir durant ces vacances",
       "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
@@ -599,7 +597,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 4,
+      "urgency": 3,
       "urgencyLevel": "basse"
     },
     {
@@ -615,7 +613,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 4,
+      "urgency": 3,
       "urgencyLevel": "basse"
     },
     {
@@ -631,7 +629,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 4,
+      "urgency": 3,
       "urgencyLevel": "basse"
     },
     {
@@ -647,7 +645,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 4,
+      "urgency": 3,
       "urgencyLevel": "basse"
     },
     {
@@ -665,7 +663,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 3,
+      "urgency": 2,
       "urgencyLevel": "basse"
     },
     {
@@ -681,7 +679,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 3,
+      "urgency": 2,
       "urgencyLevel": "basse"
     },
     {
