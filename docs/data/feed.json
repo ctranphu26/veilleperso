@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:29:35.552Z",
+  "generatedAt": "2026-10-29T12:20:00.045Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,70 @@
   "count": 35,
   "items": [
     {
+      "id": "ag3lowh",
+      "title": "Quiz - Comment les sorcières sont devenues des icônes féministes",
+      "summary": "Femmes accusées d'être sorcières brûlées sur le bûcher à Derenburg en 1555 Wikimedia Commons, CC BY-SA 🧙‍♀️ Sorcières : entre persécutions, mythes et révoltes féministes Longtemps traquées, accusées de pactiser avec le diable et condamnées au bûcher, les sorcières sont aujourd’hui devenues des symboles de liberté et d",
+      "link": "https://theconversation.com/quiz-comment-les-sorcieres-sont-devenues-des-icones-feministes-295294",
+      "image": "https://images.theconversation.com/files/768578/original/file-20261027-52-k7lfp1.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1687%2C1125&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-29T09:32:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "asu8jlt",
+      "title": "En Israël, Netanyahou désavoué dans les urnes peut encore rester au pouvoir",
+      "summary": "L’ESSENTIEL Les élections israéliennes du 27 octobre 2026 figuraient parmi les scrutins les plus attendus de l’histoire du pays. Lourdes de conséquences, elles n’ont toutefois pas encore livré de résultat décisif. Alors que la quasi-totalité des voix ont été dépouillées, on ignore encore qui dirigera le pays à l’issue ",
+      "link": "https://theconversation.com/en-israel-netanyahou-desavoue-dans-les-urnes-peut-encore-rester-au-pouvoir-295469",
+      "image": "https://images.theconversation.com/files/768959/original/file-20261028-52-o2zq9c.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-29T10:52:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7vd367",
+      "title": "Effacement électrique : la Cour des comptes dénonce une politique coûteuse et inefficace",
+      "summary": "L’ESSENTIEL L’effacement de consommation électrique consiste à réduire ou à suspendre temporairement la consommation d’électricité d’un client (industriels, entreprises tertiaires et, dans certains cas, particuliers) lors des pics de demande. Les entreprises sont rémunérées pour ce geste prévu par des contrats spécifiq",
+      "link": "https://theconversation.com/effacement-electrique-la-cour-des-comptes-denonce-une-politique-couteuse-et-inefficace-294262",
+      "image": "https://counter.theconversation.com/content/294262/count.gif",
+      "publishedAt": "2026-10-29T09:35:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "akrew61",
+      "title": "Comprendre le paradoxe des prix négatifs de l’électricité : quand la rareté change de camp",
+      "summary": "L’ESSENTIEL Les prix négatifs que peut momentanément connaître l’électricité sur certains marchés ne signifient pas qu’elle ne vaut plus rien. Au contraire, ils montrent que la création de valeur économique repose de plus en plus sur la capacité à apporter de la flexibilité au système. La valeur ne récompense plus seul",
+      "link": "https://theconversation.com/comprendre-le-paradoxe-des-prix-negatifs-de-lelectricite-quand-la-rarete-change-de-camp-292514",
+      "image": "https://counter.theconversation.com/content/292514/count.gif",
+      "publishedAt": "2026-10-29T09:35:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a4u8f7v",
       "title": "Face au délitement du pouvoir, la violence est-elle une façon de se faire entendre ?",
       "summary": "L’ESSENTIEL La démocratie repose aussi sur les mouvements sociaux, qui s’expriment par la parole puis par un rapport de forces (grève, blocus, barrage), sans que la force se confonde avec la violence. Ce rapport de forces serait plus difficile à établir, en raison de transformations économiques et politiques et de lois",
@@ -133,7 +197,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -152,7 +216,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -168,7 +232,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -184,7 +248,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -200,7 +264,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -216,7 +280,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,7 +296,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -248,7 +312,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -264,7 +328,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -280,7 +344,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -296,7 +360,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -312,7 +376,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -328,7 +392,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -346,7 +410,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -364,7 +428,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -380,7 +444,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -396,7 +460,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -412,7 +476,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -428,7 +492,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -444,7 +508,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -460,72 +524,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9df2d9",
-      "title": "Is France in 2026, Greece in 2009?",
-      "summary": "France’s ten-year government bond yield reached 5% last week, its highest level in more than two decades. The extra interest it pays over Germany – the “spread” investors use to gauge French-specific risk – has widened dramatically. Parliament is wrestling with a 2027 budget requiring €54 billion in fiscal measures, wh",
-      "link": "https://theconversation.com/is-france-in-2026-greece-in-2009-295259",
-      "image": "https://counter.theconversation.com/content/295259/count.gif",
-      "publishedAt": "2026-10-27T11:08:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqmbpnf",
-      "title": "Brésil : la victoire de Lula à la présidentielle freine la montée de l’extrême droite en Amérique latine",
-      "summary": "En battant Flávio Bolsonaro, le président brésilien de gauche Luiz Inácio Lula da Silva décroche un quatrième mandat historique. Avec le Mexique, le Brésil fait désormais contrepoids à Donald Trump et aux gouvernements conservateurs et d’extrême droite en Amérique latine et au-delà. Antonio Scorza/Shutterstock (no reus",
-      "link": "https://theconversation.com/bresil-la-victoire-de-lula-a-la-presidentielle-freine-la-montee-de-lextreme-droite-en-amerique-latine-295267",
-      "image": "https://images.theconversation.com/files/768487/original/file-20261026-62-r4rrxv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C97%2C5500%2C3666&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-27T11:02:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayyscbp",
-      "title": "Brazil: Lula’s presidential win puts the brakes on the rise of the far right in Latin America",
-      "summary": "KEY TAKEAWAYS Social policies, such as support for small businesses, and a shorter working week without a loss of pay helped president Lula to turn around Brazil’s election. Street protests and social media strengthened Lula’s campaign amid allegations of election interference by Meta favouring Flávio Bolsonaro. Major ",
-      "link": "https://theconversation.com/brazil-lulas-presidential-win-puts-the-brakes-on-the-rise-of-the-far-right-in-latin-america-295219",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-27T10:23:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awoeus3",
-      "title": "Micropesanteur et réactivation virale : ce que les séjours dans l’espace révèlent de notre immunité",
-      "summary": "L’ESSENTIEL Dans l’espace, le système immunitaire des astronautes subit des perturbations, dues notamment à la micropesanteur. Une des conséquences est la réactivation de certains virus, tels que les Herpesvirus, qui persistent à l’état latent dans les organismes. Ce problème, qui s’ajoute aux autres effets sur la sant",
-      "link": "https://theconversation.com/micropesanteur-et-reactivation-virale-ce-que-les-sejours-dans-lespace-revelent-de-notre-immunite-294286",
-      "image": "https://counter.theconversation.com/content/294286/count.gif",
-      "publishedAt": "2026-10-26T15:08:22.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
     },
     {
       "id": "ah8f6zh",
@@ -542,105 +542,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 13,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a11awfe",
-      "title": "SVT : quelle biodiversité pour Halloween ?",
-      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
-      "publishedAt": "2026-10-19T02:00:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 3,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amyugyz",
-      "title": "Mobilisation lycéenne : le dossier du Café pédagogique",
-      "summary": "Retrouvez à cette page tous nos articles consacrés à la mobilisation lycéenne. De la mobilisation lycéenne à la mobilisation citoyenne « Profs, lycéens, même combat » : le 6 L’article Mobilisation lycéenne : le dossier du Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/mobilisation-lyceenne-le-dossier-du-cafe-pedagogique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg.webp",
-      "publishedAt": "2026-10-19T09:22:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 3,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a63vck8",
-      "title": "Les 5 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/les-5-films-a-voir-durant-ces-vacances-5/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/affiche-film-hd-225x300.jpg.webp",
-      "publishedAt": "2026-10-19T07:22:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 3,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a4a54qd",
-      "title": "Nos 6 conseils lectures pour ces vacances",
-      "summary": "Retrouvez à cette page 6 conseils lectures pour cette pause automnale. Pour nous soutenir et permettre de poursuivre l’aventure du Café pédagogique, cliquez ici. Merci ! Jennifer Tamas : L’article Nos 6 conseils lectures pour ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/nos-6-conseils-lectures-pour-ces-vacances/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/La-Barbe-bleue-contre-enquete-198x300.jpg.webp",
-      "publishedAt": "2026-10-19T06:19:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 3,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3x1yt2",
-      "title": "5 expos à voir pendant ces vacances d’automne",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’automne. « À la découverte du biomimétisme » aux Abattoirs de Toulouse, jusqu’au 1er novembre 2026. Les différentes vies L’article 5 expos à voir pendant ces vacances d’automne est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/5-expos-a-voir-pendant-les-vacances-dautomne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/affiche-200x300.jpg.webp",
-      "publishedAt": "2026-10-19T06:09:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 3,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agy806g",
-      "title": "Votre Expresso est en vacances",
-      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
-      "publishedAt": "2026-10-19T03:00:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 3,
+      "urgency": 12,
       "urgencyLevel": "basse"
     },
     {
@@ -658,6 +560,104 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
+      "urgency": 2,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a11awfe",
+      "title": "SVT : quelle biodiversité pour Halloween ?",
+      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
+      "publishedAt": "2026-10-19T02:00:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 2,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "amyugyz",
+      "title": "Mobilisation lycéenne : le dossier du Café pédagogique",
+      "summary": "Retrouvez à cette page tous nos articles consacrés à la mobilisation lycéenne. De la mobilisation lycéenne à la mobilisation citoyenne « Profs, lycéens, même combat » : le 6 L’article Mobilisation lycéenne : le dossier du Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/mobilisation-lyceenne-le-dossier-du-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg.webp",
+      "publishedAt": "2026-10-19T09:22:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 2,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a63vck8",
+      "title": "Les 5 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/les-5-films-a-voir-durant-ces-vacances-5/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/affiche-film-hd-225x300.jpg.webp",
+      "publishedAt": "2026-10-19T07:22:30.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 2,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a4a54qd",
+      "title": "Nos 6 conseils lectures pour ces vacances",
+      "summary": "Retrouvez à cette page 6 conseils lectures pour cette pause automnale. Pour nous soutenir et permettre de poursuivre l’aventure du Café pédagogique, cliquez ici. Merci ! Jennifer Tamas : L’article Nos 6 conseils lectures pour ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/nos-6-conseils-lectures-pour-ces-vacances/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/La-Barbe-bleue-contre-enquete-198x300.jpg.webp",
+      "publishedAt": "2026-10-19T06:19:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 2,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3x1yt2",
+      "title": "5 expos à voir pendant ces vacances d’automne",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’automne. « À la découverte du biomimétisme » aux Abattoirs de Toulouse, jusqu’au 1er novembre 2026. Les différentes vies L’article 5 expos à voir pendant ces vacances d’automne est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/5-expos-a-voir-pendant-les-vacances-dautomne/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/affiche-200x300.jpg.webp",
+      "publishedAt": "2026-10-19T06:09:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 2,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agy806g",
+      "title": "Votre Expresso est en vacances",
+      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
+      "publishedAt": "2026-10-19T03:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
       "urgency": 2,
       "urgencyLevel": "basse"
     },
