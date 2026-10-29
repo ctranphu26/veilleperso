@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:20:00.045Z",
+  "generatedAt": "2026-10-29T22:27:35.980Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,124 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8jwmqd",
+      "title": "L’intelligence artificielle rend-elle les artistes plus créatifs ?",
+      "summary": "*Le Théâtre d’opéra spatial* a été créé en 2022 par Jason M. Allen à l’aide du générateur d’images Midjourney. L'œuvre a remporté un prix artistique, mais n’est pas protégée par le droit d’auteur, car les services états-uniens considèrent que l’apport créatif humain n’est pas suffisant. Jason M. Allen L’ESSENTIEL Du ma",
+      "link": "https://theconversation.com/lintelligence-artificielle-rend-elle-les-artistes-plus-creatifs-293465",
+      "image": "https://images.theconversation.com/files/767308/original/file-20261020-50-mze5er.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1156%2C771&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-29T17:19:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle",
+        "image"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at02sh6",
+      "title": "« Thanabots », « au-delà numérique » : comment l’IA transforme le deuil en services payants",
+      "summary": "Il y a une vie après la mort : sur le plan numérique, les « thanabots » en apportent la preuve en recréant virtuellement les proches disparus. AI generated image Fourni par l'auteur L’ESSENTIEL En se fondant sur les données de personnes décédées, des chatbots proposent de dialoguer en ligne avec des défunts. Ces servic",
+      "link": "https://theconversation.com/thanabots-au-dela-numerique-comment-lia-transforme-le-deuil-en-services-payants-293360",
+      "image": "https://images.theconversation.com/files/763323/original/file-20260715-72-zaf0rr.png?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1536%2C1024&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-29T17:23:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "az8k1tz",
+      "title": "Après notre mort, nos données reposent-elles en paix ?",
+      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
+      "link": "https://theconversation.com/apres-notre-mort-nos-donnees-reposent-elles-en-paix-278247",
+      "image": "https://counter.theconversation.com/content/278247/count.gif",
+      "publishedAt": "2026-10-29T17:23:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "av2e6rs",
+      "title": "Moins de bébés après la chaleur : ce que deux études en France et en Italie nous disent (ou pas)",
+      "summary": "Toute l’Europe a connu plusieurs vagues de chaleur longues et sévères au cours de l’été 2026. Davide Bonaldo/Shutterstock (no reuse) L’ESSENTIEL Deux études associent la forte chaleur à moins de naissances neuf à dix mois plus tard, en France et en Italie. Les deux études jugent ce lien réel, mais assez faible. Il pour",
+      "link": "https://theconversation.com/moins-de-bebes-apres-la-chaleur-ce-que-deux-etudes-en-france-et-en-italie-nous-disent-ou-pas-295397",
+      "image": "https://images.theconversation.com/files/768847/original/file-20261013-50-84bzz.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5000%2C3333&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-29T17:22:49.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ad5qq07",
+      "title": "Fascisme : une histoire américaine",
+      "summary": "George Lincoln Rockwell (1918-1967), leader du parti nazi américain (ANP), devant les locaux de son organisation, en 1965. Deux ans plus tard, il sera abattu par un ancien membre du parti, mécontent d’en avoir été expulsé. The Daily News Journal/Wikimédia, CC BY-ND La liberté d’expression protégée par le premier amende",
+      "link": "https://theconversation.com/fascisme-une-histoire-americaine-294393",
+      "image": "https://images.theconversation.com/files/766857/original/file-20261017-50-761w5c.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1300%2C866&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-29T17:22:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avhfbyd",
+      "title": "« Midterms » aux États-Unis : pourquoi les républicains sont sur la défensive, jusque dans leurs bastions",
+      "summary": "Le Capitole, à Washington, siège du Congrès. Lors des midterms, les 435 membres de la Chambre des représentants et environ un tiers des 100 sénateurs sont soumis à réélection. Martin Falbisoner/Wikicommons, CC BY L’ESSENTIEL Le 3 novembre, les citoyens des États-unis sont appelés à renouveler la Chambre des représentan",
+      "link": "https://theconversation.com/midterms-aux-etats-unis-pourquoi-les-republicains-sont-sur-la-defensive-jusque-dans-leurs-bastions-295383",
+      "image": "https://images.theconversation.com/files/768826/original/file-20261028-52-9lgfic.jpg?ixlib=rb-4.1.1&amp;rect=158%2C0%2C963%2C642&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-29T17:22:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "adrkq5",
+      "title": "Le condor est de retour, mais qui a eu son mot à dire ?",
+      "summary": "AC-4 faisait partie des derniers condors de Californie sauvages capturés dans les années 1980 afin de créer un programme de reproduction en captivité. (L’envergure des ailes d’un condor, comme ici, peut atteindre 2,9 mètres.) U.S. Fish and Wildlife Service L’ESSENTIEL Aux États-Unis, après la capture du dernier condor ",
+      "link": "https://theconversation.com/le-condor-est-de-retour-mais-qui-a-eu-son-mot-a-dire-295220",
+      "image": "https://images.theconversation.com/files/768351/original/file-20261018-50-yhu3mx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C170%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-29T17:21:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +264,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7vd367",
@@ -163,8 +280,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akrew61",
@@ -179,8 +296,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4u8f7v",
@@ -197,7 +314,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -216,7 +333,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,7 +349,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -248,7 +365,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -264,7 +381,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -280,7 +397,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -296,7 +413,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -312,7 +429,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -328,7 +445,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -344,7 +461,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -360,7 +477,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -376,7 +493,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -392,43 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqcszyr",
-      "title": "Protéger la biodiversité : et si avant de dépenser plus, on ciblait mieux les efforts ?",
-      "summary": "L'exemple de la jussie, une espèce exotique envahissante que le parc naturel régional de Brière tente de contenir, montre que les sommes allouées à la protection de la biodiversité ne le sont pas toujours de façon optimale. Wikimedia commons, CC BY-NC L’ESSENTIEL En Loire-Atlantique, la lutte contre la jussie, une espè",
-      "link": "https://theconversation.com/proteger-la-biodiversite-et-si-avant-de-depenser-plus-on-ciblait-mieux-les-efforts-292410",
-      "image": "https://images.theconversation.com/files/761704/original/file-20260923-50-egcop9.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1024%2C682&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-27T15:13:06.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "asd2vt1",
-      "title": "Pourquoi Kant jugeait-il les peuples autochtones d’Amérique « incapables de toute culture » ? Enquête sur une source oubliée",
-      "summary": "****— L’ESSENTIEL Kant plaçait les peuples autochtones d’Amérique au bas d’une hiérarchie raciale et les considérait incapables de toute culture. Le récit de voyage qu’il invoque pour justifier ses propos décrit pourtant un déclin historique, et non une incapacité propre à une race. Les préjugés racistes d’un auteur cl",
-      "link": "https://theconversation.com/pourquoi-kant-jugeait-il-les-peuples-autochtones-damerique-incapables-de-toute-culture-enquete-sur-une-source-oubliee-293563",
-      "image": "https://counter.theconversation.com/content/293563/count.gif",
-      "publishedAt": "2026-10-27T15:10:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 42,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -444,88 +525,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afd0wo8",
-      "title": "Pourquoi le narcotrafic résiste si bien à la répression policière ? Ce que l’expérience brésilienne peut enseigner à la France",
-      "summary": "L’ESSENTIEL Le durcissement de la réponse pénale pour contrer la montée du narcotrafic est-il vraiment efficace ? Étude de cas au Brésil et en France. Engager les forces de police dans une logique d’affrontement peut couper celles-ci d’une partie de la population, pourtant indispensable pour démanteler les réseaux. Les",
-      "link": "https://theconversation.com/pourquoi-le-narcotrafic-resiste-si-bien-a-la-repression-policiere-ce-que-lexperience-bresilienne-peut-enseigner-a-la-france-291853",
-      "image": "https://counter.theconversation.com/content/291853/count.gif",
-      "publishedAt": "2026-10-27T15:14:26.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ak6h77a",
-      "title": "Couper l’aide au développement au nom de l’intérêt national : le paradoxe des pays donateurs",
-      "summary": "L’ESSENTIEL Les crédits consacrés à l’aide publique au développement (APD) ne cessent de baisser, sur fond d’accusations d’inefficacité et de gaspillage d’argent public. Pourtant, les recherches montrent que l’APD sert aussi les intérêts économiques et géopolitiques des donateurs, parfois au détriment de l’objectif ini",
-      "link": "https://theconversation.com/couper-laide-au-developpement-au-nom-de-linteret-national-le-paradoxe-des-pays-donateurs-293771",
-      "image": "https://counter.theconversation.com/content/293771/count.gif",
-      "publishedAt": "2026-10-27T15:13:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6hlpz4",
-      "title": "Comment Moody’s, S&P et Fitch, les Big Three, ont-ils construit leur légitimité ?",
-      "summary": "L’ESSENTIEL L’histoire des Big Three, Moody’s, Standard and Poor’s (S&P) et Fitch, est moins celle d’une conquête du pouvoir que celle de la construction progressive de leur légitimité auprès des investisseurs et des régulateurs. Le succès initial des agences de notation repose sur une innovation majeure : transformer ",
-      "link": "https://theconversation.com/comment-moodys-sandp-et-fitch-les-big-three-ont-ils-construit-leur-legitimite-285724",
-      "image": "https://counter.theconversation.com/content/285724/count.gif",
-      "publishedAt": "2026-10-27T15:11:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aagk9er",
-      "title": "Annuler la dette détenue par la Banque centrale européenne, c’est changer la nature de l’euro",
-      "summary": "L’ESSENTIEL En France, des responsables politiques appellent à annuler une partie de la dette détenue par l’Eurosystème, l’autorité monétaire de la zone euro. Il ne faut pas oublier que la monnaie de l’Eurosystème, l’euro, est une dette. L’Eurosystème ne peut absorber de la dette française sans compromettre la confianc",
-      "link": "https://theconversation.com/annuler-la-dette-detenue-par-la-banque-centrale-europeenne-cest-changer-la-nature-de-leuro-293882",
-      "image": "https://counter.theconversation.com/content/293882/count.gif",
-      "publishedAt": "2026-10-27T15:11:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ab98bgm",
-      "title": "Le botulisme, une maladie potentiellement mortelle pour les humains et les animaux",
-      "summary": "L’ESSENTIEL Le botulisme est une maladie due à la très puissante toxine botulique, produite par des bactéries de l’environnement, les clostridies. Il existe plusieurs formes de botulisme humain, les plus répandues étant le botulisme alimentaire et le botulisme infantile. Le botulisme affecte aussi les animaux et peut n",
-      "link": "https://theconversation.com/le-botulisme-une-maladie-potentiellement-mortelle-pour-les-humains-et-les-animaux-249082",
-      "image": "https://images.theconversation.com/files/768457/original/file-20261027-63-on088a.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-27T11:57:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ah8f6zh",
@@ -543,24 +544,6 @@
       "relevance": 55,
       "relevanceLevel": "moyenne",
       "urgency": 12,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aawym8l",
-      "title": "16 ressources mises en avant par le Café pédagogique",
-      "summary": "Retrouvez sur cette page 16 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Innover en lycée professionnel : un dispositif inventé L’article 16 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/18/16-ressources-mises-en-avant-par-le-cafe-pedagogique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/ouguel-e1774456873975-236x300.jpeg",
-      "publishedAt": "2026-10-18T06:51:07.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 2,
       "urgencyLevel": "basse"
     },
     {
@@ -675,6 +658,24 @@
       "relevance": 48,
       "relevanceLevel": "moyenne",
       "urgency": 2,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aawym8l",
+      "title": "16 ressources mises en avant par le Café pédagogique",
+      "summary": "Retrouvez sur cette page 16 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Innover en lycée professionnel : un dispositif inventé L’article 16 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/18/16-ressources-mises-en-avant-par-le-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/ouguel-e1774456873975-236x300.jpeg",
+      "publishedAt": "2026-10-18T06:51:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 1,
       "urgencyLevel": "basse"
     },
     {
