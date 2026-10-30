@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:29:30.878Z",
+  "generatedAt": "2026-10-30T12:10:38.564Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "ali3an4",
+      "title": "Comment les abeilles transforment leur ruche en « système immunitaire » vivant contre les maladies",
+      "summary": "Un cadre couvert d’abeilles mellifères, sorti d’une ruche installée dans une exploitation de cerises près de Young, en Nouvelle-Galles du Sud (Australie). Nick Pitsas/CSIRO/Wikimedia Commons, CC BY, CC BY L’ESSENTIEL En Australie, des chercheurs ont analysé 24 colonies d’abeilles mellifères pour comprendre comment une ",
+      "link": "https://theconversation.com/comment-les-abeilles-transforment-leur-ruche-en-systeme-immunitaire-vivant-contre-les-maladies-295521",
+      "image": "https://images.theconversation.com/files/769219/original/file-20261030-64-p608c8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C2%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-30T08:01:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ag3lowh",
       "title": "Quiz - Comment les sorcières sont devenues des icônes féministes",
       "summary": "Femmes accusées d'être sorcières brûlées sur le bûcher à Derenburg en 1555 Wikimedia Commons, CC BY-SA 🧙‍♀️ Sorcières : entre persécutions, mythes et révoltes féministes Longtemps traquées, accusées de pactiser avec le diable et condamnées au bûcher, les sorcières sont aujourd’hui devenues des symboles de liberté et d",
@@ -131,8 +147,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8jwmqd",
@@ -150,7 +166,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -168,7 +184,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -184,7 +200,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -200,7 +216,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -216,7 +232,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,14 +248,14 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "adrkq5",
-      "title": "Le condor est de retour, mais qui a eu son mot à dire ?",
+      "id": "a7ua2a0",
+      "title": "Le condor de Californie a été sauvé, mais à quel prix, et pour qui ?",
       "summary": "AC-4 faisait partie des derniers condors de Californie sauvages capturés dans les années 1980 afin de créer un programme de reproduction en captivité. (L’envergure des ailes d’un condor, comme ici, peut atteindre 2,9 mètres.) U.S. Fish and Wildlife Service L’ESSENTIEL Aux États-Unis, après la capture du dernier condor ",
-      "link": "https://theconversation.com/le-condor-est-de-retour-mais-qui-a-eu-son-mot-a-dire-295220",
+      "link": "https://theconversation.com/le-condor-de-californie-a-ete-sauve-mais-a-quel-prix-et-pour-qui-295220",
       "image": "https://images.theconversation.com/files/768351/original/file-20261018-50-yhu3mx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C170%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-10-29T17:21:11.000Z",
       "source": "The Conversation (FR)",
@@ -248,7 +264,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -264,7 +280,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -280,7 +296,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -296,30 +312,12 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4u8f7v",
-      "title": "Face au délitement du pouvoir, la violence est-elle une façon de se faire entendre ?",
-      "summary": "L’ESSENTIEL La démocratie repose aussi sur les mouvements sociaux, qui s’expriment par la parole puis par un rapport de forces (grève, blocus, barrage), sans que la force se confonde avec la violence. Ce rapport de forces serait plus difficile à établir, en raison de transformations économiques et politiques et de lois",
-      "link": "https://theconversation.com/face-au-delitement-du-pouvoir-la-violence-est-elle-une-facon-de-se-faire-entendre-295215",
-      "image": "https://counter.theconversation.com/content/295215/count.gif",
-      "publishedAt": "2026-10-27T15:14:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "formation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
       "id": "a6to1yj",
-      "title": "Comment le « sensitivity reading » transforme le travail éditorial",
+      "title": "Comment le « sensitivity reading » transforme le travail éditorial",
       "summary": "Les *sensitivity readers* repèrent des stéréotypes ou des inexactitudes dans les textes qu’ils révisent. Fourni par l'auteur L’ESSENTIEL Les « sensitivity readers » sont encore mal connus aux yeux du grand public, et parfois assimilés à des censeurs. Attentifs à la représentation d’une expérience, d’une culture ou d’un",
       "link": "https://theconversation.com/comment-le-sensitivity-reading-transforme-le-travail-editorial-293799",
       "image": "https://images.theconversation.com/files/767732/original/file-20261022-60-3w09bj.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C242%2C1206%2C804&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
@@ -333,7 +331,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +347,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -365,7 +363,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,7 +379,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -397,7 +395,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -413,7 +411,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -429,7 +427,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -445,7 +443,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -461,8 +459,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "atp9ogo",
@@ -477,8 +475,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ah69q0u",
@@ -493,8 +491,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apzjkhj",
@@ -509,8 +507,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aylycsd",
@@ -525,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
