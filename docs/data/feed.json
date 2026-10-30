@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:10:38.564Z",
+  "generatedAt": "2026-10-30T21:56:45.621Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,71 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac0dtsp",
+      "title": "BD : « Le corps après la mort »",
+      "summary": "Les rites funéraires se transforment au fil du temps. Qui sait à quoi ils ressembleront demain ? Victor Locuratolo (Vito), Fourni par l'auteur Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cime",
+      "link": "https://theconversation.com/bd-le-corps-apres-la-mort-290584",
+      "image": "https://images.theconversation.com/files/769320/original/file-20261030-64-8uqf6v.jpg?ixlib=rb-4.1.1&amp;rect=332%2C498%2C955%2C637&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-30T17:46:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayos8ac",
+      "title": "Quarante jours pour arriver, quarante jours pour partir : comment la culture arménienne accompagne les morts et les naissances",
+      "summary": "Une femme portant un enfant se tient devant des cierges allumés dans le monastère de Tatev, haut lieu de l’Église apostolique arménienne, dans le sud de l’Arménie. Vyacheslav Argenberg/Wikimedia Commons L’ESSENTIEL En Arménie, la mère et le nouveau-né restent 40 jours à l’abri du monde, avant d’être présentés à l’églis",
+      "link": "https://theconversation.com/quarante-jours-pour-arriver-quarante-jours-pour-partir-comment-la-culture-armenienne-accompagne-les-morts-et-les-naissances-295512",
+      "image": "https://images.theconversation.com/files/769108/original/file-20261029-78-6kgp2v.jpg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C1276%2C851&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-30T16:14:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "af3w9k7",
+      "title": "Comment les Victoriens ont transformé la communication avec les morts en commerce lucratif",
+      "summary": "Lévitation d’une table lors d’une séance spirite. Enrico Morselli/Wikimedia Commons L’ESSENTIEL Dès la fin des années 1840, le spiritisme venu des États-Unis a fait du contact avec les morts un marché britannique : séances, photographies, produits. Des médiums comme Daniel Dunglas Home refusaient tout paiement direct m",
+      "link": "https://theconversation.com/comment-les-victoriens-ont-transforme-la-communication-avec-les-morts-en-commerce-lucratif-295517",
+      "image": "https://images.theconversation.com/files/769109/original/file-20261015-50-wnncar.png?ixlib=rb-4.1.1&amp;rect=0%2C13%2C1598%2C1065&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-30T16:13:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "abkbrm6",
+      "title": "Pourquoi certaines mères chimpanzés prennent-elles soin de leur petit mort pendant des mois ?",
+      "summary": "Les chimpanzés, nos plus proches parents vivants avec les bonobos, perçoivent-ils la mort comme nous ? jindrich_pavelka/Shutterstock L’ESSENTIEL Dans 15 communautés de chimpanzés et de bonobos étudiées, des mères ont porté leur petit mort pendant des semaines, parfois des mois. La cause du décès pèse le plus : les peti",
+      "link": "https://theconversation.com/pourquoi-certaines-meres-chimpanzes-prennent-elles-soin-de-leur-petit-mort-pendant-des-mois-295509",
+      "image": "https://images.theconversation.com/files/769097/original/file-20260921-50-s9qpw1.jpg?ixlib=rb-4.1.1&amp;rect=38%2C0%2C4478%2C2984&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-30T16:09:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +211,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -166,7 +230,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -184,7 +248,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -200,7 +264,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -216,7 +280,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,7 +296,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -248,7 +312,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -264,7 +328,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -280,7 +344,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -296,7 +360,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -312,7 +376,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -331,8 +395,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aanmr0b",
@@ -347,8 +411,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ao6k3b6",
@@ -363,8 +427,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "asp8e3l",
@@ -379,8 +443,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aagdf6x",
@@ -395,8 +459,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a8yebb1",
@@ -411,8 +475,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "atoe6ah",
@@ -427,8 +491,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a7yyrd7",
@@ -443,8 +507,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ayoz0ar",
@@ -459,71 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atp9ogo",
-      "title": "Route du rhum : et si l’on s’inspirait de la F1 pour améliorer la sécurité des skippers et celle des cétacés ?",
-      "summary": "L’ESSENTIEL Les vitesses atteintes par les bateaux engagés sur la Route du rhum peuvent atteindre des valeurs proches des 100 km/h. À ces allures, un choc avec un animal, comme une tortue ou un cétacé, peut avoir des conséquences dramatiques. Faut-il réduire la vitesse de ces navires en s’inspirant des mesures mises en",
-      "link": "https://theconversation.com/route-du-rhum-et-si-lon-sinspirait-de-la-f1-pour-ameliorer-la-securite-des-skippers-et-celle-des-cetaces-294289",
-      "image": "https://counter.theconversation.com/content/294289/count.gif",
-      "publishedAt": "2026-10-28T10:42:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ah69q0u",
-      "title": "Passe-muraille quantique : une nouvelle expérience sur l’effet tunnel relance le débat sur l’interprétation de la physique quantique",
-      "summary": "L’ESSENTIEL La mécanique quantique est née il y a une centaine d’années. Elle a, depuis, permis de nombreux progrès technologiques, dont les LED, les IRM, les lasers. Mais son interprétation reste surprenante pour les novices et un sujet de débat pour les spécialistes, notamment les philosophes. À l’époque, Louis de Br",
-      "link": "https://theconversation.com/passe-muraille-quantique-une-nouvelle-experience-sur-leffet-tunnel-relance-le-debat-sur-linterpretation-de-la-physique-quantique-293030",
-      "image": "https://counter.theconversation.com/content/293030/count.gif",
-      "publishedAt": "2026-10-28T10:41:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apzjkhj",
-      "title": "La France pourrait perdre l’un de ses plus beaux dinosaures lors d’une vente aux enchères",
-      "summary": "Une reconstitution en chair réalisée par Michel Fontaine du dinosaure *Dubreuillosaurus*. Michel Fontaine, Fourni par l'auteur L’ESSENTIEL Un squelette de dinosaure vieux de 167 millions d’années va être vendu aux enchères, le 18 novembre 2026. Ce fossile a une importance capitale pour les paléontologues et pour la sci",
-      "link": "https://theconversation.com/la-france-pourrait-perdre-lun-de-ses-plus-beaux-dinosaures-lors-dune-vente-aux-encheres-293344",
-      "image": "https://images.theconversation.com/files/768482/original/file-20261027-52-r6uv3t.jpg?ixlib=rb-4.1.1&amp;rect=115%2C0%2C1417%2C944&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-28T10:41:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aylycsd",
-      "title": "Qui doit payer les morts ? Une histoire politique du prix des obsèques",
-      "summary": "Que deviennent nos corps après notre décès ? Dans des sociétés où la mort est de plus en plus invisibilisée, comment ont évolué nos rites ? Demain, à quoi ressembleront les cimetières ? L’enterrement ou la crémation seront-ils remplacés par d’autres méthodes ? Comment le numérique transformera-t-il nos pratiques funéra",
-      "link": "https://theconversation.com/qui-doit-payer-les-morts-une-histoire-politique-du-prix-des-obseques-278246",
-      "image": "https://counter.theconversation.com/content/278246/count.gif",
-      "publishedAt": "2026-10-27T15:19:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -541,25 +541,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 12,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a11awfe",
-      "title": "SVT : quelle biodiversité pour Halloween ?",
-      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
-      "publishedAt": "2026-10-19T02:00:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 2,
+      "urgency": 11,
       "urgencyLevel": "basse"
     },
     {
@@ -569,70 +551,6 @@
       "link": "https://www.cafepedagogique.net/2026/10/19/mobilisation-lyceenne-le-dossier-du-cafe-pedagogique/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg.webp",
       "publishedAt": "2026-10-19T09:22:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 2,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a63vck8",
-      "title": "Les 5 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/les-5-films-a-voir-durant-ces-vacances-5/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/affiche-film-hd-225x300.jpg.webp",
-      "publishedAt": "2026-10-19T07:22:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 2,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a4a54qd",
-      "title": "Nos 6 conseils lectures pour ces vacances",
-      "summary": "Retrouvez à cette page 6 conseils lectures pour cette pause automnale. Pour nous soutenir et permettre de poursuivre l’aventure du Café pédagogique, cliquez ici. Merci ! Jennifer Tamas : L’article Nos 6 conseils lectures pour ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/nos-6-conseils-lectures-pour-ces-vacances/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/La-Barbe-bleue-contre-enquete-198x300.jpg.webp",
-      "publishedAt": "2026-10-19T06:19:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 2,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3x1yt2",
-      "title": "5 expos à voir pendant ces vacances d’automne",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’automne. « À la découverte du biomimétisme » aux Abattoirs de Toulouse, jusqu’au 1er novembre 2026. Les différentes vies L’article 5 expos à voir pendant ces vacances d’automne est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/5-expos-a-voir-pendant-les-vacances-dautomne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/affiche-200x300.jpg.webp",
-      "publishedAt": "2026-10-19T06:09:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 2,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agy806g",
-      "title": "Votre Expresso est en vacances",
-      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
-      "publishedAt": "2026-10-19T03:00:21.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
@@ -675,6 +593,88 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
+      "urgency": 1,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a11awfe",
+      "title": "SVT : quelle biodiversité pour Halloween ?",
+      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
+      "publishedAt": "2026-10-19T02:00:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "diversité"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 1,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a63vck8",
+      "title": "Les 5 films à voir durant ces vacances",
+      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/les-5-films-a-voir-durant-ces-vacances-5/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/affiche-film-hd-225x300.jpg.webp",
+      "publishedAt": "2026-10-19T07:22:30.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 1,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a4a54qd",
+      "title": "Nos 6 conseils lectures pour ces vacances",
+      "summary": "Retrouvez à cette page 6 conseils lectures pour cette pause automnale. Pour nous soutenir et permettre de poursuivre l’aventure du Café pédagogique, cliquez ici. Merci ! Jennifer Tamas : L’article Nos 6 conseils lectures pour ces vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/nos-6-conseils-lectures-pour-ces-vacances/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/La-Barbe-bleue-contre-enquete-198x300.jpg.webp",
+      "publishedAt": "2026-10-19T06:19:00.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 1,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a3x1yt2",
+      "title": "5 expos à voir pendant ces vacances d’automne",
+      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’automne. « À la découverte du biomimétisme » aux Abattoirs de Toulouse, jusqu’au 1er novembre 2026. Les différentes vies L’article 5 expos à voir pendant ces vacances d’automne est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/5-expos-a-voir-pendant-les-vacances-dautomne/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/affiche-200x300.jpg.webp",
+      "publishedAt": "2026-10-19T06:09:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 1,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agy806g",
+      "title": "Votre Expresso est en vacances",
+      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
+      "publishedAt": "2026-10-19T03:00:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
       "urgency": 1,
       "urgencyLevel": "basse"
     },
