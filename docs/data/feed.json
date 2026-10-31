@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:50:59.207Z",
+  "generatedAt": "2026-10-31T20:59:55.587Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,24 @@
   "count": 35,
   "items": [
     {
+      "id": "a7euipd",
+      "title": "Du Kenya à la France, le masque, signe de ralliement de la génération Z",
+      "summary": "L’ESSENTIEL En 2020, l’État a d’abord dissuadé la population de porter un masque qu’il ne pouvait pas fournir, avant de l’imposer, jusqu’au collège et au lycée à la rentrée, puis à l’école élémentaire. Dans les mobilisations lycéennes de 2026, le masque chirurgical ou FFP2 protège des gaz lacrymogènes et cache le visag",
+      "link": "https://theconversation.com/du-kenya-a-la-france-le-masque-signe-de-ralliement-de-la-generation-z-295564",
+      "image": "https://counter.theconversation.com/content/295564/count.gif",
+      "publishedAt": "2026-10-31T16:49:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a4xs5v0",
       "title": "Cinq aliments qui pourraient coûter encore plus cher cet hiver au Royaume-Uni et pourquoi",
       "summary": "La récolte du cacao demande un travail manuel, qui en fait une culture difficile à mener à l’échelle industrielle. Milequem Diarassouba/Wikimedia Commons, CC BY L’ESSENTIEL Au Royaume-Uni, chocolat, pommes de terre et pain pourraient renchérir cet hiver, sur fond de météo erratique et d’énergie chère. Avec un cacao plu",
@@ -131,8 +149,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1nt5vb",
@@ -149,8 +167,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aixyfa",
@@ -165,8 +183,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apx08cz",
@@ -181,8 +199,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ali3an4",
@@ -197,7 +215,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +231,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -229,7 +247,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -245,7 +263,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -261,7 +279,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -277,7 +295,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -296,8 +314,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "at02sh6",
@@ -314,8 +332,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "az8k1tz",
@@ -330,8 +348,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "av2e6rs",
@@ -346,8 +364,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ad5qq07",
@@ -362,8 +380,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avhfbyd",
@@ -378,8 +396,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a7ua2a0",
@@ -394,8 +412,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "asu8jlt",
@@ -410,7 +428,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -426,7 +444,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -442,7 +460,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -458,7 +476,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -474,7 +492,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -490,7 +508,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -506,23 +524,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 28,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8yebb1",
-      "title": "Relance du nucléaire : produire plus, plus vite, sans dégrader la sûreté, est-ce possible ?",
-      "summary": "L’ESSENTIEL En France, comme au Royaume-Uni ou aux États-Unis, le chantier de relance du nucléaire est ouvert. L’objectif : faire sortir de terre le plus rapidement possible de nouvelles centrales. Pourtant, ces dernières années, le secteur nucléaire français a montré des signes de fragilités. Cette double réalité ques",
-      "link": "https://theconversation.com/relance-du-nucleaire-produire-plus-plus-vite-sans-degrader-la-surete-est-ce-possible-293769",
-      "image": "https://counter.theconversation.com/content/293769/count.gif",
-      "publishedAt": "2026-10-28T14:42:56.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 28,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
