@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T04:10:58.640Z",
+  "generatedAt": "2026-10-31T11:43:03.684Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,72 @@
   "count": 35,
   "items": [
     {
+      "id": "a4xs5v0",
+      "title": "Cinq aliments qui pourraient coûter encore plus cher cet hiver au Royaume-Uni et pourquoi",
+      "summary": "La récolte du cacao demande un travail manuel, qui en fait une culture difficile à mener à l’échelle industrielle. Milequem Diarassouba/Wikimedia Commons, CC BY L’ESSENTIEL Au Royaume-Uni, chocolat, pommes de terre et pain pourraient renchérir cet hiver, sur fond de météo erratique et d’énergie chère. Avec un cacao plu",
+      "link": "https://theconversation.com/cinq-aliments-qui-pourraient-couter-encore-plus-cher-cet-hiver-au-royaume-uni-et-pourquoi-294523",
+      "image": "https://images.theconversation.com/files/769350/original/file-20261031-64-7t9e0i.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-31T08:49:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1nt5vb",
+      "title": "À l’école maternelle, pourquoi la joie de travailler avec les enfants ne suffit pas à tenir",
+      "summary": "L’ESSENTIEL Les professionnels de la maternelle et de la petite enfance trouvent auprès des enfants une joie réelle. Une recherche montre que celle-ci coexiste avec de la colère, de la culpabilité, de la fatigue et parfois l’envie de démissionner. Cette usure tient surtout aux conditions de travail : la gestion individ",
+      "link": "https://theconversation.com/a-lecole-maternelle-pourquoi-la-joie-de-travailler-avec-les-enfants-ne-suffit-pas-a-tenir-293060",
+      "image": "https://images.theconversation.com/files/765553/original/file-20261012-50-yk08vz.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-10-31T07:40:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aixyfa",
+      "title": "De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
+      "summary": "La bière consommée dans cette *Scène de taverne* (David Teniers, 1658) des Pays-Bas n’est pas une boisson comme une autre. C’est un breuvage géopolitique qui opposa notamment protestants et catholiques. Wikimédia L’ESSENTIEL La boisson la plus consommée au monde après l’eau et le thé suscite les appétits des grandes pu",
+      "link": "https://theconversation.com/de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-277761",
+      "image": "https://images.theconversation.com/files/768301/original/file-20261026-62-4uos6j.jpg?ixlib=rb-4.1.1&amp;rect=0%2C74%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-10-31T07:39:10.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apx08cz",
+      "title": "« Clayface » : comment le cinéma transforme ses méchants en antihéros",
+      "summary": "L’ESSENTIEL Le film d’horreur Clayface est centré sur le personnage de Gueule d’argile (Clayface en version originale), un des superméchants de Batman, créé par Bob Kane en 1940 pour les éditions DC Comics. Avec le Joker, Le Penguin ou Clayface, les villains ne sont plus considérés comme de simples opposants à Batman, ",
+      "link": "https://theconversation.com/clayface-comment-le-cinema-transforme-ses-mechants-en-antiheros-294745",
+      "image": "https://counter.theconversation.com/content/294745/count.gif",
+      "publishedAt": "2026-10-31T07:38:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ali3an4",
       "title": "Comment les abeilles transforment leur ruche en « système immunitaire » vivant contre les maladies",
       "summary": "Un cadre couvert d’abeilles mellifères, sorti d’une ruche installée dans une exploitation de cerises près de Young, en Nouvelle-Galles du Sud (Australie). Nick Pitsas/CSIRO/Wikimedia Commons, CC BY, CC BY L’ESSENTIEL En Australie, des chercheurs ont analysé 24 colonies d’abeilles mellifères pour comprendre comment une ",
@@ -131,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ac0dtsp",
@@ -147,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -163,7 +229,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -179,7 +245,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -195,7 +261,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -211,7 +277,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -230,7 +296,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -248,7 +314,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -264,7 +330,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -280,7 +346,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -296,7 +362,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -312,7 +378,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -328,7 +394,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -344,7 +410,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -360,8 +426,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akrew61",
@@ -376,26 +442,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6to1yj",
-      "title": "Comment le « sensitivity reading » transforme le travail éditorial",
-      "summary": "Les *sensitivity readers* repèrent des stéréotypes ou des inexactitudes dans les textes qu’ils révisent. Fourni par l'auteur L’ESSENTIEL Les « sensitivity readers » sont encore mal connus aux yeux du grand public, et parfois assimilés à des censeurs. Attentifs à la représentation d’une expérience, d’une culture ou d’un",
-      "link": "https://theconversation.com/comment-le-sensitivity-reading-transforme-le-travail-editorial-293799",
-      "image": "https://images.theconversation.com/files/767732/original/file-20261022-60-3w09bj.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C242%2C1206%2C804&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-28T14:40:43.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation",
-        "stéréotype"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 39,
       "urgencyLevel": "basse"
     },
     {
@@ -411,7 +458,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -427,7 +474,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -443,7 +490,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -459,7 +506,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -475,55 +522,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "atoe6ah",
-      "title": "Droits de douane américains : fin du libre-échange industriel pour les pays riches, pas d’aubaine pour le Sud",
-      "summary": "L’ESSENTIEL Les droits de douane étaient un élément important de la politique trumpienne censée rendre aux États-Unis « leur grandeur » (Make America Great Again). Mais qu’en est-il pour les pays exportateurs ? Sont-ils traités de manière uniforme ? Ou existe-t-il des différences selon les pays ? Un examen reposant sur",
-      "link": "https://theconversation.com/droits-de-douane-americains-fin-du-libre-echange-industriel-pour-les-pays-riches-pas-daubaine-pour-le-sud-295180",
-      "image": "https://images.theconversation.com/files/768206/original/file-20261026-52-cdl1mi.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-28T14:41:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7yyrd7",
-      "title": "The impossible equation of being a researcher mother, striving to make ends meet",
-      "summary": "How can we encourage women to pursue scientific careers? In recent years, a number of mentoring or awareness campaigns have been put in place to encourage French high school students to study maths, physics or engineering sciences, while they remain underrepresented in these fields. One of the last large-scale initiati",
-      "link": "https://theconversation.com/the-impossible-equation-of-being-a-researcher-mother-striving-to-make-ends-meet-294312",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-10-28T14:20:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ayoz0ar",
-      "title": "Comment le libre accès aux publications scientifiques nourrit l’innovation industrielle : ce que révèle l’analyse de 500 000 brevets",
-      "summary": "Dans quelle mesure la recheche nourrit-elle l’innovation ? Dennis Scherdt/Unsplash, CC BY L’ESSENTIEL Une étude sur près de 500 000 brevets examine la façon dont les publications scientifiques alimentent l’innovation. Les publications en libre accès sont, en moyenne, surreprésentées de 38 % dans les références des brev",
-      "link": "https://theconversation.com/comment-le-libre-acces-aux-publications-scientifiques-nourrit-linnovation-industrielle-ce-que-revele-lanalyse-de-500-000-brevets-294166",
-      "image": "https://images.theconversation.com/files/767498/original/file-20261021-50-g3xyy5.jpg?ixlib=rb-4.1.1&amp;rect=211%2C274%2C2188%2C1459&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-28T10:42:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
