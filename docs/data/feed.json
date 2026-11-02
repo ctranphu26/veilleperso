@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:43:13.637Z",
+  "generatedAt": "2026-11-02T04:33:46.873Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,77 @@
   "count": 35,
   "items": [
     {
+      "id": "ao8c1ap",
+      "title": "A quoi nous programme le français au lycée ?",
+      "summary": "Le programme de français en 1ère a la particularité d’être renouvelé partiellement chaque année. Pour 2027‑2028 ont été annoncées les nouvelles œuvres poétiques proposées ainsi que leurs parcours associés : L’article A quoi nous programme le français au lycée ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/02/a-quoi-nous-programme-le-francais-au-lycee/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/A-quoi-nous-programme-le-francais-au-lycee-montage-300x245.png",
+      "publishedAt": "2026-11-02T04:29:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apdawme",
+      "title": "Mettre le langage au cœur de l’Ecole",
+      "summary": "Apprendre et enseigner (avec) le langage : tel est le titre d’un bel ouvrage collectif, dirigé par Cendrine Waszak et Caroline Scheepers, écrit dans le compagnonnage et la continuité de Jacques L’article Mettre le langage au cœur de l’Ecole est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/02/mettre-le-langage-au-coeur-de-lecole/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Apprendre-et-enseigner-avec-le-langage-200x300.jpg",
+      "publishedAt": "2026-11-02T04:30:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ar84vq3",
+      "title": "Quand le collège ouvre des fenêtres",
+      "summary": "A une Ecole repliée sur elle-même préférer un apprentissage du regard ? Au collège des Acacias, au Havre, Ophélie Jomat, professeure de français, et Lise Minvielle-Moncla, enseignante d’arts plastiques, ont mené L’article Quand le collège ouvre des fenêtres est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/02/quand-le-college-ouvre-des-fenetres/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Ophelie-Jomat-Lise-Minvielle-Moncla-300x220.jpg",
+      "publishedAt": "2026-11-02T04:29:30.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "enseignant",
+        "professeur",
+        "apprentissage"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a51clh4",
+      "title": "Chateaubriand et Juliette Récamier réunis une nouvelle fois",
+      "summary": "La Maison de Chateaubriand présente la première exposition entièrement consacrée à l’histoire exceptionnelle de la relation entre deux figures emblématiques de la première moitié du 19e siècle. Un lien durable, L’article Chateaubriand et Juliette Récamier réunis une nouvelle fois est apparu en premier sur Le Café pédag",
+      "link": "https://www.cafepedagogique.net/2026/11/02/chateaubriand-et-juliette-recamier-reunis-une-nouvelle-fois/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Affiche-Chateaubriand-et-Juliette-Recamier--220x300.jpg",
+      "publishedAt": "2026-11-02T04:28:48.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ain4by8",
       "title": "Pour protéger les ados en ligne, faut-il leur couper l’accès aux réseaux sociaux ?",
       "summary": "La série *Adolescence* (Netflix, 2025) met en image la radicalisation numérique silencieuse des adolescents. Netflix L’ESSENTIEL Dans le contexte de la mobilisation lycéenne, la question de couper l’accès des jeunes aux réseaux sociaux est revenue dans l’actualité. À l’été, une loi interdisant les réseaux sociaux aux m",
@@ -134,8 +205,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alve4o",
@@ -150,8 +221,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aowks08",
@@ -166,7 +237,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -184,7 +255,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -202,7 +273,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -220,7 +291,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -238,7 +309,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -254,7 +325,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -272,7 +343,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -288,7 +359,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +375,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +391,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -352,7 +423,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -368,7 +439,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -384,7 +455,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -403,7 +474,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -421,7 +492,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -437,7 +508,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -453,7 +524,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -469,7 +540,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -485,7 +556,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -501,7 +572,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -517,7 +588,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -533,7 +604,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -549,7 +620,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -568,42 +639,6 @@
       "relevance": 55,
       "relevanceLevel": "moyenne",
       "urgency": 11,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aawym8l",
-      "title": "16 ressources mises en avant par le Café pédagogique",
-      "summary": "Retrouvez sur cette page 16 ressources pédagogiques relayées cette semaine dans le Café pédagogique. Pour nous aider, c’est par ici ! Innover en lycée professionnel : un dispositif inventé L’article 16 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/18/16-ressources-mises-en-avant-par-le-cafe-pedagogique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/ouguel-e1774456873975-236x300.jpeg",
-      "publishedAt": "2026-10-18T06:51:07.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 1,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a11awfe",
-      "title": "SVT : quelle biodiversité pour Halloween ?",
-      "summary": "Comme chaque année, le site VivelesSVT propose une fiche avec les différents taxons mobilisés pour la fête d’Halloween. Crapauds, félins, araignées ou autres citrouilles sont ainsi mis en avant. L’occasion L’article SVT : quelle biodiversité pour Halloween ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/svt-quelle-biodiversite-pour-halloween/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/10/halloweensvt-300x200.jpg",
-      "publishedAt": "2026-10-19T02:00:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 1,
       "urgencyLevel": "basse"
     },
     {
@@ -661,38 +696,6 @@
       "link": "https://www.cafepedagogique.net/2026/10/19/5-expos-a-voir-pendant-les-vacances-dautomne/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/affiche-200x300.jpg.webp",
       "publishedAt": "2026-10-19T06:09:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 1,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agy806g",
-      "title": "Votre Expresso est en vacances",
-      "summary": "L’équipe du Café pédagogique prend des vacances et vous donne rendez-vous le 2 novembre prochain. Nous continuons néanmoins à suivre l’actualité et restons actifs quotidiennement sur notre fil Bluesky. Retrouvez-nous L’article Votre Expresso est en vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/votre-expresso-est-en-vacances-4/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/20251022_142858-scaled-e1792403342897-300x247.jpg",
-      "publishedAt": "2026-10-19T03:00:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 1,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqm4f5y",
-      "title": "Actualité de l’éducation du 12 au 16 octobre 2026",
-      "summary": "Retrouvez sur cette page une sélection d’articles sur l’actualité de l’éducation publiés cette semaine dans le Café pédagogique. Si vous ne connaissez pas encore notre application officielle gratuite, venez la L’article Actualité de l’éducation du 12 au 16 octobre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/18/actualite-de-leducation-du-12-au-16-octobre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Forum-du-Manifeste-du-Cafe-pedagogique-1-300x225.jpg",
-      "publishedAt": "2026-10-18T08:38:43.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
