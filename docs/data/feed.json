@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:33:46.873Z",
+  "generatedAt": "2026-11-02T14:49:32.762Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,162 @@
   "count": 35,
   "items": [
     {
+      "id": "aoqpdl4",
+      "title": "AESH : vers un statut de fonctionnaire ?",
+      "summary": "Ce jeudi 29 octobre, l’Assemblée nationale a voté une proposition de loi visant à titulariser les AESH dans un corps de fonctionnaires de catégorie B. Une proposition portée par la L’article AESH : vers un statut de fonctionnaire ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/02/aesh-vers-un-statut-de-fonctionnaire/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Murielle-Lepvraud-Cafe-pedagogique-e1793524009923-270x300.jpeg",
+      "publishedAt": "2026-11-02T04:58:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atyjskv",
+      "title": "Le vote RN progresse, les enseignants résistent [entretien avec Luc Rouban]",
+      "summary": "« Être fonctionnaire, c’est souvent aujourd’hui ne plus participer à la puissance publique mais se retrouver confronté à l’impuissance publique. » Pour Luc Rouban, directeur de recherche émérite au CNRS L’article Le vote RN progresse, les enseignants résistent [entretien avec Luc Rouban] est apparu en premier sur Le Ca",
+      "link": "https://www.cafepedagogique.net/2026/11/02/le-vote-rn-progresse-les-enseignants-resistent-entretien-avec-luc-rouban/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Luc-Rouban-Sciences-Po-e1793525185707-292x300.png",
+      "publishedAt": "2026-11-02T04:46:51.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ag3zfva",
+      "title": "« Sous-licenciement » : pourquoi une entreprise sauvegarde des emplois malgré une situation économique défavorable",
+      "summary": "L’ESSENTIEL Une vague de plans sociaux ressurgit en France comme un tsunami dont on avait oublié la puissance destructrice. Plutôt que de procéder à des suppressions massives d’emplois, les entreprises familiales privilégient une politique de sous-licenciements. Cela consiste à maintenir un niveau d’emploi supérieur à ",
+      "link": "https://theconversation.com/sous-licenciement-pourquoi-une-entreprise-sauvegarde-des-emplois-malgre-une-situation-economique-defavorable-292495",
+      "image": "https://counter.theconversation.com/content/292495/count.gif",
+      "publishedAt": "2026-11-02T11:03:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "albttcl",
+      "title": "Du nudge au boost : comment aider les utilisateurs à réduire leur empreinte numérique",
+      "summary": "L’ESSENTIEL La prise de conscience de l’impact environnemental des activités numériques est compliquée par la dimension immatériele de bien des comportements. L’information des utilisateurs/consommateurs ne suffit pas. Au mieux, elle provoque, le plus souvent, un changement non durable. Pour une modification durable, l",
+      "link": "https://theconversation.com/du-nudge-au-boost-comment-aider-les-utilisateurs-a-reduire-leur-empreinte-numerique-267127",
+      "image": "https://counter.theconversation.com/content/267127/count.gif",
+      "publishedAt": "2026-11-02T14:45:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ancx3p8",
+      "title": "Football : les dessous du financement de la congélation des ovocytes des joueuses par la Fédération espagnole",
+      "summary": "Marta Corredera, joueuse internationale de très haut niveau (85 sélections avec l’Espagne) est l’une des rares footballeuses professionnelles à avoir accouché pendant sa carrière. Elle a donné naissance en 2022, à 31 ans, à sa fille Ona (ici, une photo publiée sur ses réseaux sociaux pendant sa grossesse, au côté de so",
+      "link": "https://theconversation.com/football-les-dessous-du-financement-de-la-congelation-des-ovocytes-des-joueuses-par-la-federation-espagnole-293921",
+      "image": "https://images.theconversation.com/files/767587/original/file-20261021-50-awh27r.png?ixlib=rb-4.1.1&amp;rect=0%2C165%2C1986%2C1324&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-02T14:44:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "admk8v8",
+      "title": "Mesures pour le lycée : des « miettes » qui ne suffisent pas à calmer la mobilisation",
+      "summary": "Un mois après le début de la mobilisation de la jeunesse, le gouvernement a enfin annoncé des mesures pour réduire les effectifs en classe au lycée, améliorer le bâti scolaire L’article Mesures pour le lycée : des « miettes » qui ne suffisent pas à calmer la mobilisation est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/02/mesures-pour-le-lycee-des-miettes-qui-ne-suffisent-pas-a-calmer-la-mobilisation/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Parcoursup-efface-nouveau-nom-en-vue-300x169.png",
+      "publishedAt": "2026-11-02T04:59:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "classe"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "asnf5v1",
+      "title": "Vinted, Too Good To Go… : quand la consommation responsable encourage à consommer plus",
+      "summary": "L’ESSENTIEL Les applications de seconde main ou anti-gaspi se sont démocratisées. Elles permettent de faire des économies tout en donnant le sentiment de consommer de manière plus responsable. Cependant, la possibilité d’y faire de bonnes affaires peut nous inciter à consommer davantage ou bien à acheter des choses don",
+      "link": "https://theconversation.com/vinted-too-good-to-go-quand-la-consommation-responsable-encourage-a-consommer-plus-295191",
+      "image": "https://counter.theconversation.com/content/295191/count.gif",
+      "publishedAt": "2026-11-02T14:45:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "auflx7s",
+      "title": "« Pour une mobilisation générale en faveur de l’école » : l’appel d’un collectif dans le Nouvel Obs",
+      "summary": "« La France a su faire cela jadis avec le plan Langevin-Wallon (1947), toujours cité mais jamais appliqué. Nous avons besoin d’un plan Langevin-Wallon pour aujourd’hui ». Dans une tribune L’article « Pour une mobilisation générale en faveur de l’école » : l’appel d’un collectif dans le Nouvel Obs est apparu en premier ",
+      "link": "https://www.cafepedagogique.net/2026/11/02/pour-une-mobilisation-generale-en-faveur-de-lecole-lappel-dun-collectif-dans-le-nouvel-obs/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/nouvel-obs-300x200.png",
+      "publishedAt": "2026-11-02T04:28:17.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5tcab2",
+      "title": "L’annonce des 3000 TZR : « une tromperie » (Snes-FSU)",
+      "summary": "Quels sont les premiers retours des académies sur la commande ministérielle de 3000 professeurs remplaçants affectés dans les lycées ? L’annonce est « une tromperie » pour la secrétaire générale L’article L’annonce des 3000 TZR : « une tromperie » (Snes-FSU) est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/02/lannonce-des-3000-tzr-une-tromperie-snes-fsu/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/Edouard-Geffray-assemblee-nationale-300x244.png",
+      "publishedAt": "2026-11-02T04:40:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ao8c1ap",
       "title": "A quoi nous programme le français au lycée ?",
       "summary": "Le programme de français en 1ère a la particularité d’être renouvelé partiellement chaque année. Pour 2027‑2028 ont été annoncées les nouvelles œuvres poétiques proposées ainsi que leurs parcours associés : L’article A quoi nous programme le français au lycée ? est apparu en premier sur Le Café pédagogique.",
@@ -131,8 +287,42 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 90,
+      "urgency": 79,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8tpi7i",
+      "title": "Comment sortir du « Si ça la dérangeait, elle l’aurait dit », ou pourquoi il est si difficile de dire non à son manager",
+      "summary": "L’ESSENTIEL Depuis novembre 2025, le Code pénal précise, en matière d’agressions sexuelles, que le consentement ne peut être déduit du seul silence ou de la seule absence de réaction de la victime. Mais si le silence ne dit pas oui, que dit-il ? La psychologie sociale étudie cette question depuis des décennies. Ses tra",
+      "link": "https://theconversation.com/comment-sortir-du-si-ca-la-derangeait-elle-laurait-dit-ou-pourquoi-il-est-si-difficile-de-dire-non-a-son-manager-294191",
+      "image": "https://counter.theconversation.com/content/294191/count.gif",
+      "publishedAt": "2026-11-02T11:02:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ak88i0y",
+      "title": "L’école inclusive et le mimétisme agressif de l’extrême droite",
+      "summary": "L’araignée bolas a un thorax bossu gris-marron qui la fait ressembler à une fiente de pigeon. Camouflée, elle produit alors les phéromones d’une femelle papillon de nuit, attirant ainsi les L’article L’école inclusive et le mimétisme agressif de l’extrême droite est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/02/lecole-inclusive-et-le-mimetisme-agressif-de-lextreme-droite/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/fredericGrimaud-159x300.jpeg",
+      "publishedAt": "2026-11-02T04:50:40.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apdawme",
@@ -149,8 +339,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ar84vq3",
@@ -170,8 +360,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a51clh4",
@@ -186,8 +376,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ain4by8",
@@ -205,38 +395,6 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "alve4o",
-      "title": "Qui se cache derrière le champignon introduit illégalement il y a 40 ans pour combattre les ronces australiennes ?",
-      "summary": "L’ESSENTIEL Un champignon disséminé clandestinement contre les ronces australiennes reste au cœur d’une énigme vieille de plus de 40 ans. Son introduction pouvait valoir cinq ans de prison, mais son efficacité s’est révélée limitée. Fléau pour les agriculteurs, la ronce est aussi un refuge pour la faune et un souvenir ",
-      "link": "https://theconversation.com/qui-se-cache-derriere-le-champignon-introduit-illegalement-il-y-a-40-ans-pour-combattre-les-ronces-australiennes-294254",
-      "image": "https://images.theconversation.com/files/758711/original/file-20260909-50-90b9j8.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-01T07:49:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aowks08",
-      "title": "Venez présenter votre projet au Forum du Café pédagogique !",
-      "summary": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche L’article Venez présenter votre projet au Forum du Café pédagogique ! est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/01/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Forum-du-Cafe-pedagogique-enseignants-Paris-2027-234x300.png",
-      "publishedAt": "2026-11-01T09:00:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
       "urgency": 61,
       "urgencyLevel": "moyenne"
     },
@@ -255,7 +413,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -273,7 +431,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -291,13 +449,13 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
       "id": "a7euipd",
-      "title": "Du Kenya à la France, le masque, signe de ralliement de la génération Z",
-      "summary": "L’ESSENTIEL En 2020, l’État a d’abord dissuadé la population de porter un masque qu’il ne pouvait pas fournir, avant de l’imposer, jusqu’au collège et au lycée à la rentrée, puis à l’école élémentaire. Dans les mobilisations lycéennes de 2026, le masque chirurgical ou FFP2 protège des gaz lacrymogènes et cache le visag",
+      "title": "Du Kenya à la France, le masque, signe de ralliement de la génération Z",
+      "summary": "L’ESSENTIEL En 2020, au cours de la pandémie de Covid-19, l’État a d’abord dissuadé la population de porter un masque qu’il ne pouvait pas fournir, avant de l’imposer jusqu’au collège et au lycée à la rentrée, puis à l’école élémentaire. Dans la mobilisation lycéenne de cet automne 2026, le masque chirurgical ou FFP2 p",
       "link": "https://theconversation.com/du-kenya-a-la-france-le-masque-signe-de-ralliement-de-la-generation-z-295564",
       "image": "https://counter.theconversation.com/content/295564/count.gif",
       "publishedAt": "2026-10-31T16:49:21.000Z",
@@ -309,7 +467,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "alve4o",
+      "title": "Qui se cache derrière le champignon introduit illégalement il y a 40 ans pour combattre les ronces australiennes ?",
+      "summary": "L’ESSENTIEL Un champignon, disséminé clandestinement pour lutter contre la prolifération des ronces australiennes, reste au cœur d’une énigme vieille de plus de quarante ans. Son introduction sur le territoire australien par un voyageur faisait encourir une peine de cinq ans de prison, mais son efficacité s’est révélée",
+      "link": "https://theconversation.com/qui-se-cache-derriere-le-champignon-introduit-illegalement-il-y-a-40-ans-pour-combattre-les-ronces-australiennes-294254",
+      "image": "https://images.theconversation.com/files/758711/original/file-20260909-50-90b9j8.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-01T07:49:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -325,8 +499,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1nt5vb",
@@ -343,13 +517,13 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aixyfa",
       "title": "De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
-      "summary": "La bière consommée dans cette *Scène de taverne* (David Teniers, 1658) des Pays-Bas n’est pas une boisson comme une autre. C’est un breuvage géopolitique qui opposa notamment protestants et catholiques. Wikimédia L’ESSENTIEL La boisson la plus consommée au monde après l’eau et le thé suscite les appétits des grandes pu",
+      "summary": "La bière consommée dans cette scène de taverne (David Teniers, 1658) des Pays-Bas n’est pas une boisson comme une autre. C’est un breuvage géopolitique qui opposa notamment protestants et catholiques. Wikimédia L’ESSENTIEL La boisson la plus consommée au monde après l’eau et le thé suscite les appétits des grandes puis",
       "link": "https://theconversation.com/de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-277761",
       "image": "https://images.theconversation.com/files/768301/original/file-20261026-62-4uos6j.jpg?ixlib=rb-4.1.1&amp;rect=0%2C74%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-10-31T07:39:10.000Z",
@@ -359,8 +533,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apx08cz",
@@ -375,8 +549,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ali3an4",
@@ -391,8 +565,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ac0dtsp",
@@ -407,7 +581,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -423,7 +597,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -439,7 +613,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -455,26 +629,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8jwmqd",
-      "title": "L’intelligence artificielle rend-elle les artistes plus créatifs ?",
-      "summary": "*Le Théâtre d’opéra spatial* a été créé en 2022 par Jason M. Allen à l’aide du générateur d’images Midjourney. L'œuvre a remporté un prix artistique, mais n’est pas protégée par le droit d’auteur, car les services états-uniens considèrent que l’apport créatif humain n’est pas suffisant. Jason M. Allen L’ESSENTIEL Du ma",
-      "link": "https://theconversation.com/lintelligence-artificielle-rend-elle-les-artistes-plus-creatifs-293465",
-      "image": "https://images.theconversation.com/files/767308/original/file-20261020-50-mze5er.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1156%2C771&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-29T17:19:29.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle",
-        "image"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 24,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -492,7 +647,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -508,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -524,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -540,7 +695,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 21,
       "urgencyLevel": "basse"
     },
     {
@@ -556,153 +711,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7ua2a0",
-      "title": "Le condor de Californie a été sauvé, mais à quel prix, et pour qui ?",
-      "summary": "AC-4 faisait partie des derniers condors de Californie sauvages capturés dans les années 1980 afin de créer un programme de reproduction en captivité. (L’envergure des ailes d’un condor, comme ici, peut atteindre 2,9 mètres.) U.S. Fish and Wildlife Service L’ESSENTIEL Aux États-Unis, après la capture du dernier condor ",
-      "link": "https://theconversation.com/le-condor-de-californie-a-ete-sauve-mais-a-quel-prix-et-pour-qui-295220",
-      "image": "https://images.theconversation.com/files/768351/original/file-20261018-50-yhu3mx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C170%2C2048%2C1365&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-10-29T17:21:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "asu8jlt",
-      "title": "En Israël, Netanyahou désavoué dans les urnes peut encore rester au pouvoir",
-      "summary": "L’ESSENTIEL Les élections israéliennes du 27 octobre 2026 figuraient parmi les scrutins les plus attendus de l’histoire du pays. Lourdes de conséquences, elles n’ont toutefois pas encore livré de résultat décisif. Alors que la quasi-totalité des voix ont été dépouillées, on ignore encore qui dirigera le pays à l’issue ",
-      "link": "https://theconversation.com/en-israel-netanyahou-desavoue-dans-les-urnes-peut-encore-rester-au-pouvoir-295469",
-      "image": "https://images.theconversation.com/files/768959/original/file-20261028-52-o2zq9c.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-10-29T10:52:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7vd367",
-      "title": "Effacement électrique : la Cour des comptes dénonce une politique coûteuse et inefficace",
-      "summary": "L’ESSENTIEL L’effacement de consommation électrique consiste à réduire ou à suspendre temporairement la consommation d’électricité d’un client (industriels, entreprises tertiaires et, dans certains cas, particuliers) lors des pics de demande. Les entreprises sont rémunérées pour ce geste prévu par des contrats spécifiq",
-      "link": "https://theconversation.com/effacement-electrique-la-cour-des-comptes-denonce-une-politique-couteuse-et-inefficace-294262",
-      "image": "https://counter.theconversation.com/content/294262/count.gif",
-      "publishedAt": "2026-10-29T09:35:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "akrew61",
-      "title": "Comprendre le paradoxe des prix négatifs de l’électricité : quand la rareté change de camp",
-      "summary": "L’ESSENTIEL Les prix négatifs que peut momentanément connaître l’électricité sur certains marchés ne signifient pas qu’elle ne vaut plus rien. Au contraire, ils montrent que la création de valeur économique repose de plus en plus sur la capacité à apporter de la flexibilité au système. La valeur ne récompense plus seul",
-      "link": "https://theconversation.com/comprendre-le-paradoxe-des-prix-negatifs-de-lelectricite-quand-la-rarete-change-de-camp-292514",
-      "image": "https://counter.theconversation.com/content/292514/count.gif",
-      "publishedAt": "2026-10-29T09:35:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ah8f6zh",
-      "title": "Cinéma : « Une femme aujourd’hui »  de Robert Guédiguian",
-      "summary": "Robert Guédiguian, citoyen révolté et cinéaste combattant, n’est pas du genre à succomber au chant des sirènes néolibérales. Pour son 25e long métrage, Une femme aujourd’hui, le réalisateur demeure attaché L’article Cinéma : « Une femme aujourd’hui » de Robert Guédiguian est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/cinema-une-femme-aujourdhui-de-robert-guediguian/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/unefemmeaujourdhui_web-600x815-1-221x300.jpg",
-      "publishedAt": "2026-10-19T06:06:31.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "genre"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 11,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "amyugyz",
-      "title": "Mobilisation lycéenne : le dossier du Café pédagogique",
-      "summary": "Retrouvez à cette page tous nos articles consacrés à la mobilisation lycéenne. De la mobilisation lycéenne à la mobilisation citoyenne « Profs, lycéens, même combat » : le 6 L’article Mobilisation lycéenne : le dossier du Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/mobilisation-lyceenne-le-dossier-du-cafe-pedagogique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Manifestation-du-6-octobre-2026-Cafe-pedagogique-4-300x270.jpeg.webp",
-      "publishedAt": "2026-10-19T09:22:45.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 1,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a63vck8",
-      "title": "Les 5 films à voir durant ces vacances",
-      "summary": "Découvrez les conseils de Samra Bonvoisin, notre spécialiste cinéma, pour vos vacances d’été. Si vous appréciez nos articles, vous pouvez nous aider à poursuivre l’aventure du Café pédagogique. Nous vous L’article Les 5 films à voir durant ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/les-5-films-a-voir-durant-ces-vacances-5/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/affiche-film-hd-225x300.jpg.webp",
-      "publishedAt": "2026-10-19T07:22:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 1,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a4a54qd",
-      "title": "Nos 6 conseils lectures pour ces vacances",
-      "summary": "Retrouvez à cette page 6 conseils lectures pour cette pause automnale. Pour nous soutenir et permettre de poursuivre l’aventure du Café pédagogique, cliquez ici. Merci ! Jennifer Tamas : L’article Nos 6 conseils lectures pour ces vacances est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/nos-6-conseils-lectures-pour-ces-vacances/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/La-Barbe-bleue-contre-enquete-198x300.jpg.webp",
-      "publishedAt": "2026-10-19T06:19:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 1,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a3x1yt2",
-      "title": "5 expos à voir pendant ces vacances d’automne",
-      "summary": "Découvrez les conseils de Béatrice Flammang, notre spécialiste culture, pour vos vacances d’automne. « À la découverte du biomimétisme » aux Abattoirs de Toulouse, jusqu’au 1er novembre 2026. Les différentes vies L’article 5 expos à voir pendant ces vacances d’automne est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/10/19/5-expos-a-voir-pendant-les-vacances-dautomne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/affiche-200x300.jpg.webp",
-      "publishedAt": "2026-10-19T06:09:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 1,
+      "urgency": 21,
       "urgencyLevel": "basse"
     }
   ]
