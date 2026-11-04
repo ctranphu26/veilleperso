@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T04:55:38.150Z",
+  "generatedAt": "2026-11-04T13:48:29.685Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,39 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 100,
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awr0cu9",
+      "title": "La manifestation de rue : une histoire française, entre discipline collective et violence politique",
+      "summary": "L’ESSENTIEL Les pillages en marge des manifestations du 17 octobre 2026 marquent-ils une dégradation des mobilisations sociales en France ? Si les marches pacifiques se sont ritualisées, elles n’ont jamais évincé totalement les pratiques insurrectionnelles. Sous la Vᵉ République, la manifestation est devenue un lieu cl",
+      "link": "https://theconversation.com/la-manifestation-de-rue-une-histoire-francaise-entre-discipline-collective-et-violence-politique-295631",
+      "image": "https://counter.theconversation.com/content/295631/count.gif",
+      "publishedAt": "2026-11-04T11:13:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agizbhu",
+      "title": "Midterms : malgré l’ingérence inédite du ministère de la justice, le scrutin s’est déroulé sans chaos",
+      "summary": "L’ESSENTIEL Aux États-Unis, les tribunaux fédéraux ont rejeté presque toutes les tentatives de l’administration Trump de peser sur les élections de mi-mandat. Les juges refusent d’intervenir une fois le vote commencé et rappellent que la Constitution confie l’organisation des élections aux États. Pour l’ancien juge Joh",
+      "link": "https://theconversation.com/midterms-malgre-lingerence-inedite-du-ministere-de-la-justice-le-scrutin-sest-deroule-sans-chaos-295886",
+      "image": "https://counter.theconversation.com/content/295886/count.gif",
+      "publishedAt": "2026-11-04T08:18:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +183,74 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 90,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "alsfbtv",
+      "title": "Qui était John Vanbrugh, le « Shakespeare de l’architecture » britannique ?",
+      "summary": "Le palais de Blenheim, en Angleterre, et portrait de John Vanbrugh peint par Godfrey Kneller (1704). Inga Kebleryte/Shutterstock/National Portrait Gallery/Canva L’ESSENTIEL Mort il y a trois cents ans, John Vanbrugh est considéré comme l’un des grands architectes britanniques, au point d’avoir été surnommé le « Shakesp",
+      "link": "https://theconversation.com/qui-etait-john-vanbrugh-le-shakespeare-de-larchitecture-britannique-292700",
+      "image": "https://images.theconversation.com/files/761686/original/file-20260828-50-vmi7sx.jpg?ixlib=rb-4.1.1&amp;rect=487%2C0%2C1245%2C830&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-04T11:39:22.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8tqkbk",
+      "title": "Midterms : après la déroute des républicains, le monde doit se préparer à un Trump plus imprévisible",
+      "summary": "L’ESSENTIEL Aux États-Unis, les républicains de Donald Trump ont subi aux midterms ce qui ressemble à leur pire défaite depuis cinquante ans. Les démocrates l’emportent jusque dans des bastions républicains comme le Texas, où aucun des leurs n’avait été élu sénateur depuis 1988. Privé de marge de manœuvre en politique ",
+      "link": "https://theconversation.com/midterms-apres-la-deroute-des-republicains-le-monde-doit-se-preparer-a-un-trump-plus-imprevisible-295885",
+      "image": "https://counter.theconversation.com/content/295885/count.gif",
+      "publishedAt": "2026-11-04T08:06:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "an5zvxv",
+      "title": "Une minute de silence durant des blocus : « On s’inquiète beaucoup de la montée de l’extrême droite »",
+      "summary": "Devant plusieurs lycées bloqués, des élèves ont observé une minute de silence en hommage aux victimes de l’attentat raciste de Trappes, sans attendre l’hommage national. Pour Hajar, lycéenne en classe L’article Une minute de silence durant des blocus : « On s’inquiète beaucoup de la montée de l’extrême droite » est app",
+      "link": "https://www.cafepedagogique.net/2026/11/04/une-minute-de-silence-durant-des-blocus-on-sinquiete-beaucoup-de-la-montee-de-lextreme-droite/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/lycee-300x294.jpeg",
+      "publishedAt": "2026-11-04T04:59:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "classe"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2iw6zs",
+      "title": "Mobilisation lycéenne : « Fiction de normalité », la reprise sous contrôle policier",
+      "summary": "41 établissements bloqués ou perturbés selon le ministère, plus de dix fois plus selon un syndicat lycéen. Alors que le ministre Geffray qualifie la mobilisation de « résiduelle », la L’article Mobilisation lycéenne : « Fiction de normalité », la reprise sous contrôle policier est apparu en premier sur Le Café pédagogi",
+      "link": "https://www.cafepedagogique.net/2026/11/04/mobilisation-lyceenne-fiction-de-normalite-la-reprise-sous-controle-policier/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/Marseilleveyre2-300x225.jpeg",
+      "publishedAt": "2026-11-04T05:40:58.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -170,7 +269,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -178,7 +277,7 @@
       "title": "« Révolutionner une école trop injuste » : le souffle des universités d’automne",
       "summary": "Chaque année, la FSU-SNUipp organise des universités d’automne qui réunissent de nombreux professeur.es des écoles : rencontres, échanges, débats sont au rendez-vous de ces premiers jours de congé. Pour la L’article « Révolutionner une école trop injuste » : le souffle des universités d’automne est apparu en premier su",
       "link": "https://www.cafepedagogique.net/2026/11/04/revolutionner-une-ecole-trop-injuste-le-souffle-des-universites-dautomne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/02/IMG_1085-225x300.jpg",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/atelier-300x225.jpeg",
       "publishedAt": "2026-11-04T04:45:15.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
@@ -189,7 +288,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -208,7 +307,23 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a68nhr9",
+      "title": "Venez présenter votre projet au Forum du Café pédagogique !",
+      "summary": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche L’article Venez présenter votre projet au Forum du Café pédagogique ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/04/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Forum-du-Cafe-pedagogique-enseignants-Paris-2027-234x300.png",
+      "publishedAt": "2026-11-04T04:31:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -224,23 +339,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
-      "id": "a5l4xxh",
-      "title": "La Cinémathèque rend hommage à Jean-Paul Belmondo",
-      "summary": "Une icône du cinéma à redécouvrir jusqu’au 31 janvier 2027 à la Cinémathèque. L’exposition « Belmondo le Magnifique » retrace le parcours d’un acteur qui a marqué l’histoire du cinéma. L’article La Cinémathèque rend hommage à Jean-Paul Belmondo est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/04/la-cinematheque-rend-hommage-a-jean-paul-belmondo/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/2026-Belmondo-300x169.jpg",
-      "publishedAt": "2026-11-04T04:28:35.000Z",
+      "id": "ajwgqqu",
+      "title": "Cinéma : Rendez-vous au Arras Film Festival 2026",
+      "summary": "Pour la 27e édition de son festival de cinéma, la ville d’Arras vous invite dans ses salles et d’autres espaces réservés à partager l’expérience exceptionnelle d’une programmation originale « qui fait L’article Cinéma : Rendez-vous au Arras Film Festival 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/04/cinema-rendez-vous-au-arras-film-festival-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/image-1-231x300.png",
+      "publishedAt": "2026-11-04T04:28:37.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -258,8 +373,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avnuop8",
@@ -274,8 +389,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4cs6rc",
@@ -292,14 +407,14 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "aqmgx60",
-      "title": "Il y a 70 ans, le fiasco franco-britannique de Suez : une leçon pour Washington face à l’Iran",
+      "id": "aj40l02",
+      "title": "Une leçon pour Washington face à l’Iran : le fiasco franco‑britannique de Suez il y a 70 ans",
       "summary": "Comme le détroit d’Ormuz, le canal de Suez est une voie d’eau vitale pour le commerce mondial. Viktor Hladchenko/Shutterstock L’ESSENTIEL En novembre 1956, Paris et Londres, alliés à Israël, ont renoncé à reprendre le canal de Suez sous la pression américaine. Sa livre sterling affaiblie et sa dépendance envers Washing",
-      "link": "https://theconversation.com/il-y-a-70-ans-le-fiasco-franco-britannique-de-suez-une-lecon-pour-washington-face-a-liran-295809",
+      "link": "https://theconversation.com/une-lecon-pour-washington-face-a-liran-le-fiasco-franco-britannique-de-suez-il-y-a-70-ans-295809",
       "image": "https://images.theconversation.com/files/769806/original/file-20261026-52-ukg115.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3000%2C2000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-11-03T15:28:27.000Z",
       "source": "The Conversation (FR)",
@@ -308,7 +423,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -324,7 +439,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -340,7 +455,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -356,7 +471,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -372,7 +487,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -388,7 +503,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -404,7 +519,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -422,7 +537,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,63 +553,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a69w58j",
-      "title": "4 élèves de CE2 sur 10 se déclarent victimes de violences sexuelles",
-      "summary": "Insultes, bousculades, mises à l’écart, violences sexuelles : « les plus jeunes élèves sont les plus souvent victimes de violences à l’école », c’est ce que pointe l’enquête nationale de L’article 4 élèves de CE2 sur 10 se déclarent victimes de violences sexuelles est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/03/4-eleves-de-ce2-sur-10-se-declarent-victimes-de-violences-sexuelles/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/violence-228x300.png",
-      "publishedAt": "2026-11-03T04:50:14.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "élève"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "at5v76",
-      "title": "Pour une école commune : en finir avec le financement public du séparatisme social et scolaire",
-      "summary": "Inégalités, manque de moyens, école à deux vitesses, ségrégation sociale croissante entre les secteurs privé et public… la situation est documentée : « les avantages accordés à l’enseignement privé n’ont L’article Pour une école commune : en finir avec le financement public du séparatisme social et scolaire est apparu ",
-      "link": "https://www.cafepedagogique.net/2026/11/03/pour-une-ecole-commune-en-finir-avec-le-financement-public-du-separatisme-social-et-scolaire/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/09/ecole-publique-fcpe-300x193.jpg",
-      "publishedAt": "2026-11-03T04:45:00.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "école"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aaz77ih",
-      "title": "L’académie de Créteil est-elle délaissée ?",
-      "summary": "Pour répondre aux lycéens mobilisés, Édouard Geffray a brandi deux chiffres. Ils passent sous silence les postes vacants, les professeurs absents jamais remplacés et le manque d’adultes dans les établissements. L’article L’académie de Créteil est-elle délaissée ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/03/lacademie-de-creteil-est-elle-delaissee/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/Academie_de_Creteil.svg-300x289.png",
-      "publishedAt": "2026-11-03T04:58:40.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -510,7 +569,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -526,23 +585,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a7o5424",
-      "title": "Le vieux principe du droit anglais qui protège Donald Trump des plaintes en diffamation",
-      "summary": "Une statuette de la Justice, balance à la main, devant le préambule de la Constitution américaine, qui s’ouvre sur les mots « We the People » (« Nous, le peuple »). Mehaniq/Shutterstock L’ESSENTIEL Aux États-Unis, la doctrine de l’immunité souveraine bloque les plaintes en diffamation contre les employés fédéraux, prés",
-      "link": "https://theconversation.com/le-vieux-principe-du-droit-anglais-qui-protege-donald-trump-des-plaintes-en-diffamation-295694",
-      "image": "https://images.theconversation.com/files/769589/original/file-20261028-52-8s2g8g.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-02T15:18:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -560,7 +603,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -578,7 +621,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -596,7 +639,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a7o5424",
+      "title": "Le vieux principe du droit anglais qui protège Donald Trump des plaintes en diffamation",
+      "summary": "Une statuette de la Justice, balance à la main, devant le préambule de la Constitution américaine, qui s’ouvre sur les mots « We the People » (« Nous, le peuple »). Mehaniq/Shutterstock L’ESSENTIEL Aux États-Unis, la doctrine de l’immunité souveraine bloque les plaintes en diffamation contre les employés fédéraux, prés",
+      "link": "https://theconversation.com/le-vieux-principe-du-droit-anglais-qui-protege-donald-trump-des-plaintes-en-diffamation-295694",
+      "image": "https://images.theconversation.com/files/769589/original/file-20261028-52-8s2g8g.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-02T15:18:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -612,7 +671,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -628,27 +687,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ain4by8",
-      "title": "Pour protéger les ados en ligne, faut-il leur couper l’accès aux réseaux sociaux ?",
-      "summary": "La série *Adolescence* (Netflix, 2025) met en image la radicalisation numérique silencieuse des adolescents. Netflix L’ESSENTIEL Dans le contexte de la mobilisation lycéenne, la question de couper l’accès des jeunes aux réseaux sociaux est revenue dans l’actualité. À l’été, une loi interdisant les réseaux sociaux aux m",
-      "link": "https://theconversation.com/pour-proteger-les-ados-en-ligne-faut-il-leur-couper-lacces-aux-reseaux-sociaux-290451",
-      "image": "https://images.theconversation.com/files/757002/original/file-20260831-50-ehoqcr.jpg?ixlib=rb-4.1.1&amp;rect=100%2C0%2C1080%2C720&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-01T07:48:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux",
-        "image"
-      ],
-      "relevance": 87,
-      "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "afvyfce",
@@ -665,59 +705,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "app02vo",
-      "title": "Niveau de français exigé pour les étrangers : une « simple » question de langue ?",
-      "summary": "Pour apprendre le français, beaucoup de personnes migrantes se tournent vers des associations, comme ici à la Cimade. Nathalie Bardou/La Cimade, CC BY-NC-ND L’ESSENTIEL Depuis janvier 2026, les exigences de français ont été relevées pour l’obtention d’un titre de séjour ou de la nationalité française. Le niveau de lang",
-      "link": "https://theconversation.com/niveau-de-francais-exige-pour-les-etrangers-une-simple-question-de-langue-291610",
-      "image": "https://images.theconversation.com/files/767060/original/file-20261019-50-hy0jme.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2560%2C1706&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-01T07:47:50.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9os6ai",
-      "title": "Démocratie : pourquoi les Français sont-ils plus pessimistes que leurs voisins belges ou italiens ?",
-      "summary": "L’ESSENTIEL En France, la défiance démocratique est plus forte qu’en Belgique et en Italie, deux pays ayant connu une crise politique. Les Français critiquent surtout le manque d’écoute, de représentation et de contre-pouvoirs. La place centrale de l’élection présidentielle empêche d’imaginer d’autres formes de démocra",
-      "link": "https://theconversation.com/democratie-pourquoi-les-francais-sont-ils-plus-pessimistes-que-leurs-voisins-belges-ou-italiens-292630",
-      "image": "https://images.theconversation.com/files/761944/original/file-20260924-50-e1tret.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-01T07:47:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "représentation"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "alve4o",
-      "title": "Qui se cache derrière le champignon introduit illégalement il y a 40 ans pour combattre les ronces australiennes ?",
-      "summary": "L’ESSENTIEL Un champignon, disséminé clandestinement pour lutter contre la prolifération des ronces australiennes, reste au cœur d’une énigme vieille de plus de quarante ans. Son introduction sur le territoire australien par un voyageur faisait encourir une peine de cinq ans de prison, mais son efficacité s’est révélée",
-      "link": "https://theconversation.com/qui-se-cache-derriere-le-champignon-introduit-illegalement-il-y-a-40-ans-pour-combattre-les-ronces-australiennes-294254",
-      "image": "https://images.theconversation.com/files/758711/original/file-20260909-50-90b9j8.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-01T07:49:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
