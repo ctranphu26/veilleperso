@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:13:58.762Z",
+  "generatedAt": "2026-11-05T05:14:18.224Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,96 @@
   "count": 35,
   "items": [
     {
+      "id": "aetwglq",
+      "title": "Il n’y a pas d’âge pour philosopher !",
+      "summary": "Les inscriptions au MOOC « La philosophie avec les enfants et adolescents : enjeux éthiques et politiques » sont ouvertes du 2 novembre 2026 au 12 février 2027. Organisée par la Chaire L’article Il n’y a pas d’âge pour philosopher ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/05/il-ny-a-pas-dage-pour-philosopher/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/philo-300x166.png",
+      "publishedAt": "2026-11-05T04:29:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aylixzk",
+      "title": "Éducation nationale : le grand divorce entre le ministère et les enseignants",
+      "summary": "Héritière d’une structuration napoléonienne qui n’a jamais été véritablement remise en cause, la gouvernance de l’Education nationale française est restée verticale et descendante. L’activité éducative est prescrite par les autorités L’article Éducation nationale : le grand divorce entre le ministère et les enseignants",
+      "link": "https://www.cafepedagogique.net/2026/11/05/education-nationale-le-grand-divorce-entre-le-ministere-et-les-enseignants/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/Stephane-Germain-cafe-pedagogique.jpeg",
+      "publishedAt": "2026-11-05T04:50:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ae6sc7g",
+      "title": "L’école évalue-t-elle les élèves ou les classe-t-elle ?",
+      "summary": "Que désigne-t-on, au juste, quand on parle de « résultats scolaires » ? Pour Jacques Marpeau, docteur en sciences de l’éducation, enseignant spécialisé et membre de la FNAREN, et Daniel L’article L’école évalue-t-elle les élèves ou les classe-t-elle ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/05/lecole-evalue-t-elle-les-eleves-ou-les-classe-t-elle/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/09/Jacques-Marpeau-et-Daniel-Gostain-300x225.jpg",
+      "publishedAt": "2026-11-05T04:45:05.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "élève",
+        "enseignant",
+        "classe"
+      ],
+      "relevance": 100,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atnex53",
+      "title": "Faire du commun plutôt que multiplier les adaptations : le pari de la M2PA",
+      "summary": "Et si l’école inclusive commençait dès la préparation des cours ? Avec la méthode de planification pédagogique de l’accessibilité (M2PA), une nouvelle approche est possible pour rendre les apprentissages accessibles L’article Faire du commun plutôt que multiplier les adaptations : le pari de la M2PA est apparu en premi",
+      "link": "https://www.cafepedagogique.net/2026/11/05/faire-du-commun-plutot-que-multiplier-les-adaptations-le-pari-de-la-m2pa/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/IMG_8953-1-e1788969892289-255x300.jpeg",
+      "publishedAt": "2026-11-05T04:30:48.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "apprentissage"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agjsp99",
+      "title": "La photographie à l’honneur au Musée d’Archéologie nationale",
+      "summary": "Le MAN de Saint-Germain-en-Laye participe aux célébrations du bicentenaire de la naissance de la photographie. À cette occasion, il a choisi une artiste plasticienne et photographe comme artiste en résidence L’article La photographie à l’honneur au Musée d’Archéologie nationale est apparu en premier sur Le Café pédagog",
+      "link": "https://www.cafepedagogique.net/2026/11/05/la-photographie-a-lhonneur-au-musee-darcheologie-nationale/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/MAN-cour-300x169.jpg",
+      "publishedAt": "2026-11-05T04:28:28.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "anvv6jq",
       "title": "Le temps long des réformes fondamentales de l’Ecole : l’exemple de la loi Goblet",
       "summary": "« Rien n’est simple et les dates emblématiques contribuent à l’occulter ». Si des dates marquent l’Histoire, l’historien de l’éducation Claude Lelièvre rappelle dans ce texte, qu’elles s’inscrivent aussi dans L’article Le temps long des réformes fondamentales de l’Ecole : l’exemple de la loi Goblet est apparu en premie",
@@ -133,7 +223,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 81,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +239,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -165,8 +255,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajsxx30",
@@ -183,8 +273,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5mawcv",
@@ -201,8 +291,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auq9lhp",
@@ -217,8 +307,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6u38j3",
@@ -233,8 +323,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akyencg",
@@ -249,8 +339,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6nflaa",
@@ -265,8 +355,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ac2ohgm",
@@ -281,8 +371,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ari0fg5",
@@ -297,26 +387,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ax2euwn",
-      "title": "Le rectorat de Rennes condamné à indemniser un enseignant suite à un rapport d’inspection",
-      "summary": "« Le tribunal administratif a donné raison à un enseignant retraité qui avait attaqué en justice le rectorat de Rennes, en réparation des préjudices d’un « accident de service » dont il L’article Le rectorat de Rennes condamné à indemniser un enseignant suite à un rapport d’inspection est apparu en premier sur Le Café ",
-      "link": "https://www.cafepedagogique.net/2026/11/04/le-rectorat-de-rennes-condamne-a-indemniser-un-enseignant-suite-a-un-rapport-dinspection/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/academie-rennes-300x226.jpg",
-      "publishedAt": "2026-11-04T04:35:17.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alsfbtv",
@@ -331,7 +403,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -347,26 +419,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "astip3z",
-      "title": "A la découverte du journal des apprentissages",
-      "summary": "Le journal des apprentissages est un dispositif particulièrement formateur : il invite l’élève à y rédiger chaque jour, pour dresser un bilan, reformuler et fixer des savoirs, verbaliser des plaisirs ou L’article A la découverte du journal des apprentissages est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/04/a-la-decouverte-du-journal-des-apprentissages/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/A-la-decouverte-du-journal-des-apprentissages-200x300.jpg",
-      "publishedAt": "2026-11-04T04:50:19.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "apprentissage"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -385,7 +438,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -401,7 +454,26 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "astip3z",
+      "title": "A la découverte du journal des apprentissages",
+      "summary": "Le journal des apprentissages est un dispositif particulièrement formateur : il invite l’élève à y rédiger chaque jour, pour dresser un bilan, reformuler et fixer des savoirs, verbaliser des plaisirs ou L’article A la découverte du journal des apprentissages est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/04/a-la-decouverte-du-journal-des-apprentissages/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/A-la-decouverte-du-journal-des-apprentissages-200x300.jpg",
+      "publishedAt": "2026-11-04T04:50:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "apprentissage"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -420,7 +492,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,26 +510,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afvki4r",
-      "title": "Et si les fractions devenaient un terrain de jeu avec l’atelier des Potions ?",
-      "summary": "Comment réconcilier (si besoin) les élèves avec les fractions ? Marion Fellrath, enseignante en CM2, raconte comment cet outil pédagogique permet de conjuguer plaisir d’apprendre, autonomie et construction des savoirs. L’article Et si les fractions devenaient un terrain de jeu avec l’atelier des Potions ? est apparu en",
-      "link": "https://www.cafepedagogique.net/2026/11/04/et-si-les-fractions-devenaient-un-terrain-de-jeu-avec-latelier-des-potions/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/Marion-Fellrath-a-2025-e1772997542816-298x300.jpeg",
-      "publishedAt": "2026-11-04T04:30:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,55 +526,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "a68nhr9",
-      "title": "Venez présenter votre projet au Forum du Café pédagogique !",
-      "summary": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche L’article Venez présenter votre projet au Forum du Café pédagogique ! est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/04/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Forum-du-Cafe-pedagogique-enseignants-Paris-2027-234x300.png",
-      "publishedAt": "2026-11-04T04:31:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "aj40l02",
+      "title": "Une leçon pour Washington face à l’Iran : le fiasco franco‑britannique de Suez il y a 70 ans",
+      "summary": "Comme le détroit d’Ormuz, le canal de Suez est une voie d’eau vitale pour le commerce mondial. Viktor Hladchenko/Shutterstock L’ESSENTIEL En novembre 1956, Paris et Londres, alliés à Israël, ont renoncé à reprendre le canal de Suez sous la pression américaine. Sa livre sterling affaiblie et sa dépendance envers Washing",
+      "link": "https://theconversation.com/une-lecon-pour-washington-face-a-liran-le-fiasco-franco-britannique-de-suez-il-y-a-70-ans-295809",
+      "image": "https://images.theconversation.com/files/769806/original/file-20261026-52-ukg115.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3000%2C2000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-03T15:28:27.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 48,
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aar44x5",
-      "title": "Littérature jeunesse : Deux Camille, deux passions",
-      "summary": "Elles s’appellent toutes les deux Camille. L’une adore le skate, l’autre le violoncelle. Deux albums qui parlent de filles qui s’accrochent pour vivre leur passion. Car il ne suffit pas L’article Littérature jeunesse : Deux Camille, deux passions est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/04/litterature-jeunesse-deux-camille-deux-passions/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Camille-skate-Camille-le-chat-et-le-violoncelle-300x225.jpeg",
-      "publishedAt": "2026-11-04T04:29:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajwgqqu",
-      "title": "Cinéma : Rendez-vous au Arras Film Festival 2026",
-      "summary": "Pour la 27e édition de son festival de cinéma, la ville d’Arras vous invite dans ses salles et d’autres espaces réservés à partager l’expérience exceptionnelle d’une programmation originale « qui fait L’article Cinéma : Rendez-vous au Arras Film Festival 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/04/cinema-rendez-vous-au-arras-film-festival-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/image-1-231x300.png",
-      "publishedAt": "2026-11-04T04:28:37.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -539,23 +560,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aj40l02",
-      "title": "Une leçon pour Washington face à l’Iran : le fiasco franco‑britannique de Suez il y a 70 ans",
-      "summary": "Comme le détroit d’Ormuz, le canal de Suez est une voie d’eau vitale pour le commerce mondial. Viktor Hladchenko/Shutterstock L’ESSENTIEL En novembre 1956, Paris et Londres, alliés à Israël, ont renoncé à reprendre le canal de Suez sous la pression américaine. Sa livre sterling affaiblie et sa dépendance envers Washing",
-      "link": "https://theconversation.com/une-lecon-pour-washington-face-a-liran-le-fiasco-franco-britannique-de-suez-il-y-a-70-ans-295809",
-      "image": "https://images.theconversation.com/files/769806/original/file-20261026-52-ukg115.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3000%2C2000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-03T15:28:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -571,7 +576,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -587,7 +592,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -603,7 +608,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -619,7 +624,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -635,7 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -651,7 +656,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -669,7 +674,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -685,7 +690,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -701,7 +706,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     }
   ]
