@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T05:14:05.391Z",
+  "generatedAt": "2026-11-06T13:46:07.744Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,40 @@
   "count": 35,
   "items": [
     {
+      "id": "au1oeg6",
+      "title": "Grève interprofessionnelle : la joie et la rage au rendez-vous",
+      "summary": "« Ne nous arrêtons pas là : c’est le moment de transformer l’espoir en victoire ! » lance le Snes-Fsu à l’issue de la journée où le syndicat annonce 52% L’article Grève interprofessionnelle : la joie et la rage au rendez-vous est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/06/greve-interprofessionnelle-la-joie-et-la-rage-au-rendez-vous/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Greve-interprofessionnelle-La-joie-et-la-rage-au-rendez-vous-Cafe-pedagogique-5-300x225.jpeg",
+      "publishedAt": "2026-11-06T05:57:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 92,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aw51gpy",
+      "title": "REPORTAGE Grève du 5 novembre : professeurs et lycéens ont manifesté nombreux malgré les annonces du gouvernement",
+      "summary": "Répondant à l’appel de l’intersyndicale interprofessionnelle, lycéens et personnels de l’Éducation nationale sont venus manifester en nombre ce 5 novembre. Les vacances et les annonces du gouvernement n’ont pas affaibli L’article REPORTAGE Grève du 5 novembre : professeurs et lycéens ont manifesté nombreux malgré les a",
+      "link": "https://www.cafepedagogique.net/2026/11/06/greve-du-5-novembre-professeurs-et-lyceens-ont-manifeste-nombreux-malgre-les-annonces-du-gouvernement/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/greve-5-novembre-2026-LYON-Cafe-pedagogique-5-300x200.jpeg",
+      "publishedAt": "2026-11-06T05:00:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 91,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "ane2af9",
       "title": "Réformes de l’école : ce que veulent les cadres",
       "summary": "Après avoir consacré un éclairant dossier aux « rendez-vous manqués de l’école », la revue Administration & Éducation s’efforce d’esquisser des pistes de transformation pour l’avenir. L’Association Française des Acteurs de l’Education (AFAE) L’article Réformes de l’école : ce que veulent les cadres est apparu en premie",
@@ -134,7 +168,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 90,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
@@ -150,34 +184,84 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 80,
       "urgencyLevel": "haute"
     },
     {
-      "id": "akngrnr",
-      "title": "Grève du 5 novembre : professeurs et lycéens ont manifesté nombreux malgré les annonces du gouvernement",
-      "summary": "Répondant à l’appel de l’intersyndicale interprofessionnelle, lycéens et personnels de l’Éducation nationale sont venus manifester en nombre ce 5 novembre. Les vacances et les annonces du gouvernement n’ont pas affaibli L’article Grève du 5 novembre : professeurs et lycéens ont manifesté nombreux malgré les annonces du",
-      "link": "https://www.cafepedagogique.net/2026/11/05/greve-du-5-novembre-professeurs-et-lyceens-ont-manifeste-nombreux-malgre-les-annonces-du-gouvernement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/greve-5-novembre-2026-LYON-Cafe-pedagogique-5-300x200.jpeg",
-      "publishedAt": "2026-11-05T17:00:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
+      "id": "afzi7sn",
+      "title": "Derrière les polémiques autour du terme « racisé », une opposition sur le poids du racisme dans notre société",
+      "summary": "Quelle place joue la couleur de peau dans nos trajectoires de vie ? Khamkéo/Unsplash, CC BY L’ESSENTIEL Les polémiques sont nombreuses autour du terme « racisé », mais elles cachent un désaccord plus profond, portant sur la compréhension du racisme. L’enjeu, derrière le mot, porte donc sur la place que les phénomènes r",
+      "link": "https://theconversation.com/derriere-les-polemiques-autour-du-terme-racise-une-opposition-sur-le-poids-du-racisme-dans-notre-societe-284979",
+      "image": "https://images.theconversation.com/files/748617/original/file-20260717-57-b214rp.jpg?ixlib=rb-4.1.1&amp;rect=0%2C223%2C2666%2C1777&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-06T11:05:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
       "keywords": [
-        "professeur"
+        "racisme"
       ],
-      "relevance": 77,
+      "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 87,
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac4gjwt",
+      "title": "Midterms aux États-Unis : quelles conséquences pour la guerre en Ukraine ?",
+      "summary": "De la fumée s’échappe du bâtiment du gouvernement ukrainien à Kiev, après une attaque russe dans la nuit du 7 septembre 2025. Service d’État pour les situations d’urgence d’Ukraine/Wikimedia Commons, CC BY, CC BY L’ESSENTIEL Aux États-Unis, les élections de mi-mandat ont infligé un revers cinglant à Donald Trump et aux",
+      "link": "https://theconversation.com/midterms-aux-etats-unis-quelles-consequences-pour-la-guerre-en-ukraine-296063",
+      "image": "https://images.theconversation.com/files/770479/original/file-20261106-64-33ah4y.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-06T10:34:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahqit1s",
+      "title": "La COP31 s’ouvre dans un contexte défavorable : comment retrouver des marges d’action climatique ?",
+      "summary": "L’ESSENTIEL La 31ᵉ Conférence des parties à la Convention-cadre des Nations unies sur les changements climatiques, COP31, se déroule en Turquie du 9 au 20 novembre 2026 dans un contexte international chahuté, notamment du fait de la crise énergétique mondiale et des conflits qui l’ont causée. La défection américaine, d",
+      "link": "https://theconversation.com/la-cop31-souvre-dans-un-contexte-defavorable-comment-retrouver-des-marges-daction-climatique-295995",
+      "image": "https://images.theconversation.com/files/770285/original/file-20261105-78-1wxxpc.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-06T10:32:44.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
       "id": "a65gkoz",
-      "title": "Ouvrez des prisons, vous fermerez des écoles !",
-      "summary": "« Le gouvernement a choisi de traquer les mots plutôt que d’en comprendre le sens ». Des gardes à vue massives à la confiscation de pancartes, « pour l’AFEF (association L’article Ouvrez des prisons, vous fermerez des écoles ! est apparu en premier sur Le Café pédagogique.",
+      "title": "« On leur apprend l’esprit critique, on leur confisque leurs pancartes » : l’AFEF dénonce une censure de la jeunesse",
+      "summary": "« Le gouvernement a choisi de traquer les mots plutôt que d’en comprendre le sens ». Des gardes à vue massives à la confiscation de pancartes, « pour l’AFEF (association L’article « On leur apprend l’esprit critique, on leur confisque leurs pancartes » : l’AFEF dénonce une censure de la jeunesse est apparu en premier s",
       "link": "https://www.cafepedagogique.net/2026/11/06/ouvrez-des-prisons-vous-fermerez-des-ecoles/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Chaises-176x300.jpeg",
       "publishedAt": "2026-11-06T04:55:02.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "esprit critique"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahh2nkz",
+      "title": "Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 !",
+      "summary": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche L’article Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/06/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Forum-du-Cafe-pedagogique-enseignants-Paris-2027-234x300.png",
+      "publishedAt": "2026-11-06T04:28:41.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
@@ -186,7 +270,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -205,7 +289,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -223,23 +307,23 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
-      "id": "arv33fw",
-      "title": "L’Éducation nouvelle n’a pas dit son dernier mot",
-      "summary": "Près de 450 personnes venues d’une vingtaine de pays (malgré de trop nombreux refus de visas), une centaine d’ateliers, de débats, de témoignages, mais aussi des conférences, des films, et L’article L’Éducation nouvelle n’a pas dit son dernier mot est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/06/leducation-nouvelle-na-pas-dit-son-dernier-mot/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/biennale-300x121.png",
-      "publishedAt": "2026-11-06T04:27:26.000Z",
+      "id": "aizni2u",
+      "title": "1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique !",
+      "summary": "Pour poursuivre ses publications quotidiennes, le Café pédagogique a besoin de votre aide. Voici plusieurs façons pour aider votre média indépendant : Abonnement de soutien à 5 euros par mois L’article 1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique ! est apparu en premier sur Le Café pédagogiq",
+      "link": "https://www.cafepedagogique.net/2026/11/06/et-si-vous-vous-engagiez-pour-un-media-qui-soutient-lecole/",
+      "image": "https://cafepedagogique.net/wp-content/uploads/2025/05/Soutenir-le-cafe-pedagogique-300x200.jpg",
+      "publishedAt": "2026-11-06T04:30:38.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -255,7 +339,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -271,8 +355,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8bnap2",
@@ -289,7 +373,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -307,7 +391,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -323,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -339,7 +423,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -355,7 +439,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,7 +455,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -387,7 +471,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -403,7 +487,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,7 +505,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -437,41 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "azgb06j",
-      "title": "« On n’attendra pas d’avoir 18 ans pour agir » : une jeunesse qui se mobilise",
-      "summary": "« On demande juste de travailler dans de bonnes conditions ». Devant les lycées parisiens, des lycéennes et lycéens expliquent pourquoi ils bloquent leur établissement. Ils parlent de moyens, des inégalités L’article « On n’attendra pas d’avoir 18 ans pour agir » : une jeunesse qui se mobilise est apparu en premier sur",
-      "link": "https://www.cafepedagogique.net/2026/11/05/on-nattendra-pas-davoir-18-ans-pour-agir-une-jeunesse-qui-se-mobilise/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/UNEparis-300x225.jpeg",
-      "publishedAt": "2026-11-05T05:33:11.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a704zhz",
-      "title": "Strasbourg : 300 lycéens mobilisés, des policiers déployés et la menace de 135 euros d’amende",
-      "summary": "Environ 300 lycéennes et lycéens du lycée Fustel de Coulanges à Strasbourg ont participé aux blocus. La mobilisation se déroule dans le calme et une ambiance joyeuse. Et toujours ce L’article Strasbourg : 300 lycéens mobilisés, des policiers déployés et la menace de 135 euros d’amende est apparu en premier sur Le Café ",
-      "link": "https://www.cafepedagogique.net/2026/11/05/strasbourg-300-lyceens-mobilises-des-policiers-deployes-et-la-menace-de-135-euros-damende/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/unestrasbourg-@este9417-300x169.jpeg",
-      "publishedAt": "2026-11-05T05:20:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -487,7 +537,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -502,42 +552,6 @@
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ajsxx30",
-      "title": "Harcèlement scolaire : les livres pour enfants apprennent-ils aux témoins à appeler à l’aide ?",
-      "summary": "L’ESSENTIEL Ce jeudi 5 novembre 2026, les écoles se mobilisent contre le harcèlement scolaire. Pour aborder le sujet avec des enfants, on peut passer par la lecture de fictions. Une analyse de 78 livres francophones invite à interroger le rôle qu’ils peuvent jouer en matière de prévention. Comme chaque année, le premie",
-      "link": "https://theconversation.com/harcelement-scolaire-les-livres-pour-enfants-apprennent-ils-aux-temoins-a-appeler-a-laide-295375",
-      "image": "https://counter.theconversation.com/content/295375/count.gif",
-      "publishedAt": "2026-11-04T15:41:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5mawcv",
-      "title": "Corporate green reports: do independent checks really help companies deliver measurable action?",
-      "summary": "Accountability reporting and external scrutiny make companies more likely to follow through with their ESG promises. Without verification, sustainability claims may serve more as a marketing tool than evidence of real climate action. Aksonsat Uanthoeng/Shutterstock (no reuse), CC BY KEY TAKEAWAYS Corporate sustainabili",
-      "link": "https://theconversation.com/corporate-green-reports-do-independent-checks-really-help-companies-deliver-measurable-action-295282",
-      "image": "https://images.theconversation.com/files/768730/original/file-20261028-52-4irw8u.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-04T15:37:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "vérification"
-      ],
-      "relevance": 56,
       "relevanceLevel": "moyenne",
       "urgency": 47,
       "urgencyLevel": "moyenne"
@@ -555,7 +569,43 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ajsxx30",
+      "title": "Harcèlement scolaire : les livres pour enfants apprennent-ils aux témoins à appeler à l’aide ?",
+      "summary": "L’ESSENTIEL Ce jeudi 5 novembre 2026, les écoles se mobilisent contre le harcèlement scolaire. Pour aborder le sujet avec des enfants, on peut passer par la lecture de fictions. Une analyse de 78 livres francophones invite à interroger le rôle qu’ils peuvent jouer en matière de prévention. Comme chaque année, le premie",
+      "link": "https://theconversation.com/harcelement-scolaire-les-livres-pour-enfants-apprennent-ils-aux-temoins-a-appeler-a-laide-295375",
+      "image": "https://counter.theconversation.com/content/295375/count.gif",
+      "publishedAt": "2026-11-04T15:41:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5mawcv",
+      "title": "Corporate green reports: do independent checks really help companies deliver measurable action?",
+      "summary": "Accountability reporting and external scrutiny make companies more likely to follow through with their ESG promises. Without verification, sustainability claims may serve more as a marketing tool than evidence of real climate action. Aksonsat Uanthoeng/Shutterstock (no reuse), CC BY KEY TAKEAWAYS Corporate sustainabili",
+      "link": "https://theconversation.com/corporate-green-reports-do-independent-checks-really-help-companies-deliver-measurable-action-295282",
+      "image": "https://images.theconversation.com/files/768730/original/file-20261028-52-4irw8u.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C3999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-04T15:37:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "vérification"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -571,7 +621,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -587,7 +637,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -603,7 +653,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -619,7 +669,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -635,7 +685,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -651,55 +701,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8tqkbk",
-      "title": "Midterms : après la déroute des républicains, le monde doit se préparer à un Trump plus imprévisible",
-      "summary": "L’ESSENTIEL Aux États-Unis, les républicains de Donald Trump ont subi aux midterms ce qui ressemble à leur pire défaite depuis cinquante ans. Les démocrates l’emportent jusque dans des bastions républicains comme le Texas, où aucun des leurs n’avait été élu sénateur depuis 1988. Privé de marge de manœuvre en politique ",
-      "link": "https://theconversation.com/midterms-apres-la-deroute-des-republicains-le-monde-doit-se-preparer-a-un-trump-plus-imprevisible-295885",
-      "image": "https://counter.theconversation.com/content/295885/count.gif",
-      "publishedAt": "2026-11-04T08:06:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aj40l02",
-      "title": "Une leçon pour Washington face à l’Iran : le fiasco franco‑britannique de Suez il y a 70 ans",
-      "summary": "Comme le détroit d’Ormuz, le canal de Suez est une voie d’eau vitale pour le commerce mondial. Viktor Hladchenko/Shutterstock L’ESSENTIEL En novembre 1956, Paris et Londres, alliés à Israël, ont renoncé à reprendre le canal de Suez sous la pression américaine. Sa livre sterling affaiblie et sa dépendance envers Washing",
-      "link": "https://theconversation.com/une-lecon-pour-washington-face-a-liran-le-fiasco-franco-britannique-de-suez-il-y-a-70-ans-295809",
-      "image": "https://images.theconversation.com/files/769806/original/file-20261026-52-ukg115.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3000%2C2000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-03T15:28:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ams243l",
-      "title": "La France est-elle entrée en récession en 2026 ?",
-      "summary": "L’ESSENTIEL Au troisième trimestre 2026, le produit intérieur brut de la France s’est contracté de 0,1 %. Cette baisse de la production signale-t-elle une entrée de l’économie en récession ? Comment cette dernière est-elle définie ? Les données disponibles à ce jour ne permettent pas de caractériser une récession de l’",
-      "link": "https://theconversation.com/la-france-est-elle-entree-en-recession-en-2026-295759",
-      "image": "https://images.theconversation.com/files/769704/original/file-20261103-64-z08gd.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-03T15:12:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 39,
       "urgencyLevel": "basse"
     }
   ]
