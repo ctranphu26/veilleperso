@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:46:07.744Z",
+  "generatedAt": "2026-11-06T22:43:51.462Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 92,
+      "urgency": 83,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 91,
+      "urgency": 82,
       "urgencyLevel": "haute"
     },
     {
@@ -168,7 +168,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -184,7 +184,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -202,8 +202,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ac4gjwt",
@@ -218,8 +218,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahqit1s",
@@ -234,8 +234,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a65gkoz",
@@ -252,8 +252,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahh2nkz",
@@ -270,8 +270,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5sbd10",
@@ -289,8 +289,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afvmh18",
@@ -307,8 +307,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aizni2u",
@@ -323,8 +323,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aprtzdt",
@@ -339,8 +339,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aau85qf",
@@ -355,7 +355,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -373,7 +373,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -391,7 +391,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +407,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -423,7 +423,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,7 +439,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -455,7 +455,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -471,23 +471,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aa49yej",
-      "title": "Dementia with Lewy bodies: what you should know about the little-known, progressive brain disease",
-      "summary": "Robin Williams, Monica Vitti, Patrick Stewart or French actress Nathalie Baye: all these famous people lost their lives to dementia with Lewy bodies. This neurocognitive disease is only tends to get publicity when a celebrity dies from it. Yet it is a common disease (and one of the most common forms of dementia), in Fr",
-      "link": "https://theconversation.com/dementia-with-lewy-bodies-what-you-should-know-about-the-little-known-progressive-brain-disease-288246",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-05T09:43:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -505,7 +489,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aa49yej",
+      "title": "Dementia with Lewy bodies: what you should know about the little-known, progressive brain disease",
+      "summary": "Robin Williams, Monica Vitti, Patrick Stewart or French actress Nathalie Baye: all these famous people lost their lives to dementia with Lewy bodies. This neurocognitive disease is only tends to get publicity when a celebrity dies from it. Yet it is a common disease (and one of the most common forms of dementia), in Fr",
+      "link": "https://theconversation.com/dementia-with-lewy-bodies-what-you-should-know-about-the-little-known-progressive-brain-disease-288246",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-05T09:43:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -521,7 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -537,7 +537,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -553,7 +553,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -569,8 +569,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ajsxx30",
@@ -587,8 +587,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5mawcv",
@@ -605,8 +605,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a6u38j3",
@@ -621,8 +621,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akyencg",
@@ -637,8 +637,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a6nflaa",
@@ -653,8 +653,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ac2ohgm",
@@ -669,8 +669,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ari0fg5",
@@ -685,8 +685,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "alsfbtv",
@@ -701,7 +701,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 34,
       "urgencyLevel": "basse"
     }
   ]
