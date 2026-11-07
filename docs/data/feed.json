@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T12:29:41.600Z",
+  "generatedAt": "2026-11-07T21:28:00.218Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 77,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +165,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +181,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4854zf",
@@ -197,8 +197,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8be096",
@@ -213,60 +213,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ar57bj5",
-      "title": "Actualité de l’éducation du 2 au 6 novembre 2026",
-      "summary": "Une jeunesse qui refuse de se taire, une École sous tension et des questions qui dérangent. Cette semaine, le Café pédagogique donne largement la parole aux lycéennes et lycéens mobilisés, L’article Actualité de l’éducation du 2 au 6 novembre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/07/actualite-de-leducation-du-2-au-6-novembre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/mobilisation5-300x200.jpg",
-      "publishedAt": "2026-11-07T06:00:05.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "adzyrn3",
-      "title": "14 ressources mises en avant par le Café pédagogique",
-      "summary": "Cette semaine, le Café pédagogique vous propose une sélection de 14 ressources pédagogiques pour nourrir vos pratiques. Faire des fractions un jeu, ouvrir les fenêtres du collège sur le monde, L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/07/14-ressources-mises-en-avant-par-le-cafe-pedagogique-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/A-quoi-nous-programme-le-francais-au-lycee-montage-300x245.png",
-      "publishedAt": "2026-11-07T05:02:02.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "au1oeg6",
-      "title": "Grève interprofessionnelle : la joie et la rage au rendez-vous",
-      "summary": "« Ne nous arrêtons pas là : c’est le moment de transformer l’espoir en victoire ! » lance le Snes-Fsu à l’issue de la journée où le syndicat annonce 52% L’article Grève interprofessionnelle : la joie et la rage au rendez-vous est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/06/greve-interprofessionnelle-la-joie-et-la-rage-au-rendez-vous/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Greve-interprofessionnelle-La-joie-et-la-rage-au-rendez-vous-Cafe-pedagogique-5-300x225.jpeg",
-      "publishedAt": "2026-11-06T05:57:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aw51gpy",
@@ -283,8 +231,60 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "au1oeg6",
+      "title": "Grève interprofessionnelle : la joie et la rage au rendez-vous",
+      "summary": "« Ne nous arrêtons pas là : c’est le moment de transformer l’espoir en victoire ! » lance le Snes-Fsu à l’issue de la journée où le syndicat annonce 52% L’article Grève interprofessionnelle : la joie et la rage au rendez-vous est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/06/greve-interprofessionnelle-la-joie-et-la-rage-au-rendez-vous/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Greve-interprofessionnelle-La-joie-et-la-rage-au-rendez-vous-Cafe-pedagogique-5-300x225.jpeg",
+      "publishedAt": "2026-11-06T05:57:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ar57bj5",
+      "title": "Actualité de l’éducation du 2 au 6 novembre 2026",
+      "summary": "Une jeunesse qui refuse de se taire, une École sous tension et des questions qui dérangent. Cette semaine, le Café pédagogique donne largement la parole aux lycéennes et lycéens mobilisés, L’article Actualité de l’éducation du 2 au 6 novembre 2026 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/07/actualite-de-leducation-du-2-au-6-novembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/mobilisation5-300x200.jpg",
+      "publishedAt": "2026-11-07T06:00:05.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "adzyrn3",
+      "title": "14 ressources mises en avant par le Café pédagogique",
+      "summary": "Cette semaine, le Café pédagogique vous propose une sélection de 14 ressources pédagogiques pour nourrir vos pratiques. Faire des fractions un jeu, ouvrir les fenêtres du collège sur le monde, L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/07/14-ressources-mises-en-avant-par-le-cafe-pedagogique-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/A-quoi-nous-programme-le-francais-au-lycee-montage-300x245.png",
+      "publishedAt": "2026-11-07T05:02:02.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ane2af9",
@@ -302,7 +302,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +320,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +336,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -352,7 +352,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,7 +370,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -389,7 +389,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -407,7 +407,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -423,7 +423,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,7 +439,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -455,7 +455,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,8 +473,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "az92bvv",
@@ -491,8 +491,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9kn82j",
@@ -507,8 +507,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aghd4zn",
@@ -523,8 +523,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a8th31d",
@@ -539,8 +539,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aay8wad",
@@ -555,8 +555,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a1bqvv1",
+      "title": "Quiz - De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
+      "summary": "La bière consommée dans cette scène de taverne (David Teniers, 1658) des Pays-Bas n’est pas une boisson comme une autre. C’est un breuvage géopolitique qui opposa notamment protestants et catholiques. Wikimédia Les guerres de la bière : quand la mousse fait trembler les empires Derrière une simple chope de bière se cac",
+      "link": "https://theconversation.com/quiz-de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-295917",
+      "image": "https://images.theconversation.com/files/770038/original/file-20261104-64-qidieq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C55%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-05T11:05:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "alcik1k",
@@ -573,23 +589,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1bqvv1",
-      "title": "Quiz - De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
-      "summary": "La bière consommée dans cette scène de taverne (David Teniers, 1658) des Pays-Bas n’est pas une boisson comme une autre. C’est un breuvage géopolitique qui opposa notamment protestants et catholiques. Wikimédia Les guerres de la bière : quand la mousse fait trembler les empires Derrière une simple chope de bière se cac",
-      "link": "https://theconversation.com/quiz-de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-295917",
-      "image": "https://images.theconversation.com/files/770038/original/file-20261104-64-qidieq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C55%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-05T11:05:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -605,7 +605,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -621,7 +621,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -639,7 +639,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -655,7 +655,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -671,7 +671,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -687,7 +687,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -703,7 +703,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
