@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T04:34:53.062Z",
+  "generatedAt": "2026-11-08T12:47:45.423Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,93 @@
   "count": 35,
   "items": [
     {
+      "id": "a517qjw",
+      "title": "Et si Socrate était le meilleur allié des enseignants face à l’intelligence artificielle ?",
+      "summary": "*Alcibiade recevant l’enseignement de Socrate*, par François-André Vincent, 1777. Wikimedia Commons, CC BY L’ESSENTIEL L’IA a prouvé qu’elle savait bien répondre aux questions. Mais sait-elle en poser ? Dans les dialogues de Platon, Socrate interroge ses interlocuteurs jusqu’à l’aporie, où ils découvrent ignorer ce qu’",
+      "link": "https://theconversation.com/et-si-socrate-etait-le-meilleur-allie-des-enseignants-face-a-lintelligence-artificielle-294543",
+      "image": "https://images.theconversation.com/files/766566/original/file-20261006-70-piijb1.jpg?ixlib=rb-4.1.1&amp;rect=0%2C52%2C1184%2C789&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-08T08:12:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement",
+        "enseignant"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3yv66x",
+      "title": "Salaire d’appoint, le « quart en moins » : l’économiste Rachel Silvera retrace un siècle d’inégalités salariales",
+      "summary": "Les « munitionnettes », pendant la Première Guerre mondiale, se sont battues pour l’égalité salariale (ici, les ouvrières de l’usine Decauville à Corbeil dans l’Essonne, en 1915). Wikimediacommons Chaque automne, le hashtag lancé en 2016 par le média Les Glorieuses fixe une date symbolique : celle à partir de laquelle ",
+      "link": "https://theconversation.com/salaire-dappoint-le-quart-en-moins-leconomiste-rachel-silvera-retrace-un-siecle-dinegalites-salariales-295569",
+      "image": "https://images.theconversation.com/files/769227/original/file-20261030-64-yj1z06.png?ixlib=rb-4.1.1&amp;rect=0%2C98%2C1600%2C1066&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-08T08:12:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "égalité"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajmsefe",
+      "title": "Soigner la dépression pendant la grossesse pourrait favoriser le développement cérébral du bébé",
+      "summary": "La dépression affecte une femme enceinte sur cinq. SDI Productions/E+ via Getty Images Traiter la dépression des femmes enceintes grâce à une brève prise en charge psychothérapeutique n’améliore pas seulement leur santé : cela peut aussi influencer le développement cérébral de leur bébé avant même sa naissance. C’est e",
+      "link": "https://theconversation.com/soigner-la-depression-pendant-la-grossesse-pourrait-favoriser-le-developpement-cerebral-du-bebe-296078",
+      "image": "https://images.theconversation.com/files/770482/original/file-20261006-50-sc67av.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6720%2C4480&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-08T08:13:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aenwz7d",
+      "title": "Votre assistant IA peut-il obéir à un inconnu ?",
+      "summary": "L’ESSENTIEL Une phrase cachée dans un mail par une entité malveillante peut suffire à donner des ordres à un assistant IA. Cette « injection de consignes » n’est pas un bug comme les autres : elle profite de la façon dont ces systèmes fonctionnent. La parade passe moins par de meilleurs filtres de messagerie, que par u",
+      "link": "https://theconversation.com/votre-assistant-ia-peut-il-obeir-a-un-inconnu-295513",
+      "image": "https://images.theconversation.com/files/769564/original/file-20261102-64-7zoxzm.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-08T08:13:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ax6ly5f",
+      "title": "La Francophonie, multilatéralisme des faibles ?",
+      "summary": "L’ESSENTIEL L’Organisation internationale de la Francophonie estime à 396 millions le nombre de locuteurs francophones dans le monde, dont 65 % en Afrique. Aucune puissance émergente ne siège dans les rangs de l’OIF, son budget dépend de quelques bailleurs du Nord, et l’influence française recule. À quelques jours du S",
+      "link": "https://theconversation.com/la-francophonie-multilateralisme-des-faibles-295369",
+      "image": "https://counter.theconversation.com/content/295369/count.gif",
+      "publishedAt": "2026-11-08T08:11:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "apfcv2w",
       "title": "Les centres de données créent-ils vraiment des emplois ? Ce que révèle l’étude de 1 584 sites",
       "summary": "L’ESSENTIEL Aux États-Unis, l’ouverture d’un centre de données s’accompagne en moyenne de 1 000 à 1 300 emplois locaux supplémentaires hors construction. Dans les comtés américains étudiés, ces emplois mettent trois à cinq ans à apparaître et relèvent surtout des secteurs au service des data centers. À l’inverse, l’étu",
@@ -133,8 +220,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aeaay8k",
@@ -149,8 +236,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ag1rsun",
@@ -165,8 +252,24 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "au1oeg6",
+      "title": "Grève interprofessionnelle : la joie et la rage au rendez-vous",
+      "summary": "« Ne nous arrêtons pas là : c’est le moment de transformer l’espoir en victoire ! » lance le Snes-Fsu à l’issue de la journée où le syndicat annonce 52% L’article Grève interprofessionnelle : la joie et la rage au rendez-vous est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/06/greve-interprofessionnelle-la-joie-et-la-rage-au-rendez-vous/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Greve-interprofessionnelle-La-joie-et-la-rage-au-rendez-vous-Cafe-pedagogique-5-300x225.jpeg",
+      "publishedAt": "2026-11-06T05:57:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 47,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aw51gpy",
@@ -183,7 +286,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -199,7 +302,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -215,23 +318,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "au1oeg6",
-      "title": "Grève interprofessionnelle : la joie et la rage au rendez-vous",
-      "summary": "« Ne nous arrêtons pas là : c’est le moment de transformer l’espoir en victoire ! » lance le Snes-Fsu à l’issue de la journée où le syndicat annonce 52% L’article Grève interprofessionnelle : la joie et la rage au rendez-vous est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/06/greve-interprofessionnelle-la-joie-et-la-rage-au-rendez-vous/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Greve-interprofessionnelle-La-joie-et-la-rage-au-rendez-vous-Cafe-pedagogique-5-300x225.jpeg",
-      "publishedAt": "2026-11-06T05:57:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -247,7 +334,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -265,7 +352,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +370,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -302,7 +389,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,8 +407,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ac4gjwt",
@@ -336,8 +423,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ahqit1s",
@@ -352,8 +439,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aau85qf",
@@ -368,8 +455,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a65gkoz",
@@ -386,8 +473,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5sbd10",
@@ -405,8 +492,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "afvmh18",
@@ -423,8 +510,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aizni2u",
@@ -439,8 +526,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aprtzdt",
@@ -455,8 +542,8 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a8bnap2",
@@ -473,7 +560,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +578,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -507,7 +594,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -523,7 +610,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -539,7 +626,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -555,7 +642,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 29,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a1bqvv1",
+      "title": "Quiz - De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
+      "summary": "La bière consommée dans cette scène de taverne (David Teniers, 1658) des Pays-Bas n’est pas une boisson comme une autre. C’est un breuvage géopolitique qui opposa notamment protestants et catholiques. Wikimédia Les guerres de la bière : quand la mousse fait trembler les empires Derrière une simple chope de bière se cac",
+      "link": "https://theconversation.com/quiz-de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-295917",
+      "image": "https://images.theconversation.com/files/770038/original/file-20261104-64-qidieq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C55%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-05T11:05:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 28,
       "urgencyLevel": "basse"
     },
     {
@@ -573,23 +676,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1bqvv1",
-      "title": "Quiz - De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
-      "summary": "La bière consommée dans cette scène de taverne (David Teniers, 1658) des Pays-Bas n’est pas une boisson comme une autre. C’est un breuvage géopolitique qui opposa notamment protestants et catholiques. Wikimédia Les guerres de la bière : quand la mousse fait trembler les empires Derrière une simple chope de bière se cac",
-      "link": "https://theconversation.com/quiz-de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-295917",
-      "image": "https://images.theconversation.com/files/770038/original/file-20261104-64-qidieq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C55%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-05T11:05:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -605,7 +692,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -621,89 +708,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ajsxx30",
-      "title": "Harcèlement scolaire : les livres pour enfants apprennent-ils aux témoins à appeler à l’aide ?",
-      "summary": "L’ESSENTIEL Ce jeudi 5 novembre 2026, les écoles se mobilisent contre le harcèlement scolaire. Pour aborder le sujet avec des enfants, on peut passer par la lecture de fictions. Une analyse de 78 livres francophones invite à interroger le rôle qu’ils peuvent jouer en matière de prévention. Comme chaque année, le premie",
-      "link": "https://theconversation.com/harcelement-scolaire-les-livres-pour-enfants-apprennent-ils-aux-temoins-a-appeler-a-laide-295375",
-      "image": "https://counter.theconversation.com/content/295375/count.gif",
-      "publishedAt": "2026-11-04T15:41:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "auq9lhp",
-      "title": "Après les élections de mi-mandat, l’échec de la promesse de Trump d’une énergie moins chère",
-      "summary": "L’ESSENTIEL Les élections de mi-mandat (midterms) ont vu la victoire des démocrates. Ces derniers avaient fait du coût de la vie – et en particulier de l’énergie – le cheval de bataille de leur campagne. On se souvient du slogan « Drill, baby, drill » proclamé par Donald Trump lors de la cérémonie d’investiture de son ",
-      "link": "https://theconversation.com/apres-les-elections-de-mi-mandat-lechec-de-la-promesse-de-trump-dune-energie-moins-chere-295899",
-      "image": "https://images.theconversation.com/files/770036/original/file-20261104-64-fdzvci.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-04T15:56:40.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6u38j3",
-      "title": "Le livre de poche, un objet aussi simple que précieux",
-      "summary": "Salon Lire en poche, à Gradignan (Gironde, France), ici en octobre 2016. Franck fnba/Wikipédia, CC BY L’ESSENTIEL Lancé en France en 1953, le livre de poche est toujours un objet emblématique de la culture populaire. Malgré l’apparition de nouvelles collections aux prix encore plus modiques ou l’avènement du livre numé",
-      "link": "https://theconversation.com/le-livre-de-poche-un-objet-aussi-simple-que-precieux-294705",
-      "image": "https://images.theconversation.com/files/769528/original/file-20261102-64-a1nbr.jpg?ixlib=rb-4.1.1&amp;rect=0%2C53%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-04T15:45:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "akyencg",
-      "title": "La constellation humaine derrière Gaia, le plus grand catalogue d’étoiles jamais réalisé",
-      "summary": "Vue d’artiste du satellite Gaia. ©ESA/DUCROS David, 2013, CC BY-SA À l’heure du tout numérique, on pourrait croire que produire un catalogue de plus de deux milliards d’étoiles à partir de données satellitaires d’un télescope en orbite n’est qu’une simple prouesse algorithmique et informatique. Pourtant, avant d’être a",
-      "link": "https://theconversation.com/la-constellation-humaine-derriere-gaia-le-plus-grand-catalogue-detoiles-jamais-realise-293290",
-      "image": "https://images.theconversation.com/files/768831/original/file-20261028-52-roxo8v.jpg?ixlib=rb-4.1.1&amp;rect=0%2C14%2C850%2C566&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-04T15:44:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6nflaa",
-      "title": "Trump et Truth Social : parole publique, intérêts privés",
-      "summary": "L’ESSENTIEL Depuis l’été 2026, des investisseurs paient jusqu’à 100 000 dollars par mois pour recevoir les publications de Donald Trump quelques millisecondes avant le reste du monde. Certains juristes y voient un délit d’initiés, voire de la corruption. Cette affaire montre surtout comment l’État de droit peut s’effri",
-      "link": "https://theconversation.com/trump-et-truth-social-parole-publique-interets-prives-295667",
-      "image": "https://counter.theconversation.com/content/295667/count.gif",
-      "publishedAt": "2026-11-04T15:42:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 27,
       "urgencyLevel": "basse"
     }
   ]
