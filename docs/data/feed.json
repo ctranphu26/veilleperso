@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:46:01.760Z",
+  "generatedAt": "2026-11-09T15:14:50.778Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,38 @@
   "count": 35,
   "items": [
     {
+      "id": "aasbs4z",
+      "title": "Remodeler son travail pour trouver du sens : l’exemple des surveillants pénitentiaires",
+      "summary": "L’ESSENTIEL Le travail réel des surveillants de prison reste largement méconnu. Leurs conditions de travail sont loin d’être simples sur fond de surpopulation carcérale. Dans le cadre d’une thèse universitaire, l’auteur a observé comment les surveillants aménageaient les prescriptions de leur métier pour se l’approprie",
+      "link": "https://theconversation.com/remodeler-son-travail-pour-trouver-du-sens-lexemple-des-surveillants-penitentiaires-292504",
+      "image": "https://counter.theconversation.com/content/292504/count.gif",
+      "publishedAt": "2026-11-09T11:26:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2xu4vf",
+      "title": "Titres-restaurant : déjeuner au travail ou remplir le réfrigérateur ?",
+      "summary": "L’essentiel Créé en 1967 pour financer le repas des salariés sans cantine, le titre-restaurant sert de plus en plus à faire les courses. Près d’un tiers de sa valeur est dépensé en grande distribution. La réforme adoptée par l’Assemblée nationale, le 12 octobre 2026, pérennise cet usage, sans que ses effets sur la paus",
+      "link": "https://theconversation.com/titres-restaurant-dejeuner-au-travail-ou-remplir-le-refrigerateur-295580",
+      "image": "https://counter.theconversation.com/content/295580/count.gif",
+      "publishedAt": "2026-11-09T11:25:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 86,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aaqc422",
       "title": "EXPOSITION : le Louvre se raconte en images",
       "summary": "Le Louvre comme vous ne l’avez jamais vu ! À travers 300 photographies, des premiers daguerréotypes à aujourd’hui, l’exposition « Louvre Photo » raconte, jusqu’au 3 mai 2027, la vie L’article EXPOSITION : le Louvre se raconte en images est apparu en premier sur Le Café pédagogique.",
@@ -133,32 +165,13 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 90,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "apoi811",
-      "title": "Guadeloupe : mobilisation contre la fermeture du collège Germain Saint-Ruf",
-      "summary": "À Capesterre-Belle-Eau, en Guadeloupe, parents d’élèves et enseignants se mobilisent contre le projet de fermeture du collège Germain Saint-Ruf. Ils dénoncent les conséquences d’une telle décision sur la scolarité des L’article Guadeloupe : mobilisation contre la fermeture du collège Germain Saint-Ruf est apparu en pre",
-      "link": "https://www.cafepedagogique.net/2026/11/09/guadeloupe-mobilisation-contre-la-fermeture-du-college-germain-saint-ruf/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/college-germain-saint-ruf-300x175.png",
-      "publishedAt": "2026-11-09T04:27:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 90,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
       "id": "ax5mzpv",
       "title": "Hommage à Alain Bourgarel",
-      "summary": "Alain Bourgarel, père de l’éducation prioritaire est décédé le 4 novembre 2026. L’ancien Dgesco et Jean-Paul Delahaye retrace son parcours et lui rend hommage. J’éprouve une vive émotion à l’annonce L’article Hommage à Alain Bourgarel est apparu en premier sur Le Café pédagogique.",
+      "summary": "Alain Bourgarel, père de l’éducation prioritaire est décédé le 4 novembre 2026. L’ancien Dgesco Jean-Paul Delahaye retrace son parcours et lui rend hommage. J’éprouve une vive émotion à l’annonce du L’article Hommage à Alain Bourgarel est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/11/09/hommage-a-alain-bourgarel/",
       "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Alain-Bourgarel-216x300.jpeg",
       "publishedAt": "2026-11-09T04:27:08.000Z",
@@ -168,8 +181,78 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 90,
+      "urgency": 79,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "ay7lhxe",
+      "title": "Face aux cadences infernales, qu’est-ce qui fait tenir les internes en médecine ?",
+      "summary": "L’ESSENTIEL La santé mentale des internes en médecine se trouve particulièrement mise à mal par un quotidien sous tension. Une étude donne la parole à ces médecins dont la relation au patient joue un rôle essentiel dans leur bien-être professionnel. Plusieurs raisons les poussent à prendre soin de leurs malades, mais e",
+      "link": "https://theconversation.com/face-aux-cadences-infernales-quest-ce-qui-fait-tenir-les-internes-en-medecine-292041",
+      "image": "https://counter.theconversation.com/content/292041/count.gif",
+      "publishedAt": "2026-11-09T11:26:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "an0r5jx",
+      "title": "Commémoration du 11 novembre : « l’école n’est ni un sanctuaire, ni un cimetière »",
+      "summary": "Cérémonie obligatoire, rituel fixé par un vademecum, héroïsation des « morts pour la France » : le ministère veut que l’Ecole commémore le 11 novembre. « Le lien entre l’école et L’article Commémoration du 11 novembre : « l’école n’est ni un sanctuaire, ni un cimetière » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/09/commemoration-du-11-novembre-lecole-nest-ni-un-sanctuaire-ni-un-cimetiere/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Cafe-pedagogique-300x169.png",
+      "publishedAt": "2026-11-09T04:50:48.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a9lzxbm",
+      "title": "Brest : les trombinoscopes de 4 500 élèves réquisitionnés par la police judiciaire",
+      "summary": "4 500 lycéen·nes fichés ? Mercredi 4 novembre, en pleine mobilisation lycéenne, des policiers en civil munis d’une réquisition judiciaire ont récupéré les trombinoscopes de 4 500 élèves dans trois L’article Brest : les trombinoscopes de 4 500 élèves réquisitionnés par la police judiciaire est apparu en premier sur Le C",
+      "link": "https://www.cafepedagogique.net/2026/11/09/brest-les-trombinoscopes-de-4-500-eleves-requisitionnes-par-la-police-judiciaire/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Manifestation-etudiante-devant-le-lycee-300x200.png",
+      "publishedAt": "2026-11-09T04:57:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a16umo0",
+      "title": "Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 !",
+      "summary": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche L’article Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/09/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Forum-du-Cafe-pedagogique-enseignants-Paris-2027-234x300.png",
+      "publishedAt": "2026-11-09T04:28:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ah95ewa",
@@ -186,8 +269,24 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "arbje8l",
+      "title": "Blocus : quand les chiffres divisent aussi les parents",
+      "summary": "« Les parents qui subissent ont plutôt l’impression que c’est uniquement chez eux. » 1 000 lycées bloqués selon les syndicats, 81 selon le ministère : derrière la bataille des chiffres, L’article Blocus : quand les chiffres divisent aussi les parents est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/09/blocus-quand-les-chiffres-divisent-aussi-les-parents/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/CP-fcpe-mustafa.ozcelik-1-225x300.jpeg",
+      "publishedAt": "2026-11-09T04:55:29.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a1ogupd",
@@ -202,8 +301,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apqm4ze",
@@ -218,8 +317,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aq010fo",
@@ -234,8 +333,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a517qjw",
@@ -253,7 +352,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -271,7 +370,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -289,7 +388,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -305,7 +404,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -321,7 +420,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -339,7 +438,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -355,7 +454,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,23 +470,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "au1oeg6",
-      "title": "Grève interprofessionnelle : la joie et la rage au rendez-vous",
-      "summary": "« Ne nous arrêtons pas là : c’est le moment de transformer l’espoir en victoire ! » lance le Snes-Fsu à l’issue de la journée où le syndicat annonce 52% L’article Grève interprofessionnelle : la joie et la rage au rendez-vous est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/06/greve-interprofessionnelle-la-joie-et-la-rage-au-rendez-vous/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Greve-interprofessionnelle-La-joie-et-la-rage-au-rendez-vous-Cafe-pedagogique-5-300x225.jpeg",
-      "publishedAt": "2026-11-06T05:57:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -403,13 +486,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a4854zf",
-      "title": "Midterms 2026 : le populisme  à l'épreuve de la démocratie",
-      "summary": "Les élections de mi-mandat se sont soldées par un sérieux revers pour le parti républicain. La politologue Élisa Chelle, auteure de La démocratie à l'épreuve du populisme : les leçons du trumpisme (Odile Jacob, 2025), analyse les recompositions ayant contribué à cette victoire démocrate, ainsi que les limites du populi",
+      "title": "Midterms 2026 : le populisme  à l’épreuve de la démocratie",
+      "summary": "Les élections de mi-mandat se sont soldées par un sérieux revers pour le parti républicain. La politologue Élisa Chelle, auteure de La démocratie à l’épreuve du populisme : les leçons du trumpisme (Odile Jacob, 2025), analyse les recompositions ayant contribué à cette victoire démocrate, ainsi que les limites du populi",
       "link": "https://theconversation.com/midterms-2026-le-populisme-a-lepreuve-de-la-democratie-296086",
       "image": "https://counter.theconversation.com/content/296086/count.gif",
       "publishedAt": "2026-11-07T10:04:06.000Z",
@@ -419,8 +502,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a8be096",
@@ -435,59 +518,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar57bj5",
-      "title": "Actualité de l’éducation du 2 au 6 novembre 2026",
-      "summary": "Une jeunesse qui refuse de se taire, une École sous tension et des questions qui dérangent. Cette semaine, le Café pédagogique donne largement la parole aux lycéennes et lycéens mobilisés, L’article Actualité de l’éducation du 2 au 6 novembre 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/07/actualite-de-leducation-du-2-au-6-novembre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/mobilisation5-300x200.jpg",
-      "publishedAt": "2026-11-07T06:00:05.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adzyrn3",
-      "title": "14 ressources mises en avant par le Café pédagogique",
-      "summary": "Cette semaine, le Café pédagogique vous propose une sélection de 14 ressources pédagogiques pour nourrir vos pratiques. Faire des fractions un jeu, ouvrir les fenêtres du collège sur le monde, L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/07/14-ressources-mises-en-avant-par-le-cafe-pedagogique-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/A-quoi-nous-programme-le-francais-au-lycee-montage-300x245.png",
-      "publishedAt": "2026-11-07T05:02:02.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aau85qf",
-      "title": "Des mots qui effacent les animaux ? Ce que révèle l’écriture scientifique",
-      "summary": "Les scientifiques emploient souvent, dans les publications où ils décrivent leurs expérimentations faites sur des animaux, des termes qui effacent les souffrances de ces derniers. Fourni par l'auteur L’ESSENTIEL Les formulations qu’utilisent les scientifiques dans les publications décrivant des expérimentations sur les",
-      "link": "https://theconversation.com/des-mots-qui-effacent-les-animaux-ce-que-revele-lecriture-scientifique-295226",
-      "image": "https://images.theconversation.com/files/769517/original/file-20261102-64-ssbcuz.jpg?ixlib=rb-4.1.1&amp;rect=468%2C0%2C5062%2C3375&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-05T09:32:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 36,
       "urgencyLevel": "basse"
     },
     {
@@ -505,7 +536,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 31,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -521,7 +552,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -537,7 +568,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 31,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -555,7 +586,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -573,7 +604,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -589,7 +620,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -605,7 +636,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -621,7 +652,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -637,25 +668,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 23,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "alcik1k",
-      "title": "Ce nouveau langage scientifique qui adoucit la destruction du vivant",
-      "summary": "L’ESSENTIEL La mode n’est pas qu’une question de vêtements ou de musique, elle touche aussi le langage scientifique. Certains mots sont sélectionnés, encouragés ou abandonnés par les scientifiques. Ceux utilisés pour décrire les causes et les conséquences de la destruction de la biodiversité ne font pas exception. Depu",
-      "link": "https://theconversation.com/ce-nouveau-langage-scientifique-qui-adoucit-la-destruction-du-vivant-294016",
-      "image": "https://images.theconversation.com/files/765793/original/file-20261013-60-d409nc.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-05T09:31:57.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "diversité"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 20,
       "urgencyLevel": "basse"
     },
     {
@@ -671,7 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -687,23 +700,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 22,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "am7o1fn",
-      "title": "From Kenya to France: how face masks are becoming a rallying symbol",
-      "summary": "KEY TAKEAWAYS In 2020, during the Covid-19 pandemic, the French government initially discouraged people from wearing face masks that it could not provide, before imposing them first on middle and high schools at the start of the school year, then on elementary schools. In the recent student uprisings, protesters have b",
-      "link": "https://theconversation.com/from-kenya-to-france-how-face-masks-are-becoming-a-rallying-symbol-295793",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-05T08:54:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 22,
+      "urgency": 19,
       "urgencyLevel": "basse"
     }
   ]
