@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:41:43.676Z",
+  "generatedAt": "2026-11-09T04:46:01.760Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,125 @@
   "count": 35,
   "items": [
     {
+      "id": "aaqc422",
+      "title": "EXPOSITION : le Louvre se raconte en images",
+      "summary": "Le Louvre comme vous ne l’avez jamais vu ! À travers 300 photographies, des premiers daguerréotypes à aujourd’hui, l’exposition « Louvre Photo » raconte, jusqu’au 3 mai 2027, la vie L’article EXPOSITION : le Louvre se raconte en images est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/09/exposition-le-louvre-se-raconte-en-images/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Affiche-Louvre-Photo-200x300.png",
+      "publishedAt": "2026-11-09T04:28:45.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apoi811",
+      "title": "Guadeloupe : mobilisation contre la fermeture du collège Germain Saint-Ruf",
+      "summary": "À Capesterre-Belle-Eau, en Guadeloupe, parents d’élèves et enseignants se mobilisent contre le projet de fermeture du collège Germain Saint-Ruf. Ils dénoncent les conséquences d’une telle décision sur la scolarité des L’article Guadeloupe : mobilisation contre la fermeture du collège Germain Saint-Ruf est apparu en pre",
+      "link": "https://www.cafepedagogique.net/2026/11/09/guadeloupe-mobilisation-contre-la-fermeture-du-college-germain-saint-ruf/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/college-germain-saint-ruf-300x175.png",
+      "publishedAt": "2026-11-09T04:27:06.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "enseignant"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ax5mzpv",
+      "title": "Hommage à Alain Bourgarel",
+      "summary": "Alain Bourgarel, père de l’éducation prioritaire est décédé le 4 novembre 2026. L’ancien Dgesco et Jean-Paul Delahaye retrace son parcours et lui rend hommage. J’éprouve une vive émotion à l’annonce L’article Hommage à Alain Bourgarel est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/09/hommage-a-alain-bourgarel/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Alain-Bourgarel-216x300.jpeg",
+      "publishedAt": "2026-11-09T04:27:08.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 90,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ah95ewa",
+      "title": "Un guide pour enseigner le français à l’heure de l’IA",
+      "summary": "L’Intelligence Artificielle peut-elle faciliter le travail des enseignant·es de français ? Réponse positive pour Cécile Cathelin, de l’académie d’Orléans-Tours, et Ophélie Gilbert, de l’académie de Bordeaux. Elles publient en ce sens L’article Un guide pour enseigner le français à l’heure de l’IA est apparu en premier ",
+      "link": "https://www.cafepedagogique.net/2026/11/09/un-guide-pour-enseigner-le-francais-a-lheure-de-lia/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Un-guide-pour-enseigner-le-francais-a-lheure-de-lIA-210x300.png",
+      "publishedAt": "2026-11-09T04:29:27.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1ogupd",
+      "title": "11 novembre : le culte de « la terre et des morts » comme fondement d’une culture historique scolaire et d’une morale civique",
+      "summary": "Commémoration nationale du 11 novembre, « guide ubuesque » : « Anticipant sur l’arrivée de l’extrême-droite au pouvoir, l’Éducation nationale fait du lavage de cerveau militaro-patriotique une discipline à part entière » écrit Bernard Girard, L’article 11 novembre : le culte de « la terre et des morts » comme fondement",
+      "link": "https://www.cafepedagogique.net/2026/11/09/11-novembre-le-culte-de-la-terre-et-des-morts-comme-fondement-dune-culture-historique-scolaire-et-dune-morale-civique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bernard-Girard.png",
+      "publishedAt": "2026-11-09T04:40:50.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apqm4ze",
+      "title": "Quand le collège relie les territoires",
+      "summary": "A un collège qui enferme préférer une éducation qui agrandit, relie, libère ? En Haute-Savoie, Océane Caboche et Sarah Parvery ont déployé en ce sens un remarquable partenariat pédagogique entre deux L’article Quand le collège relie les territoires est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/09/quand-le-college-relie-les-territoires/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Oceane-Caboche-et-Sarah-Parvery-Journal-Montagne-225x300.png",
+      "publishedAt": "2026-11-09T04:30:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aq010fo",
+      "title": "Fécondes interdisciplinarités",
+      "summary": "« Le lycée professionnel est souvent perçu comme un terrain fertile pour des expérimentations pédagogiques audacieuses, notamment en matière d’interdisciplinarité » : ainsi s’ouvre le numéro 56 de la revue des PLP lettres-histoire L’article Fécondes interdisciplinarités est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/09/fecondes-interdisciplinarites/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Interlignes-Interdisciplinarites-212x300.png",
+      "publishedAt": "2026-11-09T04:29:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a517qjw",
       "title": "Et si Socrate était le meilleur allié des enseignants face à l’intelligence artificielle ?",
       "summary": "*Alcibiade recevant l’enseignement de Socrate*, par François-André Vincent, 1777. Wikimedia Commons, CC BY L’ESSENTIEL L’IA a prouvé qu’elle savait bien répondre aux questions. Mais sait-elle en poser ? Dans les dialogues de Platon, Socrate interroge ses interlocuteurs jusqu’à l’aporie, où ils découvrent ignorer ce qu’",
@@ -134,7 +253,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -152,7 +271,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -170,7 +289,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -186,7 +305,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -202,7 +321,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -220,7 +339,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -236,7 +355,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -252,24 +371,6 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aw51gpy",
-      "title": "REPORTAGE Grève du 5 novembre : professeurs et lycéens ont manifesté nombreux malgré les annonces du gouvernement",
-      "summary": "Répondant à l’appel de l’intersyndicale interprofessionnelle, lycéens et personnels de l’Éducation nationale sont venus manifester en nombre ce 5 novembre. Les vacances et les annonces du gouvernement n’ont pas affaibli L’article REPORTAGE Grève du 5 novembre : professeurs et lycéens ont manifesté nombreux malgré les a",
-      "link": "https://www.cafepedagogique.net/2026/11/06/greve-du-5-novembre-professeurs-et-lyceens-ont-manifeste-nombreux-malgre-les-annonces-du-gouvernement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/greve-5-novembre-2026-LYON-Cafe-pedagogique-5-300x200.jpeg",
-      "publishedAt": "2026-11-06T05:00:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
       "urgency": 52,
       "urgencyLevel": "moyenne"
     },
@@ -286,7 +387,7 @@
       "keywords": [],
       "relevance": 47,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -302,7 +403,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -318,7 +419,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -334,25 +435,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adzyrn3",
-      "title": "14 ressources mises en avant par le Café pédagogique",
-      "summary": "Cette semaine, le Café pédagogique vous propose une sélection de 14 ressources pédagogiques pour nourrir vos pratiques. Faire des fractions un jeu, ouvrir les fenêtres du collège sur le monde, L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/07/14-ressources-mises-en-avant-par-le-cafe-pedagogique-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/A-quoi-nous-programme-le-francais-au-lycee-montage-300x245.png",
-      "publishedAt": "2026-11-07T05:02:02.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,27 +453,42 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "ane2af9",
-      "title": "Réformes de l’école : ce que veulent les cadres",
-      "summary": "Après avoir consacré un éclairant dossier aux « rendez-vous manqués de l’école », la revue Administration & Éducation s’efforce d’esquisser des pistes de transformation pour l’avenir. L’Association Française des Acteurs de l’Education (AFAE) L’article Réformes de l’école : ce que veulent les cadres est apparu en premie",
-      "link": "https://www.cafepedagogique.net/2026/11/06/reformes-de-lecole-ce-que-veulent-les-cadres/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Reformes-de-l_ecole-ce-q-ue-veulent-les-cadres-194x300.png",
-      "publishedAt": "2026-11-06T04:50:00.000Z",
+      "id": "adzyrn3",
+      "title": "14 ressources mises en avant par le Café pédagogique",
+      "summary": "Cette semaine, le Café pédagogique vous propose une sélection de 14 ressources pédagogiques pour nourrir vos pratiques. Faire des fractions un jeu, ouvrir les fenêtres du collège sur le monde, L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/07/14-ressources-mises-en-avant-par-le-cafe-pedagogique-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/A-quoi-nous-programme-le-francais-au-lycee-montage-300x245.png",
+      "publishedAt": "2026-11-07T05:02:02.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
+      "themeId": "education-medias",
       "keywords": [
-        "école",
-        "formation"
+        "source"
       ],
-      "relevance": 85,
+      "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 42,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aau85qf",
+      "title": "Des mots qui effacent les animaux ? Ce que révèle l’écriture scientifique",
+      "summary": "Les scientifiques emploient souvent, dans les publications où ils décrivent leurs expérimentations faites sur des animaux, des termes qui effacent les souffrances de ces derniers. Fourni par l'auteur L’ESSENTIEL Les formulations qu’utilisent les scientifiques dans les publications décrivant des expérimentations sur les",
+      "link": "https://theconversation.com/des-mots-qui-effacent-les-animaux-ce-que-revele-lecriture-scientifique-295226",
+      "image": "https://images.theconversation.com/files/769517/original/file-20261102-64-ssbcuz.jpg?ixlib=rb-4.1.1&amp;rect=468%2C0%2C5062%2C3375&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-05T09:32:03.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 32,
+      "urgencyLevel": "basse"
     },
     {
       "id": "afzi7sn",
@@ -407,7 +505,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -423,7 +521,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -439,110 +537,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aau85qf",
-      "title": "Des mots qui effacent les animaux ? Ce que révèle l’écriture scientifique",
-      "summary": "Les scientifiques emploient souvent, dans les publications où ils décrivent leurs expérimentations faites sur des animaux, des termes qui effacent les souffrances de ces derniers. Fourni par l'auteur L’ESSENTIEL Les formulations qu’utilisent les scientifiques dans les publications décrivant des expérimentations sur les",
-      "link": "https://theconversation.com/des-mots-qui-effacent-les-animaux-ce-que-revele-lecriture-scientifique-295226",
-      "image": "https://images.theconversation.com/files/769517/original/file-20261102-64-ssbcuz.jpg?ixlib=rb-4.1.1&amp;rect=468%2C0%2C5062%2C3375&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-05T09:32:03.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a65gkoz",
-      "title": "« On leur apprend l’esprit critique, on leur confisque leurs pancartes » : l’AFEF dénonce une censure de la jeunesse",
-      "summary": "« Le gouvernement a choisi de traquer les mots plutôt que d’en comprendre le sens ». Des gardes à vue massives à la confiscation de pancartes, « pour l’AFEF (association L’article « On leur apprend l’esprit critique, on leur confisque leurs pancartes » : l’AFEF dénonce une censure de la jeunesse est apparu en premier s",
-      "link": "https://www.cafepedagogique.net/2026/11/06/ouvrez-des-prisons-vous-fermerez-des-ecoles/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Chaises-176x300.jpeg",
-      "publishedAt": "2026-11-06T04:55:02.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "esprit critique"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5sbd10",
-      "title": "SCOllectif : « Redonner du sens à la coopération »",
-      "summary": "En cette année scolaire aux enjeux particulièrement cruciaux pour l’Ecole, le Café pédagogique a souhaité mettre en lumière les associations enseignantes, leur engagement et leurs projets. Pour le troisième volet L’article SCOllectif : « Redonner du sens à la coopération » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/06/scollectif-redonner-du-sens-a-la-cooperation/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Visuel-SCOllectif-300x300.png",
-      "publishedAt": "2026-11-06T04:30:27.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "enseignant"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "afvmh18",
-      "title": "Rendez-vous de l’orientation Onisep – Éducation inclusive et accompagnement à l’orientation : enjeux et pistes pédagogiques",
-      "summary": "Les « Rendez-vous de l’orientation » donnent la parole à des spécialistes (inspecteurs et inspectrices de l’Éducation nationale, enseignants-chercheurs, enseignantes-chercheuses…) qui interviennent sur leur domaine d’expertise lors de visioconférences. C’est L’article Rendez-vous de l’orientation Onisep – Éducation inc",
-      "link": "https://www.cafepedagogique.net/2026/11/06/rendez-vous-de-lorientation-onisep-education-inclusive-et-accompagnement-a-lorientation-enjeux-et-pistes-pedagogiques/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Marie-Pierre_Toubhans_onisep_1200_800-300x200.jpeg",
-      "publishedAt": "2026-11-06T04:29:16.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aizni2u",
-      "title": "1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique !",
-      "summary": "Pour poursuivre ses publications quotidiennes, le Café pédagogique a besoin de votre aide. Voici plusieurs façons pour aider votre média indépendant : Abonnement de soutien à 5 euros par mois L’article 1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique ! est apparu en premier sur Le Café pédagogiq",
-      "link": "https://www.cafepedagogique.net/2026/11/06/et-si-vous-vous-engagiez-pour-un-media-qui-soutient-lecole/",
-      "image": "https://cafepedagogique.net/wp-content/uploads/2025/05/Soutenir-le-cafe-pedagogique-300x200.jpg",
-      "publishedAt": "2026-11-06T04:30:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aprtzdt",
-      "title": "30 textes pour dire une génération qui résiste et espère",
-      "summary": "Inviter « 30 auteurs et autrices de moins de 30 ans de 30 pays » à prendre la plume pour écrire le monde tel qu’iels le voient et tel qu’iels le veulent : L’article 30 textes pour dire une génération qui résiste et espère est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/06/30-textes-pour-dire-une-generation-entre-resiste-et-espere/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Etienne-Galliand-photo-249x300.jpeg",
-      "publishedAt": "2026-11-06T04:45:40.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 47,
-      "relevanceLevel": "moyenne",
-      "urgency": 32,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -560,7 +555,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -578,7 +573,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -594,7 +589,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -610,7 +605,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -626,7 +621,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -642,23 +637,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 25,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1bqvv1",
-      "title": "Quiz - De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
-      "summary": "La bière consommée dans cette scène de taverne (David Teniers, 1658) des Pays-Bas n’est pas une boisson comme une autre. C’est un breuvage géopolitique qui opposa notamment protestants et catholiques. Wikimédia Les guerres de la bière : quand la mousse fait trembler les empires Derrière une simple chope de bière se cac",
-      "link": "https://theconversation.com/quiz-de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-295917",
-      "image": "https://images.theconversation.com/files/770038/original/file-20261104-64-qidieq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C55%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-05T11:05:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 25,
+      "urgency": 23,
       "urgencyLevel": "basse"
     },
     {
@@ -676,7 +655,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a1bqvv1",
+      "title": "Quiz - De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
+      "summary": "La bière consommée dans cette scène de taverne (David Teniers, 1658) des Pays-Bas n’est pas une boisson comme une autre. C’est un breuvage géopolitique qui opposa notamment protestants et catholiques. Wikimédia Les guerres de la bière : quand la mousse fait trembler les empires Derrière une simple chope de bière se cac",
+      "link": "https://theconversation.com/quiz-de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-295917",
+      "image": "https://images.theconversation.com/files/770038/original/file-20261104-64-qidieq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C55%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-05T11:05:17.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -692,7 +687,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +703,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 22,
       "urgencyLevel": "basse"
     }
   ]
