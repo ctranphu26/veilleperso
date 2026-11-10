@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:14:50.778Z",
+  "generatedAt": "2026-11-10T01:11:58.932Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,56 @@
   "count": 35,
   "items": [
     {
+      "id": "a2a37ww",
+      "title": "Research on migration is going unheard – how can we remedy that?",
+      "summary": "KEY TAKEAWAYS Policymakers do listen to research, but evidence is only one part of the decision-making process. Public opinion, political pressures, values and competing priorities also shape migration policies. How research is communicated matters. Evidence that is presented neutrally can help to build trust among cit",
+      "link": "https://theconversation.com/research-on-migration-is-going-unheard-how-can-we-remedy-that-295312",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-09T15:59:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "alm9g7s",
+      "title": "« Les Voyages de Gulliver » ont 300 ans, et le roman de Jonathan Swift reste un sommet de satire politique",
+      "summary": "*Gulliver présenté au fermier de Brobdingnag*, par Richard Redgrave, tiré des *Voyages de Gulliver*, de Jonathan Swift (1836). Victoria and Albert Museum, Londres, CC BY-NC L’ESSENTIEL Le roman les Voyages de Gulliver, de Jonathan Swift, a été publié le 28 octobre 1726. Ce chef-d’œuvre de satire conserve, aujourd’hui e",
+      "link": "https://theconversation.com/les-voyages-de-gulliver-ont-300-ans-et-le-roman-de-jonathan-swift-reste-un-sommet-de-satire-politique-295700",
+      "image": "https://images.theconversation.com/files/769597/original/file-20261027-52-tu4o6i.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2250%2C1500&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-09T16:08:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "azgiksm",
+      "title": "La vague bleue de 2026 : vote sanction contre Trump ou renouveau idéologique du Parti démocrate ?",
+      "summary": "L’ESSENTIEL Les démocrates remportent les deux Chambres du Congrès et infligent un revers majeur à Donald Trump. Une nouvelle génération progressiste s’impose, comme l’illustrent les victoires d’Abdul El-Sayed, dans le Michigan, et de James Talarico, au Texas. Héritière de Bernie Sanders, cette gauche doit désormais s’",
+      "link": "https://theconversation.com/la-vague-bleue-de-2026-vote-sanction-contre-trump-ou-renouveau-ideologique-du-parti-democrate-296127",
+      "image": "https://counter.theconversation.com/content/296127/count.gif",
+      "publishedAt": "2026-11-09T16:01:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aasbs4z",
       "title": "Remodeler son travail pour trouver du sens : l’exemple des surveillants pénitentiaires",
       "summary": "L’ESSENTIEL Le travail réel des surveillants de prison reste largement méconnu. Leurs conditions de travail sont loin d’être simples sur fond de surpopulation carcérale. Dans le cadre d’une thèse universitaire, l’auteur a observé comment les surveillants aménageaient les prescriptions de leur métier pour se l’approprie",
@@ -131,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +197,25 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ab0qe80",
+      "title": "Quiz Santé – Jouez avec The Conversation pour vous informer sur le remboursement des médicaments antiobésité Mounjaro et Wegovy",
+      "summary": "Wegovy et Mounjaro font partie de ces nouveaux traitements médicamenteux de l’obésité dont le prix de vente est très élevé. Depuis le 15 juin 2026, ces deux spécialités pharmaceutiques sont remboursables en médecine de ville (Mounjaro est également remboursé dans le diabète de type 2, souvent lié à l’obésité). Nous vou",
+      "link": "https://theconversation.com/quiz-sante-jouez-avec-the-conversation-pour-vous-informer-sur-le-remboursement-des-medicaments-antiobesite-mounjaro-et-wegovy-296215",
+      "image": "https://images.theconversation.com/files/641191/original/file-20250108-15-cmvupq.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-09T19:27:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -165,7 +233,103 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ali96xc",
+      "title": "Pourquoi Jean-Luc Mélenchon ne choisit-il pas de rassembler ?",
+      "summary": "Présenté le 7 novembre, le programme présidentiel de La France insoumise montre de nombreuses similitudes (écologie, social, économie) avec les projets du Parti socialiste et des écologistes. Des clivages profonds perdurent en revanche sur Gaza, l’Ukraine et l’Europe. En dynamique dans les sondages, Jean-Luc Mélenchon ",
+      "link": "https://theconversation.com/pourquoi-jean-luc-melenchon-ne-choisit-il-pas-de-rassembler-296135",
+      "image": "https://counter.theconversation.com/content/296135/count.gif",
+      "publishedAt": "2026-11-09T16:18:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajjtx0s",
+      "title": "Budget 2027 : pourquoi personne ne souhaite participer à un « effort partagé » ? Une expérience sociale nous l’explique",
+      "summary": "L’ESSENTIEL Les débats sur le budget 2027 rappellent une réalité inavouable : chacun défend son intérêt et doute des promesses de l’autre. Pour vérifier cette intuition, des chercheurs ont testé en grandeur nature trois jeux du bien public afin d’analyser la coopération et traquer les passagers clandestins. Une seule r",
+      "link": "https://theconversation.com/budget-2027-pourquoi-personne-ne-souhaite-participer-a-un-effort-partage-une-experience-sociale-nous-lexplique-293612",
+      "image": "https://images.theconversation.com/files/767525/original/file-20261021-50-4al3bm.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-09T16:17:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "augpfsn",
+      "title": "Ce que l’affaire Bardella révèle du traitement des données « personnelles »",
+      "summary": "L’ESSENTIEL La publication par Mediapart d’extraits d’échanges instantanés ou de mails à caractère antisémite attribués à Jordan Bardella, en octobre 2026, montre les limites d’une gestion individuelle des traces numériques. Les conversations peuvent rester accessibles à d’autres personnes, même lorsqu’un compte dispar",
+      "link": "https://theconversation.com/ce-que-laffaire-bardella-revele-du-traitement-des-donnees-personnelles-295915",
+      "image": "https://counter.theconversation.com/content/295915/count.gif",
+      "publishedAt": "2026-11-09T16:13:29.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ag15p7k",
+      "title": "Israël : quel rôle pour les partis arabes après leur percée historique aux législatives ?",
+      "summary": "L’ESSENTIEL Les partis arabes ont obtenu 19 sièges sur les 120 de la Knesset, contre 10 dans l’assemblée sortante, grâce à une forte hausse de la participation. Mansour Abbas (Ra’am) envisage une participation au gouvernement, tandis qu’Ahmad Tibi (Liste commune) préfère soutenir de l’extérieur une éventuelle coalition",
+      "link": "https://theconversation.com/israel-quel-role-pour-les-partis-arabes-apres-leur-percee-historique-aux-legislatives-295813",
+      "image": "https://counter.theconversation.com/content/295813/count.gif",
+      "publishedAt": "2026-11-09T16:11:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8jhooc",
+      "title": "Le tabac dans l’angle mort du règlement européen contre la déforestation",
+      "summary": "L’ESSENTIEL Le tabac n’entre pas dans le champ du règlement européen contre la déforestation, qui s’appliquera à compter du 30 décembre 2026 sur les importations de bétail, de cacao, de café, d’huile de palme, de caoutchouc, de bois, de soja et de leurs produits dérivés. La culture du tabac exerce pourtant des pression",
+      "link": "https://theconversation.com/le-tabac-dans-langle-mort-du-reglement-europeen-contre-la-deforestation-295687",
+      "image": "https://images.theconversation.com/files/769585/original/file-20261102-64-thbudv.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-09T16:02:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aw2794j",
+      "title": "COP31 : dans le Pacifique, les femmes payent le plus lourd tribut au changement climatique",
+      "summary": "Dans les pays insulaires du Pacifique, les tâches familiales et domestiques reposent pour l’essentiel sur les femmes. C’est sur les épaules de ces dernières que pèse le plus le fardeau de l’insécurité alimentaire et hydrique. Saeed Khan/Getty L’ESSENTIEL Avant la tenue de la COP31, qui se déroule du 9 au 20 novembre 20",
+      "link": "https://theconversation.com/cop31-dans-le-pacifique-les-femmes-payent-le-plus-lourd-tribut-au-changement-climatique-296174",
+      "image": "https://images.theconversation.com/files/770760/original/file-20261104-64-ufui4k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5600%2C3733&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-09T16:02:12.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +345,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ay7lhxe",
@@ -197,8 +361,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "an0r5jx",
@@ -215,7 +379,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +397,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +415,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,7 +433,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +449,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +465,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -317,7 +481,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,7 +497,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -352,7 +516,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,7 +534,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -388,7 +552,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -404,7 +568,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -420,7 +584,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,7 +602,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -454,7 +618,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -470,7 +634,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,7 +650,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -502,7 +666,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -518,7 +682,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 32,
       "urgencyLevel": "basse"
     },
     {
@@ -536,171 +700,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ac4gjwt",
-      "title": "Midterms aux États-Unis : quelles conséquences pour la guerre en Ukraine ?",
-      "summary": "De la fumée s’échappe du bâtiment du gouvernement ukrainien à Kiev, après une attaque russe dans la nuit du 7 septembre 2025. Service d’État pour les situations d’urgence d’Ukraine/Wikimedia Commons, CC BY, CC BY L’ESSENTIEL Aux États-Unis, les élections de mi-mandat ont infligé un revers cinglant à Donald Trump et aux",
-      "link": "https://theconversation.com/midterms-aux-etats-unis-quelles-consequences-pour-la-guerre-en-ukraine-296063",
-      "image": "https://images.theconversation.com/files/770479/original/file-20261106-64-33ah4y.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-06T10:34:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ahqit1s",
-      "title": "La COP31 s’ouvre dans un contexte défavorable : comment retrouver des marges d’action climatique ?",
-      "summary": "L’ESSENTIEL La 31ᵉ Conférence des parties à la Convention-cadre des Nations unies sur les changements climatiques, COP31, se déroule en Turquie du 9 au 20 novembre 2026 dans un contexte international chahuté, notamment du fait de la crise énergétique mondiale et des conflits qui l’ont causée. La défection américaine, d",
-      "link": "https://theconversation.com/la-cop31-souvre-dans-un-contexte-defavorable-comment-retrouver-des-marges-daction-climatique-295995",
-      "image": "https://images.theconversation.com/files/770285/original/file-20261105-78-1wxxpc.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-06T10:32:44.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8bnap2",
-      "title": "Peut-on être cruel envers une machine ?",
-      "summary": "Insulter une IA, est-ce la même chose que de s’énerver sur son grille-pain ? Ijmaki/Pixabay, CC BY L’ESSENTIEL À partir du 12 novembre 2026, si vous harcelez Claude, l’intelligence artificielle conversationnelle d’Anthropic, elle mettra fin à la discussion. L’entreprise a, en effet, émis une nouvelle règle, qui semble ",
-      "link": "https://theconversation.com/peut-on-etre-cruel-envers-une-machine-295370",
-      "image": "https://images.theconversation.com/files/769579/original/file-20261102-78-r2opje.png?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2546%2C1697&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-05T14:02:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "az92bvv",
-      "title": "Avant la COP31, la Turquie face aux trous d’eau géants qui s’ouvrent dans ses champs de céréales",
-      "summary": "La doline de Kızören, dans la province de Konya, en Anatolie centrale. Des dolines s’ouvrent un peu partout en Turquie, alors que les agriculteurs cherchent de nouvelles sources d’eau. Yalcin Sonat/Shutterstock (no reuse) L’ESSENTIEL L’autorité turque des catastrophes a recensé 684 dolines autour de Konya, de Karaman e",
-      "link": "https://theconversation.com/avant-la-cop31-la-turquie-face-aux-trous-deau-geants-qui-souvrent-dans-ses-champs-de-cereales-295675",
-      "image": "https://images.theconversation.com/files/769531/original/file-20261029-64-f736vn.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1000%2C666&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-05T13:56:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a9kn82j",
-      "title": "Pour Mary Parker Follett, n’évitons pas le conflit, acceptons-le pour devenir plus créatif",
-      "summary": "L’ESSENTIEL « Mère du management moderne », Mary Parker Follett (1868-1933) développe les principes d’un management responsabilisant face à l’organisation scientifique du travail de Frederick Winslow Taylor. Dans Creative Experience (1924), elle rejette l’idée de la domination et du compromis pour résoudre un conflit, ",
-      "link": "https://theconversation.com/pour-mary-parker-follett-nevitons-pas-le-conflit-acceptons-le-pour-devenir-plus-creatif-287010",
-      "image": "https://images.theconversation.com/files/767711/original/file-20261022-50-wzvxh3.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-05T14:00:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aghd4zn",
-      "title": "Attentat de Trappes : ces mutations de l’espace politique qui conditionnent le passage à l’acte raciste",
-      "summary": "L’ESSENTIEL Kevin T., mis en examen pour assassinat raciste à Trappes, possédait des badges « Vive la France, RN, fier d’être français ». Que nous disent les sciences sociales sur le lien entre certains discours politiques et le passage à l’acte criminel d’un individu ? La progression institutionnelle du Rassemblement ",
-      "link": "https://theconversation.com/attentat-de-trappes-ces-mutations-de-lespace-politique-qui-conditionnent-le-passage-a-lacte-raciste-295635",
-      "image": "https://counter.theconversation.com/content/295635/count.gif",
-      "publishedAt": "2026-11-05T13:59:10.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a8th31d",
-      "title": "La ménopause peut discrètement fragiliser les os, voici ce qu’il faut savoir pour les protéger",
-      "summary": "L’ESSENTIEL À la ménopause, les changements hormonaux peuvent mener à une perte de densité osseuse. Cette perte de densité osseuse, qui peut déboucher sur le développement d’une ostéoporose, commence parfois longtemps avant la fin des règles. La détecter tôt permet de mettre en place des mesures pour la freiner : modif",
-      "link": "https://theconversation.com/la-menopause-peut-discretement-fragiliser-les-os-voici-ce-quil-faut-savoir-pour-les-proteger-295957",
-      "image": "https://counter.theconversation.com/content/295957/count.gif",
-      "publishedAt": "2026-11-05T13:58:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aay8wad",
-      "title": "Midterms aux États-Unis : les démocrates peuvent-ils mettre fin à la guerre de Trump en Iran ?",
-      "summary": "L’ESSENTIEL Aux États-Unis, les démocrates, victorieux aux élections de mi-mandat, peuvent contrarier Donald Trump sur sa guerre impopulaire contre l’Iran. Au Congrès, couper les crédits de guerre exposerait toutefois les démocrates à un retour de bâton, comme pour l’Irak en 2007. La guerre en Iran a coûté aux États-Un",
-      "link": "https://theconversation.com/midterms-aux-etats-unis-les-democrates-peuvent-ils-mettre-fin-a-la-guerre-de-trump-en-iran-296001",
-      "image": "https://counter.theconversation.com/content/296001/count.gif",
-      "publishedAt": "2026-11-05T13:28:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 20,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1bqvv1",
-      "title": "Quiz - De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
-      "summary": "La bière consommée dans cette scène de taverne (David Teniers, 1658) des Pays-Bas n’est pas une boisson comme une autre. C’est un breuvage géopolitique qui opposa notamment protestants et catholiques. Wikimédia Les guerres de la bière : quand la mousse fait trembler les empires Derrière une simple chope de bière se cac",
-      "link": "https://theconversation.com/quiz-de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-295917",
-      "image": "https://images.theconversation.com/files/770038/original/file-20261104-64-qidieq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C55%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-05T11:05:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aa49yej",
-      "title": "Dementia with Lewy bodies: what you should know about the little-known, progressive brain disease",
-      "summary": "Robin Williams, Monica Vitti, Patrick Stewart or French actress Nathalie Baye: all these famous people lost their lives to dementia with Lewy bodies. This neurocognitive disease is only tends to get publicity when a celebrity dies from it. Yet it is a common disease (and one of the most common forms of dementia), in Fr",
-      "link": "https://theconversation.com/dementia-with-lewy-bodies-what-you-should-know-about-the-little-known-progressive-brain-disease-288246",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-05T09:43:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 23,
       "urgencyLevel": "basse"
     }
   ]
