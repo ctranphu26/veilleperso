@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:48:49.966Z",
+  "generatedAt": "2026-11-11T13:36:23.944Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -147,8 +147,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ay2dcds",
@@ -163,8 +163,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aeidc1e",
@@ -179,8 +179,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aq76ea8",
@@ -195,8 +195,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajvn83d",
@@ -213,26 +213,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "at8lpec",
-      "title": "Remplacer les professeurs absents : en quoi le vocabulaire officiel de la crise masque-t-il les vrais problèmes ?",
-      "summary": "L’ESSENTIEL Les enseignants ne sont pas plus absents que les salariés du privé. Plutôt que de « profs absents », ne faudrait-il pas plutôt parler de « cours non remplacés » ? Selon les mots qu’on choisit, on transforme un problème d’organisation en affaire d’individus. Si vous avez un enfant au lycée, vous avez peut-êt",
-      "link": "https://theconversation.com/remplacer-les-professeurs-absents-en-quoi-le-vocabulaire-officiel-de-la-crise-masque-t-il-les-vrais-problemes-295466",
-      "image": "https://counter.theconversation.com/content/295466/count.gif",
-      "publishedAt": "2026-11-10T16:42:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant",
-        "professeur"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -250,7 +231,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,7 +250,42 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "adsw4s2",
+      "title": "États-Unis : le retour de la gauche chrétienne ?",
+      "summary": "L’ESSENTIEL Au Kansas et au Texas, États conservateurs, deux démocrates revendiquant leur foi chrétienne ont gagné des sièges au Sénat fédéral. Leurs victoires reposent davantage sur les catholiques, Latinos et non-croyants que sur les évangéliques blancs. Face au nationalisme chrétien de droite, ils défendent une lect",
+      "link": "https://theconversation.com/etats-unis-le-retour-de-la-gauche-chretienne-296169",
+      "image": "https://counter.theconversation.com/content/296169/count.gif",
+      "publishedAt": "2026-11-10T16:53:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "at8lpec",
+      "title": "Remplacer les professeurs absents : en quoi le vocabulaire officiel de la crise masque-t-il les vrais problèmes ?",
+      "summary": "L’ESSENTIEL Les enseignants ne sont pas plus absents que les salariés du privé. Plutôt que de « profs absents », ne faudrait-il pas plutôt parler de « cours non remplacés » ? Selon les mots qu’on choisit, on transforme un problème d’organisation en affaire d’individus. Si vous avez un enfant au lycée, vous avez peut-êt",
+      "link": "https://theconversation.com/remplacer-les-professeurs-absents-en-quoi-le-vocabulaire-officiel-de-la-crise-masque-t-il-les-vrais-problemes-295466",
+      "image": "https://counter.theconversation.com/content/295466/count.gif",
+      "publishedAt": "2026-11-10T16:42:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant",
+        "professeur"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -287,7 +303,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -305,23 +321,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adsw4s2",
-      "title": "États-Unis : le retour de la gauche chrétienne ?",
-      "summary": "L’ESSENTIEL Au Kansas et au Texas, États conservateurs, deux démocrates revendiquant leur foi chrétienne ont gagné des sièges au Sénat fédéral. Leurs victoires reposent davantage sur les catholiques, Latinos et non-croyants que sur les évangéliques blancs. Face au nationalisme chrétien de droite, ils défendent une lect",
-      "link": "https://theconversation.com/etats-unis-le-retour-de-la-gauche-chretienne-296169",
-      "image": "https://counter.theconversation.com/content/296169/count.gif",
-      "publishedAt": "2026-11-10T16:53:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -337,7 +337,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -353,7 +353,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,7 +369,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -385,7 +385,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -401,7 +401,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -417,7 +417,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -433,7 +433,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -449,7 +449,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -465,7 +465,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -483,7 +483,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -499,7 +499,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -515,7 +515,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -531,7 +531,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -547,7 +547,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -563,7 +563,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -581,7 +581,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -617,7 +617,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -635,7 +635,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -653,7 +653,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -669,7 +669,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -685,7 +685,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     }
   ]
