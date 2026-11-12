@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:03:59.179Z",
+  "generatedAt": "2026-11-12T14:39:47.435Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,23 +119,204 @@
   "count": 35,
   "items": [
     {
-      "id": "ajyxmg2",
-      "title": "Commémorer le 11 novembre : transformer le devoir de mémoire obligatoire en enquête didactique critique",
-      "summary": "« Devoir de mémoire » ou « travail de mémoire » ? Avec l’obligation de commémorer le 11 novembre dans toutes les écoles, la question se pose cette année à L’article Commémorer le 11 novembre : transformer le devoir de mémoire obligatoire en enquête didactique critique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/11/commemorer-le-11-novembre-transformer-le-devoir-de-memoire-obligatoire-en-enquete-didactique-critique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/06/Lucie-Gomes-cafe-pedagogique-300x212.png",
-      "publishedAt": "2026-11-11T17:00:54.000Z",
+      "id": "a9c9ac6",
+      "title": "L’empreinte carbone astronomique des preuves mathématiques d’OpenAI",
+      "summary": "L’empreinte carbone de la preuve mathématique apportée par OpenAI au problème des équations de Navier-Stokes est du même ordre de grandeur que celle d’un télescope du réseau Cherenkov (ici, en photo) qui fonctionnerait pendant dix ou quinze ans. CTA/M-A. Besel/IAC (G. P. Diaz)/ESO L’ESSENTIEL OpenAI a annoncé avoir rés",
+      "link": "https://theconversation.com/lempreinte-carbone-astronomique-des-preuves-mathematiques-dopenai-294894",
+      "image": "https://images.theconversation.com/files/767554/original/file-20261021-50-pkxzkb.jpg?ixlib=rb-4.1.1&amp;rect=182%2C0%2C1080%2C720&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-12T11:34:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aig8tmi",
+      "title": "COP31 : les États peinent à freiner les émissions de leurs propres centrales électriques",
+      "summary": "La centrale à charbon de Kusile, exploitée par l’électricien public sud-africain Eskom, dans la province du Mpumalanga, en 2019. JMK/Wikimedia Commons, CC BY L’ESSENTIEL Une recherche s'est intéressée aux centrales électriques possédées par des États. Elles représentaient 38 % des installations étudiées, mais sont resp",
+      "link": "https://theconversation.com/cop31-les-etats-peinent-a-freiner-les-emissions-de-leurs-propres-centrales-electriques-296515",
+      "image": "https://images.theconversation.com/files/771527/original/file-20261112-92-992zq5.jpg?ixlib=rb-4.1.1&amp;rect=636%2C0%2C3878%2C2585&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-12T09:40:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a18leqa",
+      "title": "Comité Parcoursup : « nouveau fiasco pour le gouvernement »",
+      "summary": "Le 9 novembre, le Premier ministre a réuni un comité de réforme de Parcoursup. Les organisations de jeunesse ont refusé de siéger aux côtés de l’UNI et de parlementaires d’extrême L’article Comité Parcoursup : « nouveau fiasco pour le gouvernement » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/12/comite-parcoursup-nouveau-fiasco-pour-le-gouvernement/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Parcoursup-efface-nouveau-nom-en-vue-300x169.png",
+      "publishedAt": "2026-11-12T05:00:51.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aehbe5q",
+      "title": "« Contrairement à ce que l’on entend la mobilisation des lycéens reste très forte »",
+      "summary": "À Marseille, la mobilisation marque-t-elle le pas ? Ce mardi 10 novembre, le cortège était moins fourni que lors des précédentes manifestations. Mais dans les lycées, la colère reste vive. L’article « Contrairement à ce que l’on entend la mobilisation des lycéens reste très forte » est apparu en premier sur Le Café péd",
+      "link": "https://www.cafepedagogique.net/2026/11/12/contrairement-a-ce-que-lon-entend-la-mobilisation-des-lyceens-reste-tres-forte/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Manifestation-Marseille-10-novembre-2026-Cafe-pedagogique-225x300.jpeg",
+      "publishedAt": "2026-11-12T04:56:09.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a4x9hdz",
+      "title": "Elles exigent une hausse immédiate de la valeur du point d’indice",
+      "summary": "A quand une augmentation de salaire ? Six organisations syndicales de la fonction publique, la CGT, l’UNSA, la FSU, Solidaires, la CFE-CGC et la FAFP, appellent à la grève et L’article Elles exigent une hausse immédiate de la valeur du point d’indice est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/12/ils-exigent-une-hausse-immediate-de-la-valeur-du-point-dindice/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/17-nov-300x218.png",
+      "publishedAt": "2026-11-12T04:27:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amvap39",
+      "title": "Une proposition de loi pour supprimer Parcoursup",
+      "summary": "Supprimer le système actuel de Parcoursup et garantir à chaque bachelier une place dans la filière de son choix : c’est l’ambition d’une proposition de loi déposée le 10 novembre L’article Une proposition de loi pour supprimer Parcoursup est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/12/une-proposition-de-loi-pour-supprimer-parcoursup/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/loi-300x240.png",
+      "publishedAt": "2026-11-12T04:27:32.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awv3clr",
+      "title": "« Les prompts sont un point de départ, pas des recettes à suivre »",
+      "summary": "Comment aider les élèves à apprendre avec l’intelligence artificielle sans qu’elle pense à leur place ? Dans J’apprends avec l’IA (Magnard, 2026), Mickaël Bertrand propose quarante fiches pratiques aux élèves de la L’article « Les prompts sont un point de départ, pas des recettes à suivre » est apparu en premier sur Le",
+      "link": "https://www.cafepedagogique.net/2026/11/12/les-prompts-sont-un-point-de-depart-pas-des-recettes-a-suivre/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/02/sS_jnHE-_400x400.jpg",
+      "publishedAt": "2026-11-12T04:55:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avkapa6",
+      "title": "Edwige Chirouter : philosopher est un droit pour toutes et tous sans condition",
+      "summary": "Qui a le droit de philosopher ? Pour les dix ans de la Chaire UNESCO sur la philosophie avec les enfants, que porte Nantes Université, Edwige Chirouter, professeure des universités L’article Edwige Chirouter : philosopher est un droit pour toutes et tous sans condition est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/12/edwige-chirouter-philosopher-est-un-droit-pour-toutes-et-tous-sans-condition/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/01/edwigeChirouter-jpg-e1737902083466-300x274.jpg",
+      "publishedAt": "2026-11-12T04:58:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aar7wn",
+      "title": "Dans cette classe de CM2, la mémoire ne s’impose pas, elle se construit",
+      "summary": "Alors que la cérémonie du 11 novembre devient obligatoire dans toutes les écoles, certains la pratiquent depuis longtemps, sous une tout autre forme. Sarah Leleu, professeure des écoles en CM2, L’article Dans cette classe de CM2, la mémoire ne s’impose pas, elle se construit est apparu en premier sur Le Café pédagogiqu",
+      "link": "https://www.cafepedagogique.net/2026/11/12/dans-cette-classe-de-cm2-la-memoire-ne-simpose-pas-elle-se-construit/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/saraLeleuMaati-280x300.jpeg",
+      "publishedAt": "2026-11-12T04:30:58.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
         "école",
-        "didactique"
+        "professeur",
+        "classe"
       ],
-      "relevance": 81,
+      "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ad957nv",
+      "title": "« L’Âge d’or » : une héroïne inventée au milieu de vraies archives",
+      "summary": "D’où viennent la fascination pour les archives et le goût du romanesque chez Berenger Thouin, réalisateur d’un 1er long métrage bluffant (Sélection Cannes Classics 2026), intitulé L’Âge d’or ? Sans L’article « L’Âge d’or » : une héroïne inventée au milieu de vraies archives est apparu en premier sur Le Café pédagogique",
+      "link": "https://www.cafepedagogique.net/2026/11/12/lage-dor-une-heroine-inventee-au-milieu-de-vraies-archives/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/71de9133eec5b0baa90d1b47a127e8ce-220x300.webp",
+      "publishedAt": "2026-11-12T04:28:54.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aajha49",
+      "title": "L’art belge à l’honneur au Petit Palais",
+      "summary": "L’exposition « Bruxelles 1900 » invite, jusqu’au 25 avril 2027, à plonger dans l’effervescence artistique de la capitale belge au tournant du 20e siècle, à redécouvrir une ville en pleine L’article L’art belge à l’honneur au Petit Palais est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/12/lart-belge-a-lhonneur-au-petit-palais/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruxelles-1900-300x169.jpg",
+      "publishedAt": "2026-11-12T04:28:27.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a2ijg95",
+      "title": "De la journée de 9 heures au droit au logement : plus d’un siècle de grèves générales en Espagne",
+      "summary": "Manifestation pour le droit au logement où l’on réclamait la grève générale, à Murcie le 4 octobre dernier LoboPhotoESP/Shutterstock L’ESSENTIEL En Espagne, à la demande du Syndicat des locataires, les syndicats appellent le 11 novembre à la grève générale contre le coût du logement et les salaires. Depuis 1902 et la j",
+      "link": "https://theconversation.com/de-la-journee-de-9-heures-au-droit-au-logement-plus-dun-siecle-de-greves-generales-en-espagne-295985",
+      "image": "https://images.theconversation.com/files/770241/original/file-20261104-78-e6xd3g.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6016%2C4010&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-10T16:30:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2c8gq0",
@@ -152,24 +333,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a2ijg95",
-      "title": "De la journée de 9 heures au droit au logement : plus d’un siècle de grèves générales en Espagne",
-      "summary": "Manifestation pour le droit au logement où l’on réclamait la grève générale, à Murcie le 4 octobre dernier LoboPhotoESP/Shutterstock L’ESSENTIEL En Espagne, à la demande du Syndicat des locataires, les syndicats appellent le 11 novembre à la grève générale contre le coût du logement et les salaires. Depuis 1902 et la j",
-      "link": "https://theconversation.com/de-la-journee-de-9-heures-au-droit-au-logement-plus-dun-siecle-de-greves-generales-en-espagne-295985",
-      "image": "https://images.theconversation.com/files/770241/original/file-20261104-78-e6xd3g.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6016%2C4010&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T16:30:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "am8gjd8",
@@ -184,7 +349,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -200,7 +365,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -216,7 +381,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,62 +397,87 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "ajvn83d",
-      "title": "Enseignement scientifique au lycée : l’APBG alerte sur un risque de suppression",
-      "summary": "Allons-nous vers encore moins de sciences au lycée ? Alors que le ministre de l’Éducation nationale envisage de supprimer l’enseignement scientifique en première et en terminale pour alléger les journées L’article Enseignement scientifique au lycée : l’APBG alerte sur un risque de suppression est apparu en premier sur ",
-      "link": "https://www.cafepedagogique.net/2026/11/10/enseignement-scientifique-au-lycee-lapbg-alerte-sur-un-risque-de-suppression/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/886587448_2921982694837506_8199413759514779591_n.jpg",
-      "publishedAt": "2026-11-10T04:29:35.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "adsw4s2",
+      "title": "États-Unis : le retour de la gauche chrétienne ?",
+      "summary": "L’ESSENTIEL Au Kansas et au Texas, États conservateurs, deux démocrates revendiquant leur foi chrétienne ont gagné des sièges au Sénat fédéral. Leurs victoires reposent davantage sur les catholiques, Latinos et non-croyants que sur les évangéliques blancs. Face au nationalisme chrétien de droite, ils défendent une lect",
+      "link": "https://theconversation.com/etats-unis-le-retour-de-la-gauche-chretienne-296169",
+      "image": "https://counter.theconversation.com/content/296169/count.gif",
+      "publishedAt": "2026-11-10T16:53:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "atj5edi",
-      "title": "Marie-Aleth Grard : « Notre société s’est habituée à ce que les enfants pauvres réussissent moins bien à l’école »",
-      "summary": "Marquée par une mobilisation massive entachée de violents affrontements, la manifestation du 17 octobre 2026 a fait oublier que se déroulaient aussi ce jour-là la commémoration des 65 ans du L’article Marie-Aleth Grard : « Notre société s’est habituée à ce que les enfants pauvres réussissent moins bien à l’école » est ",
-      "link": "https://www.cafepedagogique.net/2026/11/10/marie-aleth-grard-notre-societe-sest-habituee-a-ce-que-les-enfants-pauvres-reussissent-moins-bien-a-lecole/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Marie-Aleth-Grard-300x300.jpeg",
-      "publishedAt": "2026-11-10T04:45:12.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aoytgxx",
-      "title": "L’APMEP appelle à « entendre le cri d’alarme de la jeunesse »",
-      "summary": "Dans un communiqué, l’Association des professeurs de mathématiques de l’enseignement public (APMEP) exprime sa « profonde préoccupation » face au mal-être et aux inquiétudes des lycéens et étudiants mobilisés. L’association L’article L’APMEP appelle à « entendre le cri d’alarme de la jeunesse » est apparu en premier su",
-      "link": "https://www.cafepedagogique.net/2026/11/10/lapmep-appelle-a-entendre-le-cri-dalarme-de-la-jeunesse/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2023/01/apmep-nationale-apmep_nat-twitter.jpeg",
-      "publishedAt": "2026-11-10T04:29:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "professeur"
-      ],
-      "relevance": 64,
+      "keywords": [],
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apwjdww",
+      "title": "Ces espèces de fourmis qui prospèrent à Paris",
+      "summary": "On trouve des _Tetramorium immigrans_ (en haut) et des _Hypoponera eduardi_ (en bas) dans certains parcs parisiens, mais pas dans les forêts d’Île-de-France. BNF ; Pete Lypkie/Flickr ; Elena Regina/Flickr, CC BY L’ESSENTIEL On trouve presque autant d’espèces de fourmis dans les parcs parisiens que dans les forêts d’Île",
+      "link": "https://theconversation.com/ces-especes-de-fourmis-qui-prosperent-a-paris-295214",
+      "image": "https://images.theconversation.com/files/768330/original/file-20261026-52-kc9cc5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C15%2C1574%2C1049&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-10T16:48:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aa5tbau",
+      "title": "Les géants peuvent-ils exister ? Ce qu’en dit la physique",
+      "summary": "Le King Kong de 1933 faisait 7,3 mètres. Est-ce une taille réaliste ? Warner Bros Les géants sont des figures classiques au cinéma et dans la littérature. Mais des êtres gigantesques peuvent-ils exister ? Qu’est-ce qui limite leur taille ? La physique apporte quelques réponses depuis… Galilée ! Est-il possible que des ",
+      "link": "https://theconversation.com/les-geants-peuvent-ils-exister-ce-quen-dit-la-physique-295681",
+      "image": "https://images.theconversation.com/files/770026/original/file-20261104-64-b9epnm.png?ixlib=rb-4.1.1&amp;rect=0%2C0%2C768%2C512&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-10T16:47:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a52dsz6",
+      "title": "La chanson engagée selon Bernard Lavilliers, ou comment tenir bon grâce à la musique",
+      "summary": "Bernard Lavilliers en concert au Festival du bout du Monde, août 2011. Wikimédia/Thesupermat, CC BY __ L’ESSENTIEL « La musique nous tient, nous inspire », chante Bernard Lavilliers dans « Coriace », premier extrait de son dernier album, Rite cruel. Dans la BD On the road again, conçue avec Yves Daydé à partir des rech",
+      "link": "https://theconversation.com/la-chanson-engagee-selon-bernard-lavilliers-ou-comment-tenir-bon-grace-a-la-musique-294718",
+      "image": "https://images.theconversation.com/files/770996/original/file-20261110-64-wppl55.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4134%2C2756&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-10T16:45:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axnsnod",
+      "title": "Ouragans ou COP31 : qu’est-ce qui fait vraiment trembler les actions des assureurs ?",
+      "summary": "L’ESSENTIEL Du 9 au 20 novembre 2026, la COP31 réunit des États et des entreprises. Les investisseurs suivront les conclusions de près. Un secteur d’activité est scruté à la loupe, celui de l’assurance, en première loge face au changement climatique. Des chercheurs émettent une hypothèse : un sommet climatique pèse dav",
+      "link": "https://theconversation.com/ouragans-ou-cop31-quest-ce-qui-fait-vraiment-trembler-les-actions-des-assureurs-294406",
+      "image": "https://images.theconversation.com/files/770368/original/file-20261105-64-2jze0h.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-10T16:43:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -306,7 +496,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -324,7 +514,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -342,87 +532,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adsw4s2",
-      "title": "États-Unis : le retour de la gauche chrétienne ?",
-      "summary": "L’ESSENTIEL Au Kansas et au Texas, États conservateurs, deux démocrates revendiquant leur foi chrétienne ont gagné des sièges au Sénat fédéral. Leurs victoires reposent davantage sur les catholiques, Latinos et non-croyants que sur les évangéliques blancs. Face au nationalisme chrétien de droite, ils défendent une lect",
-      "link": "https://theconversation.com/etats-unis-le-retour-de-la-gauche-chretienne-296169",
-      "image": "https://counter.theconversation.com/content/296169/count.gif",
-      "publishedAt": "2026-11-10T16:53:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apwjdww",
-      "title": "Ces espèces de fourmis qui prospèrent à Paris",
-      "summary": "On trouve des _Tetramorium immigrans_ (en haut) et des _Hypoponera eduardi_ (en bas) dans certains parcs parisiens, mais pas dans les forêts d’Île-de-France. BNF ; Pete Lypkie/Flickr ; Elena Regina/Flickr, CC BY L’ESSENTIEL On trouve presque autant d’espèces de fourmis dans les parcs parisiens que dans les forêts d’Île",
-      "link": "https://theconversation.com/ces-especes-de-fourmis-qui-prosperent-a-paris-295214",
-      "image": "https://images.theconversation.com/files/768330/original/file-20261026-52-kc9cc5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C15%2C1574%2C1049&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T16:48:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aa5tbau",
-      "title": "Les géants peuvent-ils exister ? Ce qu’en dit la physique",
-      "summary": "Le King Kong de 1933 faisait 7,3 mètres. Est-ce une taille réaliste ? Warner Bros Les géants sont des figures classiques au cinéma et dans la littérature. Mais des êtres gigantesques peuvent-ils exister ? Qu’est-ce qui limite leur taille ? La physique apporte quelques réponses depuis… Galilée ! Est-il possible que des ",
-      "link": "https://theconversation.com/les-geants-peuvent-ils-exister-ce-quen-dit-la-physique-295681",
-      "image": "https://images.theconversation.com/files/770026/original/file-20261104-64-b9epnm.png?ixlib=rb-4.1.1&amp;rect=0%2C0%2C768%2C512&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T16:47:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a52dsz6",
-      "title": "La chanson engagée selon Bernard Lavilliers, ou comment tenir bon grâce à la musique",
-      "summary": "Bernard Lavilliers en concert au Festival du bout du Monde, août 2011. Wikimédia/Thesupermat, CC BY __ L’ESSENTIEL « La musique nous tient, nous inspire », chante Bernard Lavilliers dans « Coriace », premier extrait de son dernier album, Rite cruel. Dans la BD On the road again, conçue avec Yves Daydé à partir des rech",
-      "link": "https://theconversation.com/la-chanson-engagee-selon-bernard-lavilliers-ou-comment-tenir-bon-grace-a-la-musique-294718",
-      "image": "https://images.theconversation.com/files/770996/original/file-20261110-64-wppl55.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4134%2C2756&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T16:45:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axnsnod",
-      "title": "Ouragans ou COP31 : qu’est-ce qui fait vraiment trembler les actions des assureurs ?",
-      "summary": "L’ESSENTIEL Du 9 au 20 novembre 2026, la COP31 réunit des États et des entreprises. Les investisseurs suivront les conclusions de près. Un secteur d’activité est scruté à la loupe, celui de l’assurance, en première loge face au changement climatique. Des chercheurs émettent une hypothèse : un sommet climatique pèse dav",
-      "link": "https://theconversation.com/ouragans-ou-cop31-quest-ce-qui-fait-vraiment-trembler-les-actions-des-assureurs-294406",
-      "image": "https://images.theconversation.com/files/770368/original/file-20261105-64-2jze0h.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-10T16:43:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,7 +548,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -454,7 +564,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -470,7 +580,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -486,7 +596,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -502,7 +612,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -520,7 +630,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -536,7 +646,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -552,7 +662,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -568,8 +678,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
+      "urgency": 39,
+      "urgencyLevel": "basse"
     },
     {
       "id": "apo6qoz",
@@ -584,129 +694,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ap5gtgy",
-      "title": "Les moisissures dans l’air intérieur des logements favorisent l’asthme. Pourtant, ce risque est évitable",
-      "summary": "L’ESSENTIEL Il existe une association entre la présence de moisissures dans le logement, même sur des surfaces de petites tailles, et l’asthme. Les caractéristiques du bâti jouent un rôle plus important que les comportements des habitants. Il est essentiel de promouvoir des mesures de prévention contre la contamination",
-      "link": "https://theconversation.com/les-moisissures-dans-lair-interieur-des-logements-favorisent-lasthme-pourtant-ce-risque-est-evitable-291731",
-      "image": "https://images.theconversation.com/files/762074/original/file-20260924-50-eyowh1.png",
-      "publishedAt": "2026-11-10T10:47:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8pihsn",
-      "title": "Vers une suspension des avancements et des promotions dans la fonction publique",
-      "summary": "Quand la Cour des comptes veut faire des économies sur le dos des enseignants… Gel des promotions, frein aux carrières, réduction des effectifs enseignants… La Cour dévoile une nouvelle série L’article Vers une suspension des avancements et des promotions dans la fonction publique est apparu en premier sur Le Café péda",
-      "link": "https://www.cafepedagogique.net/2026/11/10/vers-une-suspension-des-avancements-et-des-promotions-dans-la-fonction-publique/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/cour-des-comptes-231x300.png",
-      "publishedAt": "2026-11-10T04:45:01.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignant"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apku1j7",
-      "title": "À Nice, des lycéens interpellés signalés à leur proviseur",
-      "summary": "Double peine pour les lycéen.nes mobilisé.es ? À Nice, après les blocus, des listes d’élèves interpellés ont été transmises aux chefs d’établissement, qui doivent dire si des sanctions disciplinaires seront L’article À Nice, des lycéens interpellés signalés à leur proviseur est apparu en premier sur Le Café pédagogique",
-      "link": "https://www.cafepedagogique.net/2026/11/10/a-nice-des-lyceens-interpelles-signales-a-leur-proviseur/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/romainRuiz-300x200.jpeg",
-      "publishedAt": "2026-11-10T05:00:54.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awxva89",
-      "title": "Investissement et travaux dans les lycées franciliens : de vrais chiffres qui accusent !",
-      "summary": "Au cœur des revendications des lycéen.nes mobilisé.es se trouve la question de leur quotidien et de leurs conditions matérielles d’apprentissages. Parmi elles, la question du bâti, certes, des passoires et L’article Investissement et travaux dans les lycées franciliens : de vrais chiffres qui accusent ! est apparu en p",
-      "link": "https://www.cafepedagogique.net/2026/11/10/investissement-et-travaux-dans-les-lycees-franciliens-de-vrais-chiffres-qui-accusent/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/01/Celine-Malaise-cafe-pedagogique-e1736486165803-300x281.jpeg",
-      "publishedAt": "2026-11-10T04:50:10.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "apprentissage"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayp9pft",
-      "title": "Et si nous retrouvions le plaisir de faire des mathématiques ?",
-      "summary": "Que voulons-nous que les élèves gardent de nos cours ? À l’heure où l’intelligence artificielle fournit des réponses en quelques secondes, que reste-t-il du plaisir de chercher ? Et si L’article Et si nous retrouvions le plaisir de faire des mathématiques ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/10/et-si-nous-retrouvions-le-plaisir-de-faire-des-mathematiques/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Portrait_FC-240x300.png",
-      "publishedAt": "2026-11-10T04:30:39.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5hqxlz",
-      "title": "Fact checking : « Le blocus, c’est illégal » (Edouard Geffray, ministre de l’éducation)",
-      "summary": "Ce que dit le ministre – ce que dit le droit. « Le blocage, c’est illégal » En pleine mobilisation lycéenne, le ministre de l’Education Édouard Geffray affirme le 6 L’article Fact checking : « Le blocus, c’est illégal » (Edouard Geffray, ministre de l’éducation) est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/10/fact-checking-le-blocus-cest-illegal-edouard-geffray-ministre-de-leducation/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/geffray-parcoursup-300x200.png",
-      "publishedAt": "2026-11-10T04:55:14.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ab0qe80",
-      "title": "Quiz Santé – Jouez avec The Conversation pour vous informer sur le remboursement des médicaments antiobésité Mounjaro et Wegovy",
-      "summary": "Wegovy et Mounjaro font partie de ces nouveaux traitements médicamenteux de l’obésité dont le prix de vente est très élevé. Depuis le 15 juin 2026, ces deux spécialités pharmaceutiques sont remboursables en médecine de ville (Mounjaro est également remboursé dans le diabète de type 2, souvent lié à l’obésité). Nous vou",
-      "link": "https://theconversation.com/quiz-sante-jouez-avec-the-conversation-pour-vous-informer-sur-le-remboursement-des-medicaments-antiobesite-mounjaro-et-wegovy-296215",
-      "image": "https://images.theconversation.com/files/641191/original/file-20250108-15-cmvupq.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-09T19:27:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
+      "urgency": 39,
       "urgencyLevel": "basse"
     }
   ]
