@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:39:47.435Z",
+  "generatedAt": "2026-11-12T23:14:01.302Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,38 @@
   "count": 35,
   "items": [
     {
+      "id": "a3uil5t",
+      "title": "Les femmes ont plus d’intelligence émotionnelle que les hommes (et c’est un problème), selon une vaste étude",
+      "summary": "Les parents emploient davantage de mots liés aux émotions avec leurs filles qu’avec leurs fils. Linda Bartlett, National Cancer Institute/Wikimedia Commons , CC BY L’ESSENTIEL Quand il s’agit de reconnaître les émotions des autres, les femmes seraient meilleures que les hommes. Cet avantage semble davantage tenir à l’é",
+      "link": "https://theconversation.com/les-femmes-ont-plus-dintelligence-emotionnelle-que-les-hommes-et-cest-un-probleme-selon-une-vaste-etude-294255",
+      "image": "https://images.theconversation.com/files/769796/original/file-20261103-64-rmhs45.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2700%2C1800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-12T16:11:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aqwnqxn",
+      "title": "Bientôt 3 euros le litre de gazole ? La gratuité des transports (dont le vélo), une solution pour le porte-monnaie et la santé publique",
+      "summary": "L’ESSENTIEL Aujourd’hui, 17 millions de Français sont en situation de précarité mobilité : pour maîtriser leur facture de carburant, certains renoncent à prendre un rendez-vous médical ou à voir leurs proches ; d’autres rognent sur des dépenses essentielles. Un phénomène aggravé par la flambée actuelle des prix. En Fra",
+      "link": "https://theconversation.com/bientot-3-euros-le-litre-de-gazole-la-gratuite-des-transports-dont-le-velo-une-solution-pour-le-porte-monnaie-et-la-sante-publique-296082",
+      "image": "https://counter.theconversation.com/content/296082/count.gif",
+      "publishedAt": "2026-11-12T16:09:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a9c9ac6",
       "title": "L’empreinte carbone astronomique des preuves mathématiques d’OpenAI",
       "summary": "L’empreinte carbone de la preuve mathématique apportée par OpenAI au problème des équations de Navier-Stokes est du même ordre de grandeur que celle d’un télescope du réseau Cherenkov (ici, en photo) qui fonctionnerait pendant dix ou quinze ans. CTA/M-A. Besel/IAC (G. P. Diaz)/ESO L’ESSENTIEL OpenAI a annoncé avoir rés",
@@ -131,7 +163,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +179,121 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a20c6xr",
+      "title": "Brésil : les réseaux sociaux, nouveaux arbitres de la démocratie ?",
+      "summary": "L’ESSENTIEL Lula a fini par battre Flavio Bolsonaro au second tour de la présidentielle brésilienne, mais il avait été devancé par son adversaire au premier. Les soutiens du président réélu estiment que la campagne de candidat de droite avait été mieux mise en avant par les réseaux du groupe Meta (Facebook, Instagram, ",
+      "link": "https://theconversation.com/bresil-les-reseaux-sociaux-nouveaux-arbitres-de-la-democratie-296020",
+      "image": "https://counter.theconversation.com/content/296020/count.gif",
+      "publishedAt": "2026-11-12T16:10:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1jc08n",
+      "title": "La Sécurité sociale n’est pas qu’un système de redistribution. Elle montre qu’on peut produire de la valeur hors du capitalisme",
+      "summary": "L’ESSENTIEL Le régime général de la Sécurité sociale a créé un mode de production qui échappe à la fois au collectivisme de type communiste et au capitalisme. Le tournant a lieu en 1946 avec la mise en place d’un régime général financé par une cotisation interprofessionnelle. La Sécurité sociale montre qu’on peut produ",
+      "link": "https://theconversation.com/la-securite-sociale-nest-pas-quun-systeme-de-redistribution-elle-montre-quon-peut-produire-de-la-valeur-hors-du-capitalisme-294188",
+      "image": "https://counter.theconversation.com/content/294188/count.gif",
+      "publishedAt": "2026-11-12T16:11:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "awdpmd7",
+      "title": "Les séries, une culture populaire méprisée par la sociologie ?",
+      "summary": "Les séries, une forme de culture populaire qu’il est temps de prendre au sérieux ? Mohammed Hassan/Pixabay, CC BY L’ESSENTIEL Sandra Laugier signe un nouvel essai sur les séries télévisées, Prendre les séries au sérieux ?, aux éditions CNRS. Pour elle, ces œuvres constituent l’un des derniers espaces culturels massivem",
+      "link": "https://theconversation.com/les-series-une-culture-populaire-meprisee-par-la-sociologie-296070",
+      "image": "https://images.theconversation.com/files/770803/original/file-20261109-64-8ii1nh.jpg?ixlib=rb-4.1.1&amp;rect=199%2C0%2C2701%2C1800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-12T16:11:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "as9t5yc",
+      "title": "La relation Pékin-Téhéran à l’épreuve de la guerre",
+      "summary": "L’ESSENTIEL La guerre déclenchée par Israël et les États-Unis contre l’Iran met à l’épreuve le partenariat stratégique noué par ce dernier avec la Chine. Pékin soutient Téhéran par le pétrole, les équipements et la diplomatie, mais refuse de le défendre militairement. Dépendant de la Chine, l’Iran reste un atout géopol",
+      "link": "https://theconversation.com/la-relation-pekin-teheran-a-lepreuve-de-la-guerre-295808",
+      "image": "https://images.theconversation.com/files/771157/original/file-20261110-64-6dmq4e.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-12T16:10:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5bkxmw",
+      "title": "D’où viennent les langues germaniques et celtiques ? L’ADN ancien livre des indices",
+      "summary": "Ales stenar (les pierres d’Ale), dans le sud de la Suède, est un alignement monumental de pierres en forme de navire, datant de l’âge du fer et surplombant la mer Baltique. Ce monument date d’environ 600 à 1000 de notre ère et correspond, dans les grandes lignes, à la période de retour de populations dans la région. Ni",
+      "link": "https://theconversation.com/dou-viennent-les-langues-germaniques-et-celtiques-ladn-ancien-livre-des-indices-296302",
+      "image": "https://images.theconversation.com/files/770998/original/file-20261104-64-rl2b2b.jpg?ixlib=rb-4.1.1&amp;rect=523%2C0%2C5656%2C3771&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-12T16:10:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a214l30",
+      "title": "Policing protests: how France’s student movement echoes the political crisis in Kanaky-New Caledonia",
+      "summary": "KEY TAKEAWAYS The French authorities have responded to protests with arrests, police violence, curfews and restrictions rather than dialogue in mainland France and in its overseas territories. Young people are protesting against key issues such as poor means for education, unemployment, rising inequalities equating to ",
+      "link": "https://theconversation.com/policing-protests-how-frances-student-movement-echoes-the-political-crisis-in-kanaky-new-caledonia-296296",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-12T16:09:11.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ah7jaxh",
+      "title": "Surveiller l’état de santé de poissons exposés à des agents chimiques et biologiques grâce à des outils moléculaires non invasifs",
+      "summary": "L’ESSENTIEL Des contaminants de milieux aquatiques peuvent interférer avec le fonctionnement hormonal des poissons. On parle de perturbateurs endocriniens. Une approche non invasive, fondée sur l’étude de fragments d’ADN présents dans le sang, l’urine et le mucus du poisson permet de mieux comprendre les mécanismes d’a",
+      "link": "https://theconversation.com/surveiller-letat-de-sante-de-poissons-exposes-a-des-agents-chimiques-et-biologiques-grace-a-des-outils-moleculaires-non-invasifs-295925",
+      "image": "https://counter.theconversation.com/content/295925/count.gif",
+      "publishedAt": "2026-11-12T15:36:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +309,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -179,7 +325,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 72,
       "urgencyLevel": "haute"
     },
     {
@@ -195,7 +341,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -211,7 +357,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -229,8 +375,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avkapa6",
@@ -247,8 +393,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aar7wn",
@@ -267,7 +413,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +429,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -299,7 +445,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,7 +461,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,7 +479,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +495,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -365,7 +511,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,103 +527,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq76ea8",
-      "title": "Des centaines de textes historiques « déchiffrés » par l’IA : que penser de ces résultats ?",
-      "summary": "Extrait d’une lettre, conservée à la BnF, de Guido Rangoni, comte de Modène, à Anne de Montmorency, connétable de France, qui n’a pas encore été déchiffrée, datée du10 janvier 1530. Bibliothèque nationale de France/Gallica L’ESSENTIEL Depuis septembre, des internautes annoncent avoir déchiffré des centaines de textes a",
-      "link": "https://theconversation.com/des-centaines-de-textes-historiques-dechiffres-par-lia-que-penser-de-ces-resultats-294165",
-      "image": "https://images.theconversation.com/files/770493/original/file-20261106-92-a01n61.jpg?ixlib=rb-4.1.1&amp;rect=36%2C0%2C787%2C525&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T14:36:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adsw4s2",
-      "title": "États-Unis : le retour de la gauche chrétienne ?",
-      "summary": "L’ESSENTIEL Au Kansas et au Texas, États conservateurs, deux démocrates revendiquant leur foi chrétienne ont gagné des sièges au Sénat fédéral. Leurs victoires reposent davantage sur les catholiques, Latinos et non-croyants que sur les évangéliques blancs. Face au nationalisme chrétien de droite, ils défendent une lect",
-      "link": "https://theconversation.com/etats-unis-le-retour-de-la-gauche-chretienne-296169",
-      "image": "https://counter.theconversation.com/content/296169/count.gif",
-      "publishedAt": "2026-11-10T16:53:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apwjdww",
-      "title": "Ces espèces de fourmis qui prospèrent à Paris",
-      "summary": "On trouve des _Tetramorium immigrans_ (en haut) et des _Hypoponera eduardi_ (en bas) dans certains parcs parisiens, mais pas dans les forêts d’Île-de-France. BNF ; Pete Lypkie/Flickr ; Elena Regina/Flickr, CC BY L’ESSENTIEL On trouve presque autant d’espèces de fourmis dans les parcs parisiens que dans les forêts d’Île",
-      "link": "https://theconversation.com/ces-especes-de-fourmis-qui-prosperent-a-paris-295214",
-      "image": "https://images.theconversation.com/files/768330/original/file-20261026-52-kc9cc5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C15%2C1574%2C1049&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T16:48:21.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aa5tbau",
-      "title": "Les géants peuvent-ils exister ? Ce qu’en dit la physique",
-      "summary": "Le King Kong de 1933 faisait 7,3 mètres. Est-ce une taille réaliste ? Warner Bros Les géants sont des figures classiques au cinéma et dans la littérature. Mais des êtres gigantesques peuvent-ils exister ? Qu’est-ce qui limite leur taille ? La physique apporte quelques réponses depuis… Galilée ! Est-il possible que des ",
-      "link": "https://theconversation.com/les-geants-peuvent-ils-exister-ce-quen-dit-la-physique-295681",
-      "image": "https://images.theconversation.com/files/770026/original/file-20261104-64-b9epnm.png?ixlib=rb-4.1.1&amp;rect=0%2C0%2C768%2C512&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T16:47:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a52dsz6",
-      "title": "La chanson engagée selon Bernard Lavilliers, ou comment tenir bon grâce à la musique",
-      "summary": "Bernard Lavilliers en concert au Festival du bout du Monde, août 2011. Wikimédia/Thesupermat, CC BY __ L’ESSENTIEL « La musique nous tient, nous inspire », chante Bernard Lavilliers dans « Coriace », premier extrait de son dernier album, Rite cruel. Dans la BD On the road again, conçue avec Yves Daydé à partir des rech",
-      "link": "https://theconversation.com/la-chanson-engagee-selon-bernard-lavilliers-ou-comment-tenir-bon-grace-a-la-musique-294718",
-      "image": "https://images.theconversation.com/files/770996/original/file-20261110-64-wppl55.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4134%2C2756&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T16:45:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axnsnod",
-      "title": "Ouragans ou COP31 : qu’est-ce qui fait vraiment trembler les actions des assureurs ?",
-      "summary": "L’ESSENTIEL Du 9 au 20 novembre 2026, la COP31 réunit des États et des entreprises. Les investisseurs suivront les conclusions de près. Un secteur d’activité est scruté à la loupe, celui de l’assurance, en première loge face au changement climatique. Des chercheurs émettent une hypothèse : un sommet climatique pèse dav",
-      "link": "https://theconversation.com/ouragans-ou-cop31-quest-ce-qui-fait-vraiment-trembler-les-actions-des-assureurs-294406",
-      "image": "https://images.theconversation.com/files/770368/original/file-20261105-64-2jze0h.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-10T16:43:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 42,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,8 +546,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akxgrgs",
@@ -514,8 +564,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a7wikya",
@@ -532,8 +582,88 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "adsw4s2",
+      "title": "États-Unis : le retour de la gauche chrétienne ?",
+      "summary": "L’ESSENTIEL Au Kansas et au Texas, États conservateurs, deux démocrates revendiquant leur foi chrétienne ont gagné des sièges au Sénat fédéral. Leurs victoires reposent davantage sur les catholiques, Latinos et non-croyants que sur les évangéliques blancs. Face au nationalisme chrétien de droite, ils défendent une lect",
+      "link": "https://theconversation.com/etats-unis-le-retour-de-la-gauche-chretienne-296169",
+      "image": "https://counter.theconversation.com/content/296169/count.gif",
+      "publishedAt": "2026-11-10T16:53:38.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "apwjdww",
+      "title": "Ces espèces de fourmis qui prospèrent à Paris",
+      "summary": "On trouve des _Tetramorium immigrans_ (en haut) et des _Hypoponera eduardi_ (en bas) dans certains parcs parisiens, mais pas dans les forêts d’Île-de-France. BNF ; Pete Lypkie/Flickr ; Elena Regina/Flickr, CC BY L’ESSENTIEL On trouve presque autant d’espèces de fourmis dans les parcs parisiens que dans les forêts d’Île",
+      "link": "https://theconversation.com/ces-especes-de-fourmis-qui-prosperent-a-paris-295214",
+      "image": "https://images.theconversation.com/files/768330/original/file-20261026-52-kc9cc5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C15%2C1574%2C1049&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-10T16:48:21.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "aa5tbau",
+      "title": "Les géants peuvent-ils exister ? Ce qu’en dit la physique",
+      "summary": "Le King Kong de 1933 faisait 7,3 mètres. Est-ce une taille réaliste ? Warner Bros Les géants sont des figures classiques au cinéma et dans la littérature. Mais des êtres gigantesques peuvent-ils exister ? Qu’est-ce qui limite leur taille ? La physique apporte quelques réponses depuis… Galilée ! Est-il possible que des ",
+      "link": "https://theconversation.com/les-geants-peuvent-ils-exister-ce-quen-dit-la-physique-295681",
+      "image": "https://images.theconversation.com/files/770026/original/file-20261104-64-b9epnm.png?ixlib=rb-4.1.1&amp;rect=0%2C0%2C768%2C512&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-10T16:47:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a52dsz6",
+      "title": "La chanson engagée selon Bernard Lavilliers, ou comment tenir bon grâce à la musique",
+      "summary": "Bernard Lavilliers en concert au Festival du bout du Monde, août 2011. Wikimédia/Thesupermat, CC BY __ L’ESSENTIEL « La musique nous tient, nous inspire », chante Bernard Lavilliers dans « Coriace », premier extrait de son dernier album, Rite cruel. Dans la BD On the road again, conçue avec Yves Daydé à partir des rech",
+      "link": "https://theconversation.com/la-chanson-engagee-selon-bernard-lavilliers-ou-comment-tenir-bon-grace-a-la-musique-294718",
+      "image": "https://images.theconversation.com/files/770996/original/file-20261110-64-wppl55.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4134%2C2756&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-10T16:45:41.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "axnsnod",
+      "title": "Ouragans ou COP31 : qu’est-ce qui fait vraiment trembler les actions des assureurs ?",
+      "summary": "L’ESSENTIEL Du 9 au 20 novembre 2026, la COP31 réunit des États et des entreprises. Les investisseurs suivront les conclusions de près. Un secteur d’activité est scruté à la loupe, celui de l’assurance, en première loge face au changement climatique. Des chercheurs émettent une hypothèse : un sommet climatique pèse dav",
+      "link": "https://theconversation.com/ouragans-ou-cop31-quest-ce-qui-fait-vraiment-trembler-les-actions-des-assureurs-294406",
+      "image": "https://images.theconversation.com/files/770368/original/file-20261105-64-2jze0h.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-10T16:43:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aa7k3l",
@@ -548,8 +678,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "akhz7q5",
@@ -564,137 +694,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ak127rn",
-      "title": "Voiture électrique : sur quels critères la choisir ?",
-      "summary": "L’ESSENTIEL L’électrification du parc automobile est l’un des leviers incontournables permettant d’atteindre la neutralité carbone. L’achat d’une voiture électrique neuve ou d’occasion est davantage accessible, avec une offre de plus en plus large, mais plusieurs critères doivent présider au choix d’un modèle, à la foi",
-      "link": "https://theconversation.com/voiture-electrique-sur-quels-criteres-la-choisir-294815",
-      "image": "https://counter.theconversation.com/content/294815/count.gif",
-      "publishedAt": "2026-11-10T16:29:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adb5gxb",
-      "title": "Et si c’étaient les parents qui étaient trop connectés ? La technoférence, cet angle mort du débat sur les écrans",
-      "summary": "L’ESSENTIEL Les pouvoirs publics multiplient les initiatives pour encadrer les usages numériques des plus jeunes. Mais avant de s’inquiéter des pratiques des enfants, ne faut-il pas s’intéresser aux usages numériques des parents ? La recherche pointe les effets de la « technoférence », lorsqu’on interrompt un échange a",
-      "link": "https://theconversation.com/et-si-cetaient-les-parents-qui-etaient-trop-connectes-la-technoference-cet-angle-mort-du-debat-sur-les-ecrans-293233",
-      "image": "https://counter.theconversation.com/content/293233/count.gif",
-      "publishedAt": "2026-11-10T16:28:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2kz3zr",
-      "title": "Réparer ou remplacer ? Pourquoi certains consommateurs sont moins ouverts à réparer un objet imparfait",
-      "summary": "Un sac un peu éraflé remplit toujours parfaitement sa mission, mais cela suffit parfois à donner envie d’en acheter un nouveau. Harsh Jadav/Unsplash/Wikimedia Commons, CC0, CC BY L’ESSENTIEL D’après plusieurs études, ceux qui tiennent le plus aux objets sans défaut sont plus prompts à remplacer un produit, moins intére",
-      "link": "https://theconversation.com/reparer-ou-remplacer-pourquoi-certains-consommateurs-sont-moins-ouverts-a-reparer-un-objet-imparfait-295223",
-      "image": "https://images.theconversation.com/files/768843/original/file-20261028-52-49t356.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1278%2C852&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T16:27:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahfkrz2",
-      "title": "Les mystères de Mercure, ou comment la sonde BepiColombo va étudier la planète la plus proche du Soleil (sans tomber dedans)",
-      "summary": "Sur cette image de 2016, on voit bien comme la planète Mercure (point noir à côté de la tâche solaire assez basse à gauche) est petite quand elle passe devant notre étoile, ce qui illustre certains des défis à relever pour aller l’explorer de près. NASA/SDO L’ESSENTIEL Mercure est la planète la plus proche du Soleil. À",
-      "link": "https://theconversation.com/les-mysteres-de-mercure-ou-comment-la-sonde-bepicolombo-va-etudier-la-planete-la-plus-proche-du-soleil-sans-tomber-dedans-294525",
-      "image": "https://images.theconversation.com/files/768814/original/file-20261028-62-meap1y.jpg?ixlib=rb-4.1.1&amp;rect=100%2C0%2C1080%2C720&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T14:35:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amg14i7",
-      "title": "Quelle température fait-il dans l’espace ? Pourquoi il n’y a pas qu’une réponse à cette question",
-      "summary": "L’ESSENTIEL Un satellite possède une face éclairée et une face à l’ombre dont les températures peuvent différer de plusieurs centaines de degrés. Dans le milieu spatial, les instruments mesurent plusieurs températures en même temps qui coexistent au même endroit. « Quelle température fait-il dans l’espace ? » n’a pas u",
-      "link": "https://theconversation.com/quelle-temperature-fait-il-dans-lespace-pourquoi-il-ny-a-pas-quune-reponse-a-cette-question-291421",
-      "image": "https://counter.theconversation.com/content/291421/count.gif",
-      "publishedAt": "2026-11-10T14:35:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aejv521",
-      "title": "Covid-19 et pangolins : retour scientifique sur un emballement médiatique",
-      "summary": "Le pangolin vit dans les régions tropicales et subtropicales d’Afrique et d’Asie du Sud-Est. Dash Huang, CC BY-NC-SA L’ESSENTIEL Les pangolins ont été les stars éphémères du début de la pandémie de Covid-19, sujets d’un emballement médiatique les présentant comme les animaux intermédiaires qui auraient transmis le nouv",
-      "link": "https://theconversation.com/covid-19-et-pangolins-retour-scientifique-sur-un-emballement-mediatique-294753",
-      "image": "https://images.theconversation.com/files/770030/original/file-20261104-64-ycp8so.jpg?ixlib=rb-4.1.1&amp;rect=4%2C0%2C2040%2C1360&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T14:34:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adwtahd",
-      "title": "Artificial intelligence is desperately seeking its narrative",
-      "summary": "Since the foundational work of Austrian economist Joseph Schumpeter, research has distinguished invention from innovation by its practical implementation. Whether an innovation spreads, however, depends partly on its social acceptance and how its uses are perceived. Without such acceptance, even a promising technology ",
-      "link": "https://theconversation.com/artificial-intelligence-is-desperately-seeking-its-narrative-296067",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-10T13:12:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apo6qoz",
-      "title": "Why young protesters in France are turning against TV channel CNews",
-      "summary": "On November 5, as secondary school students gathered in Paris for another day of demonstrations, a journalist associated with French media outlet CNews met an unusually hostile reception. Protesters shouted for him to leave, and police officers reportedly asked the journalist to stop heckling the crowd. What happens wh",
-      "link": "https://theconversation.com/why-young-protesters-in-france-are-turning-against-tv-channel-cnews-296167",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-10T11:38:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 37,
       "urgencyLevel": "basse"
     }
   ]
