@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:11:35.276Z",
+  "generatedAt": "2026-11-13T13:57:23.452Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,60 @@
   "count": 35,
   "items": [
     {
+      "id": "a7e3ohf",
+      "title": "Le changement climatique fait-il augmenter les migrations ? Pourquoi les chercheurs ne s’accordent pas sur les preuves",
+      "summary": "Une consultation d’experts menée par des chercheurs espagnols révèle un consensus limité sur le lien entre climat et migrations. Or, le réchauffement va plus vite que les décisions politiques qui pourraient protéger les plus vulnérables. Stanley Dullea/Shutterstock L’ESSENTIEL La plupart des déplacements liés au climat",
+      "link": "https://theconversation.com/le-changement-climatique-fait-il-augmenter-les-migrations-pourquoi-les-chercheurs-ne-saccordent-pas-sur-les-preuves-296558",
+      "image": "https://images.theconversation.com/files/771639/original/file-20260616-69-43uzpj.jpeg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5859%2C3906&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-13T11:47:26.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3r46h8",
+      "title": "Débat sur les migrations : pourquoi montrer les données ne suffit pas forcément à convaincre",
+      "summary": "L’ESSENTIEL En Europe, les décideurs écoutent la recherche, mais l’opinion et les pressions politiques façonnent aussi les décisions migratoires. Des résultats exposés avec neutralité peuvent aider à instaurer la confiance des citoyens européens, dont les inquiétudes et les valeurs sont à prendre en compte. Les cherche",
+      "link": "https://theconversation.com/debat-sur-les-migrations-pourquoi-montrer-les-donnees-ne-suffit-pas-forcement-a-convaincre-296297",
+      "image": "https://counter.theconversation.com/content/296297/count.gif",
+      "publishedAt": "2026-11-13T11:46:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "asyqdd8",
+      "title": "Aux États-Unis, les arrestations d’immigrés n’ont profité ni à l’emploi ni aux salaires des travailleurs nés dans le pays",
+      "summary": "Des agents de la police fédérale de l’immigration (ICE) et de son service d’enquêtes (HSI), lors d’une opération sur un lieu de travail à Canton, dans le Mississippi, le 7 août 2019, sous le premier mandat de Donald Trump. U.S. Immigration and Customs Enforcement/Wikimedia Commons, CC BY L’ESSENTIEL Aux États-Unis, les",
+      "link": "https://theconversation.com/aux-etats-unis-les-arrestations-dimmigres-nont-profite-ni-a-lemploi-ni-aux-salaires-des-travailleurs-nes-dans-le-pays-296559",
+      "image": "https://images.theconversation.com/files/771647/original/file-20261112-64-1tfj1d.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4500%2C3000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-13T11:47:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 66,
+      "relevanceLevel": "moyenne",
+      "urgency": 88,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "avi73i4",
       "title": "Cezanne et son héritage à découvrir au Grand Palais",
       "summary": "Que serait l’histoire de la peinture sans Paul Cezanne (1839-1906) ? Il semble aujourd’hui presque impossible d’imaginer l’art moderne et contemporain sans cette figure tutélaire dont l’œuvre a profondément transformé la L’article Cezanne et son héritage à découvrir au Grand Palais est apparu en premier sur Le Café péd",
@@ -131,15 +185,67 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 80,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arkn69v",
+      "title": "En Australie, l’immigration recule, mais l’inquiétude grandit : pourquoi les chiffres ne suffisent pas",
+      "summary": "L’ESSENTIEL Fin juin 2026, 55 % des Australiens jugeaient trop nombreux les migrants arrivant chaque année, sept points de plus qu’en 2024. Or, le solde migratoire du pays est en baisse depuis 2023. Cette hausse accompagne l’essor du parti anti-immigration One Nation, qui a réussi avec la droite à imposer l’idée d’une ",
+      "link": "https://theconversation.com/en-australie-limmigration-recule-mais-linquietude-grandit-pourquoi-les-chiffres-ne-suffisent-pas-296557",
+      "image": "https://counter.theconversation.com/content/296557/count.gif",
+      "publishedAt": "2026-11-13T11:47:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "migration"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7s2ufr",
+      "title": "Espagne : la « priorité nationale », une réponse à la crise du logement qui pourrait l’aggraver",
+      "summary": "Une femme traite un dossier de demande de visa à son bureau. Pressmaster/Shutterstock L’ESSENTIEL Le parti espagnol d’extrême droite Vox place la « priorité nationale » au centre de son programme pour les législatives espagnoles de novembre. Dans la région de Valence, ce principe impose déjà plusieurs années d’inscript",
+      "link": "https://theconversation.com/espagne-la-priorite-nationale-une-reponse-a-la-crise-du-logement-qui-pourrait-laggraver-296556",
+      "image": "https://images.theconversation.com/files/771637/original/file-20261103-64-838cih.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C8256%2C5504&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-13T11:49:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8u62iw",
+      "title": "10 vidéos pour éveiller la curiosité des élèves sur les métiers",
+      "summary": "C’est quoi ce métier ? A quoi sert-il ? Pour répondre aux questions des élèves de 10-12 ans, nourrir leur curiosité, et les aider à mieux comprendre le monde qui les entoure, L’article 10 vidéos pour éveiller la curiosité des élèves sur les métiers est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/13/10-videos-pour-eveiller-la-curiosite-des-eleves-sur-les-metiers/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Image_Serie-1-jour-1-metier-300x152.png",
+      "publishedAt": "2026-11-13T04:29:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
       "id": "a6nyjp8",
       "title": "Une professeure de SES convoquée au rectorat pour sa « posture professionnelle »",
-      "summary": "Atteinte à la liberté pédagogique , (ré)pression de personnels mobilisés ? Au lycée Louise Michel de Grenoble, mobilisé depuis dans le mouvement lycéen, comme tant d’autres, une professeure de sciences économiques L’article Une professeure de SES convoquée au rectorat pour sa « posture professionnelle » est apparu en p",
+      "summary": "Atteinte à la liberté pédagogique , (ré)pression de personnels mobilisés ? Dans un lycée de l’académie de Grenoble, mobilisé depuis le début dans le mouvement lycéen, comme tant d’autres, une L’article Une professeure de SES convoquée au rectorat pour sa « posture professionnelle » est apparu en premier sur Le Café péd",
       "link": "https://www.cafepedagogique.net/2026/11/13/une-professeure-de-ses-convoquee-au-rectorat-pour-sa-posture-professionnelle/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Convocation-RH-avec-filigrane-academique-251x300.png",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/academie-de-grenoble-courrier-1-251x300.png",
       "publishedAt": "2026-11-13T05:00:23.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
@@ -147,9 +253,9 @@
       "keywords": [
         "professeur"
       ],
-      "relevance": 81,
+      "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -167,42 +273,61 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
-      "id": "apqg2m6",
-      "title": "Antisémitisme : « une véritable carence des recherches » en France",
-      "summary": "Antisémitisme : et si l’on regardait outre-Rhin ? Faute de traductions, les travaux allemands et autrichiens sur l’antisémitisme sont quasi inconnus en France. L’anthologie Penser l’antisémitisme contemporain (L’Aube, 792 pages) veut L’article Antisémitisme : « une véritable carence des recherches » en France est appar",
-      "link": "https://www.cafepedagogique.net/2026/11/13/antisemitisme-une-veritable-carence-des-recherches-en-france/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-Quelennec-et-Salima-Nait-Ahmed-300x162.jpg",
-      "publishedAt": "2026-11-13T04:45:42.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "affnhwk",
-      "title": "Concours 2026-2027 : créez votre personnage « Qui n’aimait pas »",
-      "summary": "Article publié dans le cadre d’un partenariat Vous êtes enseignant.e de maternelle, CP, CE1 ou CE2 ? Participez avec votre classe au grand jeu-concours autour de la collection Qui n’aimait pas aux L’article Concours 2026-2027 : créez votre personnage « Qui n’aimait pas » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/13/concours-2026-2027-creez-votre-personnage-qui-naimait-pas/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/concours-qnp-2026-2027-illustration-800x600-1-300x225.png",
-      "publishedAt": "2026-11-13T04:27:29.000Z",
+      "id": "awoqt6v",
+      "title": "Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 !",
+      "summary": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche L’article Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/13/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Forum-du-Cafe-pedagogique-enseignants-Paris-2027-234x300.png",
+      "publishedAt": "2026-11-13T04:28:41.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
-        "enseignant",
-        "classe"
+        "école"
       ],
-      "relevance": 64,
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apjaat3",
+      "title": "Manuella Bénard-Hoarau : enquêter sur la place des femmes au Paléolithique",
+      "summary": "« Je souhaite qu’ils retiennent que les connaissances historiques évoluent constamment au gré des découvertes et des progrès scientifiques » À travers une enquête documentaire, Manuella Bénard-Hoarau, professeure d’histoire géographie L’article Manuella Bénard-Hoarau : enquêter sur la place des femmes au Paléolithique ",
+      "link": "https://www.cafepedagogique.net/2026/11/13/manuella-benard-hoarau-enqueter-sur-la-place-des-femmes-au-paleolithique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Manuella_Benard_Hoarau-300x300.jpeg",
+      "publishedAt": "2026-11-13T04:30:16.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7ljmha",
+      "title": "Bac 2027 : l’APSES réclame des aménagements face aux cours perdus",
+      "summary": "« Le ministre est déconnecté de la réalité ». L’Association des professeur·es de sciences économiques et sociales (APSES) dénonce le refus d’Édouard Geffray d’aménager les épreuves du baccalauréat 2027. Une L’article Bac 2027 : l’APSES réclame des aménagements face aux cours perdus est apparu en premier sur Le Café péd",
+      "link": "https://www.cafepedagogique.net/2026/11/13/bac-2027-lapses-reclame-des-amenagements-face-aux-cours-perdus/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/08/bac-cafe-pedagogique-300x200.jpeg",
+      "publishedAt": "2026-11-13T04:29:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -220,7 +345,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apqg2m6",
+      "title": "Antisémitisme : « une véritable carence des recherches » en France",
+      "summary": "Antisémitisme : et si l’on regardait outre-Rhin ? Faute de traductions, les travaux allemands et autrichiens sur l’antisémitisme sont quasi inconnus en France. L’anthologie Penser l’antisémitisme contemporain (L’Aube, 792 pages) veut L’article Antisémitisme : « une véritable carence des recherches » en France est appar",
+      "link": "https://www.cafepedagogique.net/2026/11/13/antisemitisme-une-veritable-carence-des-recherches-en-france/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-Quelennec-et-Salima-Nait-Ahmed-300x162.jpg",
+      "publishedAt": "2026-11-13T04:45:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -236,7 +377,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -252,8 +393,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aqwnqxn",
@@ -268,8 +409,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9c9ac6",
@@ -284,8 +425,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aig8tmi",
@@ -300,45 +441,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a18leqa",
-      "title": "Comité Parcoursup : « nouveau fiasco pour le gouvernement »",
-      "summary": "Le 9 novembre, le Premier ministre a réuni un comité de réforme de Parcoursup. Les organisations de jeunesse ont refusé de siéger aux côtés de l’UNI et de parlementaires d’extrême L’article Comité Parcoursup : « nouveau fiasco pour le gouvernement » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/12/comite-parcoursup-nouveau-fiasco-pour-le-gouvernement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Parcoursup-efface-nouveau-nom-en-vue-300x169.png",
-      "publishedAt": "2026-11-12T05:00:51.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aehbe5q",
-      "title": "« Contrairement à ce que l’on entend la mobilisation des lycéens reste très forte »",
-      "summary": "À Marseille, la mobilisation marque-t-elle le pas ? Ce mardi 10 novembre, le cortège était moins fourni que lors des précédentes manifestations. Mais dans les lycées, la colère reste vive. L’article « Contrairement à ce que l’on entend la mobilisation des lycéens reste très forte » est apparu en premier sur Le Café péd",
-      "link": "https://www.cafepedagogique.net/2026/11/12/contrairement-a-ce-que-lon-entend-la-mobilisation-des-lyceens-reste-tres-forte/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Manifestation-Marseille-10-novembre-2026-Cafe-pedagogique-225x300.jpeg",
-      "publishedAt": "2026-11-12T04:56:09.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
       "id": "a20c6xr",
       "title": "Brésil : les réseaux sociaux, nouveaux arbitres de la démocratie ?",
-      "summary": "L’ESSENTIEL Lula a fini par battre Flavio Bolsonaro au second tour de la présidentielle brésilienne, mais il avait été devancé par son adversaire au premier. Les soutiens du président réélu estiment que la campagne de candidat de droite avait été mieux mise en avant par les réseaux du groupe Meta (Facebook, Instagram, ",
+      "summary": "L’ESSENTIEL Lula a fini par battre Flavio Bolsonaro au second tour de la présidentielle brésilienne, mais il avait été devancé par son adversaire au premier. Les soutiens du président réélu estiment que la campagne du candidat de droite avait été mieux mise en avant par les réseaux du groupe Meta (Facebook, Instagram, ",
       "link": "https://theconversation.com/bresil-les-reseaux-sociaux-nouveaux-arbitres-de-la-democratie-296020",
       "image": "https://counter.theconversation.com/content/296020/count.gif",
       "publishedAt": "2026-11-12T16:10:41.000Z",
@@ -350,7 +459,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -366,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -382,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -398,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -414,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -430,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -446,41 +555,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "avkapa6",
-      "title": "Edwige Chirouter : philosopher est un droit pour toutes et tous sans condition",
-      "summary": "Qui a le droit de philosopher ? Pour les dix ans de la Chaire UNESCO sur la philosophie avec les enfants, que porte Nantes Université, Edwige Chirouter, professeure des universités L’article Edwige Chirouter : philosopher est un droit pour toutes et tous sans condition est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/12/edwige-chirouter-philosopher-est-un-droit-pour-toutes-et-tous-sans-condition/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/01/edwigeChirouter-jpg-e1737902083466-300x274.jpg",
-      "publishedAt": "2026-11-12T04:58:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2ijg95",
-      "title": "De la journée de 9 heures au droit au logement : plus d’un siècle de grèves générales en Espagne",
-      "summary": "Manifestation pour le droit au logement où l’on réclamait la grève générale, à Murcie le 4 octobre dernier LoboPhotoESP/Shutterstock L’ESSENTIEL En Espagne, à la demande du Syndicat des locataires, les syndicats appellent le 11 novembre à la grève générale contre le coût du logement et les salaires. Depuis 1902 et la j",
-      "link": "https://theconversation.com/de-la-journee-de-9-heures-au-droit-au-logement-plus-dun-siecle-de-greves-generales-en-espagne-295985",
-      "image": "https://images.theconversation.com/files/770241/original/file-20261104-78-e6xd3g.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6016%2C4010&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T16:30:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,39 +571,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ay2dcds",
-      "title": "« La France doit faire de la recherche biomédicale une priorité stratégique »",
-      "summary": "Créé en 1964, l’Institut national de la santé et de la recherche médicale (Inserm) est l’acteur central de la recherche médicale publique française. Alors que le contexte international de la recherche a subi ces dernières années de profondes mutations et que le projet de loi de finances 2027 est en cours d’examen en Fr",
-      "link": "https://theconversation.com/la-france-doit-faire-de-la-recherche-biomedicale-une-priorite-strategique-295851",
-      "image": "https://counter.theconversation.com/content/295851/count.gif",
-      "publishedAt": "2026-11-10T16:32:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aeidc1e",
-      "title": "Engagement militaire égyptien aux côtés de l’Arabie saoudite : beaucoup de bruit pour rien ?",
-      "summary": "L’ESSENTIEL L’Égypte a longtemps privilégié la neutralité et la médiation dans les conflits qui secouent le Moyen-Orient. Mais le 26 octobre, son Parlement a approuvé un déploiement militaire en soutien à l’Arabie saoudite face aux houthistes. Toutefois, Le Caire entend limiter son engagement à un strict cadre défensif",
-      "link": "https://theconversation.com/engagement-militaire-egyptien-aux-cotes-de-larabie-saoudite-beaucoup-de-bruit-pour-rien-295703",
-      "image": "https://counter.theconversation.com/content/295703/count.gif",
-      "publishedAt": "2026-11-10T16:30:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -547,7 +590,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -565,25 +608,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a7wikya",
-      "title": "Vision nocturne et tactique, IA : les promesses des casques de guerre futuristes",
-      "summary": "Présenté par l'entreprise américaine Anduril en 2025, le casque EagleEye intègre vision augmentée, intelligence artificielle et capacités de communication améliorées. Anduril, CC BY-NC-ND L’ESSENTIEL En un siècle, le casque militaire est passé du symbole de pouvoir à un équipement de haute technologie. Il transmet, aff",
-      "link": "https://theconversation.com/vision-nocturne-et-tactique-ia-les-promesses-des-casques-de-guerre-futuristes-288140",
-      "image": "https://images.theconversation.com/files/756446/original/file-20260827-50-egqv3z.jpg?ixlib=rb-4.1.1&amp;rect=227%2C0%2C2425%2C1617&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-10T16:31:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -599,7 +624,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -615,7 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -631,7 +656,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -647,7 +672,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -663,7 +688,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     },
     {
@@ -679,23 +704,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "akhz7q5",
-      "title": "11-Novembre : les démocraties savent-elles faire la guerre ? La réponse de l’Athènes antique",
-      "summary": "L’ESSENTIEL Vladimir Poutine semble parier sur le fait que les démocraties, comme la France, l’Australie ou l’Ukraine, finissent par renoncer quand la guerre devient trop coûteuse. L’exemple d’Athènes, à l’époque classique, le dément : la démocratie a été l’un des moteurs des victoires athéniennes, en motivant les cito",
-      "link": "https://theconversation.com/11-novembre-les-democraties-savent-elles-faire-la-guerre-la-reponse-de-lathenes-antique-296198",
-      "image": "https://counter.theconversation.com/content/296198/count.gif",
-      "publishedAt": "2026-11-10T16:29:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 30,
       "urgencyLevel": "basse"
     }
   ]
