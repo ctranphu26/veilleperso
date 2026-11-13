@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T13:57:23.452Z",
+  "generatedAt": "2026-11-13T23:15:53.723Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 88,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 88,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -185,7 +185,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -203,8 +203,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7s2ufr",
@@ -219,26 +219,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a8u62iw",
-      "title": "10 vidéos pour éveiller la curiosité des élèves sur les métiers",
-      "summary": "C’est quoi ce métier ? A quoi sert-il ? Pour répondre aux questions des élèves de 10-12 ans, nourrir leur curiosité, et les aider à mieux comprendre le monde qui les entoure, L’article 10 vidéos pour éveiller la curiosité des élèves sur les métiers est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/13/10-videos-pour-eveiller-la-curiosite-des-eleves-sur-les-metiers/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Image_Serie-1-jour-1-metier-300x152.png",
-      "publishedAt": "2026-11-13T04:29:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6nyjp8",
@@ -255,8 +237,26 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a8u62iw",
+      "title": "10 vidéos pour éveiller la curiosité des élèves sur les métiers",
+      "summary": "C’est quoi ce métier ? A quoi sert-il ? Pour répondre aux questions des élèves de 10-12 ans, nourrir leur curiosité, et les aider à mieux comprendre le monde qui les entoure, L’article 10 vidéos pour éveiller la curiosité des élèves sur les métiers est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/13/10-videos-pour-eveiller-la-curiosite-des-eleves-sur-les-metiers/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Image_Serie-1-jour-1-metier-300x152.png",
+      "publishedAt": "2026-11-13T04:29:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "az2w0s7",
@@ -273,8 +273,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awoqt6v",
@@ -291,8 +291,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apjaat3",
@@ -309,8 +309,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7ljmha",
@@ -327,8 +327,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "apae76s",
@@ -345,40 +345,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "apqg2m6",
-      "title": "Antisémitisme : « une véritable carence des recherches » en France",
-      "summary": "Antisémitisme : et si l’on regardait outre-Rhin ? Faute de traductions, les travaux allemands et autrichiens sur l’antisémitisme sont quasi inconnus en France. L’anthologie Penser l’antisémitisme contemporain (L’Aube, 792 pages) veut L’article Antisémitisme : « une véritable carence des recherches » en France est appar",
-      "link": "https://www.cafepedagogique.net/2026/11/13/antisemitisme-une-veritable-carence-des-recherches-en-france/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-Quelennec-et-Salima-Nait-Ahmed-300x162.jpg",
-      "publishedAt": "2026-11-13T04:45:42.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aj03iw9",
-      "title": "14-18 : la Grande Guerre racontée par les archives sonores",
-      "summary": "Comment raconter la Première Guerre mondiale à travers les archives ? France Culture propose une série de podcasts intitulée « 14-18, la Grande Guerre racontée par les archives ». Une L’article 14-18 : la Grande Guerre racontée par les archives sonores est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/13/14-18-la-grande-guerre-racontee-par-les-archives-sonores/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/09/France_Culture_logo_2021.svg-300x300.png",
-      "publishedAt": "2026-11-13T04:29:02.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3uil5t",
@@ -393,7 +361,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +377,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apqg2m6",
+      "title": "Antisémitisme : « une véritable carence des recherches » en France",
+      "summary": "Antisémitisme : et si l’on regardait outre-Rhin ? Faute de traductions, les travaux allemands et autrichiens sur l’antisémitisme sont quasi inconnus en France. L’anthologie Penser l’antisémitisme contemporain (L’Aube, 792 pages) veut L’article Antisémitisme : « une véritable carence des recherches » en France est appar",
+      "link": "https://www.cafepedagogique.net/2026/11/13/antisemitisme-une-veritable-carence-des-recherches-en-france/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-Quelennec-et-Salima-Nait-Ahmed-300x162.jpg",
+      "publishedAt": "2026-11-13T04:45:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aj03iw9",
+      "title": "14-18 : la Grande Guerre racontée par les archives sonores",
+      "summary": "Comment raconter la Première Guerre mondiale à travers les archives ? France Culture propose une série de podcasts intitulée « 14-18, la Grande Guerre racontée par les archives ». Une L’article 14-18 : la Grande Guerre racontée par les archives sonores est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/13/14-18-la-grande-guerre-racontee-par-les-archives-sonores/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/09/France_Culture_logo_2021.svg-300x300.png",
+      "publishedAt": "2026-11-13T04:29:02.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +425,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +441,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +459,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -507,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -523,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -539,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -555,7 +555,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -571,8 +571,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "at8lpec",
@@ -590,7 +590,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -608,7 +608,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -624,7 +624,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -640,7 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -656,7 +656,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -672,7 +672,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -688,7 +688,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -704,7 +704,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
