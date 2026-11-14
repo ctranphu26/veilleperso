@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T12:59:12.795Z",
+  "generatedAt": "2026-11-14T21:58:57.538Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 95,
+      "urgency": 86,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 76,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +163,26 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "arh90vs",
+      "title": "Actualité de l’éducation du 9 au 13 novembre 2026",
+      "summary": "La mobilisation lycéenne ne faiblit pas mais la réponse institutionnelle se durcit. Convocation d’une enseignante au rectorat, menaces de sanctions contre les élèves, retenues sur salaire, réquisitions de trombinoscopes : L’article Actualité de l’éducation du 9 au 13 novembre 2026 est apparu en premier sur Le Café péda",
+      "link": "https://www.cafepedagogique.net/2026/11/14/actualite-de-leducation-du-9-au-13-novembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/academie-de-grenoble-courrier-1-251x300.png",
+      "publishedAt": "2026-11-14T16:34:44.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève",
+        "enseignant"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -181,8 +200,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awto41i",
@@ -197,8 +216,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a235maw",
@@ -213,15 +232,15 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a66dbuc",
       "title": "14 ressources mises en avant par le Café pédagogique",
       "summary": "Et si l’essentiel, à l’École, était de redonner aux élèves le goût d’apprendre, de chercher et de comprendre ? De l’interdisciplinarité en lycée professionnel aux projets qui rapprochent les collégiens, L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
       "link": "https://www.cafepedagogique.net/2026/11/14/14-ressources-mises-en-avant-par-le-cafe-pedagogique-3/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/toutes-les-ressources-300x200.jpg",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/toutes-les-ressources-1-300x200.jpg",
       "publishedAt": "2026-11-14T05:59:27.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
@@ -231,8 +250,8 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7e3ohf",
@@ -249,7 +268,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -267,7 +286,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +304,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -303,7 +322,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +338,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -335,7 +354,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -351,7 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,25 +388,23 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "az2w0s7",
-      "title": "Pour une pédagogie de la curiosité et de l’envie d’apprendre à l’ère de l’IA",
-      "summary": "Alors que l’Intelligence artificielle générative a envahi les pratiques de plus en plus quotidiennes, on entend souvent évoquer les « risques », les « dangers » que nous feraient courir les technologies. Sans se L’article Pour une pédagogie de la curiosité et de l’envie d’apprendre à l’ère de l’IA est apparu en premier",
-      "link": "https://www.cafepedagogique.net/2026/11/13/pour-une-pedagogie-de-la-curiosite-et-de-lenvie-dapprendre-a-lere-de-lia/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/numerique-et-education-1-300x200.jpg",
-      "publishedAt": "2026-11-13T04:50:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "a9c9ac6",
+      "title": "L’empreinte carbone astronomique des preuves mathématiques d’OpenAI",
+      "summary": "L’empreinte carbone de la preuve mathématique apportée par OpenAI au problème des équations de Navier-Stokes est du même ordre de grandeur que celle d’un télescope du réseau Cherenkov (ici, en photo) qui fonctionnerait pendant dix ou quinze ans. CTA/M-A. Besel/IAC (G. P. Diaz)/ESO L’ESSENTIEL OpenAI a annoncé avoir rés",
+      "link": "https://theconversation.com/lempreinte-carbone-astronomique-des-preuves-mathematiques-dopenai-294894",
+      "image": "https://images.theconversation.com/files/767554/original/file-20261021-50-pkxzkb.jpg?ixlib=rb-4.1.1&amp;rect=182%2C0%2C1080%2C720&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-12T11:34:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
-      "keywords": [
-        "pédagogie"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 51,
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -405,25 +422,25 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "awoqt6v",
-      "title": "Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 !",
-      "summary": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche L’article Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 ! est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/13/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Forum-du-Cafe-pedagogique-enseignants-Paris-2027-234x300.png",
-      "publishedAt": "2026-11-13T04:28:41.000Z",
+      "id": "az2w0s7",
+      "title": "Pour une pédagogie de la curiosité et de l’envie d’apprendre à l’ère de l’IA",
+      "summary": "Alors que l’Intelligence artificielle générative a envahi les pratiques de plus en plus quotidiennes, on entend souvent évoquer les « risques », les « dangers » que nous feraient courir les technologies. Sans se L’article Pour une pédagogie de la curiosité et de l’envie d’apprendre à l’ère de l’IA est apparu en premier",
+      "link": "https://www.cafepedagogique.net/2026/11/13/pour-une-pedagogie-de-la-curiosite-et-de-lenvie-dapprendre-a-lere-de-lia/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/numerique-et-education-1-300x200.jpg",
+      "publishedAt": "2026-11-13T04:50:21.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
-        "école"
+        "pédagogie"
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +458,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +476,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -477,55 +494,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apqg2m6",
-      "title": "Antisémitisme : « une véritable carence des recherches » en France",
-      "summary": "Antisémitisme : et si l’on regardait outre-Rhin ? Faute de traductions, les travaux allemands et autrichiens sur l’antisémitisme sont quasi inconnus en France. L’anthologie Penser l’antisémitisme contemporain (L’Aube, 792 pages) veut L’article Antisémitisme : « une véritable carence des recherches » en France est appar",
-      "link": "https://www.cafepedagogique.net/2026/11/13/antisemitisme-une-veritable-carence-des-recherches-en-france/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-Quelennec-et-Salima-Nait-Ahmed-300x162.jpg",
-      "publishedAt": "2026-11-13T04:45:42.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aj03iw9",
-      "title": "14-18 : la Grande Guerre racontée par les archives sonores",
-      "summary": "Comment raconter la Première Guerre mondiale à travers les archives ? France Culture propose une série de podcasts intitulée « 14-18, la Grande Guerre racontée par les archives ». Une L’article 14-18 : la Grande Guerre racontée par les archives sonores est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/13/14-18-la-grande-guerre-racontee-par-les-archives-sonores/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/09/France_Culture_logo_2021.svg-300x300.png",
-      "publishedAt": "2026-11-13T04:29:02.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9c9ac6",
-      "title": "L’empreinte carbone astronomique des preuves mathématiques d’OpenAI",
-      "summary": "L’empreinte carbone de la preuve mathématique apportée par OpenAI au problème des équations de Navier-Stokes est du même ordre de grandeur que celle d’un télescope du réseau Cherenkov (ici, en photo) qui fonctionnerait pendant dix ou quinze ans. CTA/M-A. Besel/IAC (G. P. Diaz)/ESO L’ESSENTIEL OpenAI a annoncé avoir rés",
-      "link": "https://theconversation.com/lempreinte-carbone-astronomique-des-preuves-mathematiques-dopenai-294894",
-      "image": "https://images.theconversation.com/files/767554/original/file-20261021-50-pkxzkb.jpg?ixlib=rb-4.1.1&amp;rect=182%2C0%2C1080%2C720&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-12T11:34:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -541,7 +510,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apqg2m6",
+      "title": "Antisémitisme : « une véritable carence des recherches » en France",
+      "summary": "Antisémitisme : et si l’on regardait outre-Rhin ? Faute de traductions, les travaux allemands et autrichiens sur l’antisémitisme sont quasi inconnus en France. L’anthologie Penser l’antisémitisme contemporain (L’Aube, 792 pages) veut L’article Antisémitisme : « une véritable carence des recherches » en France est appar",
+      "link": "https://www.cafepedagogique.net/2026/11/13/antisemitisme-une-veritable-carence-des-recherches-en-france/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-Quelennec-et-Salima-Nait-Ahmed-300x162.jpg",
+      "publishedAt": "2026-11-13T04:45:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aj03iw9",
+      "title": "14-18 : la Grande Guerre racontée par les archives sonores",
+      "summary": "Comment raconter la Première Guerre mondiale à travers les archives ? France Culture propose une série de podcasts intitulée « 14-18, la Grande Guerre racontée par les archives ». Une L’article 14-18 : la Grande Guerre racontée par les archives sonores est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/13/14-18-la-grande-guerre-racontee-par-les-archives-sonores/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/09/France_Culture_logo_2021.svg-300x300.png",
+      "publishedAt": "2026-11-13T04:29:02.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -559,8 +560,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a1jc08n",
@@ -575,8 +576,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "awdpmd7",
@@ -591,8 +592,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "as9t5yc",
@@ -607,8 +608,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a5bkxmw",
@@ -623,8 +624,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a214l30",
@@ -639,8 +640,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ah7jaxh",
@@ -655,8 +656,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "adsw4s2",
@@ -671,7 +672,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -687,7 +688,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     },
     {
@@ -703,7 +704,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 21,
+      "urgency": 19,
       "urgencyLevel": "basse"
     }
   ]
