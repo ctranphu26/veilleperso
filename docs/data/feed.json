@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:15:53.723Z",
+  "generatedAt": "2026-11-14T05:00:46.229Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 73,
       "urgencyLevel": "haute"
     },
     {
@@ -185,8 +185,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arkn69v",
@@ -203,7 +203,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -219,7 +219,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 63,
       "urgencyLevel": "moyenne"
     },
     {
@@ -237,25 +237,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8u62iw",
-      "title": "10 vidéos pour éveiller la curiosité des élèves sur les métiers",
-      "summary": "C’est quoi ce métier ? A quoi sert-il ? Pour répondre aux questions des élèves de 10-12 ans, nourrir leur curiosité, et les aider à mieux comprendre le monde qui les entoure, L’article 10 vidéos pour éveiller la curiosité des élèves sur les métiers est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/13/10-videos-pour-eveiller-la-curiosite-des-eleves-sur-les-metiers/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Image_Serie-1-jour-1-metier-300x152.png",
-      "publishedAt": "2026-11-13T04:29:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -273,7 +255,73 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3uil5t",
+      "title": "Les femmes ont plus d’intelligence émotionnelle que les hommes (et c’est un problème), selon une vaste étude",
+      "summary": "Les parents emploient davantage de mots liés aux émotions avec leurs filles qu’avec leurs fils. Linda Bartlett, National Cancer Institute/Wikimedia Commons , CC BY L’ESSENTIEL Quand il s’agit de reconnaître les émotions des autres, les femmes seraient meilleures que les hommes. Cet avantage semble davantage tenir à l’é",
+      "link": "https://theconversation.com/les-femmes-ont-plus-dintelligence-emotionnelle-que-les-hommes-et-cest-un-probleme-selon-une-vaste-etude-294255",
+      "image": "https://images.theconversation.com/files/769796/original/file-20261103-64-rmhs45.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2700%2C1800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-12T16:11:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aqwnqxn",
+      "title": "Bientôt 3 euros le litre de gazole ? La gratuité des transports (dont le vélo), une solution pour le porte-monnaie et la santé publique",
+      "summary": "L’ESSENTIEL Aujourd’hui, 17 millions de Français sont en situation de précarité mobilité : pour maîtriser leur facture de carburant, certains renoncent à prendre un rendez-vous médical ou à voir leurs proches ; d’autres rognent sur des dépenses essentielles. Un phénomène aggravé par la flambée actuelle des prix. En Fra",
+      "link": "https://theconversation.com/bientot-3-euros-le-litre-de-gazole-la-gratuite-des-transports-dont-le-velo-une-solution-pour-le-porte-monnaie-et-la-sante-publique-296082",
+      "image": "https://counter.theconversation.com/content/296082/count.gif",
+      "publishedAt": "2026-11-12T16:09:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apqg2m6",
+      "title": "Antisémitisme : « une véritable carence des recherches » en France",
+      "summary": "Antisémitisme : et si l’on regardait outre-Rhin ? Faute de traductions, les travaux allemands et autrichiens sur l’antisémitisme sont quasi inconnus en France. L’anthologie Penser l’antisémitisme contemporain (L’Aube, 792 pages) veut L’article Antisémitisme : « une véritable carence des recherches » en France est appar",
+      "link": "https://www.cafepedagogique.net/2026/11/13/antisemitisme-une-veritable-carence-des-recherches-en-france/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-Quelennec-et-Salima-Nait-Ahmed-300x162.jpg",
+      "publishedAt": "2026-11-13T04:45:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a8u62iw",
+      "title": "10 vidéos pour éveiller la curiosité des élèves sur les métiers",
+      "summary": "C’est quoi ce métier ? A quoi sert-il ? Pour répondre aux questions des élèves de 10-12 ans, nourrir leur curiosité, et les aider à mieux comprendre le monde qui les entoure, L’article 10 vidéos pour éveiller la curiosité des élèves sur les métiers est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/13/10-videos-pour-eveiller-la-curiosite-des-eleves-sur-les-metiers/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Image_Serie-1-jour-1-metier-300x152.png",
+      "publishedAt": "2026-11-13T04:29:38.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -291,7 +339,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -309,7 +357,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +375,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,55 +393,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3uil5t",
-      "title": "Les femmes ont plus d’intelligence émotionnelle que les hommes (et c’est un problème), selon une vaste étude",
-      "summary": "Les parents emploient davantage de mots liés aux émotions avec leurs filles qu’avec leurs fils. Linda Bartlett, National Cancer Institute/Wikimedia Commons , CC BY L’ESSENTIEL Quand il s’agit de reconnaître les émotions des autres, les femmes seraient meilleures que les hommes. Cet avantage semble davantage tenir à l’é",
-      "link": "https://theconversation.com/les-femmes-ont-plus-dintelligence-emotionnelle-que-les-hommes-et-cest-un-probleme-selon-une-vaste-etude-294255",
-      "image": "https://images.theconversation.com/files/769796/original/file-20261103-64-rmhs45.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2700%2C1800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-12T16:11:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqwnqxn",
-      "title": "Bientôt 3 euros le litre de gazole ? La gratuité des transports (dont le vélo), une solution pour le porte-monnaie et la santé publique",
-      "summary": "L’ESSENTIEL Aujourd’hui, 17 millions de Français sont en situation de précarité mobilité : pour maîtriser leur facture de carburant, certains renoncent à prendre un rendez-vous médical ou à voir leurs proches ; d’autres rognent sur des dépenses essentielles. Un phénomène aggravé par la flambée actuelle des prix. En Fra",
-      "link": "https://theconversation.com/bientot-3-euros-le-litre-de-gazole-la-gratuite-des-transports-dont-le-velo-une-solution-pour-le-porte-monnaie-et-la-sante-publique-296082",
-      "image": "https://counter.theconversation.com/content/296082/count.gif",
-      "publishedAt": "2026-11-12T16:09:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apqg2m6",
-      "title": "Antisémitisme : « une véritable carence des recherches » en France",
-      "summary": "Antisémitisme : et si l’on regardait outre-Rhin ? Faute de traductions, les travaux allemands et autrichiens sur l’antisémitisme sont quasi inconnus en France. L’anthologie Penser l’antisémitisme contemporain (L’Aube, 792 pages) veut L’article Antisémitisme : « une véritable carence des recherches » en France est appar",
-      "link": "https://www.cafepedagogique.net/2026/11/13/antisemitisme-une-veritable-carence-des-recherches-en-france/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-Quelennec-et-Salima-Nait-Ahmed-300x162.jpg",
-      "publishedAt": "2026-11-13T04:45:42.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -409,7 +409,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -425,7 +425,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +441,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -459,7 +459,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -475,7 +475,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,7 +491,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -507,7 +507,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -523,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -539,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -555,7 +555,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -571,7 +571,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -590,7 +590,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -608,7 +608,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -624,7 +624,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -640,7 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -656,7 +656,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -672,7 +672,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -688,7 +688,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -704,7 +704,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
