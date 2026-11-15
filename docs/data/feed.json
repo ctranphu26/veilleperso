@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T21:58:57.538Z",
+  "generatedAt": "2026-11-15T04:54:47.796Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 86,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -163,8 +163,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arh90vs",
@@ -182,8 +182,8 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "au4n9id",
@@ -200,7 +200,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -216,7 +216,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -232,7 +232,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -250,7 +250,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 64,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -268,7 +268,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +286,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +304,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -322,7 +322,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,7 +338,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +354,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,25 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6nyjp8",
-      "title": "Une professeure de SES convoquée au rectorat pour sa « posture professionnelle »",
-      "summary": "Atteinte à la liberté pédagogique , (ré)pression de personnels mobilisés ? Dans un lycée de l’académie de Grenoble, mobilisé depuis le début dans le mouvement lycéen, comme tant d’autres, une L’article Une professeure de SES convoquée au rectorat pour sa « posture professionnelle » est apparu en premier sur Le Café péd",
-      "link": "https://www.cafepedagogique.net/2026/11/13/une-professeure-de-ses-convoquee-au-rectorat-pour-sa-posture-professionnelle/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/academie-de-grenoble-courrier-1-251x300.png",
-      "publishedAt": "2026-11-13T05:00:23.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -404,7 +386,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aig8tmi",
+      "title": "COP31 : les États peinent à freiner les émissions de leurs propres centrales électriques",
+      "summary": "La centrale à charbon de Kusile, exploitée par l’électricien public sud-africain Eskom, dans la province du Mpumalanga, en 2019. JMK/Wikimedia Commons, CC BY L’ESSENTIEL Une recherche s'est intéressée aux centrales électriques possédées par des États. Elles représentaient 38 % des installations étudiées, mais sont resp",
+      "link": "https://theconversation.com/cop31-les-etats-peinent-a-freiner-les-emissions-de-leurs-propres-centrales-electriques-296515",
+      "image": "https://images.theconversation.com/files/771527/original/file-20261112-92-992zq5.jpg?ixlib=rb-4.1.1&amp;rect=636%2C0%2C3878%2C2585&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-12T09:40:51.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -422,7 +420,25 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 44,
+      "urgency": 40,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6nyjp8",
+      "title": "Une professeure de SES convoquée au rectorat pour sa « posture professionnelle »",
+      "summary": "Atteinte à la liberté pédagogique , (ré)pression de personnels mobilisés ? Dans un lycée de l’académie de Grenoble, mobilisé depuis le début dans le mouvement lycéen, comme tant d’autres, une L’article Une professeure de SES convoquée au rectorat pour sa « posture professionnelle » est apparu en premier sur Le Café péd",
+      "link": "https://www.cafepedagogique.net/2026/11/13/une-professeure-de-ses-convoquee-au-rectorat-pour-sa-posture-professionnelle/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/academie-de-grenoble-courrier-1-251x300.png",
+      "publishedAt": "2026-11-13T05:00:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -440,7 +456,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -458,7 +474,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -476,7 +492,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -494,23 +510,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aig8tmi",
-      "title": "COP31 : les États peinent à freiner les émissions de leurs propres centrales électriques",
-      "summary": "La centrale à charbon de Kusile, exploitée par l’électricien public sud-africain Eskom, dans la province du Mpumalanga, en 2019. JMK/Wikimedia Commons, CC BY L’ESSENTIEL Une recherche s'est intéressée aux centrales électriques possédées par des États. Elles représentaient 38 % des installations étudiées, mais sont resp",
-      "link": "https://theconversation.com/cop31-les-etats-peinent-a-freiner-les-emissions-de-leurs-propres-centrales-electriques-296515",
-      "image": "https://images.theconversation.com/files/771527/original/file-20261112-92-992zq5.jpg?ixlib=rb-4.1.1&amp;rect=636%2C0%2C3878%2C2585&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-12T09:40:51.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -526,7 +526,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -542,7 +542,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -560,7 +560,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -576,7 +576,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -592,7 +592,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -608,7 +608,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -624,7 +624,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -640,7 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -656,7 +656,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -672,7 +672,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -688,7 +688,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     },
     {
@@ -704,7 +704,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 19,
+      "urgency": 17,
       "urgencyLevel": "basse"
     }
   ]
