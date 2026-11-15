@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T13:27:43.409Z",
+  "generatedAt": "2026-11-15T22:29:30.314Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,22 @@
   "count": 35,
   "items": [
     {
+      "id": "abk61vi",
+      "title": "Trois stratégies pour les entreprises et les États face à l’IA, ou pourquoi les décisions de Mistral et de l’Union européenne ne sont pas contradictoires avec la souveraineté numérique",
+      "summary": "Arthur Mensch, PDG de Mistral AI, et la présidente du Parlement européen, Roberta Metsola, lors de leur rencontre à Paris, le 14 novembre 2025. Daina Le Lardic/Parlement européen © Union européenne 2025, CC BY L’ESSENTIEL L’annonce de Mistral d’abandonner le développement de son propre grand modèle de langage a jeté le",
+      "link": "https://theconversation.com/trois-strategies-pour-les-entreprises-et-les-etats-face-a-lia-ou-pourquoi-les-decisions-de-mistral-et-de-lunion-europeenne-ne-sont-pas-contradictoires-avec-la-souverainete-numerique-294280",
+      "image": "https://images.theconversation.com/files/771840/original/file-20261113-64-qxv7fm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-14T08:03:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
+    },
+    {
       "id": "a9h2ekt",
       "title": "« DostoïevskIA » : la littérature russe au service de la propagande",
       "summary": "L’ESSENTIEL Sur la chaîne Russia Today, le romancier Fiodor Dostoïevski (1821-1881) est ressuscité par l’intelligence artificielle sous la forme d’un avatar numérique programmé pour réciter des extraits de ses œuvres. Plus connu pour ses fictions que pour ses écrits politiques très conservateurs, l’auteur est instrumen",
@@ -134,8 +150,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amji390",
@@ -152,8 +168,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2p4m8l",
@@ -168,8 +184,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afo94p2",
@@ -184,8 +200,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atb2q9",
@@ -200,8 +216,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "an2ykuw",
@@ -216,24 +232,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "abk61vi",
-      "title": "Trois stratégies pour les entreprises et les États face à l’IA, ou pourquoi les décisions de Mistral et de l’Union européenne ne sont pas contradictoires avec la souveraineté numérique",
-      "summary": "Arthur Mensch, PDG de Mistral AI, et la présidente du Parlement européen, Roberta Metsola, lors de leur rencontre à Paris, le 14 novembre 2025. Daina Le Lardic/Parlement européen © Union européenne 2025, CC BY L’ESSENTIEL L’annonce de Mistral d’abandonner le développement de son propre grand modèle de langage a jeté le",
-      "link": "https://theconversation.com/trois-strategies-pour-les-entreprises-et-les-etats-face-a-lia-ou-pourquoi-les-decisions-de-mistral-et-de-lunion-europeenne-ne-sont-pas-contradictoires-avec-la-souverainete-numerique-294280",
-      "image": "https://images.theconversation.com/files/771840/original/file-20261113-64-qxv7fm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-14T08:03:53.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aazampx",
@@ -248,7 +248,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -264,7 +264,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -283,7 +283,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -301,7 +301,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -317,7 +317,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,25 +333,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a66dbuc",
-      "title": "14 ressources mises en avant par le Café pédagogique",
-      "summary": "Et si l’essentiel, à l’École, était de redonner aux élèves le goût d’apprendre, de chercher et de comprendre ? De l’interdisciplinarité en lycée professionnel aux projets qui rapprochent les collégiens, L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/14/14-ressources-mises-en-avant-par-le-cafe-pedagogique-3/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/toutes-les-ressources-1-300x200.jpg",
-      "publishedAt": "2026-11-14T05:59:27.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -369,7 +351,25 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 45,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a66dbuc",
+      "title": "14 ressources mises en avant par le Café pédagogique",
+      "summary": "Et si l’essentiel, à l’École, était de redonner aux élèves le goût d’apprendre, de chercher et de comprendre ? De l’interdisciplinarité en lycée professionnel aux projets qui rapprochent les collégiens, L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/14/14-ressources-mises-en-avant-par-le-cafe-pedagogique-3/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/toutes-les-ressources-1-300x200.jpg",
+      "publishedAt": "2026-11-14T05:59:27.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -387,7 +387,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -405,7 +405,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,8 +421,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aqwnqxn",
@@ -437,8 +437,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "arkn69v",
@@ -455,7 +455,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -471,59 +471,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a6nyjp8",
-      "title": "Une professeure de SES convoquée au rectorat pour sa « posture professionnelle »",
-      "summary": "Atteinte à la liberté pédagogique , (ré)pression de personnels mobilisés ? Dans un lycée de l’académie de Grenoble, mobilisé depuis le début dans le mouvement lycéen, comme tant d’autres, une L’article Une professeure de SES convoquée au rectorat pour sa « posture professionnelle » est apparu en premier sur Le Café péd",
-      "link": "https://www.cafepedagogique.net/2026/11/13/une-professeure-de-ses-convoquee-au-rectorat-pour-sa-posture-professionnelle/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/academie-de-grenoble-courrier-1-251x300.png",
-      "publishedAt": "2026-11-13T05:00:23.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "professeur"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "az2w0s7",
-      "title": "Pour une pédagogie de la curiosité et de l’envie d’apprendre à l’ère de l’IA",
-      "summary": "Alors que l’Intelligence artificielle générative a envahi les pratiques de plus en plus quotidiennes, on entend souvent évoquer les « risques », les « dangers » que nous feraient courir les technologies. Sans se L’article Pour une pédagogie de la curiosité et de l’envie d’apprendre à l’ère de l’IA est apparu en premier",
-      "link": "https://www.cafepedagogique.net/2026/11/13/pour-une-pedagogie-de-la-curiosite-et-de-lenvie-dapprendre-a-lere-de-lia/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/numerique-et-education-1-300x200.jpg",
-      "publishedAt": "2026-11-13T04:50:21.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "pédagogie"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "apqg2m6",
-      "title": "Antisémitisme : « une véritable carence des recherches » en France",
-      "summary": "Antisémitisme : et si l’on regardait outre-Rhin ? Faute de traductions, les travaux allemands et autrichiens sur l’antisémitisme sont quasi inconnus en France. L’anthologie Penser l’antisémitisme contemporain (L’Aube, 792 pages) veut L’article Antisémitisme : « une véritable carence des recherches » en France est appar",
-      "link": "https://www.cafepedagogique.net/2026/11/13/antisemitisme-une-veritable-carence-des-recherches-en-france/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-Quelennec-et-Salima-Nait-Ahmed-300x162.jpg",
-      "publishedAt": "2026-11-13T04:45:42.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 35,
       "urgencyLevel": "basse"
     },
     {
@@ -541,7 +489,43 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 35,
+      "urgency": 31,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a6nyjp8",
+      "title": "Une professeure de SES convoquée au rectorat pour sa « posture professionnelle »",
+      "summary": "Atteinte à la liberté pédagogique , (ré)pression de personnels mobilisés ? Dans un lycée de l’académie de Grenoble, mobilisé depuis le début dans le mouvement lycéen, comme tant d’autres, une L’article Une professeure de SES convoquée au rectorat pour sa « posture professionnelle » est apparu en premier sur Le Café péd",
+      "link": "https://www.cafepedagogique.net/2026/11/13/une-professeure-de-ses-convoquee-au-rectorat-pour-sa-posture-professionnelle/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/academie-de-grenoble-courrier-1-251x300.png",
+      "publishedAt": "2026-11-13T05:00:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "professeur"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 31,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "az2w0s7",
+      "title": "Pour une pédagogie de la curiosité et de l’envie d’apprendre à l’ère de l’IA",
+      "summary": "Alors que l’Intelligence artificielle générative a envahi les pratiques de plus en plus quotidiennes, on entend souvent évoquer les « risques », les « dangers » que nous feraient courir les technologies. Sans se L’article Pour une pédagogie de la curiosité et de l’envie d’apprendre à l’ère de l’IA est apparu en premier",
+      "link": "https://www.cafepedagogique.net/2026/11/13/pour-une-pedagogie-de-la-curiosite-et-de-lenvie-dapprendre-a-lere-de-lia/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/09/numerique-et-education-1-300x200.jpg",
+      "publishedAt": "2026-11-13T04:50:21.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "pédagogie"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -559,7 +543,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -577,7 +561,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -595,7 +579,23 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "apqg2m6",
+      "title": "Antisémitisme : « une véritable carence des recherches » en France",
+      "summary": "Antisémitisme : et si l’on regardait outre-Rhin ? Faute de traductions, les travaux allemands et autrichiens sur l’antisémitisme sont quasi inconnus en France. L’anthologie Penser l’antisémitisme contemporain (L’Aube, 792 pages) veut L’article Antisémitisme : « une véritable carence des recherches » en France est appar",
+      "link": "https://www.cafepedagogique.net/2026/11/13/antisemitisme-une-veritable-carence-des-recherches-en-france/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-Quelennec-et-Salima-Nait-Ahmed-300x162.jpg",
+      "publishedAt": "2026-11-13T04:45:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -611,7 +611,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -645,7 +645,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -661,7 +661,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -677,7 +677,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -693,7 +693,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -709,7 +709,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 30,
+      "urgency": 26,
       "urgencyLevel": "basse"
     }
   ]
