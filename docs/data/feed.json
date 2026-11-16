@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:51:57.518Z",
+  "generatedAt": "2026-11-16T14:51:20.488Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,22 +119,166 @@
   "count": 35,
   "items": [
     {
-      "id": "ac2kj4",
-      "title": "Mayotte : au collège de Dembéni, les enseignants ne peuvent plus garantir la sécurité des élèves",
-      "summary": "Menaces au couteau, tentatives d’intrusion, jets de pierres et agressions : au collège de Dembéni, à Mayotte, la violence atteint un niveau alarmant. Mardi 10 novembre, les gendarmes ont dû L’article Mayotte : au collège de Dembéni, les enseignants ne peuvent plus garantir la sécurité des élèves est apparu en premier s",
-      "link": "https://www.cafepedagogique.net/2026/11/16/mayotte-au-college-de-dembeni-les-enseignants-ne-peuvent-plus-garantir-la-securite-des-eleves/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/mayotte-300x179.png",
-      "publishedAt": "2026-11-16T04:26:29.000Z",
+      "id": "ahc4py2",
+      "title": "Robots tueurs autonomes, où en sommes-nous vraiment ?",
+      "summary": "L’ESSENTIEL Du 16 au 20 novembre, l’ONU tient une conférence sur l’encadrement des armes autonomes. L’autonomie militaire existe déjà à toutes les étapes de la chaîne d’engagement : observation, identification, sélection et frappe des cibles. L’enjeu est de préserver le contrôle humain sur les décisions létales. L’auto",
+      "link": "https://theconversation.com/robots-tueurs-autonomes-ou-en-sommes-nous-vraiment-292695",
+      "image": "https://counter.theconversation.com/content/292695/count.gif",
+      "publishedAt": "2026-11-16T14:21:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agf824z",
+      "title": "Why marine climate refugia matters for safeguarding the world’s oceans",
+      "summary": "KEY TAKEAWAYS Marine climate refugia are areas where relatively stable environmental conditions help species and ecosystems withstand climate change. They are identified through three approaches: low exposure, ecological resilience and habitat suitability. Further research and proactive management are urgently needed t",
+      "link": "https://theconversation.com/why-marine-climate-refugia-matters-for-safeguarding-the-worlds-oceans-282901",
+      "image": "https://counter.theconversation.com/content/282901/count.gif",
+      "publishedAt": "2026-11-16T14:20:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 89,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ai3b9ya",
+      "title": "Comment les éditeurs de jeux vidéo habitués à Steam ont réagi à l’arrivée d’Epic Games Store",
+      "summary": "Alors que GTA VI est pour l’heure annoncé uniquement sur PlayStation 5 et Xbox Series X|S, les éditeurs de jeux vidéo indépendants sur PC dépendent largement de grandes plateformes comme Steam et l’Epic Games Store. Fpcreativestock/Shutterstock (no reuse) L’ESSENTIEL Pour vendre leurs jeux, les studios dépendent à la f",
+      "link": "https://theconversation.com/comment-les-editeurs-de-jeux-video-habitues-a-steam-ont-reagi-a-larrivee-depic-games-store-272519",
+      "image": "https://images.theconversation.com/files/710310/original/file-20251224-56-cl5ynm.jpg?ixlib=rb-4.1.1&amp;rect=88%2C148%2C2842%2C1894&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-16T10:17:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 85,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9fv9b4",
+      "title": "Associer les « Français issus de l’immigration » à de la violence : quand la culture du soupçon s’impose dans le débat public",
+      "summary": "L’ESSENTIEL Édouard Philippe, candidat à la présidentielle, a considéré que les « Français issus de l’immigration » étaient surreprésentés dans les violences du 17 octobre. Un amalgame entre populations issues de l’immigration et violence – qu’elle soit islamiste ou liée aux pillages récents en marge de la journée de m",
+      "link": "https://theconversation.com/associer-les-francais-issus-de-limmigration-a-de-la-violence-quand-la-culture-du-soupcon-simpose-dans-le-debat-public-295609",
+      "image": "https://counter.theconversation.com/content/295609/count.gif",
+      "publishedAt": "2026-11-16T14:22:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences",
+        "migration"
+      ],
+      "relevance": 87,
+      "relevanceLevel": "haute",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axhqqbc",
+      "title": "CBD en France : les risques de la multiplication des cannabinoïdes de synthèse",
+      "summary": "L’ESSENTIEL Le marché du cannabidiol (CBD) voit se multiplier des cannabinoïdes de synthèse aux compositions et aux effets très différents. Certaines de ces substances peuvent provoquer des intoxications graves, notamment chez les adolescents et les jeunes adultes. Les contrôles routiers ciblant le tétrahydrocannabinol",
+      "link": "https://theconversation.com/cbd-en-france-les-risques-de-la-multiplication-des-cannabino-des-de-synthese-292911",
+      "image": "https://counter.theconversation.com/content/292911/count.gif",
+      "publishedAt": "2026-11-16T14:23:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aeve0d3",
+      "title": "Des siècles avant TikTok, ce best-seller de 1579 offrait aux lecteurs leur dose quotidienne de « brain rot »",
+      "summary": "*Marie-Madeleine lisant*, par Rogier van der Weyden (1438). The National Gallery/London L’ESSENTIEL A Thousand Notable Things (Mille choses remarquables) est un recueil de curiosités et d’astuces du quotidien, rédigé par l’écrivain anglais Thomas Lupton, au XVIᵉ siècle, qui a rencontré un succès immense jusqu’au milieu",
+      "link": "https://theconversation.com/des-siecles-avant-tiktok-ce-best-seller-de-1579-offrait-aux-lecteurs-leur-dose-quotidienne-de-brain-rot-296317",
+      "image": "https://images.theconversation.com/files/771030/original/file-20261103-64-si8oei.jpg?ixlib=rb-4.1.1&amp;rect=0%2C13%2C684%2C456&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-16T14:22:18.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "af39mbs",
+      "title": "El Niño s’intensifie. Le signe avant-coureur d’une crise bancaire silencieuse ?",
+      "summary": "L’ESSENTIEL Tandis qu’El Niño pourrait atteindre une intensité exceptionnelle cet hiver et les suivants, ses conséquences ne concernent pas seulement le climat. L’activité économique est affectée. Nos recherches montrent que cela finit, par ricochet, par se retrouver dans le bilan de certains établissements bancaires. ",
+      "link": "https://theconversation.com/el-nino-sintensifie-le-signe-avant-coureur-dune-crise-bancaire-silencieuse-294579",
+      "image": "https://counter.theconversation.com/content/294579/count.gif",
+      "publishedAt": "2026-11-16T14:22:01.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "al417u3",
+      "title": "Le droit international s’est-il tu face aux canons ?",
+      "summary": "L’ESSENTIEL Dans l’actualité, les violations du droit international se multiplient, alimentant les doutes sur son efficacité. Pourtant, le droit humanitaire protège encore les civils et les autres victimes dans de nombreux conflits. Plus inquiétante que les violations elles-mêmes, la banalisation du mépris affiché pour",
+      "link": "https://theconversation.com/le-droit-international-sest-il-tu-face-aux-canons-295697",
+      "image": "https://counter.theconversation.com/content/295697/count.gif",
+      "publishedAt": "2026-11-16T14:21:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6lew9y",
+      "title": "« L’État ne sécurise plus ses personnels » : les chefs d’établissement alertent",
+      "summary": "« Plus les jours passent, plus il y a des blessés, plus on craint le pire » alerte le Snpden-Unsa. Le syndicat a lancé un appel à la mobilisation vendredi L’article « L’État ne sécurise plus ses personnels » : les chefs d’établissement alertent est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/16/letat-ne-securise-plus-ses-personnels-les-chefs-detablissement-alertent/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/SNPDEN-UNSA-300x225.jpeg",
+      "publishedAt": "2026-11-16T04:55:42.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 91,
-      "relevanceLevel": "haute",
-      "urgency": 80,
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayfuva4",
+      "title": "« Grand Theft Auto VI » : Pourquoi GTA V est son meilleur allié, et son pire ennemi ?",
+      "summary": "L’ESSENTIEL Le 19 novembre sortira le sixième et nouvel épisode de Grand Theft Auto. Pour les amateurs et amatrices de jeux vidéo, c’est un événement très important. Le précédent volet (GTA 5) a été lancé il y a treize ans et est devenu le deuxième jeu le plus vendu au monde et le plus rentable. Pour le studio Rockstar",
+      "link": "https://theconversation.com/grand-theft-auto-vi-pourquoi-gta-v-est-son-meilleur-allie-et-son-pire-ennemi-294980",
+      "image": "https://images.theconversation.com/files/768880/original/file-20261028-62-2w7tbv.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-16T10:16:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -152,8 +296,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a4es7ir",
@@ -171,8 +315,26 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axtgjqf",
+      "title": "Le proviseur du lycée Paul-Éluard de Saint-Denis quitte ses fonctions par « mesure de protection »",
+      "summary": "Le 15 octobre, deux officiers de la BAC ont tenté d’interpeller un élève dans l’enceinte du lycée Paul-Éluard de Saint-Denis, pendant les mobilisations lycéennes que le proviseur avait autorisées. Depuis, L’article Le proviseur du lycée Paul-Éluard de Saint-Denis quitte ses fonctions par « mesure de protection » est ap",
+      "link": "https://www.cafepedagogique.net/2026/11/16/le-proviseur-du-lycee-paul-eluard-de-saint-denis-quitte-ses-fonctions-par-mesure-de-protection/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/IMG_6486-300x149.jpeg",
+      "publishedAt": "2026-11-16T04:51:46.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ae0d08i",
@@ -187,8 +349,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amkliuk",
@@ -203,8 +365,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahoccul",
@@ -219,8 +381,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajxz1k8",
@@ -235,8 +397,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adl2p2y",
@@ -251,8 +413,24 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abkhdox",
+      "title": "Mobilisation lycéenne : les demandes du Snpden-unsa",
+      "summary": "Le syndicat des personnels de direction d’établissement, le SNPDEN-Unsa a tenu une conférence de presse vendredi 13 novembre 2026 durant une mobilisation inédite des personnels de direction. Des rassemblements ont L’article Mobilisation lycéenne : les demandes du Snpden-unsa est apparu en premier sur Le Café pédagogiqu",
+      "link": "https://www.cafepedagogique.net/2026/11/16/mobilisation-lyceenne-les-demandes-du-snpden-unsa/",
+      "image": null,
+      "publishedAt": "2026-11-16T04:52:12.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 40,
+      "relevanceLevel": "moyenne",
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abk61vi",
@@ -267,7 +445,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -286,7 +464,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +482,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -320,7 +498,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -336,7 +514,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -352,7 +530,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -368,7 +546,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -384,7 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -400,26 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "arh90vs",
-      "title": "Actualité de l’éducation du 9 au 13 novembre 2026",
-      "summary": "La mobilisation lycéenne ne faiblit pas mais la réponse institutionnelle se durcit. Convocation d’une enseignante au rectorat, menaces de sanctions contre les élèves, retenues sur salaire, réquisitions de trombinoscopes : L’article Actualité de l’éducation du 9 au 13 novembre 2026 est apparu en premier sur Le Café péda",
-      "link": "https://www.cafepedagogique.net/2026/11/14/actualite-de-leducation-du-9-au-13-novembre-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/academie-de-grenoble-courrier-1-251x300.png",
-      "publishedAt": "2026-11-14T16:34:44.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -437,8 +596,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a7e3ohf",
@@ -455,26 +614,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3r46h8",
-      "title": "Débat sur les migrations : pourquoi montrer les données ne suffit pas forcément à convaincre",
-      "summary": "L’ESSENTIEL En Europe, les décideurs écoutent la recherche, mais l’opinion et les pressions politiques façonnent aussi les décisions migratoires. Des résultats exposés avec neutralité peuvent aider à instaurer la confiance des citoyens européens, dont les inquiétudes et les valeurs sont à prendre en compte. Les cherche",
-      "link": "https://theconversation.com/debat-sur-les-migrations-pourquoi-montrer-les-donnees-ne-suffit-pas-forcement-a-convaincre-296297",
-      "image": "https://counter.theconversation.com/content/296297/count.gif",
-      "publishedAt": "2026-11-13T11:46:00.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "migration"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "asyqdd8",
@@ -491,8 +632,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "awto41i",
@@ -507,8 +648,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a235maw",
@@ -523,57 +664,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 42,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a66dbuc",
-      "title": "14 ressources mises en avant par le Café pédagogique",
-      "summary": "Et si l’essentiel, à l’École, était de redonner aux élèves le goût d’apprendre, de chercher et de comprendre ? De l’interdisciplinarité en lycée professionnel aux projets qui rapprochent les collégiens, L’article 14 ressources mises en avant par le Café pédagogique est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/14/14-ressources-mises-en-avant-par-le-cafe-pedagogique-3/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/toutes-les-ressources-1-300x200.jpg",
-      "publishedAt": "2026-11-14T05:59:27.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "education-medias",
-      "keywords": [
-        "source"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3uil5t",
-      "title": "Les femmes ont plus d’intelligence émotionnelle que les hommes (et c’est un problème), selon une vaste étude",
-      "summary": "Les parents emploient davantage de mots liés aux émotions avec leurs filles qu’avec leurs fils. Linda Bartlett, National Cancer Institute/Wikimedia Commons , CC BY L’ESSENTIEL Quand il s’agit de reconnaître les émotions des autres, les femmes seraient meilleures que les hommes. Cet avantage semble davantage tenir à l’é",
-      "link": "https://theconversation.com/les-femmes-ont-plus-dintelligence-emotionnelle-que-les-hommes-et-cest-un-probleme-selon-une-vaste-etude-294255",
-      "image": "https://images.theconversation.com/files/769796/original/file-20261103-64-rmhs45.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2700%2C1800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-12T16:11:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "aqwnqxn",
-      "title": "Bientôt 3 euros le litre de gazole ? La gratuité des transports (dont le vélo), une solution pour le porte-monnaie et la santé publique",
-      "summary": "L’ESSENTIEL Aujourd’hui, 17 millions de Français sont en situation de précarité mobilité : pour maîtriser leur facture de carburant, certains renoncent à prendre un rendez-vous médical ou à voir leurs proches ; d’autres rognent sur des dépenses essentielles. Un phénomène aggravé par la flambée actuelle des prix. En Fra",
-      "link": "https://theconversation.com/bientot-3-euros-le-litre-de-gazole-la-gratuite-des-transports-dont-le-velo-une-solution-pour-le-porte-monnaie-et-la-sante-publique-296082",
-      "image": "https://counter.theconversation.com/content/296082/count.gif",
-      "publishedAt": "2026-11-12T16:09:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 37,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +682,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 32,
+      "urgency": 27,
       "urgencyLevel": "basse"
     },
     {
@@ -607,105 +698,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 32,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a20c6xr",
-      "title": "Brésil : les réseaux sociaux, nouveaux arbitres de la démocratie ?",
-      "summary": "L’ESSENTIEL Lula a fini par battre Flavio Bolsonaro au second tour de la présidentielle brésilienne, mais il avait été devancé par son adversaire au premier. Les soutiens du président réélu estiment que la campagne du candidat de droite avait été mieux mise en avant par les réseaux du groupe Meta (Facebook, Instagram, ",
-      "link": "https://theconversation.com/bresil-les-reseaux-sociaux-nouveaux-arbitres-de-la-democratie-296020",
-      "image": "https://counter.theconversation.com/content/296020/count.gif",
-      "publishedAt": "2026-11-12T16:10:41.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a1jc08n",
-      "title": "La Sécurité sociale n’est pas qu’un système de redistribution. Elle montre qu’on peut produire de la valeur hors du capitalisme",
-      "summary": "L’ESSENTIEL Le régime général de la Sécurité sociale a créé un mode de production qui échappe à la fois au collectivisme de type communiste et au capitalisme. Le tournant a lieu en 1946 avec la mise en place d’un régime général financé par une cotisation interprofessionnelle. La Sécurité sociale montre qu’on peut produ",
-      "link": "https://theconversation.com/la-securite-sociale-nest-pas-quun-systeme-de-redistribution-elle-montre-quon-peut-produire-de-la-valeur-hors-du-capitalisme-294188",
-      "image": "https://counter.theconversation.com/content/294188/count.gif",
-      "publishedAt": "2026-11-12T16:11:59.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "awdpmd7",
-      "title": "Les séries, une culture populaire méprisée par la sociologie ?",
-      "summary": "Les séries, une forme de culture populaire qu’il est temps de prendre au sérieux ? Mohammed Hassan/Pixabay, CC BY L’ESSENTIEL Sandra Laugier signe un nouvel essai sur les séries télévisées, Prendre les séries au sérieux ?, aux éditions CNRS. Pour elle, ces œuvres constituent l’un des derniers espaces culturels massivem",
-      "link": "https://theconversation.com/les-series-une-culture-populaire-meprisee-par-la-sociologie-296070",
-      "image": "https://images.theconversation.com/files/770803/original/file-20261109-64-8ii1nh.jpg?ixlib=rb-4.1.1&amp;rect=199%2C0%2C2701%2C1800&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-12T16:11:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "as9t5yc",
-      "title": "La relation Pékin-Téhéran à l’épreuve de la guerre",
-      "summary": "L’ESSENTIEL La guerre déclenchée par Israël et les États-Unis contre l’Iran met à l’épreuve le partenariat stratégique noué par ce dernier avec la Chine. Pékin soutient Téhéran par le pétrole, les équipements et la diplomatie, mais refuse de le défendre militairement. Dépendant de la Chine, l’Iran reste un atout géopol",
-      "link": "https://theconversation.com/la-relation-pekin-teheran-a-lepreuve-de-la-guerre-295808",
-      "image": "https://images.theconversation.com/files/771157/original/file-20261110-64-6dmq4e.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-12T16:10:23.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a5bkxmw",
-      "title": "D’où viennent les langues germaniques et celtiques ? L’ADN ancien livre des indices",
-      "summary": "Ales stenar (les pierres d’Ale), dans le sud de la Suède, est un alignement monumental de pierres en forme de navire, datant de l’âge du fer et surplombant la mer Baltique. Ce monument date d’environ 600 à 1000 de notre ère et correspond, dans les grandes lignes, à la période de retour de populations dans la région. Ni",
-      "link": "https://theconversation.com/dou-viennent-les-langues-germaniques-et-celtiques-ladn-ancien-livre-des-indices-296302",
-      "image": "https://images.theconversation.com/files/770998/original/file-20261104-64-rl2b2b.jpg?ixlib=rb-4.1.1&amp;rect=523%2C0%2C5656%2C3771&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-12T16:10:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a214l30",
-      "title": "Policing protests: how France’s student movement echoes the political crisis in Kanaky-New Caledonia",
-      "summary": "KEY TAKEAWAYS The French authorities have responded to protests with arrests, police violence, curfews and restrictions rather than dialogue in mainland France and in its overseas territories. Young people are protesting against key issues such as poor means for education, unemployment, rising inequalities equating to ",
-      "link": "https://theconversation.com/policing-protests-how-frances-student-movement-echoes-the-political-crisis-in-kanaky-new-caledonia-296296",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-12T16:09:11.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 24,
+      "urgency": 27,
       "urgencyLevel": "basse"
     }
   ]
