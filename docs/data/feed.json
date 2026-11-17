@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:51:20.488Z",
+  "generatedAt": "2026-11-17T01:36:05.659Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -147,7 +147,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -163,7 +163,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 85,
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1duwcg",
+      "title": "Panne d’Outlook : ce que le « vendredi sans e-mails » révèle de notre dépendance à la messagerie",
+      "summary": "Une messagerie ouverte sur un ordinateur portable, au milieu d’une réunion entre collègues. Rawpixel Ltd/Flickr, CC BY, CC BY L’ESSENTIEL Partie le jeudi 12 novembre, la panne de Microsoft a perturbé Outlook et Teams dans 74 pays et territoires. Privés de messagerie, les salariés se parlent davantage de vive voix et dé",
+      "link": "https://theconversation.com/panne-doutlook-ce-que-le-vendredi-sans-e-mails-revele-de-notre-dependance-a-la-messagerie-296767",
+      "image": "https://images.theconversation.com/files/772233/original/file-20261116-79-ebpmjl.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1488%2C992&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-16T17:07:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a6lew9y",
+      "title": "« L’État ne sécurise plus ses personnels » : les chefs d’établissement alertent",
+      "summary": "« Plus les jours passent, plus il y a des blessés, plus on craint le pire » alerte le Snpden-Unsa. Le syndicat a lancé un appel à la mobilisation vendredi L’article « L’État ne sécurise plus ses personnels » : les chefs d’établissement alertent est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/16/letat-ne-securise-plus-ses-personnels-les-chefs-detablissement-alertent/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/SNPDEN-UNSA-300x225.jpeg",
+      "publishedAt": "2026-11-16T04:55:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -182,8 +214,8 @@
       ],
       "relevance": 87,
       "relevanceLevel": "haute",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axhqqbc",
@@ -198,8 +230,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aeve0d3",
@@ -214,8 +246,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "af39mbs",
@@ -230,8 +262,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "al417u3",
@@ -246,24 +278,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a6lew9y",
-      "title": "« L’État ne sécurise plus ses personnels » : les chefs d’établissement alertent",
-      "summary": "« Plus les jours passent, plus il y a des blessés, plus on craint le pire » alerte le Snpden-Unsa. Le syndicat a lancé un appel à la mobilisation vendredi L’article « L’État ne sécurise plus ses personnels » : les chefs d’établissement alertent est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/16/letat-ne-securise-plus-ses-personnels-les-chefs-detablissement-alertent/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/SNPDEN-UNSA-300x225.jpeg",
-      "publishedAt": "2026-11-16T04:55:42.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayfuva4",
@@ -278,8 +294,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amuxbq9",
@@ -296,7 +312,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -315,7 +331,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -333,7 +349,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -349,7 +365,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -365,7 +381,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,7 +397,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -397,7 +413,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -413,7 +429,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -429,7 +445,7 @@
       "keywords": [],
       "relevance": 40,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -445,7 +461,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +480,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 51,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -482,7 +498,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -498,7 +514,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -514,7 +530,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -530,7 +546,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -546,7 +562,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -562,7 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -578,26 +594,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "au4n9id",
-      "title": "A new Democratic Congress will view Trump’s harsh Cuba policy skeptically – but that doesn’t mean a change is coming soon",
-      "summary": "Secretary of State Marco Rubio has designs for Cuba – and potentially on the U.S. presidency. Brendan Smialowski/AFP via Getty Images The so-called “blue tsunami” that hit the United States in the midterm elections is causing ripples around the world. Having won a historic victory, congressional Democrats now appear po",
-      "link": "https://theconversation.com/a-new-democratic-congress-will-view-trumps-harsh-cuba-policy-skeptically-but-that-doesnt-mean-a-change-is-coming-soon-296017",
-      "image": "https://images.theconversation.com/files/771689/original/file-20261112-94-i7u451.jpg?ixlib=rb-4.1.1&amp;rect=512%2C342%2C7743%2C5162&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-14T10:45:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 38,
-      "urgencyLevel": "basse"
     },
     {
       "id": "a7e3ohf",
@@ -614,7 +612,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -632,7 +630,25 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "au4n9id",
+      "title": "A new Democratic Congress will view Trump’s harsh Cuba policy skeptically – but that doesn’t mean a change is coming soon",
+      "summary": "Secretary of State Marco Rubio has designs for Cuba – and potentially on the U.S. presidency. Brendan Smialowski/AFP via Getty Images The so-called “blue tsunami” that hit the United States in the midterm elections is causing ripples around the world. Having won a historic victory, congressional Democrats now appear po",
+      "link": "https://theconversation.com/a-new-democratic-congress-will-view-trumps-harsh-cuba-policy-skeptically-but-that-doesnt-mean-a-change-is-coming-soon-296017",
+      "image": "https://images.theconversation.com/files/771689/original/file-20261112-94-i7u451.jpg?ixlib=rb-4.1.1&amp;rect=512%2C342%2C7743%2C5162&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-14T10:45:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -648,7 +664,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -664,25 +680,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arkn69v",
-      "title": "En Australie, l’immigration recule, mais l’inquiétude grandit : pourquoi les chiffres ne suffisent pas",
-      "summary": "L’ESSENTIEL Fin juin 2026, 55 % des Australiens jugeaient trop nombreux les migrants arrivant chaque année, sept points de plus qu’en 2024. Or, le solde migratoire du pays est en baisse depuis 2023. Cette hausse accompagne l’essor du parti anti-immigration One Nation, qui a réussi avec la droite à imposer l’idée d’une ",
-      "link": "https://theconversation.com/en-australie-limmigration-recule-mais-linquietude-grandit-pourquoi-les-chiffres-ne-suffisent-pas-296557",
-      "image": "https://counter.theconversation.com/content/296557/count.gif",
-      "publishedAt": "2026-11-13T11:47:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "migration"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 27,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -698,7 +696,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 23,
       "urgencyLevel": "basse"
     }
   ]
