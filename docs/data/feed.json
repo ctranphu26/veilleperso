@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:08:03.455Z",
+  "generatedAt": "2026-11-18T23:53:52.597Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,56 @@
   "count": 35,
   "items": [
     {
+      "id": "a3n36l4",
+      "title": "En finir avec Parcoursup : derrière l’algorithme, une question de choix politiques",
+      "summary": "L’ESSENTIEL Depuis sa création en 2018, Parcoursup s’est techniquement ajusté d’année en année, sans donner satisfaction à ses usagers. Derrière les questions de procédures (calendrier, mode de mise en relation, classement des formations…), il y a des enjeux politiques. Les récentes annonces autour d’un remplacement de",
+      "link": "https://theconversation.com/en-finir-avec-parcoursup-derriere-lalgorithme-une-question-de-choix-politiques-296307",
+      "image": "https://counter.theconversation.com/content/296307/count.gif",
+      "publishedAt": "2026-11-18T15:36:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "algorithme"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "anx9tg8",
+      "title": "Centre de retour au Rwanda : pourquoi le projet européen inquiète",
+      "summary": "Réunion des parties prenantes à Vienne le 16 novembre 2026. De gauche à droite : Tom Berendsen, ministre néerlandais des affaires étrangères ; Alexander Dobrindt, ministre allemand de l’intérieur ; Gerhard Karner, ministre autrichien de l’intérieur ; Mette Frederiksen, première ministre danoise ; Christian Stocker, cha",
+      "link": "https://theconversation.com/centre-de-retour-au-rwanda-pourquoi-le-projet-europeen-inquiete-296954",
+      "image": "https://images.theconversation.com/files/772823/original/file-20261118-64-wq07t9.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1758%2C1172&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-18T16:06:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayifwf0",
+      "title": "Visa vacances-travail : l’Australie fait marche arrière, mais allonge le travail régional",
+      "summary": "Vendanges à la main au vignoble de Granton, dans le sud de la Tasmanie, en avril 2012. Le travail agricole fait partie des emplois régionaux exigés des titulaires d’un visa vacances-travail qui veulent prolonger leur séjour. Stefano Lubiana/Flickr, CC BY L’ESSENTIEL Le gouvernement australien renonce à sa réforme initi",
+      "link": "https://theconversation.com/visa-vacances-travail-laustralie-fait-marche-arriere-mais-allonge-le-travail-regional-296849",
+      "image": "https://images.theconversation.com/files/772551/original/file-20261117-64-h54fb2.jpg?ixlib=rb-4.1.1&amp;rect=16%2C0%2C4894%2C3262&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-17T18:06:42.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "aamz0qa",
       "title": "Un enseignant syndicaliste placé sous surveillance antiterroriste après avoir manifesté",
       "summary": "Un enseignant de l’Allier, représentant syndical Solidaires, a fait l’objet d’une mesure de surveillance antiterroriste après avoir participé à plusieurs manifestations. Comme le rapporte La Dépêche, il lui a été L’article Un enseignant syndicaliste placé sous surveillance antiterroriste après avoir manifesté est appar",
@@ -133,7 +183,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -151,23 +201,159 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
-      "id": "ayifwf0",
-      "title": "Visa vacances-travail : l’Australie fait marche arrière, mais allonge le travail régional",
-      "summary": "Vendanges à la main au vignoble de Granton, dans le sud de la Tasmanie, en avril 2012. Le travail agricole fait partie des emplois régionaux exigés des titulaires d’un visa vacances-travail qui veulent prolonger leur séjour. Stefano Lubiana/Flickr, CC BY L’ESSENTIEL Le gouvernement australien renonce à sa réforme initi",
-      "link": "https://theconversation.com/visa-vacances-travail-laustralie-fait-marche-arriere-mais-allonge-le-travail-regional-296849",
-      "image": "https://images.theconversation.com/files/772551/original/file-20261117-64-h54fb2.jpg?ixlib=rb-4.1.1&amp;rect=16%2C0%2C4894%2C3262&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-17T18:06:42.000Z",
+      "id": "afs7idq",
+      "title": "Cybersécurité : que sont les failles PHP qui ont mis Internet en pause fin octobre ?",
+      "summary": "L’ESSENTIEL Fin octobre, le langage PHP, une brique essentielle d’Internet, a connu deux failles de sécurité majeures. L’intelligence artificielle (IA) facilite les attaques informatiques, mais aide aussi à repérer les failles plus vite. Les problèmes de cybersécurité se multiplient, alors qu’Internet repose sur un pet",
+      "link": "https://theconversation.com/cybersecurite-que-sont-les-failles-php-qui-ont-mis-internet-en-pause-fin-octobre-296358",
+      "image": "https://counter.theconversation.com/content/296358/count.gif",
+      "publishedAt": "2026-11-18T15:40:55.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avq10h6",
+      "title": "Les terres rares ne sont ni rares, ni même des terres, alors qu’est-ce que c’est ?",
+      "summary": "L’ESSENTIEL - Le terme « terres rares » désigne un ensemble de 17 éléments chimiques. - Ils ont des propriétés très intéressantes pour de nombreuses applications industrielles, ils sont donc devenus des ressources stratégiques majeures. - La Chine est l’un des acteurs majeurs du domaine mais la France a également des a",
+      "link": "https://theconversation.com/les-terres-rares-ne-sont-ni-rares-ni-meme-des-terres-alors-quest-ce-que-cest-288663",
+      "image": "https://images.theconversation.com/files/772509/original/file-20261117-64-l19a2p.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-18T15:40:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "source"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ahczy8t",
+      "title": "La « courbe champagne », ou pourquoi on peut réduire les émissions de CO₂ sans freiner le développement",
+      "summary": "L’ESSENTIEL L’indice de développement humain (IDH) d’un pays augmente d’abord avec ses émissions de CO₂ liées à la consommation, puis atteint un plateau lorsque le niveau de développement devient élevé. Au-delà d’un IDH de 0,8, des émissions supplémentaires n’apportent plus de gains significatifs en matière de bien-êtr",
+      "link": "https://theconversation.com/la-courbe-champagne-ou-pourquoi-on-peut-reduire-les-emissions-de-co-sans-freiner-le-developpement-296210",
+      "image": "https://images.theconversation.com/files/772729/original/file-20261118-64-xqd4de.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-18T15:37:47.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aekhia6",
+      "title": "COP31 : Derrière l’électrification et la montée de l’IA, des enjeux de puissance géopolitique",
+      "summary": "L’ESSENTIEL La COP31 lie électrification et intelligence artificielle (IA), deux thèmes au cœur des nouveaux rapports de force internationaux, en particulier entre les États-Unis, l’Union européenne et la Chine. Les liens entre IA et électrification sont à double sens : celle-ci contribue à augmenter la demande d’élect",
+      "link": "https://theconversation.com/cop31-derriere-lelectrification-et-la-montee-de-lia-des-enjeux-de-puissance-geopolitique-296858",
+      "image": "https://counter.theconversation.com/content/296858/count.gif",
+      "publishedAt": "2026-11-18T15:37:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avfnrva",
+      "title": "Les toilettes des lycées, miroir du mal-être scolaire ?",
+      "summary": "L’ESSENTIEL Moins de la moitié des collégiens et des lycéens déclarent aller aux toilettes lorsqu’ils en ont envie durant une journée de cours. Saleté, dégradations, odeurs, froid, peur du harcèlement font partie des raisons avancées pour expliquer cet évitement, qui n’est pas sans conséquence pour leur santé. Au-delà ",
+      "link": "https://theconversation.com/les-toilettes-des-lycees-miroir-du-mal-etre-scolaire-296299",
+      "image": "https://counter.theconversation.com/content/296299/count.gif",
+      "publishedAt": "2026-11-18T15:39:46.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2y2t2s",
+      "title": "La peur nous rend-elle plus faciles à gouverner ?",
+      "summary": "L’ESSENTIEL Plus un danger est médiatisé, plus il nous paraît proche et peut renforcer notre aspiration à la stabilité. L’incertitude peut conduire à privilégier des explications simples et à s’aligner sur la majorité. Lorsqu’elle est instrumentalisée, la peur peut aussi produire des effets inverses de méfiance, voire ",
+      "link": "https://theconversation.com/la-peur-nous-rend-elle-plus-faciles-a-gouverner-290546",
+      "image": "https://counter.theconversation.com/content/290546/count.gif",
+      "publishedAt": "2026-11-18T15:39:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a30r9m6",
+      "title": "Mbappé, Mao et l’anaconda : comment Pékin exporte sa censure",
+      "summary": "L’ESSENTIEL Dans une vidéo au ton léger consacrée aux nombreux mèmes dont il fait l’objet, Kylian Mbappé a qualifié de « dictateur », sans même le désigner nommément, Mao Zedong, qui régna d’un main de fer sur la Chine de 1949 à sa mort en 1976. S’est ensuivie une campagne, partie de Chine, d’une rare virulence, qui a ",
+      "link": "https://theconversation.com/mbappe-mao-et-lanaconda-comment-pekin-exporte-sa-censure-296740",
+      "image": "https://counter.theconversation.com/content/296740/count.gif",
+      "publishedAt": "2026-11-18T15:38:58.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agv8qqt",
+      "title": "Poutine menace, Washington inquiète : qui protégera l’Europe ?",
+      "summary": "Décollage d’un Rafale (en haut) français et d’un Typhoon britannique, dans le cadre de l’exercice militaire Rummy d’octobre 2026. Ministère français des armées L’ESSENTIEL La France et le Royaume-Uni renforcent leur coopération nucléaire face à la menace russe et aux incertitudes sur l’engagement américain. L’exercice ",
+      "link": "https://theconversation.com/poutine-menace-washington-inquiete-qui-protegera-leurope-295684",
+      "image": "https://images.theconversation.com/files/771058/original/file-20261110-78-dbczdj.jpg?ixlib=rb-4.1.1&amp;rect=77%2C0%2C840%2C560&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-18T15:38:36.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a67oq38",
+      "title": "Est-il possible de donner sans rien attendre en retour ? Don, reconnaissance et démocratie dans l’entreprise",
+      "summary": "Dans le monde professionnel, un cadeau n’est pas forcément… un cadeau. Simona Sergi/Unsplash, CC BY L’ESSENTIEL Les sciences sociales ont montré que rien n’est moins désintéressé que le don, dont la nature est par définition ambiguë. Qu’en est-il dans l’entreprise ? Qu’attend en retour celui qui donne une promotion, un",
+      "link": "https://theconversation.com/est-il-possible-de-donner-sans-rien-attendre-en-retour-don-reconnaissance-et-democratie-dans-lentreprise-295563",
+      "image": "https://images.theconversation.com/files/770471/original/file-20261106-64-7hpnkx.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5760%2C3840&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-18T15:35:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -183,7 +369,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -199,7 +385,23 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a82syuc",
+      "title": "Where in Europe could electric-powered ferries create cleaner travel routes?",
+      "summary": "Electric battery-powered ferries use electricity from the shore to charge batteries on board. These batteries supply electric motors that propel the ship. On suitable routes, low-carbon electricity could make sea travel substantially cleaner and strengthen its potential as an alternative to flying. In June 2025, Finnis",
+      "link": "https://theconversation.com/where-in-europe-could-electric-powered-ferries-create-cleaner-travel-routes-296544",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-18T14:42:04.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -215,8 +417,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ac8d2k3",
@@ -233,8 +435,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5u1oug",
@@ -249,8 +451,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "as4pjwo",
@@ -265,8 +467,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "adxfvey",
@@ -281,8 +483,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akd1qcx",
@@ -301,7 +503,7 @@
       ],
       "relevance": 88,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,73 +521,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "asfc11v",
-      "title": "« Gabin » : dix ans pour grandir, toute une vie pour s’émanciper",
-      "summary": "Dix ans de la vie d’un enfant de l’Artois qui grandit devant la caméra. Le parti-pris du réalisateur, Maxence Voiseux, se situe dans une longue tradition du roman d’apprentissage et L’article « Gabin » : dix ans pour grandir, toute une vie pour s’émanciper est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/18/gabin-dix-ans-pour-grandir-toute-une-vie-pour-semanciper/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/gabin-225x300.jpg",
-      "publishedAt": "2026-11-18T04:28:01.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "apprentissage"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ael09mz",
-      "title": "Mobilisation lycéenne : qui sont les mineurs déférés dans le mouvement lycéen ?",
-      "summary": "Une note de la Protection judiciaire de la jeunesse, restée discrète à sa publication le 30 octobre, dresse le portrait des 1 504 mineurs déférés entre le 22 septembre et L’article Mobilisation lycéenne : qui sont les mineurs déférés dans le mouvement lycéen ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/18/mobilisation-lyceenne-qui-sont-les-mineurs-deferes-dans-le-mouvement-lyceen/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/effectifs.png",
-      "publishedAt": "2026-11-18T04:55:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anzrfga",
-      "title": "La lecture à voix haute au CM1-CM2 : du décodage à l’interprétation",
-      "summary": "« La lecture à voix haute mobilise le souffle, le corps, l’expression du lecteur. Il s’agit aussi d’une merveilleuse situation de partage avec les autres » explique Isabelle Peltier-Lécullée, autrice L’article La lecture à voix haute au CM1-CM2 : du décodage à l’interprétation est apparu en premier sur Le Café pédagogi",
-      "link": "https://www.cafepedagogique.net/2026/11/18/la-lecture-a-voix-haute-au-cm1-cm2-du-decodage-a-linterpretation/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/saraLeleuMaati-280x300.jpeg",
-      "publishedAt": "2026-11-18T04:50:33.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ac3saq0",
-      "title": "Littérature jeunesse : droits des enfants",
-      "summary": "A la veille du 37ème anniversaire de la signature de la CIDE, Convention internationale des droits de l’enfant, deux albums qui résonnent avec ces droits, même s’ils n’abordent pas directement L’article Littérature jeunesse : droits des enfants est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/18/litterature-jeunesse-droits-des-enfants/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/litterature-jeunesse-300x197.png",
-      "publishedAt": "2026-11-18T04:29:23.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -403,7 +539,25 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "asfc11v",
+      "title": "« Gabin » : dix ans pour grandir, toute une vie pour s’émanciper",
+      "summary": "Dix ans de la vie d’un enfant de l’Artois qui grandit devant la caméra. Le parti-pris du réalisateur, Maxence Voiseux, se situe dans une longue tradition du roman d’apprentissage et L’article « Gabin » : dix ans pour grandir, toute une vie pour s’émanciper est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/18/gabin-dix-ans-pour-grandir-toute-une-vie-pour-semanciper/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/gabin-225x300.jpg",
+      "publishedAt": "2026-11-18T04:28:01.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "apprentissage"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -419,23 +573,55 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "a49ghkd",
-      "title": "Du pain et des jeux à Washington D.C., ou l’imaginaire impérial de Donald Trump",
-      "summary": "L’ESSENTIEL Les 250 ans de l’indépendance américaine devaient célébrer l’unité d’une nation profondément divisée. Donald Trump a détourné les commémorations pour mettre en scène sa propre gloire et son pouvoir. Comme à l’époque de la Rome antique, le divertissement devient un instrument politique pour masquer les diffi",
-      "link": "https://theconversation.com/du-pain-et-des-jeux-a-washington-d-c-ou-limaginaire-imperial-de-donald-trump-294585",
-      "image": "https://counter.theconversation.com/content/294585/count.gif",
-      "publishedAt": "2026-11-17T16:14:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "ael09mz",
+      "title": "Mobilisation lycéenne : qui sont les mineurs déférés dans le mouvement lycéen ?",
+      "summary": "Une note de la Protection judiciaire de la jeunesse, restée discrète à sa publication le 30 octobre, dresse le portrait des 1 504 mineurs déférés entre le 22 septembre et L’article Mobilisation lycéenne : qui sont les mineurs déférés dans le mouvement lycéen ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/18/mobilisation-lyceenne-qui-sont-les-mineurs-deferes-dans-le-mouvement-lyceen/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/effectifs.png",
+      "publishedAt": "2026-11-18T04:55:30.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anzrfga",
+      "title": "La lecture à voix haute au CM1-CM2 : du décodage à l’interprétation",
+      "summary": "« La lecture à voix haute mobilise le souffle, le corps, l’expression du lecteur. Il s’agit aussi d’une merveilleuse situation de partage avec les autres » explique Isabelle Peltier-Lécullée, autrice L’article La lecture à voix haute au CM1-CM2 : du décodage à l’interprétation est apparu en premier sur Le Café pédagogi",
+      "link": "https://www.cafepedagogique.net/2026/11/18/la-lecture-a-voix-haute-au-cm1-cm2-du-decodage-a-linterpretation/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/saraLeleuMaati-280x300.jpeg",
+      "publishedAt": "2026-11-18T04:50:33.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ac3saq0",
+      "title": "Littérature jeunesse : droits des enfants",
+      "summary": "A la veille du 37ème anniversaire de la signature de la CIDE, Convention internationale des droits de l’enfant, deux albums qui résonnent avec ces droits, même s’ils n’abordent pas directement L’article Littérature jeunesse : droits des enfants est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/18/litterature-jeunesse-droits-des-enfants/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/litterature-jeunesse-300x197.png",
+      "publishedAt": "2026-11-18T04:29:23.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -453,7 +639,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -469,7 +655,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +671,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +687,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,186 +703,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apid4zd",
-      "title": "Détroit d’Ormuz : le droit de la mer à l’épreuve de la force",
-      "summary": "L’ESSENTIEL Le détroit d’Ormuz, verrou stratégique du Golfe, est quasiment paralysé depuis les frappes contre l’Iran. Le droit international interdit sa fermeture, mais Téhéran paralyse le trafic en faisant peser une menace militaire. Un juriste et un géopolitologue croisent leurs regards sur cette crise. Le 27 février",
-      "link": "https://theconversation.com/detroit-dormuz-le-droit-de-la-mer-a-lepreuve-de-la-force-295704",
-      "image": "https://counter.theconversation.com/content/295704/count.gif",
-      "publishedAt": "2026-11-17T16:13:55.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 58,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agpfgeu",
-      "title": "Quiz - De la Déclaration de Genève à la Convention de 1989, que savez-vous des droits de l’enfant ?",
-      "summary": "Une femme allaite un nourrisson contre un mur d’affiches déchirées, entourée d’enfants pieds nus, dans « Sans asile », peint par Fernand Pelez en 1883 à Paris. Fernand Pelez, Sans asile, 1883, Petit Palais, Paris Musées, CC0, via Wikimedia Commons, CC BY Le 20 novembre, c’est la Journée internationale des droits de l’e",
-      "link": "https://theconversation.com/quiz-de-la-declaration-de-geneve-a-la-convention-de-1989-que-savez-vous-des-droits-de-lenfant-296888",
-      "image": "https://images.theconversation.com/files/772499/original/file-20261117-64-qbk4r0.jpg?ixlib=rb-4.1.1&amp;rect=377%2C0%2C4867%2C3245&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-17T14:59:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ay0rs75",
-      "title": "Quiz Santé - Jouez avec The Conversation pour mieux connaître les effets de l’espace sur la santé des astronautes",
-      "summary": "Dans l’espace, le système immunitaire des astronautes subit des perturbations, dues notamment à la micropesanteur. L’une des conséquences est la réactivation de certains virus qui persistent dans leur organisme à l’état latent, en particulier ceux responsables de l’herpès. Ce type de résurgence nous concerne tous, même",
-      "link": "https://theconversation.com/quiz-sante-jouez-avec-the-conversation-pour-mieux-connaitre-les-effets-de-lespace-sur-la-sante-des-astronautes-296862",
-      "image": "https://images.theconversation.com/files/641191/original/file-20250108-15-cmvupq.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-17T11:43:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aq2xbf2",
-      "title": "Anorexie mentale : quand le cerveau perçoit mal les signaux digestifs",
-      "summary": "L’ESSENTIEL Dans l’anorexie mentale, la perception altérée des signaux digestifs peut perdurer, même une fois le poids revenu à la normale. Certaines de ces altérations de la perception sont associées au risque de rechute de la maladie. Ces résultats ouvrent des perspectives pour mieux anticiper les rechutes et dévelop",
-      "link": "https://theconversation.com/anorexie-mentale-quand-le-cerveau-percoit-mal-les-signaux-digestifs-292142",
-      "image": "https://counter.theconversation.com/content/292142/count.gif",
-      "publishedAt": "2026-11-17T11:42:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6111ag",
-      "title": "Pour lutter contre les moustiques qui transmettent des maladies, la piste des densovirus",
-      "summary": "L’ESSENTIEL Identifiés au début des années 1970, les densovirus sont des virus qui ne s’attaquent qu’aux arthropodes. Ils ont fait preuve d’une certaine efficacité dans la lutte contre les larves de moustiques et pourraient à ce titre être utilisés comme biopesticides. Des travaux de recherche sont en cours pour évalue",
-      "link": "https://theconversation.com/pour-lutter-contre-les-moustiques-qui-transmettent-des-maladies-la-piste-des-densovirus-292638",
-      "image": "https://counter.theconversation.com/content/292638/count.gif",
-      "publishedAt": "2026-11-17T11:42:30.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 54,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "as1yu4l",
-      "title": "Alcool, drogues, suicides : les « décès de désespoir » font des ravages aux États-Unis, qu’en est-il en Europe et en France ?",
-      "summary": "L’ESSENTIEL Aux États-Unis, la « mortalité du désespoir » (suicides, décès dus à l’alcool ou aux drogues) a beaucoup augmenté depuis les années 2000. Le nord-ouest et l’est de l’Europe, tout comme la Suède, sont désormais touchés par cette augmentation, ce qui n’est pas le cas de la France. Même s’il n’augmente pas dan",
-      "link": "https://theconversation.com/alcool-drogues-suicides-les-deces-de-desespoir-font-des-ravages-aux-etats-unis-quen-est-il-en-europe-et-en-france-292388",
-      "image": "https://images.theconversation.com/files/765678/original/file-20261012-50-qmigl.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-17T05:09:48.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a1duwcg",
-      "title": "Panne d’Outlook : ce que le « vendredi sans e-mails » révèle de notre dépendance à la messagerie",
-      "summary": "Une messagerie ouverte sur un ordinateur portable, au milieu d’une réunion entre collègues. Rawpixel Ltd/Flickr, CC BY, CC BY L’ESSENTIEL Partie le jeudi 12 novembre, la panne de Microsoft a perturbé Outlook et Teams dans 74 pays et territoires. Privés de messagerie, les salariés se parlent davantage de vive voix et dé",
-      "link": "https://theconversation.com/panne-doutlook-ce-que-le-vendredi-sans-e-mails-revele-de-notre-dependance-a-la-messagerie-296767",
-      "image": "https://images.theconversation.com/files/772233/original/file-20261116-79-ebpmjl.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1488%2C992&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-16T17:07:28.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9fv9b4",
-      "title": "Associer les « Français issus de l’immigration » à de la violence : quand la culture du soupçon s’impose dans le débat public",
-      "summary": "L’ESSENTIEL Édouard Philippe, candidat à la présidentielle, a considéré que les « Français issus de l’immigration » étaient surreprésentés dans les violences du 17 octobre. Un amalgame entre populations issues de l’immigration et violence – qu’elle soit islamiste ou liée aux pillages récents en marge de la journée de m",
-      "link": "https://theconversation.com/associer-les-francais-issus-de-limmigration-a-de-la-violence-quand-la-culture-du-soupcon-simpose-dans-le-debat-public-295609",
-      "image": "https://counter.theconversation.com/content/295609/count.gif",
-      "publishedAt": "2026-11-16T14:22:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences",
-        "migration"
-      ],
-      "relevance": 87,
-      "relevanceLevel": "haute",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axhqqbc",
-      "title": "CBD en France : les risques de la multiplication des cannabinoïdes de synthèse",
-      "summary": "L’ESSENTIEL Le marché du cannabidiol (CBD) voit se multiplier des cannabinoïdes de synthèse aux compositions et aux effets très différents. Certaines de ces substances peuvent provoquer des intoxications graves, notamment chez les adolescents et les jeunes adultes. Les contrôles routiers ciblant le tétrahydrocannabinol",
-      "link": "https://theconversation.com/cbd-en-france-les-risques-de-la-multiplication-des-cannabino-des-de-synthese-292911",
-      "image": "https://counter.theconversation.com/content/292911/count.gif",
-      "publishedAt": "2026-11-16T14:23:47.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aeve0d3",
-      "title": "Des siècles avant TikTok, ce best-seller de 1579 offrait aux lecteurs leur dose quotidienne de « brain rot »",
-      "summary": "*Marie-Madeleine lisant*, par Rogier van der Weyden (1438). The National Gallery/London L’ESSENTIEL A Thousand Notable Things (Mille choses remarquables) est un recueil de curiosités et d’astuces du quotidien, rédigé par l’écrivain anglais Thomas Lupton, au XVIᵉ siècle, qui a rencontré un succès immense jusqu’au milieu",
-      "link": "https://theconversation.com/des-siecles-avant-tiktok-ce-best-seller-de-1579-offrait-aux-lecteurs-leur-dose-quotidienne-de-brain-rot-296317",
-      "image": "https://images.theconversation.com/files/771030/original/file-20261103-64-si8oei.jpg?ixlib=rb-4.1.1&amp;rect=0%2C13%2C684%2C456&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-16T14:22:18.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "af39mbs",
-      "title": "El Niño s’intensifie. Le signe avant-coureur d’une crise bancaire silencieuse ?",
-      "summary": "L’ESSENTIEL Tandis qu’El Niño pourrait atteindre une intensité exceptionnelle cet hiver et les suivants, ses conséquences ne concernent pas seulement le climat. L’activité économique est affectée. Nos recherches montrent que cela finit, par ricochet, par se retrouver dans le bilan de certains établissements bancaires. ",
-      "link": "https://theconversation.com/el-nino-sintensifie-le-signe-avant-coureur-dune-crise-bancaire-silencieuse-294579",
-      "image": "https://counter.theconversation.com/content/294579/count.gif",
-      "publishedAt": "2026-11-16T14:22:01.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     }
   ]
