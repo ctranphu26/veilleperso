@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:59:07.509Z",
+  "generatedAt": "2026-11-19T15:37:52.128Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,55 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 89,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5ean5j",
+      "title": "Comment survivre aux hausses des températures quand on ne transpire pas ? L’étonnante stratégie des lézards",
+      "summary": "L’ESSENTIEL Les reptiles squamates (ordre du vivant qui comprend notamment les lézards) sont des organismes ectothermes : ils ne régulent pas leur température comme nous le faisons, mais en adaptant leur comportement en fonction de leur environnement. Ils ne transpirent pas à proprement parler, mais perdent de l’eau de",
+      "link": "https://theconversation.com/comment-survivre-aux-hausses-des-temperatures-quand-on-ne-transpire-pas-letonnante-strategie-des-lezards-295412",
+      "image": "https://images.theconversation.com/files/769242/original/file-20261030-64-u200rt.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-19T11:00:15.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9ay4d2",
+      "title": "As diesel prices spike, free public transport and bike hire can be beneficial for commuters’ health and their finances",
+      "summary": "KEY TAKEAWAYS Today, 17 million French people are struggling financially to get from A to B: to control spending on fuel some are refraining from making a medical appointment or seeing their loved ones while others cut back on essential expenses. A phenomenon aggravated by the current price hikes. In France, 74% of the",
+      "link": "https://theconversation.com/as-diesel-prices-spike-free-public-transport-and-bike-hire-can-be-beneficial-for-commuters-health-and-their-finances-296707",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-19T10:53:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 75,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aau8p8q",
+      "title": "Frigos piratés dans les supermarchés : qui doit sécuriser les objets connectés ?",
+      "summary": "Une cliente devant une vitrine réfrigérée de supermarché (photo d’illustration). Ces meubles frigorifiques s’appuient souvent sur des contrôleurs électroniques accessibles à distance par internet. KaterynaUKR/Shutterstock L’ESSENTIEL En France, le piratage des frigos de supermarchés montre que les cyberattaques peuvent",
+      "link": "https://theconversation.com/frigos-pirates-dans-les-supermarches-qui-doit-securiser-les-objets-connectes-296846",
+      "image": "https://images.theconversation.com/files/772363/original/file-20261111-78-ubilw6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5897%2C3931&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-19T10:23:53.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -151,26 +199,8 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "afcyrbv",
-      "title": "« L’absence de moyens, ça s’appelle de la maltraitance » : l’insécurité",
-      "summary": "« L’école recueille sans le dire, les formes invisibles de précarités et d’insécurité vécues par une génération d’enfants. Elle accueille les enfants mal traités, violentés, harcelés, mal aimés ». Dans ce L’article « L’absence de moyens, ça s’appelle de la maltraitance » : l’insécurité est apparu en premier sur Le Café",
-      "link": "https://www.cafepedagogique.net/2026/11/19/labsence-de-moyens-ca-sappelle-de-la-maltraitance-linsecurite/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/insecurite-FNAREN-300x200.jpg",
-      "publishedAt": "2026-11-19T04:45:07.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 79,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akknjgk",
@@ -188,8 +218,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awulx41",
@@ -207,8 +237,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aysi3cu",
@@ -225,8 +255,45 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "adec2zf",
+      "title": "The Language Toolbox : une boîte à outils pour enseigner le vocabulaire en langues vivantes",
+      "summary": "Comment travailler autrement le vocabulaire en langues vivantes ? The Language Toolbox propose aux enseignant·es plusieurs modules pour varier les activités en classe. Conçu pour une utilisation numérique, cet outil L’article The Language Toolbox : une boîte à outils pour enseigner le vocabulaire en langues vivantes es",
+      "link": "https://www.cafepedagogique.net/2026/11/19/the-language-toolbox-une-boite-a-outils-pour-enseigner-le-vocabulaire-en-langues-vivantes/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/toolbox-293x300.png",
+      "publishedAt": "2026-11-19T04:29:11.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignant",
+        "classe"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "afcyrbv",
+      "title": "« L’absence de moyens, ça s’appelle de la maltraitance » : l’insécurité",
+      "summary": "« L’école recueille sans le dire, les formes invisibles de précarités et d’insécurité vécues par une génération d’enfants. Elle accueille les enfants mal traités, violentés, harcelés, mal aimés ». Dans ce L’article « L’absence de moyens, ça s’appelle de la maltraitance » : l’insécurité est apparu en premier sur Le Café",
+      "link": "https://www.cafepedagogique.net/2026/11/19/labsence-de-moyens-ca-sappelle-de-la-maltraitance-linsecurite/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/insecurite-FNAREN-300x200.jpg",
+      "publishedAt": "2026-11-19T04:45:07.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahpjt19",
@@ -241,8 +308,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3n36l4",
@@ -259,8 +326,26 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4n3rb3",
+      "title": "Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 !",
+      "summary": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche L’article Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/19/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Forum-du-Cafe-pedagogique-enseignants-Paris-2027-234x300.png",
+      "publishedAt": "2026-11-19T02:28:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayifwf0",
@@ -275,41 +360,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ah53i2w",
-      "title": "À Marseille, la répression ne fait pas rentrer les lycéens en classe",
-      "summary": "« J’ai deux passions l’orchestre et la révolution ». C’est désormais avec la musique de l’orchestre du Nouveau Monde que démarrent les manifestations marseillaises comme dans de nombreuses autres villes L’article À Marseille, la répression ne fait pas rentrer les lycéens en classe est apparu en premier sur Le Café péda",
-      "link": "https://www.cafepedagogique.net/2026/11/18/a-marseille-la-repression-ne-fait-pas-rentrer-les-lyceens-en-classe/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/unite2-1-300x225.jpeg",
-      "publishedAt": "2026-11-18T04:54:11.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anx9tg8",
-      "title": "Centre de retour au Rwanda : pourquoi le projet européen inquiète",
-      "summary": "Réunion des parties prenantes à Vienne le 16 novembre 2026. De gauche à droite : Tom Berendsen, ministre néerlandais des affaires étrangères ; Alexander Dobrindt, ministre allemand de l’intérieur ; Gerhard Karner, ministre autrichien de l’intérieur ; Mette Frederiksen, première ministre danoise ; Christian Stocker, cha",
-      "link": "https://theconversation.com/centre-de-retour-au-rwanda-pourquoi-le-projet-europeen-inquiete-296954",
-      "image": "https://images.theconversation.com/files/772823/original/file-20261118-64-wq07t9.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1758%2C1172&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-18T16:06:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 62,
       "urgencyLevel": "moyenne"
     },
     {
@@ -327,7 +378,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -345,7 +396,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -363,7 +414,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -381,7 +432,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anx9tg8",
+      "title": "Centre de retour au Rwanda : pourquoi le projet européen inquiète",
+      "summary": "Réunion des parties prenantes à Vienne le 16 novembre 2026. De gauche à droite : Tom Berendsen, ministre néerlandais des affaires étrangères ; Alexander Dobrindt, ministre allemand de l’intérieur ; Gerhard Karner, ministre autrichien de l’intérieur ; Mette Frederiksen, première ministre danoise ; Christian Stocker, cha",
+      "link": "https://theconversation.com/centre-de-retour-au-rwanda-pourquoi-le-projet-europeen-inquiete-296954",
+      "image": "https://images.theconversation.com/files/772823/original/file-20261118-64-wq07t9.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1758%2C1172&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-18T16:06:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -397,7 +464,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -413,7 +480,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -429,7 +496,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -445,7 +512,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -461,7 +528,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -477,7 +544,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -495,7 +562,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -511,7 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -527,7 +594,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -543,7 +610,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -559,25 +626,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a16wjn4",
-      "title": "Au cœur des moulins glaciaires du Groenland, la marque d’une pollution venue de loin",
-      "summary": "Des prélèvements de glace dans les profondeurs des moulins glaciaires du Groenland, ces puits creusés dans la glace par les eaux de fonte, permettent de mieux comprendre comment la pollution de l’air voyage autour du globe et affecte jusqu’aux régions les plus isolées. Yann Sivry, Fourni par l'auteur L’ESSENTIEL La pol",
-      "link": "https://theconversation.com/au-coeur-des-moulins-glaciaires-du-groenland-la-marque-dune-pollution-venue-de-loin-292257",
-      "image": "https://images.theconversation.com/files/763090/original/file-20260930-60-6kjv9g.JPG?ixlib=rb-4.1.1&amp;rect=0%2C1123%2C5568%2C3712&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-17T16:14:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -593,7 +642,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -609,41 +658,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anzrfga",
-      "title": "La lecture à voix haute au CM1-CM2 : du décodage à l’interprétation",
-      "summary": "« La lecture à voix haute mobilise le souffle, le corps, l’expression du lecteur. Il s’agit aussi d’une merveilleuse situation de partage avec les autres » explique Isabelle Peltier-Lécullée, autrice L’article La lecture à voix haute au CM1-CM2 : du décodage à l’interprétation est apparu en premier sur Le Café pédagogi",
-      "link": "https://www.cafepedagogique.net/2026/11/18/la-lecture-a-voix-haute-au-cm1-cm2-du-decodage-a-linterpretation/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/06/saraLeleuMaati-280x300.jpeg",
-      "publishedAt": "2026-11-18T04:50:33.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a409qia",
-      "title": "Outre-mer : des inégalités systémiques qui démentent la promesse républicaine",
-      "summary": "L’ESSENTIEL Les inégalités entre les territoires d’outre-mer et la France hexagonale sont de plus en plus marquées. Ancrées dans l’histoire coloniale, elles peuvent être qualifiées de « systémiques ». Selon une Commission d’enquête du Sénat, la « promesse républicaine » (indivisibilité de la République, universalité de",
-      "link": "https://theconversation.com/outre-mer-des-inegalites-systemiques-qui-dementent-la-promesse-republicaine-294306",
-      "image": "https://counter.theconversation.com/content/294306/count.gif",
-      "publishedAt": "2026-11-17T16:16:04.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "égalité"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -659,7 +674,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -675,7 +690,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -691,23 +706,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 47,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ae4v7xc",
-      "title": "Le rhum, ou pourquoi une origine n’a pas besoin d’appellation pour avoir de la valeur",
-      "summary": "Sur le marché du rhum, il n’existe pas vraiment d’indication géographique protégée (IGP), et cela n’est pas réellement un problème. Kittyfly/Shutterstock (no reuse) L’ESSENTIEL La filière française du whisky prépare une indication géographique nationale, qui devrait entrer en vigueur en 2027. Une étude portant sur plus",
-      "link": "https://theconversation.com/le-rhum-ou-pourquoi-une-origine-na-pas-besoin-dappellation-pour-avoir-de-la-valeur-296072",
-      "image": "https://images.theconversation.com/files/770489/original/file-20261106-64-9hl8xe.jpg?ixlib=rb-4.1.1&amp;rect=0%2C168%2C4032%2C2688&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-17T16:15:20.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 47,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     }
   ]
