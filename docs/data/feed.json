@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:55:10.173Z",
+  "generatedAt": "2026-11-20T23:41:36.001Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 97,
+      "urgency": 88,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 79,
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -187,8 +187,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "arwf7nl",
@@ -206,8 +206,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ak7ths5",
@@ -222,8 +222,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aau6e8n",
@@ -238,8 +238,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6o1b3a",
@@ -254,8 +254,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awwg9am",
@@ -273,7 +273,25 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 69,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axijxlz",
+      "title": "Demain, l’intelligence artificielle assistera le chirurgien, mais qui décidera ?",
+      "summary": "L’ESSENTIEL Durant une opération, les chirurgiens font parfois face à des situations changeantes qui exigent d’eux de prendre des décisions rapides pour adapter leur stratégie. L’émergence de modèles d’intelligence artificielle capables de prédire les causes d’un événement et les effets d’une action pourrait aider les ",
+      "link": "https://theconversation.com/demain-lintelligence-artificielle-assistera-le-chirurgien-mais-qui-decidera-296871",
+      "image": "https://counter.theconversation.com/content/296871/count.gif",
+      "publishedAt": "2026-11-19T15:34:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -292,7 +310,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -310,105 +328,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "av6hcqp",
-      "title": "200 lycées « prioritaires » : les régions contestent la méthode et le financement",
-      "summary": "Lancée par le ministre de l’Éducation dans le contexte de la mobilisation lycéenne et de ses revendications, la consultation nationale en ligne a recueilli du 6 au 23 octobre plus L’article 200 lycées « prioritaires » : les régions contestent la méthode et le financement est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/20/200-lycees-prioritaires-les-regions-contestent-la-methode-et-le-financement/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/lycee-renovation-300x200.png",
-      "publishedAt": "2026-11-20T04:55:33.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar7nc1r",
-      "title": "Julien Crémoux : comment devenir passeur de mémoire à 10 ans ?",
-      "summary": "Comment prendre conscience, quand on a à peine 10 ans, de la « dimension humaine et concrète » de la Première Guerre mondiale ? Comment trouver sa place et du sens à la L’article Julien Crémoux : comment devenir passeur de mémoire à 10 ans ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/20/julien-cremoux-comment-devenir-passeur-de-memoire-a-10-ans/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Photo-Julien-Cremoux-e1795108675743-249x300.png",
-      "publishedAt": "2026-11-20T04:30:24.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a4sm5kx",
-      "title": "Semaine de l’industrie : une publication ONISEP sur l’installation et la maintenance industrielles",
-      "summary": "A l’occasion de la Semaine de l’industrie, l’Onisep fait paraître une nouvelle publication, consacrée à l’installation et à la maintenance industrielles. Réalisé en partenariat avec l’UIMM (Union des industries et L’article Semaine de l’industrie : une publication ONISEP sur l’installation et la maintenance industriell",
-      "link": "https://www.cafepedagogique.net/2026/11/20/semaine-de-lindustrie-une-publication-onisep-sur-linstallation-et-la-maintenance-industrielles/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Zoom_Metiers-installation-et-maintenance-industrielles-215x300.png",
-      "publishedAt": "2026-11-20T04:29:31.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5hyb3c",
-      "title": "Réfléchir sur les drogues au musée de l’Homme",
-      "summary": "Plantes hallucinogènes, stupéfiants, psychotropes, produits de synthèse… Que sont véritablement les drogues ? Comment les définit-on ? Toutes les sociétés en usent-elles ? Depuis quand, dans quel but ? Le L’article Réfléchir sur les drogues au musée de l’Homme est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/20/reflechir-sur-les-drogues-au-musee-de-lhomme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/MH_Drogues_20x30-200x300.jpg",
-      "publishedAt": "2026-11-20T04:28:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apeo23i",
-      "title": "Cécile Rilhac nommée experte de haut niveau au ministère de l’Éducation nationale",
-      "summary": "Cécile Rilhac fait son retour au ministère de l’Éducation nationale. Par un arrêté du 17 novembre 2026, l’ancienne députée est nommée experte de haut niveau auprès du président du Conseil L’article Cécile Rilhac nommée experte de haut niveau au ministère de l’Éducation nationale est apparu en premier sur Le Café pédago",
-      "link": "https://www.cafepedagogique.net/2026/11/20/cecile-rilhac-nommee-experte-de-haut-niveau-au-ministere-de-leducation-nationale/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/cecile-rilhac.png",
-      "publishedAt": "2026-11-20T04:27:10.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axijxlz",
-      "title": "Demain, l’intelligence artificielle assistera le chirurgien, mais qui décidera ?",
-      "summary": "L’ESSENTIEL Durant une opération, les chirurgiens font parfois face à des situations changeantes qui exigent d’eux de prendre des décisions rapides pour adapter leur stratégie. L’émergence de modèles d’intelligence artificielle capables de prédire les causes d’un événement et les effets d’une action pourrait aider les ",
-      "link": "https://theconversation.com/demain-lintelligence-artificielle-assistera-le-chirurgien-mais-qui-decidera-296871",
-      "image": "https://counter.theconversation.com/content/296871/count.gif",
-      "publishedAt": "2026-11-19T15:34:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -424,7 +344,87 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "av6hcqp",
+      "title": "200 lycées « prioritaires » : les régions contestent la méthode et le financement",
+      "summary": "Lancée par le ministre de l’Éducation dans le contexte de la mobilisation lycéenne et de ses revendications, la consultation nationale en ligne a recueilli du 6 au 23 octobre plus L’article 200 lycées « prioritaires » : les régions contestent la méthode et le financement est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/20/200-lycees-prioritaires-les-regions-contestent-la-methode-et-le-financement/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/lycee-renovation-300x200.png",
+      "publishedAt": "2026-11-20T04:55:33.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ar7nc1r",
+      "title": "Julien Crémoux : comment devenir passeur de mémoire à 10 ans ?",
+      "summary": "Comment prendre conscience, quand on a à peine 10 ans, de la « dimension humaine et concrète » de la Première Guerre mondiale ? Comment trouver sa place et du sens à la L’article Julien Crémoux : comment devenir passeur de mémoire à 10 ans ? est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/20/julien-cremoux-comment-devenir-passeur-de-memoire-a-10-ans/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Photo-Julien-Cremoux-e1795108675743-249x300.png",
+      "publishedAt": "2026-11-20T04:30:24.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a4sm5kx",
+      "title": "Semaine de l’industrie : une publication ONISEP sur l’installation et la maintenance industrielles",
+      "summary": "A l’occasion de la Semaine de l’industrie, l’Onisep fait paraître une nouvelle publication, consacrée à l’installation et à la maintenance industrielles. Réalisé en partenariat avec l’UIMM (Union des industries et L’article Semaine de l’industrie : une publication ONISEP sur l’installation et la maintenance industriell",
+      "link": "https://www.cafepedagogique.net/2026/11/20/semaine-de-lindustrie-une-publication-onisep-sur-linstallation-et-la-maintenance-industrielles/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Zoom_Metiers-installation-et-maintenance-industrielles-215x300.png",
+      "publishedAt": "2026-11-20T04:29:31.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a5hyb3c",
+      "title": "Réfléchir sur les drogues au musée de l’Homme",
+      "summary": "Plantes hallucinogènes, stupéfiants, psychotropes, produits de synthèse… Que sont véritablement les drogues ? Comment les définit-on ? Toutes les sociétés en usent-elles ? Depuis quand, dans quel but ? Le L’article Réfléchir sur les drogues au musée de l’Homme est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/20/reflechir-sur-les-drogues-au-musee-de-lhomme/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/MH_Drogues_20x30-200x300.jpg",
+      "publishedAt": "2026-11-20T04:28:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "apeo23i",
+      "title": "Cécile Rilhac nommée experte de haut niveau au ministère de l’Éducation nationale",
+      "summary": "Cécile Rilhac fait son retour au ministère de l’Éducation nationale. Par un arrêté du 17 novembre 2026, l’ancienne députée est nommée experte de haut niveau auprès du président du Conseil L’article Cécile Rilhac nommée experte de haut niveau au ministère de l’Éducation nationale est apparu en premier sur Le Café pédago",
+      "link": "https://www.cafepedagogique.net/2026/11/20/cecile-rilhac-nommee-experte-de-haut-niveau-au-ministere-de-leducation-nationale/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/cecile-rilhac.png",
+      "publishedAt": "2026-11-20T04:27:10.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -442,7 +442,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -458,7 +458,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -474,7 +474,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -490,7 +490,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -506,7 +506,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -522,7 +522,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -538,7 +538,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -554,7 +554,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -570,7 +570,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -586,7 +586,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -604,8 +604,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avq10h6",
@@ -622,8 +622,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "anx9tg8",
@@ -638,8 +638,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avfnrva",
@@ -654,8 +654,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a2y2t2s",
@@ -670,8 +670,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a30r9m6",
@@ -686,8 +686,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "agv8qqt",
@@ -702,8 +702,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     }
   ]
 }
