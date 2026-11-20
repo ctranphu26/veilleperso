@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:37:52.128Z",
+  "generatedAt": "2026-11-20T00:18:55.341Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,77 @@
   "count": 35,
   "items": [
     {
+      "id": "axijxlz",
+      "title": "Demain, l’intelligence artificielle assistera le chirurgien, mais qui décidera ?",
+      "summary": "L’ESSENTIEL Durant une opération, les chirurgiens font parfois face à des situations changeantes qui exigent d’eux de prendre des décisions rapides pour adapter leur stratégie. L’émergence de modèles d’intelligence artificielle capables de prédire les causes d’un événement et les effets d’une action pourrait aider les ",
+      "link": "https://theconversation.com/demain-lintelligence-artificielle-assistera-le-chirurgien-mais-qui-decidera-296871",
+      "image": "https://counter.theconversation.com/content/296871/count.gif",
+      "publishedAt": "2026-11-19T15:34:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "avgj4vz",
+      "title": "Education nationale : je m’informe ! Comment s’abonner gratuitement au Café pédagogique ?",
+      "summary": "Et si vous preniez un peu de Café pédagogique ? Chaque jour, l’École fait l’actualité. Réformes, débats, initiatives, pratiques de classe… Le Café pédagogique vous aide à comprendre ce qui L’article Education nationale : je m’informe ! Comment s’abonner gratuitement au Café pédagogique ? est apparu en premier sur Le Ca",
+      "link": "https://www.cafepedagogique.net/2026/11/19/sabonner-au-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/newsletter-196x300.png",
+      "publishedAt": "2026-11-19T16:00:31.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "classe"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a727tk1",
+      "title": "Haïti : l’intervention militaire de Bukele, premier test à l’étranger de sa méthode contre les gangs",
+      "summary": "L’ESSENTIEL Le Salvador de Nayib Bukele déploie 2 500 soldats en Haïti pour combattre les gangs armés qui ont pris le contrôle de larges pans du pays. Les opérations militaires ont jusqu’ici été couronnées d’un certain succès, mais leurs effets sur la durée ne sont pas assurés et des inquiétudes sur les risques encouru",
+      "link": "https://theconversation.com/ha-ti-lintervention-militaire-de-bukele-premier-test-a-letranger-de-sa-methode-contre-les-gangs-296691",
+      "image": "https://images.theconversation.com/files/771391/original/file-20261111-64-7wow9g.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-19T15:34:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 81,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a9uxu99",
+      "title": "Dette française : comment la défiance des marchés risque de devenir une prophétie autoréalisatrice",
+      "summary": "L’ESSENTIEL Si la réalité du problème budgétaire français semble établie, il faut prendre garde à l’influence que pourrait avoir une représentation partagée. La notion de « prophétie autoréalisatrice » a montré comment l’anticipation d’une crise peut in fine accélérer sa venue, voire la provoquer. En matière financière",
+      "link": "https://theconversation.com/dette-francaise-comment-la-defiance-des-marches-risque-de-devenir-une-prophetie-autorealisatrice-296165",
+      "image": "https://counter.theconversation.com/content/296165/count.gif",
+      "publishedAt": "2026-11-19T15:31:48.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "représentation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "a6608iw",
       "title": "3 000 conseils de discipline et après ?",
       "summary": "« Circulez, y a rien à voir », si ce n’est des sanctions disciplinaires prises au motif de violences de lycéen.nes. Le ministre de l’Éducation nationale a annoncé mercredi 18 L’article 3 000 conseils de discipline et après ? est apparu en premier sur Le Café pédagogique.",
@@ -133,7 +204,103 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a7428m9",
+      "title": "Neutralité carbone : une meilleure qualité de l’air améliore la santé publique et fait économiser des millions d’euros",
+      "summary": "L’ESSENTIEL Les politiques de réduction des émissions de gaz à effet de serre se traduisent également par des réductions d’émissions de polluants atmosphériques ayant des effets directs sur la santé, notamment les particules fines (PM2,5) et le dioxyde d’azote (NO₂). En France à l’horizon 2050, ces réductions pourraien",
+      "link": "https://theconversation.com/neutralite-carbone-une-meilleure-qualite-de-lair-ameliore-la-sante-publique-et-fait-economiser-des-millions-deuros-296879",
+      "image": "https://images.theconversation.com/files/772748/original/file-20261118-64-oz8bnr.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-19T15:33:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ax989x5",
+      "title": "La technocratie culturelle, une fabrique du désenchantement ?",
+      "summary": "Le théâtre de l’Odéon, à Paris. Daniel Vorndran/DXR/Wikipédia, CC BY L’ESSENTIEL Tandis que 2026 marque le 50e anniversaire de la mort d’André Malraux et que se profile l’élection présidentielle, quels sont la place et le rôle de la culture en France ? Si de merveilleux spectacles voient le jour grâce aux subventions, ",
+      "link": "https://theconversation.com/la-technocratie-culturelle-une-fabrique-du-desenchantement-296069",
+      "image": "https://images.theconversation.com/files/773007/original/file-20261119-64-f7204e.jpg?ixlib=rb-4.1.1&amp;rect=0%2C55%2C4161%2C2774&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-19T15:32:13.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ay8plom",
+      "title": "Pour Thomas Hobbes, la curiosité est le propre de l’homme et le ressort de toute innovation",
+      "summary": "La noirceur du tableau de John Michael Wright dépeignant le philosophe anglais Thomas Hobbes n’est pas anodine. Wikimediacommons L’ESSENTIEL Dans son célèbre ouvrage le Léviathan publié en 1651, Thomas Hobbes (1588-1679) rappelle que la curiosité distingue l’humain de l’animal. La curiosité met en lumière tant l’appéti",
+      "link": "https://theconversation.com/pour-thomas-hobbes-la-curiosite-est-le-propre-de-lhomme-et-le-ressort-de-toute-innovation-287011",
+      "image": "https://images.theconversation.com/files/762249/original/file-20260925-50-dgl0jq.jpg?ixlib=rb-4.1.1&amp;rect=0%2C383%2C2400%2C1600&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-19T15:30:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ao81lpr",
+      "title": "Stephen Miller, l’homme qui veut mettre l’Amérique au pas",
+      "summary": "Stephen Miller lors de la Conférence d’action politique conservatrice (CPAC) de 2025, au Gaylord National Resort & Convention Center de National Harbor, dans le Maryland. Gage Skidmore/Wikipédia, CC BY-NC-SA L’ESSENTIEL Proche de Donald Trump depuis 2016, Stephen Miller a joué un rôle central dans l’élaboration de sa p",
+      "link": "https://theconversation.com/stephen-miller-lhomme-qui-veut-mettre-lamerique-au-pas-296690",
+      "image": "https://images.theconversation.com/files/772558/original/file-20261117-64-u1zu09.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C8192%2C5461&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-19T15:27:23.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "axy95f8",
+      "title": "Comment agir face à des situations extrêmes ? Les cas de Fukushima et de l’incendie de Notre-Dame.",
+      "summary": "L’ESSENTIEL Rupture, incertitude et risque transforment une situation ordinaire en situation extrême. Les acteurs doivent alors produire de nouvelles connaissances tout en agissant. Ce fut le cas pour les équipes de la centrale de Fukushima lors du tsunami de 2011 et celui des services d’incendie et de secours lors de ",
+      "link": "https://theconversation.com/comment-agir-face-a-des-situations-extremes-les-cas-de-fukushima-et-de-lincendie-de-notre-dame-291473",
+      "image": "https://counter.theconversation.com/content/291473/count.gif",
+      "publishedAt": "2026-11-19T15:26:00.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ac5r31d",
+      "title": "Pourquoi des continents entiers ont perdu des centaines de millions d’années de roches",
+      "summary": "Vue prise depuis Hopi Point, dans le Grand Canyon. La base du grès du Tapeats y tranche net les roches du socle de Vishnu, redressées presque à la verticale : ce contact est la Grande Discordance. Mikenorton/Wikimedia Commons, CC BY L’ESSENTIEL Dans le Grand Canyon, aux États-Unis, comme sur d’autres continents, on peu",
+      "link": "https://theconversation.com/pourquoi-des-continents-entiers-ont-perdu-des-centaines-de-millions-dannees-de-roches-296519",
+      "image": "https://images.theconversation.com/files/771634/original/file-20261112-78-78f72g.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3648%2C2432&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-19T15:24:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -149,8 +316,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9ay4d2",
@@ -165,8 +332,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aau8p8q",
@@ -181,8 +348,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a6f6ai",
@@ -199,7 +366,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 61,
       "urgencyLevel": "moyenne"
     },
     {
@@ -218,7 +385,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -237,7 +404,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -255,7 +422,25 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 60,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a3n36l4",
+      "title": "En finir avec Parcoursup : derrière l’algorithme, une question de choix politiques",
+      "summary": "L’ESSENTIEL Depuis sa création en 2018, Parcoursup s’est techniquement ajusté d’année en année, sans donner satisfaction à ses usagers. Derrière les questions de procédures (calendrier, mode de mise en relation, classement des formations…), il y a des enjeux politiques. Les récentes annonces autour d’un remplacement de",
+      "link": "https://theconversation.com/en-finir-avec-parcoursup-derriere-lalgorithme-une-question-de-choix-politiques-296307",
+      "image": "https://counter.theconversation.com/content/296307/count.gif",
+      "publishedAt": "2026-11-18T15:36:33.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "algorithme"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -274,7 +459,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -292,7 +477,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -308,25 +493,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3n36l4",
-      "title": "En finir avec Parcoursup : derrière l’algorithme, une question de choix politiques",
-      "summary": "L’ESSENTIEL Depuis sa création en 2018, Parcoursup s’est techniquement ajusté d’année en année, sans donner satisfaction à ses usagers. Derrière les questions de procédures (calendrier, mode de mise en relation, classement des formations…), il y a des enjeux politiques. Les récentes annonces autour d’un remplacement de",
-      "link": "https://theconversation.com/en-finir-avec-parcoursup-derriere-lalgorithme-une-question-de-choix-politiques-296307",
-      "image": "https://counter.theconversation.com/content/296307/count.gif",
-      "publishedAt": "2026-11-18T15:36:33.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "algorithme"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -344,23 +511,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 66,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayifwf0",
-      "title": "Visa vacances-travail : l’Australie fait marche arrière, mais allonge le travail régional",
-      "summary": "Vendanges à la main au vignoble de Granton, dans le sud de la Tasmanie, en avril 2012. Le travail agricole fait partie des emplois régionaux exigés des titulaires d’un visa vacances-travail qui veulent prolonger leur séjour. Stefano Lubiana/Flickr, CC BY L’ESSENTIEL Le gouvernement australien renonce à sa réforme initi",
-      "link": "https://theconversation.com/visa-vacances-travail-laustralie-fait-marche-arriere-mais-allonge-le-travail-regional-296849",
-      "image": "https://images.theconversation.com/files/772551/original/file-20261117-64-h54fb2.jpg?ixlib=rb-4.1.1&amp;rect=16%2C0%2C4894%2C3262&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-17T18:06:42.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -378,7 +529,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -396,7 +547,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -414,7 +565,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,7 +583,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -448,7 +599,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -464,7 +615,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -480,7 +631,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -496,7 +647,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -512,7 +663,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -528,7 +679,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -544,25 +695,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ac8d2k3",
-      "title": "De la Chine antique au scandale Jensen Huang, une petite histoire du « piège amoureux »",
-      "summary": "L’ESSENTIEL Le patron de Nvidia, l’une des plus grandes entreprises états-uniennes dans le domaine de l’intelligence artificielle, vient de démissionner après la révélation de plusieurs aventures extraconjugales. L’une de ses maîtresses est soupçonnée d’avoir partie liée avec les services de renseignement chinois. Envo",
-      "link": "https://theconversation.com/de-la-chine-antique-au-scandale-jensen-huang-une-petite-histoire-du-piege-amoureux-296692",
-      "image": "https://images.theconversation.com/files/772424/original/file-20261117-78-udv1uq.jpeg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-18T10:27:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -578,135 +711,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5u1oug",
-      "title": "Quiz - Additifs alimentaires dangereux dans nos assiettes : quand les industriels contournent les règles (du XIXᵉ siècle à nos jours)",
-      "summary": "Les dangers des additifs sont connus dès le XIXᵉ siècle, mais les industriels n’ont eu de cesse de contourner les vagues de régulation protégeant les consommateurs. Zigmunds Dizgalvis/Shutterstock (no reuse) Des colorants toxiques aux conservateurs controversés, les additifs alimentaires ont une longue histoire, jalonn",
-      "link": "https://theconversation.com/quiz-additifs-alimentaires-dangereux-dans-nos-assiettes-quand-les-industriels-contournent-les-regles-du-xix-siecle-a-nos-jours-296973",
-      "image": "https://images.theconversation.com/files/772739/original/file-20261118-64-as2cq8.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-18T10:33:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "as4pjwo",
-      "title": "Il y a 2 000 ans, la taille de l’Afrique sur la carte était déjà une affaire de pouvoir",
-      "summary": "La projection Equal Earth, que l’Assemblée générale des Nations unies encourage à utiliser depuis le 4 septembre 2026, respecte la superficie relative des continents. Strebe/Wikipédia, CC BY L’ESSENTIEL Il y a 2 000 ans, le géographe grec Strabon jugeait l’Afrique peut-être plus petite que l’Europe et bien moins puissa",
-      "link": "https://theconversation.com/il-y-a-2-000-ans-la-taille-de-lafrique-sur-la-carte-etait-deja-une-affaire-de-pouvoir-296660",
-      "image": "https://images.theconversation.com/files/771980/original/file-20261105-78-epb0vr.jpg?ixlib=rb-4.1.1&amp;rect=255%2C0%2C1409%2C939&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-18T10:28:13.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "adxfvey",
-      "title": "Pourquoi la génération Z doit en partie à Napoléon son obsession pour la musculation",
-      "summary": "Exercices avec haltères dans un gymnase en plein air de Washington, en 1899. On soulevait des poids bien avant la génération Z. Frances Benjamin Johnston/Library of Congress/Public Domain, CC BY L’ESSENTIEL Au Royaume-Uni, plus d’un quart des jeunes adultes disent tenir davantage à leur salle de sport qu’aux vacances o",
-      "link": "https://theconversation.com/pourquoi-la-generation-z-doit-en-partie-a-napoleon-son-obsession-pour-la-musculation-295641",
-      "image": "https://images.theconversation.com/files/769388/original/file-20261006-50-3fhaid.jpg?ixlib=rb-4.1.1&amp;rect=0%2C96%2C1536%2C1024&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-18T10:26:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 53,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3ar6a9",
-      "title": "Pourquoi l’électrification est l’un des sujets phares de la COP31",
-      "summary": "L’ESSENTIEL L’un des objectifs portés par la présidence turque de la COP31 est l’objectif « 35 by 35 », qui consiste à atteindre 35 % d’électrification en 2035, contre 23 % aujourd’hui. De fait, la dépendance internationale aux hydrocarbures coûte cher aux États et aux ménages, en raison des conflits en cours au Moyen-",
-      "link": "https://theconversation.com/pourquoi-lelectrification-est-lun-des-sujets-phares-de-la-cop31-296710",
-      "image": "https://images.theconversation.com/files/772475/original/file-20261117-64-nwvb1e.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-17T16:16:16.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ael09mz",
-      "title": "Mobilisation lycéenne : qui sont les mineurs déférés dans le mouvement lycéen ?",
-      "summary": "Une note de la Protection judiciaire de la jeunesse, restée discrète à sa publication le 30 octobre, dresse le portrait des 1 504 mineurs déférés entre le 22 septembre et L’article Mobilisation lycéenne : qui sont les mineurs déférés dans le mouvement lycéen ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/18/mobilisation-lyceenne-qui-sont-les-mineurs-deferes-dans-le-mouvement-lyceen/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/effectifs.png",
-      "publishedAt": "2026-11-18T04:55:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "akmdtdv",
-      "title": "Alcohol, drug abuse, suicide: is Europe really safe from America’s ‘deaths of despair’ epidemic?",
-      "summary": "KEY TAKEAWAYS Europe is not following the American path, but three specific clusters stand out, from the British Isles to Poland and across Sweden. Europe’s despair phenomenon is increasingly affecting the elderly: alcohol-related deaths among the over 65s now exceed US levels in most regions. “Deaths of despair” are f",
-      "link": "https://theconversation.com/alcohol-drug-abuse-suicide-is-europe-really-safe-from-americas-deaths-of-despair-epidemic-294974",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-17T16:36:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a55qapx",
-      "title": "Quand une doctorante découvre un nouveau compartiment indispensable à la croissance de l’ovocyte",
-      "summary": "Le corps de Zollo apparaît en violet à côté du noyau des ovocytes (la forme noire). Christopher Thomas, Fourni par l'auteur L’ESSENTIEL Un nouveau compartiment constitué d’ARN et de protéines a été découvert par Noemi Zollo, alors étudiante en thèse, dans les petits ovocytes de souris. Il a fallu un long travail collec",
-      "link": "https://theconversation.com/quand-une-doctorante-decouvre-un-nouveau-compartiment-indispensable-a-la-croissance-de-lovocyte-292287",
-      "image": "https://images.theconversation.com/files/769073/original/file-20261029-64-e7z8w4.jpg?ixlib=rb-4.1.1&amp;rect=0%2C360%2C3170%2C2113&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-17T16:16:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "asupp17",
-      "title": "Le livre, œuvre de création et produit marketing",
-      "summary": "L’ESSENTIEL Dans le monde du livre aussi, les professionnels publient selon des logiques de marché et adaptent les produits en fonction du potentiel des ventes. Le marketing a révolutionné la façon de penser la littérature vivante. Face à la baisse de la lecture, le marketing peut (re)donner à un maximum de lecteurs l’",
-      "link": "https://theconversation.com/le-livre-oeuvre-de-creation-et-produit-marketing-296002",
-      "image": "https://counter.theconversation.com/content/296002/count.gif",
-      "publishedAt": "2026-11-17T16:16:27.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 41,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     }
   ]
