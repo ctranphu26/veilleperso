@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:43:29.810Z",
+  "generatedAt": "2026-11-21T14:14:56.467Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,6 +119,56 @@
   "count": 35,
   "items": [
     {
+      "id": "anr3ozm",
+      "title": "Gaz : l’Europe s’est éloignée de la Russie, mais accroît sa vulnérabilité aux crises mondiales",
+      "summary": "L’ESSENTIEL La crise d’Ormuz a affecté les prix du gaz dans l’Union européenne, alors qu’une faible part du gaz importé par l’UE transite par ce détroit. Derrière ce paradoxe se trouve la profonde transformation du marché gazier européen depuis 2022, à la suite de la guerre en Ukraine. L’UE s’est largement tournée vers",
+      "link": "https://theconversation.com/gaz-leurope-sest-eloignee-de-la-russie-mais-accroit-sa-vulnerabilite-aux-crises-mondiales-296886",
+      "image": "https://images.theconversation.com/files/772498/original/file-20261117-64-4h5bsn.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-21T08:32:02.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "formation"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ad207t5",
+      "title": "La règle d’or budgétaire garantit-elle une bonne gestion des finances publiques ?",
+      "summary": "L’ESSENTIEL De nombreux candidats à l’élection présidentielle appellent à l’inscription d’une règle d’or budgétaire dans la Constitution française. En 2012, le Pacte budgétaire européen fixe en principe à 0,5 % du produit intérieur brut la limite du déficit structurel. Évaluer une politique budgétaire suppose aussi d’e",
+      "link": "https://theconversation.com/la-regle-dor-budgetaire-garantit-elle-une-bonne-gestion-des-finances-publiques-294402",
+      "image": "https://counter.theconversation.com/content/294402/count.gif",
+      "publishedAt": "2026-11-21T08:32:28.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 84,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "av8kgz4",
+      "title": "Actualité de l’éducation du 16 au 20 novembre 2026",
+      "summary": "La mobilisation lycéenne se poursuit. Et la réponse du gouvernement se durcit. Sanctions, interpellations, conseils de discipline : la tension monte dans les établissements. Les personnels alertent sur leur sécurité. L’article Actualité de l’éducation du 16 au 20 novembre 2026 est apparu en premier sur Le Café pédagogi",
+      "link": "https://www.cafepedagogique.net/2026/11/21/actualite-de-leducation-du-16-au-20-novembre-2026/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/mobilisation-300x300.png",
+      "publishedAt": "2026-11-21T06:39:11.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
       "id": "akrg6g1",
       "title": "La colère n’est pas une explication, c’est un phénomène à expliquer",
       "summary": "L’ESSENTIEL Manifestations, grèves, contestations étudiantes : la « colère » est devenue le mot qui résume les mobilisations sociales en cours. Pour comprendre la colère, il faut s’intéresser à la manière dont les émotions se construisent, aux injustices qui les suscitent et à leurs effets politiques. L’enjeu démocrati",
@@ -131,8 +181,78 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 82,
+      "urgency": 75,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "assm7ss",
+      "title": "Bien-être étudiant : le temps passé avec des amis compte plus que le sport ou le sommeil",
+      "summary": "Des étudiants sur la pelouse du campus de l’Université James-Madison, en Virginie. Les étudiants qui passent davantage de temps à socialiser avec des amis, à participer à des organisations étudiantes et à des événements culturels ont davantage tendance à déclarer un plus grand bien-être. Taber Andrew Bain/Wikimedia Com",
+      "link": "https://theconversation.com/bien-etre-etudiant-le-temps-passe-avec-des-amis-compte-plus-que-le-sport-ou-le-sommeil-295714",
+      "image": "https://images.theconversation.com/files/770262/original/file-20261105-64-gpxsle.jpg?ixlib=rb-4.1.1&amp;rect=3%2C0%2C1273%2C848&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-21T08:32:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ar3zmwa",
+      "title": "À Antalya, une COP de « mise en œuvre », mais pourquoi et pour qui ? Le Nord ou le Sud ?",
+      "summary": "L’ESSENTIEL La COP31 devait être une « COP de la mise en œuvre », mais dans les faits, les deux dossiers (financement climatique Nord-Sud et sortie des énergies fossiles) ont de nouveau concentré l’essentiel des blocages, dans un contexte géopolitique marqué par la crise du détroit Ormuz. Premier problème : la gouverna",
+      "link": "https://theconversation.com/a-antalya-une-cop-de-mise-en-oeuvre-mais-pourquoi-et-pour-qui-le-nord-ou-le-sud-297072",
+      "image": "https://counter.theconversation.com/content/297072/count.gif",
+      "publishedAt": "2026-11-21T08:30:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ak3uwd3",
+      "title": "16 ressources dénichées par votre Café pédagogique",
+      "summary": "Cette semaine, le Café pédagogique explore de nouvelles façons d’enseigner et d’apprendre. Littérature jeunesse, lecture à voix haute, esprit critique et intelligence artificielle sont au programme. Des enseignants partagent leurs L’article 16 ressources dénichées par votre Café pédagogique est apparu en premier sur Le",
+      "link": "https://www.cafepedagogique.net/2026/11/21/16-ressources-denichees-par-votre-cafe-pedagogique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/La-Passion-du-Loup-couverture-208x300.jpg",
+      "publishedAt": "2026-11-21T07:19:08.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "education-medias",
+      "keywords": [
+        "esprit critique",
+        "intelligence artificielle",
+        "source"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ai02iq2",
+      "title": "Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 !",
+      "summary": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche L’article Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/21/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Forum-du-Cafe-pedagogique-enseignants-Paris-2027-234x300.png",
+      "publishedAt": "2026-11-21T02:28:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 77,
+      "relevanceLevel": "haute",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agligxd",
@@ -149,27 +269,23 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "att0orj",
-      "title": "Face à l’IA : un dialogue entre le secondaire et le supérieur",
-      "summary": "L’enseignement secondaire et l’enseignement supérieur sont dans la même « galère » : celle de l’Intelligence Artificielle Générative, qu’étudiant·es et élèves utilisent massivement et souvent clandestinement, qu’une minorité d’enseignant·es exploitent L’article Face à l’IA : un dialogue entre le secondaire et le supéri",
-      "link": "https://www.cafepedagogique.net/2026/11/20/face-a-lia-un-dialogue-entre-le-secondaire-et-le-superieur/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Visuel-Table-ronde-Brest-3.jpg",
-      "publishedAt": "2026-11-20T04:27:34.000Z",
+      "id": "az8rcgc",
+      "title": "A vos pancartes !",
+      "summary": "« Les lycén·nes mobilisé·es font aujourd’hui preuve d’une grande créativité pour leurs slogans. Drôles et percutants, parfois rudes, ils montrent une belle maitrise de la langue, une pensée critique profonde », écrivait L’article A vos pancartes ! est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/20/a-vos-pancartes/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/MUSEE-HISTOIRE-VIVANTE-300x200.jpeg",
+      "publishedAt": "2026-11-20T04:45:25.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
-      "keywords": [
-        "enseignement",
-        "élève",
-        "enseignant"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 66,
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -187,7 +303,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -206,7 +322,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -222,7 +338,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -238,7 +354,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -254,26 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "awwg9am",
-      "title": "Inondations : évacuation d’écoles et d’établissements scolaires",
-      "summary": "Les inondations s’aggravent dans le Pas-de-Calais. Une vingtaine de communes sont touchées. Jeudi 19 novembre, deux écoles ont été évacuées dans la matinée. « Les élèves sont en sécurité », L’article Inondations : évacuation d’écoles et d’établissements scolaires est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/20/inondations-des-ecoles-evacuees-et-des-etablissements-scolaires/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/tracteur-300x157.png",
-      "publishedAt": "2026-11-20T04:27:06.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "élève"
-      ],
-      "relevance": 85,
-      "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 54,
       "urgencyLevel": "moyenne"
     },
     {
@@ -291,7 +388,23 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 51,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a727tk1",
+      "title": "Haïti : l’intervention militaire de Bukele, premier test à l’étranger de sa méthode contre les gangs",
+      "summary": "L’ESSENTIEL Le Salvador de Nayib Bukele déploie 2 500 soldats en Haïti pour combattre les gangs armés qui ont pris le contrôle de larges pans du pays. Les opérations militaires ont jusqu’ici été couronnées d’un certain succès, mais leurs effets sur la durée ne sont pas assurés et des inquiétudes sur les risques encouru",
+      "link": "https://theconversation.com/ha-ti-lintervention-militaire-de-bukele-premier-test-a-letranger-de-sa-methode-contre-les-gangs-296691",
+      "image": "https://images.theconversation.com/files/771391/original/file-20261111-64-7wow9g.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-19T15:34:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -310,7 +423,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -328,23 +441,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a727tk1",
-      "title": "Haïti : l’intervention militaire de Bukele, premier test à l’étranger de sa méthode contre les gangs",
-      "summary": "L’ESSENTIEL Le Salvador de Nayib Bukele déploie 2 500 soldats en Haïti pour combattre les gangs armés qui ont pris le contrôle de larges pans du pays. Les opérations militaires ont jusqu’ici été couronnées d’un certain succès, mais leurs effets sur la durée ne sont pas assurés et des inquiétudes sur les risques encouru",
-      "link": "https://theconversation.com/ha-ti-lintervention-militaire-de-bukele-premier-test-a-letranger-de-sa-methode-contre-les-gangs-296691",
-      "image": "https://images.theconversation.com/files/771391/original/file-20261111-64-7wow9g.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-19T15:34:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -360,7 +457,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -376,7 +473,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -392,39 +489,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a5hyb3c",
-      "title": "Réfléchir sur les drogues au musée de l’Homme",
-      "summary": "Plantes hallucinogènes, stupéfiants, psychotropes, produits de synthèse… Que sont véritablement les drogues ? Comment les définit-on ? Toutes les sociétés en usent-elles ? Depuis quand, dans quel but ? Le L’article Réfléchir sur les drogues au musée de l’Homme est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/20/reflechir-sur-les-drogues-au-musee-de-lhomme/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/MH_Drogues_20x30-200x300.jpg",
-      "publishedAt": "2026-11-20T04:28:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 56,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "apeo23i",
-      "title": "Cécile Rilhac nommée experte de haut niveau au ministère de l’Éducation nationale",
-      "summary": "Cécile Rilhac fait son retour au ministère de l’Éducation nationale. Par un arrêté du 17 novembre 2026, l’ancienne députée est nommée experte de haut niveau auprès du président du Conseil L’article Cécile Rilhac nommée experte de haut niveau au ministère de l’Éducation nationale est apparu en premier sur Le Café pédago",
-      "link": "https://www.cafepedagogique.net/2026/11/20/cecile-rilhac-nommee-experte-de-haut-niveau-au-ministere-de-leducation-nationale/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/cecile-rilhac.png",
-      "publishedAt": "2026-11-20T04:27:10.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -442,7 +507,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -458,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -474,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -490,7 +555,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -506,7 +571,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -522,7 +587,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -538,7 +603,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -554,8 +619,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a9ay4d2",
@@ -570,8 +635,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aau8p8q",
@@ -586,8 +651,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 43,
-      "urgencyLevel": "moyenne"
+      "urgency": 38,
+      "urgencyLevel": "basse"
     },
     {
       "id": "afs7idq",
@@ -604,7 +669,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -622,7 +687,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 29,
       "urgencyLevel": "basse"
     },
     {
@@ -638,71 +703,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "avfnrva",
-      "title": "Les toilettes des lycées, miroir du mal-être scolaire ?",
-      "summary": "L’ESSENTIEL Moins de la moitié des collégiens et des lycéens déclarent aller aux toilettes lorsqu’ils en ont envie durant une journée de cours. Saleté, dégradations, odeurs, froid, peur du harcèlement font partie des raisons avancées pour expliquer cet évitement, qui n’est pas sans conséquence pour leur santé. Au-delà ",
-      "link": "https://theconversation.com/les-toilettes-des-lycees-miroir-du-mal-etre-scolaire-296299",
-      "image": "https://counter.theconversation.com/content/296299/count.gif",
-      "publishedAt": "2026-11-18T15:39:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a2y2t2s",
-      "title": "La peur nous rend-elle plus faciles à gouverner ?",
-      "summary": "L’ESSENTIEL Plus un danger est médiatisé, plus il nous paraît proche et peut renforcer notre aspiration à la stabilité. L’incertitude peut conduire à privilégier des explications simples et à s’aligner sur la majorité. Lorsqu’elle est instrumentalisée, la peur peut aussi produire des effets inverses de méfiance, voire ",
-      "link": "https://theconversation.com/la-peur-nous-rend-elle-plus-faciles-a-gouverner-290546",
-      "image": "https://counter.theconversation.com/content/290546/count.gif",
-      "publishedAt": "2026-11-18T15:39:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a30r9m6",
-      "title": "Mbappé, Mao et l’anaconda : comment Pékin exporte sa censure",
-      "summary": "L’ESSENTIEL Dans une vidéo au ton léger consacrée aux nombreux mèmes dont il fait l’objet, Kylian Mbappé a qualifié de « dictateur », sans même le désigner nommément, Mao Zedong, qui régna d’un main de fer sur la Chine de 1949 à sa mort en 1976. S’est ensuivie une campagne, partie de Chine, d’une rare virulence, qui a ",
-      "link": "https://theconversation.com/mbappe-mao-et-lanaconda-comment-pekin-exporte-sa-censure-296740",
-      "image": "https://counter.theconversation.com/content/296740/count.gif",
-      "publishedAt": "2026-11-18T15:38:58.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "agv8qqt",
-      "title": "Poutine menace, Washington inquiète : qui protégera l’Europe ?",
-      "summary": "Décollage d’un Rafale (en haut) français et d’un Typhoon britannique, dans le cadre de l’exercice militaire Rummy d’octobre 2026. Ministère français des armées L’ESSENTIEL La France et le Royaume-Uni renforcent leur coopération nucléaire face à la menace russe et aux incertitudes sur l’engagement américain. L’exercice ",
-      "link": "https://theconversation.com/poutine-menace-washington-inquiete-qui-protegera-leurope-295684",
-      "image": "https://images.theconversation.com/files/771058/original/file-20261110-78-dbczdj.jpg?ixlib=rb-4.1.1&amp;rect=77%2C0%2C840%2C560&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-18T15:38:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 33,
+      "urgency": 29,
       "urgencyLevel": "basse"
     }
   ]
