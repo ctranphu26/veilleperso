@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:47:01.280Z",
+  "generatedAt": "2026-11-22T05:12:54.841Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -165,8 +165,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "akrg6g1",
@@ -181,7 +181,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 64,
       "urgencyLevel": "moyenne"
     },
     {
@@ -197,7 +197,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -213,7 +213,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 64,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -251,7 +251,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 60,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,7 +269,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -285,7 +285,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -303,7 +303,23 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ak7ths5",
+      "title": "Engagements climatiques des entreprises : pourquoi les marchés financiers ne les récompensent (presque) pas",
+      "summary": "Selon l’étude, la plupart des engagements climatiques des entreprises ne sont pas associés à une meilleure valorisation boursière. Arthur Weidmann/Wikimedia Commons, CC BY-SA., CC BY L’ESSENTIEL Les marchés financiers ne récompensent pas automatiquement les entreprises qui adoptent des pratiques de gestion climatique. ",
+      "link": "https://theconversation.com/engagements-climatiques-des-entreprises-pourquoi-les-marches-financiers-ne-les-recompensent-presque-pas-296843",
+      "image": "https://images.theconversation.com/files/772825/original/file-20261118-64-st6w9m.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5255%2C3503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-20T12:10:35.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -322,23 +338,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ak7ths5",
-      "title": "Engagements climatiques des entreprises : pourquoi les marchés financiers ne les récompensent (presque) pas",
-      "summary": "Selon l’étude, la plupart des engagements climatiques des entreprises ne sont pas associés à une meilleure valorisation boursière. Arthur Weidmann/Wikimedia Commons, CC BY-SA., CC BY L’ESSENTIEL Les marchés financiers ne récompensent pas automatiquement les entreprises qui adoptent des pratiques de gestion climatique. ",
-      "link": "https://theconversation.com/engagements-climatiques-des-entreprises-pourquoi-les-marches-financiers-ne-les-recompensent-presque-pas-296843",
-      "image": "https://images.theconversation.com/files/772825/original/file-20261118-64-st6w9m.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5255%2C3503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-20T12:10:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +354,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,7 +370,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 44,
       "urgencyLevel": "moyenne"
     },
     {
@@ -388,7 +388,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -404,7 +404,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -423,7 +423,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -441,7 +441,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,7 +457,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -473,7 +473,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -489,7 +489,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 44,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -507,7 +507,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -523,7 +523,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -539,7 +539,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -555,7 +555,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -571,7 +571,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -587,7 +587,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -603,7 +603,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 36,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -619,7 +619,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -635,7 +635,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -651,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 34,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -669,7 +669,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -703,7 +703,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 26,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
