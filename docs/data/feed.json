@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:04:57.479Z",
+  "generatedAt": "2026-11-22T23:15:24.114Z",
   "themes": [
     {
       "id": "education-medias",
@@ -131,7 +131,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 84,
+      "urgency": 75,
       "urgencyLevel": "haute"
     },
     {
@@ -151,8 +151,8 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahna4um",
@@ -167,8 +167,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "alm1hf0",
@@ -183,8 +183,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anr3ozm",
@@ -201,7 +201,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -217,7 +217,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -233,7 +233,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 61,
+      "urgency": 55,
       "urgencyLevel": "moyenne"
     },
     {
@@ -249,7 +249,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 54,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "assm7ss",
+      "title": "Bien-être étudiant : le temps passé avec des amis compte plus que le sport ou le sommeil",
+      "summary": "Des étudiants sur la pelouse du campus de l’Université James-Madison, en Virginie. Les étudiants qui passent davantage de temps à socialiser avec des amis, à participer à des organisations étudiantes et à des événements culturels ont davantage tendance à déclarer un plus grand bien-être. Taber Andrew Bain/Wikimedia Com",
+      "link": "https://theconversation.com/bien-etre-etudiant-le-temps-passe-avec-des-amis-compte-plus-que-le-sport-ou-le-sommeil-295714",
+      "image": "https://images.theconversation.com/files/770262/original/file-20261105-64-gpxsle.jpg?ixlib=rb-4.1.1&amp;rect=3%2C0%2C1273%2C848&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-21T08:32:52.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 46,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ar3zmwa",
+      "title": "À Antalya, une COP de « mise en œuvre », mais pourquoi et pour qui ? Le Nord ou le Sud ?",
+      "summary": "L’ESSENTIEL La COP31 devait être une « COP de la mise en œuvre », mais dans les faits, les deux dossiers (financement climatique Nord-Sud et sortie des énergies fossiles) ont de nouveau concentré l’essentiel des blocages, dans un contexte géopolitique marqué par la crise du détroit Ormuz. Premier problème : la gouverna",
+      "link": "https://theconversation.com/a-antalya-une-cop-de-mise-en-oeuvre-mais-pourquoi-et-pour-qui-le-nord-ou-le-sud-297072",
+      "image": "https://counter.theconversation.com/content/297072/count.gif",
+      "publishedAt": "2026-11-21T08:30:54.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -269,39 +301,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "assm7ss",
-      "title": "Bien-être étudiant : le temps passé avec des amis compte plus que le sport ou le sommeil",
-      "summary": "Des étudiants sur la pelouse du campus de l’Université James-Madison, en Virginie. Les étudiants qui passent davantage de temps à socialiser avec des amis, à participer à des organisations étudiantes et à des événements culturels ont davantage tendance à déclarer un plus grand bien-être. Taber Andrew Bain/Wikimedia Com",
-      "link": "https://theconversation.com/bien-etre-etudiant-le-temps-passe-avec-des-amis-compte-plus-que-le-sport-ou-le-sommeil-295714",
-      "image": "https://images.theconversation.com/files/770262/original/file-20261105-64-gpxsle.jpg?ixlib=rb-4.1.1&amp;rect=3%2C0%2C1273%2C848&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-21T08:32:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ar3zmwa",
-      "title": "À Antalya, une COP de « mise en œuvre », mais pourquoi et pour qui ? Le Nord ou le Sud ?",
-      "summary": "L’ESSENTIEL La COP31 devait être une « COP de la mise en œuvre », mais dans les faits, les deux dossiers (financement climatique Nord-Sud et sortie des énergies fossiles) ont de nouveau concentré l’essentiel des blocages, dans un contexte géopolitique marqué par la crise du détroit Ormuz. Premier problème : la gouverna",
-      "link": "https://theconversation.com/a-antalya-une-cop-de-mise-en-oeuvre-mais-pourquoi-et-pour-qui-le-nord-ou-le-sud-297072",
-      "image": "https://counter.theconversation.com/content/297072/count.gif",
-      "publishedAt": "2026-11-21T08:30:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -319,7 +319,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 48,
+      "urgency": 42,
       "urgencyLevel": "moyenne"
     },
     {
@@ -337,7 +337,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -353,8 +353,42 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "axijxlz",
+      "title": "Demain, l’intelligence artificielle assistera le chirurgien, mais qui décidera ?",
+      "summary": "L’ESSENTIEL Durant une opération, les chirurgiens font parfois face à des situations changeantes qui exigent d’eux de prendre des décisions rapides pour adapter leur stratégie. L’émergence de modèles d’intelligence artificielle capables de prédire les causes d’un événement et les effets d’une action pourrait aider les ",
+      "link": "https://theconversation.com/demain-lintelligence-artificielle-assistera-le-chirurgien-mais-qui-decidera-296871",
+      "image": "https://counter.theconversation.com/content/296871/count.gif",
+      "publishedAt": "2026-11-19T15:34:08.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "a727tk1",
+      "title": "Haïti : l’intervention militaire de Bukele, premier test à l’étranger de sa méthode contre les gangs",
+      "summary": "L’ESSENTIEL Le Salvador de Nayib Bukele déploie 2 500 soldats en Haïti pour combattre les gangs armés qui ont pris le contrôle de larges pans du pays. Les opérations militaires ont jusqu’ici été couronnées d’un certain succès, mais leurs effets sur la durée ne sont pas assurés et des inquiétudes sur les risques encouru",
+      "link": "https://theconversation.com/ha-ti-lintervention-militaire-de-bukele-premier-test-a-letranger-de-sa-methode-contre-les-gangs-296691",
+      "image": "https://images.theconversation.com/files/771391/original/file-20261111-64-7wow9g.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-19T15:34:32.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "aiodf7l",
@@ -371,8 +405,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "arwf7nl",
@@ -390,25 +424,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "axijxlz",
-      "title": "Demain, l’intelligence artificielle assistera le chirurgien, mais qui décidera ?",
-      "summary": "L’ESSENTIEL Durant une opération, les chirurgiens font parfois face à des situations changeantes qui exigent d’eux de prendre des décisions rapides pour adapter leur stratégie. L’émergence de modèles d’intelligence artificielle capables de prédire les causes d’un événement et les effets d’une action pourrait aider les ",
-      "link": "https://theconversation.com/demain-lintelligence-artificielle-assistera-le-chirurgien-mais-qui-decidera-296871",
-      "image": "https://counter.theconversation.com/content/296871/count.gif",
-      "publishedAt": "2026-11-19T15:34:08.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 39,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -424,7 +440,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -440,7 +456,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -456,23 +472,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 39,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a727tk1",
-      "title": "Haïti : l’intervention militaire de Bukele, premier test à l’étranger de sa méthode contre les gangs",
-      "summary": "L’ESSENTIEL Le Salvador de Nayib Bukele déploie 2 500 soldats en Haïti pour combattre les gangs armés qui ont pris le contrôle de larges pans du pays. Les opérations militaires ont jusqu’ici été couronnées d’un certain succès, mais leurs effets sur la durée ne sont pas assurés et des inquiétudes sur les risques encouru",
-      "link": "https://theconversation.com/ha-ti-lintervention-militaire-de-bukele-premier-test-a-letranger-de-sa-methode-contre-les-gangs-296691",
-      "image": "https://images.theconversation.com/files/771391/original/file-20261111-64-7wow9g.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-19T15:34:32.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 39,
+      "urgency": 34,
       "urgencyLevel": "basse"
     },
     {
@@ -491,7 +491,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -509,7 +509,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -525,7 +525,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -541,7 +541,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -557,7 +557,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -575,7 +575,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -591,7 +591,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -607,7 +607,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -623,7 +623,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -639,7 +639,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -655,7 +655,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -671,7 +671,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 29,
+      "urgency": 26,
       "urgencyLevel": "basse"
     },
     {
@@ -687,7 +687,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     },
     {
@@ -703,7 +703,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
+      "urgency": 24,
       "urgencyLevel": "basse"
     }
   ]
