@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T17:27:10.736Z",
+  "generatedAt": "2026-11-24T03:49:22.258Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 88,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
@@ -149,23 +149,39 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 78,
       "urgencyLevel": "haute"
     },
     {
-      "id": "a10mu2f",
-      "title": "Si Lucía Caminos est la première héroïne latino-américaine de « Grand Theft Auto », d’autres personnages de jeux vidéo avaient ouvert la voie",
-      "summary": "Lucia Caminos, le personnage principal de *Grand Theft Auto VI*, est une femme extrêmement ambitieuse qui voit dans la criminalité un moyen d’échapper au milieu dans lequel elle est née. Rockstar Games L’ESSENTIEL GTA VI est le premier titre de la série avec une protagoniste latino-américaine, Lucía Caminos. Longtemps ",
-      "link": "https://theconversation.com/si-lucia-caminos-est-la-premiere-hero-ne-latino-americaine-de-grand-theft-auto-dautres-personnages-de-jeux-video-avaient-ouvert-la-voie-297079",
-      "image": "https://images.theconversation.com/files/773031/original/file-20261112-64-navd2h.png?ixlib=rb-4.1.1&amp;rect=68%2C0%2C2306%2C1537&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-23T16:07:50.000Z",
+      "id": "a8y8rqg",
+      "title": "Lupus neuropsychiatrique : quand l’inflammation dérègle la chimie du cerveau",
+      "summary": "L’ESSENTIEL Le lupus est une maladie auto-immune qui attaque la peau, les articulations, les reins… mais qui peut également affecter le fonctionnement du cerveau. Anxiété, dépression, troubles de la mémoire ou difficultés de concentration : longtemps considérées comme des conséquences du stress ou de la fatigue liés à ",
+      "link": "https://theconversation.com/lupus-neuropsychiatrique-quand-linflammation-deregle-la-chimie-du-cerveau-297010",
+      "image": "https://counter.theconversation.com/content/297010/count.gif",
+      "publishedAt": "2026-11-23T18:40:17.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "acmqfkd",
+      "title": "Quiz Santé – Jouez avec The Conversation autour de l’histoire mouvementée du Mouvement français pour le planning familial",
+      "summary": "En promouvant l’accès à des contraceptifs modernes, le Plannig familial a tout au long de son histoire accompagné une des révolutions majeures de notre époque : la liberté de maîtriser sa fécondité. Le parcours de l’association nous raconte une aventure politique bien plus complexe que celle d’un progrès linéaire vers ",
+      "link": "https://theconversation.com/quiz-sante-jouez-avec-the-conversation-autour-de-lhistoire-mouvementee-du-mouvement-francais-pour-le-planning-familial-297358",
+      "image": "https://images.theconversation.com/files/641191/original/file-20250108-15-cmvupq.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-23T18:28:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -184,8 +200,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8m53mu",
@@ -202,72 +218,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "abv6fo4",
-      "title": "Adam Smith, 250 ans après « la Richesse des nations » : ce que la main invisible a fini par nous faire oublier",
-      "summary": "L’ESSENTIEL La Richesse des nations, l’ouvrage le plus connu d’Adam Smith, a paru en 1776, l’année de la déclaration d’indépendance des États-Unis. Sa postérité doit notamment à la notion de main invisible. Pour certains, elle fait de Smith le zélateur aveugle du marché. Son œuvre est beaucoup plus équilibrée et mesuré",
-      "link": "https://theconversation.com/adam-smith-250-ans-apres-la-richesse-des-nations-ce-que-la-main-invisible-a-fini-par-nous-faire-oublier-296719",
-      "image": "https://counter.theconversation.com/content/296719/count.gif",
-      "publishedAt": "2026-11-23T16:07:24.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a6ii36g",
-      "title": "La COP31 s’est achevée sans accord formel : et maintenant ?",
-      "summary": "Un groupe de représentants officiels à la COP31 autour de Chris Bowen (deuxième en partant de la gauche), président des négociations de la conférence d’Antalya et ministre australien chargé du changement climatique. Chris McGrath/Getty L’ESSENTIEL La COP31 s’est achevée dimanche 22 novembre à Antalya, en Turquie, sans ",
-      "link": "https://theconversation.com/la-cop31-sest-achevee-sans-accord-formel-et-maintenant-297342",
-      "image": "https://images.theconversation.com/files/773629/original/file-20261122-62-3z7z8g.jpg?ixlib=rb-4.1.1&amp;rect=157%2C1%2C4462%2C2975&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-23T16:05:05.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aqfjuwi",
-      "title": "Contre le virus Ebola, un essai évalue l’efficacité de médicaments pour empêcher la contamination chez les personnes contacts à haut risque",
-      "summary": "L’ESSENTIEL L’épidémie d’Ebola, qui a débuté en mai 2026 en Ouganda et en République démocratique du Congo (RDC), se poursuit. Elle est due à une espèce de virus Ebola (Ebola Bundibugyo) contre laquelle il n’existe ni vaccins ni traitements validés. Un essai thérapeutique a débuté en RDC pour évaluer l’efficacité de mé",
-      "link": "https://theconversation.com/contre-le-virus-ebola-un-essai-evalue-lefficacite-de-medicaments-pour-empecher-la-contamination-chez-les-personnes-contacts-a-haut-risque-293804",
-      "image": "https://counter.theconversation.com/content/293804/count.gif",
-      "publishedAt": "2026-11-23T16:02:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "a8t0zb1",
-      "title": "Ces abeilles sauvages possèdent un pouvoir étonnant qui pourrait contribuer à lutter contre la résistance aux antibiotiques",
-      "summary": "Le couvain en spirale de *Tetragonula carbonaria*, une minuscule abeille sans dard de la côte est de l’Australie, abrite les abeilles en développement. Queenzlander/Wikimedia Commons, CC BY L’ESSENTIEL Le miel et la propolis sont des agents antimicrobiens. Une nouvelle étude montre que le miel d’une abeille indigène au",
-      "link": "https://theconversation.com/ces-abeilles-sauvages-possedent-un-pouvoir-etonnant-qui-pourrait-contribuer-a-lutter-contre-la-resistance-aux-antibiotiques-296847",
-      "image": "https://images.theconversation.com/files/772966/original/file-20261119-64-nx9u2m.jpg?ixlib=rb-4.1.1&amp;rect=0%2C215%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-23T16:01:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aemf9m6",
@@ -284,8 +236,88 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a10mu2f",
+      "title": "Si Lucía Caminos est la première héroïne latino-américaine de « Grand Theft Auto », d’autres personnages de jeux vidéo avaient ouvert la voie",
+      "summary": "Lucia Caminos, le personnage principal de *Grand Theft Auto VI*, est une femme extrêmement ambitieuse qui voit dans la criminalité un moyen d’échapper au milieu dans lequel elle est née. Rockstar Games L’ESSENTIEL GTA VI est le premier titre de la série avec une protagoniste latino-américaine, Lucía Caminos. Longtemps ",
+      "link": "https://theconversation.com/si-lucia-caminos-est-la-premiere-hero-ne-latino-americaine-de-grand-theft-auto-dautres-personnages-de-jeux-video-avaient-ouvert-la-voie-297079",
+      "image": "https://images.theconversation.com/files/773031/original/file-20261112-64-navd2h.png?ixlib=rb-4.1.1&amp;rect=68%2C0%2C2306%2C1537&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-23T16:07:50.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "abv6fo4",
+      "title": "Adam Smith, 250 ans après « la Richesse des nations » : ce que la main invisible a fini par nous faire oublier",
+      "summary": "L’ESSENTIEL La Richesse des nations, l’ouvrage le plus connu d’Adam Smith, a paru en 1776, l’année de la déclaration d’indépendance des États-Unis. Sa postérité doit notamment à la notion de main invisible. Pour certains, elle fait de Smith le zélateur aveugle du marché. Son œuvre est beaucoup plus équilibrée et mesuré",
+      "link": "https://theconversation.com/adam-smith-250-ans-apres-la-richesse-des-nations-ce-que-la-main-invisible-a-fini-par-nous-faire-oublier-296719",
+      "image": "https://counter.theconversation.com/content/296719/count.gif",
+      "publishedAt": "2026-11-23T16:07:24.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6ii36g",
+      "title": "La COP31 s’est achevée sans accord formel : et maintenant ?",
+      "summary": "Un groupe de représentants officiels à la COP31 autour de Chris Bowen (deuxième en partant de la gauche), président des négociations de la conférence d’Antalya et ministre australien chargé du changement climatique. Chris McGrath/Getty L’ESSENTIEL La COP31 s’est achevée dimanche 22 novembre à Antalya, en Turquie, sans ",
+      "link": "https://theconversation.com/la-cop31-sest-achevee-sans-accord-formel-et-maintenant-297342",
+      "image": "https://images.theconversation.com/files/773629/original/file-20261122-62-3z7z8g.jpg?ixlib=rb-4.1.1&amp;rect=157%2C1%2C4462%2C2975&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-23T16:05:05.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aqfjuwi",
+      "title": "Contre le virus Ebola, un essai évalue l’efficacité de médicaments pour empêcher la contamination chez les personnes contacts à haut risque",
+      "summary": "L’ESSENTIEL L’épidémie d’Ebola, qui a débuté en mai 2026 en Ouganda et en République démocratique du Congo (RDC), se poursuit. Elle est due à une espèce de virus Ebola (Ebola Bundibugyo) contre laquelle il n’existe ni vaccins ni traitements validés. Un essai thérapeutique a débuté en RDC pour évaluer l’efficacité de mé",
+      "link": "https://theconversation.com/contre-le-virus-ebola-un-essai-evalue-lefficacite-de-medicaments-pour-empecher-la-contamination-chez-les-personnes-contacts-a-haut-risque-293804",
+      "image": "https://counter.theconversation.com/content/293804/count.gif",
+      "publishedAt": "2026-11-23T16:02:34.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a8t0zb1",
+      "title": "Ces abeilles sauvages possèdent un pouvoir étonnant qui pourrait contribuer à lutter contre la résistance aux antibiotiques",
+      "summary": "Le couvain en spirale de *Tetragonula carbonaria*, une minuscule abeille sans dard de la côte est de l’Australie, abrite les abeilles en développement. Queenzlander/Wikimedia Commons, CC BY L’ESSENTIEL Le miel et la propolis sont des agents antimicrobiens. Une nouvelle étude montre que le miel d’une abeille indigène au",
+      "link": "https://theconversation.com/ces-abeilles-sauvages-possedent-un-pouvoir-etonnant-qui-pourrait-contribuer-a-lutter-contre-la-resistance-aux-antibiotiques-296847",
+      "image": "https://images.theconversation.com/files/772966/original/file-20261119-64-nx9u2m.jpg?ixlib=rb-4.1.1&amp;rect=0%2C215%2C1280%2C853&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-23T16:01:46.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "afz99l0",
@@ -300,24 +332,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "aa7u069",
-      "title": "Dette publique : quelle différence entre la France de 2026 et la Grèce de 2009 ?",
-      "summary": "La France n’est pas la Grèce, mais certains parallèles interrogent. Esfera/Shutterstock (no reuse) L’ESSENTIEL Le rendement des obligations d’État françaises à dix ans a atteint 5 %, son plus haut depuis 2002, alors que le budget 2027 exige un effort de redressement de 54 milliards d’euros. La France n’est pas la Grèce",
-      "link": "https://theconversation.com/dette-publique-quelle-difference-entre-la-france-de-2026-et-la-grece-de-2009-295401",
-      "image": "https://images.theconversation.com/files/768852/original/file-20261027-52-ldf3n6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6389%2C4259&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-23T14:15:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "amd9vmu",
@@ -332,8 +348,24 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aa7u069",
+      "title": "Dette publique : quelle différence entre la France de 2026 et la Grèce de 2009 ?",
+      "summary": "La France n’est pas la Grèce, mais certains parallèles interrogent. Esfera/Shutterstock (no reuse) L’ESSENTIEL Le rendement des obligations d’État françaises à dix ans a atteint 5 %, son plus haut depuis 2002, alors que le budget 2027 exige un effort de redressement de 54 milliards d’euros. La France n’est pas la Grèce",
+      "link": "https://theconversation.com/dette-publique-quelle-difference-entre-la-france-de-2026-et-la-grece-de-2009-295401",
+      "image": "https://images.theconversation.com/files/768852/original/file-20261027-52-ldf3n6.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C6389%2C4259&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-23T14:15:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 66,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5sksbs",
@@ -348,8 +380,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aq7vkmm",
@@ -364,8 +396,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8sov81",
@@ -380,8 +412,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "auiksw5",
@@ -396,8 +428,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aremn91",
@@ -414,7 +446,7 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -432,7 +464,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -448,7 +480,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -467,7 +499,7 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -485,7 +517,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -501,7 +533,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -517,7 +549,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -533,7 +565,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
+      "urgency": 53,
       "urgencyLevel": "moyenne"
     },
     {
@@ -553,7 +585,7 @@
       ],
       "relevance": 90,
       "relevanceLevel": "haute",
-      "urgency": 50,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -569,7 +601,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -585,7 +617,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -603,7 +635,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 45,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -619,7 +651,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -635,7 +667,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -651,7 +683,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 31,
       "urgencyLevel": "basse"
     },
     {
@@ -669,42 +701,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "ak7ths5",
-      "title": "Engagements climatiques des entreprises : pourquoi les marchés financiers ne les récompensent (presque) pas",
-      "summary": "Selon l’étude, la plupart des engagements climatiques des entreprises ne sont pas associés à une meilleure valorisation boursière. Arthur Weidmann/Wikimedia Commons, CC BY-SA., CC BY L’ESSENTIEL Les marchés financiers ne récompensent pas automatiquement les entreprises qui adoptent des pratiques de gestion climatique. ",
-      "link": "https://theconversation.com/engagements-climatiques-des-entreprises-pourquoi-les-marches-financiers-ne-les-recompensent-presque-pas-296843",
-      "image": "https://images.theconversation.com/files/772825/original/file-20261118-64-st6w9m.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5255%2C3503&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-20T12:10:35.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 27,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "arwf7nl",
-      "title": "Place limitée de la science, désinformation climatique… ce que montre l’analyse des conversations en ligne sur la COP31",
-      "summary": "L’ESSENTIEL Des chercheurs de CY Cergy Université ont développé un tableau de bord numérique qui permet de suivre en temps réel les conversations sur la COP31 sur les réseaux sociaux. Au cours de la première semaine du sommet, du 9 au 15 novembre 2026, seulement 1,8 % des publications classées par le tableau de bord se",
-      "link": "https://theconversation.com/place-limitee-de-la-science-desinformation-climatique-ce-que-montre-lanalyse-des-conversations-en-ligne-sur-la-cop31-296968",
-      "image": "https://images.theconversation.com/files/772962/original/file-20261119-64-sv8wid.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-20T11:59:46.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "désinformation",
-        "réseaux sociaux"
-      ],
-      "relevance": 79,
-      "relevanceLevel": "haute",
-      "urgency": 26,
+      "urgency": 23,
       "urgencyLevel": "basse"
     }
   ]
