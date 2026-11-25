@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:59:05.171Z",
+  "generatedAt": "2026-11-25T01:55:16.320Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 79,
       "urgencyLevel": "haute"
     },
     {
@@ -149,7 +149,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 88,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "amp91t8",
+      "title": "L’issue de la COP31 était-elle prévisible ? Ce que montre l’analyse des discours en ligne",
+      "summary": "L’ESSENTIEL La COP31 devait être la COP de la mise en œuvre politique de l’accord de Paris. Des chercheurs ont passé au crible les discours en ligne relatifs au sommet pour voir dans quelle mesure cela fut le cas. L’analyse des échanges tenus sur le réseau social X montre que les publications sur le cadrage des négocia",
+      "link": "https://theconversation.com/lissue-de-la-cop31-etait-elle-previsible-ce-que-montre-lanalyse-des-discours-en-ligne-297305",
+      "image": "https://images.theconversation.com/files/773844/original/file-20261124-62-ovop21.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-24T17:29:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
       "urgencyLevel": "haute"
     },
     {
@@ -167,8 +183,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a9pudu",
@@ -185,8 +201,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "advl2c5",
@@ -201,8 +217,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "anjeb7n",
@@ -217,8 +233,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayz0upz",
@@ -233,8 +249,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ad2bg8h",
@@ -249,8 +265,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aygu6bm",
@@ -265,8 +281,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ak4sqec",
@@ -284,7 +300,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -303,7 +319,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -321,7 +337,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -339,7 +355,25 @@
       ],
       "relevance": 77,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a6bscud",
+      "title": "Décrochage, césure, réorientation : ces « pauses » qui redéfinissent l’entrée dans l’âge adulte",
+      "summary": "L’ESSENTIEL Dans les représentations courantes, le passage à l’âge adulte et l’accès à l’emploi sont des processus linéaires. Pourtant, de plus en plus de jeunes bifurquent, s’arrêtent dans leurs études, se réorientent. Ni échecs ni choix, ces pauses ne sont pas valorisées de la même manière selon les ressources famili",
+      "link": "https://theconversation.com/decrochage-cesure-reorientation-ces-pauses-qui-redefinissent-lentree-dans-lage-adulte-293058",
+      "image": "https://counter.theconversation.com/content/293058/count.gif",
+      "publishedAt": "2026-11-23T16:06:19.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "décrochage"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -359,7 +393,7 @@
       ],
       "relevance": 71,
       "relevanceLevel": "haute",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -377,7 +411,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -395,73 +429,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aae0axb",
-      "title": "Agressivité, impulsivité, opposition : comprendre avant d’intervenir",
-      "summary": "Comment accompagner un enfant qui perd le contrôle de ses émotions ? Le numéro 203 de la revue ANAE consacre un dossier à la dysrégulation émotionnelle et aux troubles du L’article Agressivité, impulsivité, opposition : comprendre avant d’intervenir est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/24/agressivite-impulsivite-opposition-comprendre-avant-dintervenir/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/906769192_3997008620439263_78150394634877641_n-e1795499052502-212x300.png",
-      "publishedAt": "2026-11-24T04:29:56.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "afpyrv",
-      "title": "Festival du film d’éducation : 80 films pour éclairer le monde et ses possibles",
-      "summary": "Le Festival international du film d’éducation (FIFE), est organisé par les CEMÉA depuis plus de 20 ans. A travers les parcours de vie qu’il présente, il tresse, encore lors de L’article Festival du film d’éducation : 80 films pour éclairer le monde et ses possibles est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/24/festival-du-film-deducation-80-films-pour-eclairer-le-monde-et-ses-possibles/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/educ-198x300.png",
-      "publishedAt": "2026-11-24T04:28:30.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "as5u574",
-      "title": "L’art du paysage et son évolution au musée Marmottan Monet",
-      "summary": "À l’occasion du centenaire de la disparition de Claude Monet, le musée Marmottan à Paris qui lui est dédié, accueille, jusqu’au 31 janvier 2027, l’exposition » Histoires de paysages. De L’article L’art du paysage et son évolution au musée Marmottan Monet est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/24/lart-du-paysage-et-son-evolution-au-musee-marmottan-monet/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/affiche-MMM-Histoires-de-paysages-203x300.jpg",
-      "publishedAt": "2026-11-24T04:28:26.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 67,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6bscud",
-      "title": "Décrochage, césure, réorientation : ces « pauses » qui redéfinissent l’entrée dans l’âge adulte",
-      "summary": "L’ESSENTIEL Dans les représentations courantes, le passage à l’âge adulte et l’accès à l’emploi sont des processus linéaires. Pourtant, de plus en plus de jeunes bifurquent, s’arrêtent dans leurs études, se réorientent. Ni échecs ni choix, ces pauses ne sont pas valorisées de la même manière selon les ressources famili",
-      "link": "https://theconversation.com/decrochage-cesure-reorientation-ces-pauses-qui-redefinissent-lentree-dans-lage-adulte-293058",
-      "image": "https://counter.theconversation.com/content/293058/count.gif",
-      "publishedAt": "2026-11-23T16:06:19.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [
-        "décrochage"
-      ],
-      "relevance": 73,
-      "relevanceLevel": "haute",
-      "urgency": 66,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -477,7 +445,55 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 66,
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aae0axb",
+      "title": "Agressivité, impulsivité, opposition : comprendre avant d’intervenir",
+      "summary": "Comment accompagner un enfant qui perd le contrôle de ses émotions ? Le numéro 203 de la revue ANAE consacre un dossier à la dysrégulation émotionnelle et aux troubles du L’article Agressivité, impulsivité, opposition : comprendre avant d’intervenir est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/24/agressivite-impulsivite-opposition-comprendre-avant-dintervenir/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/906769192_3997008620439263_78150394634877641_n-e1795499052502-212x300.png",
+      "publishedAt": "2026-11-24T04:29:56.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "afpyrv",
+      "title": "Festival du film d’éducation : 80 films pour éclairer le monde et ses possibles",
+      "summary": "Le Festival international du film d’éducation (FIFE), est organisé par les CEMÉA depuis plus de 20 ans. A travers les parcours de vie qu’il présente, il tresse, encore lors de L’article Festival du film d’éducation : 80 films pour éclairer le monde et ses possibles est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/24/festival-du-film-deducation-80-films-pour-eclairer-le-monde-et-ses-possibles/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/educ-198x300.png",
+      "publishedAt": "2026-11-24T04:28:30.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "as5u574",
+      "title": "L’art du paysage et son évolution au musée Marmottan Monet",
+      "summary": "À l’occasion du centenaire de la disparition de Claude Monet, le musée Marmottan à Paris qui lui est dédié, accueille, jusqu’au 31 janvier 2027, l’exposition » Histoires de paysages. De L’article L’art du paysage et son évolution au musée Marmottan Monet est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/24/lart-du-paysage-et-son-evolution-au-musee-marmottan-monet/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/affiche-MMM-Histoires-de-paysages-203x300.jpg",
+      "publishedAt": "2026-11-24T04:28:26.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -493,7 +509,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -509,7 +525,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 58,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -528,7 +544,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -546,7 +562,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -562,7 +578,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -578,7 +594,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -594,7 +610,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -610,7 +626,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -626,7 +642,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 56,
+      "urgency": 49,
       "urgencyLevel": "moyenne"
     },
     {
@@ -642,7 +658,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 55,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -658,7 +674,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 54,
+      "urgency": 47,
       "urgencyLevel": "moyenne"
     },
     {
@@ -674,7 +690,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -690,23 +706,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "auiksw5",
-      "title": "Quand Microsoft tombe, le pouvoir des Big Tech apparaît au grand jour",
-      "summary": "L’ESSENTIEL La récente panne mondiale de Microsoft 365 révèle une dimension souvent moins visible du pouvoir des grandes entreprises technologiques. Au fil du temps, ces géants de la tech ont développé une capacité à structurer les conditions dans lesquelles nous travaillons, communiquons et agissons. Est-il encore pos",
-      "link": "https://theconversation.com/quand-microsoft-tombe-le-pouvoir-des-big-tech-apparait-au-grand-jour-296718",
-      "image": "https://counter.theconversation.com/content/296718/count.gif",
-      "publishedAt": "2026-11-23T10:27:38.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     }
   ]
