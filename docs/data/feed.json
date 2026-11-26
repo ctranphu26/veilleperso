@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:35:21.036Z",
+  "generatedAt": "2026-11-26T16:25:52.232Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,22 +119,159 @@
   "count": 35,
   "items": [
     {
-      "id": "a1sbevq",
-      "title": "Violences sexistes et racistes : deux professeures lanceuses d’alerte mutées d’office",
-      "summary": "« Brisons le silence, agissons ensemble », c’est bien tout un chantier à tous les étages de l’Education nationale. Les lanceurs d’alerte sont-ils aujourd’hui victimes d’un système dysfonctionnel et autoritaire L’article Violences sexistes et racistes : deux professeures lanceuses d’alerte mutées d’office est apparu en ",
-      "link": "https://www.cafepedagogique.net/2026/11/25/violences-sexistes-et-racistes-deux-professeures-lanceuses-dalerte-mutees-doffice/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/image0000001-300x169.jpeg",
-      "publishedAt": "2026-11-25T05:00:55.000Z",
+      "id": "a5e4gyl",
+      "title": "Des centaines de problèmes résolus par l’IA : une menace pour l’avenir des mathématiques ?",
+      "summary": "En 2026, des modèles d’intelligence artificielle ont produit des solutions à des centaines de problèmes mathématiques restés ouverts pendant des décennies. Andrew Angelov / Shutterstock L’ESSENTIEL En 2026, OpenAI et Anthropic ont annoncé que leurs solutions d'IA ont trouvé des solutions à des problèmes qui résistaient",
+      "link": "https://theconversation.com/des-centaines-de-problemes-resolus-par-lia-une-menace-pour-lavenir-des-mathematiques-297425",
+      "image": "https://images.theconversation.com/files/773870/original/file-20261027-62-aev245.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4447%2C2964&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-26T13:43:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "apa2r8f",
+      "title": "Questionnaires VSS : pourquoi la FSU demande leur suspension ?",
+      "summary": "La FSU (Fédération syndicale unitaire) alerte sur les conditions de déploiement des questionnaires de repérage des violences sexistes et sexuelles (VSS). Le syndicat dénonce une élaboration précipitée, un manque de L’article Questionnaires VSS : pourquoi la FSU demande leur suspension ? est apparu en premier sur Le Caf",
+      "link": "https://www.cafepedagogique.net/2026/11/26/questionnaires-vss-pourquoi-la-fsu-demande-leur-suspension/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/fsu-300x166.png",
+      "publishedAt": "2026-11-26T04:26:28.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "inclusion",
+      "keywords": [
+        "violences"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 87,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "at0rxyy",
+      "title": "La Grande Lessive 2027 hisse haut l’Ecole",
+      "summary": "Manifestation d’art participatif, la prochaine Grande Lessive aura lieu le 18 mars 2027 sur le thème « Haut l’école ! ». Créée en 2006 par Joëlle Gonthier, La Grande Lessive® L’article La Grande Lessive 2027 hisse haut l’Ecole est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/26/la-grande-lessive-2027-hisse-haut-lecole/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/La-Grande-Lessive-2027-hisse-haut-lEcole-300x225.png",
+      "publishedAt": "2026-11-26T04:29:38.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [
-        "professeur"
+        "école"
       ],
-      "relevance": 77,
+      "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 80,
+      "urgency": 77,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "abk3b28",
+      "title": "Le SNCI-FO dénonce une logique de contrôle des personnels",
+      "summary": "Le SNCI-FO s’inquiète des recommandations du rapport de l’IGÉSR sur les blocages lycéens. Dans un communiqué du 24 novembre, le syndicat dénonce l’absence de réponses aux revendications matérielles des lycéens. L’article Le SNCI-FO dénonce une logique de contrôle des personnels est apparu en premier sur Le Café pédagog",
+      "link": "https://www.cafepedagogique.net/2026/11/26/le-snci-fo-refuse-une-mise-sous-pression-des-inspecteurs/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/snci-fo.png",
+      "publishedAt": "2026-11-26T04:27:48.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 77,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "atu2h2l",
+      "title": "En Europe, des arbres millénaires subsistent à flanc de falaise",
+      "summary": "Deux genévriers de Phénicie dans les gorges de Galamus (à gauche) et dans les gorges de l’Ardèche (à droite). Thierry Gauquelin, Fourni par l'auteur L’ESSENTIEL Il reste peu d’arbres millénaires en Europe. On peut cependant en trouver encore à flanc de falaise, dans les gorges de l’Ardèche par exemple. Pour survivre da",
+      "link": "https://theconversation.com/en-europe-des-arbres-millenaires-subsistent-a-flanc-de-falaise-295710",
+      "image": "https://images.theconversation.com/files/769999/original/file-20261104-64-mueed7.jpg?ixlib=rb-4.1.1&amp;rect=560%2C0%2C1225%2C817&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-26T10:21:25.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2h7s39",
+      "title": "Questionnaire VSS : la case ne remplace pas les mots",
+      "summary": "Depuis le 2 novembre, les élèves de la grande section de maternelle à la terminale sont invités à remplir un questionnaire de repérage des violences sexistes et sexuelles. Pour Samuel L’article Questionnaire VSS : la case ne remplace pas les mots est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/26/questionnaire-vss-la-case-ne-remplace-pas-les-mots/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Samuel-Lequette-300x300.jpeg",
+      "publishedAt": "2026-11-26T04:35:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "anu8f5s",
+      "title": "Mobilisation lycéenne : le rapport de l’inspection donne la parole aux seuls proviseurs",
+      "summary": "Une « présence préventive et prévisible des forces de l’ordre », une « réponse disciplinaire et pénale rapide », une sécurisation juridique des obligations de service : ce sont trois L’article Mobilisation lycéenne : le rapport de l’inspection donne la parole aux seuls proviseurs est apparu en premier sur Le Café pédag",
+      "link": "https://www.cafepedagogique.net/2026/11/26/mobilisation-lyceenne-le-rapport-de-linspection-donne-la-parole-aux-seuls-proviseurs/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/IGESR-253x300.png",
+      "publishedAt": "2026-11-26T05:00:20.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "agcogvz",
+      "title": "L’utilisation politique de la sanction scolaire",
+      "summary": "Le conseil de discipline à la main du DASEN : « Qui peut se satisfaire d’une société où l’état d’exception devient ainsi la norme » demande Edmond Porra en pointant les dérives politiques L’article L’utilisation politique de la sanction scolaire est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/26/lutilisation-politique-de-la-sanction-scolaire/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/Edmond-Porra-Cafe-pedagogique-225x300.jpg",
+      "publishedAt": "2026-11-26T04:45:03.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "ap0xcyp",
+      "title": "UdPPC : « Nos collègues ont besoin de continuité »",
+      "summary": "En cette année scolaire aux enjeux particulièrement cruciaux pour l’Ecole, le Café pédagogique a souhaité mettre en lumière les associations enseignantes, leur engagement et leurs projets. Pour le quatrième volet L’article UdPPC : « Nos collègues ont besoin de continuité » est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/26/udppc-nos-collegues-ont-besoin-de-continuite/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/UDPPC-PHOTOPhilippe-Goutverg-211x300.jpg",
+      "publishedAt": "2026-11-26T04:30:17.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école",
+        "enseignant"
+      ],
+      "relevance": 64,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2kheou",
@@ -149,8 +286,56 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 80,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aeb4nyl",
+      "title": "Le Bup physique-chimie de novembre est paru",
+      "summary": "Comment faire revivre les expériences fondatrices de la physique, approfondir les outils mathématiques et explorer les phénomènes astrophysiques ? Ce numéro du Bup propose un parcours riche entre histoire des sciences, L’article Le Bup physique-chimie de novembre est paru est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/26/le-bup-physique-chimie-de-novembre-est-paru/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/bup-213x300.png",
+      "publishedAt": "2026-11-26T04:29:31.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "akikhed",
+      "title": "À Ajaccio, une exposition plonge dans les profondeurs de l’océan",
+      "summary": "Et si l’art nous emmenait à la découverte des abysses ? Jusqu’au 14 février 2027, le Palais Fesch – musée des Beaux-Arts d’Ajaccio présente l’exposition « Affundà, l’expédition… ». Les L’article À Ajaccio, une exposition plonge dans les profondeurs de l’océan est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/26/a-ajaccio-une-exposition-plonge-dans-les-profondeurs-de-locean/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/corse-230x300.png",
+      "publishedAt": "2026-11-26T04:28:52.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "astycez",
+      "title": "Explorer l’univers de Simone Fattal au Musée d’Art Moderne",
+      "summary": "Le Musée d’Art Moderne de Paris consacre jusqu’au 24 janvier 2027, une rétrospective à Simone Fattal, artiste libano-américaine, née en 1942 à Damas, et installée à Paris depuis de nombreuses L’article Explorer l’univers de Simone Fattal au Musée d’Art Moderne est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/26/explorer-lunivers-de-simone-fattal-au-musee-dart-moderne/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/simone-fattal-199x300.png",
+      "publishedAt": "2026-11-26T04:28:12.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "axlkpsm",
@@ -165,8 +350,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 63,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atku02l",
@@ -183,8 +368,8 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 75,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a7yz24t",
@@ -201,8 +386,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "avjn0px",
@@ -219,8 +404,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agudsjj",
@@ -235,8 +420,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ao6qktx",
@@ -251,8 +436,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a13wswb",
@@ -267,8 +452,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ahtr6o6",
@@ -283,8 +468,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "awir5er",
@@ -299,61 +484,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "ahgy8t4",
-      "title": "Créer 250 000 places dans les enseignements supérieurs ?",
-      "summary": "La revendication de créer 250 000 places dans le supérieur, une folie ? Au regard de l’Histoire, l’historien Claude Lelièvre ne juge pas cette annonce « stratosphérique » irréalisable, puisque L’article Créer 250 000 places dans les enseignements supérieurs ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/25/creer-250-000-places-dans-les-enseignements-superieurs/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/08/claude-lelievre_historien-300x200.jpg",
-      "publishedAt": "2026-11-25T04:45:14.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aspcv0s",
-      "title": "Lycée : les doublements en hausse à la rentrée 2026",
-      "summary": "Les doublements progressent à tous les niveaux du lycée général et technologique. Selon les dernières données de la DEPP, 3,4 % des élèves de seconde redoublent à la rentrée 2026, L’article Lycée : les doublements en hausse à la rentrée 2026 est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/25/lycee-les-doublements-en-hausse-a-la-rentree-2026/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/01/chiffre-du-jour-Cafe-pedagogique-300x300.jpg",
-      "publishedAt": "2026-11-25T04:27:58.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3o7yrn",
-      "title": "Une année plus tard… que voulons nous voir ?",
-      "summary": "« Les mots sont devenus texte, les textes sont devenus loi. Et maintenant… on en fait quoi ? » Un an après son témoignage en tant que victime de violences L’article Une année plus tard… que voulons nous voir ? est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/25/un-annee-plus-tard-que-voulons-nous-voir/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/moi-e1795584946967-237x300.png",
-      "publishedAt": "2026-11-25T04:49:36.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 54,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -371,7 +502,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -389,7 +520,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -405,7 +536,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -421,25 +552,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aeo3r2f",
-      "title": "« Tu les laisses aller aux toilettes pendant la classe ? »",
-      "summary": "Claire et Estelle enseignent toutes les deux en élémentaire. Lors d’un entretien croisé, elles regardent une vidéo tournée dans la classe de Claire, qui explique une procédure de mathématiques au L’article « Tu les laisses aller aux toilettes pendant la classe ? » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/25/tu-les-laisses-aller-aux-toilettes-pendant-la-classe/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/099-200507-Cafe-pedagogique-Reportage-Ecoles-2P8A9678-300x200.jpg",
-      "publishedAt": "2026-11-25T04:30:48.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "classe"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 59,
+      "urgency": 51,
       "urgencyLevel": "moyenne"
     },
     {
@@ -457,25 +570,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2g6kya",
-      "title": "AE-EPS : soirée-débat avec Bernard Lahire",
-      "summary": "L’AE-EPS (association pour l’enseignement de l’éducation physique et sportive) invite chacun·e, adhérent·e ou non adhérent·e à l’association, à son 66e Bistrot pédagogique, « Les savoirs et la vie ». Rendez-vous jeudi 3 L’article AE-EPS : soirée-débat avec Bernard Lahire est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/25/ae-eps-soiree-debat-avec-bernard-lahire/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/aa-eps-300x205.png-1.webp",
-      "publishedAt": "2026-11-25T04:27:13.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "enseignement"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -491,73 +586,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ap888ee",
-      "title": "Littérature jeunesse : petits livres pour petits enfants",
-      "summary": "Pour les tout-petits, deux livres cartonnés qui permettent de manipuler tout seul. Le premier met en regard ce que vit l’enfant avec des animaux, le deuxième incite au mouvement par L’article Littérature jeunesse : petits livres pour petits enfants est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/25/litterature-jeunesse-petits-livres-pour-petits-enfants/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/presque-pareils-tourne-et-envole-toi-151x300.jpeg",
-      "publishedAt": "2026-11-25T04:29:28.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amad9tc",
-      "title": "Cinéma :  « Congo Boy » de Rafiki Fariala",
-      "summary": "Peut-on rêver de devenir chanteur quand on est un réfugié congolais en Centrafrique ? Avoir fui la guerre ravageant sa terre natale pour subir l’explosion de violence du pays d’asile L’article Cinéma : « Congo Boy » de Rafiki Fariala est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/25/cinema-congo-boy-de-rafiki-fariala/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/congo-boy-221x300.jpg",
-      "publishedAt": "2026-11-25T04:28:52.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a6ylafa",
-      "title": "Cinéma : « Vrai de vrai », le festival du documentaire  ouvert à tous",
-      "summary": "A l’initiative de la Société civile des auteurs multimédia (Scam), le MK2 Bibliothèque nous offre de découvrir gratuitement sur grand écran 30 documentaires remarquables et reportages engagés, associés chaque fois L’article Cinéma : « Vrai de vrai », le festival du documentaire ouvert à tous est apparu en premier sur L",
-      "link": "https://www.cafepedagogique.net/2026/11/25/cinema-vrai-de-vrai-le-festival-du-documentaire-ouvert-a-tous/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/261006_vdv_affiche_web_2500x3405px_72DPI_RVB-scaled-1-220x300.jpg",
-      "publishedAt": "2026-11-25T04:28:22.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "auk77lm",
-      "title": "Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 !",
-      "summary": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche L’article Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 ! est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/25/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Forum-du-Cafe-pedagogique-enseignants-Paris-2027-234x300.png",
-      "publishedAt": "2026-11-24T23:01:41.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 77,
-      "relevanceLevel": "haute",
-      "urgency": 55,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -573,7 +602,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -591,25 +620,7 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a9pudu",
-      "title": "Sans le travail des graphistes, il n’y aurait pas de cinéma",
-      "summary": "Image extraite de la série *Becoming Karl Lagerfeld* (Isaure Pisani-Ferry, Jennifer Have et Raphaëlle Bacqué, 2024), exemple d’habillage avec un faux tapis. Capture d’écran. L’ESSENTIEL Au-delà de l’écriture, de la réalisation et du jeu, une équipe de film mobilise de multiples métiers de la création, dont le graphisme",
-      "link": "https://theconversation.com/sans-le-travail-des-graphistes-il-ny-aurait-pas-de-cinema-296963",
-      "image": "https://images.theconversation.com/files/773836/original/file-20261124-62-6ujvjv.png?ixlib=rb-4.1.1&amp;rect=155%2C0%2C2525%2C1683&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-24T15:05:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "image"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -625,7 +636,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -641,7 +652,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -657,7 +668,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -673,7 +684,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -689,24 +700,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 49,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a8y8rqg",
-      "title": "Lupus neuropsychiatrique : quand l’inflammation dérègle la chimie du cerveau",
-      "summary": "L’ESSENTIEL Le lupus est une maladie auto-immune qui attaque la peau, les articulations, les reins… mais qui peut également affecter le fonctionnement du cerveau. Anxiété, dépression, troubles de la mémoire ou difficultés de concentration : longtemps considérées comme des conséquences du stress ou de la fatigue liés à ",
-      "link": "https://theconversation.com/lupus-neuropsychiatrique-quand-linflammation-deregle-la-chimie-du-cerveau-297010",
-      "image": "https://counter.theconversation.com/content/297010/count.gif",
-      "publishedAt": "2026-11-23T18:40:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 37,
-      "urgencyLevel": "basse"
     }
   ]
 }
