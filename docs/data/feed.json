@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:29:42.642Z",
+  "generatedAt": "2026-11-27T16:10:54.471Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,22 +119,291 @@
   "count": 35,
   "items": [
     {
-      "id": "apa2r8f",
-      "title": "Questionnaires VSS : pourquoi la FSU demande leur suspension ?",
-      "summary": "La FSU (Fédération syndicale unitaire) alerte sur les conditions de déploiement des questionnaires de repérage des violences sexistes et sexuelles (VSS). Le syndicat dénonce une élaboration précipitée, un manque de L’article Questionnaires VSS : pourquoi la FSU demande leur suspension ? est apparu en premier sur Le Caf",
-      "link": "https://www.cafepedagogique.net/2026/11/26/questionnaires-vss-pourquoi-la-fsu-demande-leur-suspension/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/03/fsu-300x166.png",
-      "publishedAt": "2026-11-26T04:26:28.000Z",
+      "id": "a7z6zx4",
+      "title": "Fausses images scientifiques et IA : quand la méfiance gagne jusqu’aux revues académiques",
+      "summary": "Un microscope électronique à balayage dans un laboratoire de chimie physique à Prague, en République tchèque, en 2020. La production de telles images exigeait jadis un équipement lourd, gage d’authenticité que l’IA remet aujourd’hui en cause. Tadeáš Bednarz/Wikimedia Commons, CC BY L’ESSENTIEL En 2024, deux études ont ",
+      "link": "https://theconversation.com/fausses-images-scientifiques-et-ia-quand-la-mefiance-gagne-jusquaux-revues-academiques-297662",
+      "image": "https://images.theconversation.com/files/774477/original/file-20261126-62-4yxlti.jpg?ixlib=rb-4.1.1&amp;rect=0%2C116%2C4488%2C2992&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-27T09:14:07.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "image"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 82,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "afw409c",
+      "title": "Conseils de discipline : le projet de décret reporté au CSE",
+      "summary": "Le projet de décret sur les conseils de discipline a été retiré de l’ordre du jour du Conseil supérieur de l’éducation (CSE) du 26 novembre. Il doit être retravaillé et L’article Conseils de discipline : le projet de décret reporté au CSE est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/27/conseils-de-discipline-le-projet-de-decret-reporte-au-cse/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/snes-300x225.jpg",
+      "publishedAt": "2026-11-27T04:49:07.000Z",
       "source": "Le Café pédagogique",
       "sourceId": "cafe-pedagogique",
-      "themeId": "inclusion",
+      "themeId": "enseignement",
       "keywords": [
-        "violences"
+        "décret"
+      ],
+      "relevance": 81,
+      "relevanceLevel": "haute",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a1slhc3",
+      "title": "Conseils de discipline : le DASEN à la place du chef d’établissement, une bombe à retardement",
+      "summary": "« Quel que soit le terme, quel principal, quel proviseur accepterait de bon gré, (…) la dépossession d’une instance de décision, non pas individuelle mais collective et qui relève au L’article Conseils de discipline : le DASEN à la place du chef d’établissement, une bombe à retardement est apparu en premier sur Le Café",
+      "link": "https://www.cafepedagogique.net/2026/11/27/conseils-de-discipline-le-dasen-a-la-place-du-chef-detablissement-une-bombe-a-retardement/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Jean-Pierre-Landais-224x300.png",
+      "publishedAt": "2026-11-27T04:50:49.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 79,
+      "urgency": 78,
       "urgencyLevel": "haute"
+    },
+    {
+      "id": "at76f7t",
+      "title": "« Le Journal d’un prisonnier » de Nicolas Sarkozy, un tour de passe-passe rhétorique ?",
+      "summary": "L’ESSENTIEL L’ancien chef de l’État a été condamné, en 2025, à cinq ans d’emprisonnement pour association de malfaiteurs – il est en effet soupçonné de financement illégal de sa campagne présidentielle de 2007 par le régime de Mouammar Kadhafi. Ayant fait appel de cette condamnation, il n’a passé qu’une vingtaine de jo",
+      "link": "https://theconversation.com/le-journal-dun-prisonnier-de-nicolas-sarkozy-un-tour-de-passe-passe-rhetorique-297415",
+      "image": "https://counter.theconversation.com/content/297415/count.gif",
+      "publishedAt": "2026-11-27T12:51:40.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 76,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a2q00ow",
+      "title": "Comment une astuce utilisée en marketing incite les rats à entrer dans les pièges",
+      "summary": "L’ESSENTIEL En Australie, un appât inaccessible devant un tunnel a accru de 83 % les entrées de rats noirs. Emprunté au marketing, cet effet de « leurre fantôme » modifie la façon dont le rongeur évalue les choix disponibles. Sans nouveau modèle de piège, cette méthode peu coûteuse pourrait améliorer la dératisation co",
+      "link": "https://theconversation.com/comment-une-astuce-utilisee-en-marketing-incite-les-rats-a-entrer-dans-les-pieges-297752",
+      "image": "https://counter.theconversation.com/content/297752/count.gif",
+      "publishedAt": "2026-11-27T10:39:59.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 74,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "acqz2da",
+      "title": "Hongrie, Serbie : pourquoi jouer l’Est contre l’Ouest pourrait ne plus rapporter aux petits États européens",
+      "summary": "Les États d’Europe centrale et orientale et des Balkans ont vu leur poids et leur influence augmenter nettement dans la dynamique interne de l’UE à 27, mais ils s’efforcent aussi de protéger leurs liens économiques avec la Chine et la Russie. iunewind/Shutterstock L’ESSENTIEL La Hongrie et la Serbie ont longtemps culti",
+      "link": "https://theconversation.com/hongrie-serbie-pourquoi-jouer-lest-contre-louest-pourrait-ne-plus-rapporter-aux-petits-etats-europeens-297251",
+      "image": "https://images.theconversation.com/files/773406/original/file-20261117-64-l95m3i.jpg?ixlib=rb-4.1.1&amp;rect=224%2C0%2C5251%2C3500&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-27T09:17:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 73,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "agm25b7",
+      "title": "Le journalisme scientifique est-il en train de mourir ? Ce qu’enseigne le « krach » de 1986",
+      "summary": "Un kiosque à journaux à New York en 2008. Aux États-Unis, la presse écrite généraliste et scientifique subit depuis plusieurs décennies l’érosion de la diffusion papier. Ray Dehler via Wikimedia Commons, CC BY L’ESSENTIEL Aux États-Unis, seuls 11 des 29 grands magazines de vulgarisation scientifique créés depuis le XIX",
+      "link": "https://theconversation.com/le-journalisme-scientifique-est-il-en-train-de-mourir-ce-quenseigne-le-krach-de-1986-297750",
+      "image": "https://images.theconversation.com/files/774677/original/file-20261127-62-gr39yw.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C3888%2C2592&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-27T09:14:56.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "journalisme"
+      ],
+      "relevance": 73,
+      "relevanceLevel": "haute",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a8l4xfm",
+      "title": "Pourquoi faire confiance à la science n’empêche pas de croire aux théories du complot",
+      "summary": "Lors de la deuxième Marche pour la science à Portland, dans l’Oregon, des manifestants défendent la recherche en 2018. Png Studio Photography/Shutterstock L’ESSENTIEL Selon une étude sur 843 résidents états-uniens, se représenter le progrès scientifique comme l’œuvre de « génies solitaires » favorise l’adhésion aux thé",
+      "link": "https://theconversation.com/pourquoi-faire-confiance-a-la-science-nempeche-pas-de-croire-aux-theories-du-complot-297664",
+      "image": "https://images.theconversation.com/files/774472/original/file-20260716-57-vk93h5.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4742%2C3161&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-27T09:14:30.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 72,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "az04re5",
+      "title": "What Cop31 tells us about small island states’ leadership in the global climate debate",
+      "summary": "KEY TAKEAWAYS Cop31 highlighted how, even though small island developing states’ climate leadership faces growing challenges, its influence is evolving. Two-speed multilateralism offers new opportunities but also creates risks. Pacific leadership on climate issues is visible through coordinated diplomatic positions, ef",
+      "link": "https://theconversation.com/what-cop31-tells-us-about-small-island-states-leadership-in-the-global-climate-debate-297568",
+      "image": "https://images.theconversation.com/files/774359/original/file-20261125-63-pv6hyi.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-27T07:39:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 71,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ayg4u4k",
+      "title": "Géraldine Cecconi à la sous-direction du budget de la recherche et de l’enseignement supérieur",
+      "summary": "Géraldine Cecconi est nommée sous-directrice du budget de la mission interministérielle « Recherche et enseignement supérieur ». Administratrice de l’État hors classe, elle exercera ses fonctions à la direction des L’article Géraldine Cecconi à la sous-direction du budget de la recherche et de l’enseignement supérieur ",
+      "link": "https://www.cafepedagogique.net/2026/11/27/geraldine-cecconi-a-la-sous-direction-du-budget-de-la-recherche-et-de-lenseignement-superieur/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/cabinet-ministre-rue-de-Grenelle-Cafe-pedagogique-e1730662316876-300x249.jpg",
+      "publishedAt": "2026-11-27T04:27:49.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement",
+        "classe"
+      ],
+      "relevance": 85,
+      "relevanceLevel": "haute",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "af74tzb",
+      "title": "Public et privé : ce que dit vraiment PISA 2025",
+      "summary": "Retour sur les résultats de PISA, avec un focus sur l’écart entre les élèves du privé et du public, une histoire d’inégalités comme le documente le chercheur Hugo Attali. Les L’article Public et privé : ce que dit vraiment PISA 2025 est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/27/public-et-prive-ce-que-dit-vraiment-pisa-2025/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/10/hugoAttali-e1790868239813-237x300.png",
+      "publishedAt": "2026-11-27T04:55:51.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aegogn4",
+      "title": "Prendre la parole à l’ère numérique",
+      "summary": "« Le développement du numérique, et plus récemment de l’IA, rebat les cartes de la parole, de la lecture, de l’écoute », écrit Bruno Devauchelle dans sa chronique. L’Ecole en L’article Prendre la parole à l’ère numérique est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/27/prendre-la-parole-a-lere-numerique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Bruno-D-281x300.jpeg",
+      "publishedAt": "2026-11-27T04:45:49.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "école"
+      ],
+      "relevance": 54,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aszroro",
+      "title": "Inspecteurs : la mise au pas, à tous les étages",
+      "summary": "Conseiller, ou simplement obéir ? Des inspecteurs généraux aux IEN, en passant par les IA-IPR, les corps d’inspection voient leurs missions réécrites par le ministère, sans concertation. Les nouvelles fiches L’article Inspecteurs : la mise au pas, à tous les étages est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/27/inspecteurs-la-mise-au-pas-a-tous-les-etages/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Classe-attentive-face-au-professeur-300x200.png",
+      "publishedAt": "2026-11-27T05:00:34.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a14jllx",
+      "title": "Anne Genetet défend le dialogue avec le RN, les syndicats dénoncent une mise en cause de leur position",
+      "summary": "Où s’arrête le pluralisme démocratique et où commence la banalisation de l’extrême droite ? L’ancienne ministre de l’Éducation nationale reproche aux organisations syndicales leur refus de participer à une audition L’article Anne Genetet défend le dialogue avec le RN, les syndicats dénoncent une mise en cause de leur p",
+      "link": "https://www.cafepedagogique.net/2026/11/27/anne-genetet-defend-le-dialogue-avec-le-rn-les-syndicats-denoncent-une-mise-en-cause-de-leur-position/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/anne-Genetet-e1731870205671-298x300.jpg",
+      "publishedAt": "2026-11-27T04:54:37.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a74j4q3",
+      "title": "HGGSP : « L’échec de la COP31, acte de décès de la coopération internationale dans la lutte contre le changement climatique ? »",
+      "summary": "Réunie à Antalya depuis le 9 novembre 2026, la 31e conférence des parties (COP31) a pris fin ce dimanche 22 novembre, après une prolongation de plus de 48 heures par L’article HGGSP : « L’échec de la COP31, acte de décès de la coopération internationale dans la lutte contre le changement climatique ? » est apparu en pr",
+      "link": "https://www.cafepedagogique.net/2026/11/27/hggsp-lechec-de-la-cop31-acte-de-deces-de-la-cooperation-internationale-dans-la-lutte-contre-le-changement-climatique/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2025/12/cafepedaggoique-corentinHuneau-209x300.jpeg",
+      "publishedAt": "2026-11-27T04:30:41.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "aswftol",
+      "title": "EMC : HugoDécrypte décrypte la Ve République en BD",
+      "summary": "Après avoir entrainé ses lecteurices dans un voyage en BD de vingt siècles à travers la Russie, c’est à la découverte de l’histoire de la Ve République qu’Hugo Travers, auteur L’article EMC : HugoDécrypte décrypte la Ve République en BD est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/27/emc-hugodecrypte-decrypte-la-ve-republique-en-bd/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/HugoDecrypte-a-l-Elysee-couverture-300x300.jpg",
+      "publishedAt": "2026-11-27T04:29:19.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "a672k2f",
+      "title": "Plus de 2000 ans d’histoire de la monnaie à découvrir à la Cité de l’Économie",
+      "summary": "De l’Antiquité aux cryptoactifs, l’argent raconte le monde. La monnaie est bien plus qu’un moyen de paiement, une pièce ou un billet est le témoin très concret d’une époque. A L’article Plus de 2000 ans d’histoire de la monnaie à découvrir à la Cité de l’Économie est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/27/plus-de-2000-ans-dhistoire-de-la-monnaie-a-decouvrir-a-la-cite-de-leconomie/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/expo-or-argent-300x169.jpg",
+      "publishedAt": "2026-11-27T04:28:42.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 48,
+      "relevanceLevel": "moyenne",
+      "urgency": 68,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a5e4gyl",
@@ -151,8 +420,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ajesh99",
@@ -170,8 +439,8 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a3o5gf",
@@ -189,8 +458,8 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "aoqomyd",
@@ -205,8 +474,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
+      "urgency": 57,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ai9tge6",
@@ -221,41 +490,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 70,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "at0rxyy",
-      "title": "La Grande Lessive 2027 hisse haut l’Ecole",
-      "summary": "Manifestation d’art participatif, la prochaine Grande Lessive aura lieu le 18 mars 2027 sur le thème « Haut l’école ! ». Créée en 2006 par Joëlle Gonthier, La Grande Lessive® L’article La Grande Lessive 2027 hisse haut l’Ecole est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/26/la-grande-lessive-2027-hisse-haut-lecole/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/La-Grande-Lessive-2027-hisse-haut-lEcole-300x225.png",
-      "publishedAt": "2026-11-26T04:29:38.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école"
-      ],
-      "relevance": 81,
-      "relevanceLevel": "haute",
-      "urgency": 69,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "abk3b28",
-      "title": "Le SNCI-FO dénonce une logique de contrôle des personnels",
-      "summary": "Le SNCI-FO s’inquiète des recommandations du rapport de l’IGÉSR sur les blocages lycéens. Dans un communiqué du 24 novembre, le syndicat dénonce l’absence de réponses aux revendications matérielles des lycéens. L’article Le SNCI-FO dénonce une logique de contrôle des personnels est apparu en premier sur Le Café pédagog",
-      "link": "https://www.cafepedagogique.net/2026/11/26/le-snci-fo-refuse-une-mise-sous-pression-des-inspecteurs/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/snci-fo.png",
-      "publishedAt": "2026-11-26T04:27:48.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 69,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -271,7 +506,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 64,
+      "urgency": 52,
       "urgencyLevel": "moyenne"
     },
     {
@@ -287,124 +522,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "anu8f5s",
-      "title": "Mobilisation lycéenne : le rapport de l’inspection donne la parole aux seuls proviseurs",
-      "summary": "Une « présence préventive et prévisible des forces de l’ordre », une « réponse disciplinaire et pénale rapide », une sécurisation juridique des obligations de service : ce sont trois L’article Mobilisation lycéenne : le rapport de l’inspection donne la parole aux seuls proviseurs est apparu en premier sur Le Café pédag",
-      "link": "https://www.cafepedagogique.net/2026/11/26/mobilisation-lyceenne-le-rapport-de-linspection-donne-la-parole-aux-seuls-proviseurs/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/IGESR-253x300.png",
-      "publishedAt": "2026-11-26T05:00:20.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 60,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ap0xcyp",
-      "title": "UdPPC : « Nos collègues ont besoin de continuité »",
-      "summary": "En cette année scolaire aux enjeux particulièrement cruciaux pour l’Ecole, le Café pédagogique a souhaité mettre en lumière les associations enseignantes, leur engagement et leurs projets. Pour le quatrième volet L’article UdPPC : « Nos collègues ont besoin de continuité » est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/26/udppc-nos-collegues-ont-besoin-de-continuite/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/UDPPC-PHOTOPhilippe-Goutverg-211x300.jpg",
-      "publishedAt": "2026-11-26T04:30:17.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "école",
-        "enseignant"
-      ],
-      "relevance": 64,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a2h7s39",
-      "title": "Questionnaire VSS : la case ne remplace pas les mots",
-      "summary": "Depuis le 2 novembre, les élèves de la grande section de maternelle à la terminale sont invités à remplir un questionnaire de repérage des violences sexistes et sexuelles. Pour Samuel L’article Questionnaire VSS : la case ne remplace pas les mots est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/26/questionnaire-vss-la-case-ne-remplace-pas-les-mots/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Samuel-Lequette-300x300.jpeg",
-      "publishedAt": "2026-11-26T04:35:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agcogvz",
-      "title": "L’utilisation politique de la sanction scolaire",
-      "summary": "Le conseil de discipline à la main du DASEN : « Qui peut se satisfaire d’une société où l’état d’exception devient ainsi la norme » demande Edmond Porra en pointant les dérives politiques L’article L’utilisation politique de la sanction scolaire est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/26/lutilisation-politique-de-la-sanction-scolaire/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/Edmond-Porra-Cafe-pedagogique-225x300.jpg",
-      "publishedAt": "2026-11-26T04:45:03.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aeb4nyl",
-      "title": "Le Bup physique-chimie de novembre est paru",
-      "summary": "Comment faire revivre les expériences fondatrices de la physique, approfondir les outils mathématiques et explorer les phénomènes astrophysiques ? Ce numéro du Bup propose un parcours riche entre histoire des sciences, L’article Le Bup physique-chimie de novembre est paru est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/26/le-bup-physique-chimie-de-novembre-est-paru/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/bup-213x300.png",
-      "publishedAt": "2026-11-26T04:29:31.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "akikhed",
-      "title": "À Ajaccio, une exposition plonge dans les profondeurs de l’océan",
-      "summary": "Et si l’art nous emmenait à la découverte des abysses ? Jusqu’au 14 février 2027, le Palais Fesch – musée des Beaux-Arts d’Ajaccio présente l’exposition « Affundà, l’expédition… ». Les L’article À Ajaccio, une exposition plonge dans les profondeurs de l’océan est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/26/a-ajaccio-une-exposition-plonge-dans-les-profondeurs-de-locean/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/corse-230x300.png",
-      "publishedAt": "2026-11-26T04:28:52.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "astycez",
-      "title": "Explorer l’univers de Simone Fattal au Musée d’Art Moderne",
-      "summary": "Le Musée d’Art Moderne de Paris consacre jusqu’au 24 janvier 2027, une rétrospective à Simone Fattal, artiste libano-américaine, née en 1942 à Damas, et installée à Paris depuis de nombreuses L’article Explorer l’univers de Simone Fattal au Musée d’Art Moderne est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/26/explorer-lunivers-de-simone-fattal-au-musee-dart-moderne/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/simone-fattal-199x300.png",
-      "publishedAt": "2026-11-26T04:28:12.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 59,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -420,7 +538,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 48,
       "urgencyLevel": "moyenne"
     },
     {
@@ -438,7 +556,23 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 56,
+      "urgency": 47,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "agudsjj",
+      "title": "Five reasons why we should still make things with our hands",
+      "summary": "It’s 7 a.m. Still dark outside. “Alex, time to wake up! You have a busy day ahead, with an important meeting at 8:30,” announces the alarm in a soft but firm voice. Alex wakes up immediately, already thinking about the presentation that still needs a few finishing touches. In the kitchen, the coffee machine, set up for",
+      "link": "https://theconversation.com/five-reasons-why-we-should-still-make-things-with-our-hands-297451",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-25T16:32:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 41,
       "urgencyLevel": "moyenne"
     },
     {
@@ -456,7 +590,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -474,23 +608,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agudsjj",
-      "title": "Five reasons why we should still make things with our hands",
-      "summary": "It’s 7 a.m. Still dark outside. “Alex, time to wake up! You have a busy day ahead, with an important meeting at 8:30,” announces the alarm in a soft but firm voice. Alex wakes up immediately, already thinking about the presentation that still needs a few finishing touches. In the kitchen, the coffee machine, set up for",
-      "link": "https://theconversation.com/five-reasons-why-we-should-still-make-things-with-our-hands-297451",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-25T16:32:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -506,7 +624,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -522,7 +640,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -538,13 +656,13 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
       "id": "awir5er",
       "title": "Qui était Bérénice, antique souveraine juive à la réputation sulfureuse ?",
-      "summary": "*Juive de Tanger*, peinture de Charles Zacharie Landelle, 1866. Wikimédia L’ESSENTIEL L’Opéra de Paris est au cœur d’une polémique pour avoir présenté l’antique reine juive Bérénice comme une « princesse africaine » dans un texte sur l’opéra de Mozart, La Clémence de Titus. » La prestigieuse institution affirme avoir f",
+      "summary": "*Juive de Tanger*, peinture de Charles Zacharie Landelle, 1866. Wikimédia L’ESSENTIEL L’Opéra de Paris est au cœur d’une polémique pour avoir présenté l’antique reine juive Bérénice comme une « princesse africaine » dans un texte sur l’opéra de Mozart, La Clémence de Titus. La prestigieuse institution affirme avoir fai",
       "link": "https://theconversation.com/qui-etait-berenice-antique-souveraine-juive-a-la-reputation-sulfureuse-297433",
       "image": "https://images.theconversation.com/files/774191/original/file-20261125-76-agmd1x.png?ixlib=rb-4.1.1&amp;rect=0%2C92%2C1202%2C801&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
       "publishedAt": "2026-11-25T16:12:52.000Z",
@@ -554,7 +672,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 40,
       "urgencyLevel": "moyenne"
     },
     {
@@ -572,8 +690,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
+      "urgency": 37,
+      "urgencyLevel": "basse"
     },
     {
       "id": "at2az8f",
@@ -590,121 +708,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ahp1skg",
-      "title": "Replay - La dette publique, faut-il en avoir peur ?",
-      "summary": "La dette publique s’invite dans tous les débats, particulièrement à l’approche de l’élection présidentielle. Mais derrière les chiffres et les discours alarmistes, que sait-on réellement de l’endettement de la France ? Contrairement à un ménage, un État peut emprunter sur le long terme et financer ses dépenses autremen",
-      "link": "https://theconversation.com/replay-la-dette-publique-faut-il-en-avoir-peur-297547",
-      "image": "https://counter.theconversation.com/content/297547/count.gif",
-      "publishedAt": "2026-11-25T10:11:52.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 46,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayaewmd",
-      "title": "Retour de Jensen Huang chez Nvidia : un précédent qui pourrait s’avérer désastreux pour les conseils d’administration",
-      "summary": "L’ESSENTIEL Évincé, Jensen Huang a retrouvé la tête de Nvidia 11 jours plus tard, après une campagne que Donald Trump aurait pilotée. Laisser en poste un dirigeant pris en faute favoriserait la récidive, le second épisode étant souvent plus grave que le premier. L’affaire Nvidia pourrait créer un précédent, en montrant",
-      "link": "https://theconversation.com/retour-de-jensen-huang-chez-nvidia-un-precedent-qui-pourrait-saverer-desastreux-pour-les-conseils-dadministration-297454",
-      "image": "https://counter.theconversation.com/content/297454/count.gif",
-      "publishedAt": "2026-11-25T08:46:45.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aqsj5ec",
-      "title": "De champion olympique à présidentiable : Les habits – pas très neufs – du candidat Teddy Riner",
-      "summary": "L’ESSENTIEL Auréolé de titres sur le terrain sportif, Teddy Riner se lance dans l’arène politique. Sa candidature inattendue à l’élection présidentielle, sans expérience politique, a pu être jugée disruptive. Pourtant, son annonce s’appuie sur des codes de présidentiabilité classiques plus que sur ce capital symbolique",
-      "link": "https://theconversation.com/de-champion-olympique-a-presidentiable-les-habits-pas-tres-neufs-du-candidat-teddy-riner-297078",
-      "image": "https://counter.theconversation.com/content/297078/count.gif",
-      "publishedAt": "2026-11-24T15:10:36.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 45,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "amp91t8",
-      "title": "L’issue de la COP31 était-elle prévisible ? Ce que montre l’analyse des discours en ligne",
-      "summary": "L’ESSENTIEL La COP31 devait être la COP de la mise en œuvre politique de l’accord de Paris. Des chercheurs ont passé au crible les discours en ligne relatifs au sommet pour voir dans quelle mesure cela fut le cas. L’analyse des échanges tenus sur le réseau social X montre que les publications sur le cadrage des négocia",
-      "link": "https://theconversation.com/lissue-de-la-cop31-etait-elle-previsible-ce-que-montre-lanalyse-des-discours-en-ligne-297305",
-      "image": "https://images.theconversation.com/files/773844/original/file-20261124-62-ovop21.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "publishedAt": "2026-11-24T17:29:25.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 36,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "a948w3k",
-      "title": "Rapports sexuels sans envie : que cache le « pour faire plaisir » ?",
-      "summary": "Parmi les 18-21 ans, plus d’une femme sur trois déclare avoir eu un acte sexuel pour faire plaisir à l’autre, contre environ un homme sur six. Claudia Love/Unsplash, CC BY L’ESSENTIEL La Journée de lutte contre les violences faites aux femmes a lieu le 25 novembre. Près de dix ans après #MeToo, les violences sexuelles ",
-      "link": "https://theconversation.com/rapports-sexuels-sans-envie-que-cache-le-pour-faire-plaisir-296661",
-      "image": "https://images.theconversation.com/files/772800/original/file-20261118-64-b3xw1u.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C6000%2C4000&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-24T15:09:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "inclusion",
-      "keywords": [
-        "violences"
-      ],
-      "relevance": 66,
-      "relevanceLevel": "moyenne",
-      "urgency": 35,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "advl2c5",
-      "title": "Après le RGPD, l’AI Act peut-il devenir une norme mondiale ?",
-      "summary": "L’ESSENTIEL Le règlement européen de protection des données (RGPD) a provoqué une diffusion de pratiques, voire de législations, au-delà des frontières de l’Europe. L’AI Act européen pourrait avoir le même type d’influence. Sa diffusion hors des frontières européennes dépendra notamment de la capacité des entreprises à",
-      "link": "https://theconversation.com/apres-le-rgpd-lai-act-peut-il-devenir-une-norme-mondiale-296553",
-      "image": "https://counter.theconversation.com/content/296553/count.gif",
-      "publishedAt": "2026-11-24T15:11:34.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 35,
-      "urgencyLevel": "basse"
-    },
-    {
-      "id": "anjeb7n",
-      "title": "La scolarité, premier facteur influençant la santé mentale des jeunes, d’après une étude nationale menée auprès des 11‑24 ans",
-      "summary": "L’ESSENTIEL L’étude Mentalo est une enquête nationale menée depuis 2024 pour mesurer le bien-être des jeunes de 11 ans à 24 ans. La scolarité arrive en tête dans les facteurs décrits comme cause d’altération de leur santé mentale par les jeunes interrogés dans l’enquête. Dans cette enquête, les filles – et en particuli",
-      "link": "https://theconversation.com/la-scolarite-premier-facteur-influencant-la-sante-mentale-des-jeunes-dapres-une-etude-nationale-menee-aupres-des-11-24-ans-296792",
-      "image": "https://counter.theconversation.com/content/296792/count.gif",
-      "publishedAt": "2026-11-24T15:11:07.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 35,
+      "urgency": 37,
       "urgencyLevel": "basse"
     }
   ]
