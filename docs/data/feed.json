@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:25:52.232Z",
+  "generatedAt": "2026-11-27T01:29:42.642Z",
   "themes": [
     {
       "id": "education-medias",
@@ -119,24 +119,6 @@
   "count": 35,
   "items": [
     {
-      "id": "a5e4gyl",
-      "title": "Des centaines de problèmes résolus par l’IA : une menace pour l’avenir des mathématiques ?",
-      "summary": "En 2026, des modèles d’intelligence artificielle ont produit des solutions à des centaines de problèmes mathématiques restés ouverts pendant des décennies. Andrew Angelov / Shutterstock L’ESSENTIEL En 2026, OpenAI et Anthropic ont annoncé que leurs solutions d'IA ont trouvé des solutions à des problèmes qui résistaient",
-      "link": "https://theconversation.com/des-centaines-de-problemes-resolus-par-lia-une-menace-pour-lavenir-des-mathematiques-297425",
-      "image": "https://images.theconversation.com/files/773870/original/file-20261027-62-aev245.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4447%2C2964&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-26T13:43:09.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "intelligence artificielle"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 87,
-      "urgencyLevel": "haute"
-    },
-    {
       "id": "apa2r8f",
       "title": "Questionnaires VSS : pourquoi la FSU demande leur suspension ?",
       "summary": "La FSU (Fédération syndicale unitaire) alerte sur les conditions de déploiement des questionnaires de repérage des violences sexistes et sexuelles (VSS). Le syndicat dénonce une élaboration précipitée, un manque de L’article Questionnaires VSS : pourquoi la FSU demande leur suspension ? est apparu en premier sur Le Caf",
@@ -151,7 +133,95 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 87,
+      "urgency": 79,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a5e4gyl",
+      "title": "Des centaines de problèmes résolus par l’IA : une menace pour l’avenir des mathématiques ?",
+      "summary": "En 2026, des modèles d’intelligence artificielle ont produit des solutions à des centaines de problèmes mathématiques restés ouverts pendant des décennies. Andrew Angelov / Shutterstock L’ESSENTIEL En 2026, OpenAI et Anthropic ont annoncé que leurs solutions d'IA ont trouvé des solutions à des problèmes qui résistaient",
+      "link": "https://theconversation.com/des-centaines-de-problemes-resolus-par-lia-une-menace-pour-lavenir-des-mathematiques-297425",
+      "image": "https://images.theconversation.com/files/773870/original/file-20261027-62-aev245.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C4447%2C2964&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-26T13:43:09.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "intelligence artificielle"
+      ],
+      "relevance": 56,
+      "relevanceLevel": "moyenne",
+      "urgency": 78,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ajesh99",
+      "title": "Innovation et souveraineté se jouent d’abord dans l’enseignement supérieur et la recherche",
+      "summary": "L’ESSENTIEL L’enseignement supérieur et la recherche sont fragilisés. Depuis quinze ans, les moyens par étudiant s’érodent. Les travaux d’évaluation économique éclairent crûment ce que l’économie française perdrait, notamment en croissance, si cette trajectoire se prolongeait C’est le paradoxe de ce début de campagne p",
+      "link": "https://theconversation.com/innovation-et-souverainete-se-jouent-dabord-dans-lenseignement-superieur-et-la-recherche-296717",
+      "image": "https://counter.theconversation.com/content/296717/count.gif",
+      "publishedAt": "2026-11-26T16:22:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [
+        "enseignement",
+        "évaluation"
+      ],
+      "relevance": 83,
+      "relevanceLevel": "haute",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "a3o5gf",
+      "title": "Sur les réseaux sociaux, le thème raciste de la « remigration » prend la forme de vidéos conçues avec l’IA",
+      "summary": "L’ESSENTIEL Alors que la « remigration » gagne du terrain dans les discours de l’extrême droite européenne, des microfictions générées par intelligence artificielle donnent forme à ce projet raciste et xénophobe. Ces vidéos au style réaliste, diffusées sur TikTok, présentent les immigrés de manière totalement stéréotyp",
+      "link": "https://theconversation.com/sur-les-reseaux-sociaux-le-theme-raciste-de-la-remigration-prend-la-forme-de-videos-concues-avec-lia-296759",
+      "image": "https://counter.theconversation.com/content/296759/count.gif",
+      "publishedAt": "2026-11-26T16:21:43.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "education-medias",
+      "keywords": [
+        "réseaux sociaux",
+        "intelligence artificielle"
+      ],
+      "relevance": 79,
+      "relevanceLevel": "haute",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "aoqomyd",
+      "title": "Amour véritable ou passion obsessionnelle ? Kierkegaard, le père de l’existentialisme, nous aide à faire la différence",
+      "summary": "L’ESSENTIEL Une histoire d’amour peut commencer par une phase d’obsession amoureuse. Mais lorsque l’obsession dure, peut-on encore parler d’amour ? Le philosophe Søren Kierkegaard (1813-1855) nous aide à comprendre en quoi l’amour véritable est celui qui libère. L’amour naissant, l’amour des premiers temps, celui de la",
+      "link": "https://theconversation.com/amour-veritable-ou-passion-obsessionnelle-kierkegaard-le-pere-de-lexistentialisme-nous-aide-a-faire-la-difference-297244",
+      "image": "https://counter.theconversation.com/content/297244/count.gif",
+      "publishedAt": "2026-11-26T16:25:20.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
+      "urgencyLevel": "haute"
+    },
+    {
+      "id": "ai9tge6",
+      "title": "Le nouveau quitte ou double de Pedro Sanchez : les élections générales espagnoles anticipées au 29 novembre 2026",
+      "summary": "L’ESSENTIEL Le socialiste Pedro Sanchez, qui dirige l’Espagne depuis 2018, a avancé à ce 29 novembre les législatives prévues pour juillet prochain. Il espère que le contexte actuel, avec notamment des revendications sociales fortes d’une bonne partie de l’électorat, lui sera favorable. Pour autant, la droite (Parti po",
+      "link": "https://theconversation.com/le-nouveau-quitte-ou-double-de-pedro-sanchez-les-elections-generales-espagnoles-anticipees-au-29-novembre-2026-297308",
+      "image": "https://images.theconversation.com/files/773692/original/file-20261123-62-x0tr4q.png?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+      "publishedAt": "2026-11-26T16:24:45.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -169,8 +239,8 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "abk3b28",
@@ -185,8 +255,8 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 77,
-      "urgencyLevel": "haute"
+      "urgency": 69,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "atu2h2l",
@@ -201,25 +271,23 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
-      "id": "a2h7s39",
-      "title": "Questionnaire VSS : la case ne remplace pas les mots",
-      "summary": "Depuis le 2 novembre, les élèves de la grande section de maternelle à la terminale sont invités à remplir un questionnaire de repérage des violences sexistes et sexuelles. Pour Samuel L’article Questionnaire VSS : la case ne remplace pas les mots est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/26/questionnaire-vss-la-case-ne-remplace-pas-les-mots/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Samuel-Lequette-300x300.jpeg",
-      "publishedAt": "2026-11-26T04:35:53.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
+      "id": "a2kheou",
+      "title": "Is AI-assisted thinking devaluing business degrees?",
+      "summary": "As AI models improve, high-quality knowledge is becoming easier to access. A degree therefore has to certify something more durable than the ability to retrieve knowledge or produce a plausible answer. It must show that a student can exercise judgement, make decisions and defend them. Since mid-September, high-school s",
+      "link": "https://theconversation.com/is-ai-assisted-thinking-devaluing-business-degrees-297066",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-25T16:18:39.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
-      "keywords": [
-        "élève"
-      ],
-      "relevance": 55,
+      "keywords": [],
+      "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -235,23 +303,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "agcogvz",
-      "title": "L’utilisation politique de la sanction scolaire",
-      "summary": "Le conseil de discipline à la main du DASEN : « Qui peut se satisfaire d’une société où l’état d’exception devient ainsi la norme » demande Edmond Porra en pointant les dérives politiques L’article L’utilisation politique de la sanction scolaire est apparu en premier sur Le Café pédagogique.",
-      "link": "https://www.cafepedagogique.net/2026/11/26/lutilisation-politique-de-la-sanction-scolaire/",
-      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/Edmond-Porra-Cafe-pedagogique-225x300.jpg",
-      "publishedAt": "2026-11-26T04:45:03.000Z",
-      "source": "Le Café pédagogique",
-      "sourceId": "cafe-pedagogique",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 48,
-      "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -270,23 +322,41 @@
       ],
       "relevance": 64,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "a2kheou",
-      "title": "Is AI-assisted thinking devaluing business degrees?",
-      "summary": "As AI models improve, high-quality knowledge is becoming easier to access. A degree therefore has to certify something more durable than the ability to retrieve knowledge or produce a plausible answer. It must show that a student can exercise judgement, make decisions and defend them. Since mid-September, high-school s",
-      "link": "https://theconversation.com/is-ai-assisted-thinking-devaluing-business-degrees-297066",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-25T16:18:39.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
+      "id": "a2h7s39",
+      "title": "Questionnaire VSS : la case ne remplace pas les mots",
+      "summary": "Depuis le 2 novembre, les élèves de la grande section de maternelle à la terminale sont invités à remplir un questionnaire de repérage des violences sexistes et sexuelles. Pour Samuel L’article Questionnaire VSS : la case ne remplace pas les mots est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/26/questionnaire-vss-la-case-ne-remplace-pas-les-mots/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2026/11/Samuel-Lequette-300x300.jpeg",
+      "publishedAt": "2026-11-26T04:35:53.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
+      "themeId": "enseignement",
+      "keywords": [
+        "élève"
+      ],
+      "relevance": 55,
+      "relevanceLevel": "moyenne",
+      "urgency": 59,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "agcogvz",
+      "title": "L’utilisation politique de la sanction scolaire",
+      "summary": "Le conseil de discipline à la main du DASEN : « Qui peut se satisfaire d’une société où l’état d’exception devient ainsi la norme » demande Edmond Porra en pointant les dérives politiques L’article L’utilisation politique de la sanction scolaire est apparu en premier sur Le Café pédagogique.",
+      "link": "https://www.cafepedagogique.net/2026/11/26/lutilisation-politique-de-la-sanction-scolaire/",
+      "image": "https://www.cafepedagogique.net/wp-content/uploads/2024/11/Edmond-Porra-Cafe-pedagogique-225x300.jpg",
+      "publishedAt": "2026-11-26T04:45:03.000Z",
+      "source": "Le Café pédagogique",
+      "sourceId": "cafe-pedagogique",
       "themeId": "enseignement",
       "keywords": [],
-      "relevance": 50,
+      "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -302,7 +372,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -318,7 +388,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -334,7 +404,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 67,
+      "urgency": 59,
       "urgencyLevel": "moyenne"
     },
     {
@@ -350,7 +420,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 63,
+      "urgency": 57,
       "urgencyLevel": "moyenne"
     },
     {
@@ -368,7 +438,7 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 62,
+      "urgency": 56,
       "urgencyLevel": "moyenne"
     },
     {
@@ -386,7 +456,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -404,7 +474,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -420,7 +490,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -436,7 +506,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -452,7 +522,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -468,7 +538,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -484,7 +554,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -502,7 +572,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -520,7 +590,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -536,7 +606,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -552,25 +622,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 51,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "a3cdhfl",
-      "title": "La croisière ne s’amuse plus : un paquebot dans la guerre des accusations entre le Cambodge et la Thaïlande",
-      "summary": "L’ESSENTIEL À Sihanoukville, au sud-ouest de Phnom Penh, la déroute d’une croisière américaine laisse ses passagers sur le quai. Un grand quotidien international les présente comme échoués dans une ville cambodgienne où l’arnaque fait loi. Reprise par un média thaïlandais, puis largement relayée sur les réseaux sociaux",
-      "link": "https://theconversation.com/la-croisiere-ne-samuse-plus-un-paquebot-dans-la-guerre-des-accusations-entre-le-cambodge-et-la-tha-lande-296168",
-      "image": "https://counter.theconversation.com/content/296168/count.gif",
-      "publishedAt": "2026-11-24T15:07:17.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "education-medias",
-      "keywords": [
-        "réseaux sociaux"
-      ],
-      "relevance": 56,
-      "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -586,7 +638,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
+      "urgency": 45,
       "urgencyLevel": "moyenne"
     },
     {
@@ -602,8 +654,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a948w3k",
@@ -620,8 +672,8 @@
       ],
       "relevance": 66,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "advl2c5",
@@ -636,8 +688,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "anjeb7n",
@@ -652,56 +704,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ayz0upz",
-      "title": "En Syrie, reconstruire au risque d’effacer les traces des crimes du régime Assad",
-      "summary": "L’ESSENTIEL En Syrie, la recherche des corps des disparus assassinés par le régime Assad se heurte aux impératifs de la reconstruction. À Damas, l’ancienne base militaire de Mazzeh, qui aurait abrité des lieux de détention et des fosses communes, doit être transformée en aéroport pour jets privés. Le projet devrait êtr",
-      "link": "https://theconversation.com/en-syrie-reconstruire-au-risque-deffacer-les-traces-des-crimes-du-regime-assad-294613",
-      "image": "https://counter.theconversation.com/content/294613/count.gif",
-      "publishedAt": "2026-11-24T15:06:54.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "ad2bg8h",
-      "title": "L’Europe reporte le contrôle des émissions de méthane de ses importations, au risque de ne pas tenir ses promesses climatiques",
-      "summary": "L’ESSENTIEL Le 19 novembre 2026, l’Union européenne a adopté un report de deux ans de la mise en application de son règlement sur les émissions de méthane du secteur de l’énergie. En cause, la crise mondiale qui règne sur le marché des hydrocarbures du fait du conflit dans le détroit d’Ormuz. Ce règlement constitue pou",
-      "link": "https://theconversation.com/leurope-reporte-le-controle-des-emissions-de-methane-de-ses-importations-au-risque-de-ne-pas-tenir-ses-promesses-climatiques-296607",
-      "image": "https://images.theconversation.com/files/773603/original/file-20261123-91-tc0x84.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-24T15:06:31.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "aygu6bm",
-      "title": "Fabriquer du fer à partir d’urine et de soleil pour sortir de notre dépendance au carbone",
-      "summary": "Vue d’artiste d’un projet de concentrateur solaire haute-température à Luc-sur-Aude (Aude), par l’association Causes Communes 11. Dessin de Nathalie Louveau, Fourni par l'auteur L’ESSENTIEL Des chercheurs ont réussi à produire du fer à partir d’énergie solaire et d’urine. Leur procédé se veut une alternative de très fa",
-      "link": "https://theconversation.com/fabriquer-du-fer-a-partir-durine-et-de-soleil-pour-sortir-de-notre-dependance-au-carbone-296990",
-      "image": "https://images.theconversation.com/files/772796/original/file-20261118-64-7rj9gn.jpg?ixlib=rb-4.1.1&amp;rect=55%2C0%2C852%2C568&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-24T15:06:15.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     }
   ]
 }
