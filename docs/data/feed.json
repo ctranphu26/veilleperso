@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:10:54.471Z",
+  "generatedAt": "2026-11-28T01:06:48.711Z",
   "themes": [
     {
       "id": "education-medias",
@@ -133,7 +133,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 82,
+      "urgency": 74,
       "urgencyLevel": "haute"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "relevance": 81,
       "relevanceLevel": "haute",
-      "urgency": 78,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 78,
+      "urgency": 70,
       "urgencyLevel": "haute"
     },
     {
@@ -185,8 +185,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 76,
-      "urgencyLevel": "haute"
+      "urgency": 67,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a2q00ow",
@@ -201,24 +201,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 74,
-      "urgencyLevel": "haute"
-    },
-    {
-      "id": "acqz2da",
-      "title": "Hongrie, Serbie : pourquoi jouer l’Est contre l’Ouest pourrait ne plus rapporter aux petits États européens",
-      "summary": "Les États d’Europe centrale et orientale et des Balkans ont vu leur poids et leur influence augmenter nettement dans la dynamique interne de l’UE à 27, mais ils s’efforcent aussi de protéger leurs liens économiques avec la Chine et la Russie. iunewind/Shutterstock L’ESSENTIEL La Hongrie et la Serbie ont longtemps culti",
-      "link": "https://theconversation.com/hongrie-serbie-pourquoi-jouer-lest-contre-louest-pourrait-ne-plus-rapporter-aux-petits-etats-europeens-297251",
-      "image": "https://images.theconversation.com/files/773406/original/file-20261117-64-l95m3i.jpg?ixlib=rb-4.1.1&amp;rect=224%2C0%2C5251%2C3500&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-27T09:17:37.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 73,
-      "urgencyLevel": "haute"
+      "urgency": 65,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "agm25b7",
@@ -235,8 +219,24 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
+    },
+    {
+      "id": "acqz2da",
+      "title": "Hongrie, Serbie : pourquoi jouer l’Est contre l’Ouest pourrait ne plus rapporter aux petits États européens",
+      "summary": "Les États d’Europe centrale et orientale et des Balkans ont vu leur poids et leur influence augmenter nettement dans la dynamique interne de l’UE à 27, mais ils s’efforcent aussi de protéger leurs liens économiques avec la Chine et la Russie. iunewind/Shutterstock L’ESSENTIEL La Hongrie et la Serbie ont longtemps culti",
+      "link": "https://theconversation.com/hongrie-serbie-pourquoi-jouer-lest-contre-louest-pourrait-ne-plus-rapporter-aux-petits-etats-europeens-297251",
+      "image": "https://images.theconversation.com/files/773406/original/file-20261117-64-l95m3i.jpg?ixlib=rb-4.1.1&amp;rect=224%2C0%2C5251%2C3500&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-27T09:17:37.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "a8l4xfm",
@@ -251,8 +251,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 72,
-      "urgencyLevel": "haute"
+      "urgency": 64,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "az04re5",
@@ -267,8 +267,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 71,
-      "urgencyLevel": "haute"
+      "urgency": 62,
+      "urgencyLevel": "moyenne"
     },
     {
       "id": "ayg4u4k",
@@ -286,7 +286,7 @@
       ],
       "relevance": 85,
       "relevanceLevel": "haute",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -304,7 +304,7 @@
       ],
       "relevance": 55,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -322,7 +322,7 @@
       ],
       "relevance": 54,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -338,7 +338,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -354,7 +354,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -370,7 +370,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -386,7 +386,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -402,7 +402,7 @@
       "keywords": [],
       "relevance": 48,
       "relevanceLevel": "moyenne",
-      "urgency": 68,
+      "urgency": 60,
       "urgencyLevel": "moyenne"
     },
     {
@@ -420,7 +420,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 65,
+      "urgency": 58,
       "urgencyLevel": "moyenne"
     },
     {
@@ -439,7 +439,7 @@
       ],
       "relevance": 83,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -458,7 +458,7 @@
       ],
       "relevance": 79,
       "relevanceLevel": "haute",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -474,7 +474,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -490,7 +490,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 57,
+      "urgency": 50,
       "urgencyLevel": "moyenne"
     },
     {
@@ -506,7 +506,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 52,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -522,23 +522,7 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 50,
-      "urgencyLevel": "moyenne"
-    },
-    {
-      "id": "axlkpsm",
-      "title": "Quiz - De la Chine antique au scandale Jensen Huang, une petite histoire du « piège amoureux »",
-      "summary": "Gravure du XIXᵉ siècle représentant Zheng Dan et Xi Shi. Wikimedia La polémique autour du patron de Nvidia Jensen Huang a remis le « piège amoureux » au cœur de l’actualité : une vieille stratégie d’influence, des cours de la Chine antique aux rivalités technologiques d’aujourd’hui. Que savez-vous de cette méthode et d",
-      "link": "https://theconversation.com/quiz-de-la-chine-antique-au-scandale-jensen-huang-une-petite-histoire-du-piege-amoureux-297551",
-      "image": "https://images.theconversation.com/files/774187/original/file-20261125-62-uvtwjq.png?ixlib=rb-4.1.1&amp;rect=0%2C203%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "publishedAt": "2026-11-25T11:38:14.000Z",
-      "source": "The Conversation (FR)",
-      "sourceId": "the-conversation-fr",
-      "themeId": "enseignement",
-      "keywords": [],
-      "relevance": 50,
-      "relevanceLevel": "moyenne",
-      "urgency": 48,
+      "urgency": 46,
       "urgencyLevel": "moyenne"
     },
     {
@@ -556,23 +540,23 @@
       ],
       "relevance": 73,
       "relevanceLevel": "haute",
-      "urgency": 47,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
-      "id": "agudsjj",
-      "title": "Five reasons why we should still make things with our hands",
-      "summary": "It’s 7 a.m. Still dark outside. “Alex, time to wake up! You have a busy day ahead, with an important meeting at 8:30,” announces the alarm in a soft but firm voice. Alex wakes up immediately, already thinking about the presentation that still needs a few finishing touches. In the kitchen, the coffee machine, set up for",
-      "link": "https://theconversation.com/five-reasons-why-we-should-still-make-things-with-our-hands-297451",
-      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
-      "publishedAt": "2026-11-25T16:32:14.000Z",
+      "id": "axlkpsm",
+      "title": "Quiz - De la Chine antique au scandale Jensen Huang, une petite histoire du « piège amoureux »",
+      "summary": "Gravure du XIXᵉ siècle représentant Zheng Dan et Xi Shi. Wikimedia La polémique autour du patron de Nvidia Jensen Huang a remis le « piège amoureux » au cœur de l’actualité : une vieille stratégie d’influence, des cours de la Chine antique aux rivalités technologiques d’aujourd’hui. Que savez-vous de cette méthode et d",
+      "link": "https://theconversation.com/quiz-de-la-chine-antique-au-scandale-jensen-huang-une-petite-histoire-du-piege-amoureux-297551",
+      "image": "https://images.theconversation.com/files/774187/original/file-20261125-62-uvtwjq.png?ixlib=rb-4.1.1&amp;rect=0%2C203%2C1920%2C1280&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+      "publishedAt": "2026-11-25T11:38:14.000Z",
       "source": "The Conversation (FR)",
       "sourceId": "the-conversation-fr",
       "themeId": "enseignement",
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 41,
+      "urgency": 43,
       "urgencyLevel": "moyenne"
     },
     {
@@ -590,8 +574,8 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "avjn0px",
@@ -608,8 +592,24 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
+    },
+    {
+      "id": "agudsjj",
+      "title": "Five reasons why we should still make things with our hands",
+      "summary": "It’s 7 a.m. Still dark outside. “Alex, time to wake up! You have a busy day ahead, with an important meeting at 8:30,” announces the alarm in a soft but firm voice. Alex wakes up immediately, already thinking about the presentation that still needs a few finishing touches. In the kitchen, the coffee machine, set up for",
+      "link": "https://theconversation.com/five-reasons-why-we-should-still-make-things-with-our-hands-297451",
+      "image": "https://images.theconversation.com/files/653322/original/file-20250305-56-uw659u.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=237&amp;fit=clip",
+      "publishedAt": "2026-11-25T16:32:14.000Z",
+      "source": "The Conversation (FR)",
+      "sourceId": "the-conversation-fr",
+      "themeId": "enseignement",
+      "keywords": [],
+      "relevance": 50,
+      "relevanceLevel": "moyenne",
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ao6qktx",
@@ -624,8 +624,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "a13wswb",
@@ -640,8 +640,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 36,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ahtr6o6",
@@ -656,8 +656,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "awir5er",
@@ -672,8 +672,8 @@
       "keywords": [],
       "relevance": 50,
       "relevanceLevel": "moyenne",
-      "urgency": 40,
-      "urgencyLevel": "moyenne"
+      "urgency": 35,
+      "urgencyLevel": "basse"
     },
     {
       "id": "ay15jq9",
@@ -690,7 +690,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "relevance": 56,
       "relevanceLevel": "moyenne",
-      "urgency": 37,
+      "urgency": 33,
       "urgencyLevel": "basse"
     }
   ]
